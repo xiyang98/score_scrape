@@ -15,6 +15,7 @@ for line in pieces.readlines():
     pageText = urlContents.content
 
     #write to a file
-    writeFile = open(filename+'.txt', 'wb')
+    writeFile = open('results/'+filename+'.txt', 'wb')
     writeFile.write(pageText)
     writeFile.close()
+    
