@@ -8,7 +8,7 @@
 URL='http://imslp.org/wiki/Category:People'
 
 while true
-do
-    URL=$(lwp-request -o links $URL | egrep -o 'http://imslp.org/.*People\&subcatfrom.*subcategories$' | sort -u)
+    do
+    URL=$(lwp-request -o links {{http://imslp.org/wiki/Category:People}} | egrep -o 'http://imslp.org/.*People\&subcatfrom.*subcategories$' | sort -u)
     echo $URL
 done

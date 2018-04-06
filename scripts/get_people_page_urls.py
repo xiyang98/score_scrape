@@ -1,5 +1,5 @@
 #!/home/jake/.virtualenvs/default/bin/python
-import urllib2
+import urllib.request
 import re
 from subprocess import Popen, PIPE, STDOUT
 
@@ -22,4 +22,4 @@ for url in open('people_results_page_urls.txt'):
     links = re.findall(r'http://imslp.org/wiki/Category:.*', output)
     people_pages = [x for x in links if x not in bad_links]
     for link in people_pages:
-        print link
+        print (link)

@@ -1,6 +1,6 @@
 #!/home/jake/.virtualenvs/default/bin/python
 import os
-import urllib2
+import urllib.request
 import lxml.html
 import re
 
@@ -38,5 +38,5 @@ for directory in os.listdir('people'):
                 with open(score_id_map, "a") as ff:
                     ff.write(id + '\t' + url + '\n')
     except:
-        print 'ERROR :: %s' % directory
+        print ('ERROR :: %s' % directory)
         continue

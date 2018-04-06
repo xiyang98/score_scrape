@@ -1,6 +1,6 @@
 #!/home/jake/.virtualenvs/default/bin/python
 import os
-import urllib2
+import urllib
 import lxml.html
 import re
 from subprocess import call
@@ -15,7 +15,7 @@ def get_item_links(parsed_html):
 
 for dir in os.listdir('people'):
     os.chdir(ROOT_DIR)
-    ITEM_DIR = os.path.join(ROOT_DIR, dir)
+    ITEM_DIR = "/Users/CarrieYang/Desktop"
     os.chdir(ITEM_DIR)
     for file in os.listdir('.'):
         if file.endswith('scores.html'):
@@ -28,4 +28,4 @@ for dir in os.listdir('people'):
                 call(wget, shell=True)
                 with open('map.txt', 'a') as mf:
                     mf.write(file + '\t' + pdf_url + '\n')
-                print "SUCCESSS :: %s\t%s" % (dir, pdf_url)
+                print ("SUCCESSS :: %s\t%s" % (dir, pdf_url))
