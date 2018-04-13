@@ -112,7 +112,8 @@ def create_composer_dir():
             piecename = url[6:url.find('(')]
             path = os.path.join(parent, piecename)
             print('final dir:',path)
-            os.makedirs(path, exist_ok=True)
+            # os.makedirs(path, exist_ok=True)
+            os.makedirs(path)
 
             completeName = os.path.join(path, "html.txt")         
             file1 = open(completeName, "w")
