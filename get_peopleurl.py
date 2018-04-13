@@ -6,7 +6,7 @@ from urllib2 import urlopen
 #from urllib.parse import urljoin
 from urlparse import urljoin
 #import http.cookiejar
-import http.cookielib
+import cookielib
 from bs4 import BeautifulSoup as bsoup
 import re
 import os
