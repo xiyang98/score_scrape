@@ -105,7 +105,7 @@ def write_score_url():
 
 def create_composer_dir():
     for url in open('results/composer_url.txt'):
-        parent = '/Users/CarrieYang/Desktop/score_scrape/composer/'+url[31:-1]
+        parent = '~/ttemp/score_scrape/composer/'+url[31:-1]
         print('write into: ', parent)
         score_links = find_score_url(url)
         for url in score_links:
