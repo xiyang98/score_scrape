@@ -1,8 +1,10 @@
 import lxml.html
-import urllib
+import urllib2
 import requests
-from urllib.request import urlopen
-from urllib.parse import urljoin
+#from urllib.request import urlopen
+from urllib2 import urlopen
+#from urllib.parse import urljoin
+from urlparse import urljoin
 import http.cookiejar
 from bs4 import BeautifulSoup as bsoup
 import re
@@ -13,8 +15,6 @@ def next_url(href):
 
 def oldid(href):
     return href and re.compile("oldid").search(href)
-
-
     
     
 # badlink = [
