@@ -108,17 +108,15 @@ def create_composer_dir():
         print('write into: ', parent)
         score_links = find_score_url(url)
         for url in score_links:
-            url = url[6:url.find('(')]
-            path = parent+'/'+url
+            piecename = url[6:url.find('(')]
+            path = os.path.join(parent, piecename)
             print('final dir:',path)
             os.makedirs(path, exist_ok=True)
 
-            name_of_file = raw_input("html")
-            completeName = os.path.join(path, name_of_file+".txt")         
+            completeName = os.path.join(path, "html.txt")         
             file1 = open(completeName, "w")
-            r = requests.get(url)
-            toFile = raw_input(r.text)
-            file1.write(toFile)
+            r = requests.get('http://imslp.org'+url)
+            file1.write(r.text)
             file1.close()
 
 
