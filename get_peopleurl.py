@@ -115,7 +115,7 @@ def create_composer_dir():
             # os.makedirs(path)
 
             completeName = os.path.join(path, "html.txt")         
-            file1 = open(completeName, "w")
+            file1 = open(completeName, "wb")
             r = requests.get('http://imslp.org'+url)
             file1.write(r.text.encode('utf-8'))
             file1.close()
