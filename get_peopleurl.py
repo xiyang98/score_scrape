@@ -109,15 +109,6 @@ def create_composer_dir():
         print('write into: ', parent)
         score_links = find_score_url(url)
 
-        # write a script to save pieces
-        piece = os.path.join(parent,'pieces.txt')
-        text = open(piece,"w")
-        for item in score_links:
-            item = 'http://imslp.org'+item
-            text.write("%s\n" % item)
-        text.close()
-
-        # 
         for url in score_links:
             piecename = url[6:url.find('(')]
             path = os.path.join(parent, piecename)
@@ -128,6 +119,14 @@ def create_composer_dir():
             r = requests.get('http://imslp.org'+url)
             file1.write(r.text.encode('utf-8'))
             file1.close()
+            
+        # write a script to save pieces
+        piece = os.path.join(parent,'pieces.txt')
+        text = open(piece,"w")
+        for item in score_links:
+            item = 'http://imslp.org'+item
+            text.write("%s\n" % item)
+        text.close()
 
 
 def parse_data():
