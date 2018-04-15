@@ -114,7 +114,7 @@ def create_composer_dir():
         text = open(piece,"w")
         for item in score_links:
             item = 'http://imslp.org'+item
-            text.write("%s\n" % item.encode('utf-8'))
+            text.write("%s\n" % item)
         text.close()
 
         # 
