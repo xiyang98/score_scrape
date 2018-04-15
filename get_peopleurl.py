@@ -110,7 +110,8 @@ def create_composer_dir():
         score_links = find_score_url(url)
 
         # write a script to save pieces
-        text = open("pieces.txt","w")
+        piece = os.path.join(parent,'pieces.txt')
+        text = open(piece,"w")
         for item in score_links:
             item = 'http://imslp.org'+item
             text.write("%s\n" % item.encode('utf-8'))
