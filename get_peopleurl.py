@@ -102,24 +102,50 @@ def write_score_url():
         # TODO: add Id using oldid function
     text.close()
 
+
 def create_composer_dir():
     for url in open('results/composer_url.txt'):
         parent = 'composer/'+url[31:-1]
         print('write into: ', parent)
         score_links = find_score_url(url)
+
+        # write a script to save pieces
+        text = open("pieces.txt","w")
+        for item in score_links:
+            item = 'http://imslp.org'+item
+            text.write("%s\n" % item.encode('utf-8'))
+        text.close()
+
+        # 
         for url in score_links:
             piecename = url[6:url.find('(')]
             path = os.path.join(parent, piecename)
             print('final dir:',path)
             os.makedirs(path, exist_ok=True)
-            # os.makedirs(path)
-
             completeName = os.path.join(path, "html.txt")         
             file1 = open(completeName, "wb")
             r = requests.get('http://imslp.org'+url)
             file1.write(r.text.encode('utf-8'))
             file1.close()
 
+
+def parse_data():
+    for url in open('results/composer_url.txt'):
+        parent = 'composer/'+url[31:-1]
+        for url in score_links:
+            piecename = url[6:url.find('(')]
+            path = os.path.join(parent, piecename)
+            completeName = os.path.join(path, "html.txt")     
+            text = open(completeName, "r")  
+            soup = bsoup(text.read(), "html.parser")
+            # get ID and size
+            result = soup.find_all('span', class_='we_file_info2')
+            for piece in result:
+                a = piece.find_all(string=True)
+                fileID = a[1]
+                filesize = a[2][3:a.find(",")]
+
+    
 
 # def create_piece_dir():
 #     for url in open('results/composer_url.txt'):
