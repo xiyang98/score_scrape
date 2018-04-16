@@ -108,30 +108,25 @@ def create_composer_dir():
         parent = 'composer/'+url[31:-1]
         print('write into: ', parent)
         score_links = find_score_url(url)
+        if score_links != []:
+            for url in score_links:
+                piecename = url[6:url.find('(')]
+                path = os.path.join(parent, piecename)
+                print('final dir:',path)
+                os.makedirs(path, exist_ok=True)
+                completeName = os.path.join(path, "html.txt")         
+                file1 = open(completeName, "wb")
+                r = requests.get('http://imslp.org'+url)
+                file1.write(r.text.encode('utf-8'))
+                file1.close()
 
-        for url in score_links:
-            print(url)
-            piecename = url[6:url.find('(')]
-            print(piecename)
-            path = os.path.join(parent, piecename)
-            print('final dir:',path)
-            os.makedirs(path, exist_ok=True)
-            completeName = os.path.join(path, "html.txt")         
-            file1 = open(completeName, "wb")
-            r = requests.get('http://imslp.org'+url)
-            file1.write(r.text.encode('utf-8'))
-            file1.close()
-
-        # # write a script to save pieces
-        piece = 'pieces.txt'
-        # print ("Current path is: ", (parent))
-        # print ("Trying to open: " ,(os.path.join(parent, piece)))
-        # try:
-        text = open(os.path.join(parent, piece),"w+")
-        for item in score_links:
-            item = 'http://imslp.org'+item
-            text.write("%s\n" % item)
-        text.close()
+            # # write a script to save pieces
+            piece = 'pieces.txt'
+            text = open(os.path.join(parent, piece),"w+")
+            for item in score_links:
+                item = 'http://imslp.org'+item
+                text.write("%s\n" % item)
+            text.close()
         # except:
         #     pass
 
