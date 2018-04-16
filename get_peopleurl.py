@@ -122,10 +122,9 @@ def create_composer_dir():
 
         # write a script to save pieces
         piece = parent + '/pieces.txt'
-        text = open(piece,"w")
+        text = open(piece,"w+")
         for item in score_links:
             item = 'http://imslp.org'+item
-            print(item)
             text.write("%s\n" % item)
         text.close()
 
