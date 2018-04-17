@@ -144,7 +144,7 @@ def create_dir():
                 os.makedirs(path, exist_ok=True)
                 completeName = os.path.join(path, "html.txt")
                 if os.path.exists(completeName):
-                    break
+                    continue
                 file1 = open(completeName, "wb")
                 r = requests.get('http://imslp.org'+url)
                 file1.write(r.text.encode('utf-8'))
@@ -154,7 +154,7 @@ def create_dir():
             piece = 'pieces.txt'
             fullpath = os.path.join(parent, piece)
             if os.path.exists(fullpath):
-                    break
+                    continue
             text = open(fullpath,"w+")
             for item in score_links:
                 item = 'http://imslp.org'+item
