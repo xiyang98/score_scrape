@@ -95,6 +95,8 @@ def find_score_url(url):
     soup = bsoup(r.text, "html.parser")
     # add everything on the first page to the list
     result = soup.find_all('div', class_="jq-ui-tabs" )
+    if result == []:
+        return "badlink"
     scores = result[0].find_all('a',class_='categorypagelink')
     url_list = [link.get('href') for link in scores]
     # check sub-page
@@ -127,10 +129,13 @@ def create_dir():
     This function create directory for each composer, 
     and for each composer, seperate score folder
     """
+    badlinks = []
     for url in open('results/people_url.txt'):
         parent = 'results/composer/'+url[31:-1]
         print('write into: ', parent)
         score_links = find_score_url(url)
+        if score_links == "badlink":
+            badlinks += url
         if score_links != []:
             for url in score_links:
                 piecename = url[6:url.find('(')]
