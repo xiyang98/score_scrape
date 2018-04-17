@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Symphony No.1, Op.55 (Elgar, Edward) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Symphony_No.1,_Op.55_(Elgar,_Edward)", "wgTitle": "Symphony No.1, Op.55 (Elgar, Edward)", "wgCurRevisionId": 2552793, "wgArticleId": 39959, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with First Editions", "Scores published by Novello", "Scores with links to Amazon", "OM Parts", "Karg-Elert, Sigfrid/Arranger", "Scores", "Elgar, Edward", "Romantic style", "Early 20th century", "Symphonies", "For orchestra", "Scores featuring the orchestra", "For piano (arr)", "For 1 player", "Scores featuring the piano", "Pages with arrangements", "Works first published in 1908", "Works first published in the 20th century", "Pages with parts for purchase", "A-flat major", "Richter, Hans/Dedicatee"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Symphony_No_1_Op_55_Elgar_Edward action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Symphony_No.1,_Op.55_(Elgar,_Edward)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Symphony_No.1,_Op.55_(Elgar,_Edward)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Symphony_No.1,_Op.55_(Elgar,_Edward)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Symphony_No.1,_Op.55_(Elgar,_Edward)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Symphony_No.1,_Op.55_(Elgar,_Edward)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Symphony_No.1,_Op.55_(Elgar,_Edward)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Symphony_No.1,_Op.55_(Elgar,_Edward)&amp;oldid=2552793" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Symphony%20No.1%2C%20Op.55%20%28Elgar%2C%20Edward%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Symphony No.1, Op.55 (Elgar, Edward)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 movements
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1907-08
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Symphonies&amp;transclude=Template:Catintro">Symphonies</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra&amp;transclude=Template:Catintro">For orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="expandline" title="3 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Symphony No.1, Op.55","composer":"Elgar, Edward","comphref":"\/wiki\/Category:Elgar,_Edward"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"symphony no 1","itunes":"symphony no 1","composer":"elgar","scorekeywords":"symphony no 1","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=34;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356729650.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356729650.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356729650","desc":"ELGAR, E.: Symphony No. 1 \/ Falstaff, Op. 68 (Elgar)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"London Symphony Orchestra","country":"United Kingdom","catid":"0724356729650","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0077776451152.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0077776451152.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0077776451152","desc":"ELGAR, E.: Symphony No. 1 \/ Cockaigne, &quot;In London Town&quot; (Barbirolli)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Barbirolli, John -- Philharmonia Orchestra","country":"United Kingdom","catid":"0077776451152","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947893547.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947893547.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947893547","desc":"ELGAR, E.: Symphony No. 1 (Berlin Staatskapelle, Barenboim)","label":"Decca","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Barenboim, Daniel -- Berlin Staatskapelle","country":"United Kingdom","catid":"00028947893547","cdinfo":[[["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=2966701|2966702|2966703|2966704",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028948303403.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028948303403.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028948303403","desc":"ELGAR, E.: Symphony No. 1 (Royal Philharmonic, Previn)","label":"Decca","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Previn, Andr\u00e9 -- Royal Philharmonic Orchestra","country":"United Kingdom","catid":"00028948303403","cdinfo":[[["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=2990458|2990459|2990460|2990461",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356976153.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356976153.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356976153","desc":"ELGAR, E.: Symphonies Nos. 1 and 2 \/ Pomp and Circumstance March No. 5 (Philharmonia Orchestra, Haitink)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Haitink, Bernard -- Philharmonia Orchestra","country":"United Kingdom","catid":"0724356976153","cdinfo":[[["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=1151244|1151245|1151246|1151247",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]],["5 Military Marches, Op. 39, \"Pomp and Circumstance\": No. 5 in C Major","mediaplayer\/player.asp?br=128&tl=1151259",[]]]]],[["Elgar, Edward",[["Symphony No. 2 in E-Flat Major, Op. 63","mediaplayer\/player.asp?br=128&tl=1151260|1151261|1151262|1151263",["I. Allegro vivace e nobilmente","II. Larghetto","III. Rondo: Presto","IV. Moderato e maestoso"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ICAC5063.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ICAC5063.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DICAC5063","desc":"BRAHMS, J.: Symphony No. 3 \/ ELGAR, E.: Symphony No. 1 (BBC Symphony, Boult)","label":"ICA Classics","category":"Orchestral - Classical Music","composer":"Elgar, Edward -- Brahms, Johannes","artist":"Boult, Adrian -- BBC Symphony Orchestra","country":"Germany United Kingdom","catid":"ICAC5063","cdinfo":[[["Brahms, Johannes",[["Symphony No. 3 in F Major, Op. 90","mediaplayer\/player.asp?br=128&tl=1332509|1332510|1332511|1332512",["I. Allegro con brio - Un poco sostenuto","II. Andante","III. Poco allegretto","IV. Allegro - Un poco sostenuto"]]]],["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=1332513|1332514|1332515|1332516",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ICAC5019.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ICAC5019.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DICAC5019","desc":"BRAHMS, J.: Symphony No. 1 \/ ELGAR, E.: Enigma Variations (BBC Symphony, Boult) (1971, 1976)","label":"ICA Classics","category":"Orchestral - Classical Music","composer":"Elgar, Edward -- Brahms, Johannes -- Not Applicable, na","artist":"Boult, Adrian -- BBC Symphony Orchestra -- Todd, John -- Ball, George Thalben","country":"Germany United Kingdom","catid":"ICAC5019","cdinfo":[[["Brahms, Johannes",[["Symphony No. 1 in C Minor, Op. 68","mediaplayer\/player.asp?br=128&tl=1049572|1049573|1049574|1049575",["I. Un poco sostenuto - Allegro","II. Andante sostenuto","III. Un poco allegretto e grazioso","IV. Adagio - Pi&#249; andante - Allegro non troppo ma con brio"]]]],["Elgar, Edward",[["Variations on an Original Theme, Op. 36, \"Enigma\"","mediaplayer\/player.asp?br=128&tl=1049589|1049590|1049576|1049577|1049578|1049579|1049580|1049581|1049582|1049583|1049584|1049585|1049586|1049587|1049588",["Introduction -","Variation 1: C. A. E. (The Composer's Wife) -","Variation 2: H. D. S-P. (Hew David Steuart-Powell) -","Variation 3: R. B. T. (Richard Baxter Townshend) -","Variation 4: W. M. B. (William Meath Baker) -","Variation 5: R. P. A. (Richard Penrose Arnold) -","Variation 6: Ysobel (Isabel Fitton) -","Variation 7: Troyte (Troyte Griffith) -","Variation 8: W. N. (Winifred Norbury) -","Variation 9: Nimrod (A. J. Jaeger) -","Variation 10: Intermezzo: Dorabella (Dora Penny) -","Variation 11: G. R. S. (George Robertson Sinclair) -","Variation 12: B. G. N. (Basil G. Nevinson) -","Variation 13: Romanza: *** (Lady Mary Lygon) -","Variation 14: Finale: E. D. U. (The Composer)"]]]],["Unknown Composer",[["John Douglas Todd interviews Sir Adrian Boult (extract from 85th birthday broadcast)","mediaplayer\/player.asp?br=128&tl=1049591",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=LPO-0046.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=LPO-0046.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DLPO-0046","desc":"ELGAR, E.: Sea Pictures \/ Symphony No. 1(Baker, London Philharmonic, Handley)","label":"LPO","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Baker, Janet -- Handley, Vernon -- London Philharmonic Orchestra","country":"India United Kingdom","catid":"LPO-0046","cdinfo":[[["Elgar, Edward",[["Sea Pictures, Op. 37","mediaplayer\/player.asp?br=128&tl=866978|866979|866980|866981|866982",["I. Sea Slumber-Song","II. In Haven (Capri)","III. Sabbath Morning at Sea","IV. Where Corals Lie","V. The Swimmer"]]]],["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=866983|866984|866985|866986",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CDHLL7500.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CDHLL7500.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCDHLL7500","desc":"ELGAR, E.: Symphony No. 1 \/ In the South Overture, &quot;Alassio&quot; \/ In Moonlight (Elder)","label":"Halle","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Elder, Mark -- Rice, Christine -- Halle Orchestra -- Pooley, Timothy","country":"United Kingdom","catid":"CDHLL7500","cdinfo":[[["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=733410|733411|733412|733413",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]],["In the South Overture, Op. 50, \"Alassio\"","mediaplayer\/player.asp?br=128&tl=733414",[]]]],["Elgar, Edward",[["In Moonlight","mediaplayer\/player.asp?br=128&tl=733415",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724358551259.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724358551259.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724358551259","desc":"ELGAR, E.: Symphonies Nos. 1 and 2 \/ Cockaigne \/ Sospiri (Tate)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Elgar, Edward","artist":"Tate, Jeffrey -- London Symphony Orchestra","country":"United Kingdom","catid":"0724358551259","cdinfo":[[["Elgar, Edward",[["Symphony No. 1 in A-Flat Major, Op. 55","mediaplayer\/player.asp?br=128&tl=1176883|1176884|1176885|1176886",["I. Andante nobilmente e semplice - Allegro","II. Allegro molto","III. Adagio","IV. Lento - Allegro"]],["Cockaigne, Op. 40, \"In London Town\"","mediaplayer\/player.asp?br=128&tl=1176887",[]]]]],[["Elgar, Edward",[["Symphony No. 2 in E-Flat Major, Op. 63","mediaplayer\/player.asp?br=128&tl=1176901|1176902|1176903|1176904",["I. Allegro vivace e nobilmente","II. Larghetto","III. Rondo","IV. Moderato e maestoso"]],["Sospiri, Op. 70","mediaplayer\/player.asp?br=128&tl=1176905",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/elgar%20symphony%20no%201"};IMSLPNaxosSearch="elgar symphony no 1";JGaskdonation=0;JGFileTools={"56155":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=56155"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56155"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=56155","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/56155"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/56155"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56155"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2356155"}},"45504":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45504"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45504"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45504"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345504"}},"45505":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45505"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45505"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45505"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345505"}},"45506":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45506"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45506"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45506"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345506"}},"45507":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45507"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45507"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45507"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345507"}},"45508":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45508"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45508"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45508"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345508"}},"45509":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45509"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45509"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45509"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345509"}},"45510":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45510"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45510"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45510"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345510"}},"45511":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45511"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45511"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45511"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345511"}},"45512":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45512"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45512"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45512"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345512"}},"20138":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP20138"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/20138"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/20138"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/20138"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2320138"}},"45513":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45513"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45513"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45513"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345513"}},"45514":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45514"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45514"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45514"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345514"}},"45515":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45515"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45515"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45515"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345515"}},"45516":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45516"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45516"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45516"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345516"}},"27955":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP27955"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/27955"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/27955"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2327955"}},"45517":{"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/45504\/45505\/45506\/45507\/45508\/45509\/45510\/45511\/45512\/20138\/45513\/45514\/45515\/45516\/27955\/45517\/9051"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP45517"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/45517"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/45517"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2345517"}},"16660":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=16660"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP16660"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=16660","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/16660"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/16660"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Symphony+No.1%2C+Op.55+%28Elgar%2C+Edward%29&frmTitle=IMSLP+%2316660"}}};JGFileOpts={"56155":[],"45504":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhhyle5ZTE8PGJf+jDwRO\/vP7OtIPWGtnbupIBi1HlzLtdZ2M5rReWZydaD\/HczPzSrq6Msz30+Rhxh2HpgCdRt"},"45505":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhvfj666XUGnmMf6yXaoGH364jLgRcfyUgguGwtnPNfwvCKkGZlJBpsFJN6ioHvEbLu7RZB0PjnEHpA6ZwVT8iG"},"45506":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhYYwJWkl17lZNWK8jgfcCqmXE5K9LpOytVM7u0qOy3ncXFVnILTJFh6ZjUg9Z9poVFtw\/gQrfqQCXaPaJgfiGy"},"45507":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjns0VP7q4V1wlVlw+MAVUYrRjZS\/Oxz17GTj2wRVzgv7G7+rPlyIynkqS73cU3YqYbjtckw8ljjn37tM014hAU"},"45508":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biaYHyrUXkB3NrL0exPnqF9apML258dtifsJA2cIYckj6c4MokdDJ\/TlZZiDTXrq8DaT6H3eVgxZyb7kQSx91Uk"},"45509":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bisz42SRy49ptOOCTkuUkNMM7Zxl9r6qR5AKgPSXcTsRMQnyCUkPpT2jVq8MaicudUL0BtttQBT0NDSU2x564yX"},"45510":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biEmrQSI+UjTUeAk4tlV6g2R26XYWS7LQWpVde\/kulxMW\/iVj7TIamG9OnXt7rLXsvjV90xtJtoaMj9RY6Mx0d2"},"45511":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bisdIGlld7yEiQVEww2QoKFJJW19GE+wyD+MMWjgkX5JSFgq4Ot9EKpxe1oTLhAVaaJTIusI+2tj24rx4T6\/XNL"},"45512":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhoJrU0Rr6fN6nVSSbqH9AeyTzt8qSUnBEIfSaVn4W\/1WZbje55y4l\/RIMYMtegpigGJx4YIz8fRaj9DRgTfmgY"},"20138":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi8DVUk\/M\/rapDyYvDhpBxakhH3XG9A4q6MOPkazaHAGoHPU\/o1npG6bXtNd+5CZjjiiCGX8gsDoHn77YL4pAej"},"45513":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjkuHqBx2vhgZcAsm4+\/P6LLNVd3fFmB8WpAr7GFFsPIj7ogU5wp5rusT58otSRjrBr2UISvApz4rJQERdAVsGS"},"45514":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgBRWsxJsRd+zb5ro+ed9doaka7Jpp6+jTwUEbrx13bVN0YLkV6aMQEWtuzYRs5EzELlNvMfCVB0en88cjAjDRu"},"45515":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bho9TzPI83IMXgZTcvECaxBCwkXS\/MzUtGlMJtWIUjFIxdHvjFnCiMnmUw6wHPcpUd5knQCP0VXNZ4VVQmJ0fCv"},"45516":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bho9TzPI83IMXgZTcvECaxBKSaO7pHL3bX3PQGhLm+2rCtb5a0UWE9gidrZNdWeletXoUB7dw9qp5u\/\/sH8tHjW"},"27955":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhnHbj4YtZlIzLIlasmLV4EOnASVLizDfGM1nO9qxZxgAshE0qRAoaS2I\/0OeKyBJV\/sqZyqrd+UQYv15LTnRo7uRmD+tR74E0nmpArYJXU+w=="},"45517":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjCoaUreAVZlT9OhK0a1iEb\/ePpipUZKq1p5R6RthEvDw0UJGwWEgyRERsmJNaYZ\/REfs0fl7V1PD57uWDpcaDk"},"16660":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjjAGGxuffIs\/9yRKwWtRNYHJV3\/GaIGuB8Fk+R6+sKLdr7dyz5TE52CWGGk6TAwgA7pjbHWhkDP8ZoML3shXQa3Fbsm7Lk\/PHI\/nFEsPf+sA=="}};JGPageUntagged=false;JGPageTags=["symphonies","orch"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"16660":[9.3333333333333,"3"],"20138":[6.4,"5"],"27955":[6.1428571428571,"7"],"45504":[7.3333333333333,"3"],"45505":[6,"2"],"45506":[4,"1"],"45507":[6.5,"4"],"45508":[4,"2"],"45509":[4,"2"],"45511":[3.3333333333333,"3"],"45512":[2,"2"],"45513":[7.3333333333333,"3"],"45514":[8.6666666666667,"3"],"45515":[8,"4"],"45516":[5.4285714285714,"7"],"56155":[5.5714285714286,"14"],"45510":[0,0],"45517":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.3</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Piano_solo_.28Karg-Elert.29"><span class="tocnumber">2.3.1</span> <span class="toctext">For Piano solo (Karg-Elert)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">16</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">1</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<div class="we"><div id="IMSLP56155" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56155"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/89/PMLP39959-Elgar_-_Symphony_No._1%2C_Op._55_%28orch._score%29.pdf" class="internal" title="PMLP39959-Elgar - Symphony No. 1, Op. 55 (orch. score).pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar_-_Symphony_No._1,_Op._55_(orch._score).pdf" title="File:PMLP39959-Elgar - Symphony No. 1, Op. 55 (orch. score).pdf">#56155</a> - <span style="color:red"><b>24.99</b></span>MB, 168 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56155' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56155'>
+	<a href='javascript:void(0)' id='56155' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56155' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56155' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56155' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56155' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56155'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56155/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/56155/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 14858"><a href="/wiki/Special:GetFCtrStats/@56155" title="Special:GetFCtrStats/@56155">14858</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Daphnis" title="User:Daphnis">Daphnis</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Timtin<br />
+<a href="/wiki/User:Daphnis" title="User:Daphnis">Daphnis</a> (<span title="Updated: 2010/2/16" class="hovertext">2010/2/15</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: <a href="/wiki/Novello" title="Novello">Novello &amp; Co.</a><!--ASL0-->, 1908.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>London: <a href="/wiki/Ernst_Eulenburg" title="Ernst Eulenburg" class="mw-redirect">Ernst Eulenburg</a>, Ed.8005, n.d.(1985). Plate E.E. 6768.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=56155">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=56155">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>600dpi
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="56155">Javascript is required for this feature.</div><script>JGINITsearchbars['56155']={"isbn":{"isbnarr":[{"text":"Dover vol. (reprint)","isbn":"ASIN:0486408558"}]},"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=56155&type=Complete%20Score&pgcount=168&signature=8bc3411529772cd755d1a8e58ab37f94ee8ca17f"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP39959-Elgar_-_Symphony_No._1,_Op._55_(orch._score).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/89/6b753cd8c456f530655fd13b63982d07df95d792.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP45504" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45504"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1, 2, 3/Piccolo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/13/PMLP39959-Elgar-Sym1.Flute.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Flute.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Flute.pdf" title="File:PMLP39959-Elgar-Sym1.Flute.pdf">#45504</a> - 3.56MB, 40 (15, 15, 10) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45504' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45504'>
+	<a href='javascript:void(0)' id='45504' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45504' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45504' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45504' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45504' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45504'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45504/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45504/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1767"><a href="/wiki/Special:GetFCtrStats/@45504" title="Special:GetFCtrStats/@45504">1767</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>15 more</u>:</b> Oboe 1, 2, English Horn • Clarinet 1, 2 (in B&#x266d;) • Bass Clarinet (in B&#x266d;) • Bassoon 1, 2 • Contrabassoon • Horn 1, 2, 3, 4 (in F) • Trumpet 1, 2, 3 (in B&#x266d;) • Trombone 1, 2, 3, Tuba • Small Drum, Bass Drum and Cymbals, Timpani • Harp 1/2 • Violins I • Violins II • Violas • Cellos • Basses
+</p>
+</div><div id="IMSLP45505" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45505"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1, 2, English Horn</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c3/PMLP39959-Elgar-Sym1.Oboe.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Oboe.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Oboe.pdf" title="File:PMLP39959-Elgar-Sym1.Oboe.pdf">#45505</a> - 3.05MB, 34 (12, 11, 11) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45505' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45505'>
+	<a href='javascript:void(0)' id='45505' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45505' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45505' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45505' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45505' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45505'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45505/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45505/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1461"><a href="/wiki/Special:GetFCtrStats/@45505" title="Special:GetFCtrStats/@45505">1461</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45506" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45506"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1, 2 (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7c/PMLP39959-Elgar-Sym1.Clarinet.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Clarinet.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Clarinet.pdf" title="File:PMLP39959-Elgar-Sym1.Clarinet.pdf">#45506</a> - 2.85MB, 31 (16, 15) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45506' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45506'>
+	<a href='javascript:void(0)' id='45506' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45506' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45506' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45506' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45506' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45506'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45506/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45506/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1496"><a href="/wiki/Special:GetFCtrStats/@45506" title="Special:GetFCtrStats/@45506">1496</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45507" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45507"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass Clarinet (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dd/PMLP39959-Elgar-Sym1.BassClar.pdf" class="internal" title="PMLP39959-Elgar-Sym1.BassClar.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.BassClar.pdf" title="File:PMLP39959-Elgar-Sym1.BassClar.pdf">#45507</a> - 0.99MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45507' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45507'>
+	<a href='javascript:void(0)' id='45507' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45507' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45507' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45507' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45507' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45507'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45507/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45507/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 956"><a href="/wiki/Special:GetFCtrStats/@45507" title="Special:GetFCtrStats/@45507">956</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45508" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45508"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e7/PMLP39959-Elgar-Sym1.Bassoon.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Bassoon.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Bassoon.pdf" title="File:PMLP39959-Elgar-Sym1.Bassoon.pdf">#45508</a> - 2.67MB, 30 (15, 15) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45508' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45508'>
+	<a href='javascript:void(0)' id='45508' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45508' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45508' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45508' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45508' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45508'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45508/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45508/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1248"><a href="/wiki/Special:GetFCtrStats/@45508" title="Special:GetFCtrStats/@45508">1248</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45509" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45509"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Contrabassoon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/68/PMLP39959-Elgar-Sym1.Cbsn.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Cbsn.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Cbsn.pdf" title="File:PMLP39959-Elgar-Sym1.Cbsn.pdf">#45509</a> - 0.77MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45509' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45509'>
+	<a href='javascript:void(0)' id='45509' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45509' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45509' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45509' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45509' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45509'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45509/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45509/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 821"><a href="/wiki/Special:GetFCtrStats/@45509" title="Special:GetFCtrStats/@45509">821</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45510" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45510"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1, 2, 3, 4 (in F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8b/PMLP39959-Elgar-Sym1.Horn.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Horn.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Horn.pdf" title="File:PMLP39959-Elgar-Sym1.Horn.pdf">#45510</a> - 4.04MB, 46 (13, 12, 11, 11) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45510' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45510'>
+	<a href='javascript:void(0)' id='45510' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45510' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45510' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45510' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45510' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45510'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45510/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45510/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2374"><a href="/wiki/Special:GetFCtrStats/@45510" title="Special:GetFCtrStats/@45510">2374</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45511" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45511"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1, 2, 3 (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fe/PMLP39959-Elgar-Sym1.Trumpet.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Trumpet.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Trumpet.pdf" title="File:PMLP39959-Elgar-Sym1.Trumpet.pdf">#45511</a> - 1.79MB, 23 (8, 8, 7) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45511' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45511'>
+	<a href='javascript:void(0)' id='45511' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45511' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45511' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45511' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45511' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45511'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45511/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45511/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2023"><a href="/wiki/Special:GetFCtrStats/@45511" title="Special:GetFCtrStats/@45511">2023</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45512" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45512"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1, 2, 3, Tuba</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ad/PMLP39959-Elgar-Sym1.LowBrass.pdf" class="internal" title="PMLP39959-Elgar-Sym1.LowBrass.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.LowBrass.pdf" title="File:PMLP39959-Elgar-Sym1.LowBrass.pdf">#45512</a> - 2.62MB, 32 (8, 8, 8, 8) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45512' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45512'>
+	<a href='javascript:void(0)' id='45512' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45512' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45512' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45512' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45512' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45512'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45512/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45512/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2666"><a href="/wiki/Special:GetFCtrStats/@45512" title="Special:GetFCtrStats/@45512">2666</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP20138" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/20138"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Small Drum, Bass Drum and Cymbals, Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/70/PMLP39959-Elgar_Sym1_Perc.pdf" class="internal" title="PMLP39959-Elgar Sym1 Perc.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar_Sym1_Perc.pdf" title="File:PMLP39959-Elgar Sym1 Perc.pdf">#20138</a> - 2.69MB, 1, 4, 8 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-20138' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-20138'>
+	<a href='javascript:void(0)' id='20138' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='20138' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='20138' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='20138' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='20138' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-20138'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/20138/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/20138/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1724"><a href="/wiki/Special:GetFCtrStats/@20138" title="Special:GetFCtrStats/@20138">1724</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Romanov76110" title="User:Romanov76110">Romanov76110</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Romanov76110" title="User:Romanov76110">Romanov76110</a> (<span title="Updated: 2008/8/2" class="hovertext">2008/8/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45513" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45513"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Harp 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0c/PMLP39959-Elgar-Sym1.Harp.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Harp.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Harp.pdf" title="File:PMLP39959-Elgar-Sym1.Harp.pdf">#45513</a> - 1.56MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45513' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45513'>
+	<a href='javascript:void(0)' id='45513' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45513' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45513' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45513' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45513' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45513'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45513/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45513/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1072"><a href="/wiki/Special:GetFCtrStats/@45513" title="Special:GetFCtrStats/@45513">1072</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45514" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45514"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8f/PMLP39959-Elgar-Sym1.Violin1.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Violin1.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Violin1.pdf" title="File:PMLP39959-Elgar-Sym1.Violin1.pdf">#45514</a> - 2.21MB, 23 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45514' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45514'>
+	<a href='javascript:void(0)' id='45514' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45514' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45514' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45514' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45514' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45514'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45514/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45514/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3371"><a href="/wiki/Special:GetFCtrStats/@45514" title="Special:GetFCtrStats/@45514">3371</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45515" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45515"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8c/PMLP39959-Elgar-Sym1.Violin2.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Violin2.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Violin2.pdf" title="File:PMLP39959-Elgar-Sym1.Violin2.pdf">#45515</a> - 2.51MB, 24 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45515' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45515'>
+	<a href='javascript:void(0)' id='45515' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45515' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45515' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45515' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45515' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45515'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45515/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45515/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1710"><a href="/wiki/Special:GetFCtrStats/@45515" title="Special:GetFCtrStats/@45515">1710</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45516" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45516"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8c/PMLP39959-Elgar-Sym1.Viola.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Viola.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Viola.pdf" title="File:PMLP39959-Elgar-Sym1.Viola.pdf">#45516</a> - 2.75MB, 27 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45516' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45516'>
+	<a href='javascript:void(0)' id='45516' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45516' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45516' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45516' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45516' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45516'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45516/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45516/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2149"><a href="/wiki/Special:GetFCtrStats/@45516" title="Special:GetFCtrStats/@45516">2149</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP27955" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/27955"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/92/PMLP39959-Elgar_Symphony_No.1%2C_Op.55_cello.pdf" class="internal" title="PMLP39959-Elgar Symphony No.1, Op.55 cello.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar_Symphony_No.1,_Op.55_cello.pdf" title="File:PMLP39959-Elgar Symphony No.1, Op.55 cello.pdf">#27955</a> - 2.62MB, 27 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-27955' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-27955'>
+	<a href='javascript:void(0)' id='27955' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='27955' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='27955' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='27955' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='27955' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-27955'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/27955/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/27955/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2400"><a href="/wiki/Special:GetFCtrStats/@27955" title="Special:GetFCtrStats/@27955">2400</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (<span title="Updated: 2009/2/7" class="hovertext">2009/2/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP45517" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/45517"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7a/PMLP39959-Elgar-Sym1.Bass.pdf" class="internal" title="PMLP39959-Elgar-Sym1.Bass.pdf">*</a></span><a href="/wiki/File:PMLP39959-Elgar-Sym1.Bass.pdf" title="File:PMLP39959-Elgar-Sym1.Bass.pdf">#45517</a> - 1.37MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-45517' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-45517'>
+	<a href='javascript:void(0)' id='45517' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='45517' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='45517' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='45517' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='45517' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-45517'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/45517/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/45517/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1562"><a href="/wiki/Special:GetFCtrStats/@45517" title="Special:GetFCtrStats/@45517">1562</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/11/7" class="hovertext">2009/11/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: <a href="/wiki/Novello" title="Novello">Novello</a>, 1908
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Miami: <a href="/wiki/Edwin_F._Kalmus" title="Edwin F. Kalmus">Edwin F. Kalmus</a>, n.d.(1984)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=45504/45505/45506/45507/45508/45509/45510/45511/45512/20138/45513/45514/45515/45516/27955/45517">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=45504/45505/45506/45507/45508/45509/45510/45511/45512/20138/45513/45514/45515/45516/27955/45517">del</a>/<span id="fmrglnk" data-pdfstr="45504//45505//45506//45507//45508//45509//45510//45511//45512//20138//45513//45514//45515//45516//27955//45517/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These files are part of the <a href="/wiki/IMSLP:Community_Projects/Orchestra_Parts_Project" title="IMSLP:Community Projects/Orchestra Parts Project">Orchestra Parts Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="45504">Javascript is required for this feature.</div><script>JGINITsearchbars['45504']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=45504|45505|45506|45507|45508|45509|45510|45511|45512|20138|45513|45514|45515|45516|27955|45517&type=Flute%201%2C%202%2C%203%2FPiccolo%7COboe%201%2C%202%2C%20English%20Horn%7CClarinet%201%2C%202%20%28in%20B%26%23x266d%3B%29%7CBass%20Clarinet%20%28in%20B%26%23x266d%3B%29%7CBassoon%201%2C%202%7CContrabassoon%7CHorn%201%2C%202%2C%203%2C%204%20%28in%20F%29%7CTrumpet%201%2C%202%2C%203%20%28in%20B%26%23x266d%3B%29%7CTrombone%201%2C%202%2C%203%2C%20Tuba%7CSmall%20Drum%2C%20Bass%20Drum%20and%20Cymbals%2C%20Timpani%7CHarp%201%2F2%7CViolins%20I%7CViolins%20II%7CViolas%7CCellos%7CBasses&pgcount=40|34|31|11|30|10|46|23|32|13|19|23|24|27|27|16&signature=a9d728f91a6aeb96b4902adc50879024468186b0"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP39959-Elgar-Sym1.Flute.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/13/a4ab44f63151be32ec49d6fe3c7822f7c0578085.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Karg-Elert.29">For Piano solo (Karg-Elert)</span></h5>
+<div class="we"><div id="IMSLP16660" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/16660"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/af/Elgar_op.55_Symphony_No.1_piano_2hands.pdf" class="internal" title="Elgar op.55 Symphony No.1 piano 2hands.pdf">*</a></span><a href="/wiki/File:Elgar_op.55_Symphony_No.1_piano_2hands.pdf" title="File:Elgar op.55 Symphony No.1 piano 2hands.pdf">#16660</a> - 5.28MB, 77 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-16660' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-16660'>
+	<a href='javascript:void(0)' id='16660' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='16660' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='16660' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='16660' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='16660' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-16660'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/16660/Symphony_No.1,_Op.55_(Elgar,_Edward)" title="Special:IMSLPEditCTag/16660/Symphony No.1, Op.55 (Elgar, Edward)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2921"><a href="/wiki/Special:GetFCtrStats/@16660" title="Special:GetFCtrStats/@16660">2921</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2008/4/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Karg-Elert,_Sigfrid" title="Category:Karg-Elert, Sigfrid">Sigfrid Karg-Elert</a> (1877-1933)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: <a href="/wiki/Novello" title="Novello">Novello</a>, 1909
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=16660">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=16660">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="16660">Javascript is required for this feature.</div><script>JGINITsearchbars['16660']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=16660&type=Complete%20score&pgcount=77&signature=33b49921d8ce98434d6dc4d42b1fa4c62fb1e7dc"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Elgar_op.55_Symphony_No.1_piano_2hands.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/af/0b29bafbb7f42a039df542c4de9c8c17969747aa.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Symphony No.1
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Elgar,_Edward" title="Category:Elgar, Edward">Elgar, Edward</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>Op.55
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IEE 85
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>A-flat major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 movements:
+<dl><dd>I. Andante. Nobilmente e semplice
+</dd><dd>II. Allegro molto
+</dd><dd>III. Adagio
+</dd><dd>IV. Lento — Allegro
+</dd></dl>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1907-08
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1908-12-03 in Manchester, Free Trade Hall
+<dl><dd>Hallé Orchestra, Hans Richter (conductor)
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1908
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td><a href="/wiki/Category:Richter,_Hans" title="Category:Richter, Hans">Hans Richter</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>46-55 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Orchestra</i>
+<dl><dd>3 flutes (3rd also piccolo), 2 oboes, English horn, 
+<dl><dd>2 clarinets, bass clarinet, 2 bassoons, contrabassoon
+</dd></dl>
+</dd><dd>4 horns, 3 trumpets, 3 trombones, tuba<br />timpani, percussion (snare drum, bass drum and cymbals), 2 harps, strings
+</dd></dl>
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Symphony_No._1_(Elgar)" class="extiw" title="wikipedia:Symphony No. 1 (Elgar)">Wikipedia article</a><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.elgar.org/3symph1.htm">Elgar Society</a></span>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 743/1000000
+Post-expand include size: 63891/2097152 bytes
+Template argument size: 217/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:39959-0!*!0!!en!2!* and timestamp 20180415152459 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Symphony_No.1,_Op.55_(Elgar,_Edward)&amp;oldid=2552793">http://imslp.org/index.php?title=Symphony_No.1,_Op.55_(Elgar,_Edward)&amp;oldid=2552793</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_Novello" title="Category:Scores published by Novello">Scores published by Novello</a></li><li><a href="/wiki/Category:Scores_with_links_to_Amazon" title="Category:Scores with links to Amazon">Scores with links to Amazon</a></li><li><a href="/wiki/Category:OM_Parts" title="Category:OM Parts">OM Parts</a></li><li><a href="/wiki/Category:Karg-Elert,_Sigfrid/Arranger" title="Category:Karg-Elert, Sigfrid/Arranger">Karg-Elert, Sigfrid/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Elgar,_Edward" title="Category:Elgar, Edward">Elgar, Edward</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a></li><li><a href="/wiki/Category:Symphonies" title="Category:Symphonies">Symphonies</a></li><li><a href="/wiki/Category:For_orchestra" title="Category:For orchestra">For orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1908" title="Category:Works first published in 1908">Works first published in 1908</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:A-flat_major" title="Category:A-flat major">A-flat major</a></li><li><a href="/wiki/Category:Richter,_Hans/Dedicatee" title="Category:Richter, Hans/Dedicatee">Richter, Hans/Dedicatee</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Symphony_No.1%2C_Op.55_%28Elgar%2C_Edward%29">15,954 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Symphony%20No.1%2C%20Op.55%20%28Elgar%2C%20Edward%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.560 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415152459 -->
+</html>
+		

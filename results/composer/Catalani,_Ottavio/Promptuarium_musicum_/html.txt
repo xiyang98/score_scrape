@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Promptuarium musicum (Schadaeus, Abraham) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Promptuarium_musicum_(Schadaeus,_Abraham)", "wgTitle": "Promptuarium musicum (Schadaeus, Abraham)", "wgCurRevisionId": 2538625, "wgArticleId": 291772, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from Det Kongelige Bibliotek", "Schadaeus, Abraham/Editor", "Vincent, Caspar/Editor", "Scores from Bayerische Staatsbibliothek", "Scores published by Carl Kieffer, Paul Ledertz", "Scores published by Anton Bertram, Paul Ledertz", "Scores", "Schadaeus, Abraham/Collections", "Renaissance style", "Renaissance", "Motets", "For 5 voices, continuo", "For voices with continuo", "Scores featuring the voice", "Scores with basso continuo", "For 6 voices, continuo", "For 7 voices, continuo", "For 8 voices, continuo", "For mixed chorus, continuo", "Scores featuring mixed chorus", "For chorus with continuo", "Latin language", "Works first published in 1611", "Works first published in the 17th century", "17th-century facsimiles", "Bianciardi, Francesco/Collections", "Collections", "Agazzari, Agostino/Collections", "Molinaro, Simone/Collections", "Orologio, Alessandro/Collections", "Valcampi, Curtio/Collections", "Zangius, Nikolaus/Collections", "Vecchi, Orfeo/Collections", "Canale, Floriano/Collections", "Monte, Philippe de/Collections", "Luython, Carl/Collections", "Gabrieli, Giovanni/Collections", "Vincent, Caspar/Collections", "Walliser, Christoph Thomas/Collections", "Balbi, Ludovico/Collections", "Lipparino, Guglielmo/Collections", "Massaino, Tiburtio/Collections", "Erbach, Christian/Collections", "Pallavicino, Benedetto/Collections", "Gussago, Cesario/Collections", "Viadana, Lodovico da/Collections", "Giacobbi, Girolamo/Collections", "Leoni, Leone/Collections", "Stabile, Annibale/Collections", "Hassler, Hans Leo/Collections", "Marenzio, Luca/Collections", "Croce, Giovanni/Collections", "Franck, Melchior/Collections", "Buel, Christoph/Collections", "Ballione, Gerolamo/Collections", "Croatti, Francesco/Collections", "Anonymous/Collections", "Vecchi, Orazio/Collections", "Cima, Giovanni Paolo/Collections", "Perini, Annibale/Collections", "Pacelli, Asprilio/Collections", "D\'India, Sigismondo/Collections", "Catalani, Ottavio/Collections", "Piccioni, Giovanni/Collections", "Brunetti, Domenico/Collections", "Parma, Nicola/Collections", "Palestrina, Giovanni Pierluigi da/Collections", "Strata, Giovanni Battista/Collections", "Donato, Baldassare/Collections", "Bonhomme, Pierre/Collections", "Uffereri, Giovanni Damasceno/Collections", "Ingegneri, Marc Antonio/Collections", "Gabrieli, Andrea/Collections", "Praetorius, Hieronymus/Collections", "Porta, Costanzo/Collections", "Merulo, Claudio/Collections", "Asola, Giammateo/Collections", "Grandi, Alessandro/Collections", "Ferrabosco Sr., Alfonso/Collections", "Montesardo, Girolamo/Collections", "Aichinger, Gregor/Collections", "Fabri, Stefano/Collections", "Giovannelli, Ruggiero/Collections", "Anerio, Felice/Collections", "Bona, Valerio/Collections", "Gastoldi, Giovanni Giacomo/Collections", "Handl, Jacob/Collections", "Gumpelzhaimer, Adam/Collections", "Philips, Peter/Collections", "Bassano, Giovanni/Collections", "Vulpius, Melchior/Collections", "Gesius, Bartholomäus/Collections", "Otto, Georg/Collections", "Nanino, Giovanni Bernardino/Collections", "Quagliati, Paolo/Collections", "Mensural notation"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Promptuarium_musicum_Schadaeus_Abraham action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Promptuarium_musicum_(Schadaeus,_Abraham)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Promptuarium_musicum_(Schadaeus,_Abraham)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Promptuarium_musicum_(Schadaeus,_Abraham)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Promptuarium_musicum_(Schadaeus,_Abraham)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Promptuarium_musicum_(Schadaeus,_Abraham)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Promptuarium_musicum_(Schadaeus,_Abraham)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Promptuarium_musicum_(Schadaeus,_Abraham)&amp;oldid=2538625" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Promptuarium%20musicum%20%28Schadaeus%2C%20Abraham%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Promptuarium musicum (Schadaeus, Abraham)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div><table style="padding:0.5em; margin-left:auto; margin-right:auto; background-color:rgb(245,245,245); width:70%; border:1px solid #a3bfb1"><tr><td width="42px" valign="top"><a href="/wiki/File:Ambox_notice.png" class="image"><img alt="Ambox notice.png" src="/images/c/c8/Ambox_notice.png" width="40" height="40" /></a></td><td align="center">
+This page is <b>only</b> for <b>complete</b> editions and <b>multiple selections</b> from the collection here. For arrangements, new editions, and the like see (or create) separate pages for individual works linked in the <b>General Information</b> section below.</td></tr></table></div>
+<div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 parts, 436 motets
+<dl><dd>Pars Prima: 83 motets
+</dd><dd>Pars Altera: 100 motets
+</dd><dd>Pars Tertia: 121 motets
+</dd><dd>Pars Quarta: 132 motets
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1611-1617
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Motets&amp;transclude=Template:Catintro">Motets</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_voices%2C_continuo&amp;transclude=Template:Catintro">For 5 voices, continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_continuo&amp;transclude=Template:Catintro">For voices with continuo</a></span>; <span class="expandline" title="9 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_with_basso_continuo&amp;transclude=Template:Catintro">Scores with basso continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_6_voices%2C_continuo&amp;transclude=Template:Catintro">For 6 voices, continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_7_voices%2C_continuo&amp;transclude=Template:Catintro">For 7 voices, continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_8_voices%2C_continuo&amp;transclude=Template:Catintro">For 8 voices, continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_mixed_chorus%2C_continuo&amp;transclude=Template:Catintro">For mixed chorus, continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_chorus_with_continuo&amp;transclude=Template:Catintro">For chorus with continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Latin_language&amp;transclude=Template:Catintro">Latin language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Promptuarium musicum","composer":"Schadaeus, Abraham","comphref":"\/wiki\/Category:Schadaeus,_Abraham"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"promptuarium musicum","itunes":"promptuarium musicum","composer":"schadaeus","scorekeywords":"promptuarium musicum","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"162705":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162705"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162705"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162705"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162705"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162705"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162705"}},"162707":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162707"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162707"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162707"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162707"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162707"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162707"}},"162708":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162708"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162708"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162708"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162708"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162708"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162708"}},"162711":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162711"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162711"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162711"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162711"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162711"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162711"}},"162712":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162712"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162712"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162712"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162712"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162712"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162712"}},"162718":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162718"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162718"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162718"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162718"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162718"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162718"}},"162719":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162719"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162719"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162719"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162719"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162719"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162719"}},"162720":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162720"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162720"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162720"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162720"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162720"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162720"}},"162750":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162750"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162750"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162750"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162750"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162750"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162750"}},"162780":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162780"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162780"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162780"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162780"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162780"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162780"}},"162782":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162782"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162782"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162782"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162782"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162782"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162782"}},"162784":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162784"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162784"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162784"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162784"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162784"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162784"}},"162792":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162792"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162792"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162792"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162792"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162792"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162792"}},"162853":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162853"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162853"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162853"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162853"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162853"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162853"}},"162854":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162854"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162854"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162854"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162854"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162854"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162854"}},"162857":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162857"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162857"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162857"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162857"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162857"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162857"}},"162858":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162858"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162858"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162858"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162858"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162858"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162858"}},"162872":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162872"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162872"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162872"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162872"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162872"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162872"}},"162783":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP162783"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=162783"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/162783"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/162783"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/162783"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23162783"}},"500491":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP500491"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=500491"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/500491"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23500491"}},"500492":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP500492"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=500492"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/500492"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23500492"}},"500496":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP500496"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=500496"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/500496"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23500496"}},"500497":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP500497"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=500497"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/500497"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Promptuarium+musicum+%28Schadaeus%2C+Abraham%29&frmTitle=IMSLP+%23500497"}}};JGFileOpts={"162705":[],"162707":[],"162708":[],"162711":[],"162712":[],"162718":[],"162719":[],"162720":[],"162750":[],"162780":[],"162782":[],"162784":[],"162792":[],"162853":[],"162854":[],"162857":[],"162858":[],"162872":[],"162783":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlhoOMk11XHY+VGsQzns4g60mqyg7uYQBhPO3oIRjc\/+gSq+h0X\/EP7gOFSiuWF03W3UTtsq+KNzUUBFdTI2v\/"},"500491":[],"500492":[],"500496":[],"500497":[]};JGPageUntagged=false;JGPageTags=["motets","5vv bc","6vv bc","7vv bc","8vv bc","ch bc","la"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore2":true,"tabScore1":false,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":1}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"162705":[4,"1"],"162780":[6,"1"],"162872":[10,"1"],"162707":[0,0],"162708":[0,0],"162711":[0,0],"162712":[0,0],"162718":[0,0],"162719":[0,0],"162720":[0,0],"162750":[0,0],"162782":[0,0],"162784":[0,0],"162792":[0,0],"162853":[0,0],"162854":[0,0],"162857":[0,0],"162858":[0,0],"162783":[0,0],"500491":[0,0],"500492":[0,0],"500496":[0,0],"500497":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.1</span> <span class="toctext">Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Pars_Prima"><span class="tocnumber">2.1.1</span> <span class="toctext">Pars Prima</span></a></li>
+<li class="toclevel-3"><a href="#Pars_Altera"><span class="tocnumber">2.1.2</span> <span class="toctext">Pars Altera</span></a></li>
+<li class="toclevel-3"><a href="#Pars_Tertia"><span class="tocnumber">2.1.3</span> <span class="toctext">Pars Tertia</span></a></li>
+<li class="toclevel-3"><a href="#Pars_Quarta"><span class="tocnumber">2.1.4</span> <span class="toctext">Pars Quarta</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Scores (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabScore1_tab"><b><a href="#tabScore1">Parts (<span id="tabScore1_ct">23</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Scores" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<h4> <span class="mw-headline" id="Pars_Prima">Pars Prima</span></h4>
+<div class="we"><div id="IMSLP162705" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162705"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cantus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2f/PMLP291772-schadaeus-1_pars_C.pdf" class="internal" title="PMLP291772-schadaeus-1 pars C.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_C.pdf" title="File:PMLP291772-schadaeus-1 pars C.pdf">#162705</a> - <span style="color:red"><b>54.34</b></span>MB, 108 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162705' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162705'>
+	<a href='javascript:void(0)' id='162705' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162705' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162705' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162705' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162705' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162705'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162705/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162705/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 320"><a href="/wiki/Special:GetFCtrStats/@162705" title="Special:GetFCtrStats/@162705">320</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>8 more</u>:</b> Altus • Tenor • Basis • V. Vox • VI. Vox • VII. Vox • VIII. Vox • Continuo
+</p>
+</div><div id="IMSLP162707" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162707"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Altus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/98/PMLP291772-schadaeus-1_pars_A.pdf" class="internal" title="PMLP291772-schadaeus-1 pars A.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_A.pdf" title="File:PMLP291772-schadaeus-1 pars A.pdf">#162707</a> - <span style="color:red"><b>53.01</b></span>MB, 106 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162707' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162707'>
+	<a href='javascript:void(0)' id='162707' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162707' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162707' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162707' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162707' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162707'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162707/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162707/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 121"><a href="/wiki/Special:GetFCtrStats/@162707" title="Special:GetFCtrStats/@162707">121</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162708" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162708"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/39/PMLP291772-schadaeus-1_pars_T.pdf" class="internal" title="PMLP291772-schadaeus-1 pars T.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_T.pdf" title="File:PMLP291772-schadaeus-1 pars T.pdf">#162708</a> - <span style="color:red"><b>56.24</b></span>MB, 112 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162708' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162708'>
+	<a href='javascript:void(0)' id='162708' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162708' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162708' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162708' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162708' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162708'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162708/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162708/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 141"><a href="/wiki/Special:GetFCtrStats/@162708" title="Special:GetFCtrStats/@162708">141</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162711" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162711"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basis</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/PMLP291772-schadaeus-1_pars_B.pdf" class="internal" title="PMLP291772-schadaeus-1 pars B.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_B.pdf" title="File:PMLP291772-schadaeus-1 pars B.pdf">#162711</a> - <span style="color:red"><b>53.04</b></span>MB, 106 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162711' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162711'>
+	<a href='javascript:void(0)' id='162711' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162711' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162711' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162711' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162711' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162711'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162711/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162711/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 131"><a href="/wiki/Special:GetFCtrStats/@162711" title="Special:GetFCtrStats/@162711">131</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162712" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162712"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>V. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b2/PMLP291772-schadaeus-1_pars_5.pdf" class="internal" title="PMLP291772-schadaeus-1 pars 5.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_5.pdf" title="File:PMLP291772-schadaeus-1 pars 5.pdf">#162712</a> - <span style="color:red"><b>53.49</b></span>MB, 106 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162712' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162712'>
+	<a href='javascript:void(0)' id='162712' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162712' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162712' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162712' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162712' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162712'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162712/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162712/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 125"><a href="/wiki/Special:GetFCtrStats/@162712" title="Special:GetFCtrStats/@162712">125</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162718" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162718"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>VI. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ce/PMLP291772-schadaeus-1_pars_6.pdf" class="internal" title="PMLP291772-schadaeus-1 pars 6.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_6.pdf" title="File:PMLP291772-schadaeus-1 pars 6.pdf">#162718</a> - <span style="color:red"><b>47.72</b></span>MB, 94 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162718' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162718'>
+	<a href='javascript:void(0)' id='162718' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162718' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162718' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162718' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162718' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162718'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162718/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162718/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 111"><a href="/wiki/Special:GetFCtrStats/@162718" title="Special:GetFCtrStats/@162718">111</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162719" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162719"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>VII. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0e/PMLP291772-schadaeus-1_pars_7.pdf" class="internal" title="PMLP291772-schadaeus-1 pars 7.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_7.pdf" title="File:PMLP291772-schadaeus-1 pars 7.pdf">#162719</a> - <span style="color:red"><b>35.73</b></span>MB, 74 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162719' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162719'>
+	<a href='javascript:void(0)' id='162719' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162719' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162719' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162719' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162719' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162719'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162719/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162719/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 116"><a href="/wiki/Special:GetFCtrStats/@162719" title="Special:GetFCtrStats/@162719">116</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162720" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162720"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>VIII. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/77/PMLP291772-schadaeus-1_pars_8.pdf" class="internal" title="PMLP291772-schadaeus-1 pars 8.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_8.pdf" title="File:PMLP291772-schadaeus-1 pars 8.pdf">#162720</a> - <span style="color:red"><b>30.97</b></span>MB, 64 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162720' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162720'>
+	<a href='javascript:void(0)' id='162720' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162720' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162720' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162720' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162720' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162720'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162720/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162720/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 119"><a href="/wiki/Special:GetFCtrStats/@162720" title="Special:GetFCtrStats/@162720">119</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162750" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162750"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Continuo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/14/PMLP291772-schadaeus-1_pars_bc.pdf" class="internal" title="PMLP291772-schadaeus-1 pars bc.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1_pars_bc.pdf" title="File:PMLP291772-schadaeus-1 pars bc.pdf">#162750</a> - <span style="color:red"><b>91.14</b></span>MB, 124 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162750' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162750'>
+	<a href='javascript:void(0)' id='162750' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162750' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162750' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162750' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162750' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162750'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162750/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162750/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 168"><a href="/wiki/Special:GetFCtrStats/@162750" title="Special:GetFCtrStats/@162750">168</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Schadaeus,_Abraham" title="Category:Schadaeus, Abraham">Abraham Schadaeus</a><br /><a href="/wiki/Category:Vincent,_Caspar" title="Category:Vincent, Caspar">Caspar Vincent</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Strassburg [Lat. Argentinae]: Carl Kieffer, Paul Ledertz, 1611.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=162705/162707/162708/162711/162712/162718/162719/162720/162750">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=162705/162707/162708/162711/162712/162718/162719/162720/162750">del</a>/<span id="fmrglnk" data-pdfstr="162705//162707//162708//162711//162712//162718//162719//162720//162750/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>'Pars Prima, quae concentus selectissimos, qui tempore hyemali SS ecclesiae usui esse possunt, comprehendit.'
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="162705">Javascript is required for this feature.</div><script>JGINITsearchbars['162705']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=162705|162707|162708|162711|162712|162718|162719|162720|162750&type=Cantus%7CAltus%7CTenor%7CBasis%7CV.%20Vox%7CVI.%20Vox%7CVII.%20Vox%7CVIII.%20Vox%7CContinuo&pgcount=108|106|112|106|106|94|74|64|124&signature=67748b9049ea3c94a6b7a5d0437341a123176273"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP291772-schadaeus-1_pars_C.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2f/8fa35034f87a2fb84f573121ef37a75999a98158.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Pars_Altera">Pars Altera</span></h4>
+<div class="we"><div id="IMSLP162780" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162780"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cantus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a9/PMLP291772-schadaeus-2_pars_C.pdf" class="internal" title="PMLP291772-schadaeus-2 pars C.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_C.pdf" title="File:PMLP291772-schadaeus-2 pars C.pdf">#162780</a> - <span style="color:red"><b>62.51</b></span>MB, 124 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162780' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162780'>
+	<a href='javascript:void(0)' id='162780' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162780' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162780' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162780' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162780' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162780'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162780/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162780/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 152"><a href="/wiki/Special:GetFCtrStats/@162780" title="Special:GetFCtrStats/@162780">152</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>8 more</u>:</b> Altus • Tenor • Bassus • V. Vox • VI. Vox • VII. Vox • VIII. Vox • Continuo
+</p>
+</div><div id="IMSLP162782" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162782"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Altus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1e/PMLP291772-schadaeus-2_pars_A.pdf" class="internal" title="PMLP291772-schadaeus-2 pars A.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_A.pdf" title="File:PMLP291772-schadaeus-2 pars A.pdf">#162782</a> - <span style="color:red"><b>62.22</b></span>MB, 124 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162782' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162782'>
+	<a href='javascript:void(0)' id='162782' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162782' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162782' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162782' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162782' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162782'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162782/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162782/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 108"><a href="/wiki/Special:GetFCtrStats/@162782" title="Special:GetFCtrStats/@162782">108</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162784" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162784"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/98/PMLP291772-schadaeus-2_pars_T.pdf" class="internal" title="PMLP291772-schadaeus-2 pars T.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_T.pdf" title="File:PMLP291772-schadaeus-2 pars T.pdf">#162784</a> - <span style="color:red"><b>63.99</b></span>MB, 126 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162784' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162784'>
+	<a href='javascript:void(0)' id='162784' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162784' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162784' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162784' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162784' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162784'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162784/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162784/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 116"><a href="/wiki/Special:GetFCtrStats/@162784" title="Special:GetFCtrStats/@162784">116</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162792" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162792"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/43/PMLP291772-schadaeus-2_pars_B.pdf" class="internal" title="PMLP291772-schadaeus-2 pars B.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_B.pdf" title="File:PMLP291772-schadaeus-2 pars B.pdf">#162792</a> - <span style="color:red"><b>57.80</b></span>MB, 116 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162792' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162792'>
+	<a href='javascript:void(0)' id='162792' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162792' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162792' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162792' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162792' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162792'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162792/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162792/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 139"><a href="/wiki/Special:GetFCtrStats/@162792" title="Special:GetFCtrStats/@162792">139</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162853" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162853"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>V. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c4/PMLP291772-schadaeus-2_pars_5.pdf" class="internal" title="PMLP291772-schadaeus-2 pars 5.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_5.pdf" title="File:PMLP291772-schadaeus-2 pars 5.pdf">#162853</a> - <span style="color:red"><b>53.84</b></span>MB, 108 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162853' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162853'>
+	<a href='javascript:void(0)' id='162853' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162853' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162853' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162853' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162853' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162853'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162853/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162853/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 113"><a href="/wiki/Special:GetFCtrStats/@162853" title="Special:GetFCtrStats/@162853">113</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162854" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162854"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>VI. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9e/PMLP291772-schadaeus-2_pars_6.pdf" class="internal" title="PMLP291772-schadaeus-2 pars 6.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_6.pdf" title="File:PMLP291772-schadaeus-2 pars 6.pdf">#162854</a> - <span style="color:red"><b>57.25</b></span>MB, 114 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162854' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162854'>
+	<a href='javascript:void(0)' id='162854' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162854' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162854' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162854' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162854' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162854'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162854/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162854/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 108"><a href="/wiki/Special:GetFCtrStats/@162854" title="Special:GetFCtrStats/@162854">108</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162857" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162857"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>VII. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c7/PMLP291772-schadaeus-2_pars_7.pdf" class="internal" title="PMLP291772-schadaeus-2 pars 7.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_7.pdf" title="File:PMLP291772-schadaeus-2 pars 7.pdf">#162857</a> - <span style="color:red"><b>39.73</b></span>MB, 80 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162857' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162857'>
+	<a href='javascript:void(0)' id='162857' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162857' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162857' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162857' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162857' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162857'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162857/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162857/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 104"><a href="/wiki/Special:GetFCtrStats/@162857" title="Special:GetFCtrStats/@162857">104</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162858" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162858"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>VIII. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f3/PMLP291772-schadaeus-2_pars_8.pdf" class="internal" title="PMLP291772-schadaeus-2 pars 8.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_8.pdf" title="File:PMLP291772-schadaeus-2 pars 8.pdf">#162858</a> - <span style="color:red"><b>30.15</b></span>MB, 60 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162858' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162858'>
+	<a href='javascript:void(0)' id='162858' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162858' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162858' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162858' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162858' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162858'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162858/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162858/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 109"><a href="/wiki/Special:GetFCtrStats/@162858" title="Special:GetFCtrStats/@162858">109</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP162872" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162872"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Continuo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e2/PMLP291772-schadaeus-2_pars_bc.pdf" class="internal" title="PMLP291772-schadaeus-2 pars bc.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-2_pars_bc.pdf" title="File:PMLP291772-schadaeus-2 pars bc.pdf">#162872</a> - <span style="color:red"><b>103.28</b></span>MB, 138 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162872' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162872'>
+	<a href='javascript:void(0)' id='162872' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162872' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162872' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162872' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162872' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162872'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162872/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162872/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 166"><a href="/wiki/Special:GetFCtrStats/@162872" title="Special:GetFCtrStats/@162872">166</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Schadaeus,_Abraham" title="Category:Schadaeus, Abraham">Abraham Schadaeus</a><br /><a href="/wiki/Category:Vincent,_Caspar" title="Category:Vincent, Caspar">Caspar Vincent</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Strassburg [Lat. Argentinae]: Carl Kieffer, Paul Ledertz, 1612.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=162780/162782/162784/162792/162853/162854/162857/162858/162872">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=162780/162782/162784/162792/162853/162854/162857/162858/162872">del</a>/<span id="fmrglnk" data-pdfstr="162780//162782//162784//162792//162853//162854//162857//162858//162872/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>'Pars Altera quae aestivi temporis festivitatibus dominicisque diebus selectiores concentus SS ecclesiae usui inservientes continet.'
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="162780">Javascript is required for this feature.</div><script>JGINITsearchbars['162780']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=162780|162782|162784|162792|162853|162854|162857|162858|162872&type=Cantus%7CAltus%7CTenor%7CBassus%7CV.%20Vox%7CVI.%20Vox%7CVII.%20Vox%7CVIII.%20Vox%7CContinuo&pgcount=124|124|126|116|108|114|80|60|138&signature=5c4844a52efbfa21b9e3aa0374a75f4b4e5c4af2"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP291772-schadaeus-2_pars_C.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a9/21a501cd877cc9d092eef3960ee9ce8a07a5a0b2.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP162783" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/162783"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Indices for Pars 1-3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/16/PMLP291772-schadaeus-1-3_indices.pdf" class="internal" title="PMLP291772-schadaeus-1-3 indices.pdf">*</a></span><a href="/wiki/File:PMLP291772-schadaeus-1-3_indices.pdf" title="File:PMLP291772-schadaeus-1-3 indices.pdf">#162783</a> - 5.63MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-162783' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-162783'>
+	<a href='javascript:void(0)' id='162783' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='162783' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='162783' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='162783' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='162783' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-162783'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/162783/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/162783/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 232"><a href="/wiki/Special:GetFCtrStats/@162783" title="Special:GetFCtrStats/@162783">232</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/12/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Strassburg [Lat. Argentinae]: Carl Kieffer, Paul Ledertz, 1611-13.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=162783">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=162783">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="162783">Javascript is required for this feature.</div><script>JGINITsearchbars['162783']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=162783&type=Indices%20for%20Pars%201-3&pgcount=12&signature=ac6afa07ce0f9ee93300924f96f85b24aad5d06a"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP291772-schadaeus-1-3_indices.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/16/9293f309c4d46537c4a05060be70ffec946e1810.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Pars_Tertia">Pars Tertia</span></h4>
+<div class="we"><div id="IMSLP500491" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/500491"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cantus, Altus, Tenor, Bassus, 5. Vox</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/PMLP291772-promptuarii_musici_3_1-5.pdf" class="internal" title="PMLP291772-promptuarii musici 3 1-5.pdf">*</a></span><a href="/wiki/File:PMLP291772-promptuarii_musici_3_1-5.pdf" title="File:PMLP291772-promptuarii musici 3 1-5.pdf">#500491</a> - <span style="color:red"><b>145.34</b></span>MB, 562 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-500491' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-500491'>
+	<a href='javascript:void(0)' id='500491' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='500491' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='500491' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='500491' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='500491' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-500491'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/500491/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/500491/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 13"><a href="/wiki/Special:GetFCtrStats/@500491" title="Special:GetFCtrStats/@500491">13</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/11/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP500492" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/500492"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Voces 6-8, Continuo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/44/PMLP291772-promptuarii_musici_3_6-bc.pdf" class="internal" title="PMLP291772-promptuarii musici 3 6-bc.pdf">*</a></span><a href="/wiki/File:PMLP291772-promptuarii_musici_3_6-bc.pdf" title="File:PMLP291772-promptuarii musici 3 6-bc.pdf">#500492</a> - <span style="color:red"><b>149.75</b></span>MB, 589 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-500492' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-500492'>
+	<a href='javascript:void(0)' id='500492' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='500492' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='500492' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='500492' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='500492' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-500492'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/500492/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/500492/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 10"><a href="/wiki/Special:GetFCtrStats/@500492" title="Special:GetFCtrStats/@500492">10</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/11/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Schadaeus,_Abraham" title="Category:Schadaeus, Abraham">Abraham Schadaeus</a><br /><a href="/wiki/Category:Vincent,_Caspar" title="Category:Vincent, Caspar">Caspar Vincent</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Strasbourg: <a href="/wiki/IMSLP:Music_Publishers" title="IMSLP:Music Publishers">Carl Kieffer, Paul Ledertz</a>, 1613.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=500491/500492">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=500491/500492">del</a>/<span id="fmrglnk" data-pdfstr="500491//500492/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="500491">Javascript is required for this feature.</div><script>JGINITsearchbars['500491']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=500491|500492&type=Cantus%2C%20Altus%2C%20Tenor%2C%20Bassus%2C%205.%20Vox%7CVoces%206-8%2C%20Continuo&pgcount=562|589&signature=b0a3165e959eff43f7fd69af46dc2608ef755a7d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP291772-promptuarii_musici_3_1-5.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6d/cdf04896e2b096627fd3d8d4e4b7b1d74c87f656.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Pars_Quarta">Pars Quarta</span></h4>
+<div class="we"><div id="IMSLP500496" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/500496"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cantus, Altus, Tenor, Bassus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2b/PMLP291772-promptuarii_musici_4_1-4.pdf" class="internal" title="PMLP291772-promptuarii musici 4 1-4.pdf">*</a></span><a href="/wiki/File:PMLP291772-promptuarii_musici_4_1-4.pdf" title="File:PMLP291772-promptuarii musici 4 1-4.pdf">#500496</a> - <span style="color:red"><b>165.92</b></span>MB, 672 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-500496' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-500496'>
+	<a href='javascript:void(0)' id='500496' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='500496' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='500496' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='500496' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='500496' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-500496'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/500496/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/500496/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 11"><a href="/wiki/Special:GetFCtrStats/@500496" title="Special:GetFCtrStats/@500496">11</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/11/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP500497" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/500497"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Voces 5-8, Continuo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/PMLP291772-promptuarii_musici_4_5-bc.pdf" class="internal" title="PMLP291772-promptuarii musici 4 5-bc.pdf">*</a></span><a href="/wiki/File:PMLP291772-promptuarii_musici_4_5-bc.pdf" title="File:PMLP291772-promptuarii musici 4 5-bc.pdf">#500497</a> - <span style="color:red"><b>177.79</b></span>MB, 723 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-500497' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-500497'>
+	<a href='javascript:void(0)' id='500497' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='500497' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='500497' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='500497' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='500497' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-500497'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/500497/Promptuarium_musicum_(Schadaeus,_Abraham)" title="Special:IMSLPEditCTag/500497/Promptuarium musicum (Schadaeus, Abraham)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 9"><a href="/wiki/Special:GetFCtrStats/@500497" title="Special:GetFCtrStats/@500497">9</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/11/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Schadaeus,_Abraham" title="Category:Schadaeus, Abraham">Abraham Schadaeus</a><br /><a href="/wiki/Category:Vincent,_Caspar" title="Category:Vincent, Caspar">Caspar Vincent</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Strasbourg: <a href="/wiki/IMSLP:Music_Publishers" title="IMSLP:Music Publishers">Anton Bertram, Paul Ledertz</a>, 1617.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=500496/500497">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=500496/500497">del</a>/<span id="fmrglnk" data-pdfstr="500496//500497/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="500496">Javascript is required for this feature.</div><script>JGINITsearchbars['500496']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=500496|500497&type=Cantus%2C%20Altus%2C%20Tenor%2C%20Bassus%7CVoces%205-8%2C%20Continuo&pgcount=672|723&signature=3c16beeb00e4cabfbec135fcd7f20fc22c331d78"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP291772-promptuarii_musici_4_1-4.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2b/c866f616a4d5d6083ee96c9714cb0c3384be6621.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Promptuarium musicum
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Schadaeus,_Abraham" title="Category:Schadaeus, Abraham">Schadaeus, Abraham</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 parts, 436 motets
+<dl><dd>Pars Prima: 83 motets
+</dd><dd>Pars Altera: 100 motets
+</dd><dd>Pars Tertia: 121 motets
+</dd><dd>Pars Quarta: 132 motets
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1611-1617
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Latin
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>1. City Council of Speyer <br />2. Town Council of Landau <br />3. Dean and Chapter of Speyer Cathedral <br />4. Dean and Chapter of Worms Cathedral
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>5-8 voices, continuo
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>Includes works by the following composers without pages on IMSLP:
+</p>
+<ul><li>Bernardo Vannini
+</li><li>Guglielmo Arnoni
+</li><li>Giovanni Battista Steffanini (?Johann Steffens?)
+</li><li>Vincenzo Bertholusi
+</li><li>Flamineo Nuceti
+</li><li>Giulio Osculati
+</li><li>Archangelo Borsari
+</li><li>Ludovico Casali
+</li><li>Simone Gatti
+</li><li>Romulo Naldi
+</li><li>Francesco Suriani Romani
+</li><li>Francesco Maria Guaitoli
+</li><li>Ludovico Spontoni
+</li><li>Lucio Billi Ravennati
+</li><li>Scipione Baroti
+</li><li>Giovanni Battista Gostena (Johann Baptist Gosten?)
+</li><li>Nicola Rubini
+</li><li>Antonio Savetta
+</li><li>Giovanni Francesco Ramella
+</li><li>Pompeo Signorucci
+</li><li>Benedetto Bagni
+</li><li>Giovanni Battista Dulcini
+</li><li>Caspare Villani
+</li><li>Andrea Saladdi
+</li><li>Michaelo Varotti
+</li><li>Giovanni Ludovico Balhi
+</li><li>Pietro Antonio de Blanchis
+</li><li>Jean le Febure
+</li><li>Gregorio Zuchini
+</li><li>Benedicti Regi
+</li><li>Giovanni Battista Gnocchi
+</li><li>Alexio Neandri
+</li><li>Giovanni Tomaso Tribiol.
+</li><li>Carolo Berti
+</li><li>Giuliano Cartari
+</li><li>Girolamo Dorati
+</li><li>Sebastiano Hominis
+</li><li>Heinrich Hartmann
+</li><li>Benedetto Fabri
+</li><li>Martin Zeidler
+</li><li>Johann Knefel
+</li><li>Georg Geisler
+</li><li>Chrysostomo Rondini
+</li><li>Ottavio Verniti
+</li><li>Giovanni Pietro Flaccomi
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 2199/1000000
+Post-expand include size: 112742/2097152 bytes
+Template argument size: 2226/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:291772-0!*!0!!en!2!* and timestamp 20180415142803 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Promptuarium_musicum_(Schadaeus,_Abraham)&amp;oldid=2538625">http://imslp.org/index.php?title=Promptuarium_musicum_(Schadaeus,_Abraham)&amp;oldid=2538625</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_Det_Kongelige_Bibliotek" title="Category:Scores from Det Kongelige Bibliotek">Scores from Det Kongelige Bibliotek</a></li><li><a href="/wiki/Category:Schadaeus,_Abraham/Editor" title="Category:Schadaeus, Abraham/Editor">Schadaeus, Abraham/Editor</a></li><li><a href="/wiki/Category:Vincent,_Caspar/Editor" title="Category:Vincent, Caspar/Editor">Vincent, Caspar/Editor</a></li><li><a href="/wiki/Category:Scores_from_Bayerische_Staatsbibliothek" title="Category:Scores from Bayerische Staatsbibliothek">Scores from Bayerische Staatsbibliothek</a></li><li><a href="/wiki/Category:Scores_published_by_Carl_Kieffer,_Paul_Ledertz" title="Category:Scores published by Carl Kieffer, Paul Ledertz">Scores published by Carl Kieffer, Paul Ledertz</a></li><li><a href="/wiki/Category:Scores_published_by_Anton_Bertram,_Paul_Ledertz" title="Category:Scores published by Anton Bertram, Paul Ledertz">Scores published by Anton Bertram, Paul Ledertz</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Schadaeus,_Abraham/Collections" title="Category:Schadaeus, Abraham/Collections">Schadaeus, Abraham/Collections</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a></li><li><a href="/wiki/Category:Motets" title="Category:Motets">Motets</a></li><li><a href="/wiki/Category:For_5_voices,_continuo" title="Category:For 5 voices, continuo">For 5 voices, continuo</a></li><li><a href="/wiki/Category:For_voices_with_continuo" title="Category:For voices with continuo">For voices with continuo</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_with_basso_continuo" title="Category:Scores with basso continuo">Scores with basso continuo</a></li><li><a href="/wiki/Category:For_6_voices,_continuo" title="Category:For 6 voices, continuo">For 6 voices, continuo</a></li><li><a href="/wiki/Category:For_7_voices,_continuo" title="Category:For 7 voices, continuo">For 7 voices, continuo</a></li><li><a href="/wiki/Category:For_8_voices,_continuo" title="Category:For 8 voices, continuo">For 8 voices, continuo</a></li><li><a href="/wiki/Category:For_mixed_chorus,_continuo" title="Category:For mixed chorus, continuo">For mixed chorus, continuo</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:For_chorus_with_continuo" title="Category:For chorus with continuo">For chorus with continuo</a></li><li><a href="/wiki/Category:Latin_language" title="Category:Latin language">Latin language</a></li><li><a href="/wiki/Category:Works_first_published_in_1611" title="Category:Works first published in 1611">Works first published in 1611</a></li><li><a href="/wiki/Category:Works_first_published_in_the_17th_century" title="Category:Works first published in the 17th century">Works first published in the 17th century</a></li><li><a href="/wiki/Category:17th-century_facsimiles" title="Category:17th-century facsimiles">17th-century facsimiles</a></li><li><a href="/wiki/Category:Bianciardi,_Francesco/Collections" title="Category:Bianciardi, Francesco/Collections">Bianciardi, Francesco/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:Agazzari,_Agostino/Collections" title="Category:Agazzari, Agostino/Collections">Agazzari, Agostino/Collections</a></li><li><a href="/wiki/Category:Molinaro,_Simone/Collections" title="Category:Molinaro, Simone/Collections">Molinaro, Simone/Collections</a></li><li><a href="/wiki/Category:Orologio,_Alessandro/Collections" title="Category:Orologio, Alessandro/Collections">Orologio, Alessandro/Collections</a></li><li><a href="/wiki/Category:Valcampi,_Curtio/Collections" title="Category:Valcampi, Curtio/Collections">Valcampi, Curtio/Collections</a></li><li><a href="/wiki/Category:Zangius,_Nikolaus/Collections" title="Category:Zangius, Nikolaus/Collections">Zangius, Nikolaus/Collections</a></li><li><a href="/wiki/Category:Vecchi,_Orfeo/Collections" title="Category:Vecchi, Orfeo/Collections">Vecchi, Orfeo/Collections</a></li><li><a href="/wiki/Category:Canale,_Floriano/Collections" title="Category:Canale, Floriano/Collections">Canale, Floriano/Collections</a></li><li><a href="/wiki/Category:Monte,_Philippe_de/Collections" title="Category:Monte, Philippe de/Collections">Monte, Philippe de/Collections</a></li><li><a href="/wiki/Category:Luython,_Carl/Collections" title="Category:Luython, Carl/Collections">Luython, Carl/Collections</a></li><li><a href="/wiki/Category:Gabrieli,_Giovanni/Collections" title="Category:Gabrieli, Giovanni/Collections">Gabrieli, Giovanni/Collections</a></li><li><a href="/wiki/Category:Vincent,_Caspar/Collections" title="Category:Vincent, Caspar/Collections">Vincent, Caspar/Collections</a></li><li><a href="/wiki/Category:Walliser,_Christoph_Thomas/Collections" title="Category:Walliser, Christoph Thomas/Collections">Walliser, Christoph Thomas/Collections</a></li><li><a href="/wiki/Category:Balbi,_Ludovico/Collections" title="Category:Balbi, Ludovico/Collections">Balbi, Ludovico/Collections</a></li><li><a href="/wiki/Category:Lipparino,_Guglielmo/Collections" title="Category:Lipparino, Guglielmo/Collections">Lipparino, Guglielmo/Collections</a></li><li><a href="/wiki/Category:Massaino,_Tiburtio/Collections" title="Category:Massaino, Tiburtio/Collections">Massaino, Tiburtio/Collections</a></li><li><a href="/wiki/Category:Erbach,_Christian/Collections" title="Category:Erbach, Christian/Collections">Erbach, Christian/Collections</a></li><li><a href="/wiki/Category:Pallavicino,_Benedetto/Collections" title="Category:Pallavicino, Benedetto/Collections">Pallavicino, Benedetto/Collections</a></li><li><a href="/wiki/Category:Gussago,_Cesario/Collections" title="Category:Gussago, Cesario/Collections">Gussago, Cesario/Collections</a></li><li><a href="/wiki/Category:Viadana,_Lodovico_da/Collections" title="Category:Viadana, Lodovico da/Collections">Viadana, Lodovico da/Collections</a></li><li><a href="/wiki/Category:Giacobbi,_Girolamo/Collections" title="Category:Giacobbi, Girolamo/Collections">Giacobbi, Girolamo/Collections</a></li><li><a href="/wiki/Category:Leoni,_Leone/Collections" title="Category:Leoni, Leone/Collections">Leoni, Leone/Collections</a></li><li><a href="/wiki/Category:Stabile,_Annibale/Collections" title="Category:Stabile, Annibale/Collections">Stabile, Annibale/Collections</a></li><li><a href="/wiki/Category:Hassler,_Hans_Leo/Collections" title="Category:Hassler, Hans Leo/Collections">Hassler, Hans Leo/Collections</a></li><li><a href="/wiki/Category:Marenzio,_Luca/Collections" title="Category:Marenzio, Luca/Collections">Marenzio, Luca/Collections</a></li><li><a href="/wiki/Category:Croce,_Giovanni/Collections" title="Category:Croce, Giovanni/Collections">Croce, Giovanni/Collections</a></li><li><a href="/wiki/Category:Franck,_Melchior/Collections" title="Category:Franck, Melchior/Collections">Franck, Melchior/Collections</a></li><li><a href="/wiki/Category:Buel,_Christoph/Collections" title="Category:Buel, Christoph/Collections">Buel, Christoph/Collections</a></li><li><a href="/wiki/Category:Ballione,_Gerolamo/Collections" title="Category:Ballione, Gerolamo/Collections">Ballione, Gerolamo/Collections</a></li><li><a href="/wiki/Category:Croatti,_Francesco/Collections" title="Category:Croatti, Francesco/Collections">Croatti, Francesco/Collections</a></li><li><a href="/wiki/Category:Anonymous/Collections" title="Category:Anonymous/Collections">Anonymous/Collections</a></li><li><a href="/wiki/Category:Vecchi,_Orazio/Collections" title="Category:Vecchi, Orazio/Collections">Vecchi, Orazio/Collections</a></li><li><a href="/wiki/Category:Cima,_Giovanni_Paolo/Collections" title="Category:Cima, Giovanni Paolo/Collections">Cima, Giovanni Paolo/Collections</a></li><li><a href="/wiki/Category:Perini,_Annibale/Collections" title="Category:Perini, Annibale/Collections">Perini, Annibale/Collections</a></li><li><a href="/wiki/Category:Pacelli,_Asprilio/Collections" title="Category:Pacelli, Asprilio/Collections">Pacelli, Asprilio/Collections</a></li><li><a href="/wiki/Category:D%27India,_Sigismondo/Collections" title="Category:D'India, Sigismondo/Collections">D'India, Sigismondo/Collections</a></li><li><a href="/wiki/Category:Catalani,_Ottavio/Collections" title="Category:Catalani, Ottavio/Collections">Catalani, Ottavio/Collections</a></li><li><a href="/wiki/Category:Piccioni,_Giovanni/Collections" title="Category:Piccioni, Giovanni/Collections">Piccioni, Giovanni/Collections</a></li><li><a href="/wiki/Category:Brunetti,_Domenico/Collections" title="Category:Brunetti, Domenico/Collections">Brunetti, Domenico/Collections</a></li><li><a href="/wiki/Category:Parma,_Nicola/Collections" title="Category:Parma, Nicola/Collections">Parma, Nicola/Collections</a></li><li><a href="/wiki/Category:Palestrina,_Giovanni_Pierluigi_da/Collections" title="Category:Palestrina, Giovanni Pierluigi da/Collections">Palestrina, Giovanni Pierluigi da/Collections</a></li><li><a href="/wiki/Category:Strata,_Giovanni_Battista/Collections" title="Category:Strata, Giovanni Battista/Collections">Strata, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Donato,_Baldassare/Collections" title="Category:Donato, Baldassare/Collections">Donato, Baldassare/Collections</a></li><li><a href="/wiki/Category:Bonhomme,_Pierre/Collections" title="Category:Bonhomme, Pierre/Collections">Bonhomme, Pierre/Collections</a></li><li><a href="/wiki/Category:Uffereri,_Giovanni_Damasceno/Collections" title="Category:Uffereri, Giovanni Damasceno/Collections">Uffereri, Giovanni Damasceno/Collections</a></li><li><a href="/wiki/Category:Ingegneri,_Marc_Antonio/Collections" title="Category:Ingegneri, Marc Antonio/Collections">Ingegneri, Marc Antonio/Collections</a></li><li><a href="/wiki/Category:Gabrieli,_Andrea/Collections" title="Category:Gabrieli, Andrea/Collections">Gabrieli, Andrea/Collections</a></li><li><a href="/wiki/Category:Praetorius,_Hieronymus/Collections" title="Category:Praetorius, Hieronymus/Collections">Praetorius, Hieronymus/Collections</a></li><li><a href="/wiki/Category:Porta,_Costanzo/Collections" title="Category:Porta, Costanzo/Collections">Porta, Costanzo/Collections</a></li><li><a href="/wiki/Category:Merulo,_Claudio/Collections" title="Category:Merulo, Claudio/Collections">Merulo, Claudio/Collections</a></li><li><a href="/wiki/Category:Asola,_Giammateo/Collections" title="Category:Asola, Giammateo/Collections">Asola, Giammateo/Collections</a></li><li><a href="/wiki/Category:Grandi,_Alessandro/Collections" title="Category:Grandi, Alessandro/Collections">Grandi, Alessandro/Collections</a></li><li><a href="/wiki/Category:Ferrabosco_Sr.,_Alfonso/Collections" title="Category:Ferrabosco Sr., Alfonso/Collections">Ferrabosco Sr., Alfonso/Collections</a></li><li><a href="/wiki/Category:Montesardo,_Girolamo/Collections" title="Category:Montesardo, Girolamo/Collections">Montesardo, Girolamo/Collections</a></li><li><a href="/wiki/Category:Aichinger,_Gregor/Collections" title="Category:Aichinger, Gregor/Collections">Aichinger, Gregor/Collections</a></li><li><a href="/wiki/Category:Fabri,_Stefano/Collections" title="Category:Fabri, Stefano/Collections">Fabri, Stefano/Collections</a></li><li><a href="/wiki/Category:Giovannelli,_Ruggiero/Collections" title="Category:Giovannelli, Ruggiero/Collections">Giovannelli, Ruggiero/Collections</a></li><li><a href="/wiki/Category:Anerio,_Felice/Collections" title="Category:Anerio, Felice/Collections">Anerio, Felice/Collections</a></li><li><a href="/wiki/Category:Bona,_Valerio/Collections" title="Category:Bona, Valerio/Collections">Bona, Valerio/Collections</a></li><li><a href="/wiki/Category:Gastoldi,_Giovanni_Giacomo/Collections" title="Category:Gastoldi, Giovanni Giacomo/Collections">Gastoldi, Giovanni Giacomo/Collections</a></li><li><a href="/wiki/Category:Handl,_Jacob/Collections" title="Category:Handl, Jacob/Collections">Handl, Jacob/Collections</a></li><li><a href="/wiki/Category:Gumpelzhaimer,_Adam/Collections" title="Category:Gumpelzhaimer, Adam/Collections">Gumpelzhaimer, Adam/Collections</a></li><li><a href="/wiki/Category:Philips,_Peter/Collections" title="Category:Philips, Peter/Collections">Philips, Peter/Collections</a></li><li><a href="/wiki/Category:Bassano,_Giovanni/Collections" title="Category:Bassano, Giovanni/Collections">Bassano, Giovanni/Collections</a></li><li><a href="/wiki/Category:Vulpius,_Melchior/Collections" title="Category:Vulpius, Melchior/Collections">Vulpius, Melchior/Collections</a></li><li><a href="/wiki/Category:Gesius,_Bartholom%C3%A4us/Collections" title="Category:Gesius, Bartholomäus/Collections">Gesius, Bartholomäus/Collections</a></li><li><a href="/wiki/Category:Otto,_Georg/Collections" title="Category:Otto, Georg/Collections">Otto, Georg/Collections</a></li><li><a href="/wiki/Category:Nanino,_Giovanni_Bernardino/Collections" title="Category:Nanino, Giovanni Bernardino/Collections">Nanino, Giovanni Bernardino/Collections</a></li><li><a href="/wiki/Category:Quagliati,_Paolo/Collections" title="Category:Quagliati, Paolo/Collections">Quagliati, Paolo/Collections</a></li><li><a href="/wiki/Category:Mensural_notation" title="Category:Mensural notation">Mensural notation</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Promptuarium_musicum_%28Schadaeus%2C_Abraham%29">2,949 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Promptuarium%20musicum%20%28Schadaeus%2C%20Abraham%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.014 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415192148 -->
+</html>
+		

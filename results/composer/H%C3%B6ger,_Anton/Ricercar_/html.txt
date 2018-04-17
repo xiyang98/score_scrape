@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Ricercar (Anonymous) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Ricercar_(Anonymous)", "wgTitle": "Ricercar (Anonymous)", "wgCurRevisionId": 1873160, "wgArticleId": 357215, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Höger, Anton/Arranger", "Scores", "Anonymous", "Renaissance style", "Ricercars", "For organ", "Scores featuring the organ", "For 1 player", "For 2 lutes (arr)", "Scores featuring the lute", "For 2 players", "For 2 guitars (arr)", "Scores featuring the guitar", "Pages with arrangements"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ricercar_Anonymous action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Ricercar_(Anonymous)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Ricercar+%28Anonymous%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Ricercar_(Anonymous)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Ricercar_(Anonymous)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Ricercar_(Anonymous)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Ricercar_(Anonymous)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Ricercar_(Anonymous)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Ricercar_(Anonymous)&amp;oldid=1873160" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Ricercar%20%28Anonymous%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Ricercar (Anonymous)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Ricercars&amp;transclude=Template:Catintro">Ricercars</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="expandline" title="6 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_lutes_%28arr%29&amp;transclude=Template:Catintro">For 2 lutes (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_lute&amp;transclude=Template:Catintro">Scores featuring the lute</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_guitars_%28arr%29&amp;transclude=Template:Catintro">For 2 guitars (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Ricercar","composer":"Anonymous","comphref":"\/wiki\/Category:Anonymous"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"ricercar","itunes":"ricercar","composer":"anonymous","scorekeywords":"ricercar","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5400439780606.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5400439780606.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5400439780606","desc":"Chamber Music - SCHMELZER, J.H. \/ BIBER, H.I.F. von \/ PACHELBEL, J. \/ BERTALI, A. (Deutsche Barock Kammermusik III) (Roos, Denecker, Ricercar Consort)","label":"Ricercar","category":"Chamber Music - Classical Music","composer":"Anonymous -- Hammerschmidt, Andreas -- Schmelzer, Johann Heinrich -- Turini, Francesco -- Bertali, Antonio -- Schein, Johann Hermann -- Biber, Heinrich Ignaz Franz von -- Pachelbel, Johann -- Steffens, Johann -- Stadlmayr, Johann","artist":"Denecker, Patrick -- Roos, Frederic de -- Ricercar Consort","country":"Austria Germany Italy","catid":"5400439780606","cdinfo":[[["Biber, Heinrich Ignaz Franz von",[["Sonata Pro tabula a 10 (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595525",[]]]],["Turini, Francesco",[["Sonata prima (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595526",[]],["Sonata seconda (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595527",[]]]],["Schein, Johann Hermann",[["Canzon a 6 in A Minor (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595528",[]]]],["Stadlmayr, Johann",[["Canzon (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595529",[]]]],["Bertali, Antonio",[["Sonata a 3 (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595530",[]]]],["Steffens, Johann",[["Paduana e Galliard (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595531",[]]]],["Schmelzer, Johann Heinrich",[["Duodena selectarum sonatarum: Sonatina No. 6 (arr. for 2 recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595532",[]],["Sacro-profanus concentus musicus: Sonata No. 13 (arr. for 2 recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595533",[]]]],["Schmelzer, Johann Heinrich",[["Sonata a 7 flauti","mediaplayer\/player.asp?br=128&tl=1595534",[]]]],["Schmelzer, Johann Heinrich",[["Duodena selectarum sonatarum (arr. for 2 recorders and basso continuo) (excerpts)","mediaplayer\/player.asp?br=128&tl=1595535|1595536",["Sonatina No. 1","Sonata No. 11"]]]],["Hammerschmidt, Andreas",[["Paduana (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595537",[]]]],["Anonymous",[["Sonata a 3 flauti (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595538",[]]]],["Pachelbel, Johann",[["Canon and Gigue in D Major: Canon (arr. for recorders and basso continuo)","mediaplayer\/player.asp?br=128&tl=1595540",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5400439680531.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5400439680531.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5400439680531","desc":"DU MONT, H.: Motet for 2 Voices (De Reyghere, Mellon, Bowman, De Mey, Van Egmond, Ricercar Consort)","label":"Ricercar","category":"Chamber Music - Classical Music","composer":"Du Mont, Henry","artist":"Reyghere, Greta de -- Bowman, James -- Egmond, Max van -- De Mey, Guy -- Watillon, Sophie -- Mellon, Agnes -- Ricercar Consort -- Pierlot, Philippe","country":"France","catid":"5400439680531","cdinfo":[[["Du Mont, Henry",[["Quam pulchra es","mediaplayer\/player.asp?br=128&tl=1583054",[]]]],["Du Mont, Henry",[["Peccator ubi es","mediaplayer\/player.asp?br=128&tl=1583055",[]]]],["Du Mont, Henry",[["Te timeo","mediaplayer\/player.asp?br=128&tl=1583056",[]],["Tota pulchra es","mediaplayer\/player.asp?br=128&tl=1583057",[]],["In lectulo meo II","mediaplayer\/player.asp?br=128&tl=1583058",[]]]],["Du Mont, Henry",[["Symphonia","mediaplayer\/player.asp?br=128&tl=1583059",[]]]],["Du Mont, Henry",[["Miserere mei, Domine","mediaplayer\/player.asp?br=128&tl=1583060",[]],["Panis angelicus I","mediaplayer\/player.asp?br=128&tl=1583061",[]],["Dic mihi o bone Jesu","mediaplayer\/player.asp?br=128&tl=1583062",[]],["Ave verum corpus","mediaplayer\/player.asp?br=128&tl=1583063",[]],["Quemadmodum","mediaplayer\/player.asp?br=128&tl=1583065",[]],["O dulcedo amoris","mediaplayer\/player.asp?br=128&tl=1583066",[]]]],["Du Mont, Henry",[["Allemande (1668)","mediaplayer\/player.asp?br=128&tl=1583067",[]]]],["Du Mont, Henry",[["Quare tristis es","mediaplayer\/player.asp?br=128&tl=1583068",[]],["Ego enim accepi","mediaplayer\/player.asp?br=128&tl=1583069",[]],["Benedicam Dominum","mediaplayer\/player.asp?br=128&tl=1583070",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5400439155145.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5400439155145.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5400439155145","desc":"LASSO, O. di: Missa ad imitationem moduli Vinum bonum (Namur Chamber Choir, Ricercar Consort, Ensemble La Fenice, Phillips)","label":"Ricercar","category":"Choral - Sacred - Classical Music","composer":"Lasso, Orlando di -- Lohet, Simon","artist":"Phillips, Peter -- Foccroulle, Bernard -- Tub\u00e9ry, Jean -- Ensemble La Fenice -- Ricercar Consort -- Giaux, Benoit","country":"Belgium","catid":"5400439155145","cdinfo":[[["Lasso, Orlando di",[["Omnes de Saba venient","mediaplayer\/player.asp?br=128&tl=1640351",[]],["Vinum bonum et suave","mediaplayer\/player.asp?br=128&tl=1640352",[]]]],["Lohet, Simon",[["Fuga decima quarta","mediaplayer\/player.asp?br=128&tl=1640353",[]]]],["Lasso, Orlando di",[["Missa ad imitationem moduli Vinum bonum","mediaplayer\/player.asp?br=128&tl=1640354|1640355",["Kyrie","Gloria"]]]],["Lohet, Simon",[["Fuga decima sexta","mediaplayer\/player.asp?br=128&tl=1640356",[]]]],["Lasso, Orlando di",[["Missa ad imitationem moduli Vinum bonum","mediaplayer\/player.asp?br=128&tl=1640357|1640358|1640359",["Credo","Sanctus - Benedictus","Agnus Dei"]]]],["Lohet, Simon",[["Nun welche hie ihr Hoffnung","mediaplayer\/player.asp?br=128&tl=1640360",[]]]],["Lasso, Orlando di",[["Da pacem Domine","mediaplayer\/player.asp?br=128&tl=1640361",[]]]],["Lasso, Orlando di",[["Timor et tremor","mediaplayer\/player.asp?br=128&tl=1640362",[]]]],["Lohet, Simon",[["Media vita in morte","mediaplayer\/player.asp?br=128&tl=1640363",[]]]],["Lasso, Orlando di",[["Tui sunt coeli","mediaplayer\/player.asp?br=128&tl=1640364",[]]]],["Lasso, Orlando di",[["Surge propera amica mea et veni (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=1640365",[]]]],["Lohet, Simon",[["Fuga quarta","mediaplayer\/player.asp?br=128&tl=1640366",[]]]],["Lasso, Orlando di",[["Aurora lucis rutilat","mediaplayer\/player.asp?br=128&tl=1640367",[]],["Magnificat octavi toni super Aurora lucis rutilat","mediaplayer\/player.asp?br=128&tl=1640368",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MIR050.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MIR050.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMIR050","desc":"SANCES, G.F.: Stabat Mater \/ ZIANI, M.A.: Alma redemptoris mater \/ SCHMELZER, J.H.: Sacro-profanus concentus musicus (Mena, Ricercar Consort, Pierlot)","label":"Mirare","category":"Chamber Music - Classical Music","composer":"Anonymous -- Fux, Johann Joseph -- Schmelzer, Johann Heinrich -- Bertali, Antonio -- Ziani, Marc' Antonio -- Sances, Giovanni Felice -- Leopold I (Holy Roman Emperor),","artist":"Pierlot, Philippe -- Mena, Carlos -- Ricercar Consort","country":"Austria Italy","catid":"MIR050","cdinfo":[[["Sances, Giovanni Felice",[["Stabat Mater","mediaplayer\/player.asp?br=128&tl=1960091",[]]]],["Schmelzer, Johann Heinrich",[["Sacro-profanus concentus musicus: Sonata No. 9 a 5","mediaplayer\/player.asp?br=128&tl=1960092",[]]]],["Anonymous",[["Salve Regina","mediaplayer\/player.asp?br=128&tl=1960093",[]]]],["Schmelzer, Johann Heinrich",[["Duodena selectarum sonatarum: Sonatina No. 11 a 3","mediaplayer\/player.asp?br=128&tl=1960094",[]]]],["Fux, Johann Joseph",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1960095",[]]]],["Schmelzer, Johann Heinrich",[["Duodena selectarum sonatarum: Sonata No. 12 a 3","mediaplayer\/player.asp?br=128&tl=1960096",[]]]],["Ziani, Marc' Antonio",[["Alma redemptoris mater","mediaplayer\/player.asp?br=128&tl=1960097",[]]]],["Bertali, Antonio",[["Sonata a 4 in D Minor","mediaplayer\/player.asp?br=128&tl=1960098",[]]]],["Leopold I (Holy Roman Emperor),",[["Regina coeli","mediaplayer\/player.asp?br=128&tl=1960099",[]]]],["Schmelzer, Johann Heinrich",[["Sacro-profanus concentus musicus: Sonata No. 4 a 6","mediaplayer\/player.asp?br=128&tl=1960100",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=RIC325.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=RIC325.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DRIC325","desc":"WILLAERT, A.: Vespro della beata vergine (Capilla Flamenca, Snellings)","label":"Ricercar","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Willaert, Adrian -- Padovano, Annibale","artist":"Snellings, Dirk -- Capilla Flamenca -- Verdin, Joris","country":"Italy","catid":"RIC325","cdinfo":[[["Anonymous",[["Deus in adiutorium","mediaplayer\/player.asp?br=128&tl=1458593",[]]]],["Padovano, Annibale",[["Toccata del ottavo tono","mediaplayer\/player.asp?br=128&tl=1458594",[]]]],["Willaert, Adrian",[["Benedicta es, coelorum regina a 7","mediaplayer\/player.asp?br=128&tl=1458595",[]]]],["Willaert, Adrian",[["Ricercar I","mediaplayer\/player.asp?br=128&tl=1458596",[]]]],["Willaert, Adrian",[["Dixit Dominus","mediaplayer\/player.asp?br=128&tl=1458597",[]],["Laudate pueri Dominum","mediaplayer\/player.asp?br=128&tl=1458598",[]]]],["Willaert, Adrian",[["Ricercar primo","mediaplayer\/player.asp?br=128&tl=1458599",[]]]],["Willaert, Adrian",[["Laetatus sum","mediaplayer\/player.asp?br=128&tl=1458600",[]],["Nisi Dominus","mediaplayer\/player.asp?br=128&tl=1458601",[]]]],["Willaert, Adrian",[["Ricercar settimo","mediaplayer\/player.asp?br=128&tl=1458602",[]]]],["Willaert, Adrian",[["Lauda Jerusalem Dominum","mediaplayer\/player.asp?br=128&tl=1458603",[]]]],["Willaert, Adrian",[["Ave maris stella","mediaplayer\/player.asp?br=128&tl=1458604",[]]]],["Willaert, Adrian",[["Ricercar X","mediaplayer\/player.asp?br=128&tl=1458605",[]]]],["Willaert, Adrian",[["Magnificat a 4","mediaplayer\/player.asp?br=128&tl=1458606",[]]]],["Willaert, Adrian",[["Benedicamus in laude Jesu","mediaplayer\/player.asp?br=128&tl=1458607",[]]]],["Padovano, Annibale",[["Toccata del terzo e quarto tono","mediaplayer\/player.asp?br=128&tl=1458608",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CCLCDG1259.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CCLCDG1259.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCCLCDG1259","desc":"MEDIEVAL MUSE (THE) (Serendipity, Heighes)","label":"The Gift of Music","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Hildegard of Bingen, -- Spinacino, Francesco -- Dalza, Joan Ambrosio","artist":"Serendipity -- Heighes, Simon","country":"Germany Italy","catid":"CCLCDG1259","cdinfo":[[["Spinacino, Francesco",[["Ricercar","mediaplayer\/player.asp?br=128&tl=1328090",[]]]],["Hildegard of Bingen,",[["O viridissima virga","mediaplayer\/player.asp?br=128&tl=1328114",[]]]],["Anonymous",[["Missus Gabriel [late 13th century]","mediaplayer\/player.asp?br=128&tl=1328119",[]]]],["Hildegard of Bingen,",[["Columba aspexit","mediaplayer\/player.asp?br=128&tl=1328125",[]]]],["Anonymous",[["Dies irae [13th century]","mediaplayer\/player.asp?br=128&tl=1328164",[]]]],["Dalza, Joan Ambrosio",[["Ricercar","mediaplayer\/player.asp?br=128&tl=1328167",[]]]],["Hildegard of Bingen,",[["O ecclesia oculi tui","mediaplayer\/player.asp?br=128&tl=1328168",[]]]],["Anonymous",[["Audi mirabilia [late 13th century]","mediaplayer\/player.asp?br=128&tl=1328169",[]],["Veni sancte spiritus [16th century]","mediaplayer\/player.asp?br=128&tl=1328170",[]]]],["Anonymous",[["Quid tu virgo","mediaplayer\/player.asp?br=128&tl=1328171",[]]]],["Anonymous",[["Song of the Sibyl [10th century]","mediaplayer\/player.asp?br=128&tl=1328172",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CCLCDG1055.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CCLCDG1055.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCCLCDG1055","desc":"Medieval Music (Songs, Laments and Dances)","label":"The Gift of Music","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Traditional","artist":"Vendome, Richard -- Souter, Martin -- Magdala -- Serendipity","country":"","catid":"CCLCDG1055","cdinfo":[[["Anonymous",[["Ricercar","mediaplayer\/player.asp?br=128&tl=692153",[]],["There is no rose of swych vertu","mediaplayer\/player.asp?br=128&tl=692154",[]],["Ricercar","mediaplayer\/player.asp?br=128&tl=692155",[]],["Dou way robin","mediaplayer\/player.asp?br=128&tl=692156",[]],["Trois sereus","mediaplayer\/player.asp?br=128&tl=692157",[]],["Ah Robin","mediaplayer\/player.asp?br=128&tl=692158",[]]]],["Traditional",[["Summer is icumen in","mediaplayer\/player.asp?br=128&tl=692159",[]]]],["Anonymous",[["Bryd one brere","mediaplayer\/player.asp?br=128&tl=692160",[]],["Salterello","mediaplayer\/player.asp?br=128&tl=692161",[]],["The Coventry Carol, \"Lully, lullay, thou little tiny child\"","mediaplayer\/player.asp?br=128&tl=692162",[]],["Foweles in the frith","mediaplayer\/player.asp?br=128&tl=692163",[]],["Petrone","mediaplayer\/player.asp?br=128&tl=692164",[]],["Gabriel fram evene king","mediaplayer\/player.asp?br=128&tl=692165",[]],["Angelus ad Virginem","mediaplayer\/player.asp?br=128&tl=692166",[]],["Alle, psallite","mediaplayer\/player.asp?br=128&tl=692167",[]],["Veni Creator Spiritus","mediaplayer\/player.asp?br=128&tl=692168",[]],["Edi Be thu","mediaplayer\/player.asp?br=128&tl=692169",[]],["Roses in bloom","mediaplayer\/player.asp?br=128&tl=692170",[]],["Maiden in the mor lay","mediaplayer\/player.asp?br=128&tl=692171",[]],["Nobilis, humilis","mediaplayer\/player.asp?br=128&tl=692172",[]],["Ricercar","mediaplayer\/player.asp?br=128&tl=692173",[]]]],["Anonymous",[["Gloria laus","mediaplayer\/player.asp?br=128&tl=692174",[]]]],["Anonymous",[["Alleluya psallat","mediaplayer\/player.asp?br=128&tl=692175",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=RIC352.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=RIC352.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DRIC352","desc":"RUBENS AND THE MUSIC OF HIS TIME","label":"Ricercar","category":"Chamber Music - Classical Music","composer":"Moulinie, Etienne -- Anonymous -- Ferrabosco II, Alfonso -- Susato, Tylman -- Tomkins, Thomas -- Merulo, Claudio -- Monteverdi, Claudio -- Caccini, Giulio -- Palestrina, Giovanni Pierluigi da -- Marini, Biagio -- Viadana, Lodovico -- Frescobaldi, Girolamo Alessandro -- Gabrieli, Giovanni -- Rossi, Salamone -- Lasso, Orlando di -- Bo\u00ebsset, Antoine -- Caroubel, Pierre Francisque -- Romero, Mateo -- Adriaenssen, Emanuel -- Ghersem, Gery -- Hayne, Gilles Henry","artist":"Schroder, Karl-Ernst -- Dumestre, Vincent -- Denecker, Patrick -- Caccia, La -- Poeme Harmonique -- Capilla Flamenca -- Fernandez, Francois -- Henstra, Siebe -- Fenice, La -- Foccroulle, Bernard -- Carlo, Andrea de -- Ledroit, Henri -- Tub\u00e9ry, Jean -- Achten, Nicolas -- Ricercar Consort -- Ensemble Mare Nostrum -- Scherzi Musicali -- Vox Luminis -- Ensemble Clematis -- Penson, Guy -- Flores, Mariana -- Keller, Capucine -- La Fenice -- Pierlot, Philippe -- Odhecaton -- Garcia Alarcon, Leonardo","country":"Belgium France Germany Italy Spain United Kingdom","catid":"RIC352","cdinfo":[[["Lasso, Orlando di",[["Suzanne un jour","mediaplayer\/player.asp?br=128&tl=2109937",[]]]],["Anonymous",[["Susanna Vung Jour Susanne [Klavierbuch der Susanne van Soldt, 1590]","mediaplayer\/player.asp?br=128&tl=2109938",[]]]],["Susato, Tylman",[["Salve Quae roseo decora serto","mediaplayer\/player.asp?br=128&tl=2109939",[]]]],["Adriaenssen, Emanuel",[["Fantasia prima","mediaplayer\/player.asp?br=128&tl=2109940",[]]]],["Monteverdi, Claudio",[["Missa da capella (on Gombert's motet In illo tempore): Agnus Dei I","mediaplayer\/player.asp?br=128&tl=2109941",[]]]],["Rossi, Salamone",[["Sonata in dialogo detta la Viena: Sonata No. 6 in Dialogo detta la Viena","mediaplayer\/player.asp?br=128&tl=2109942",[]]]],["Caccini, Giulio",[["L'Euridice (Pianto d'Orfeo)","mediaplayer\/player.asp?br=128&tl=2109943",[]]]],["Gabrieli, Giovanni",[["Sonata prima a 8","mediaplayer\/player.asp?br=128&tl=2109944",[]]]],["Viadana, Lodovico",[["O Domine","mediaplayer\/player.asp?br=128&tl=2109945",[]]]],["Merulo, Claudio",[["Toccata decima del 10 tono","mediaplayer\/player.asp?br=128&tl=2109946",["Tocccata decima del 10 tono"]]]],["Palestrina, Giovanni Pierluigi da",[["Motets for 5-8 Voices, Book 5 for 5 Voices: Exultate Deo","mediaplayer\/player.asp?br=128&tl=2109947",[]]]],["Romero, Mateo",[["Laudate Dominium omnes","mediaplayer\/player.asp?br=128&tl=2109948",[]]]],["Romero, Mateo",[["Ay, que me muero de zelos: 2a parte","mediaplayer\/player.asp?br=128&tl=2109949",[]]]],["Frescobaldi, Girolamo Alessandro",[["Toccata sesta, \"sopra i pedali, e senza\"","mediaplayer\/player.asp?br=128&tl=2109950",[]]]],["Ghersem, Gery",[["Agnus Dei (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2109951",[]]]],["Frescobaldi, Girolamo Alessandro",[["Arie musicali per cantarsi, Book 1: Se l'aura spira","mediaplayer\/player.asp?br=128&tl=2109952",[]]]],["Marini, Biagio",[["Sonata sopra La Monica","mediaplayer\/player.asp?br=128&tl=2109953",[]]]],["Caroubel, Pierre Francisque",[["Terpsichore: Passameze","mediaplayer\/player.asp?br=128&tl=2109966",[]]]],["Bo&#235;sset, Antoine",[["Je meurs sans mourir","mediaplayer\/player.asp?br=128&tl=2109967",[]]]],["Moulinie, Etienne",[["Premiere fantaisie a 4","mediaplayer\/player.asp?br=128&tl=2109968",[]]]],["Tomkins, Thomas",[["Pavan for these distracted times","mediaplayer\/player.asp?br=128&tl=2109969",["A Sad Pavan for these distracted times"]]]],["Ferrabosco II, Alfonso",[["Fantasia on the hexachord","mediaplayer\/player.asp?br=128&tl=2109970",[]]]],["Hayne, Gilles Henry",[["Libera me","mediaplayer\/player.asp?br=128&tl=2109971",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8015203101036.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8015203101036.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8015203101036","desc":"Lute Recital: Lonardi, Massimo - GAFFURIUS, F. \/ DALZA, J.A. (La musica a Milano al tempo di Leonardo da Vinci: La figurazione delle cose invisibili)","label":"La Bottega Discantica","category":"Instrumental - Classical Music","composer":"Anonymous -- Josquin des Prez, -- Milano, Francesco da -- Tromboncino, Bartolomeo -- Sermisy, Claudin de -- Spinacino, Francesco -- Borrono, Pietro Paolo -- Dalza, Joan Ambrosio -- Vinci, Leonardo -- Gaffurius, Franchinus -- Aquilano, Serafino","artist":"Lonardi, Massimo -- Fusco, Renata","country":"France Italy","catid":"8015203101036","cdinfo":[[["Gaffurius, Franchinus",[["Beata progenies","mediaplayer\/player.asp?br=128&tl=2314744",[]]]],["Gaffurius, Franchinus",[["Virgo Dei digna","mediaplayer\/player.asp?br=128&tl=2314745",[]]]],["Anonymous",[["Ballo amoroso","mediaplayer\/player.asp?br=128&tl=2314746",[]],["Petit riense","mediaplayer\/player.asp?br=128&tl=2314747",[]]]],["Dalza, Joan Ambrosio",[["Tastar de corde - Recercar","mediaplayer\/player.asp?br=128&tl=2314748",[]],["Intabolatura de lauto, Book 4: Calata ala spagnola","mediaplayer\/player.asp?br=128&tl=2314749",[]]]],["Tromboncino, Bartolomeo",[["Poi che volse la mia stella","mediaplayer\/player.asp?br=128&tl=2314750",[]]]],["Dalza, Joan Ambrosio",[["Tromboncini - Poi che volse la mia stella (version for lute)","mediaplayer\/player.asp?br=128&tl=2314751",[]]]],["Anonymous",[["Pavana regia","mediaplayer\/player.asp?br=128&tl=2314752",[]],["Saltarello","mediaplayer\/player.asp?br=128&tl=2314753",[]],["Piva","mediaplayer\/player.asp?br=128&tl=2314754",[]]]],["Aquilano, Serafino",[["Tu dormi, io veglio","mediaplayer\/player.asp?br=128&tl=2314755",[]]]],["Gaffurius, Franchinus",[["Imperatrix reginarum","mediaplayer\/player.asp?br=128&tl=2314756",[]]]],["Vinci, Leonardo",[["3 Rebus musicali","mediaplayer\/player.asp?br=128&tl=2314757",[]]]],["Spinacino, Francesco",[["Adieu mes amours","mediaplayer\/player.asp?br=128&tl=2314758",[]],["La Bernardina de Josquin","mediaplayer\/player.asp?br=128&tl=2314759",[]]]],["Gaffurius, Franchinus",[["Gloriosae Virginis Mariae","mediaplayer\/player.asp?br=128&tl=2314760",[]]]],["Milano, Francesco da",[["Ricercar No. 27","mediaplayer\/player.asp?br=128&tl=2314761",[]],["Ricercar No. 2","mediaplayer\/player.asp?br=128&tl=2314762",[]],["Ricercar No. 12","mediaplayer\/player.asp?br=128&tl=2314763",[]],["Ricercare No. 9","mediaplayer\/player.asp?br=128&tl=2314764",[]]]],["Prez, Josquin des",[["Fortuna d'un gran tempo","mediaplayer\/player.asp?br=128&tl=2314765",[]]]],["Prez, Josquin des",[["Ave Maria &#8230; virgo serena a 6","mediaplayer\/player.asp?br=128&tl=2314766",[]]]],["Borrono, Pietro Paolo",[["Fantasia","mediaplayer\/player.asp?br=128&tl=2314767",[]],["Saltarello chiamato Antonola","mediaplayer\/player.asp?br=128&tl=2314768",[]]]],["Sermisy, Claudin de",[["Tant que vivray","mediaplayer\/player.asp?br=128&tl=2314769",[]]]],["Sermisy, Claudin de",[["Tant que vivray en aage florissant","mediaplayer\/player.asp?br=128&tl=2314770",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.557531.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.557531.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.557531","desc":"WEBERN, A.: Vocal and Orchestral Works - 5 Pieces \/ 5 Sacred Songs \/ Variations \/ Bach-Musical Offering: Ricercar (Craft) (Webern, Vol. 2)","label":"Naxos","category":"Choral - Secular - Classical Music","composer":"Webern, Anton","artist":"Wilson-Johnson, David -- Arnold, Tony -- Craft, Robert -- Twentieth Century Classics Ensemble -- Philharmonia Orchestra -- Booth, Claire -- Philharmonia Orchestra, members","country":"Austria China Germany","catid":"8.557531","cdinfo":[[["Webern, Anton",[["Bach - Musical Offering, BWV 1079: Ricercar a 6","mediaplayer\/player.asp?br=128&tl=651745",[]]]],["Webern, Anton",[["2 Songs, Op. 19","mediaplayer\/player.asp?br=128&tl=651746|651747",["No. 1. Weiss wie Lilien","No. 2. Ziehn die Schafe"]]]],["Webern, Anton",[["5 Movements, Op. 5 (arr. for string orchestra)","mediaplayer\/player.asp?br=128&tl=651762|651763|651764|651765|651766",["I. Heftig bewegt","II. Sehr langsam","III. Sehr bewegt","IV. Sehr langsam","V. In zarter Bewegung"]]]],["Webern, Anton",[["2 Songs, Op. 8","mediaplayer\/player.asp?br=128&tl=651780|651781",["No. 1. Du, der ich's nicht sage","No. 2. Du machst mich allein"]]]],["Webern, Anton",[["5 Pieces, Op. 10","mediaplayer\/player.asp?br=128&tl=651782|651783|651784|651785|651786",["No. 1. Sehr ruhig und zart","No. 2. Lebhaft und zart bewegt","No. 3. Sehr langsam und ausserst ruhig","No. 4. Fliessend, ausserst zart","No. 5. Sehr fliessend"]]]],["Webern, Anton",[["4 Songs, Op. 13","mediaplayer\/player.asp?br=128&tl=651801|651802|651803|651804",["No. 1. Wiese im Park","No. 2. Die Einsame","No. 3. In der Fremde","No. 4. Ein Winterabend"]]]],["Webern, Anton",[["6 Songs, Op. 14","mediaplayer\/player.asp?br=128&tl=651821|651822|651823|651824|651825|651826",["No. 1. Die Sonne","No. 2. Abendland I","No. 3. Abendland II","No. 4. Abendland III","No. 5. Nachts","No. 6. Gesang einer gefangenen Amsel"]]]],["Webern, Anton",[["5 Sacred Songs, Op. 15","mediaplayer\/player.asp?br=128&tl=651881|651882|651883|651884|651885",["No. 1. Das Kreuz, das musst' er tragen","No. 2. Morgenlied","No. 3. In Gottes Namen aufstehn","No. 4. Mein Weg geht jetzt voruber","No. 5. Fahr hin, o Seel', zu deinem Gott"]]]],["Webern, Anton",[["Das Augenlicht, Op. 26","mediaplayer\/player.asp?br=128&tl=651886",[]]]],["Webern, Anton",[["Variations for Orchestra, Op. 30","mediaplayer\/player.asp?br=128&tl=651897",[]]]],["Webern, Anton",[["Cantata No. 2, Op. 31","mediaplayer\/player.asp?br=128&tl=654545|654546|654547|654548|654549|654550",["Schweigt auch die Welt, aus Farben ist immer (The World, Through Silent, Is Always Full of Colours)","Sehr tief verhalten innerst Leben (Buried Deep, Innermost Life Sings)","Schopfen aus Brunnen des Himmels nach Wassen des Worts (To Draw From Heaven's Springs)","Leichteste Burden der Baume trag ich durch die Raume: die Dufte (Through Space I Carry the Tree's Lightest Burden)","Freundselig ist das Wort (Kindly Is The Word)","Gelockert aus dem Schosse (Delivered From the Womb)"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/anonymous%20ricercar"};IMSLPNaxosSearch="anonymous ricercar";JGaskdonation=0;JGFileTools={"340953":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/340953"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+%28Anonymous%29&frmTitle=IMSLP+%23340953"}},"214496":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=214496"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/214496\/214497\/214498\/ad2e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP214496"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/214496"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/214496"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+%28Anonymous%29&frmTitle=IMSLP+%23214496"}},"214497":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=214497"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/214496\/214497\/214498\/ad2e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP214497"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/214497"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/214497"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+%28Anonymous%29&frmTitle=IMSLP+%23214497"}},"214498":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=214498"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/214496\/214497\/214498\/ad2e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP214498"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/214498"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/214498"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+%28Anonymous%29&frmTitle=IMSLP+%23214498"}},"340938":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=340938"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP340938"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/340938"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/340938"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+%28Anonymous%29&frmTitle=IMSLP+%23340938"}}};JGFileOpts={"340953":[],"214496":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjf9NvU3T\/8iNzRa3IG9TwkYsZ004FpFp5iDl6qAQPHacxbutIV84EEaqKp1Dizrt\/x1JCOW9F2GkvYCMRtWTrB5Y1cQQ+IGhQ8uqaKiEuONC8Gdx5wqc4nPVa39zgQsjU="},"214497":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjr5WvqlpGCxZoYI8AozgzCNiNVdyeQn2akjN38pe4hCrFX0+TQPeRHykU28qid1tCBFFBZoBpUfJPzFBHQX97D8qyjznYPiFt+DA7AIu6oComT0GuaKSx4ya80ZeDJOS4="},"214498":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi3pHJyJ9zerEKDzCtHb7m+hck8vSdP5Vk43M9Dw6LeKLRVc2NGssf3vZVLA5CC0lo17BWGRVSqWnCPwgrgz9u7V1JGgn\/BqPAjZVyu\/S3Au6siOcVvHWnRtZbAAxxUBmA="},"340938":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgit\/\/0l+SnnyAXKD6r2WjcfKsf6YLJcajt9km5JmKhudafRPVpPSU9am73EJkxtDhbYWvDkzYV1HTDhbpoc\/h6+QbQSDRHW9TyuvESZcyDQ0rrOi\/lABSAiZtp8K7esJI="}};JGPageUntagged=false;JGPageTags=["ricercars","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore2":true,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"214496":[4,"1"],"340953":[0,0],"214497":[0,0],"214498":[0,0],"340938":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_2_Lutes_.28H.C3.B6ger.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For 2 Lutes (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.1</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_2_Lutes_.28H.C3.B6ger.29_2"><span class="tocnumber">2.1.1</span> <span class="toctext">For 2 Lutes (Höger)</span></a></li>
+<li class="toclevel-3"><a href="#For_2_Guitars_.28H.C3.B6ger.29"><span class="tocnumber">2.1.2</span> <span class="toctext">For 2 Guitars (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">1</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h5> <span class="mw-headline" id="For_2_Lutes_.28H.C3.B6ger.29">For 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP340953" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/340953"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>computer synthesized audio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a3/PMLP357215-Anonymous_-_Ricercar_%28manoscritto_Feininger%29.mp3" class="internal" title="PMLP357215-Anonymous - Ricercar (manoscritto Feininger).mp3">*</a></span><a href="/wiki/File:PMLP357215-Anonymous_-_Ricercar_(manoscritto_Feininger).mp3" title="File:PMLP357215-Anonymous - Ricercar (manoscritto Feininger).mp3">#340953</a> - 4.31MB - 2:48<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-340953' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-340953'>
+	<a href='javascript:void(0)' id='340953' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='340953' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='340953' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='340953' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='340953' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-340953'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/340953/Ricercar_(Anonymous)" title="Special:IMSLPEditCTag/340953/Ricercar (Anonymous)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@340953" title="Special:GetFCtrStats/@340953">58</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a><span class="mh555"> (2014/8/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_340953'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"340953":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/petrucci.mus.auth.gr\/imglnks\/usimg\/a\/a3\/IMSLP340953-PMLP357215-Anonymous_-_Ricercar_(manoscritto_Feininger).mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=340953">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=340953">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Because most of my transcriptions are never heard before, I decided to make a simple computer synthesized audio file for hearing control.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="340953">Javascript is required for this feature.</div><script>JGINITsearchbars['340953']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Scores (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">4</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Scores" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_2_Lutes_.28H.C3.B6ger.29_2">For 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP214496" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/214496"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d5/PMLP357215-Anonym_-_Ricercar_%28manoscritto_Feininger%29.pdf" class="internal" title="PMLP357215-Anonym - Ricercar (manoscritto Feininger).pdf">*</a></span><a href="/wiki/File:PMLP357215-Anonym_-_Ricercar_(manoscritto_Feininger).pdf" title="File:PMLP357215-Anonym - Ricercar (manoscritto Feininger).pdf">#214496</a> - 0.05MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-214496' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-214496'>
+	<a href='javascript:void(0)' id='214496' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='214496' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='214496' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='214496' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='214496' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-214496'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/214496/Ricercar_(Anonymous)" title="Special:IMSLPEditCTag/214496/Ricercar (Anonymous)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 242"><a href="/wiki/Special:GetFCtrStats/@214496" title="Special:GetFCtrStats/@214496">242</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Anton Höger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2012/5/4" class="hovertext">2012/5/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP214497" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/214497"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1 (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f4/PMLP357215-Anonym_-_Ricercar_%28manoscritto_Feininger%29_L-1.pdf" class="internal" title="PMLP357215-Anonym - Ricercar (manoscritto Feininger) L-1.pdf">*</a></span><a href="/wiki/File:PMLP357215-Anonym_-_Ricercar_(manoscritto_Feininger)_L-1.pdf" title="File:PMLP357215-Anonym - Ricercar (manoscritto Feininger) L-1.pdf">#214497</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-214497' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-214497'>
+	<a href='javascript:void(0)' id='214497' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='214497' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='214497' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='214497' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='214497' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-214497'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/214497/Ricercar_(Anonymous)" title="Special:IMSLPEditCTag/214497/Ricercar (Anonymous)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 65"><a href="/wiki/Special:GetFCtrStats/@214497" title="Special:GetFCtrStats/@214497">65</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Anton Höger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2012/5/4" class="hovertext">2012/5/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP214498" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/214498"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 2 (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ea/PMLP357215-Anonym_-_Ricercar_%28manoscritto_Feininger%29_L-2.pdf" class="internal" title="PMLP357215-Anonym - Ricercar (manoscritto Feininger) L-2.pdf">*</a></span><a href="/wiki/File:PMLP357215-Anonym_-_Ricercar_(manoscritto_Feininger)_L-2.pdf" title="File:PMLP357215-Anonym - Ricercar (manoscritto Feininger) L-2.pdf">#214498</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-214498' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-214498'>
+	<a href='javascript:void(0)' id='214498' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='214498' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='214498' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='214498' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='214498' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-214498'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/214498/Ricercar_(Anonymous)" title="Special:IMSLPEditCTag/214498/Ricercar (Anonymous)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 47"><a href="/wiki/Special:GetFCtrStats/@214498" title="Special:GetFCtrStats/@214498">47</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Anton Höger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2012/5/4" class="hovertext">2012/5/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=214496/214497/214498">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=214496/214497/214498">del</a>/<span id="fmrglnk" data-pdfstr="214496//214497//214498/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Intabulation in French lute-tablature (Ad Secundam). If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="214496">Javascript is required for this feature.</div><script>JGINITsearchbars['214496']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP357215-Anonym_-_Ricercar_(manoscritto_Feininger).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d5/d2b48fda72e61359236c5993098d378c5870339f.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_2_Guitars_.28H.C3.B6ger.29">For 2 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP340938" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/340938"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6a/PMLP357215-Anonymous_-_Ricercar_%28manoscritto_Feininger%29_-2Git.pdf" class="internal" title="PMLP357215-Anonymous - Ricercar (manoscritto Feininger) -2Git.pdf">*</a></span><a href="/wiki/File:PMLP357215-Anonymous_-_Ricercar_(manoscritto_Feininger)_-2Git.pdf" title="File:PMLP357215-Anonymous - Ricercar (manoscritto Feininger) -2Git.pdf">#340938</a> - 0.09MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-340938' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-340938'>
+	<a href='javascript:void(0)' id='340938' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='340938' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='340938' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='340938' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='340938' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-340938'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/340938/Ricercar_(Anonymous)" title="Special:IMSLPEditCTag/340938/Ricercar (Anonymous)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 81"><a href="/wiki/Special:GetFCtrStats/@340938" title="Special:GetFCtrStats/@340938">81</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Anton Höger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2014/8/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=340938">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=340938">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="340938">Javascript is required for this feature.</div><script>JGINITsearchbars['340938']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP357215-Anonymous_-_Ricercar_(manoscritto_Feininger)_-2Git.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6a/60c0141f924b2e4b963068aa8c0e2a7df05c0e0f.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Ricercar
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Anonymous" title="Category:Anonymous">Anonymous</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>Feininger manuscript
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IA 737
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Organ
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 324/1000000
+Post-expand include size: 26337/2097152 bytes
+Template argument size: 56/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:357215-0!*!0!!en!2!* and timestamp 20180416095056 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Ricercar_(Anonymous)&amp;oldid=1873160">http://imslp.org/index.php?title=Ricercar_(Anonymous)&amp;oldid=1873160</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:H%C3%B6ger,_Anton/Arranger" title="Category:Höger, Anton/Arranger">Höger, Anton/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Anonymous" title="Category:Anonymous">Anonymous</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Ricercars" title="Category:Ricercars">Ricercars</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_2_lutes_(arr)" title="Category:For 2 lutes (arr)">For 2 lutes (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_lute" title="Category:Scores featuring the lute">Scores featuring the lute</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:For_2_guitars_(arr)" title="Category:For 2 guitars (arr)">For 2 guitars (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Ricercar_%28Anonymous%29">455 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Ricercar%20%28Anonymous%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.387 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416095056 -->
+</html>
+		

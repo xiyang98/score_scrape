@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Piano Quintet No.2, Op.81 (Dvořák, Antonín) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Piano_Quintet_No.2,_Op.81_(Dvořák,_Antonín)", "wgTitle": "Piano Quintet No.2, Op.81 (Dvořák, Antonín)", "wgCurRevisionId": 2578831, "wgArticleId": 6072, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Chamber Music Society of Lincoln Center/Performer", "Gardner Museum Recordings", "Recordings", "Pages with First Editions", "Keller, Robert/Arranger", "Sibley Mirroring Project", "Work pages with links to recordings", "Scores", "Dvořák, Antonín", "Romantic style", "Romantic", "Quintets", "For 2 violins, viola, cello, piano", "Scores featuring the violin", "Scores featuring the viola", "Scores featuring the cello", "Scores featuring the piano", "For 5 players", "For piano 4 hands (arr)", "Scores featuring the piano 4 hands", "For 2 players", "Pages with arrangements", "Works first published in 1888", "Works first published in the 19th century", "Pages with parts for purchase", "A major"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Piano_Quintet_No_2_Op_81_Dvořák_Antonín action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)&amp;oldid=2578831" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Piano%20Quintet%20No.2%2C%20Op.81%20%28Dvo%C5%99%C3%A1k%2C%20Anton%C3%ADn%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Piano Quintet No.2, Op.81 (Dvořák, Antonín)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 movements
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1887
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Quintets&amp;transclude=Template:Catintro">Quintets</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_violins%2C_viola%2C_cello%2C_piano&amp;transclude=Template:Catintro">For 2 violins, viola, cello, piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="expandline" title="7 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viola&amp;transclude=Template:Catintro">Scores featuring the viola</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_players&amp;transclude=Template:Catintro">For 5 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_4_hands_%28arr%29&amp;transclude=Template:Catintro">For piano 4 hands (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano_4_hands&amp;transclude=Template:Catintro">Scores featuring the piano 4 hands</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Piano Quintet No.2, Op.81","composer":"Dvo\u0159\u00e1k, Anton\u00edn","comphref":"\/wiki\/Category:Dvo%C5%99%C3%A1k,_Anton%C3%ADn"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"piano quintet no 2","itunes":"piano quintet no 2","composer":"dvorak","scorekeywords":"piano quintet no 2","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=1;JGBSAccompnum=0;JGNaxosSearch={"numres":24,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SON11202.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SON11202.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSON11202","desc":"MENDELSSOHN, F.: String Quintet No. 2 \/ SUCKLING, M.: To See the Dark Between \/ DVORAK, A.: Piano Quintet in A Major, Op. 81 (Aronowitz Ensemble)","label":"Sonimage","category":"Chamber Music - Classical Music","composer":"Mendelssohn, Felix -- Dvo\u0159\u00e1k, Anton\u00edn -- Suckling, Martin","artist":"Aronowitz Ensemble","country":"Czech Republic Germany","catid":"SON11202","cdinfo":[[["Mendelssohn, Felix",[["String Quintet No. 2 in B-Flat Major, Op. 87, MWV R33","mediaplayer\/player.asp?br=128&tl=1522231|1522232|1522233|1522234",["I. Allegro vivace","II. Andante scherzando","III. Adagio e lento","IV. Allegro molto vivace"]]]],["Suckling, Martin",[["To See the Dark Between","mediaplayer\/player.asp?br=128&tl=1522237",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quintet in A Major, Op. 81, B. 155","mediaplayer\/player.asp?br=128&tl=1522238|1522239|1522240|1522241",["I. Allegro ma non tanto","II. Dumka: Andante con moto","III. Scherzo (Furiant): Molto vivace","IV. Finale: Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SM187.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SM187.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSM187","desc":"DOHNANYI, E.: Piano Quintet No. 1 \/ DVORAK, A.:  Piano Quartet No. 2 \/ SUK, J.: Elegie (Ensemble Raro)","label":"Solo Musica","category":"Chamber Music - Classical Music","composer":"Dohn\u00e1nyi, Erno -- Suk, Josef -- Dvo\u0159\u00e1k, Anton\u00edn","artist":"Ensemble Raro","country":"Czech Republic Hungary","catid":"SM187","cdinfo":[[["Dohn&#225;nyi, Erno",[["Piano Quintet No. 1 in C Minor, Op. 1","mediaplayer\/player.asp?br=128&tl=1706836|1706837|1706838|1706839",["I. Allegro","II. Scherzo: Allegro vivace","III. Adagio, quasi andante","IV. Finale: Allegro animato - Allegro"]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quartet No. 2 in E-Flat Major, Op. 87, B. 162","mediaplayer\/player.asp?br=128&tl=1706840|1706841|1706842|1706843",["I. Allegro con fuoco","II. Lento","III. Allegro moderato, grazioso","IV. Finale: Allegro ma non troppo"]]]],["Suk, Josef",[["Elegie (Under the Influence of Zeyer's Vysehrad), Op. 23 (version for piano trio)","mediaplayer\/player.asp?br=128&tl=1706844",["Elegie (Under the Influence of Zeyer's Vysehrad), Op. 23  (version for piano trio)"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=825646033669.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=825646033669.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D825646033669","desc":"DVORAK, A.: Piano Quintet in A Major, Op. 81 \/ Piano Quartet No. 2 (Panocha Quartet, Schiff)","label":"Teldec","category":"Chamber Music - Classical Music","composer":"Dvo\u0159\u00e1k, Anton\u00edn","artist":"Schiff, Andras -- Panocha Quartet","country":"Czech Republic","catid":"825646033669","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CHAN10719.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CHAN10719.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCHAN10719","desc":"DVORAK, A.: Piano Quartet No. 2 \/ Piano Quintet in A Major, Op. 81 \/ Als die alte Mutter (Schubert Ensemble)","label":"Chandos","category":"Chamber Music - Classical Music","composer":"Dvo\u0159\u00e1k, Anton\u00edn","artist":"Schubert Ensemble -- Wood, Alexandra","country":"Czech Republic United Kingdom","catid":"CHAN10719","cdinfo":[[["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quartet No. 2 in E-Flat Major, Op. 87, B. 162","mediaplayer\/player.asp?br=128&tl=1384065|1384066|1384067|1384068",["I. Allegro con fuoco","II. Lento","III. Allegro moderato, grazioso","IV. Finale: Allegro ma non troppo"]],["Piano Quintet in A Major, Op. 81, B. 155","mediaplayer\/player.asp?br=128&tl=1384069|1384070|1384071|1384072",["I. Allegro ma non tanto","II. Dumka: Andante con moto","III. Scherzo (Furiant): Molto vivace","IV. Finale: Allegro"]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Zigeunermelodien, Op. 55, B. 104: No. 4. Als die alte Mutter (Songs My Mother Taught Me) (arr. for piano quartet)","mediaplayer\/player.asp?br=128&tl=1384073",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=AV2234.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=AV2234.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DAV2234","desc":"DVORAK, A.: Love Songs \/ Echo of Songs \/ Piano Quintet in A Major, Op. 81 (Kucerova, Eschenbach)","label":"Avie Records","category":"Chamber Music - Classical Music","composer":"Dvo\u0159\u00e1k, Anton\u00edn","artist":"Eschenbach, Christoph -- Kucerova, Adriana -- Thymos Quartet","country":"Czech Republic","catid":"AV2234","cdinfo":[[["Dvo&#345;&#225;k, Anton&#237;n",[["Love Songs, Op. 83, B. 160","mediaplayer\/player.asp?br=128&tl=1249176|1249177|1249178|1249179|1249180|1249181|1249182|1249183",["No. 1. O nasi lasce (About Our Love)","No. 2. V tak mnohem (From the Heart)","No. 3. Kol domu (The House)","No. 4. Ja vim (Hope)","No. 5. Nad krajem vevodi (The May Night)","No. 6. Zde V Lese U Potoka (By the Stream)","No. 7. V Te Sladke Moci (The Enchantment)","No. 8. O duse draha (The Singing Swan)"]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11, for string quartet) (excerpts)","mediaplayer\/player.asp?br=128&tl=1249184|1249185|1249186|1249187|1249188",["No. 1. Ja vim, ze v sladke nadeji (I Know that on My Love)","No. 2. V tak mnohem srdci mrtvo jest (Death Reigns)","No. 5. Zde hledim na ten drahy list (Here Gaze I)","No. 9. O duse draha jedinka (Thou Only Dear One)","No. 11. Nad krajem vevodi lehky spanek (Nature Lies Peaceful)"]],["Piano Quintet in A Major, Op. 81, B. 155","mediaplayer\/player.asp?br=128&tl=1249189|1249190|1249191|1249192",["I. Allegro ma non tanto","II. Dumka: Andante con moto","III. Scherzo: Molto vivace, \"Furiant\"","IV. Finale: Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GEN11200.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GEN11200.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGEN11200","desc":"Chamber Music - MOZART, W.A. \/ SCHUBERT, F. \/ BRAHMS, F. \/ DVORAK, A. \/ STRAUSS II, J. \/ SCHOENBERG, A. (Paul Badura-Skoda and Friends)","label":"Genuin","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Schubert, Franz -- Dvo\u0159\u00e1k, Anton\u00edn -- Strauss II, Johann -- Brahms, Johannes -- Not Applicable, na","artist":"Pergamenschikow, Boris -- Schneiderhan, Wolfgang -- Badura-Skoda, Paul -- Janigro, Antonio -- Fournier, Jean -- Oistrakh, David -- Kuchl Quartet","country":"Austria Czech Republic Germany","catid":"GEN11200","cdinfo":[[["Mozart, Wolfgang Amadeus",[["Violin Sonata No. 23 in D Major, K. 306","mediaplayer\/player.asp?br=128&tl=1202608|1202609|1202610",["I. Allegro con spirito","II. Andantino cantabile","III. Allegretto (cadenza by W.A. Mozart)"]]]],["Schubert, Franz",[["Piano Trio No. 2 in E-Flat Major, Op. 100, D. 929","mediaplayer\/player.asp?br=128&tl=1202611|1202612|1202613|1202614",["I. Allegro","II. Andante con moto","III. Scherzando: Allegro moderato","IV. Allegro moderato"]]]]],[["Brahms, Johannes",[["Piano Trio No. 1 in B Major, Op. 8","mediaplayer\/player.asp?br=128&tl=1202615|1202616|1202617|1202618",["I. Allegro con brio","II. Scherzo: Allegro molto","III. Adagio","IV. Allegro"]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Trio No. 4 in E Minor, Op. 90, B. 166, \"Dumky\"","mediaplayer\/player.asp?br=128&tl=1202619|1202620|1202621|1202622|1202623|1202624",["I. Lento maestoso - Allegro vivace, quasi doppio movimento","II. Poco adagio - Vivace non troppo","III. Andante","IV. Andante moderato (quasi tempo di marcia)","V. Allegro","VI. Lento maestoso - Vivace, quasi doppio movimento"]]]]],[["Brahms, Johannes",[["Piano Quintet in F Minor, Op. 34","mediaplayer\/player.asp?br=128&tl=1202625|1202626|1202627|1202628",["I. Allegro non troppo","II. Andante, un poco adagio","III. Scherzo: Allegro","IV. Finale: Poco sostenuto - Allegro non troppo"]]]],["Strauss II, Johann",[["Rosen aus dem Suden, Op. 388 (arr. A. Schoenberg)","mediaplayer\/player.asp?br=128&tl=1202629",[]]]]],[["Unknown Composer",[["Otto Schulhof (Teacher of Paul Badura-Skoda) plays and explains the \"Dumky\" Trio, 1954 (music by A. Dvorak)","mediaplayer\/player.asp?br=128&tl=1202630|1202631|1202632|1202633|1202634|1202635|1202636",["&#8212;","&#8212;","&#8212;","&#8212;","&#8212;","&#8212;","&#8212;"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MAR-121.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MAR-121.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMAR-121","desc":"DVORAK, A.: Piano Quintet \/ MOZART, W.A.: Piano Quartet No. 1 (Saarinen, Prague String Quartet)","label":"Marquis Classics","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Dvo\u0159\u00e1k, Anton\u00edn","artist":"Saarinen, Gloria -- Prague String Quartet","country":"Austria Czech Republic","catid":"MAR-121","cdinfo":[[["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quintet in A Major, Op. 81, B. 155","mediaplayer\/player.asp?br=128&tl=1048913|1048914|1048915|1048916",["I. Allegro ma non tanto","II. Dumka: Andante con moto","III. Scherzo (Furiant): Molto vivace","IV. Finale: Allegro"]]]],["Mozart, Wolfgang Amadeus",[["Piano Quartet No. 1 in G Minor, K. 478","mediaplayer\/player.asp?br=128&tl=1048917|1048918|1048919",["I. Allegro","II. Andante","III. Rondo: Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099920812157.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099920812157.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099920812157","desc":"JANACEK, L.: String Quartets Nos. 1 an 2 \/ DVORAK, A.: Dumka (Alban Berg Quartet)","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Jan\u00e1\u010dek, Leo\u0161 -- Dvo\u0159\u00e1k, Anton\u00edn","artist":"Leonskaja, Elisabeth -- Alban Berg Quartet","country":"Czech Republic","catid":"5099920812157","cdinfo":[[["Jan&#225;&#269;ek, Leo&#353;",[["String Quartet No. 1, JW VII\/8, \"Kreutzer Sonata\"","mediaplayer\/player.asp?br=128&tl=1111309|1111310|1111311|1111312",["I. Adagio - Con moto","II. Con moto","III. Con moto - Vivo - Andante","IV. Con moto (Adagio) - Pi&#249; mosso"]],["String Quartet No. 2, JW VII\/13, \"Listy duverne\" (Intimate Letters)","mediaplayer\/player.asp?br=128&tl=1111313|1111314|1111315|1111316",["I. Andante con moto - Allegro","II. Adagio - Vivace","III. Moderato - Adagio - Allegro","IV. Allegro - Andante - Adagio"]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quintet in A Major, Op. 81, B. 155: II. Dumka: Andante con moto","mediaplayer\/player.asp?br=128&tl=1111317",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=RXC1116.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=RXC1116.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DRXC1116","desc":"MOZART, W.A.: String Quartet No. 16 \/ SCHUMANN, R.: Piano Quintet, Op. 44 \/ DVORAK, A.: String Quartet No. 10 (The Busch Quartet) (1941, 1942)","label":"Radiex","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Schumann, Robert -- Dvo\u0159\u00e1k, Anton\u00edn","artist":"Busch Quartet, The","country":"Austria Czech Republic Germany","catid":"RXC1116","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CKD096.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CKD096.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCKD096","desc":"DVORAK, A.: Piano Quintet \/ String Quartet No. 12, &quot;American&quot; (Roscoe, Schidlof Quartet)","label":"Linn Records","category":"Chamber Music - Classical Music","composer":"Dvo\u0159\u00e1k, Anton\u00edn","artist":"Roscoe, Martin -- Schidlof Quartet","country":"Czech Republic","catid":"CKD096","cdinfo":[[["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quintet in A Major, Op. 81, B. 155","mediaplayer\/player.asp?br=128&tl=1750680|1750681|1750682|1750683",["I. Allegro ma non tanto","II. Dumka: Andante con moto","III. Scherzo (Furiant): Molto vivace","IV. Finale: Allegro"]],["String Quartet No. 12 in F Major, Op. 96, B. 179, \"American\"","mediaplayer\/player.asp?br=128&tl=1750684|1750685|1750686|1750687",["I. Allegro ma non troppo","II. Lento","III. Molto vivace","IV. Finale: Vivace ma non troppo"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/dvorak%20piano%20quintet%20no%202"};IMSLPNaxosSearch="dvorak piano quintet no 2";JGaskdonation=0;JGFileTools={"519750":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/519750"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%23519750"}},"76611":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/76611"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2376611"}},"29016":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=29016"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP29016"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=29016","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/29016"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/29016"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2329016"}},"61225":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61225"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61225\/61226\/61227\/61228\/34fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61225"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61225","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/61225"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/61225"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61225"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361225"}},"61226":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61226"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61225\/61226\/61227\/61228\/34fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61226"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61226","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/61226"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/61226"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61226"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361226"}},"61227":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61227"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61225\/61226\/61227\/61228\/34fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61227"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61227","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/61227"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/61227"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61227"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361227"}},"61228":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61228"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61225\/61226\/61227\/61228\/34fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61228"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61228","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/61228"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/61228"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61228"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361228"}},"61262":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61262"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61262\/61263\/61264\/61265\/0ae0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61262"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61262","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/61262"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61262"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361262"}},"61263":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61263"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61262\/61263\/61264\/61265\/0ae0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61263"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61263","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/61263"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61263"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361263"}},"61264":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61264"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61262\/61263\/61264\/61265\/0ae0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61264"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61264","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/61264"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61264"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361264"}},"61265":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=61265"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/61262\/61263\/61264\/61265\/0ae0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP61265"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=61265","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/61265"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/61265"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2361265"}},"65020":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=65020"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/65020\/65022\/6624"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP65020"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/65020"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/65020"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/65020"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2365020"}},"65022":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=65022"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/65020\/65022\/6624"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP65022"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/65022"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/65022"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/65022"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2365022"}},"6012":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=6012"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP06012"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=6012","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/6012"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/6012"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2306012"}},"2306":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=2306"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP02306"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=2306","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/2306"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/2306"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+No.2%2C+Op.81+%28Dvo%C5%99%C3%A1k%2C+Anton%C3%ADn%29&frmTitle=IMSLP+%2302306"}}};JGFileOpts={"519750":[],"76611":[],"29016":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biketpddYVgWatnbyzxHiqD+Xa8CmsoHfK09PrgkxTMBOLbrsaxW3cTHxaGCBSd1SWwnxKz8MEKoP\/kVBM\/hy\/t8KsnF79p9j91xOmiW8SAKA=="},"61225":[],"61226":[],"61227":[],"61228":[],"61262":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjWBgEXI9Ozf8UoND3DrrNueQOcSclkAIBDxr4XeL5W\/mMa7EZoGgCKTBOIcOosjNJ\/reZVpm3bFfQtQMNMqjLKjDxdgpPavblG4+0SNeTSKA=="},"61263":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhoYWugaPnM4VoLLbTx\/Z9FXYhBmNDGrlKopTxtu3tu8a655KcPLUMEwm\/3T1epW\/SCdKOpxob9vTvj08Cm3F4kFOIJD4K07GA7qc3qgZ+dfA=="},"61264":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biU9A6uJQa7330dmf1D6FHlgPz1MZRDElnxNsKgIaBwOFGtBBnkvfI4QEM3ViW1HunDBTo+cxw9Xvub8QYfS\/m++0DJblKBCEQ5BD4l7gxcOw=="},"61265":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhpahDY8fKSfIDGCKLCQfIemI7cUszBYhfXwyfiaK5qvOa23seeyg9kdDLvFW5JkoYF\/m41guyi\/b1Ry0lvKazp7JQDJOT2TRLCPTJzArlScg=="},"65020":[],"65022":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjtHSN1Ynf5TDS5xdJRdIkuIVi3FDH7H4RWmrbq3Np0J2oU1D4FsSU4Ii5Oguwh7l+EI7tUrSJdmPPGBD\/byk60w15M30YS2BR0a+9iYfYrng=="},"6012":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhjZclayJv+kvx0DOeNi\/H76Raoyr0GVoIVnlgGHrB59mdp49e1LaDU5jvpXH4htBupfJsiADi5M0wUVxfH3nrg5zMApWOXtCmpoHasqncMLXGrG1axqUZc5xnbgF2MM\/I="},"2306":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi5iAP0g0iYtVAry0tiJasnWa6ulPO2i+Ov0zDFsL7E8y7u2KLaG9pcx3Z7S8beHlg3sHG6+susWm5ceqTi5IYo"}};JGPageUntagged=false;JGPageTags=["quintets","2vn va vc pf"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore1":false,"tabArrTrans":false,"tabScore3":true,"tabScore4":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores and Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"2306":[7.5,"2"],"6012":[8,"2"],"29016":[6.0689655172414,"29"],"61225":[5.92,"25"],"61226":[6.4347826086957,"23"],"61227":[5.52,"25"],"61228":[5.7916666666667,"24"],"61262":[7,"20"],"61263":[7.1111111111111,"18"],"61264":[7.5238095238095,"21"],"61265":[6.1111111111111,"18"],"65020":[6.0606060606061,"33"],"65022":[6.8181818181818,"22"],"76611":[8.0909090909091,"22"],"519750":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores_and_Parts"><span class="tocnumber">2.1</span> <span class="toctext">Scores and Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Complete"><span class="tocnumber">2.1.1</span> <span class="toctext">Complete</span></a></li>
+<li class="toclevel-3"><a href="#Selections"><span class="tocnumber">2.1.2</span> <span class="toctext">Selections</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Piano_4_hands_.28Keller.29"><span class="tocnumber">2.2.1</span> <span class="toctext">For Piano 4 hands (Keller)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Free_Recordings"><span class="tocnumber">3</span> <span class="toctext">Free Recordings</span></a></li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">4</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">2</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<div class="we"><div id="IMSLP519750" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/519750"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Recording</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/82/PMLP6072-Boskovsky_Quartet_Decca_1951.mp3" class="internal" title="PMLP6072-Boskovsky Quartet Decca 1951.mp3">*</a></span><a href="/wiki/File:PMLP6072-Boskovsky_Quartet_Decca_1951.mp3" title="File:PMLP6072-Boskovsky Quartet Decca 1951.mp3">#519750</a> - <span style="color:red"><b>81.47</b></span>MB - 35:36<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-519750' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-519750'>
+	<a href='javascript:void(0)' id='519750' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='519750' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='519750' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='519750' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='519750' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-519750'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/519750/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/519750/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@519750" title="Special:GetFCtrStats/@519750">16</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Vangi" title="User:Vangi">Vangi</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Vangi" title="User:Vangi">Vangi</a><span class="mh555"> (2018/4/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Willi Boskovsky (violin), Clifford Curzon (piano), Robert Scheiwein (cello), Rudolf Streng (viola), Otto Strasser (violin), Vienna Philharmonic Quartet
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Decca, 1951.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Zero_1.0" title="IMSLP:Creative Commons Zero 1.0">Creative Commons Zero 1.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=519750">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=519750">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Téléchargement
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="519750">Javascript is required for this feature.</div><script>JGINITsearchbars['519750']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-PMLP6072-Boskovsky_Quartet_Decca_1951-678.jpg" class="image"><img alt="TN-PMLP6072-Boskovsky Quartet Decca 1951-678.jpg" src="/images/thumb/f/f6/TN-PMLP6072-Boskovsky_Quartet_Decca_1951-678.jpg/120px-TN-PMLP6072-Boskovsky_Quartet_Decca_1951-678.jpg" width="120" height="120" /></a></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP76611" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/76611"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ea/PMLP06072-dvorak_op81.mp3" class="internal" title="PMLP06072-dvorak op81.mp3">*</a></span><a href="/wiki/File:PMLP06072-dvorak_op81.mp3" title="File:PMLP06072-dvorak op81.mp3">#76611</a> - <span style="color:red"><b>33.89</b></span>MB - 37:00<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-76611' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-76611'>
+	<a href='javascript:void(0)' id='76611' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='76611' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='76611' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='76611' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='76611' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-76611'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/76611/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/76611/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@76611" title="Special:GetFCtrStats/@76611">8330</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a><span class="mh555"> (2010/8/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_76611'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"76611":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/conquest.imslp.info\/files\/imglnks\/usimg\/e\/ea\/IMSLP76611-PMLP06072-dvorak_op81.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Chamber_Music_Society_of_Lincoln_Center" title="Category:Chamber Music Society of Lincoln Center"> Chamber Music Society of Lincoln Center</a> (ensemble)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Boston: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.gardnermuseum.org/music/listen/music_library?filter=composer">Isabella Stewart Gardner Museum</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_No_Derivatives_3.0" title="IMSLP:Creative Commons Attribution Non-commercial No Derivatives 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial No Derivatives 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=76611">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=76611">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="76611">Javascript is required for this feature.</div><script>JGINITsearchbars['76611']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores and Parts (<span id="tabScore1_ct">12</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">1</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Other (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Source Files (<span id="tabScore4_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores_and_Parts">Scores and Parts</span></h3>
+<h4> <span class="mw-headline" id="Complete">Complete</span></h4>
+<div class="we"><div id="IMSLP29016" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/29016"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a5/PMLP06072-Dvorak_Piano_Qunintet_in_A_major_Op.81.pdf" class="internal" title="PMLP06072-Dvorak Piano Qunintet in A major Op.81.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_Piano_Qunintet_in_A_major_Op.81.pdf" title="File:PMLP06072-Dvorak Piano Qunintet in A major Op.81.pdf">#29016</a> - 7.87MB, 59 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-29016' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-29016'>
+	<a href='javascript:void(0)' id='29016' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='29016' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='29016' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='29016' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='29016' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-29016'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/29016/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/29016/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 31889"><a href="/wiki/Special:GetFCtrStats/@29016" title="Special:GetFCtrStats/@29016">31889</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Bruce1906&amp;action=edit&amp;redlink=1" class="new" title="User:Bruce1906 (page does not exist)">Bruce1906</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.piano.ru/inter-e.html">piano.ru</a></span><br />
+<a href="/index.php?title=User:Bruce1906&amp;action=edit&amp;redlink=1" class="new" title="User:Bruce1906 (page does not exist)">Bruce1906</a> (<span title="Updated: 2011/10/1" class="hovertext">2009/3/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Berlin: <a href="/wiki/N._Simrock" title="N. Simrock">N. Simrock</a>, 1888. Plate 8859
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Vienna: <a href="/wiki/Universal_Edition" title="Universal Edition">Universal Edition</a>, n.d.(after 1901)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=29016">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=29016">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="29016">Javascript is required for this feature.</div><script>JGINITsearchbars['29016']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=29016&type=Complete%20Score&pgcount=59&signature=1edba42c1c094bcece5e6f8ea3361bdc8aa7c471"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP06072-Dvorak_Piano_Qunintet_in_A_major_Op.81.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a5/6c6da67a27624b368575ceeff0172e1b3a42b7c2.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP61225" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61225"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/89/PMLP06072-Violin_I.pdf" class="internal" title="PMLP06072-Violin I.pdf">*</a></span><a href="/wiki/File:PMLP06072-Violin_I.pdf" title="File:PMLP06072-Violin I.pdf">#61225</a> - 16.54MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61225' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61225'>
+	<a href='javascript:void(0)' id='61225' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61225' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61225' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61225' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61225' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61225'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61225/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61225/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 13617"><a href="/wiki/Special:GetFCtrStats/@61225" title="Special:GetFCtrStats/@61225">13617</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a> (<span title="Updated: 2010/4/9" class="hovertext">2010/4/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP61226" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61226"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/61/PMLP06072-Violin_II.pdf" class="internal" title="PMLP06072-Violin II.pdf">*</a></span><a href="/wiki/File:PMLP06072-Violin_II.pdf" title="File:PMLP06072-Violin II.pdf">#61226</a> - 16.43MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61226' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61226'>
+	<a href='javascript:void(0)' id='61226' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61226' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61226' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61226' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61226' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61226'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61226/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61226/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7837"><a href="/wiki/Special:GetFCtrStats/@61226" title="Special:GetFCtrStats/@61226">7837</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a> (<span title="Updated: 2010/4/9" class="hovertext">2010/4/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP61227" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61227"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Viola</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b6/PMLP06072-Viola.pdf" class="internal" title="PMLP06072-Viola.pdf">*</a></span><a href="/wiki/File:PMLP06072-Viola.pdf" title="File:PMLP06072-Viola.pdf">#61227</a> - 18.19MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61227' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61227'>
+	<a href='javascript:void(0)' id='61227' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61227' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61227' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61227' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61227' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61227'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61227/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61227/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 8532"><a href="/wiki/Special:GetFCtrStats/@61227" title="Special:GetFCtrStats/@61227">8532</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a> (<span title="Updated: 2010/4/9" class="hovertext">2010/4/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP61228" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61228"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6b/PMLP06072-Cello.pdf" class="internal" title="PMLP06072-Cello.pdf">*</a></span><a href="/wiki/File:PMLP06072-Cello.pdf" title="File:PMLP06072-Cello.pdf">#61228</a> - 16.72MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61228' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61228'>
+	<a href='javascript:void(0)' id='61228' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61228' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61228' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61228' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61228' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61228'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61228/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61228/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 8270"><a href="/wiki/Special:GetFCtrStats/@61228" title="Special:GetFCtrStats/@61228">8270</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Pandarose4&amp;action=edit&amp;redlink=1" class="new" title="User:Pandarose4 (page does not exist)">Mallory Abbott</a> (<span title="Updated: 2010/4/9" class="hovertext">2010/4/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Berlin: <a href="/wiki/N._Simrock" title="N. Simrock">N. Simrock</a>, 1888. Plate 8860
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>New York: International Music Co., 1964.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=61225/61226/61227/61228">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=61225/61226/61227/61228">del</a>/<span id="fmrglnk" data-pdfstr="61225//61226//61227//61228/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td><i>This appears to be an unedited reprint. The 1964 copyright claim is therefore bogus.</i>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="61225">Javascript is required for this feature.</div><script>JGINITsearchbars['61225']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=61225|61226|61227|61228&type=Violin%201%7CViolin%202%7CViola%7CCello&pgcount=12|12|12|12&signature=c4f8db24a20c6551493cc76c26eddffa9f42ddb5"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP06072-Violin_I.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/89/2a2975de0804b030dc5c5754c4c5790ea48c16e3.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP61262" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61262"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d6/PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Violin1.pdf" class="internal" title="PMLP06072-Dvorak - Piano Quintet No2 Op81 Violin1.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Violin1.pdf" title="File:PMLP06072-Dvorak - Piano Quintet No2 Op81 Violin1.pdf">#61262</a> - 0.98MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61262' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61262'>
+	<a href='javascript:void(0)' id='61262' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61262' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61262' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61262' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61262' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61262'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61262/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61262/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6352"><a href="/wiki/Special:GetFCtrStats/@61262" title="Special:GetFCtrStats/@61262">6352</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (2010/4/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP61263" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61263"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/41/PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Violin2.pdf" class="internal" title="PMLP06072-Dvorak - Piano Quintet No2 Op81 Violin2.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Violin2.pdf" title="File:PMLP06072-Dvorak - Piano Quintet No2 Op81 Violin2.pdf">#61263</a> - 0.98MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61263' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61263'>
+	<a href='javascript:void(0)' id='61263' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61263' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61263' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61263' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61263' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61263'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61263/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61263/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4606"><a href="/wiki/Special:GetFCtrStats/@61263" title="Special:GetFCtrStats/@61263">4606</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (2010/4/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP61264" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61264"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Viola</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/32/PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Viola.pdf" class="internal" title="PMLP06072-Dvorak - Piano Quintet No2 Op81 Viola.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Viola.pdf" title="File:PMLP06072-Dvorak - Piano Quintet No2 Op81 Viola.pdf">#61264</a> - 0.99MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61264' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61264'>
+	<a href='javascript:void(0)' id='61264' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61264' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61264' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61264' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61264' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61264'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61264/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61264/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5041"><a href="/wiki/Special:GetFCtrStats/@61264" title="Special:GetFCtrStats/@61264">5041</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (2010/4/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP61265" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/61265"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e6/PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Cello.pdf" class="internal" title="PMLP06072-Dvorak - Piano Quintet No2 Op81 Cello.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Cello.pdf" title="File:PMLP06072-Dvorak - Piano Quintet No2 Op81 Cello.pdf">#61265</a> - 0.89MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-61265' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-61265'>
+	<a href='javascript:void(0)' id='61265' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='61265' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='61265' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='61265' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='61265' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-61265'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/61265/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/61265/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5109"><a href="/wiki/Special:GetFCtrStats/@61265" title="Special:GetFCtrStats/@61265">5109</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (2010/4/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Berlin: <a href="/wiki/N._Simrock" title="N. Simrock">N. Simrock</a>, 1888. Plate 8860
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>New York: International Music Co., 1964.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=61262/61263/61264/61265">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=61262/61263/61264/61265">del</a>/<span id="fmrglnk" data-pdfstr="61262//61263//61264//61265/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These are Abbott's color scans I have changed to  B/W.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="61262">Javascript is required for this feature.</div><script>JGINITsearchbars['61262']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=61262|61263|61264|61265&type=Violin%201%7CViolin%202%7CViola%7CCello&pgcount=12|12|12|12&signature=5ac1f1d706bbae894055742564a8c940f3e1137f"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP06072-Dvorak_-_Piano_Quintet_No2_Op81_Violin1.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d6/bb76b0f738f1392bce34ab0eb35e679edb0a035b.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP65020" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/65020"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2e/PMLP06072-Dvorak_op.081_Klavierquintett_Nr.2_Piano_score.pdf" class="internal" title="PMLP06072-Dvorak op.081 Klavierquintett Nr.2 Piano score.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_op.081_Klavierquintett_Nr.2_Piano_score.pdf" title="File:PMLP06072-Dvorak op.081 Klavierquintett Nr.2 Piano score.pdf">#65020</a> - 14.64MB, 84 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-65020' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-65020'>
+	<a href='javascript:void(0)' id='65020' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='65020' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='65020' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='65020' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='65020' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-65020'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/65020/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/65020/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 14442"><a href="/wiki/Special:GetFCtrStats/@65020" title="Special:GetFCtrStats/@65020">14442</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/5/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP65022" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/65022"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>String Parts</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/04/PMLP06072-Dvorak_op.081_Klavierquintett_Nr.2_Parts.pdf" class="internal" title="PMLP06072-Dvorak op.081 Klavierquintett Nr.2 Parts.pdf">*</a></span><a href="/wiki/File:PMLP06072-Dvorak_op.081_Klavierquintett_Nr.2_Parts.pdf" title="File:PMLP06072-Dvorak op.081 Klavierquintett Nr.2 Parts.pdf">#65022</a> - 8.54MB, 59 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-65022' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-65022'>
+	<a href='javascript:void(0)' id='65022' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='65022' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='65022' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='65022' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='65022' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-65022'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/65022/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/65022/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 4535"><a href="/wiki/Special:GetFCtrStats/@65022" title="Special:GetFCtrStats/@65022">4535</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/5/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/Souborn%C3%A9_vyd%C3%A1n%C3%AD_d%C3%ADla_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Souborné vydání díla (Dvořák, Antonín)"><i>Souborné vydání díla, series 4, vol.1</i></a><br />Prague: <a href="/wiki/Editio_Supraphon" title="Editio Supraphon">SNKLHU</a>, 1955. Plate H 930.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=65020/65022">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=65020/65022">del</a>/<span id="fmrglnk" data-pdfstr="65020//65022/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="65020">Javascript is required for this feature.</div><script>JGINITsearchbars['65020']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP06072-Dvorak_op.081_Klavierquintett_Nr.2_Piano_score.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2e/44b10a1c1dfff409a61771f9a65e4792c91e3bce.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Selections">Selections</span></h4>
+<div class="we"><div id="IMSLP06012" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/06012"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Dumka</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2f/Dvorak_-_quinteto_op_1_para_cuerdas_y_piano_-_mov_ii_dumka_%28score%29.pdf" class="internal" title="Dvorak - quinteto op 1 para cuerdas y piano - mov ii dumka (score).pdf">*</a></span><a href="/wiki/File:Dvorak_-_quinteto_op_1_para_cuerdas_y_piano_-_mov_ii_dumka_(score).pdf" title="File:Dvorak - quinteto op 1 para cuerdas y piano - mov ii dumka (score).pdf">#06012</a> - 1.85MB, 13 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-6012' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-6012'>
+	<a href='javascript:void(0)' id='6012' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='6012' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='6012' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='6012' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='6012' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-6012'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/06012/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/06012/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2183"><a href="/wiki/Special:GetFCtrStats/@6012" title="Special:GetFCtrStats/@6012">2183</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Isaac_sanmiguel" title="User:Isaac sanmiguel">isaac_sanmiguel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Tarakanov<br />
+<a href="/wiki/User:Isaac_sanmiguel" title="User:Isaac sanmiguel">isaac_sanmiguel</a> (2007/5/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Berlin: <a href="/wiki/N._Simrock" title="N. Simrock">N. Simrock</a>, 1888. Plate 8859.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=6012">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=6012">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="6012">Javascript is required for this feature.</div><script>JGINITsearchbars['6012']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=6012&type=2.%20Dumka&pgcount=13&signature=ed0a533ec84b55b33dc0eb2e167c902df0789d02"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Dvorak_-_quinteto_op_1_para_cuerdas_y_piano_-_mov_ii_dumka_(score).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2f/d584d7b76c519b053f1cbe9d1eb9f764bd42ae05.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores and Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Piano_4_hands_.28Keller.29">For Piano 4 hands (Keller)</span></h5>
+<div class="we"><div id="IMSLP02306" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/02306"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/19/Dvorak-pianoquintet2-pianoarr.pdf" class="internal" title="Dvorak-pianoquintet2-pianoarr.pdf">*</a></span><a href="/wiki/File:Dvorak-pianoquintet2-pianoarr.pdf" title="File:Dvorak-pianoquintet2-pianoarr.pdf">#02306</a> - 3.99MB, 68 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-2306' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-2306'>
+	<a href='javascript:void(0)' id='2306' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='2306' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='2306' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='2306' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='2306' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-2306'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/02306/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)" title="Special:IMSLPEditCTag/02306/Piano Quintet No.2, Op.81 (Dvořák, Antonín)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1492"><a href="/wiki/Special:GetFCtrStats/@2306" title="Special:GetFCtrStats/@2306">1492</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Peter" title="User:Peter">Peter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/3323"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Peter" title="User:Peter">Peter</a> (<span title="Updated: 2006/12/6" class="hovertext">2006/12/05</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Keller,_Robert" title="Category:Keller, Robert">Robert Keller</a> (1828-1891)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Berlin: <a href="/wiki/N._Simrock" title="N. Simrock">N. Simrock</a>, 1888. Plate 8974
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=2306">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=2306">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="2306">Javascript is required for this feature.</div><script>JGINITsearchbars['2306']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=2306&type=Complete%20Score&pgcount=68&signature=b8fd2121259aef3ace75228246b8346621c3f3a7"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Dvorak-pianoquintet2-pianoarr.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/19/55de66775113756f037031c57cbb866e966752d9.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Other" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="source" data-name="Source Files" data-tabid="tabScore4"></span>
+</p>
+</div></div></span>
+<h2> <span class="mw-headline" id="Free_Recordings">Free Recordings</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.dcmusicaviva.org/recordings/recordings.htm">Washington Musica Viva</a>
+</li></ul>
+<dl><dd>1. <a rel="nofollow" class="external text" href="http://www.dcmusicaviva.org/recordings/dvorak_quintet_1.mp3">Allegro ma non tanto</a>
+</dd><dd>2. <a rel="nofollow" class="external text" href="http://www.dcmusicaviva.org/recordings/dvorak_quintet_2.mp3">Dumka: Andante con moto</a>
+</dd><dd>3. <a rel="nofollow" class="external text" href="http://www.dcmusicaviva.org/recordings/dvorak_quintet_3.mp3">Scherzo-Furiant: Molto vivace</a>
+</dd><dd>4. <a rel="nofollow" class="external text" href="http://www.dcmusicaviva.org/recordings/dvorak_quintet_4_fd.mp3">Finale: Allegro</a>
+</dd></dl>
+<ul><li>Alessandro Amoretti, piano; Oleg Douliba and Olga Bada-Letzner, violins; Andrea Mereutza, viola; Benjamin Stiehl, cello (Piano Society)
+</li></ul>
+<dl><dd>1. <a rel="nofollow" class="external text" href="http://server3.pianosociety.com/protected/dvorak-81-1-amoretti.mp3">Allegro ma non tanto</a>
+</dd><dd>2. <a rel="nofollow" class="external text" href="http://server3.pianosociety.com/protected/dvorak-81-2-amoretti.mp3">Dumka: Andante con moto</a>
+</dd><dd>3. <a rel="nofollow" class="external text" href="http://server3.pianosociety.com/protected/dvorak-81-3-amoretti.mp3">Scherzo-Furiant: Molto vivace</a>
+</dd><dd>4. <a rel="nofollow" class="external text" href="http://server3.pianosociety.com/protected/dvorak-81-4-amoretti.mp3">Finale: Allegro</a>
+</dd></dl>
+<p><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+</p>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Piano Quintet No.2
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Dvo%C5%99%C3%A1k,_Anton%C3%ADn" title="Category:Dvořák, Antonín">Dvořák, Antonín</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>Op.81&#160;; B.155
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IAD 56
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>A major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 movements:
+<ol><li> Allegro ma non tanto (A major)
+</li><li> Dumka Andante con moto (F-sharp minor)
+</li><li> Scherzo-Furiant. Molto vivace (A major) - Poco tranquillo (F major)
+</li><li> Finale. Allegro (A major)
+</li></ol>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1887
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1888-01-06, Prague
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1888 – Berlin: <a href="/wiki/N._Simrock" title="N. Simrock">N. Simrock</a>.
+<ul><li><i>Piano score</i> - Plate 8859, 59 pages
+</li><li><i>String parts</i> - Plate 8860, 4 parts
+</li></ul>
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>Dr B. Neureuther
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>39 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>2 violins, viola, cello, piano
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Piano_Quintet_No._2_(Dvo%C5%99%C3%A1k)" class="extiw" title="wikipedia:Piano Quintet No. 2 (Dvořák)">Wikipedia article</a><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.antonin-dvorak.cz/en/piano-quintet2">antonin-dvorak.cz</a></span><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://musicbrainz.org/work/5adbc202-905f-4184-bddc-d46b9bc452e8">MusicBrainz</a></span>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 707/1000000
+Post-expand include size: 67452/2097152 bytes
+Template argument size: 159/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:6072-0!*!0!!en!2!* and timestamp 20180417083136 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)&amp;oldid=2578831">http://imslp.org/index.php?title=Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)&amp;oldid=2578831</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Chamber_Music_Society_of_Lincoln_Center/Performer" title="Category:Chamber Music Society of Lincoln Center/Performer">Chamber Music Society of Lincoln Center/Performer</a></li><li><a href="/wiki/Category:Gardner_Museum_Recordings" title="Category:Gardner Museum Recordings">Gardner Museum Recordings</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Keller,_Robert/Arranger" title="Category:Keller, Robert/Arranger">Keller, Robert/Arranger</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Work_pages_with_links_to_recordings" title="Category:Work pages with links to recordings">Work pages with links to recordings</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Dvo%C5%99%C3%A1k,_Anton%C3%ADn" title="Category:Dvořák, Antonín">Dvořák, Antonín</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Quintets" title="Category:Quintets">Quintets</a></li><li><a href="/wiki/Category:For_2_violins,_viola,_cello,_piano" title="Category:For 2 violins, viola, cello, piano">For 2 violins, viola, cello, piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:Scores_featuring_the_viola" title="Category:Scores featuring the viola">Scores featuring the viola</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_5_players" title="Category:For 5 players">For 5 players</a></li><li><a href="/wiki/Category:For_piano_4_hands_(arr)" title="Category:For piano 4 hands (arr)">For piano 4 hands (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano_4_hands" title="Category:Scores featuring the piano 4 hands">Scores featuring the piano 4 hands</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1888" title="Category:Works first published in 1888">Works first published in 1888</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:A_major" title="Category:A major">A major</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Piano_Quintet_No.2%2C_Op.81_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29">33,959 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Piano%20Quintet%20No.2%2C%20Op.81%20%28Dvo%C5%99%C3%A1k%2C%20Anton%C3%ADn%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.530 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180417083136 -->
+</html>
+		

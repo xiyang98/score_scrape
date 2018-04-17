@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Ave Maria, Op.12 (Brahms, Johannes) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Ave_Maria,_Op.12_(Brahms,_Johannes)", "wgTitle": "Ave Maria, Op.12 (Brahms, Johannes)", "wgCurRevisionId": 2478072, "wgArticleId": 27060, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Library of Congress", "Manuscripts from the 1800s", "Composers\' holographs from the 1800s", "Manuscripts", "Pages with First Editions", "Scores published by J. Rieter-Biedermann", "Mandyczewski, Eusebius/Editor", "Scores published by Breitkopf und Härtel", "Scores", "Brahms, Johannes", "Romantic style", "Romantic", "Ave Maria", "Hymns", "Sacred hymns", "Religious works", "For female chorus, orchestra", "Scores featuring female chorus", "Scores featuring the orchestra", "For chorus with orchestra", "Latin language", "Works first published in 1860", "Works first published in the 19th century", "Pages with parts for purchase", "F major", "Pages linked to Classical Archives"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ave_Maria_Op_12_Brahms_Johannes action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Ave_Maria,_Op.12_(Brahms,_Johannes)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Ave_Maria,_Op.12_(Brahms,_Johannes)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Ave_Maria,_Op.12_(Brahms,_Johannes)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Ave_Maria,_Op.12_(Brahms,_Johannes)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Ave_Maria,_Op.12_(Brahms,_Johannes)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Ave_Maria,_Op.12_(Brahms,_Johannes)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Ave_Maria,_Op.12_(Brahms,_Johannes)&amp;oldid=2478072" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Ave%20Maria%2C%20Op.12%20%28Brahms%2C%20Johannes%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Ave Maria, Op.12 (Brahms, Johannes)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>Andante
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1858
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Ave_Maria&amp;transclude=Template:Catintro">Ave Maria</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Hymns&amp;transclude=Template:Catintro">Hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Sacred_hymns&amp;transclude=Template:Catintro">Sacred hymns</a></span>; <span class="expandline" title="6 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Religious_works&amp;transclude=Template:Catintro">Religious works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_female_chorus%2C_orchestra&amp;transclude=Template:Catintro">For female chorus, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_female_chorus&amp;transclude=Template:Catintro">Scores featuring female chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_chorus_with_orchestra&amp;transclude=Template:Catintro">For chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Latin_language&amp;transclude=Template:Catintro">Latin language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Ave Maria, Op.12","composer":"Brahms, Johannes","comphref":"\/wiki\/Category:Brahms,_Johannes"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"ave maria","itunes":"ave maria","composer":"brahms","scorekeywords":"ave maria","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=18;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CHAN10165.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CHAN10165.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCHAN10165","desc":"BRAHMS: Triumphlied \/ Ave Maria \/ Schicksalslied \/ Nanie","label":"Chandos","category":"Choral - Sacred - Classical Music","composer":"Brahms, Johannes","artist":"Skovhus, Bo -- Albrecht, Gerd -- Danish National Symphony Orchestra","country":"Germany","catid":"CHAN10165","cdinfo":[[["Brahms, Johannes",[["Triumphlied, Op. 55","mediaplayer\/player.asp?br=128&tl=262486|262487|262488",["I. Halleluja! Heil und Preis (Chorus)","II. Lobet unsern Gott, alle seine Knechte (Chorus)","III. Und ich sahe den Himmel aufgethan (Baritone, Chorus)"]],["Ave Maria, Op. 12","mediaplayer\/player.asp?br=128&tl=262489",[]]]],["Brahms, Johannes",[["Schicksalslied, Op. 54","mediaplayer\/player.asp?br=128&tl=262493",[]]]],["Brahms, Johannes",[["Nanie, Op. 82","mediaplayer\/player.asp?br=128&tl=262494",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GMCD7380.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GMCD7380.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGMCD7380","desc":"Choral Concert: Fairhaven Singers - BRAHMS, J. \/ RACHMANINOV, S. \/ CHILCOTT, B. \/ PARSONS, R. \/ VICTORIA, T.L. de \/ STRAVINSKY, I. (Full of Grace)","label":"Guild","category":"Choral - Sacred - Classical Music","composer":"Franz, Robert -- Praetorius, Michael -- Rachmaninov, Sergey -- Victoria, Tom\u00e1s Luis de -- Villa-Lobos, Heitor -- Parsons, Robert -- Rautavaara, Einojuhani -- Chilcott, Bob -- Stravinsky, Igor -- Brahms, Johannes -- Bruckner, Anton -- \u0141ukaszewski, Pawel","artist":"Woodward, Ralph","country":"Austria Brazil Finland Germany Poland Russia Spain Sweden United Kingdom","catid":"GMCD7380","cdinfo":[[["Rachmaninov, Sergey",[["All-night Vigil, Op. 37, \"Vespers\": Hail, O Virgin Mother (Ave Maria)","mediaplayer\/player.asp?br=128&tl=1488764",[]]]],["Chilcott, Bob",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1488765",[]]]],["Parsons, Robert",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1488766",[]]]],["Victoria, Tom&#225;s Luis de",[["Alma Redemptoris mater a 8","mediaplayer\/player.asp?br=128&tl=1488767",[]]]],["&#321;ukaszewski, Pawel",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1488768",[]]]],["Stravinsky, Igor",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1488769",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=1488770",[]]]],["Villa-Lobos, Heitor",[["Ave Maria (version for 4 part choir)","mediaplayer\/player.asp?br=128&tl=1488771",[]]]],["Franz, Robert",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1488772",[]]]],["Brahms, Johannes",[["7 Marienlieder, Op. 22","mediaplayer\/player.asp?br=128&tl=1488773|1488774|1488775|1488776|1488777|1488778|1488779",["No. 1. Der englische Gruss","No. 2. Marias Kirchgang","No. 3. Marias Wallfahrt","No. 4. Der Jager","No. 5. Ruf zur Maria","No. 6. Magdalena","No. 7. Marias Lob"]]]],["Brahms, Johannes",[["11 Chorale Preludes, Op. 122: No. 8. Es ist ein Ros' entsprungen","mediaplayer\/player.asp?br=128&tl=1488780",[]]]],["Praetorius, Michael",[["Es ist ein Ros' entsprungen","mediaplayer\/player.asp?br=128&tl=1488781",[]]]],["Praetorius, Michael",[["Det ar en ros utsprungen (Behold a Rose is springing) (arr. J. Sandstrom)","mediaplayer\/player.asp?br=128&tl=1488782",[]]]],["Rautavaara, Einojuhani",[["Canticum Mariae Virginis","mediaplayer\/player.asp?br=128&tl=1488783",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=IDIS6436.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=IDIS6436.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DIDIS6436","desc":"Vocal Recital: Gigli, Beniamino - CARNEVALLI, V. \/ FRANCK, C. \/ BACH, J.S. \/ GOUNOD, C.-F. \/ CECCONI, G. \/ BRAHMS, J. \/ KAHN, P.B. (1932-1954)","label":"IDIS","category":"Choral - Sacred - Classical Music","composer":"Carnevali, Vito -- Bach, Johann Sebastian -- Verdi, Giuseppe -- Schubert, Franz -- Gibilaro, Alfonso -- Kahn, Percival Benedict -- Traditional -- Handel, George Frideric -- Bizet, Georges -- Godard, Benjamin -- Gounod, Charles-Francois -- Stradella, Alessandro -- Brahms, Johannes -- Franck, C\u00e9sar -- Raffa, Maurizio -- Cecconi, Guglielmo -- Liviabella, Lino","artist":"Gigli, Beniamino","country":"Austria France Germany Italy United Kingdom","catid":"IDIS6436","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=C49341.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=C49341.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DC49341","desc":"Choral Music (Sacred) - SCHUBERT, F. \/ BRAHMS, J. \/ MENDELSSOHN, Felix \/ VERDI, G. \/ MONTEVERDI, C. \/ BRUCKNER, A. \/ MOZART, W.A. \/ GRIEG, E.","label":"Capriccio","category":"Choral - Sacred - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Bortniansky, Dmitry Stepanovich -- Rachmaninov, Sergey -- Verdi, Giuseppe -- Schubert, Franz -- Cherubini, Luigi -- Tchaikovsky, Pyotr Il'yich -- Traditional -- Haydn, Franz Joseph -- Mendelssohn, Felix -- Monteverdi, Claudio -- Palestrina, Giovanni Pierluigi da -- Beethoven, Ludwig van -- Gretchaninov, Alexander -- Grieg, Edvard -- Chesnokov, Pavel -- Brahms, Johannes -- Bruckner, Anton -- Abt, Franz Wilhelm -- Dubyansky, Fyodor -- Kedrov, Nicolai -- Khristov, Dobri","artist":"Lippert, Herbert -- Raimondi, Ildiko -- Grandis, Franco de -- Cordier, David -- Ombuena Valls, Vincente -- Christoff, Boris -- Fink, Bernarda -- Toczyska, Stefania -- Marschik, Peter -- Ferro, Gabriele -- Creed, Marcus -- Ferencsik, Janos -- Gronostay, Uwe -- Haselb\u00f6ck, Martin -- Froschauer, Helmut -- Russian National Orchestra -- Stuttgart Philharmonic Orchestra -- Berlin Radio Symphony Orchestra -- Fiedler, Ursula -- Ghiuselev, Nicola -- Vienna Academy Orchestra -- Berlin Staatskapelle -- Kleine Konzert, Das -- Max, Hermann -- Flamig, Martin -- Wildhaber, Helmut -- RIAS Symphony Orchestra -- Stampfli, Jakob -- Sofia Philharmonic Orchestra -- Holzl, Barbara -- Cologne Radio Orchestra -- Robev, Georgi -- Weigle, J\u00f6rg-Peter -- Knothe, Dietrich -- Knapp, Michael -- Jankowitsch, Ernst -- Lindsley, Celina -- Hollweg, Werner -- Otto, Ralf -- Cappella Coloniensis -- Velten, Hubert -- Buchner, Roland -- Winkler, Michael-Christfried -- Bratislava Philharmonic Orchestra -- Romanko, Olga -- Basso, Il -- Grigorov, Todor -- Popsavov, Miroslav","country":"Austria Bulgaria Germany Italy Norway Russia Turkey Ukraine","catid":"C49341","cdinfo":[[["Traditional",[["Meerstern ich dich grusse","mediaplayer\/player.asp?br=128&tl=553020",[]]]],["Schubert, Franz",[["Ellen's Gesang III (Ave Maria!), Op. 56, No. 6, D. 839, \"Hymne an die Jungfrau\" (arr. for choir)","mediaplayer\/player.asp?br=128&tl=553021",[]]]],["Brahms, Johannes",[["14 Deutsche Volkslieder, Book 1, WoO 34: No. 5. Taublein weiss","mediaplayer\/player.asp?br=128&tl=553022",[]]]],["Mendelssohn, Felix",[["3 Kirchenmusiken, Op. 23: No. 2. Ave maria","mediaplayer\/player.asp?br=128&tl=553023",[]]]],["Verdi, Giuseppe",[["4 Pezzi sacri: No. 3. Laudi alla vergine Maria","mediaplayer\/player.asp?br=128&tl=553024",[]]]],["Monteverdi, Claudio",[["Vespro della Beata Vergine, \"composti sopra canti fermi\": Ave maris stella","mediaplayer\/player.asp?br=128&tl=553025",[]]]],["Traditional",[["Gott hat dich, Maria erwahlt","mediaplayer\/player.asp?br=128&tl=553026",[]]]],["Mendelssohn, Felix",[["Magnificat","mediaplayer\/player.asp?br=128&tl=553027",[]]]],["Schubert, Franz",[["Salve regina in B-Flat Major, D. 386","mediaplayer\/player.asp?br=128&tl=553028",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=553029",[]]]],["Mozart, Wolfgang Amadeus",[["Sancta Maria, mater Dei, K. 273","mediaplayer\/player.asp?br=128&tl=553030",[]]]],["Grieg, Edvard",[["Ave, maris stella (version for choir)","mediaplayer\/player.asp?br=128&tl=553031",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=553032",[]]]],["Abt, Franz Wilhelm",[["Ave Maria, Op. 533: Nun ist der laute Tag verhallt","mediaplayer\/player.asp?br=128&tl=553033",[]]]],["Verdi, Giuseppe",[["4 Pezzi sacri: No. 2. Stabat mater","mediaplayer\/player.asp?br=128&tl=553034",[]]]]],[["Mozart, Wolfgang Amadeus",[["Mass No. 16 in C Major, K. 317, \"Kronungsmesse\" (Coronation Mass): Kyrie - Gloria","mediaplayer\/player.asp?br=128&tl=553051",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872: Zum Evangelium und Credo: Noch lag die Schopfung formlos da","mediaplayer\/player.asp?br=128&tl=553052",[]]]],["Bach, Johann Sebastian",[["Mass in B Minor, BWV 232: Credo in unum Deum","mediaplayer\/player.asp?br=128&tl=553053",[]]]],["Palestrina, Giovanni Pierluigi da",[["Missa sine nomine: Sanctus","mediaplayer\/player.asp?br=128&tl=553054",[]]]],["Cherubini, Luigi",[["Mass in A Major: O salutaris hostias","mediaplayer\/player.asp?br=128&tl=553055",[]]]],["Schubert, Franz",[["Mass No. 6 in E-Flat Major, D. 950: Credo: Et incarnatus est","mediaplayer\/player.asp?br=128&tl=553056",[]]]],["Mozart, Wolfgang Amadeus",[["Requiem in D Minor, K. 626: Offertory No. 1: Domine Jesu Christe","mediaplayer\/player.asp?br=128&tl=553057",[]]]],["Haydn, Franz Joseph",[["Mass No. 14 in B-Flat Major, Hob.XXII:14, \"Harmoniemesse\": Sanctus","mediaplayer\/player.asp?br=128&tl=553058",[]]]],["Beethoven, Ludwig van",[["Mass in D Major, Op. 123, \"Missa Solemnis\": Kyrie: Assai sostenuto (Mit Andancht)","mediaplayer\/player.asp?br=128&tl=553059",[]]]],["Schubert, Franz",[["Mass No. 2 in G Major, D. 167: Credo","mediaplayer\/player.asp?br=128&tl=553060",[]]]],["Mozart, Wolfgang Amadeus",[["Missa solemnis in C Minor, K. 139, \"Waisenhausmesse\" (Orphanage): Benedictus","mediaplayer\/player.asp?br=128&tl=553061",[]]]],["Verdi, Giuseppe",[["Messa da Requiem: Lacrymosa","mediaplayer\/player.asp?br=128&tl=553062",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872: Schlussgesang: Herr, Du hast mein Flehn vernommen","mediaplayer\/player.asp?br=128&tl=553063",[]]]],["Bach, Johann Sebastian",[["Mass in B Minor, BWV 232: Dona nobis pacem","mediaplayer\/player.asp?br=128&tl=553064",[]]]]],[["Bortniansky, Dmitry Stepanovich",[["Ich bete an die Macht der Liebe","mediaplayer\/player.asp?br=128&tl=553065",[]]]],["Khristov, Dobri",[["Tebe Poem: Wir singen dir, wir preisen dich","mediaplayer\/player.asp?br=128&tl=553066",[]]]],["Dubyansky, Fyodor",[["Vater unser","mediaplayer\/player.asp?br=128&tl=553067",[]]]],["Rachmaninov, Sergey",[["All-night Vigil, Op. 37, \"Vespers\": Psalm 1, \"Blessed is the man\"","mediaplayer\/player.asp?br=128&tl=553068",[]]]],["Gretchaninov, Alexander",[["Die grosse Litanie","mediaplayer\/player.asp?br=128&tl=553069",[]]]],["Bortniansky, Dmitry Stepanovich",[["Izhe Kheruvimi (Cherubic Hymn)","mediaplayer\/player.asp?br=128&tl=553070",[]]]],["Rachmaninov, Sergey",[["All-night Vigil, Op. 37, \"Vespers\": Hexapsalms: Glory to God on high","mediaplayer\/player.asp?br=128&tl=553071",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Liturgy of St. John Chrysostom, Op. 41: Cherubikon","mediaplayer\/player.asp?br=128&tl=553072",[]]]],["Chesnokov, Pavel",[["Das mystische Opfer","mediaplayer\/player.asp?br=128&tl=553073",[]]]],["Dubyansky, Fyodor",[["Die himmlischen Krafte","mediaplayer\/player.asp?br=128&tl=553074",[]]]],["Rachmaninov, Sergey",[["Liturgy of St John Chrysostom, Op. 31: The Lord's Prayer","mediaplayer\/player.asp?br=128&tl=553075",[]]]],["Gretchaninov, Alexander",[["The Liturgy of St. John Chrysostom, No. 3, Op. 79: Trisagion","mediaplayer\/player.asp?br=128&tl=553076",[]]]],["Dubyansky, Fyodor",[["Des allgeruhmten Wunders","mediaplayer\/player.asp?br=128&tl=553077",[]]]],["Kedrov, Nicolai",[["Vater unser","mediaplayer\/player.asp?br=128&tl=553078",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028942787223.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028942787223.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028942787223","desc":"Choral Music - BEETHOVEN, L. van \/ SCHUBERT, F. \/ VERDI, G. \/ HANDEL, G.F. \/ HAYDN, J. \/ BRAHMS, J. (Die sch\u00f6nsten Ch\u00f6re) (Arndt, Schrems, K. Richter)","label":"Deutsche Grammophon","category":"Choral - Sacred - Classical Music","composer":"Bach, Johann Sebastian -- Verdi, Giuseppe -- Schubert, Franz -- Leoncavallo, Ruggero -- Handel, George Frideric -- Haydn, Franz Joseph -- Mascagni, Pietro -- Beethoven, Ludwig van -- Bizet, Georges -- Gounod, Charles-Francois -- Brahms, Johannes -- Bruckner, Anton -- Schnabel, Joseph Ignaz","artist":"Berry, Walter -- Meyer, Wolfgang -- Grobe, Donald -- Wunderlich, Fritz -- Otto, Lisa -- Cossotto, Fiorenza -- Karajan, Herbert von -- Abbado, Claudio -- Kubel\u00edk, Rafael -- B\u00f6hm, Karl -- Votto, Antonino -- Vienna Philharmonic Orchestra -- Berlin Radio Symphony Orchestra -- London Symphony Orchestra -- Bergonzi, Carlo -- Ricciardi, Franco -- Bavarian Radio Symphony Orchestra -- Milan La Scala Orchestra -- Dresden Staatskapelle -- Buchner, Eberhard -- Andre, Maurice -- Maionica, Silvio -- Guelfi, Giangiacomo -- Janowitz, Gundula -- Leib, Gunther -- Bilgram, Hedwig -- Munich Bach Orchestra -- Richter, Karl -- Martino, Adriana -- Carbonari, Virgilio -- Arndt, Gunther -- Schloter, Elmar -- Tavolaccini, Giuliana -- Allegri, Maria Gracia","country":"Austria France Germany Italy United Kingdom","catid":"00028942787223","cdinfo":[[["Beethoven, Ludwig van",[["6 Songs, Op. 48: No. 4. Die Ehre Gottes aus der Natur (arr. F. Mottl for choir and orchestra)","mediaplayer\/player.asp?br=128&tl=3051964",[]]]],["Schnabel, Joseph Ignaz",[["Transeamus usque Bethlehem","mediaplayer\/player.asp?br=128&tl=3051968",[]]]],["Schubert, Franz",[["Ellens Gesang III (Ave Maria!), Op. 52, No. 6, D. 839, \"Hymne an die Jungfrau (version for choir)","mediaplayer\/player.asp?br=128&tl=3051969",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872:  Heilig, heilig, heilig","mediaplayer\/player.asp?br=128&tl=3051970",[]]]],["Bach, Johann Sebastian",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=3051971",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=3051972",[]]]],["Bizet, Georges",[["Agnus Dei (arr. H. Baumann for choir)","mediaplayer\/player.asp?br=128&tl=3051973",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872: Zum Gloria: Ehre, Ehre sei Gott in der Hohe","mediaplayer\/player.asp?br=128&tl=3051988",[]]]],["Handel, George Frideric",[["Messiah, HWV 56, Part II: Hallelujah","mediaplayer\/player.asp?br=128&tl=3051974",[]]]],["Bach, Johann Sebastian",[["Mass in B Minor, BWV 232: Gloria in excelsis Deo","mediaplayer\/player.asp?br=128&tl=3051975",[]]]],["Schubert, Franz",[["Kyrie in B-Flat Major, D. 45","mediaplayer\/player.asp?br=128&tl=3051976",[]]]],["Schubert, Franz",[["Salve regina in B-Flat Major, D. 386","mediaplayer\/player.asp?br=128&tl=3051977",[]]]],["Haydn, Franz Joseph",[["Die Schopfung (The Creation), Hob.XXI:2: Die Himmel erzahlen die Ehre Gottes","mediaplayer\/player.asp?br=128&tl=3051978",[]]]],["Haydn, Franz Joseph",[["Mass No. 10 in C Major, Hob.XXII:9, \"Missa in tempore belli\", \"Paukenmesse\", \"Kriegsmesse\": Gloria: Gloria in excelsis Deo","mediaplayer\/player.asp?br=128&tl=3051979",[]]]],["Brahms, Johannes",[["Ein deutsches Requiem (A German Requiem), Op. 45: II. Denn alles Fleisch es ist wie Gras","mediaplayer\/player.asp?br=128&tl=3051980",[]]]],["Verdi, Giuseppe",[["Nabucco (excerpts)","mediaplayer\/player.asp?br=128&tl=3051990|3051991",["Act I: Introduction and Recitative: Gli arredi festivi giu candano infranti","Act III: Va pensiero, sull'ali dorata"]]]],["Beethoven, Ludwig van",[["Fidelio, Op. 72, Act I: Finale: O welche Lust, in freier Luft den Atem leicht zu heben!, \"Prison Chorus\"","mediaplayer\/player.asp?br=128&tl=3051992",[]]]],["Verdi, Giuseppe",[["Otello, Act I: Fuoco di gioia","mediaplayer\/player.asp?br=128&tl=3051993",[]]]],["Verdi, Giuseppe",[["Aida, Act II: Gloria all'Egitto","mediaplayer\/player.asp?br=128&tl=3051994",[]]]],["Verdi, Giuseppe",[["Don Carlo, Act II: Spuntato ecco il di d'esultanza","mediaplayer\/player.asp?br=128&tl=3051995",[]]]],["Verdi, Giuseppe",[["Il trovatore, Act II: Vedi, le fosche notturne","mediaplayer\/player.asp?br=128&tl=3051996",[]]]],["Verdi, Giuseppe",[["La traviata, Act II: Di Madride noi siam mattadori","mediaplayer\/player.asp?br=128&tl=3051997",[]]]],["Verdi, Giuseppe",[["Macbeth, Act I: Introduzione: Che faceste? Dite su!","mediaplayer\/player.asp?br=128&tl=3051998",[]]]],["Bizet, Georges",[["Carmen (excerpts)","mediaplayer\/player.asp?br=128&tl=3052001|3052007",["Act I: Avec la garde montante","Act IV: Les voici! Voici la quadrille des Toreros"]]]],["Leoncavallo, Ruggero",[["Pagliacci: Act I: Don, Din, Don, Din","mediaplayer\/player.asp?br=128&tl=3052009",[]]]],["Mascagni, Pietro",[["Cavalleria rusticana (excerpts)","mediaplayer\/player.asp?br=128&tl=3052013|3052017",["Gli aranci olezzano","Beato voi, compar Alfio"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=C18406.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=C18406.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DC18406","desc":"CLASSIC MOODS - MOZART, W.A. \/ SILCHER, F. \/ SCHUBERT, F. \/ MENDELSSOHN, Felix \/ HAYDN, F.J. \/ BRUCKNER, A. \/ BRAHMS, J. \/ BRUCH, M.","label":"Capriccio","category":"Choral - Sacred - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Bortniansky, Dmitry Stepanovich -- Verdi, Giuseppe -- Schubert, Franz -- Haydn, Franz Joseph -- Mendelssohn, Felix -- Grieg, Edvard -- Brahms, Johannes -- Bruch, Max -- Bruckner, Anton -- Silcher, Friedrich -- Dubyansky, Fyodor","artist":"Lippert, Herbert -- Raimondi, Ildiko -- Cordier, David -- Fink, Bernarda -- Zadori, Maria -- Marschik, Peter -- Creed, Marcus -- Fischer, Ivan -- Haselb\u00f6ck, Martin -- Froschauer, Helmut -- Berlin Radio Symphony Orchestra -- Budapest Philharmonic Orchestra -- Vienna Academy Orchestra -- Leipzig Radio Symphony Orchestra -- Vienna Volksoper Orchestra -- Flamig, Martin -- Wildhaber, Helmut -- Kegel, Herbert -- Weigle, J\u00f6rg-Peter -- Jankowitsch, Ernst -- Eschenburg, Hartwig -- Schmid, Gertraud -- Jansen, Dorothe -- Cologne West German Radio Orchestra -- Buchner, Roland","country":"Austria Germany Irish Republic Italy Norway Ukraine","catid":"C18406","cdinfo":[[["Mozart, Wolfgang Amadeus",[["Vesperae solennes de confessore, K. 339: Laudate Dominum","mediaplayer\/player.asp?br=128&tl=547403",[]]]],["Silcher, Friedrich",[["So nimm denn meine Hande","mediaplayer\/player.asp?br=128&tl=547404",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872: Zum Sanctus: Heilig, heilig ist der Herr","mediaplayer\/player.asp?br=128&tl=547405",[]]]],["Mendelssohn, Felix",[["Elijah, Op. 70: Denn er hat seinen Engeln befohlen uber dir","mediaplayer\/player.asp?br=128&tl=547406",[]]]],["Haydn, Franz Joseph",[["Die Schopfung (The Creation), Hob.XXI:2, Part III: Von deiner Gut', o Herr und Gott (By thee with bliss, O bounteous Lord)","mediaplayer\/player.asp?br=128&tl=547407",[]]]],["Bortniansky, Dmitry Stepanovich",[["Ich bete an die Macht der Liebe","mediaplayer\/player.asp?br=128&tl=547408",[]]]],["Schubert, Franz",[["Ellen's Gesang III (Ave Maria!), Op. 56, No. 6, D. 839, \"Hymne an die Jungfrau\"","mediaplayer\/player.asp?br=128&tl=547409",[]]]],["Grieg, Edvard",[["Ave, maris stella (version for choir)","mediaplayer\/player.asp?br=128&tl=547410",[]]]],["Bach, Johann Sebastian",[["Wer weiss, wie nahe mir mein Ende!, BWV 27: Wer weiss, wie nahe mir mein Ende","mediaplayer\/player.asp?br=128&tl=547411",[]]]],["Schubert, Franz",[["Mass No. 6 in E-Flat Major, D. 950: Credo: Et incarnatus est","mediaplayer\/player.asp?br=128&tl=547412",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=547413",[]]]],["Bruch, Max",[["Jubilate-Amen, Op. 3","mediaplayer\/player.asp?br=128&tl=547414",[]]]],["Verdi, Giuseppe",[["4 Pezzi sacri: No. 3. Laudi alla vergine Maria","mediaplayer\/player.asp?br=128&tl=547415",[]]]],["Dubyansky, Fyodor",[["Otche nash (Valter unser)","mediaplayer\/player.asp?br=128&tl=547416",[]]]],["Brahms, Johannes",[["Ein deutsches Requiem (A German Requiem), Op. 45: I. Selig sind, die da Leid tragen","mediaplayer\/player.asp?br=128&tl=547417",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028942377424.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028942377424.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028942377424","desc":"Choral Music - BACH, J.S. \/ BEETHOVEN, L. van \/ BIZET, G. \/ BRAHMS, J. \/ BRUCKNER, A. \/ HANDEL, G.F. \/ HAYDN, J. (Die Himmel r\u00fchmen) (Arndt, Schrems)","label":"Deutsche Grammophon","category":"Choral - Sacred - Classical Music","composer":"Bach, Johann Sebastian -- Schubert, Franz -- Handel, George Frideric -- Haydn, Franz Joseph -- Beethoven, Ludwig van -- Bizet, Georges -- Gounod, Charles-Francois -- Brahms, Johannes -- Bruckner, Anton -- Schnabel, Joseph Ignaz","artist":"Berry, Walter -- Meyer, Wolfgang -- Grobe, Donald -- Wunderlich, Fritz -- Otto, Lisa -- Karajan, Herbert von -- Kubel\u00edk, Rafael -- Vienna Philharmonic Orchestra -- Berlin Radio Symphony Orchestra -- Bavarian Radio Symphony Orchestra -- Andre, Maurice -- Janowitz, Gundula -- Bilgram, Hedwig -- Munich Bach Orchestra -- Richter, Karl -- Arndt, Gunther -- Schloter, Elmar","country":"Austria France Germany","catid":"00028942377424","cdinfo":[[["Beethoven, Ludwig van",[["6 Songs, Op. 48: No. 4. Die Ehre Gottes aus der Natur (arr. F. Mottl for choir and orchestra)","mediaplayer\/player.asp?br=128&tl=2467692",[]]]],["Schnabel, Joseph Ignaz",[["Transeamus usque Bethlehem","mediaplayer\/player.asp?br=128&tl=2467693",[]]]],["Schubert, Franz",[["Ellens Gesang III (Ave Maria!), Op. 52, No. 6, D. 839, \"Hymne an die Jungfrau (version for choir)","mediaplayer\/player.asp?br=128&tl=2789631",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872:  Heilig, heilig, heilig","mediaplayer\/player.asp?br=128&tl=2467695",[]]]],["Bach, Johann Sebastian",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=2789632",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=2467697",[]]]],["Bizet, Georges",[["Agnus Dei (arr. H. Baumann for choir and orchestra)","mediaplayer\/player.asp?br=128&tl=2467698",[]]]],["Schubert, Franz",[["Deutsche Messe, D. 872: Zum Gloria: Ehre, Ehre sei Gott in der Hohe","mediaplayer\/player.asp?br=128&tl=2467705",[]]]],["Handel, George Frideric",[["Messiah, HWV 56, Part II: Hallelujah","mediaplayer\/player.asp?br=128&tl=2789633",[]]]],["Bach, Johann Sebastian",[["Mass in B Minor, BWV 232: Gloria in excelsis Deo","mediaplayer\/player.asp?br=128&tl=2467700",[]]]],["Schubert, Franz",[["Kyrie in B-Flat Major, D. 45","mediaplayer\/player.asp?br=128&tl=2467701",[]]]],["Schubert, Franz",[["Salve regina in B-Flat Major, D. 386","mediaplayer\/player.asp?br=128&tl=2467702",[]]]],["Haydn, Franz Joseph",[["Die Schopfung (The Creation), Hob.XXI:2: Die Himmel erzahlen die Ehre Gottes","mediaplayer\/player.asp?br=128&tl=2467703",[]]]],["Haydn, Franz Joseph",[["Mass No. 10 in C Major, Hob.XXII:9, \"Missa in tempore belli\", \"Paukenmesse\", \"Kriegsmesse\": Gloria: Gloria in excelsis Deo","mediaplayer\/player.asp?br=128&tl=2789634",[]]]],["Brahms, Johannes",[["Ein deutsches Requiem (A German Requiem), Op. 45: II. Denn alles Fleisch es ist wie Gras","mediaplayer\/player.asp?br=128&tl=2467706",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NOSAGOT108.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NOSAGOT108.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNOSAGOT108","desc":"Choral Concert: Adolf Fredrik Boys Choir - FORSBERG, R. \/ BRAHMS, J. \/ REGER, M. \/ FAURE, G. \/ QUILTER, R. \/ BRITTEN, B. \/ HEAD, M. (Live)","label":"Nosag","category":"Choral - Sacred - Classical Music","composer":"Forsberg, Roland -- Mozart, Wolfgang Amadeus -- Head, Michael -- Quilter, Roger -- Reger, Max -- Traditional -- Faur\u00e9, Gabriel -- Brahms, Johannes -- Britten, Benjamin","artist":"Eleby, John Erik -- Hillerud, Jan-Ake","country":"Austria France Germany India Italy Sweden United Kingdom United States","catid":"NOSAGOT108","cdinfo":[[["Traditional",[["Swing Low, Sweet Chariot (arr. H.T. Burleigh)","mediaplayer\/player.asp?br=128&tl=930972",[]]]],["Traditional",[["I himmelen (arr. J.A. Hillerud)","mediaplayer\/player.asp?br=128&tl=930985",[]]]],["Forsberg, Roland",[["Som lammen stilla vandra","mediaplayer\/player.asp?br=128&tl=930997",[]]]],["Brahms, Johannes",[["5 Lieder, Op. 49: No. 4. Wiegenlied (arr. for choir)","mediaplayer\/player.asp?br=128&tl=930998",[]]]],["Reger, Max",[["Schlichte Weisen, Op. 76: No. 52. Maria Wiegenlied (arr. for choir)","mediaplayer\/player.asp?br=128&tl=930999",[]]]],["Faur&#233;, Gabriel",[["Mater, Maria gratiae, Op. 47, No. 2","mediaplayer\/player.asp?br=128&tl=931001",[]],["Ave verum, Op. 65, No. 1","mediaplayer\/player.asp?br=128&tl=931002",[]]]],["Faur&#233;, Gabriel",[["Tantum ergo, Op. 65, No. 2","mediaplayer\/player.asp?br=128&tl=931003",[]]]],["Quilter, Roger",[["Non nobis, Domine","mediaplayer\/player.asp?br=128&tl=931004",[]]]],["Britten, Benjamin",[["Psalm 150, Op. 67","mediaplayer\/player.asp?br=128&tl=931005",[]]]],["Britten, Benjamin",[["A Ceremony of Carols, Op. 28 (excerpts)","mediaplayer\/player.asp?br=128&tl=931017|931018",["This Little Babe","Spring Carol"]]]],["Head, Michael",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=931049",[]]]],["Mozart, Wolfgang Amadeus",[["Missa brevis in B-Flat Major, K. 275 (excerpts)","mediaplayer\/player.asp?br=128&tl=931102|931103|931104|931105",["Kyrie","Sanctus","Benedictus","Agnus Dei"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=RR-67CD.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=RR-67CD.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DRR-67CD","desc":"Choral Concert: Turtle Creek Chorale - STRAUSS, R. \/ BRAHMS, J. \/ MENDELSSOHN, F. \/ SCHUBERT, F. \/ BRUCKNER, A. \/ BIEBL, F.X. (The Times of Day)","label":"Reference Recordings","category":"Choral - Sacred - Classical Music","composer":"Biebl, Franz Xaver -- Schubert, Franz -- Mendelssohn, Felix -- Strauss, Richard -- Brahms, Johannes -- Bruckner, Anton","artist":"Fort Worth Chamber Orchestra -- Fort Worth Symphony Brass -- Seelig, Timothy -- Sonnenberg, Melanie -- Jenkins, Timothy","country":"Austria Germany","catid":"RR-67CD","cdinfo":[[["Bruckner, Anton",[["Das deutsche Lied, WAB 63","mediaplayer\/player.asp?br=128&tl=1312156",[]]]],["Schubert, Franz",[["Schwanengesang, D. 957: No. 4. Standchen (Serenade)","mediaplayer\/player.asp?br=128&tl=1312184",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=1312185",[]]]],["Bruckner, Anton",[["Abendzauber, WAB 57","mediaplayer\/player.asp?br=128&tl=1312196",[]]]],["Brahms, Johannes",[["Alto Rhapsody, Op. 53","mediaplayer\/player.asp?br=128&tl=1312199",[]]]],["Biebl, Franz Xaver",[["Ave Maria (Angelus Domini)","mediaplayer\/player.asp?br=128&tl=1312205",[]]]],["Mendelssohn, Felix",[["Festgesang an die Kunstler, Op. 68, MWV D6","mediaplayer\/player.asp?br=128&tl=1312255",[]]]],["Strauss, Richard",[["Die Tageszeiten, Op. 76 (arr. J. Giordano)","mediaplayer\/player.asp?br=128&tl=1312284|1312285|1312286|1312287",["I. Der Morgen","II. Mittagsruh","III. Der Abend","IV. Die Nacht"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MYTO00146.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MYTO00146.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMYTO00146","desc":"Vocal Recital: Gigli, Beniamino - MEYERBEER, G. \/ HANDEL, G.F. \/ MOZART, W.A. \/ BRAHMS, J. (1954)","label":"MYTO Historical","category":"Opera - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Melichar, Alois -- Puccini, Giacomo -- Verdi, Giuseppe -- Cardillo, Salvatore -- Leoncavallo, Ruggero -- Capua, Eduardo di -- Crescenzo, Vincenzo de -- Handel, George Frideric -- Gastaldon, Stanislao -- Massenet, Jules -- Meyerbeer, Giacomo -- Bizet, Georges -- Gounod, Charles-Francois -- Brahms, Johannes -- Cecconi, Guglielmo","artist":"Gigli, Beniamino -- Sivieri, Enrico -- RIAS Symphony Orchestra","country":"Austria France Germany Italy Russia United Kingdom","catid":"MYTO00146","cdinfo":false}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/brahms%20ave%20maria"};IMSLPNaxosSearch="brahms ave maria";JGaskdonation=0;JGFileTools={"110010":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=110010"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP110010"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/110010"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/110010"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/110010"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23110010"}},"22845":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=22845"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP22845"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=22845","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/22845"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/22845"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/22845"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%2322845"}},"109042":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=109042"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109042\/109043\/6f6f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP109042"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/109042"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/109042"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23109042"}},"109043":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=109043"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109042\/109043\/6f6f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP109043"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/109043"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/109043"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23109043"}},"309448":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP309448"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/309448"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/309448"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23309448"}},"311070":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311070"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311070"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311070"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311070"}},"311071":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311071"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311071"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311071"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311071"}},"311072":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311072"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311072"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311072"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311072"}},"311073":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311073"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311073"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311073"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311073"}},"311074":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311074"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311074"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311074"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311074"}},"311075":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311075"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311075"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311075"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311075"}},"311076":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311076"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311076"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311076"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311076"}},"311077":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311077"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311077"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311077"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311077"}},"311078":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311078"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311078"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311078"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311078"}},"311079":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/309448\/311070\/311071\/311072\/311073\/311074\/311075\/311076\/311077\/311078\/311079\/083d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP311079"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/311079"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/311079"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23311079"}},"110011":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=110011"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP110011"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/110011"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/110011"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/110011"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23110011"}},"471426":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471426"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/471426\/471431\/de8b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471426"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471426","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471426"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471426"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23471426"}},"471431":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471431"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/471426\/471431\/de8b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471431"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471431","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471431"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471431"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23471431"}},"10985":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=10985"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP10985"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=10985","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/10985"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/10985"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ave+Maria%2C+Op.12+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%2310985"}}};JGFileOpts={"110010":[],"22845":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhhyle5ZTE8PGJf+jDwRO\/vmdbMJrBAafHvzKyk6s7lAasWyWaTbxa3S4Fe6s1NSMQIMUT9lFmzr+fWcrrrTCwn"},"109042":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgjE8BTTi4225RlzzYrn3jczlvCh9Z1F2MMZQ9nrnEeKbPepzxmYlawi\/tiOCpnEQcbE\/cKDajhSMU9iXJ0538Uyh4avj5mgvQ0uYkF3Tv8prZVw7MODaiiDHzpaTj6h8g="},"109043":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0EdwkhkRlOksgkbqXIkh5eeYHn9jUC1KdAzZhcCLFIQCCn6DiknwvlefMO5Ks9w2BG8jwKPi30SZvnZEZkmHgI9zJ+\/H9vjDSOJu5XP6tcSZFWvl9SOAYS1wYv+QfbK4="},"309448":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgg+4P1oDlChYAFdX36Q\/cww9LGo8DCDuSAfp0xwAvJUV8RfnMUgR6uQliWEayGpqcC6LCe0jxcWLuwBXEyPw5n4tnJ60Cur3KS10RlCSQafA=="},"311070":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgMlAeWpYmWTwSywfTdOIcLlgeFidDt4H4JVtgvTUSdv8\/Gp9bqKbEE+gSLp0+16iptAQTD6E7Os8Uxw8FFS6Dt2cOgYbWyFnuAWkacvmfw4OHkNSfNmbMzMWQHEy4wDJc="},"311071":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCW0pcJBbY1iQvlUR4YW0A4Oh6IDPIC0iJ+6xkaLMUNeq5GBKJTP\/9+fEk8SfW\/Xlc50Vj718yPrrdc6gVlhY9nOo3p4+sdsWYzJRh8SybshLzDitCW35dvDXCDMzTVXA="},"311072":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj5wcAcwGE4HAglfh9JvXq78gj\/2QyhHMiUHT6+R+\/tqtIpGNyJj3awsQb6iGAJEHzkbeapPDcWtE8JywhfxTdABaitjohYpbcGPS+PD+dWti29A0WR0uRcCHu1GC8v8n0hsHMfoMXztcltQxhRvmip"},"311073":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgkq6\/aDhLuIc\/mhfd9XOVDCx29Ud+hl+qNJ3TupTHh7d0xE6bwo6K6i5mpZFngUV5L6ut+RiTVDLOAO02N56xqB2+i3K9aguf4EImIdjtRjLhJ5DyCrlO4RkVWY4hSnKlP3DL7ok52Cc1ACavyL\/US"},"311074":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjwVCkzfiL2IevL1kgtvB+DdawHGcFaRd1Q2PgSdUnsSoZHKsZ\/TXCssjv5ecZ15wH6oy1CN6+iFu3IELd4swGIsfdiPOEF181Pupf7pjzB0SVaLjv0NAC+Izp37q9JORY="},"311075":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biypks4Mg3104+wzJ39mpUcydshop8fq7jw+Z6muPPALd6GaZyOLz9Js8QbiSxfWknoxLIJuCWBhicSAJCqAfdjqUWsRSHBs+mB0KbZ6lwErwdJ7ONa\/pvMIq\/jWIfYvg2WkXbXrnX3\/KdLvbwzcfuw"},"311076":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqtfyxpqgrJPLAROZKtqzF77xaAtgL\/exqY3RgTJB+YAlVezKunrnj8ZoBVxnO61CDYBuHLKO6x54gyINGvn6yGYJJ1L6dPM9XVK5K4rwGUHndJmoxq6Ko9ayrOdbOhla\/ByEKmsXNdh9JaO\/DYUY4"},"311077":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnY+rygu7Aorp6bVgTnGakTX30R8ScH13l1YhhH59SmhbOHp+C6fSon+PWvHCZJ3Lq2\/Q7aZtw2kMYvtvapUQpvvVAMFLNeapmgfJBSLAwWJHMTeSM\/DkDL9JCnVPekt4="},"311078":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj6s4B8RldgnuMCZb4unnc+YyCoC6fQOsV6sa9D6ifxXSAIRp0bUbkAxMQTjLid5pzL2n4\/7LiRwjaPIDUfteM\/hOEv9QfHtp8OLUBoyEea+ijZjfh8o\/hhTWbPQXMQx08="},"311079":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhz\/8yZJmbRE+NrYM0U4UN5cvjnoNe+5TmAx\/5iXKMSXgO1NdQ4YhnF6NtGCcnQ9dasfPeNoJlMubqyxqI3\/Z4XVBt1h7UE2tXYNJMPBeG2ZUFTkg6lbyO8mmuY7km\/G+w="},"110011":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjeqeAbfSKE9uRPhSi3fstuGN7bDdgG2h+VN0D9HN2HTY7aZD03Dn4\/E\/3hn0+z36Bq4nPpVJPR+1SzbYPk7fptSLSKzWWxkUXsqWjQmKfngA=="},"471426":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhYgpffxxViLgJxm6Lb8rIx4x0Y+OTIuq9d\/8LP\/72s3hOwT\/YZAhiR4nksoQbxv01NsPl5p34ZvaXO4vBFtlv7"},"471431":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi0f1Tyj\/DMjsyv6FvX0IXgV9xqWrF3yK4TY+DL9IsQhwdNRMPNuqzHm6\/RdmvXNJIYtiu0tLBmrh8ef4fyISYl"},"10985":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhfyzxWpz0ZklQIC+ou3h1dhaGJfj2YHAsQRsiViuskJUdLYuSzrfHQUOkMlWch+74="}};JGPageUntagged=false;JGPageTags=["ave maria","fch orch","la"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabScore3":false,"tabArrTrans":true,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"22845":[5.6666666666667,"6"],"109042":[4.6666666666667,"6"],"109043":[5,"2"],"110010":[8,"4"],"311070":[2,"1"],"309448":[0,0],"311071":[0,0],"311072":[0,0],"311073":[0,0],"311074":[0,0],"311075":[0,0],"311076":[0,0],"311077":[0,0],"311078":[0,0],"311079":[0,0],"110011":[0,0],"471426":[0,0],"471431":[0,0],"10985":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.3</span> <span class="toctext">Vocal Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">4</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">11</span>)</a></b></li><li id="tabScore3_tab"><b><a href="#tabScore3">Vocal Scores (<span id="tabScore3_ct">4</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP110010" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/110010"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4f/PMLP27060-JBrahms_Ave_Maria%2C_Op.12_fs_ms.pdf" class="internal" title="PMLP27060-JBrahms Ave Maria, Op.12 fs ms.pdf">*</a></span><a href="/wiki/File:PMLP27060-JBrahms_Ave_Maria,_Op.12_fs_ms.pdf" title="File:PMLP27060-JBrahms Ave Maria, Op.12 fs ms.pdf">#110010</a> - <span style="color:red"><b>21.46</b></span>MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-110010' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-110010'>
+	<a href='javascript:void(0)' id='110010' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='110010' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='110010' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='110010' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='110010' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-110010'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/110010/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/110010/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4887"><a href="/wiki/Special:GetFCtrStats/@110010" title="Special:GetFCtrStats/@110010">4887</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.loc.gov/index.html"><span style="border-bottom:1px dotted black" title="Library of Congress">US-Wc</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2011/7/21" class="hovertext">2011/7/20</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Holograph manuscript, n.d.(ca.1858–60)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=110010">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=110010">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Original scans: 400dpi, color tif files approximately 5500 by 4200 pixels.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="110010">Javascript is required for this feature.</div><script>JGINITsearchbars['110010']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-JBrahms_Ave_Maria,_Op.12_fs_ms.jpg" class="image"><img data-src="/images/thumb/8/84/TN-JBrahms_Ave_Maria%2C_Op.12_fs_ms.jpg/120px-TN-JBrahms_Ave_Maria%2C_Op.12_fs_ms.jpg" width="120" height="91" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP22845" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/22845"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/13/PMLP27060-BraWV%2C_S._39.pdf" class="internal" title="PMLP27060-BraWV, S. 39.pdf">*</a></span><a href="/wiki/File:PMLP27060-BraWV,_S._39.pdf" title="File:PMLP27060-BraWV, S. 39.pdf">#22845</a> - 3.51MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-22845' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-22845'>
+	<a href='javascript:void(0)' id='22845' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='22845' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='22845' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='22845' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='22845' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-22845'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/22845/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/22845/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6801"><a href="/wiki/Special:GetFCtrStats/@22845" title="Special:GetFCtrStats/@22845">6801</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ivdruiz" title="User:Ivdruiz">Ivdruiz</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.brahms-institut.de/web/bihl_digital/jb_werkekatalog/op_012.html"><span style="border-bottom:1px dotted black" title="Brahms-Institut">D-LÜbi</span></a></span><br />
+<a href="/wiki/User:Ivdruiz" title="User:Ivdruiz">Ivdruiz</a> (2008/10/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Winterthur: <a href="/wiki/J._Rieter-Biedermann" title="J. Rieter-Biedermann">J. Rieter-Biedermann</a><!--ASL0-->, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001861&amp;teil=0203&amp;seite=00000055&amp;zoom=1">[1861]</a></span>.  Plate 165.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=22845">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=22845">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Colour scan with digital watermark
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="22845">Javascript is required for this feature.</div><script>JGINITsearchbars['22845']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=22845&type=Complete%20Score&pgcount=16&signature=eba7ff9b8d3ee43eb41565bf30acbe79f1185d55"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP27060-BraWV,_S._39.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/13/cd8c3df51772b8c839b0dcae861f00a0bc66569b.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP109042" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/109042"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (scan)</span></a></b> (<a href="/images/5/55/PV-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12.jpg" class="internal" title="PV-Brahms Werke Band 19 Breitkopf JB 96 Op 12.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/75/PMLP27060-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12_scan.pdf" class="internal" title="PMLP27060-Brahms Werke Band 19 Breitkopf JB 96 Op 12 scan.pdf">*</a></span><a href="/wiki/File:PMLP27060-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12_scan.pdf" title="File:PMLP27060-Brahms Werke Band 19 Breitkopf JB 96 Op 12 scan.pdf">#109042</a> - 1.55MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-109042' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-109042'>
+	<a href='javascript:void(0)' id='109042' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='109042' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='109042' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='109042' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='109042' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-109042'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/109042/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/109042/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2546"><a href="/wiki/Special:GetFCtrStats/@109042" title="Special:GetFCtrStats/@109042">2546</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by piupianissimo<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2011/7/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP109043" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/109043"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (filter)</span></a></b> (<a href="/images/5/55/PV-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12.jpg" class="internal" title="PV-Brahms Werke Band 19 Breitkopf JB 96 Op 12.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cd/PMLP27060-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12_filter.pdf" class="internal" title="PMLP27060-Brahms Werke Band 19 Breitkopf JB 96 Op 12 filter.pdf">*</a></span><a href="/wiki/File:PMLP27060-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12_filter.pdf" title="File:PMLP27060-Brahms Werke Band 19 Breitkopf JB 96 Op 12 filter.pdf">#109043</a> - 1.15MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-109043' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-109043'>
+	<a href='javascript:void(0)' id='109043' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='109043' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='109043' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='109043' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='109043' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-109043'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/109043/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/109043/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3142"><a href="/wiki/Special:GetFCtrStats/@109043" title="Special:GetFCtrStats/@109043">3142</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by piupianissimo<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2011/7/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Mandyczewski,_Eusebius" title="Category:Mandyczewski, Eusebius">Eusebius Mandyczewski</a> (1857-1929)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/S%C3%A4mtliche_Werke_(Brahms,_Johannes)" title="Sämtliche Werke (Brahms, Johannes)"><i>Johannes Brahms: Sämtliche Werke</i></a>, <i>Band 19:<br />Chorwerke mit Orchester III</i> (pp.113-23)<br />Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf &amp; Härtel</a><!--ASL1-->, 1926-27.  Plate J.B. 96.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=109042/109043">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=109042/109043">del</a>/<span id="fmrglnk" data-pdfstr="109042//109043/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>scan: score scanned at 600dpi<br />filter: score filtered with 2-point algorithm explained in <a href="/wiki/IMSLP:High_Quality_Scanning" title="IMSLP:High Quality Scanning">High Quality Scanning</a><br />I provide the original scanned version and the filtered, because the filter does some changes (smoothening, sharpening borders) and some portions of the scan get lost sometimes (when they are too small e.g.) - so you can choose your favorite. You may ask me for a manually cleaned version.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="109042">Javascript is required for this feature.</div><script>JGINITsearchbars['109042']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12.jpg" class="image"><img data-src="/images/thumb/0/04/TN-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12.jpg/120px-TN-Brahms_Werke_Band_19_Breitkopf_JB_96_Op_12.jpg" width="120" height="170" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP309448" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/309448"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Parts</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/60/PMLP27060-Brahms_-_Ave_Maria_op._12_-_PARTS.pdf" class="internal" title="PMLP27060-Brahms - Ave Maria op. 12 - PARTS.pdf">*</a></span><a href="/wiki/File:PMLP27060-Brahms_-_Ave_Maria_op._12_-_PARTS.pdf" title="File:PMLP27060-Brahms - Ave Maria op. 12 - PARTS.pdf">#309448</a> - 0.46MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-309448' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-309448'>
+	<a href='javascript:void(0)' id='309448' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='309448' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='309448' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='309448' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='309448' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-309448'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/309448/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/309448/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 378"><a href="/wiki/Special:GetFCtrStats/@309448" title="Special:GetFCtrStats/@309448">378</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Teofh" title="User:Teofh">Teofh</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Teofh" title="User:Teofh">Teofh</a> (2014/1/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>10 more</u>:</b> Flute 1, 2 • Oboe 1, 2 • Clarinet 1, 2 (B&#x266d;) • Bassoon 1, 2 • Horn 1, 2 (F) • Violins I • Violins II • Violas • Cellos • Basses
+</p>
+</div><div id="IMSLP311070" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311070"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d0/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Flutes.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Flutes.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Flutes.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Flutes.pdf">#311070</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311070' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311070'>
+	<a href='javascript:void(0)' id='311070' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311070' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311070' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311070' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311070' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311070'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311070/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311070/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 227"><a href="/wiki/Special:GetFCtrStats/@311070" title="Special:GetFCtrStats/@311070">227</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311071" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311071"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d1/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Oboes.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Oboes.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Oboes.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Oboes.pdf">#311071</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311071' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311071'>
+	<a href='javascript:void(0)' id='311071' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311071' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311071' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311071' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311071' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311071'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311071/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311071/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 160"><a href="/wiki/Special:GetFCtrStats/@311071" title="Special:GetFCtrStats/@311071">160</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311072" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311072"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1, 2 (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bc/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Clarinets.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Clarinets.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Clarinets.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Clarinets.pdf">#311072</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311072' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311072'>
+	<a href='javascript:void(0)' id='311072' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311072' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311072' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311072' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311072' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311072'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311072/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311072/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 169"><a href="/wiki/Special:GetFCtrStats/@311072" title="Special:GetFCtrStats/@311072">169</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311073" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311073"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6b/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Bassoons.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Bassoons.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Bassoons.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Bassoons.pdf">#311073</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311073' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311073'>
+	<a href='javascript:void(0)' id='311073' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311073' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311073' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311073' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311073' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311073'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311073/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311073/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 129"><a href="/wiki/Special:GetFCtrStats/@311073" title="Special:GetFCtrStats/@311073">129</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311074" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311074"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1, 2 (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e4/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Horns.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Horns.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Horns.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Horns.pdf">#311074</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311074' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311074'>
+	<a href='javascript:void(0)' id='311074' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311074' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311074' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311074' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311074' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311074'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311074/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311074/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 169"><a href="/wiki/Special:GetFCtrStats/@311074" title="Special:GetFCtrStats/@311074">169</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311075" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311075"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2c/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Violin_I.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Violin I.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Violin_I.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Violin I.pdf">#311075</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311075' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311075'>
+	<a href='javascript:void(0)' id='311075' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311075' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311075' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311075' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311075' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311075'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311075/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311075/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 599"><a href="/wiki/Special:GetFCtrStats/@311075" title="Special:GetFCtrStats/@311075">599</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311076" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311076"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a9/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Violin_II.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Violin II.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Violin_II.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Violin II.pdf">#311076</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311076' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311076'>
+	<a href='javascript:void(0)' id='311076' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311076' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311076' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311076' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311076' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311076'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311076/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311076/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 211"><a href="/wiki/Special:GetFCtrStats/@311076" title="Special:GetFCtrStats/@311076">211</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311077" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311077"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/ff/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Viola.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Viola.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Viola.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Viola.pdf">#311077</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311077' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311077'>
+	<a href='javascript:void(0)' id='311077' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311077' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311077' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311077' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311077' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311077'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311077/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311077/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 158"><a href="/wiki/Special:GetFCtrStats/@311077" title="Special:GetFCtrStats/@311077">158</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311078" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311078"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dc/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Cellos.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Cellos.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Cellos.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Cellos.pdf">#311078</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311078' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311078'>
+	<a href='javascript:void(0)' id='311078' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311078' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311078' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311078' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311078' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311078'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311078/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311078/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 233"><a href="/wiki/Special:GetFCtrStats/@311078" title="Special:GetFCtrStats/@311078">233</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP311079" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/311079"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a0/PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Basses.pdf" class="internal" title="PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Basses.pdf">*</a></span><a href="/wiki/File:PMLP27060-IMSLP309448-PMLP27060-Brahms_-_Ave_Maria_op._12_-_Basses.pdf" title="File:PMLP27060-IMSLP309448-PMLP27060-Brahms - Ave Maria op. 12 - Basses.pdf">#311079</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-311079' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-311079'>
+	<a href='javascript:void(0)' id='311079' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='311079' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='311079' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='311079' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='311079' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-311079'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/311079/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/311079/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 175"><a href="/wiki/Special:GetFCtrStats/@311079" title="Special:GetFCtrStats/@311079">175</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2014/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>Matteo Falloni
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Matteo Falloni
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=309448/311070/311071/311072/311073/311074/311075/311076/311077/311078/311079">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=309448/311070/311071/311072/311073/311074/311075/311076/311077/311078/311079">del</a>/<span id="fmrglnk" data-pdfstr="309448//311070//311071//311072//311073//311074//311075//311076//311077//311078//311079/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Teofh uploaded parts split helpfully by Sallen112. (Note: Oboe file, second page is Oboe II)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="309448">Javascript is required for this feature.</div><script>JGINITsearchbars['309448']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP27060-Brahms_-_Ave_Maria_op._12_-_PARTS.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/60/c5559763c82e53a606783b748edeb0a40d8cc130.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<div class="we"><div id="IMSLP110011" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/110011"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5e/PMLP27060-JBrahms_Ave_Maria%2C_Op.12_vs_ms.pdf" class="internal" title="PMLP27060-JBrahms Ave Maria, Op.12 vs ms.pdf">*</a></span><a href="/wiki/File:PMLP27060-JBrahms_Ave_Maria,_Op.12_vs_ms.pdf" title="File:PMLP27060-JBrahms Ave Maria, Op.12 vs ms.pdf">#110011</a> - 9.29MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-110011' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-110011'>
+	<a href='javascript:void(0)' id='110011' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='110011' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='110011' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='110011' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='110011' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-110011'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/110011/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/110011/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1340"><a href="/wiki/Special:GetFCtrStats/@110011" title="Special:GetFCtrStats/@110011">1340</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.loc.gov/index.html"><span style="border-bottom:1px dotted black" title="Library of Congress">US-Wc</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2011/7/21" class="hovertext">2011/7/20</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Holograph manuscript, n.d.(ca.1858–60)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=110011">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=110011">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Original scans: 400dpi, color tif files approximately 5500 by 4200 pixels. The vocal parts are in a copyist's hand but the piano part appears to be in Brahms' hand.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="110011">Javascript is required for this feature.</div><script>JGINITsearchbars['110011']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-JBrahms_Ave_Maria,_Op.12_vs_ms.jpg" class="image"><img data-src="/images/thumb/5/53/TN-JBrahms_Ave_Maria%2C_Op.12_vs_ms.jpg/120px-TN-JBrahms_Ave_Maria%2C_Op.12_vs_ms.jpg" width="120" height="88" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP471426" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471426"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1e/PMLP27060-brahms_avemaria.pdf" class="internal" title="PMLP27060-brahms avemaria.pdf">*</a></span><a href="/wiki/File:PMLP27060-brahms_avemaria.pdf" title="File:PMLP27060-brahms avemaria.pdf">#471426</a> - 3.76MB, 9 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471426' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471426'>
+	<a href='javascript:void(0)' id='471426' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471426' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471426' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471426' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471426' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471426'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471426/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/471426/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 39"><a href="/wiki/Special:GetFCtrStats/@471426" title="Special:GetFCtrStats/@471426">39</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Choelscher1&amp;action=edit&amp;redlink=1" class="new" title="User:Choelscher1 (page does not exist)">Choelscher1</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://ecommons.udayton.edu/imri_sheetmusic/46/">MLIMRI</a></span><br />
+<a href="/index.php?title=User:Choelscher1&amp;action=edit&amp;redlink=1" class="new" title="User:Choelscher1 (page does not exist)">Choelscher1</a> (2017/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP471431" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471431"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Organ accompaniment</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e1/PMLP27060-brahms_avemaria1.pdf" class="internal" title="PMLP27060-brahms avemaria1.pdf">*</a></span><a href="/wiki/File:PMLP27060-brahms_avemaria1.pdf" title="File:PMLP27060-brahms avemaria1.pdf">#471431</a> - 1.14MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471431' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471431'>
+	<a href='javascript:void(0)' id='471431' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471431' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471431' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471431' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471431' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471431'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471431/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/471431/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 24"><a href="/wiki/Special:GetFCtrStats/@471431" title="Special:GetFCtrStats/@471431">24</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Choelscher1&amp;action=edit&amp;redlink=1" class="new" title="User:Choelscher1 (page does not exist)">Choelscher1</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://ecommons.udayton.edu/imri_sheetmusic/47/">MLIMRI</a></span><br />
+<a href="/index.php?title=User:Choelscher1&amp;action=edit&amp;redlink=1" class="new" title="User:Choelscher1 (page does not exist)">Choelscher1</a> (2017/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Winterthur: <a href="/wiki/J._Rieter-Biedermann" title="J. Rieter-Biedermann">J. Rieter-Biedermann</a><!--ASL2-->, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001861&amp;teil=0203&amp;seite=00000055&amp;zoom=1">[1861]</a></span>.  Plate 166, 165.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=471426/471431">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=471426/471431">del</a>/<span id="fmrglnk" data-pdfstr="471426//471431/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>organ accompaniment as alternative to orchestra
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="471426">Javascript is required for this feature.</div><script>JGINITsearchbars['471426']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=471426|471431&type=Complete%20score%7COrgan%20accompaniment&pgcount=9|3&signature=1dabd47098a5867934a3d650242b3e89f9dac7d6"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP27060-brahms_avemaria.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/1e/a9c42f4bea77885d8553f5d4379f136a2b96ac58.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP10985" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/10985"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fa/Ave_Maria_Brahms.pdf" class="internal" title="Ave Maria Brahms.pdf">*</a></span><a href="/wiki/File:Ave_Maria_Brahms.pdf" title="File:Ave Maria Brahms.pdf">#10985</a> - 0.50MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-10985' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-10985'>
+	<a href='javascript:void(0)' id='10985' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='10985' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='10985' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='10985' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='10985' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-10985'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/10985/Ave_Maria,_Op.12_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/10985/Ave Maria, Op.12 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3515"><a href="/wiki/Special:GetFCtrStats/@10985" title="Special:GetFCtrStats/@10985">3515</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Abra" title="User:Abra">Abra</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.loc.gov/index.html"><span style="border-bottom:1px dotted black" title="Library of Congress">US-Wc</span></a></span><br />
+<a href="/wiki/User:Abra" title="User:Abra">Abra</a> (<span title="Updated: 2007/7/30" class="hovertext">2007/7/29</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>J.M. Russell
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/Schuberth_%26_Co." title="Schuberth &amp; Co.">Edward Schuberth &amp; Co.</a>, 1879. Plate 389.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=10985">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=10985">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="10985">Javascript is required for this feature.</div><script>JGINITsearchbars['10985']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=10985&type=Complete%20Score&pgcount=5&signature=c0d3abd6da3c393d8b817edf13bac5ceb1737acb"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Vocal Scores" data-tabid="tabScore3"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Ave Maria
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Ave Maria, gratia plena
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Brahms,_Johannes" title="Category:Brahms, Johannes">Brahms, Johannes</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>Op.12
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IJB 5
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>F major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>Andante
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1858
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1859-12-02, Hamburg
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1860 or 1861 (December-January)
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><i>Bible,</i> Luke 1, 28 &amp; 42
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Latin
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>4 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Voices:</i> female chorus (SSAA)<br /><i>Orchestra:</i> 2 flutes, 2 oboes, 2 clarinets, 2 bassoons<br />2 horns, string orchestra
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.classicalarchives.com/work/5833.html#tvf=tracks&amp;tv=about">Classical Archives article</a></span><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allmusic.com/composition/ave-maria-for-female-chorus-amp-keyboard-or-orchestra-in-f-major-op-12-mc0002355739">All Music Guide</a></span><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kellydeanhansen.com/opus12.html">KDH Listening Guide</a></span><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.lieder.net/lieder/get_text.html?TextId=2482">The Lied, Art Song, and Choral Texts Archive</a></span>
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>Version History
+<ul><li> Composed for female chorus with orchestra, 1858
+</li><li> Arranged for female chorus with organ or piano, 1858 ca.
+</li></ul>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<table class="collapsible" width="95%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="3" align="center" style="background-color:#bbccdd">Choral Works by <a href="/wiki/Category:Brahms,_Johannes" title="Category:Brahms, Johannes">Johannes Brahms</a>
+</th></tr>
+<tr>
+<td rowspan="2" valign="top" style="background-color:#e6f0f5"><b>Choral Works with Orchestra</b>
+<ul><li><strong class="selflink">Ave Maria, Op.12</strong>
+</li><li><a href="/wiki/Begr%C3%A4bnisgesang,_Op.13_(Brahms,_Johannes)" title="Begräbnisgesang, Op.13 (Brahms, Johannes)">Begräbnisgesang, Op.13</a>
+</li><li><a href="/wiki/4_Songs,_Op.17_(Brahms,_Johannes)" title="4 Songs, Op.17 (Brahms, Johannes)">4 Songs, Op.17</a>
+</li><li><a href="/wiki/Ein_deutsches_Requiem,_Op.45_(Brahms,_Johannes)" title="Ein deutsches Requiem, Op.45 (Brahms, Johannes)">Ein deutsches Requiem, Op.45</a>
+</li><li><a href="/wiki/Rinaldo,_Op.50_(Brahms,_Johannes)" title="Rinaldo, Op.50 (Brahms, Johannes)">Rinaldo, Op.50</a>
+</li><li><a href="/wiki/Alto_Rhapsody,_Op.53_(Brahms,_Johannes)" title="Alto Rhapsody, Op.53 (Brahms, Johannes)">Alto Rhapsody, Op.53</a>
+</li><li><a href="/wiki/Schicksalslied,_Op.54_(Brahms,_Johannes)" title="Schicksalslied, Op.54 (Brahms, Johannes)">Schicksalslied, Op.54</a>
+</li><li><a href="/wiki/Triumphlied,_Op.55_(Brahms,_Johannes)" title="Triumphlied, Op.55 (Brahms, Johannes)">Triumphlied, Op.55</a>
+</li><li><a href="/wiki/N%C3%A4nie,_Op.82_(Brahms,_Johannes)" title="Nänie, Op.82 (Brahms, Johannes)">Nänie, Op.82</a>
+</li><li><a href="/wiki/Gesang_der_Parzen,_Op.89_(Brahms,_Johannes)" title="Gesang der Parzen, Op.89 (Brahms, Johannes)">Gesang der Parzen, Op.89</a>
+</li><li><a href="/wiki/Ellens_Zweiter_Gesang,_Anh_17_(Brahms,_Johannes)" title="Ellens Zweiter Gesang, Anh 17 (Brahms, Johannes)">Ellens Zweiter Gesang, Anh 17</a>
+</li></ul>
+</td>
+<td valign="top" style="background-color:#e6f0f5"><b>Choral Works with Keyboard</b>
+<ul><li><a href="/wiki/Psalm_13,_Op.27_(Brahms,_Johannes)" title="Psalm 13, Op.27 (Brahms, Johannes)">Psalm 13, Op.27</a>
+</li><li><a href="/wiki/Geistliches_Lied,_Op.30_(Brahms,_Johannes)" title="Geistliches Lied, Op.30 (Brahms, Johannes)">Geistliches Lied, Op.30</a>
+</li><li><a href="/wiki/Tafellied,_Op.93b_(Brahms,_Johannes)" title="Tafellied, Op.93b (Brahms, Johannes)">Tafellied, Op.93b</a>
+</li><li><a href="/wiki/Kleine_Hochzeits-Kantate,_WoO_16_(Brahms,_Johannes)" title="Kleine Hochzeits-Kantate, WoO 16 (Brahms, Johannes)">Kleine Hochzeits-Kantate, WoO 16</a>
+</li></ul>
+</td>
+<td rowspan="2" valign="top" style="background-color:#e6f0f5">
+<ul><li><a href="/wiki/6_Lieder_and_Romances,_Op.93a_(Brahms,_Johannes)" title="6 Lieder and Romances, Op.93a (Brahms, Johannes)">6 Lieder and Romances, Op.93a</a>
+</li><li><a href="/wiki/5_Songs,_Op.104_(Brahms,_Johannes)" title="5 Songs, Op.104 (Brahms, Johannes)">5 Songs, Op.104</a>
+</li><li><a href="/wiki/Fest-_und_Gedenkspr%C3%BCche,_Op.109_(Brahms,_Johannes)" title="Fest- und Gedenksprüche, Op.109 (Brahms, Johannes)">Fest- und Gedenksprüche, Op.109</a>
+</li><li><a href="/wiki/3_Motets,_Op.110_(Brahms,_Johannes)" title="3 Motets, Op.110 (Brahms, Johannes)">3 Motets, Op.110</a>
+</li><li><a href="/wiki/13_Canons,_Op.113_(Brahms,_Johannes)" title="13 Canons, Op.113 (Brahms, Johannes)">13 Canons, Op.113</a>
+</li><li><a href="/wiki/Dem_dunkeln_Scho%C3%9F_der_heilgen_Erde,_WoO_20_(Brahms,_Johannes)" title="Dem dunkeln Schoß der heilgen Erde, WoO 20 (Brahms, Johannes)">Dem dunkeln Schoß der heilgen Erde, WoO 20</a>
+</li><li><a href="/wiki/Grausam_erweiset_sich_Amor,_WoO_24_(Brahms,_Johannes)" title="Grausam erweiset sich Amor, WoO 24 (Brahms, Johannes)">Grausam erweiset sich Amor, WoO 24</a>
+</li><li><a href="/wiki/Mir_l%C3%A4chelt_kein_Fr%C3%BChling,_WoO_25_(Brahms,_Johannes)" title="Mir lächelt kein Frühling, WoO 25 (Brahms, Johannes)">Mir lächelt kein Frühling, WoO 25</a>
+</li><li><a href="/wiki/O_wie_sanft!,_WoO_26_(Brahms,_Johannes)" title="O wie sanft!, WoO 26 (Brahms, Johannes)">O wie sanft!, WoO 26</a>
+</li><li><a href="/wiki/Spruch,_WoO_27_(Brahms,_Johannes)" title="Spruch, WoO 27 (Brahms, Johannes)">Spruch, WoO 27</a>
+</li><li><a href="/wiki/T%C3%B6ne,_lindernder_Klang,_WoO_28_(Brahms,_Johannes)" title="Töne, lindernder Klang, WoO 28 (Brahms, Johannes)">Töne, lindernder Klang, WoO 28</a>
+</li><li><a href="/wiki/Wann%3F,_WoO_29_(Brahms,_Johannes)" title="Wann?, WoO 29 (Brahms, Johannes)">Wann?, WoO 29</a>
+</li><li><a href="/wiki/Zu_Rauch,_WoO_30_(Brahms,_Johannes)" title="Zu Rauch, WoO 30 (Brahms, Johannes)">Zu Rauch, WoO 30</a>
+</li><li><a href="/wiki/14_Deutsche_Volkslieder,_WoO_34_(Brahms,_Johannes)" title="14 Deutsche Volkslieder, WoO 34 (Brahms, Johannes)">14 Deutsche Volkslieder, WoO 34</a>
+</li><li><a href="/wiki/12_Deutsche_Volkslieder,_WoO_35_(Brahms,_Johannes)" title="12 Deutsche Volkslieder, WoO 35 (Brahms, Johannes)">12 Deutsche Volkslieder, WoO 35</a>
+</li></ul>
+</td></tr>
+<tr>
+<td valign="top" width="33%" style="background-color:#e6f0f5"><b>Choral Works Unaccompanied</b>
+<ul><li><a href="/wiki/Marienlieder,_Op.22_(Brahms,_Johannes)" title="Marienlieder, Op.22 (Brahms, Johannes)">Marienlieder, Op.22</a>
+</li><li><a href="/wiki/2_Motets,_Op.29_(Brahms,_Johannes)" title="2 Motets, Op.29 (Brahms, Johannes)">2 Motets, Op.29</a>
+</li><li><a href="/wiki/3_Sacred_Choruses,_Op.37_(Brahms,_Johannes)" title="3 Sacred Choruses, Op.37 (Brahms, Johannes)">3 Sacred Choruses, Op.37</a>
+</li><li><a href="/wiki/5_Lieder,_Op.41_(Brahms,_Johannes)" title="5 Lieder, Op.41 (Brahms, Johannes)">5 Lieder, Op.41</a>
+</li><li><a href="/wiki/3_Songs,_Op.42_(Brahms,_Johannes)" title="3 Songs, Op.42 (Brahms, Johannes)">3 Songs, Op.42</a>
+</li><li><a href="/wiki/12_Lieder_and_Romances,_Op.44_(Brahms,_Johannes)" title="12 Lieder and Romances, Op.44 (Brahms, Johannes)">12 Lieder and Romances, Op.44</a>
+</li><li><a href="/wiki/7_Lieder,_Op.62_(Brahms,_Johannes)" title="7 Lieder, Op.62 (Brahms, Johannes)">7 Lieder, Op.62</a>
+</li><li><a href="/wiki/2_Motets,_Op.74_(Brahms,_Johannes)" title="2 Motets, Op.74 (Brahms, Johannes)">2 Motets, Op.74</a>
+</li></ul>
+</td></tr>
+
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1070/1000000
+Post-expand include size: 92679/2097152 bytes
+Template argument size: 3005/2097152 bytes
+Expensive parser function count: 3/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:27060-0!*!0!!en!2!* and timestamp 20180416175550 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Ave_Maria,_Op.12_(Brahms,_Johannes)&amp;oldid=2478072">http://imslp.org/index.php?title=Ave_Maria,_Op.12_(Brahms,_Johannes)&amp;oldid=2478072</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Library_of_Congress" title="Category:Scores from the Library of Congress">Scores from the Library of Congress</a></li><li><a href="/wiki/Category:Manuscripts_from_the_1800s" title="Category:Manuscripts from the 1800s">Manuscripts from the 1800s</a></li><li><a href="/wiki/Category:Composers%27_holographs_from_the_1800s" title="Category:Composers' holographs from the 1800s">Composers' holographs from the 1800s</a></li><li><a href="/wiki/Category:Manuscripts" title="Category:Manuscripts">Manuscripts</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_J._Rieter-Biedermann" title="Category:Scores published by J. Rieter-Biedermann">Scores published by J. Rieter-Biedermann</a></li><li><a href="/wiki/Category:Mandyczewski,_Eusebius/Editor" title="Category:Mandyczewski, Eusebius/Editor">Mandyczewski, Eusebius/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Breitkopf_und_H%C3%A4rtel" title="Category:Scores published by Breitkopf und Härtel">Scores published by Breitkopf und Härtel</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Brahms,_Johannes" title="Category:Brahms, Johannes">Brahms, Johannes</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Ave_Maria" title="Category:Ave Maria">Ave Maria</a></li><li><a href="/wiki/Category:Hymns" title="Category:Hymns">Hymns</a></li><li><a href="/wiki/Category:Sacred_hymns" title="Category:Sacred hymns">Sacred hymns</a></li><li><a href="/wiki/Category:Religious_works" title="Category:Religious works">Religious works</a></li><li><a href="/wiki/Category:For_female_chorus,_orchestra" title="Category:For female chorus, orchestra">For female chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_female_chorus" title="Category:Scores featuring female chorus">Scores featuring female chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_chorus_with_orchestra" title="Category:For chorus with orchestra">For chorus with orchestra</a></li><li><a href="/wiki/Category:Latin_language" title="Category:Latin language">Latin language</a></li><li><a href="/wiki/Category:Works_first_published_in_1860" title="Category:Works first published in 1860">Works first published in 1860</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:F_major" title="Category:F major">F major</a></li><li><a href="/wiki/Category:Pages_linked_to_Classical_Archives" title="Category:Pages linked to Classical Archives">Pages linked to Classical Archives</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Ave_Maria%2C_Op.12_%28Brahms%2C_Johannes%29">7,619 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Ave%20Maria%2C%20Op.12%20%28Brahms%2C%20Johannes%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.669 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416175550 -->
+</html>
+		

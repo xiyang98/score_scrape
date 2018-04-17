@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Java Suite (Godowsky, Leopold) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Java_Suite_(Godowsky,_Leopold)", "wgTitle": "Java Suite (Godowsky, Leopold)", "wgCurRevisionId": 2367849, "wgArticleId": 9192, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WorkNonPD-US", "Bachus, Brett/Performer", "Loesser, Arthur/Performer", "Scores from the Internet Archive", "Recordings", "Scores with links to Amazon", "Scores with links to Sheet Music Plus", "Work pages with links to recordings", "Scores", "Godowsky, Leopold", "Early 20th century style", "Early 20th century", "Suites", "For piano", "Scores featuring the piano", "For 1 player", "Works first published in 1925", "Works first published in the 20th century", "Work-NonPD-US-renewed", "Pages with citations from items at Internet Archive"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Java_Suite_Godowsky_Leopold action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Java_Suite_(Godowsky,_Leopold)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Java_Suite_(Godowsky,_Leopold)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Java_Suite_(Godowsky,_Leopold)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Java_Suite_(Godowsky,_Leopold)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Java_Suite_(Godowsky,_Leopold)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Java_Suite_(Godowsky,_Leopold)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Java_Suite_(Godowsky,_Leopold)&amp;oldid=2367849" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Java%20Suite%20%28Godowsky%2C%20Leopold%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Java Suite (Godowsky, Leopold)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><table class="toccolours protected" style="border: 1px solid #8888aa; margin-left:auto; margin-right:auto; padding-top:4px; padding-bottom:4px; padding-left:8px; padding-right:8px; width:80%; font-size:95%;">
+
+<tr>
+<td align="justify">
+<p>Since this work was first published after 1922 with the prescribed copyright notice, it is <i>unlikely</i> that this work is <a href="/wiki/Public_Domain" title="Public Domain" class="mw-redirect">public domain</a> in the USA. However, it <i>is</i> in the <a href="/wiki/Public_Domain" title="Public Domain" class="mw-redirect">public domain</a> in Canada (where IMSLP is hosted), the EU, and in those countries where the copyright term is life+70 years or less. 
+</p>
+<center><span style="color:crimson"><b>IMSLP does not assume any sort of legal responsibility or liability for the consequences of downloading files that are not in the public domain in your country.</b></span></center>
+</td></tr></table>
+<div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>12
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1924–25
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Suites&amp;transclude=Template:Catintro">Suites</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano&amp;transclude=Template:Catintro">For piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Java Suite","composer":"Godowsky, Leopold","comphref":"\/wiki\/Category:Godowsky,_Leopold"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"java suite","itunes":"java suite","composer":"godowsky","scorekeywords":"java suite","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":8,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.225274.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.225274.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.225274","desc":"GODOWSKY, L.: Piano Music, Vol.  8 (Scherbakov) - Java Suite \/ Wine, Women and Song","label":"Marco Polo","category":"Instrumental - Classical Music","composer":"Godowsky, Leopold","artist":"Scherbakov, Konstantin","country":"Poland","catid":"8.225274","cdinfo":[[["Godowsky, Leopold",[["Java Suite, \"Phonoramas: Tonal Journeys for the Pianoforte\"","mediaplayer\/player.asp?br=128&tl=302977|302978|302979|302976|302975|302974|302973|302972|302971|302969|302970|302968",["Part I: I. Gamelan","Part I: II. Wayang-Purwa, Puppet Shadow Plays","Part I: III. Hari Besaar, The Great Day","Part II: IV. Chattering Monkeys at the Sacred Lake of Wendit","Part II: V. Boro Budur in Moonlight","Part II: VI. The Bromo Volcano and the Sand Sea at Daybreak","Part III: VII. 3 Dances","Part III: VIII. The Gardens of Buitenzorg","Part III: IX. In the Streets of Old Batavia","Part IV: X. In the Kraton","Part IV: XI. The Ruined Water Castle at Djokja","Part IV: XII. A Court Pageant in Solo"]],["3 Symphonic Metamorphoses on Themes of Johann Strauss II: No. 3. Wine, Women and Song","mediaplayer\/player.asp?br=128&tl=302980",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.578093-95.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.578093-95.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.578093-95","desc":"Easy-Listening Piano Classics: Godowsky","label":"Naxos","category":"Instrumental - Classical Music","composer":"Godowsky, Leopold","artist":"Banowetz, Joseph -- Prunyi, Ilona -- Scherbakov, Konstantin -- Chan, Alton Chung Ming","country":"Poland","catid":"8.578093-95","cdinfo":[[["Godowsky, Leopold",[["Triakontameron, 30 Moods and Scenes in Triple Measure","mediaplayer\/player.asp?br=128&tl=919262|919263|919264|919265|919266|919267|919268",["No. 1. Nocturnal Tangier","No. 2. Sylvan Tyrol","No. 3. Paradoxical Mood","No. 6. The Pleading Troubadour","No. 7. Yesteryear &#8230;","No. 8. A Watteau Paysage","No. 9. Enchanted Glen"]],["Walzermasken","mediaplayer\/player.asp?br=128&tl=919269|919270",["No. 21. Orientale","No. 22. Wienerisch"]],["Java Suite","mediaplayer\/player.asp?br=128&tl=919271|919272",["Part I: II. Wayang-Purwa, Puppet Shadow Plays","Part II: IV. Chattering Monkeys at the Sacred Lake of Wendit"]],["12 Schubert Songs","mediaplayer\/player.asp?br=128&tl=919273|919274",["No. 3. Das Wandern (arr. of Die schone Mullerin, Op. 25, D. 795: No. 1. Das Wandern)","No. 11. Heidenroslein (arr. of Heidenroslein, Op. 3, No. 3, D. 257)"]],["Schubert - Schwanengesang, D. 957","mediaplayer\/player.asp?br=128&tl=919275",["No. 12. Am Meer"]],["12 Schubert Songs","mediaplayer\/player.asp?br=128&tl=919276",["No. 9. An Mignon, Op. 19, No. 2, D. 161"]],["Renaissance, Book 2: No. 9. Sarabande (Lully)","mediaplayer\/player.asp?br=128&tl=919277",[]],["Renaissance, Book 1","mediaplayer\/player.asp?br=128&tl=919278",["No. 3. Menuet in A Minor (Rameau)"]],["Miniatures, Vol. 5: Miscellaneous","mediaplayer\/player.asp?br=128&tl=919279|919280|919281",["Plaintive Melody: Andante cantabile","Nocturne: Andante espressivo","Barcarole: Andantino espressivo"]],["Piano Sonata in E Minor","mediaplayer\/player.asp?br=128&tl=919282",["IV. Allegretto grazioso e dolce"]],["Triakontameron, 30 Moods and Scenes in Triple Measure","mediaplayer\/player.asp?br=128&tl=919283|919284|919285|919286|919287|919288",["No. 11. Alt-Wien, Whose yesterdays look backwards with a smile through tears","No. 12. Ethiopian Serenade","No. 15. The Temptress","No. 17. An American Idyll","No. 18. Anachronisms","No. 19. A Little Tango Rag"]]]]],[["Godowsky, Leopold",[["Menuet No. 1","mediaplayer\/player.asp?br=128&tl=919291",[]],["Twilight Thoughts","mediaplayer\/player.asp?br=128&tl=919292|919293",["Au Jardin des Fleurs","Serenade"]],["4 Poems","mediaplayer\/player.asp?br=128&tl=919294|919295",["No. 1. Devotion","No. 2. Avowal"]],["3 Pieces, Op. 14","mediaplayer\/player.asp?br=128&tl=919296",["No. 1. Ein Dammerungsbild"]],["3 Pieces, Op. 12","mediaplayer\/player.asp?br=128&tl=919297",["No. 2. Menuet"]],["Airs of the Eighteenth Century","mediaplayer\/player.asp?br=128&tl=919298|919299|919300|919301|919302|919303|919304",["I. Exaudet's Minuet","II. Lisette","III. Good Old Granny","IV. Mother, Please explain","V. Capricious Shepherd Maid","VI. Would that I were the lowly fern","VII. Oh, come again, beautiful Spring"]],["Waltz Poem No. 1","mediaplayer\/player.asp?br=128&tl=919305|919306",["No. 1. in G Major","No. 2. in A Major"]],["3 Pieces, Op. 15","mediaplayer\/player.asp?br=128&tl=919307",["No. 1. Melodie meditative"]],["Miniatures, Vol. 4: Miscellaneous","mediaplayer\/player.asp?br=128&tl=919308|919309",["III. The Miller's Song: Allegretto","IV. Processional March: Moderato"]],["Miniatures, Vol. 5: Miscellaneous","mediaplayer\/player.asp?br=128&tl=919310",["Arabian Chant (Orientale): Placido"]],["Java Suite","mediaplayer\/player.asp?br=128&tl=919311|919312",["Part II: V. Boro Budur in Moonlight","Part IV: XI. The Ruined Water Castle at Djokja"]],["12 Schubert Songs","mediaplayer\/player.asp?br=128&tl=919313|919314|919315",["No. 6. Die Forelle (arr. of Die Forelle, D. 550)","No. 7. Wiegenlied (arr. of Wiegenlied, Op. 98, No. 2, D. 498)","No. 5. Litanei (arr. of Am Tage aller Seelen, D. 343, \"Litanei auf das Fest aller Seelen\")"]]]]],[["Godowsky, Leopold",[["J.S. Bach - Violin Sonata No. 3 in A Minor, BWV 1003","mediaplayer\/player.asp?br=128&tl=919316",["III. Aria: Andante - Molto espressivo e cantabile"]],["Miniatures, Vol. 6: Miscellaneous","mediaplayer\/player.asp?br=128&tl=919317|919318|919319|919320",["Humoresque: Allegretto grazioso","Impromptu (In Days of Yore): Adagio cantabile","The Hunter's Call (Woodland Mood): Moderato","Military March: Tempo giusto"]],["Miniatures, Vol. 1: Suite No. 1","mediaplayer\/player.asp?br=128&tl=919321|919322|919323|919324",["In Church: Andante","At Night: Moderato","Lullaby: Andante","Rustic Dance: Allegro con brio"]],["Triakontameron, 30 Moods and Scenes in Triple Measure","mediaplayer\/player.asp?br=128&tl=919325|919326|919327|919328|919329|919330",["No. 21. The Salon","No. 23. The Music-Box","No. 24. Lullaby","No. 25. Memories","No. 26. The Cuckoo Clock","No. 27. Lament"]],["Renaissance, Book 2","mediaplayer\/player.asp?br=128&tl=926751|926752",["No. 8. Pastorale (Angelus) in G Major (Corelli)","No. 7. Menuet in E-Flat Major (Schobert)"]],["Renaissance, Book 1","mediaplayer\/player.asp?br=128&tl=926748",["No. 1. Sarabande in E Major (Rameau)"]],["Renaissance, Book 2","mediaplayer\/player.asp?br=128&tl=926749",["No. 11. Capriccio (Le Caquet) in E Major (Dandrieu)"]],["Renaissance, Book 3","mediaplayer\/player.asp?br=128&tl=919335",["No. 14. Musette en Rondeau in E Major (Rameau)"]],["3 Symphonische Metamorphosen Johann Strauss'scher Themen","mediaplayer\/player.asp?br=128&tl=919336",["No. 3. Wein, Weib und Gesang"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MVCD1026.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MVCD1026.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMVCD1026","desc":"GODOWSKY: Original Works and Transcriptions","label":"CBC","category":"Instrumental - Classical Music","composer":"Godowsky, Leopold","artist":"Hamelin, Marc-Andre","country":"Poland","catid":"MVCD1026","cdinfo":[[["Godowsky, Leopold",[["53 Studies on Chopin Etudes (excerpts)","mediaplayer\/player.asp?br=128&tl=161985|161986|161987|161988|161989",[]],["The Schubert Songs transcribed for piano (excerpts)","mediaplayer\/player.asp?br=128&tl=162027|162028",[]],["Rosamunde: Ballet Music (Schubert)","mediaplayer\/player.asp?br=128&tl=162051",[]],["Standchen (Serenade), Op. 17, No. 2 (R. Strauss)","mediaplayer\/player.asp?br=128&tl=162057",[]],["Tango in D Major, Op. 165\/2 (Albeniz)","mediaplayer\/player.asp?br=128&tl=162060",[]],["Renaissance, Book II (excerpt)","mediaplayer\/player.asp?br=128&tl=162061",[]],["Passacaglia - 44 variations, cadenza and fugue, on the opening of Schuberts Unfinished Symphony","mediaplayer\/player.asp?br=128&tl=162066",[]],["Prelude et fugue pour la main gauche seule (B-A-C-H)","mediaplayer\/player.asp?br=128&tl=162075",[]],["Etude macabre","mediaplayer\/player.asp?br=128&tl=162077",[]],["Phonoramas, \"Java Suite\" (excerpts)","mediaplayer\/player.asp?br=128&tl=162081|162082",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CD50-2905.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CD50-2905.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCD50-2905","desc":"Piano Recital: Moog, Joseph - LISZT, F. \/ FRIEDMAN, I. \/ MOSZKOWSKI, M. \/ GODOWSKY, L. \/ BUSONI, F. (Metamorphose(n))","label":"Claves Records","category":"Instrumental - Classical Music","composer":"Busoni, Ferruccio -- Liszt, Franz -- Moszkowski, Moritz -- Godowsky, Leopold -- Strauss II, Johann","artist":"Moog, Joseph","country":"Austria Germany Hungary Italy Poland","catid":"CD50-2905","cdinfo":[[["Liszt, Franz",[["Bellini - Reminiscences de Norma, S394\/R133","mediaplayer\/player.asp?br=128&tl=2014893",[]]]],["Godowsky, Leopold",[["Java Suite, Part III: VIII. The Gardens of Buitenzorg","mediaplayer\/player.asp?br=128&tl=2014894",[]]]],["Strauss II, Johann",[["Fruhlingsstimmen (Voices of Spring), Op. 410 (arr. I. Friedman for piano)","mediaplayer\/player.asp?br=128&tl=2014895",[]]]],["Godowsky, Leopold",[["Saint-Saens - Carnival of the Animals: XIII. Le Cygne (The Swan)","mediaplayer\/player.asp?br=128&tl=2014896",[]]]],["Busoni, Ferruccio",[["Piano Sonatina No. 6 super Carmen, \"Kammerfantasie\"","mediaplayer\/player.asp?br=128&tl=2014897",[]]]],["Godowsky, Leopold",[["Chopin - Waltz in D-Flat Major, Op. 64 No. 1","mediaplayer\/player.asp?br=128&tl=2014898",[]]]],["Moszkowski, Moritz",[["Wagner - Der Venusberg, nachkomponierte Szene aus der Oper Tannhauser","mediaplayer\/player.asp?br=128&tl=2014899",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DACOCD519.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DACOCD519.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDACOCD519","desc":"Piano Music - SAUER, E. \/ SHCHEDRIN, R.K. \/ DELIUS, F. \/ GRUNFELD, A. \/ CHOPIN, F.  (Rarities of Piano Music at Schloss vor Husum, 1998 Festival)","label":"Danacord","category":"Instrumental - Classical Music","composer":"Grunfeld, Alfred -- Shchedrin, Rodion Konstantinovich -- Medtner, Nicolas -- Chopin, Fryderyk -- Balakirev, Mily Alexeyevich -- Godowsky, Leopold -- Delius, Frederick -- Sauer, Emil von -- Catoire, Georgy","artist":"Fialkowska, Janina -- Hamelin, Marc-Andre -- Marshev, Oleg -- Bloch, Boris -- Lane, Piers -- Vorraber, Franz","country":"Austria France Germany Poland Russia United Kingdom","catid":"DACOCD519","cdinfo":[[["Sauer, Emil von",[["Concert Studies (excerpts)","mediaplayer\/player.asp?br=128&tl=457308|457309",["No. 3. Murmure du Vent (Sighing Breezes)","No. 6. Frisson de Feuilles (Rusting Leaves)"]]]],["Shchedrin, Rodion Konstantinovich",[["A la Albeniz (An Imitation of Albeniz)","mediaplayer\/player.asp?br=128&tl=457310",[]]]],["Delius, Frederick",[["Margot la Rouge: Prelude and Duet (arr. M. Ravel)","mediaplayer\/player.asp?br=128&tl=457311",[]]]],["Delius, Frederick",[["Irmelin: Prelude to Act II - Act III Scene 1, Prelude and Closing Scene - Act II, Interlude - Act III, Duet and Finale (arr. F. Schmitt)","mediaplayer\/player.asp?br=128&tl=457312",[]]]],["Gr&#252;nfeld, Alfred",[["Soiree de Vienne - Concert Paraphrase from Strauss' Waltzes from Die Fledermaus and others, Op. 56","mediaplayer\/player.asp?br=128&tl=457313",[]]]],["Chopin, Fryderyk",[["Mazurka No. 50 in A Minor, Op. posth., \"Notre temps\"","mediaplayer\/player.asp?br=128&tl=457314",[]]]],["Balakirev, Mily Alexeyevich",[["Dumka in E flat","mediaplayer\/player.asp?br=128&tl=457315",[]],["Berceuse in D flat","mediaplayer\/player.asp?br=128&tl=457316",[]]]],["Godowsky, Leopold",[["53 Studies on the Chopin etudes (excerpts)","mediaplayer\/player.asp?br=128&tl=457317|457318|457319",["No. 7 in G-Flat Major, Op. 10, No. 5 (1st version)","No. 8 in C Major, Op. 10, No. 5 (2nd version)","No. 9 in A Minor, Op. 10, No. 5, \"Tarantella\" (3rd version)"]],["Java Suite: VIII. The Gardens of Buitenzorg","mediaplayer\/player.asp?br=128&tl=457320",[]]]],["Catoire, Georgy",[["Morceaux, Op. 12","mediaplayer\/player.asp?br=128&tl=457321|457322|457323|457324",["I. Chant du soir","II. Meditation","III. Nocturne","IV. Etude fantastique"]]]],["Medtner, Nicolas",[["Forgotten Melodies, Op. 39: No. 3. Primavera, \"Fruhlingsmarchen\"","mediaplayer\/player.asp?br=128&tl=457325",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356149854.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356149854.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356149854","desc":"Piano Recital: Hough, Stephen - MACDOWELL, E. \/ LISZT, F. \/ QUILTER, R. \/ DOHN\u00c1NYI, E. (The Piano Album)","label":"Warner Classics - Parlophone","category":"Instrumental - Classical Music","composer":"Gabrilovich, Ossip -- Friedman, Ignaz -- Levitzki, Mischa -- Dohn\u00e1nyi, Erno -- Bach, Johann Sebastian -- Rosenthal, Moriz -- Palmgren, Selim -- Quilter, Roger -- Rebikov, Vladimir -- Rodgers, Richard -- Woodforde-Finden, Amy -- Tausig, Carl -- Liadov, Anatol Konstantinovich -- Liszt, Franz -- MacDowell, Edward -- Liebermann, Lowell -- Moszkowski, Moritz -- Schumann, Robert -- Paderewski, Ignacy Jan -- Bizet, Georges -- Godowsky, Leopold -- Rubinstein, Anton -- Czerny, Carl -- Schlozer, Paul de -- Ravina, Jean Henri","artist":"Hough, Stephen","country":"Austria Chile Finland France Germany Hungary Poland Russia United Kingdom United States","catid":"0724356149854","cdinfo":[[["MacDowell, Edward",[["2 Fantasiest&#252;cke, Op. 17: No. 2. Hexentanz","mediaplayer\/player.asp?br=128&tl=2183698",[]]]],["Liszt, Franz",[["Chopin - 6 Chants polonais, S480\/R145: No. 1. Madchens Wunsch (Zyczenie, The Maiden's Wish)","mediaplayer\/player.asp?br=128&tl=2183699",[]]]],["Quilter, Roger",[["3 Songs, Op. 3: No. 2. Now Sleeps the Crimson Petal (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=2183700",[]],["6 Songs, Op. 25: No. 2. The Fuchsia Tree: No. 2. The Fuchsia Tree (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=2183701",[]]]],["Dohn&#225;nyi, Erno",[["6 Concert Etudes, Op. 28: No. 6 in F Minor, \"Capriccio\"","mediaplayer\/player.asp?br=128&tl=2183702",[]]]],["Paderewski, Ignacy Jan",[["Humoresques de concert, Op. 14: No. 1. Menuet celebre","mediaplayer\/player.asp?br=128&tl=2183703",[]],["Miscellanea, Op. 16: No. 4. Nocturne in B-flat major","mediaplayer\/player.asp?br=128&tl=2183704",[]]]],["Schlozer, Paul de",[["Etude in A-Flat Major, Op. 1, No. 2","mediaplayer\/player.asp?br=128&tl=2183705",[]]]],["Gabrilovich, Ossip",[["Melodie in E Minor, Op. 8","mediaplayer\/player.asp?br=128&tl=2183706",[]],["Caprice Burlesque, Op. 3","mediaplayer\/player.asp?br=128&tl=2183707",[]]]],["Rodgers, Richard",[["The Sound of Music: My Favorite Things (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=2183708",[]]]],["Woodforde-Finden, Amy",[["4 Indian Love Lyrics: No. 3. Kashmiri Song (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=2183709",[]]]],["Friedman, Ignaz",[["Music Box, Op. 33, No. 3","mediaplayer\/player.asp?br=128&tl=2183710",[]]]],["Godowsky, Leopold",[["Saint-Saens - Carnival of the Animals: XIII. Le Cygne (The Swan)","mediaplayer\/player.asp?br=128&tl=2183711",[]]]],["Rosenthal, Moriz",[["Papillons","mediaplayer\/player.asp?br=128&tl=2183712",[]]]],["Godowsky, Leopold",[["Java Suite, Part III: VIII. The Gardens of Buitenzorg","mediaplayer\/player.asp?br=128&tl=2183713",[]]]],["Levitzki, Mischa",[["Waltz in A Major, Op. 2","mediaplayer\/player.asp?br=128&tl=2183714",[]]]],["Palmgren, Selim",[["En route, Op. 9","mediaplayer\/player.asp?br=128&tl=2183715",[]]]],["Moszkowski, Moritz",[["3 Morceaux poetiques, Op. 42: No. 2. Siciliano","mediaplayer\/player.asp?br=128&tl=2183716",[]],["Caprice espagnol, Op. 37","mediaplayer\/player.asp?br=128&tl=2183717",[]]]]],[["Czerny, Carl",[["Variations brillantes, Op. 14","mediaplayer\/player.asp?br=128&tl=2185466",[]]]],["Levitzki, Mischa",[["The Enchanted Nymph","mediaplayer\/player.asp?br=128&tl=2185467",[]]]],["Schumann, Robert",[["Spanisches Liederspiel, Op. 74: No. 10. Der Kontrabandiste (arr. C. Tausig for piano)","mediaplayer\/player.asp?br=128&tl=2185468",[]]]],["Rubinstein, Anton",[["2 Melodies, Op. 3: Melody No. 1 in F Major","mediaplayer\/player.asp?br=128&tl=2185469",[]]]],["Liebermann, Lowell",[["Gargoyles, Op. 29","mediaplayer\/player.asp?br=128&tl=2185470|2185471|2185472|2185473",["I. Presto","II. Adagio semplice, ma con molto rubato","III. Allegro moderato","IV. Presto feroce"]]]],["Rebikov, Vladimir",[["Musical snuffbox","mediaplayer\/player.asp?br=128&tl=2185474",[]]]],["Liadov, Anatol Konstantinovich",[["Muzikal''naya tabakerka (A Musical Snuffbox), Op. 32","mediaplayer\/player.asp?br=128&tl=2185475",["Muzikal'naya tabakerka (A Musical Snuffbox), Op. 32"]]]],["Ravina, Jean Henri",[["Etudes de style, Op. 40: I. Agilite","mediaplayer\/player.asp?br=128&tl=2185476",[]]]],["Woodforde-Finden, Amy",[["4 Indian Love Lyrics: No. 2. Till I wake (arr. S. Hough for piano)","mediaplayer\/player.asp?br=128&tl=2185477",[]]]],["Quilter, Roger",[["7 Elizabethan Lyrics, Op. 12: No. 1. Weep you no more (arr. S. Hough for piano)","mediaplayer\/player.asp?br=128&tl=2185478",[]]]],["Rodgers, Richard",[["The King and I: March of the Royal Siamese Children (arr. S. Hough for piano)","mediaplayer\/player.asp?br=128&tl=2185479",[]]]],["Moszkowski, Moritz",[["Valse mignonne","mediaplayer\/player.asp?br=128&tl=2185480",[]],["6 Stucke, Op. 15: No. 1. Serenata in D Major","mediaplayer\/player.asp?br=128&tl=2185481",[]]]],["Bach, Johann Sebastian",[["Violin Sonata No. 2 in A Minor, BWV 1003: Tempo di Bourree (arr. C. Saint-Saens for piano)","mediaplayer\/player.asp?br=128&tl=2185482",[]]]],["Godowsky, Leopold",[["Triakontameron, 30 Moods and Scenes in Triple Measure: No. 25. Memories","mediaplayer\/player.asp?br=128&tl=2185483",[]]]],["Bizet, Georges",[["L'Arlesienne: Adagietto (arr. C. Tausig for piano)","mediaplayer\/player.asp?br=128&tl=2185484",[]]]],["Tausig, Carl",[["Ungarische Zigeunerweisen","mediaplayer\/player.asp?br=128&tl=2185485",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DACOCD299.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DACOCD299.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDACOCD299","desc":"Piano Music - CZERNY, C. \/ CHOPIN, F. \/ LISZT, F. \/ TAUSIG, C. \/ DOHNANYI, E. (Rarities of Piano Music at Schloss vor Husum, 1987-1988 Festival)","label":"Danacord","category":"Instrumental - Classical Music","composer":"Kreisler, Fritz -- Hamelin, Marc-Andre -- Henselt, Adolf von -- Alkan, Charles-Valentin -- Nielsen, Carl -- Sancan, Pierre -- Rachmaninov, Sergey -- Schmitt, Florent -- Schubert, Franz -- Villa-Lobos, Heitor -- Liszt, Franz -- Szymanowski, Karol -- Joachim, Joseph -- Ireland, John -- Moszkowski, Moritz -- Schumann, Robert -- Chabrier, Emmanuel -- Chaminade, Cecile -- Chopin, Fryderyk -- Glinka, Mikhail Ivanovich -- Godowsky, Leopold -- Schulhoff, Erwin -- Debussy, Claude -- Wild, Earl","artist":"Fowke, Philip -- Ponti, Michael -- Tichman, Nina -- Hamelin, Marc-Andre -- Szidon, Roberto -- Klaas, Rainer Maria -- Berman, Daniel -- Bloch, Boris -- Froundjian, Peter -- Struck, Michael -- Sellheim, Eckart -- Quatre Mains Duo -- Westenholz, Peter","country":"Austria Brazil Canada Czech Republic Denmark France Germany Hungary Poland Russia United Kingdom United States","catid":"DACOCD299","cdinfo":[[["Henselt, Adolf von",[["12 Etudes caracteristiques, Op. 2 (excerpts)","mediaplayer\/player.asp?br=128&tl=926850|926851",["No. 1. &#8212;","No. 2. &#8212;"]]]],["Moszkowski, Moritz",[["8 Morceaux caracteristiques, Op. 36: No. 6. Etincelles","mediaplayer\/player.asp?br=128&tl=926852",[]]]],["Chopin, Fryderyk",[["Bolero, Op. 19","mediaplayer\/player.asp?br=128&tl=926853",[]]]],["Schubert, Franz",[["Divertissement sur des motifs originaux francais: No. 2. Andantino varie, Op. 84, No. 1, D. 823 (arr. C. Tausig)","mediaplayer\/player.asp?br=128&tl=926854",[]]]],["Godowsky, Leopold",[["Java Suite, Part III: VIII. The Gardens of Buitenzorg","mediaplayer\/player.asp?br=128&tl=926855",[]],["Strauss - 6 Lieder, Op. 17, TrV 149: No. 2. Standchen","mediaplayer\/player.asp?br=128&tl=926856",[]]]],["Wild, Earl",[["Grand Fantasy on Porgy and Bess: II. Summertime","mediaplayer\/player.asp?br=128&tl=926857",[]]]],["Godowsky, Leopold",[["Elegy for the left hand alone in B Minor","mediaplayer\/player.asp?br=128&tl=926858",[]]]],["Schulhoff, Erwin",[["5 Etudes de jazz: No. 4. Tango","mediaplayer\/player.asp?br=128&tl=926859",[]]]],["Rachmaninov, Sergey",[["Paraphrase of the quintet from Act III of Die Meistersinger von Nurnberg by Wagner","mediaplayer\/player.asp?br=128&tl=926860",[]]]],["Chaminade, C&#233;cile",[["6 Pieces humoristiques, Op. 87: No. 4. Autrefois","mediaplayer\/player.asp?br=128&tl=926861",[]]]],["Sancan, Pierre",[["Caprice Romantique pour la Main Gauche","mediaplayer\/player.asp?br=128&tl=926862",[]]]],["Schmitt, Florent",[["Une semaine du petit elfe ferme-l'oeil, Op. 58 (excerpts)","mediaplayer\/player.asp?br=128&tl=926863|926864",["III. Le Cheval de Ferme-l'oeil","VII. Le parapluie chinois"]]]],["Rachmaninov, Sergey",[["Waltz for 6 Hands","mediaplayer\/player.asp?br=128&tl=926865",[]]]],["Nielsen, Carl",[["Klavermusik for Sma og Store (Piano Music for Young and Old), Vol. 1, Op. 53, FS 148 (excerpts)","mediaplayer\/player.asp?br=128&tl=926866|926867|926868|926869|926870|926871|926872|926873",["No. 1. Allegretto","No. 2. Andantino quasi allegretto","No. 3a. Allegro scherzoso","No. 3b. Grazioso","No. 4. Andantino","No. 5. Allegro giocoso","No. 6. Poco lamentoso","No. 7. Marziale"]],["Klavermusik for Sma og Store (Piano Music for Young and Old), Vol. 2, Op. 53, FS 148 (excerpts)","mediaplayer\/player.asp?br=128&tl=926874|926875|926876|926877|926878",["No. 14. Capriccioso","No. 15. Adagio espressivo","No. 17. Largo con fantasia","No. 19. Alla Bach","No. 21. Marcia di goffo"]]]]],[["Liszt, Franz",[["Klavierstuck in F-Sharp Major, S193","mediaplayer\/player.asp?br=128&tl=926929",[]]]],["Debussy, Claude",[["Masques","mediaplayer\/player.asp?br=128&tl=926905",[]]]],["Alkan, Charles-Valentin",[["48 Esquisses, Op. 63 (excerpts)","mediaplayer\/player.asp?br=128&tl=926906|926907|926908",["No. 32. Minuettino","No. 46. Le Premier billet doux","No. 45. Les diablotins"]]]],["Liszt, Franz",[["Album d'un voyageur, S156\/R8, Book I, \"Impressions et Poesies\": No. 3. Les Cloches de G(eneve)","mediaplayer\/player.asp?br=128&tl=926909",[]]]],["Chabrier, Emmanuel",[["Air de ballet","mediaplayer\/player.asp?br=128&tl=926910",[]],["10 Pieces pittoresques: No. 5. Mauresque","mediaplayer\/player.asp?br=128&tl=926911",[]]]],["Szymanowski, Karol",[["Romantic Waltz","mediaplayer\/player.asp?br=128&tl=926912",[]]]],["Glinka, Mikhail Ivanovich",[["A Farewell to St. Petersburg: No. 10. Zhavoronok (The Lark) (arr. M.A. Balakirev)","mediaplayer\/player.asp?br=128&tl=926913",[]]]],["Kreisler, Fritz",[["Liebesleid (arr. S. Rachmaninov)","mediaplayer\/player.asp?br=128&tl=926914",[]]]],["Godowsky, Leopold",[["Renaissance, Book 1: No. 5. Elegie (deux gigues) in E Minor (Rameau)","mediaplayer\/player.asp?br=128&tl=926915",[]]]],["Ireland, John",[["Decorations: The Island Spell","mediaplayer\/player.asp?br=128&tl=926916",[]]]],["Rachmaninov, Sergey",[["12 Songs, Op. 14: No. 11. Vesenniye vodi (Spring Waters) (arr. E. Wild)","mediaplayer\/player.asp?br=128&tl=926917",[]]]],["Hamelin, Marc-Andr&#233;",[["12 Etudes in All thE Minor Keys: No. 12. in A-Flat Minor, \"Prelude and Fugue\"","mediaplayer\/player.asp?br=128&tl=926918",[]]]],["Schumann, Robert",[["Waldscenen, Op. 82: No. 9. Abschied (Farewell to the Forest)","mediaplayer\/player.asp?br=128&tl=926919",[]]]],["Villa-Lobos, Heitor",[["Cirandas: No. 4. O cravo brigou com a rosa (The Carnation quarelled with the Rose)","mediaplayer\/player.asp?br=128&tl=926920",[]]]],["Joachim, Joseph",[["Variationen uber ein irisches Elfenlied","mediaplayer\/player.asp?br=128&tl=926921",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099960263957.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099960263957.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099960263957","desc":"Piano Treasures","label":"Erato - Parlophone","category":"Concertos - Classical Music","composer":"Gabrilovich, Ossip -- Friedman, Ignaz -- Levitzki, Mischa -- Dohn\u00e1nyi, Erno -- Mozart, Wolfgang Amadeus -- Rosenthal, Moriz -- Palmgren, Selim -- Poulenc, Francis -- Quilter, Roger -- Rachmaninov, Sergey -- Ravel, Maurice -- Rodgers, Richard -- Satie, Erik -- Woodforde-Finden, Amy -- Tausig, Carl -- Liszt, Franz -- MacDowell, Edward -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Moszkowski, Moritz -- Schumann, Robert -- Scriabin, Alexander -- Paderewski, Ignacy Jan -- Chopin, Fryderyk -- Beethoven, Ludwig van -- Falla, Manuel de -- Godowsky, Leopold -- Grieg, Edvard -- Rubinstein, Anton -- Debussy, Claude -- Gershwin, George -- Schlozer, Paul de","artist":"Paik, Kun Woo -- Pletnev, Mikhail -- Hough, Stephen -- Andsnes, Leif Ove -- Marshall, Wayne -- Zacharias, Christian -- Jansons, Mariss -- Vonk, Hans -- Kitayenko, Dmitri -- Hickox, Richard -- Fruhbeck de Burgos, Rafael -- Plasson, Michel -- Berlin Philharmonic Orchestra -- Bournemouth Symphony Orchestra -- Paris Conservatoire Orchestra -- Litton, Andrew -- Bergen Philharmonic Orchestra -- Toulouse Capitol Orchestra -- City of London Sinfonia -- Aalborg Symphony Orchestra -- Orchestre de Paris -- Dresden Staatskapelle -- Halle Orchestra -- Foster, Lawrence -- Weissenberg, Alexis -- Bremen German Chamber Philharmonic -- Queffelec, Anne -- Duchable, Francois-Rene -- Pommier, Jean-Bernard -- Alexeev, Dmitri -- Soriano, Gonzalo","country":"Austria Chile Finland France Germany Hungary Norway Poland Russia Spain United Kingdom United States","catid":"5099960263957","cdinfo":[[["Tchaikovsky, Pyotr Il'yich",[["Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso","mediaplayer\/player.asp?br=128&tl=1517023",[]]]],["Rachmaninov, Sergey",[["Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato - Allegro","mediaplayer\/player.asp?br=128&tl=1517024",[]]]],["Beethoven, Ludwig van",[["Piano Concerto No. 5 in E-Flat Major, Op. 73, \"Emperor\": II. Adagio un poco mosso","mediaplayer\/player.asp?br=128&tl=1517025",[]]]],["Chopin, Fryderyk",[["Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto","mediaplayer\/player.asp?br=128&tl=1517026",[]]]],["Liszt, Franz",[["Piano Concerto No. 1 in E-Flat Major, S124\/R455: Allegro maestoso","mediaplayer\/player.asp?br=128&tl=1517027",[]]]],["Schumann, Robert",[["Piano Concerto in A Minor, Op. 54: I. Allegro affettuoso","mediaplayer\/player.asp?br=128&tl=1517028",[]]]],["Grieg, Edvard",[["Piano Concerto in A Minor, Op. 16: II. Adagio","mediaplayer\/player.asp?br=128&tl=1517039",[]]]],["Chopin, Fryderyk",[["Piano Concerto No. 1 in E Minor, Op. 11: III. Rondo: Vivace","mediaplayer\/player.asp?br=128&tl=1517040",[]]]],["Falla, Manuel de",[["Noches en los jardines de Espa&#241;a (Nights in the Gardens of Spain): I. En el Generalife (In the Generalife)","mediaplayer\/player.asp?br=128&tl=1517041",[]]]],["Haydn, Franz Joseph",[["Keyboard Concerto in F Major, Hob.XVIII:7: II. Andante","mediaplayer\/player.asp?br=128&tl=1517043",[]]]],["Mozart, Wolfgang Amadeus",[["Piano Concerto No. 23 in A Major, K. 488: II. Adagio (cadenza by W.A. Mozart)","mediaplayer\/player.asp?br=128&tl=1517042",[]]]],["Ravel, Maurice",[["Piano Concerto in G Major: II. Adagio","mediaplayer\/player.asp?br=128&tl=1517044",[]]]],["Poulenc, Francis",[["Concerto for 2 Pianos in D Minor, FP 61: II. Larghetto","mediaplayer\/player.asp?br=128&tl=1517045",[]]]],["Gershwin, George",[["Piano Concerto in F Major: III. Finale: Allegro agitato","mediaplayer\/player.asp?br=128&tl=1517046",[]]]]],[["Satie, Erik",[["3 Gymnopedies: No. 1. Lent et douloureux","mediaplayer\/player.asp?br=128&tl=1517047",[]]]],["Liszt, Franz",[["Liebestraume, S541\/R211: No. 3. Nocturne in A-Flat Major","mediaplayer\/player.asp?br=128&tl=1517048",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Les saisons (The Seasons), Op. 37b: X. October: Autumn Song","mediaplayer\/player.asp?br=128&tl=1517049",[]]]],["Mozart, Wolfgang Amadeus",[["Piano Sonata No. 8 in A Minor, K. 310: II. Andante cantabile con espressione","mediaplayer\/player.asp?br=128&tl=1517050",[]]]],["Beethoven, Ludwig van",[["Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\": I. Adagio sostenuto","mediaplayer\/player.asp?br=128&tl=1517052",[]]]],["Schumann, Robert",[["Fantasie in C Major, Op. 17: III. Langsam getragen - Durchweg leise zu halten","mediaplayer\/player.asp?br=128&tl=1517053",[]]]],["Chopin, Fryderyk",[["Nocturne No. 13 in C Minor, Op. 48, No. 1","mediaplayer\/player.asp?br=128&tl=1517057",[]]]],["Rachmaninov, Sergey",[["Morceaux de fantaisie, Op. 3: No. 1. Elegie in E-Flat Minor","mediaplayer\/player.asp?br=128&tl=1517058",[]]]],["Satie, Erik",[["3 Gnossiennes: Gnossienne No. 1","mediaplayer\/player.asp?br=128&tl=1517059",[]]]],["Ravel, Maurice",[["Pavane pour une infante defunte (version for piano)","mediaplayer\/player.asp?br=128&tl=1517063",[]]]],["Debussy, Claude",[["Suite bergamasque: III. Clair de lune","mediaplayer\/player.asp?br=128&tl=1517060",[]]]],["Grieg, Edvard",[["Lyric Pieces, Book 5, Op. 54: No. 3. March of the Dwarfs","mediaplayer\/player.asp?br=128&tl=1517061",[]]]],["Scriabin, Alexander",[["24 Preludes, Op. 11: No. 8 in F-Sharp Minor","mediaplayer\/player.asp?br=128&tl=1517062",[]]]]],[["MacDowell, Edward",[["2 Fantasiest&#252;cke, Op. 17: No. 2. Hexentanz","mediaplayer\/player.asp?br=128&tl=1517074",[]]]],["Liszt, Franz",[["Chopin - 6 Chants polonais, S480\/R145: No. 1. Madchens Wunsch (Zyczenie, The Maiden's Wish)","mediaplayer\/player.asp?br=128&tl=1517075",[]]]],["Quilter, Roger",[["3 Songs, Op. 3: No. 2. Now Sleeps the Crimson Petal (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=1517076",[]],["6 Songs, Op. 25: No. 2. The Fuchsia Tree: No. 2. The Fuchsia Tree (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=1517077",[]]]],["Dohn&#225;nyi, Erno",[["6 Concert Etudes, Op. 28: No. 6 in F Minor, \"Capriccio\"","mediaplayer\/player.asp?br=128&tl=1517078",[]]]],["Paderewski, Ignacy Jan",[["Humoresques de concert, Op. 14: No. 1. Menuet celebre","mediaplayer\/player.asp?br=128&tl=1517079",[]],["Miscellanea, Op. 16: No. 4. Nocturne in B-flat major","mediaplayer\/player.asp?br=128&tl=1517080",[]]]],["Schlozer, Paul de",[["Etude in A-Flat Major, Op. 1, No. 2","mediaplayer\/player.asp?br=128&tl=1517081",[]]]],["Gabrilovich, Ossip",[["Melodie in E Minor, Op. 8","mediaplayer\/player.asp?br=128&tl=1517082",[]],["Caprice Burlesque, Op. 3","mediaplayer\/player.asp?br=128&tl=1517084",[]]]],["Rodgers, Richard",[["The Sound of Music: My Favorite Things (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=1517085",[]]]],["Woodforde-Finden, Amy",[["4 Indian Love Lyrics: No. 3. Kashmiri Song (arr. S. Hough)","mediaplayer\/player.asp?br=128&tl=1517086",[]]]],["Friedman, Ignaz",[["Music Box, Op. 33, No. 3","mediaplayer\/player.asp?br=128&tl=1517087",[]]]],["Godowsky, Leopold",[["Saint-Saens - Carnival of the Animals: XIII. Le Cygne (The Swan)","mediaplayer\/player.asp?br=128&tl=1517088",[]],["Java Suite, Part III: VIII. The Gardens of Buitenzorg","mediaplayer\/player.asp?br=128&tl=1517089",[]]]],["Rosenthal, Moriz",[["Papillons","mediaplayer\/player.asp?br=128&tl=1517132",[]]]],["Levitzki, Mischa",[["Waltz in A Major, Op. 2","mediaplayer\/player.asp?br=128&tl=1517090",[]]]],["Palmgren, Selim",[["En route, Op. 9","mediaplayer\/player.asp?br=128&tl=1517091",[]]]],["Moszkowski, Moritz",[["3 Morceaux poetiques, Op. 42: No. 2. Siciliano","mediaplayer\/player.asp?br=128&tl=1517092",[]],["Caprice espagnol, Op. 37","mediaplayer\/player.asp?br=128&tl=1517093",[]]]],["Rubinstein, Anton",[["2 Melodies, Op. 3: Melody No. 1 in F Major","mediaplayer\/player.asp?br=128&tl=1517133",[]]]],["Tausig, Carl",[["Ungarische Zigeunerweisen","mediaplayer\/player.asp?br=128&tl=1517134",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="godowsky java suite";JGaskdonation=0;JGFileTools={"73043":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/73043"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29&frmTitle=IMSLP+%2373043"}},"73044":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/73044"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29&frmTitle=IMSLP+%2373044"}},"73045":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/73045"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29&frmTitle=IMSLP+%2373045"}},"479910":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/479910"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29&frmTitle=IMSLP+%23479910"}},"3691":{"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/3691"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/3691"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29&frmTitle=IMSLP+%2303691"}},"3878":{"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/3878"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/3878"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Java+Suite+%28Godowsky%2C+Leopold%29&frmTitle=IMSLP+%2303878"}}};JGFileOpts={"73043":[],"73044":[],"73045":[],"479910":[],"3691":[],"3878":[]};JGPageUntagged=false;JGPageTags=["suites","pf"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"3691":[6.5714285714286,"7"],"3878":[8,"2"],"73043":[8,"2"],"73044":[6.8,"5"],"73045":[8.6666666666667,"3"],"479910":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Free_Recordings"><span class="tocnumber">3</span> <span class="toctext">Free Recordings</span></a></li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">4</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">4</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<div class="we"><div id="IMSLP73043" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/73043"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Gamelan</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b5/PMLP09192-Godowsky_-_Java_Suite_-_I._Gamelan.mp3" class="internal" title="PMLP09192-Godowsky - Java Suite - I. Gamelan.mp3">*</a></span><a href="/wiki/File:PMLP09192-Godowsky_-_Java_Suite_-_I._Gamelan.mp3" title="File:PMLP09192-Godowsky - Java Suite - I. Gamelan.mp3">#73043</a> - 6.70MB - 02:55<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-73043' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-73043'>
+	<a href='javascript:void(0)' id='73043' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='73043' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='73043' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='73043' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='73043' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-73043'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/73043/Java_Suite_(Godowsky,_Leopold)" title="Special:IMSLPEditCTag/73043/Java Suite (Godowsky, Leopold)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>21</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@73043" title="Special:GetFCtrStats/@73043">1421</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:ClassicalT42&amp;action=edit&amp;redlink=1" class="new" title="User:ClassicalT42 (page does not exist)">ClassicalT42</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:ClassicalT42&amp;action=edit&amp;redlink=1" class="new" title="User:ClassicalT42 (page does not exist)">ClassicalT42</a><span class="mh555"> (2010/7/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP73044" class="we_file we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/73044"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Chattering Monkeys at the Sacred Lake of Wendit</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b6/PMLP09192-Godowsky_-_Java_Suite_-_IV._Chattering_Monkeys_at_the_Sacred_Lake_of_Wendit.mp3" class="internal" title="PMLP09192-Godowsky - Java Suite - IV. Chattering Monkeys at the Sacred Lake of Wendit.mp3">*</a></span><a href="/wiki/File:PMLP09192-Godowsky_-_Java_Suite_-_IV._Chattering_Monkeys_at_the_Sacred_Lake_of_Wendit.mp3" title="File:PMLP09192-Godowsky - Java Suite - IV. Chattering Monkeys at the Sacred Lake of Wendit.mp3">#73044</a> - 3.87MB - 01:41<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-73044' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-73044'>
+	<a href='javascript:void(0)' id='73044' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='73044' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='73044' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='73044' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='73044' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-73044'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/73044/Java_Suite_(Godowsky,_Leopold)" title="Special:IMSLPEditCTag/73044/Java Suite (Godowsky, Leopold)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>21</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@73044" title="Special:GetFCtrStats/@73044">507</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:ClassicalT42&amp;action=edit&amp;redlink=1" class="new" title="User:ClassicalT42 (page does not exist)">ClassicalT42</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:ClassicalT42&amp;action=edit&amp;redlink=1" class="new" title="User:ClassicalT42 (page does not exist)">ClassicalT42</a><span class="mh555"> (2010/7/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP73045" class="we_file we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/73045"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>9. In the Streets of Old Batavia</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ac/PMLP09192-Godowsky_-_Java_Suite_-_IX._In_the_Streets_of_Old_Batavia.mp3" class="internal" title="PMLP09192-Godowsky - Java Suite - IX. In the Streets of Old Batavia.mp3">*</a></span><a href="/wiki/File:PMLP09192-Godowsky_-_Java_Suite_-_IX._In_the_Streets_of_Old_Batavia.mp3" title="File:PMLP09192-Godowsky - Java Suite - IX. In the Streets of Old Batavia.mp3">#73045</a> - 7.33MB - 03:12<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-73045' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-73045'>
+	<a href='javascript:void(0)' id='73045' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='73045' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='73045' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='73045' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='73045' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-73045'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/73045/Java_Suite_(Godowsky,_Leopold)" title="Special:IMSLPEditCTag/73045/Java Suite (Godowsky, Leopold)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>21</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@73045" title="Special:GetFCtrStats/@73045">417</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:ClassicalT42&amp;action=edit&amp;redlink=1" class="new" title="User:ClassicalT42 (page does not exist)">ClassicalT42</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:ClassicalT42&amp;action=edit&amp;redlink=1" class="new" title="User:ClassicalT42 (page does not exist)">ClassicalT42</a><span class="mh555"> (2010/7/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Bachus,_Brett" title="Category:Bachus, Brett">Brett Bachus</a> (Piano)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Brett Bachus
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=73043/73044/73045">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=73043/73044/73045">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="73043">Javascript is required for this feature.</div><script>JGINITsearchbars['73043']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP479910" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/479910"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>8. The Gardens of Buitenzorg</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/96/PMLP09192-09._LEOPOLD_GODOWSKY_%281870-1938%29-_The_Gardens_of_Buitenzorg.mp3" class="internal" title="PMLP09192-09. LEOPOLD GODOWSKY (1870-1938)- The Gardens of Buitenzorg.mp3">*</a></span><a href="/wiki/File:PMLP09192-09._LEOPOLD_GODOWSKY_(1870-1938)-_The_Gardens_of_Buitenzorg.mp3" title="File:PMLP09192-09. LEOPOLD GODOWSKY (1870-1938)- The Gardens of Buitenzorg.mp3">#479910</a> - 5.09MB - 3:30<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-479910' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-479910'>
+	<a href='javascript:void(0)' id='479910' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='479910' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='479910' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='479910' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='479910' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-479910'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/479910/Java_Suite_(Godowsky,_Leopold)" title="Special:IMSLPEditCTag/479910/Java Suite (Godowsky, Leopold)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>21</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@479910" title="Special:GetFCtrStats/@479910">38</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a><span class="mh555"> (2017/7/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Loesser,_Arthur" title="Category:Loesser, Arthur">Arthur Loesser</a> (piano)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.archive.org/details/ArthurLoesser-TownHallRecital1967SICTRANSITGLORIAMUNDI"><i>Sic Trannsit Gloria Mundi</i></a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_3.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 3.0">Creative Commons Attribution-NonCommercial-ShareAlike 3.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=479910">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=479910">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>1967 Town Hall recital
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="479910">Javascript is required for this feature.</div><script>JGINITsearchbars['479910']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">2</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP03691" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/03691"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4b/Godowsky_javasuite.pdf" class="internal" title="Godowsky javasuite.pdf">*</a></span><a href="/wiki/File:Godowsky_javasuite.pdf" title="File:Godowsky javasuite.pdf">#03691</a> - 6.49MB, 127 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-3691' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-3691'>
+	<a href='javascript:void(0)' id='3691' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='3691' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='3691' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='3691' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='3691' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-3691'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/03691/Java_Suite_(Godowsky,_Leopold)" title="Special:IMSLPEditCTag/03691/Java Suite (Godowsky, Leopold)"><span style="color:green">V</span>/<span style="color:red"><b>21</b></span>/<span style="color:green">09</span></a> </span>- <a href="/wiki/Special:GetFCtrStats/@3691" title="Special:GetFCtrStats/@3691">7882</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:Goldberg988" title="User:Goldberg988">Goldberg988</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Goldberg988" title="User:Goldberg988">Goldberg988</a> (2007/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP03878" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/03878"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score (bookmarked)</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9b/Godowsky_Java-Suite.pdf" class="internal" title="Godowsky Java-Suite.pdf">*</a></span><a href="/wiki/File:Godowsky_Java-Suite.pdf" title="File:Godowsky Java-Suite.pdf">#03878</a> - 6.61MB, 127 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-3878' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-3878'>
+	<a href='javascript:void(0)' id='3878' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='3878' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='3878' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='3878' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='3878' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-3878'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/03878/Java_Suite_(Godowsky,_Leopold)" title="Special:IMSLPEditCTag/03878/Java Suite (Godowsky, Leopold)"><span style="color:green">V</span>/<span style="color:red"><b>21</b></span>/<span style="color:green">09</span></a> </span>- <a href="/wiki/Special:GetFCtrStats/@3878" title="Special:GetFCtrStats/@3878">2655</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:Nomis" title="User:Nomis">Nomis</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Nomis" title="User:Nomis">Nomis</a> (2007/2/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/Carl_Fischer" title="Carl Fischer">Carl Fischer</a>, 1925, Plate 23422
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a>&#160;- <b><span style="color:red">Non-PD US</span></b><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=3691/3878">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=3691/3878">del</a>/<span id="fmrglnk" data-pdfstr="3691//3878/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="3691">Javascript is required for this feature.</div><script>JGINITsearchbars['3691']={"isbn":{"isbnarr":[{"text":"Carl Fischer collection, vol.1","isbn":"ASIN:0825811309"}]}};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span>
+<h2> <span class="mw-headline" id="Free_Recordings">Free Recordings</span></h2>
+<dl><dt>8. The Gardens of Buitenzorg
+</dt></dl>
+<ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/download/ArthurLoesser-TownHallRecital1967SICTRANSITGLORIAMUNDI/09.%20LEOPOLD%20GODOWSKY%20%281870-1938%29-%20The%20Gardens%20of%20Buitenzorg.mp3">Arthur Loesser (piano)</a></span>
+</li></ul>
+<p><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+</p>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Java Suite
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Phonoramas. Tonal journeys for the pianoforte
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Godowsky,_Leopold" title="Category:Godowsky, Leopold">Godowsky, Leopold</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ILG 16
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>12 pieces, in 4 parts
+<dl><dt><ul><li>Part I.
+</li></ul>
+</dt><dd>1. Gamelan
+</dd><dd>2. Wayang-Purwa, Puppet Shadow Plays
+</dd><dd>3. Hari Besaar, The Great Day
+</dd></dl>
+<dl><dt><ul><li>Part II.
+</li></ul>
+</dt><dd>4. Chattering Monkeys at the Sacred Lake of Wendit
+</dd><dd>5. Boro Budur in Moonlight
+</dd><dd>6. The Bromo Volcano and the Sand Sea at Daybreak
+</dd></dl>
+<dl><dt><ul><li>Part III.
+</li></ul>
+</dt><dd>7. Three Dances
+</dd><dd>8. The Gardens of Buitenzorg
+</dd><dd>9. In the Streets of Old Batavia
+</dd></dl>
+<dl><dt><ul><li>Part IV.
+</li></ul>
+</dt><dd>10. In the Kraton
+</dd><dd>11. The Ruined Water Castle at Djokja
+</dd><dd>12. A Court Pageant in Solo
+</dd></dl>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1924–25
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1925 - New York: Carl Fischer
+</td></tr>
+<tr>
+<th>Copyright Information
+</th>
+<td>While <a href="/wiki/Public_domain" title="Public domain">public domain</a> even in the EU, this work remains under copyright in the USA.<br />
+<table class="toccolours protected" style="border: 1px solid #8888aa; background: #FFFFFF; padding-top:4px; padding-bottom:4px; padding-left:8px; padding-right:8px; font-size:90%;">
+
+<tr>
+<td align="center">
+<p>In the USA, This item is <i>not</i> in the <a href="/wiki/Public_Domain" title="Public Domain" class="mw-redirect">public domain</a> because it was renewed 28 years after first publication with a proper notice or it was "restored" to copyright status via a <i>Notice of Intent to Enforce</i> (NIE) under the provisions of the GATT/TRIPS amendments. It will enter the US <a href="/wiki/Public_domain" title="Public domain">public domain</a> on <span style="color:crimson"><b>January 1st, 2021.</b></span>
+</p>
+</td></tr></table><span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/CatalogOfCopyrightEntriesSeries3Vol.6Part5cNos.1-2jan.-dec.1952/cce_1952_jan-dec_music_renewals#page/n144/mode/1up">Renewed Sept.-Oct. 1952 (R99766-68, 99770)</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Early_20th_century_style" title="Category:Early 20th century style">Early 20th century</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Piano (solo)
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 360/1000000
+Post-expand include size: 32977/2097152 bytes
+Template argument size: 668/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:9192-0!*!0!!en!*!* and timestamp 20180417054802 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Java_Suite_(Godowsky,_Leopold)&amp;oldid=2367849">http://imslp.org/index.php?title=Java_Suite_(Godowsky,_Leopold)&amp;oldid=2367849</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WorkNonPD-US" title="Category:WorkNonPD-US">WorkNonPD-US</a></li><li><a href="/wiki/Category:Bachus,_Brett/Performer" title="Category:Bachus, Brett/Performer">Bachus, Brett/Performer</a></li><li><a href="/wiki/Category:Loesser,_Arthur/Performer" title="Category:Loesser, Arthur/Performer">Loesser, Arthur/Performer</a></li><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Scores_with_links_to_Amazon" title="Category:Scores with links to Amazon">Scores with links to Amazon</a></li><li><a href="/wiki/Category:Scores_with_links_to_Sheet_Music_Plus" title="Category:Scores with links to Sheet Music Plus">Scores with links to Sheet Music Plus</a></li><li><a href="/wiki/Category:Work_pages_with_links_to_recordings" title="Category:Work pages with links to recordings">Work pages with links to recordings</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Godowsky,_Leopold" title="Category:Godowsky, Leopold">Godowsky, Leopold</a></li><li><a href="/wiki/Category:Early_20th_century_style" title="Category:Early 20th century style">Early 20th century style</a></li><li><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a></li><li><a href="/wiki/Category:Suites" title="Category:Suites">Suites</a></li><li><a href="/wiki/Category:For_piano" title="Category:For piano">For piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Works_first_published_in_1925" title="Category:Works first published in 1925">Works first published in 1925</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Work-NonPD-US-renewed" title="Category:Work-NonPD-US-renewed">Work-NonPD-US-renewed</a></li><li><a href="/wiki/Category:Pages_with_citations_from_items_at_Internet_Archive" title="Category:Pages with citations from items at Internet Archive">Pages with citations from items at Internet Archive</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Java_Suite_%28Godowsky%2C_Leopold%29">5,463 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Java%20Suite%20%28Godowsky%2C%20Leopold%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.429 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180417054802 -->
+</html>
+		

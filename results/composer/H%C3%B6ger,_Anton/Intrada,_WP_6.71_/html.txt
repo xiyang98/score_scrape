@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Intrada, WP 6.71 (Pezel, Johann Christoph) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Intrada,_WP_6.71_(Pezel,_Johann_Christoph)", "wgTitle": "Intrada, WP 6.71 (Pezel, Johann Christoph)", "wgCurRevisionId": 2161877, "wgArticleId": 339326, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WIMA files", "Schering, Arnold/Editor", "Moser, Hans Joachim/Editor", "Scores published by Breitkopf und Härtel", "Rondeau, Michel/Arranger", "Höger, Anton/Arranger", "Scores", "Pezel, Johann Christoph", "Baroque style", "Baroque", "Intradas", "For 2 cornetts, 3 trombones", "Scores featuring the cornett", "Scores featuring the trombone", "For 5 players", "For 5 recorders (arr)", "Scores featuring the recorder", "For 2 trumpets, 3 trombones (arr)", "Scores featuring the trumpet", "For 5 guitars (arr)", "Scores featuring the guitar", "Pages with arrangements", "Works first published in 1685", "Works first published in the 17th century", "C major"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Intrada_WP_6_71_Pezel_Johann_Christoph action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Intrada,_WP_6.71_(Pezel,_Johann_Christoph)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Intrada,_WP_6.71_(Pezel,_Johann_Christoph)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Intrada,_WP_6.71_(Pezel,_Johann_Christoph)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Intrada,_WP_6.71_(Pezel,_Johann_Christoph)&amp;oldid=2161877" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Intrada%2C%20WP%206.71%20%28Pezel%2C%20Johann%20Christoph%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Intrada, WP 6.71 (Pezel, Johann Christoph)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>First Publication
+</th>
+<td>1685 in <i><a href="/wiki/F%C3%BCnfstimmige_blasende_Music_(Pezel,_Johann_Christoph)" title="Fünfstimmige blasende Music (Pezel, Johann Christoph)">Fünfstimmige blasende Music</a></i> (No.71)
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Intradas&amp;transclude=Template:Catintro">Intradas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_cornetts%2C_3_trombones&amp;transclude=Template:Catintro">For 2 cornetts, 3 trombones</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cornett&amp;transclude=Template:Catintro">Scores featuring the cornett</a></span>; <span class="expandline" title="8 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_trombone&amp;transclude=Template:Catintro">Scores featuring the trombone</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_players&amp;transclude=Template:Catintro">For 5 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_recorders_%28arr%29&amp;transclude=Template:Catintro">For 5 recorders (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_recorder&amp;transclude=Template:Catintro">Scores featuring the recorder</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_trumpets%2C_3_trombones_%28arr%29&amp;transclude=Template:Catintro">For 2 trumpets, 3 trombones (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_trumpet&amp;transclude=Template:Catintro">Scores featuring the trumpet</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_guitars_%28arr%29&amp;transclude=Template:Catintro">For 5 guitars (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Intrada, WP 6.71","composer":"Pezel, Johann Christoph","comphref":"\/wiki\/Category:Pezel,_Johann_Christoph"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"intrada","itunes":"intrada","composer":"pezel","scorekeywords":"intrada","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":11,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=643443226769.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=643443226769.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D643443226769","desc":"Brass Quartet - GUAMI, G. \/ GERVAISE, C. \/ BACH, J.S. \/ BENOY, A.W. \/ PEZEL, J.C. \/ PALESTRINA, G.P. da \/ GABRIELI, A. (Viva Brass Quartet)","label":"Finlandia","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Stephenson, Robin -- Pezel, Johann Christoph -- Gabrieli, Andrea -- Gervaise, Claude -- Palestrina, Giovanni Pierluigi da -- Gabrieli, Giovanni -- Guami, Gioseffo -- Benoy, A.W.","artist":"Viva Brass Quartet","country":"France Germany Italy United Kingdom","catid":"643443226769","cdinfo":[[["Guami, Gioseffo",[["La Guamina (arr. for brass quartet and organ)","mediaplayer\/player.asp?br=128&tl=2455439",[]]]],["Gervaise, Claude",[["6 Branles (arr. for brass quartet)","mediaplayer\/player.asp?br=128&tl=2455440|2455441|2455442|2455443|2455444|2455445",["No. 1. Branle de Champange","No. 2. Branle de Poitou","No. 3. Branle de Champange","No. 4. Branle de Champange","No. 5. Branle de Champange","No. 6. Branle de Bourgogne"]]]],["Bach, Johann Sebastian",[["Jesu, nun sei gepreiset, BWV 41: Jesu, nun sei gepreiset (arr. for brass quartet and organ)","mediaplayer\/player.asp?br=128&tl=2455446",[]]]],["Benoy, A.W.",[["A Bach Suite","mediaplayer\/player.asp?br=128&tl=2455447|2455448|2455449|2455450|2455451|2455452",["No. 1. Prelude","No. 2. Gavotte","No. 3. Sarabande","No. 4. Minuet","No. 5. Chorale","No. 6. Fugue"]]]],["Pezel, Johann Christoph",[["Hora decima musicorum Lipsiensium, \"Musicalische Arbeit zum Ab-blasen\": Sonata No. 2 (arr. for brass quartet and organ)","mediaplayer\/player.asp?br=128&tl=2455453",[]]]],["Gervaise, Claude",[["King Arthur, Z. 628  (arr. for brass quartet)","mediaplayer\/player.asp?br=128&tl=2455454|2455456|2455455|2455457",["Air","Allegro","Allegro maestoso"]]]],["Palestrina, Giovanni Pierluigi da",[["Ricercar (arr. for brass quartet)","mediaplayer\/player.asp?br=128&tl=2455458",[]]]],["Gabrieli, Andrea",[["Ricercar (arr. for brass quartet)","mediaplayer\/player.asp?br=128&tl=2455459",[]]]],["Stephenson, Robin",[["6 Intradas","mediaplayer\/player.asp?br=128&tl=2455460|2455461|2455462|2455463|2455464|2455465",["Intrada No. 1","Intrada No. 2","Intrada No. 3","Intrada No. 4","Intrada No. 5","Intrada No. 6"]]]],["Gabrieli, Giovanni",[["Canzon septimi toni No. 2 (arr. for brass quartet and organ)","mediaplayer\/player.asp?br=128&tl=2455466",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ABC446735-2.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ABC446735-2.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DABC446735-2","desc":"Brass Music - LUTOSLAWSKI, W. \/ GABRIELI, A. \/ PEZEL, J.C. \/ BRITTEN, B. \/ PURCELL, H. \/ SCULTHORPE, P. \/ CARTER, E. (Graham Ashton Brass Ensemble)","label":"ABC Classics","category":"Chamber Music - Classical Music","composer":"Purcell, Henry -- Lutos\u0142awski, Witold -- Pezel, Johann Christoph -- Gabrieli, Andrea -- Holborne, Antony -- Sculthorpe, Peter -- Carter, Elliott -- Maxwell Davies, Peter -- Britten, Benjamin -- Pearson, Leslie -- Ashton, Graham","artist":"Graham Ashton Brass Ensemble -- Turpin, Christine","country":"Australia Germany Italy Poland United Kingdom United States","catid":"ABC446735-2","cdinfo":[[["Lutos&#322;awski, Witold",[["Mini-Overture","mediaplayer\/player.asp?br=128&tl=549340",[]]]],["Gabrieli, Andrea",[["Ricercar del duodecimo tuono","mediaplayer\/player.asp?br=128&tl=549341",[]]]],["Pezel, Johann Christoph",[["Hora decima musicorum Lipsiensium, \"Musicalische Arbeit zum Ab-blasen\" (excerpts)","mediaplayer\/player.asp?br=128&tl=549342|549343|549344",[]]]],["Britten, Benjamin",[["Fanfare for St. Edmundsbury","mediaplayer\/player.asp?br=128&tl=549345",[]]]],["Purcell, Henry",[["March and Canzona in C Minor, Z. 860","mediaplayer\/player.asp?br=128&tl=549346",[]]]],["Sculthorpe, Peter",[["An Australian Anthem","mediaplayer\/player.asp?br=128&tl=549347",[]]]],["Carter, Elliott",[["A Fantasy about Purcell's Fantasia Upon One Note","mediaplayer\/player.asp?br=128&tl=549348",[]]]],["Ashton, Graham",[["Fantasy on Catherine's Song","mediaplayer\/player.asp?br=128&tl=549349",[]]]],["Holborne, Antony",[["Heigh-Ho Holiday (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=549350",[]],["The Fruit of Love (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=549351",[]],["Almain, \"The Choice\" (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=549352",[]],["Coranto, \"The Fairie Round\" (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=549353",[]]]],["Pearson, Leslie",[["Dance suite after Antoine Arbeau","mediaplayer\/player.asp?br=128&tl=549354|549355|549356|549357",[]]]],["Maxwell Davies, Peter",[["2 Motets","mediaplayer\/player.asp?br=128&tl=549358|549359",[]],["March: The Pole Star","mediaplayer\/player.asp?br=128&tl=549360",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=090266810826.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=090266810826.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D090266810826","desc":"Brass Quintet Arrangements - GABRIELI, G. \/ MONTEVERDI, C. \/ BYRD, W. \/ PEZEL. J.C. \/ SUSATO, T. (Renaissance Men) (Canadian Brass)","label":"RCA Records","category":"Chamber Music - Classical Music","composer":"Fux, Johann Joseph -- Le Jeune, Claude -- Weelkes, Thomas -- Josquin des Prez, -- Pezel, Johann Christoph -- Susato, Tylman -- Sweelinck, Jan Pieterszoon -- Holborne, Antony -- Monteverdi, Claudio -- Tye, Christopher -- Palestrina, Giovanni Pierluigi da -- Dowland, John -- Byrd, William -- Gabrieli, Giovanni -- Gibbons, Orlando -- Morley, Thomas -- Peuerl, Paul","artist":"Canadian Brass","country":"Austria France Germany Italy Netherlands United Kingdom United States","catid":"090266810826","cdinfo":[[["Weelkes, Thomas",[["In the Pride of May (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260785",[]]]],["Fux, Johann Joseph",[["Aria (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260786",[]],["Fugue (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260787",[]]]],["Gabrieli, Giovanni",[["Sacrae symphoniae: No. 2. Canzon septimi toni (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260788",[]]]],["Pezel, Johann Christoph",[["5 Stimmigte blasende Music (arr. W. Barnes for brass quintet) (excerpts)","mediaplayer\/player.asp?br=128&tl=2260789|2260790|2260791|2260792",["Intrada","Intrada","Sarabande","Intrada"]]]],["Prez, Josquin des",[["Royal Fanfare (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260793",[]]]],["Holborne, Antony",[["Muy Linda (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260794",[]],["Galliard (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260795",[]]]],["Peuerl, Paul",[["Canzon (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260796",[]]]],["Tye, Christopher",[["Tudor Motet (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260797",[]]]],["Byrd, William",[["Non nobis Domine (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260798",[]]]],["Gibbons, Orlando",[["The First Set of Madrigals and Mottets: The Silver Swan (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260799",[]]]],["Pezel, Johann Christoph",[["5 Stimmigte blasende Music: Intrada (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260800",[]]]],["Le Jeune, Claude",[["Revecy venir du printans (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260801",[]]]],["Sweelinck, Jan Pieterszoon",[["Cantiones sacrae: No. 13. Hodie Christus natus est (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260802",[]]]],["Morley, Thomas",[["My bonny lasse shee smyleth (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260803",[]]]],["Dowland, John",[["Book of Songs, Book 1: Come again, sweet love doth now invite (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260804",[]]]],["Morley, Thomas",[["Now is the month of maying (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260805",[]]]],["Gibbons, Orlando",[["Hosanna to the son of David (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260806",[]]]],["Palestrina, Giovanni Pierluigi da",[["Hosanna (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260807",[]]]],["Gabrieli, Giovanni",[["Canzon No. 1 a 5 (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260808",[]]]],["Susato, Tylman",[["Danserye (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260809|2260810|2260811|2260812",["La Mourisque","Branle","Mon Army","Ronde"]]]],["Gabrieli, Giovanni",[["Canzon No. 2 a 4 (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260813",[]]]],["Monteverdi, Claudio",[["Vespro della Beata Vergine, \"composti sopra canti fermi\": Ave maris stella (arr. A. Frackenpohl for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260814",[]]]],["Monteverdi, Claudio",[["L'Orfeo: Fanfare (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2260815",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=888880762061.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=888880762061.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D888880762061","desc":"Brass Quintet Arrangements - GABRIELI, G. \/ MONTEVERDI, C. \/ BYRD, W. \/ PEZEL. J.C. \/ SUSATO, T. (Renaissance Men) (Canadian Brass)","label":"RCA Records","category":"Chamber Music - Classical Music","composer":"Fux, Johann Joseph -- Le Jeune, Claude -- Weelkes, Thomas -- Josquin des Prez, -- Pezel, Johann Christoph -- Susato, Tylman -- Sweelinck, Jan Pieterszoon -- Holborne, Antony -- Monteverdi, Claudio -- Tye, Christopher -- Palestrina, Giovanni Pierluigi da -- Dowland, John -- Byrd, William -- Gabrieli, Giovanni -- Gibbons, Orlando -- Morley, Thomas -- Peuerl, Paul","artist":"Canadian Brass","country":"Austria France Germany Italy Netherlands United Kingdom United States","catid":"888880762061","cdinfo":[[["Weelkes, Thomas",[["In the Pride of May (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358831",[]]]],["Fux, Johann Joseph",[["Aria (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358832",[]],["Fugue (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358833",[]]]],["Gabrieli, Giovanni",[["Sacrae symphoniae: No. 2. Canzon septimi toni (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358834",[]]]],["Pezel, Johann Christoph",[["5 Stimmigte blasende Music (excerpts) (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358835|2358836|2358837|2358838",["Intrada","Intrada","Sarabande","Intrada"]]]],["Prez, Josquin des",[["Royal Fanfare (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358839",[]]]],["Holborne, Antony",[["Muy Linda (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358840",[]],["Galliard (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358841",[]]]],["Peuerl, Paul",[["Canzon (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358842",[]]]],["Tye, Christopher",[["Tudor Motet (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358843",[]]]],["Byrd, William",[["Non nobis Domine (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358844",[]]]],["Gibbons, Orlando",[["The First Set of Madrigals and Mottets: The Silver Swan (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358845",[]]]],["Pezel, Johann Christoph",[["5 Stimmigte blasende Music: Intrada (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358846",[]]]],["Le Jeune, Claude",[["Revecy venir du printans (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358847",[]]]],["Sweelinck, Jan Pieterszoon",[["Cantiones sacrae: No. 13. Hodie Christus natus est (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358848",[]]]],["Morley, Thomas",[["My bonny lasse shee smyleth (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358849",[]]]],["Dowland, John",[["Book of Songs, Book 1: Come again, sweet love doth now invite (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358850",[]]]],["Morley, Thomas",[["Now is the month of maying (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358851",[]]]],["Gibbons, Orlando",[["Hosanna to the son of David (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358852",[]]]],["Palestrina, Giovanni Pierluigi da",[["Hosanna (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358853",[]]]],["Gabrieli, Giovanni",[["Canzon No. 1 a 5 (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358854",[]]]],["Susato, Tylman",[["Danserye (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358855|2358856|2358857|2358858",["La Mourisque","Branle","Mon Army","Ronde"]]]],["Gabrieli, Giovanni",[["Canzon No. 2 a 4 (arr. F. Mills for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358859",[]]]],["Monteverdi, Claudio",[["Vespro della Beata Vergine, \"composti sopra canti fermi\": Ave maris stella (arr. A. Frackenpohl for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358860",[]]]],["Monteverdi, Claudio",[["L'Orfeo: Fanfare (arr. W. Barnes for brass quintet)","mediaplayer\/player.asp?br=128&tl=2358861",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=BIS-CD-223.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=BIS-CD-223.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DBIS-CD-223","desc":"PEZEL: Suite of Dances \/ HOWARTH: English Dances","label":"BIS","category":"Chamber Music - Classical Music","composer":"Anonymous -- Howarth, Elgar -- Scheidt, Samuel -- Pezel, Johann Christoph -- Gervaise, Claude -- Duben, Andreas -- Locke, Matthew -- Roman, Johan Helmich -- Byrd, William -- Gabrieli, Giovanni -- Not Applicable, na","artist":"Malmo Brass Ensemble -- Stockholm Philharmonic Brass Ensemble","country":"France Germany Italy Sweden United Kingdom","catid":"BIS-CD-223","cdinfo":[[["Pezel, Johann Christoph",[["Suite of Dances","mediaplayer\/player.asp?br=128&tl=130753",[]]]],["Roman, Johan Helmich",[["Royal Wedding Music Suite, \"Drottningholmsmusique\" (\"Drottningholm Music\") (excerpts)","mediaplayer\/player.asp?br=128&tl=130754",[]]]],["Anonymous",[["Sonata from Die Bankelsangerlieder","mediaplayer\/player.asp?br=128&tl=130755",[]]]],["Byrd, William",[["English Dances","mediaplayer\/player.asp?br=128&tl=160301",[]]]],["Duben, Andreas",[["Swedish Dances","mediaplayer\/player.asp?br=128&tl=130757",[]]]],["Howarth, Elgar",[["English Dances","mediaplayer\/player.asp?br=128&tl=130756",[]]]],["Gervaise, Claude",[["Pavanne d'Angleterre: Gaillarde","mediaplayer\/player.asp?br=128&tl=130758",[]]]],["Unknown Composer",[["Revecy Venir du Printans","mediaplayer\/player.asp?br=128&tl=130759",[]]]],["Locke, Matthew",[["Music for His Majesty's Sackbuts and Cornetts","mediaplayer\/player.asp?br=128&tl=130760",[]]]],["Scheidt, Samuel",[["Ludi musici, book 1: No. 26. Canzon ad imitationem Bergamasca Anglica","mediaplayer\/player.asp?br=128&tl=130761",[]]]],["Gabrieli, Giovanni",[["Sacrae symphoniae: Canzon septimi toni No. 1","mediaplayer\/player.asp?br=128&tl=130762",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SU3394-2.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SU3394-2.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSU3394-2","desc":"CHRISTMAS BRASS MUSIC","label":"Supraphon","category":"Chamber Music - Classical Music","composer":"Praetorius, Michael -- Pezel, Johann Christoph -- Vejvanovsky, Pavel Josef -- Schiassi, Gaetano Maria -- Otto, Valerius -- Michna z Otradovic, Adam Vaclav","artist":"Prague Brass Soloists","country":"Czech Republic Germany","catid":"SU3394-2","cdinfo":[[["Otto, Valerius",[["Renaissance Dances (excerpts)","mediaplayer\/player.asp?br=128&tl=3055618|3055619|3055620|3055621|3055622|3055623|3055624|3055625|3055626|3055627|3055628|3055629|3055630",["No. 40. Intrada","No. 14. Paduana I","No. 30. Galliarda I","No. 5. Paduana II","No. 1. Galliarda II","No. 42. Bransle","No. 43. Isabella","No. 45. Infortumium","No. 38. Intrada I","No. 35. Intrada II","No. 58. Menuet","No. 51. Courante","No. 32. Intrada"]]]],["Vejvanovsky, Pavel Josef",[["Harmonia Romana: Serenada","mediaplayer\/player.asp?br=128&tl=3055631",[]]]],["Praetorius, Michael",[["Terpsichore (excerpts)","mediaplayer\/player.asp?br=128&tl=3055632|3055633|3055634|3055635",["Bransle gentil","Spagnoletta","La bouree","La canarie"]]]],["Schiassi, Gaetano Maria",[["Christmas Symphony in D Major, \"Pastorale per il Ss Natale di nostro Jesu\"","mediaplayer\/player.asp?br=128&tl=3055636|3055637|3055638|3055639",["I. Adagio","II. Allegro","III. Largo","IV. Andante"]]]],["Pezel, Johann Christoph",[["5 Stimmigte blasende Music (excerpts)","mediaplayer\/player.asp?br=128&tl=3055640|3055641|3055642|3055643|3055644",["No. 23. Allemande","No. 32. Courante","No. 38. Sarabande","No. 44. Aria","No. 41. Intrada"]]]],["Vejvanovsky, Pavel Josef",[["Balletti a 5","mediaplayer\/player.asp?br=128&tl=3055645|3055646|3055647|3055648|3055649",["I. Alla breve","II. Allemande","III. Courante","IV. Sarabande","V. Gague"]]]],["Michna z Otradovic, Adam Vaclav",[["V&#225;nocn&#237; muzika (Christmas Music)","mediaplayer\/player.asp?br=128&tl=3055650|3055651|3055652|3055653|3055654|3055655|3055656",["V&#225;no&#269;n&#237; magnet a st&#345;elect (Christmas Magnet and Anchor)","V&#225;no&#269;n&#237; noc (Christmas Night)","V&#225;no&#269;n&#237; hospoda (Christmas Pub)","O narozen&#237; P&#225;na Krista (Of the Birth of Jesus Christ)","V&#225;no&#269;n&#237; vin&#353;ovn&#225; po&#353;ta (Christmas Congratulation)","V&#225;no&#269;n&#237; roztomilost (Christmas Lovely Piece)","V&#225;no&#269;n&#237; rosi&#269;ka (Christmas Dew)"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.555879.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.555879.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.555879","desc":"Imperial Fanfares","label":"Naxos","category":"Orchestral - Classical Music","composer":"Riedl, Bartolomaus -- Anonymous -- Altenburg, Johann Ernst -- Moritz von Hessen, Landgraf -- Schmelzer, Johann Heinrich -- Gottman, Michael -- Cramer, David -- Gordigiani, Giovanni Battista -- Ignatius, Pater -- Philidor, Andre Danican -- Betko, Milos -- Linek, Jiri Ignac -- Modart, Joel -- Leeb, Leonhard -- Bolten, Leon -- Salieri, Antonio -- Zelenka, Jan Dismas -- Lully, Jean-Baptiste -- Pezel, Johann Christoph -- Biber, Heinrich Ignaz Franz von -- Cavalli, Francesco -- Monteverdi, Claudio -- Charpentier, Marc-Antoine","artist":"Vienna Art of Trumpet","country":"Austria Czech Republic France Germany Italy Slovakia","catid":"8.555879","cdinfo":[[["Salieri, Antonio",[["Imperial Fanfare","mediaplayer\/player.asp?br=128&tl=75170",[]]]],["Anonymous",[["Royal Entry","mediaplayer\/player.asp?br=128&tl=75171",[]],["Ceremonial Procession","mediaplayer\/player.asp?br=128&tl=75172",[]]]],["Riedl, Bartolomaus",[["Heroic Procession","mediaplayer\/player.asp?br=128&tl=75173",[]]]],["Anonymous",[["Festive Procession","mediaplayer\/player.asp?br=128&tl=75174",[]],["Elector's Procession","mediaplayer\/player.asp?br=128&tl=75175",[]],["Galant Procession","mediaplayer\/player.asp?br=128&tl=75176",[]],["Majestic Procession","mediaplayer\/player.asp?br=128&tl=75177",[]]]],["Altenburg, Johann Ernst",[["Priere du Matin","mediaplayer\/player.asp?br=128&tl=75178",[]]]],["Moritz von Hessen, Landgraf",[["Intrada","mediaplayer\/player.asp?br=128&tl=75179",[]]]],["Salieri, Antonio",[["Largo - Allegretto","mediaplayer\/player.asp?br=128&tl=75180",[]]]],["Pezel, Johann Christoph",[["Intrada","mediaplayer\/player.asp?br=128&tl=75181",[]]]],["Cavalli, Francesco",[["Festive Overture","mediaplayer\/player.asp?br=128&tl=75182",[]]]],["Monteverdi, Claudio",[["L'Orfeo: Toccata (Prelude)","mediaplayer\/player.asp?br=128&tl=75183",[]]]],["Schmelzer, Johann Heinrich",[["Courante for the Entry of His Imperial Majesty and All the Cavalry","mediaplayer\/player.asp?br=128&tl=75184",[]],["Follia for New Entry of the Sprinter and Other Equestrian Manoeuvres","mediaplayer\/player.asp?br=128&tl=75185",[]],["Sarabande for the End of the Ballet","mediaplayer\/player.asp?br=128&tl=75186",[]]]],["Biber, Heinrich Ignaz Franz von",[["Trumpet Duet","mediaplayer\/player.asp?br=128&tl=75187",[]],["Trombet undt musicalischer Taffeldienst: Intrada","mediaplayer\/player.asp?br=128&tl=75188",[]]]],["Anonymous",[["Menuet (Trumpet Duet No. 82)","mediaplayer\/player.asp?br=128&tl=75189",[]]]],["Biber, Heinrich Ignaz Franz von",[["Trumpet Duet No. 8","mediaplayer\/player.asp?br=128&tl=75190",[]],["Trumpet Duet No. 3","mediaplayer\/player.asp?br=128&tl=75191",[]]]],["Anonymous",[["Festive Table Music No. 1","mediaplayer\/player.asp?br=128&tl=75192",[]],["Festive Table Music No. 2","mediaplayer\/player.asp?br=128&tl=75193",[]],["Procession at the Imperial Court","mediaplayer\/player.asp?br=128&tl=75194",[]]]],["Gottman, Michael",[["Procession No. 3","mediaplayer\/player.asp?br=128&tl=75195",[]]]],["Cramer, David",[["Festive Procession: The Entry of the Emperor, 1631","mediaplayer\/player.asp?br=128&tl=75196",[]]]],["Anonymous",[["Intrada from Bruck an der Mur","mediaplayer\/player.asp?br=128&tl=75197",[]]]],["Gordigiani, Giovanni Battista",[["Procession No. 4","mediaplayer\/player.asp?br=128&tl=75198",[]]]],["Ignatius, Pater",[["Procession No. 1","mediaplayer\/player.asp?br=128&tl=75199",[]],["Procession (brilliant, bright)","mediaplayer\/player.asp?br=128&tl=75200",[]]]],["Lully, Jean-Baptiste",[["Marche des Nations de Flore","mediaplayer\/player.asp?br=128&tl=75201",[]],["2e Air du combat de lance d&#8217;Amadis","mediaplayer\/player.asp?br=128&tl=75202",[]],["La descente de Mars","mediaplayer\/player.asp?br=128&tl=75203",[]],["La Marche Italienne","mediaplayer\/player.asp?br=128&tl=75204",[]]]],["Philidor, Andre Danican",[["Prelude des Divertissements","mediaplayer\/player.asp?br=128&tl=75205",[]],["Chaconne du Palais Royal","mediaplayer\/player.asp?br=128&tl=75206",[]],["Menuet Royal","mediaplayer\/player.asp?br=128&tl=75207",[]],["Marche pour les Trompettes Seules","mediaplayer\/player.asp?br=128&tl=75208",[]]]],["Charpentier, Marc-Antoine",[["Bruit de trompettes","mediaplayer\/player.asp?br=128&tl=75209",[]]]],["Anonymous",[["L&#8217;Etendard","mediaplayer\/player.asp?br=128&tl=75210",[]]]],["Charpentier, Marc-Antoine",[["Fanfare a deux trompettes","mediaplayer\/player.asp?br=128&tl=75211",[]]]],["Philidor, Andre Danican",[["Bruit de Guerre","mediaplayer\/player.asp?br=128&tl=75212",[]]]],["Anonymous",[["Allemande","mediaplayer\/player.asp?br=128&tl=75213",[]],["Molto moderato","mediaplayer\/player.asp?br=128&tl=75214",[]]]],["Betko, Milos",[["Signature Tune of the Old Town of Bratislava, 1996","mediaplayer\/player.asp?br=128&tl=75215",[]]]],["Linek, Jiri Ignac",[["Fanfara 1","mediaplayer\/player.asp?br=128&tl=75216",[]],["Fanfara 2","mediaplayer\/player.asp?br=128&tl=75217",[]]]],["Zelenka, Jan Dismas",[["Marcia per la Cavalleria, No. 1","mediaplayer\/player.asp?br=128&tl=75218",[]]]],["Modart, Joel",[["Entree Fanfare","mediaplayer\/player.asp?br=128&tl=75219",[]],["Modern Fanfare","mediaplayer\/player.asp?br=128&tl=75220",[]],["Signature Fanfare","mediaplayer\/player.asp?br=128&tl=75221",[]],["Convention","mediaplayer\/player.asp?br=128&tl=75222",[]]]],["Leeb, Leonhard",[["Fanfare Solo I","mediaplayer\/player.asp?br=128&tl=75223",[]],["Fanfare Solo II","mediaplayer\/player.asp?br=128&tl=75224",[]],["Fanfare Solo III","mediaplayer\/player.asp?br=128&tl=75225",[]],["Fanfare Solo IV","mediaplayer\/player.asp?br=128&tl=75226",[]],["Fanfare Solo V","mediaplayer\/player.asp?br=128&tl=75227",[]],["Fanfare Solo VI","mediaplayer\/player.asp?br=128&tl=75228",[]]]],["Bolten, Leon",[["Opening Fanfare","mediaplayer\/player.asp?br=128&tl=75229",[]],["New Palace Fanfare","mediaplayer\/player.asp?br=128&tl=75230",[]],["Welcome Fanfare","mediaplayer\/player.asp?br=128&tl=75231",[]],["Excitement","mediaplayer\/player.asp?br=128&tl=75232",[]]]],["Leeb, Leonhard",[["Short and Concise","mediaplayer\/player.asp?br=128&tl=75233",[]],["Short Fanfare No. 1","mediaplayer\/player.asp?br=128&tl=75234",[]],["Short Fanfare No. 2","mediaplayer\/player.asp?br=128&tl=75235",[]],["Short Fanfare No. 3","mediaplayer\/player.asp?br=128&tl=75236",[]],["Short Fanfare No. 4","mediaplayer\/player.asp?br=128&tl=75237",[]],["Flourish","mediaplayer\/player.asp?br=128&tl=75238",[]]]],["Modart, Joel",[["Il Giorno del silenzio","mediaplayer\/player.asp?br=128&tl=75239",[]]]],["Leeb, Leonhard",[["Fanfare for Solo Trumpet and Drum - V","mediaplayer\/player.asp?br=128&tl=75240",[]],["Fanfare for Solo Trumpet and Drum - II","mediaplayer\/player.asp?br=128&tl=75241",[]]]],["Bolten, Leon",[["Wrapped in Mystery","mediaplayer\/player.asp?br=128&tl=75242",[]]]],["Gordigiani, Giovanni Battista",[["Marcia maestoso","mediaplayer\/player.asp?br=128&tl=75243",[]]]],["Leeb, Leonhard",[["Imperial Procession in Vienna","mediaplayer\/player.asp?br=128&tl=75244",[]]]],["Salieri, Antonio",[["Procession No. 8: Allegretto","mediaplayer\/player.asp?br=128&tl=75245",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00743625301328.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00743625301328.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00743625301328","desc":"BAROQUE BRASS COLLECTION (THE) (London Gabrieli Brass Ensemble, M. Brown)","label":"Universal Classics","category":"Chamber Music - Classical Music","composer":"Stanley, John -- Anonymous -- Bach, Johann Sebastian -- Purcell, Henry -- Scheidt, Samuel -- Pezel, Johann Christoph -- Susato, Tylman -- Holborne, Antony -- Locke, Matthew -- Charpentier, Marc-Antoine -- Clarke, Jeremiah -- Gabrieli, Giovanni","artist":"Brown, Mark -- London Gabrieli Brass Ensemble","country":"France Germany Italy United Kingdom","catid":"00743625301328","cdinfo":[[["Susato, Tylman",[["Danserye (arr. C. Steele-Perkins for brass ensemble)","mediaplayer\/player.asp?br=128&tl=3093096|3093097|3093098|3093099|3093100|3093101",["La Morisque","Ronde mon Amy","Ronde - Salterelie","Pavane La Nataille","Bergerette","Ronde"]]]],["Gabrieli, Giovanni",[["Canzon I a 4, C. 186, \"La Spiritata\"","mediaplayer\/player.asp?br=128&tl=3093102",[]]]],["Scheidt, Samuel",[["Suite","mediaplayer\/player.asp?br=128&tl=3093103|3093104|3093105|3093106",["Intrada","Courant","Galliard","Battaglia"]]]],["Pezel, Johann Christoph",[["Ceremonial Brass Music","mediaplayer\/player.asp?br=128&tl=3095065|3095066|3095067|3095068|3095069|3095070",["I. Intrada","II. Intrada","III. Aria","IV. Bal","V. Sarabande","VI. Gigue"]]]],["Bach, Johann Sebastian",[["Die Kunst der Fuge (The Art of Fugue), BWV 1080: Contrapunctus IX (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=3095071",[]]]],["Charpentier, Marc-Antoine",[["Te Deum, H. 146 (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=3095085",[]]]],["Anonymous",[["Elizabethan Suite","mediaplayer\/player.asp?br=128&tl=3095086|3095087|3095088|3095089|3095090",["I. The Irish Ho-Hoane","II. Muscadin","III. The Irish Dumpe","IV. A Toye","V. Alman"]]]],["Clarke, Jeremiah",[["Suite in D Major: IV. The Prince of Denmark's March, \"Trumpet Voluntary\"","mediaplayer\/player.asp?br=128&tl=3095091",[]]]],["Holborne, Antony",[["Pavans, Galliards, Almains and Other Short Aeirs both Grave, and Light (excerpts)","mediaplayer\/player.asp?br=128&tl=3095110|3095111|3095112|3095113|3095114",["Galliard","The Choise","As It Fell Upon a Holy Eve","The Fruit of Love","Fairie-round"]]]],["Stanley, John",[["Suite in D Major, \"Trumpet Tune\" (arr. C. Steele-Perkins for brass ensemble)","mediaplayer\/player.asp?br=128&tl=3095166",[]]]],["Locke, Matthew",[["Music for His Majesty's Cornetts and Sackbuts","mediaplayer\/player.asp?br=128&tl=3095184|3095185|3095186|3095187|3095188|3095189",["I. Air","II. Courant","III. Allemande","IV. Courante","V. Allemande","VI. Sarabande"]]]],["Purcell, Henry",[["Trumpet Tune and Air","mediaplayer\/player.asp?br=128&tl=3095190",[]]]],["Purcell, Henry",[["Music for the Funeral of Queen Mary, Z. 860i (excerpts)","mediaplayer\/player.asp?br=128&tl=3095193|3095194|3095195|3095196|3095197",["March","Thou knowest, Lord","Canzona","Man that is born of a woman","March"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PSCD2016.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PSCD2016.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPSCD2016","desc":"CANADIAN BRASS: CBC Radio Recordings","label":"CBC","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Forsyth, Malcolm -- Praetorius, Michael -- Scheidt, Samuel -- Marcello, Benedetto -- Pezel, Johann Christoph -- Holborne, Antony -- Joplin, Scott -- Sch\u00fctz, Heinrich -- Dupre, Marcel -- Morel, Francois -- Gabrieli, Giovanni","artist":"Haas, Douglas -- Iseler, Elmer -- Bernardi, Mario -- Canadian Brass -- Canadian National Arts Centre Orchestra","country":"Canada France Germany Italy United Kingdom United States","catid":"PSCD2016","cdinfo":[[["Scheidt, Samuel",[["Galliard Battaglia a 5","mediaplayer\/player.asp?br=128&tl=165074",[]]]],["Bach, Johann Sebastian",[["Fantasia in C Major, BWV 570 (arr. for brass quintet)","mediaplayer\/player.asp?br=128&tl=165983",[]]]],["Sch&#252;tz, Heinrich",[["Cantate Domino canticum novum, SWV 81","mediaplayer\/player.asp?br=128&tl=165985",[]]]],["Gabrieli, Giovanni",[["Canzona prima a 5","mediaplayer\/player.asp?br=128&tl=165986",[]],["Canzon III septimi toni a 8","mediaplayer\/player.asp?br=128&tl=165987",[]],["Canzon primi toni a 8","mediaplayer\/player.asp?br=128&tl=165988",[]]]],["Bach, Johann Sebastian",[["Herz und Mund und Tat und Leben, BWV 147: Jesu bleibet meine Freude","mediaplayer\/player.asp?br=128&tl=165989",[]]]],["Praetorius, Michael",[["Ein Kindlein so loblich","mediaplayer\/player.asp?br=128&tl=165991",[]]]],["Holborne, Antony",[["3 Pieces","mediaplayer\/player.asp?br=128&tl=165992|165993|165994",[]]]],["Pezel, Johann Christoph",[["German Dance Suite","mediaplayer\/player.asp?br=128&tl=165995|165996|165997|165998|165999",[]]]],["Marcello, Benedetto",[["I cieli immensi (arr. for brass quintet)","mediaplayer\/player.asp?br=128&tl=166000",[]]]],["Forsyth, Malcolm",[["Sagittarius: I. Semplicamente: Allegro con brio","mediaplayer\/player.asp?br=128&tl=166001",[]]]],["Morel, Francois",[["Brass Quintet","mediaplayer\/player.asp?br=128&tl=166002|166003|166004",[]]]],["Dupre, Marcel",[["Verdun, Op. 33","mediaplayer\/player.asp?br=128&tl=166052",[]]]],["Joplin, Scott",[["Favourite Rag","mediaplayer\/player.asp?br=128&tl=166005",[]],["Fig Leaf","mediaplayer\/player.asp?br=128&tl=166006",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0115152BC.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0115152BC.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0115152BC","desc":"Christmas Brass Music - OTTO, V. \/ HANDEL, G.F. \/ CRUGER, J. \/ GROH, J. \/ GABRIELI, G. \/ RASELIUS, A. (Ludwig Guttler Brass Ensemble)","label":"Berlin Classics","category":"Chamber Music - Classical Music","composer":"Anonymous -- Praetorius, Michael -- Vulpius, Melchior -- Scheidt, Samuel -- Schein, Johann Hermann -- Pezel, Johann Christoph -- Cruger, Johannes -- Handel, George Frideric -- Sch\u00fctz, Heinrich -- Eccard, Johannes -- Clarke, Jeremiah -- Hassler, Hans Leo -- Brade, William -- Gabrieli, Giovanni -- G\u00fcttler, Ludwig -- Hessen-Kassel, Landgraf Moritz von -- Groh, Johann -- Raselius, Andreas -- Otto, Valerius -- Herbst, Johann Andreas","artist":"Ludwig Guttler Brass Ensemble","country":"Germany Italy United Kingdom","catid":"0115152BC","cdinfo":[[["Otto, Valerius",[["Intrada in E-Flat Major (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615678",[]]]],["Handel, George Frideric",[["Tochter Zion (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615679",[]]]],["Cruger, Johannes",[["Wie soll ich dich empfangen (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615680",[]]]],["Groh, Johann",[["Paduane","mediaplayer\/player.asp?br=128&tl=615681",[]]]],["Gabrieli, Giovanni",[["Canzoni et sonate: Sonata No. 28","mediaplayer\/player.asp?br=128&tl=615682",[]]]],["Raselius, Andreas",[["Nun komm der Heiden Heiland (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615683",[]]]],["Praetorius, Michael",[["Jubilate Domino (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615684",[]]]],["Handel, George Frideric",[["Joshua, HWV 64, Act II: March (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=615685",[]]]],["Pezel, Johann Christoph",[["Hora decima musicorum Lipsiensium, \"Musicalische Arbeit zum Ab-blasen\": Sonata No. 24","mediaplayer\/player.asp?br=128&tl=615686",[]]]],["Anonymous",[["Uns ist geborn ein Kindelein","mediaplayer\/player.asp?br=128&tl=615687",[]]]],["Scheidt, Samuel",[["Ludi Musici, Part I, No. 18: Canzon Cornetto a 4, SSWV 56","mediaplayer\/player.asp?br=128&tl=615688",[]]]],["Vulpius, Melchior",[["Es ist ein Ros entsprungen (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615689",[]]]],["G&#252;ttler, Ludwig",[["Praetorius - Es ist ein Ros entsprungen","mediaplayer\/player.asp?br=128&tl=615690",[]]]],["Praetorius, Michael",[["Es ist ein Ros' entsprungen (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=751398",[]]]],["Cruger, Johannes",[["Frohlich soll mein Herze springen (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615692",[]]]],["Gabrieli, Giovanni",[["Canzoni et sonate: Canzon VI","mediaplayer\/player.asp?br=128&tl=615693",[]]]],["Pezel, Johann Christoph",[["Hora decima musicorum Lipsiensium, \"Musicalische Arbeit zum Ab-blasen\": Sonata No. 28","mediaplayer\/player.asp?br=128&tl=615694",[]]]],["Cruger, Johannes",[["Gelobet seist du, Jesu Christ (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615695",[]]]],["Hassler, Hans Leo",[["Canzon","mediaplayer\/player.asp?br=128&tl=615696",[]]]],["Praetorius, Michael",[["In dulci jubilo (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615699",[]]]],["Pezel, Johann Christoph",[["Hora decima musicorum Lipsiensium, \"Musicalische Arbeit zum Ab-blasen\": Sonata No. 21","mediaplayer\/player.asp?br=128&tl=615697",[]]]],["Herbst, Johann Andreas",[["Singt und klinget allzumal (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615698",[]]]],["Hessen-Kassel, Landgraf Moritz von",[["Canzon","mediaplayer\/player.asp?br=128&tl=615700",[]]]],["Clarke, Jeremiah",[["Suite in D Major: IV. The Prince of Denmark's March, \"Trumpet Voluntary\" (arr. J. Iveson)","mediaplayer\/player.asp?br=128&tl=615701",[]]]],["Sch&#252;tz, Heinrich",[["Geistliche Chormusik: Auf dem Gebirge, SWV 396 (arr. for brass ensemble)","mediaplayer\/player.asp?br=128&tl=615702",[]]]],["Brade, William",[["Paduane (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615703",[]]]],["Gabrieli, Giovanni",[["Canzoni et sonate: Sonata No. 20","mediaplayer\/player.asp?br=128&tl=615704",[]]]],["Eccard, Johannes",[["Vom Himmel hoch, da komm ich her (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615705",[]]]],["Praetorius, Michael",[["Vom Himmel hoch, da komm ich her (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615706",[]],["Vom Himmel hoch, da komm ich her (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615707",[]]]],["Schein, Johann Hermann",[["Vom Himmel hoch da komm ich her (arr. L. Guttler)","mediaplayer\/player.asp?br=128&tl=615708",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/pezel%20intrada"};IMSLPNaxosSearch="pezel intrada";JGaskdonation=0;JGFileTools={"199212":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199212\/199213\/a3ac"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199212"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199212"}},"199213":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199212\/199213\/a3ac"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199213"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199213"}},"199204":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199204\/199205\/51d2"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199204"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199204"}},"199205":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199204\/199205\/51d2"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199205"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199205"}},"314839":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=314839"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP314839"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/314839"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/314839"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23314839"}},"199206":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199206"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199206\/199207\/199208\/199209\/199210\/199211\/4f15"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199206"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199206"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199206"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199206"}},"199207":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199207"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199206\/199207\/199208\/199209\/199210\/199211\/4f15"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199207"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199207"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199207"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199207"}},"199208":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199208"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199206\/199207\/199208\/199209\/199210\/199211\/4f15"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199208"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199208"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199208"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199208"}},"199209":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199209"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199206\/199207\/199208\/199209\/199210\/199211\/4f15"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199209"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199209"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199209"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199209"}},"199210":{"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199206\/199207\/199208\/199209\/199210\/199211\/4f15"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199210"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199210"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199210"}},"199211":{"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199206\/199207\/199208\/199209\/199210\/199211\/4f15"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199211"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199211"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199211"}},"199199":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199199"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199199\/199200\/199201\/199202\/199203\/1d14"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199199"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199199"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199199"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199199"}},"199200":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199200"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199199\/199200\/199201\/199202\/199203\/1d14"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199200"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199200"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199200"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199200"}},"199201":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=199201"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199199\/199200\/199201\/199202\/199203\/1d14"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199201"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/199201"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199201"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199201"}},"199202":{"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199199\/199200\/199201\/199202\/199203\/1d14"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199202"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199202"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199202"}},"199203":{"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/199199\/199200\/199201\/199202\/199203\/1d14"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP199203"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/199203"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23199203"}},"438302":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=438302"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP438302"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/438302"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/438302"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Intrada%2C+WP+6.71+%28Pezel%2C+Johann+Christoph%29&frmTitle=IMSLP+%23438302"}}};JGFileOpts={"199212":[],"199213":[],"199204":[],"199205":[],"314839":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkol3vTF+uG57mN4PAKizDlRZ1KdBypWxdxVbGe7wfiG3yAwKdw04Bqo\/t0rFhROs8vaPWOA\/gRJxsQtnE6J\/yVJXaYFRYXJSU50LyY\/WnJQ=="},"199206":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh5CStJVzRvrBKvWQ9213YL7+rqnvo01fMB6OJuz+sF8hL0PzYtWYXSRLI+ry4qJx8xy2QAawdoS0Oo+1VE4Zdu"},"199207":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhu11L5XFTl9+eZ3lzQWti+uvQWQ\/HMRGXO7ALAWVGjON6dxXJzlL7rETw34z20rfMtnP3739RBFAib8zDJWO3B"},"199208":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnz7TJy8fmPyKQ36mJi7ohcD7Er3brCAX5R\/BdRlnSl0DMIObVExgVoYVfPHv\/yHf+F8iYG36kW6CUJuz0A\/WA"},"199209":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgjE8BTTi4225RlzzYrn3jckTcWI1X5JjKbKbU2+\/mTPlChP5kyFJA+sIyfF8DIJ7U3dxd\/6clK0Ylo+uXeSaRf"},"199210":[],"199211":[],"199199":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi1g1oH0eGl2QJbvcJX76Rz+fK3edWFzz+B+PStjoYNCCrge9aPwuseNPy1DY9Ul0c="},"199200":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpp5t+Y9MltU\/mRkUIvG1iFnYkdXtA2AHMjcXCxYeKjr1+TqSFhKRA\/qIqRpwIuuWKVmfUx5bzmfam6lXjXtMJ"},"199201":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjtHSN1Ynf5TDS5xdJRdIku+hAsrJXGxmUYyYsERR1vUuD2aX+oC5bRKG2ZImxsSSur3vhcNhcrBBq06GS16ZgF"},"199202":[],"199203":[],"438302":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh2nCVcwuNqX8JoSw4xQfEFdI96lk6ZijznCQcirbcsDgOUiM4CXKT6HMCFC1CG9ax4Oy2bV8+2VJoU0XikSh+YhtRuifW4uvWpkgMW4s\/7h9B1TvyONDx4xMBmrac0bak="}};JGPageUntagged=false;JGPageTags=["intradas","2crtt 3tbn"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"199212":[0,0],"199213":[0,0],"199204":[0,0],"199205":[0,0],"314839":[0,0],"199206":[0,0],"199207":[0,0],"199208":[0,0],"199209":[0,0],"199210":[0,0],"199211":[0,0],"199199":[0,0],"199200":[0,0],"199201":[0,0],"199202":[0,0],"199203":[0,0],"438302":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_5_Recorders_.28Rondeau.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For 5 Recorders (Rondeau)</span></a></li>
+<li class="toclevel-3"><a href="#For_2_Trumpets_and_3_Trombones_.28Rondeau.29"><span class="tocnumber">1.2.2</span> <span class="toctext">For 2 Trumpets and 3 Trombones (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_5_Recorders_.28Rondeau.29_2"><span class="tocnumber">2.2.1</span> <span class="toctext">For 5 Recorders (Rondeau)</span></a></li>
+<li class="toclevel-3"><a href="#For_2_Trumpets_and_3_Trombones_.28Rondeau.29_2"><span class="tocnumber">2.2.2</span> <span class="toctext">For 2 Trumpets and 3 Trombones (Rondeau)</span></a></li>
+<li class="toclevel-3"><a href="#For_5_Guitars_.28H.C3.B6ger.29"><span class="tocnumber">2.2.3</span> <span class="toctext">For 5 Guitars (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">4</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h5> <span class="mw-headline" id="For_5_Recorders_.28Rondeau.29">For 5 Recorders (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP199212" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199212"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/08/WIMA.8826-PezR71Sco.mp3" class="internal" title="WIMA.8826-PezR71Sco.mp3">*</a></span><a href="/wiki/File:WIMA.8826-PezR71Sco.mp3" title="File:WIMA.8826-PezR71Sco.mp3">#199212</a> - 1.17MB - 1:16<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199212' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199212'>
+	<a href='javascript:void(0)' id='199212' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199212' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199212' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199212' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199212' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199212'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/199212/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199212/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@199212" title="Special:GetFCtrStats/@199212">44</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_199212'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"199212":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/0\/08\/IMSLP199212-WIMA.8826-PezR71Sco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":199213}});</script>
+</p>
+</div><div id="IMSLP199213" class="we_file we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199213"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5f/WIMA.a998-PezR71Sco.mid" class="internal" title="WIMA.a998-PezR71Sco.mid">*</a></span><a href="/wiki/File:WIMA.a998-PezR71Sco.mid" title="File:WIMA.a998-PezR71Sco.mid">#199213</a> - 0.01MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199213' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199213'>
+	<a href='javascript:void(0)' id='199213' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199213' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199213' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199213' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199213' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199213'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/199213/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199213/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@199213" title="Special:GetFCtrStats/@199213">35</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=199212/199213">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=199212/199213">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="199212">Javascript is required for this feature.</div><script>JGINITsearchbars['199212']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h5> <span class="mw-headline" id="For_2_Trumpets_and_3_Trombones_.28Rondeau.29">For 2 Trumpets and 3 Trombones (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP199204" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199204"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7f/WIMA.66a5-Pez71Sco.mp3" class="internal" title="WIMA.66a5-Pez71Sco.mp3">*</a></span><a href="/wiki/File:WIMA.66a5-Pez71Sco.mp3" title="File:WIMA.66a5-Pez71Sco.mp3">#199204</a> - 1.17MB - 1:16<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199204' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199204'>
+	<a href='javascript:void(0)' id='199204' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199204' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199204' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199204' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199204' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199204'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/199204/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199204/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@199204" title="Special:GetFCtrStats/@199204">62</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_199204'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"199204":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/conquest.imslp.info\/files\/imglnks\/usimg\/7\/7f\/IMSLP199204-WIMA.66a5-Pez71Sco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":199205}});</script>
+</p>
+</div><div id="IMSLP199205" class="we_file we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199205"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f2/WIMA.5493-Pez71Sco.mid" class="internal" title="WIMA.5493-Pez71Sco.mid">*</a></span><a href="/wiki/File:WIMA.5493-Pez71Sco.mid" title="File:WIMA.5493-Pez71Sco.mid">#199205</a> - 0.01MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199205' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199205'>
+	<a href='javascript:void(0)' id='199205' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199205' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199205' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199205' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199205' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199205'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/199205/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199205/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@199205" title="Special:GetFCtrStats/@199205">30</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=199204/199205">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=199204/199205">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="199204">Javascript is required for this feature.</div><script>JGINITsearchbars['199204']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">12</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP314839" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/314839"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c0/PMLP339326-Pezel_5Stimmigte_No71_Intrade.pdf" class="internal" title="PMLP339326-Pezel 5Stimmigte No71 Intrade.pdf">*</a></span><a href="/wiki/File:PMLP339326-Pezel_5Stimmigte_No71_Intrade.pdf" title="File:PMLP339326-Pezel 5Stimmigte No71 Intrade.pdf">#314839</a> - 0.06MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-314839' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-314839'>
+	<a href='javascript:void(0)' id='314839' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='314839' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='314839' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='314839' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='314839' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-314839'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/314839/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/314839/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:gray">C</span><small>*</small>/<span style="color:gray">C</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 120"><a href="/wiki/Special:GetFCtrStats/@314839" title="Special:GetFCtrStats/@314839">120</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Homerdundas" title="User:Homerdundas">Homerdundas</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by UME<br />
+<a href="/wiki/User:Homerdundas" title="User:Homerdundas">Homerdundas</a> (2014/2/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Schering,_Arnold" title="Category:Schering, Arnold">Arnold Schering</a> (1877-1941)<br /><a href="/wiki/Category:Moser,_Hans_Joachim" title="Category:Moser, Hans Joachim">Hans Joachim Moser</a> (1889–1967), reissue editor
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/Denkm%C3%A4ler_deutscher_Tonkunst" title="Denkmäler deutscher Tonkunst"><i>Denkmäler deutscher Tonkunst</i></a>, <i>Erste Folge; Bd.63:<br /><a href="/wiki/Turmmusiken_und_Suiten_(Pezel,_Johann_Christoph)" title="Turmmusiken und Suiten (Pezel, Johann Christoph)">Johann Pezel: Turmmusiken und Suiten</a></i>&#160;(pp.37)<br />Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf und Härtel</a><!--ASL0-->, 1928.  Plate D.D.T. LXIII.<br /><i>Reissue</i> — Wiesbaden: 1959.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=314839">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=314839">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="314839">Javascript is required for this feature.</div><script>JGINITsearchbars['314839']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP339326-Pezel_5Stimmigte_No71_Intrade.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/c0/c19f7780db9299754bd083dad1e2920be19b2b6a.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_5_Recorders_.28Rondeau.29_2">For 5 Recorders (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP199206" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199206"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/37/WIMA.534e-PezR71Sco.pdf" class="internal" title="WIMA.534e-PezR71Sco.pdf">*</a></span><a href="/wiki/File:WIMA.534e-PezR71Sco.pdf" title="File:WIMA.534e-PezR71Sco.pdf">#199206</a> - 0.03MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199206' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199206'>
+	<a href='javascript:void(0)' id='199206' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199206' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199206' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199206' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199206' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199206'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199206/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199206/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 189"><a href="/wiki/Special:GetFCtrStats/@199206" title="Special:GetFCtrStats/@199206">189</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>5 more</u>:</b> Descant recorder 1/2 • Treble/tenor recorder • Tenor/Bass recorder • Engraving files (Finale) • Engraving files (XML)
+</p>
+</div><div id="IMSLP199207" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199207"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Descant recorder 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4a/WIMA.72c8-PezR71Desc1-2.pdf" class="internal" title="WIMA.72c8-PezR71Desc1-2.pdf">*</a></span><a href="/wiki/File:WIMA.72c8-PezR71Desc1-2.pdf" title="File:WIMA.72c8-PezR71Desc1-2.pdf">#199207</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199207' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199207'>
+	<a href='javascript:void(0)' id='199207' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199207' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199207' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199207' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199207' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199207'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199207/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199207/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 55"><a href="/wiki/Special:GetFCtrStats/@199207" title="Special:GetFCtrStats/@199207">55</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199208" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199208"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Treble/tenor recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ec/WIMA.032b-PezR71Tr-Tn.pdf" class="internal" title="WIMA.032b-PezR71Tr-Tn.pdf">*</a></span><a href="/wiki/File:WIMA.032b-PezR71Tr-Tn.pdf" title="File:WIMA.032b-PezR71Tr-Tn.pdf">#199208</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199208' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199208'>
+	<a href='javascript:void(0)' id='199208' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199208' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199208' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199208' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199208' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199208'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199208/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199208/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 51"><a href="/wiki/Special:GetFCtrStats/@199208" title="Special:GetFCtrStats/@199208">51</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199209" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199209"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor/Bass recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/75/WIMA.f9a2-PezR71Tn-Bass.pdf" class="internal" title="WIMA.f9a2-PezR71Tn-Bass.pdf">*</a></span><a href="/wiki/File:WIMA.f9a2-PezR71Tn-Bass.pdf" title="File:WIMA.f9a2-PezR71Tn-Bass.pdf">#199209</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199209' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199209'>
+	<a href='javascript:void(0)' id='199209' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199209' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199209' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199209' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199209' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199209'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199209/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199209/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 53"><a href="/wiki/Special:GetFCtrStats/@199209" title="Special:GetFCtrStats/@199209">53</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199210" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199210"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ce/WIMA.1638-PezR71.zip" class="internal" title="WIMA.1638-PezR71.zip">*</a></span><a href="/wiki/File:WIMA.1638-PezR71.zip" title="File:WIMA.1638-PezR71.zip">#199210</a> - 0.17MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199210' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199210'>
+	<a href='javascript:void(0)' id='199210' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199210' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199210' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199210' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199210' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199210'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199210/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199210/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 69"><a href="/wiki/Special:GetFCtrStats/@199210" title="Special:GetFCtrStats/@199210">69</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199211" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199211"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (XML)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/25/WIMA.bf39-PezR71-xml.zip" class="internal" title="WIMA.bf39-PezR71-xml.zip">*</a></span><a href="/wiki/File:WIMA.bf39-PezR71-xml.zip" title="File:WIMA.bf39-PezR71-xml.zip">#199211</a> - 0.01MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199211' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199211'>
+	<a href='javascript:void(0)' id='199211' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199211' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199211' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199211' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199211' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199211'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199211/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199211/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 62"><a href="/wiki/Special:GetFCtrStats/@199211" title="Special:GetFCtrStats/@199211">62</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=199206/199207/199208/199209/199210/199211">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=199206/199207/199208/199209/199210/199211">del</a>/<span id="fmrglnk" data-pdfstr="199206//199207//199208//199209/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="199206">Javascript is required for this feature.</div><script>JGINITsearchbars['199206']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.534e-PezR71Sco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/37/c5596c05f880d0a699fdeca2d111ca6cab8dcae7.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_2_Trumpets_and_3_Trombones_.28Rondeau.29_2">For 2 Trumpets and 3 Trombones (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP199199" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199199"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/08/WIMA.bb68-Pez71Sco.pdf" class="internal" title="WIMA.bb68-Pez71Sco.pdf">*</a></span><a href="/wiki/File:WIMA.bb68-Pez71Sco.pdf" title="File:WIMA.bb68-Pez71Sco.pdf">#199199</a> - 0.04MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199199' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199199'>
+	<a href='javascript:void(0)' id='199199' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199199' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199199' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199199' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199199' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199199'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199199/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199199/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 160"><a href="/wiki/Special:GetFCtrStats/@199199" title="Special:GetFCtrStats/@199199">160</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_5" data-block="5">
+<p><b>⇒ <u>4 more</u>:</b> Trumpet 1/2 • Trombone 1/2/Bass trombone • Engraving files (Finale) • Engraving files (XML)
+</p>
+</div><div id="IMSLP199200" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199200"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/18/WIMA.6c40-Pez71CTrps.pdf" class="internal" title="WIMA.6c40-Pez71CTrps.pdf">*</a></span><a href="/wiki/File:WIMA.6c40-Pez71CTrps.pdf" title="File:WIMA.6c40-Pez71CTrps.pdf">#199200</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199200' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199200'>
+	<a href='javascript:void(0)' id='199200' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199200' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199200' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199200' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199200' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199200'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199200/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199200/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 86"><a href="/wiki/Special:GetFCtrStats/@199200" title="Special:GetFCtrStats/@199200">86</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199201" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199201"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1/2/Bass trombone</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/04/WIMA.7359-Pez71Trbs.pdf" class="internal" title="WIMA.7359-Pez71Trbs.pdf">*</a></span><a href="/wiki/File:WIMA.7359-Pez71Trbs.pdf" title="File:WIMA.7359-Pez71Trbs.pdf">#199201</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199201' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199201'>
+	<a href='javascript:void(0)' id='199201' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199201' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199201' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199201' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199201' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199201'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199201/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199201/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 74"><a href="/wiki/Special:GetFCtrStats/@199201" title="Special:GetFCtrStats/@199201">74</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199202" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199202"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7a/WIMA.e9ab-Pez71.zip" class="internal" title="WIMA.e9ab-Pez71.zip">*</a></span><a href="/wiki/File:WIMA.e9ab-Pez71.zip" title="File:WIMA.e9ab-Pez71.zip">#199202</a> - 0.12MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199202' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199202'>
+	<a href='javascript:void(0)' id='199202' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199202' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199202' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199202' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199202' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199202'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199202/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199202/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 89"><a href="/wiki/Special:GetFCtrStats/@199202" title="Special:GetFCtrStats/@199202">89</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP199203" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/199203"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (XML)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3d/WIMA.2e52-Pez71-xml.zip" class="internal" title="WIMA.2e52-Pez71-xml.zip">*</a></span><a href="/wiki/File:WIMA.2e52-Pez71-xml.zip" title="File:WIMA.2e52-Pez71-xml.zip">#199203</a> - 0.01MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-199203' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-199203'>
+	<a href='javascript:void(0)' id='199203' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='199203' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='199203' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='199203' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='199203' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-199203'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/199203/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/199203/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 66"><a href="/wiki/Special:GetFCtrStats/@199203" title="Special:GetFCtrStats/@199203">66</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=199199/199200/199201/199202/199203">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=199199/199200/199201/199202/199203">del</a>/<span id="fmrglnk" data-pdfstr="199199//199200//199201/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="199199">Javascript is required for this feature.</div><script>JGINITsearchbars['199199']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.bb68-Pez71Sco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/08/a161829716209fdc9aa764a148256d5e0bc8b768.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_5_Guitars_.28H.C3.B6ger.29">For 5 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP438302" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/438302"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f2/PMLP339326-Pezel%2C_Johann_Christoph_-_Intrade_No71_-5Git.pdf" class="internal" title="PMLP339326-Pezel, Johann Christoph - Intrade No71 -5Git.pdf">*</a></span><a href="/wiki/File:PMLP339326-Pezel,_Johann_Christoph_-_Intrade_No71_-5Git.pdf" title="File:PMLP339326-Pezel, Johann Christoph - Intrade No71 -5Git.pdf">#438302</a> - 0.09MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-438302' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-438302'>
+	<a href='javascript:void(0)' id='438302' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='438302' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='438302' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='438302' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='438302' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-438302'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/438302/Intrada,_WP_6.71_(Pezel,_Johann_Christoph)" title="Special:IMSLPEditCTag/438302/Intrada, WP 6.71 (Pezel, Johann Christoph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 17"><a href="/wiki/Special:GetFCtrStats/@438302" title="Special:GetFCtrStats/@438302">17</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=438302">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=438302">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="438302">Javascript is required for this feature.</div><script>JGINITsearchbars['438302']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP339326-Pezel,_Johann_Christoph_-_Intrade_No71_-5Git.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f2/d2cac121b28bff0fe21d68ae7dc8deb19584278f.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Intrada in C major
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Intrade à 5
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Pezel,_Johann_Christoph" title="Category:Pezel, Johann Christoph">Pezel, Johann Christoph</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>WP 6.71
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IJP 79
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>C major
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1685 in <i><a href="/wiki/F%C3%BCnfstimmige_blasende_Music_(Pezel,_Johann_Christoph)" title="Fünfstimmige blasende Music (Pezel, Johann Christoph)">Fünfstimmige blasende Music</a></i> (No.71)
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>2 cornetts and 3 trombones
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 833/1000000
+Post-expand include size: 68212/2097152 bytes
+Template argument size: 556/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:339326-0!*!0!!en!2!* and timestamp 20180414145151 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Intrada,_WP_6.71_(Pezel,_Johann_Christoph)&amp;oldid=2161877">http://imslp.org/index.php?title=Intrada,_WP_6.71_(Pezel,_Johann_Christoph)&amp;oldid=2161877</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Schering,_Arnold/Editor" title="Category:Schering, Arnold/Editor">Schering, Arnold/Editor</a></li><li><a href="/wiki/Category:Moser,_Hans_Joachim/Editor" title="Category:Moser, Hans Joachim/Editor">Moser, Hans Joachim/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Breitkopf_und_H%C3%A4rtel" title="Category:Scores published by Breitkopf und Härtel">Scores published by Breitkopf und Härtel</a></li><li><a href="/wiki/Category:Rondeau,_Michel/Arranger" title="Category:Rondeau, Michel/Arranger">Rondeau, Michel/Arranger</a></li><li><a href="/wiki/Category:H%C3%B6ger,_Anton/Arranger" title="Category:Höger, Anton/Arranger">Höger, Anton/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Pezel,_Johann_Christoph" title="Category:Pezel, Johann Christoph">Pezel, Johann Christoph</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Intradas" title="Category:Intradas">Intradas</a></li><li><a href="/wiki/Category:For_2_cornetts,_3_trombones" title="Category:For 2 cornetts, 3 trombones">For 2 cornetts, 3 trombones</a></li><li><a href="/wiki/Category:Scores_featuring_the_cornett" title="Category:Scores featuring the cornett">Scores featuring the cornett</a></li><li><a href="/wiki/Category:Scores_featuring_the_trombone" title="Category:Scores featuring the trombone">Scores featuring the trombone</a></li><li><a href="/wiki/Category:For_5_players" title="Category:For 5 players">For 5 players</a></li><li><a href="/wiki/Category:For_5_recorders_(arr)" title="Category:For 5 recorders (arr)">For 5 recorders (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_recorder" title="Category:Scores featuring the recorder">Scores featuring the recorder</a></li><li><a href="/wiki/Category:For_2_trumpets,_3_trombones_(arr)" title="Category:For 2 trumpets, 3 trombones (arr)">For 2 trumpets, 3 trombones (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_trumpet" title="Category:Scores featuring the trumpet">Scores featuring the trumpet</a></li><li><a href="/wiki/Category:For_5_guitars_(arr)" title="Category:For 5 guitars (arr)">For 5 guitars (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1685" title="Category:Works first published in 1685">Works first published in 1685</a></li><li><a href="/wiki/Category:Works_first_published_in_the_17th_century" title="Category:Works first published in the 17th century">Works first published in the 17th century</a></li><li><a href="/wiki/Category:C_major" title="Category:C major">C major</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Intrada%2C_WP_6.71_%28Pezel%2C_Johann_Christoph%29">1,106 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Intrada%2C%20WP%206.71%20%28Pezel%2C%20Johann%20Christoph%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.523 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414145151 -->
+</html>
+		

@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Paduana and Galliard, APG2.05 (Mercker, Matthias) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)", "wgTitle": "Paduana and Galliard, APG2.05 (Mercker, Matthias)", "wgCurRevisionId": 2157416, "wgArticleId": 418017, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Alpers, Ulrich/Editor", "WIMA files", "Höger, Anton/Arranger", "Scores", "Mercker, Matthias", "Renaissance style", "Baroque", "Pavans", "Galliards", "Dances", "For 5 instruments", "Scores with open instrumentation", "For 5 players", "For 5 guitars (arr)", "Scores featuring the guitar", "For 3 lutes (arr)", "Scores featuring the lute", "For 3 players", "Pages with arrangements", "Works first published in 1609", "Works first published in the 17th century"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Paduana_and_Galliard_APG2_05_Mercker_Matthias action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)&amp;oldid=2157416" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Paduana%20and%20Galliard%2C%20APG2.05%20%28Mercker%2C%20Matthias%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Paduana and Galliard, APG2.05 (Mercker, Matthias)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2 sections
+<dl><dd>a. Paduana
+</dd><dd>b. Galliard
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1609 in <a href="/wiki/Ausserlesener_Paduanen_und_Galliarden,_Ander_Theil_(Hildebrand,_Christian)" title="Ausserlesener Paduanen und Galliarden, Ander Theil (Hildebrand, Christian)"><i>Ausserlesener Paduanen und Galliarden, Ander Theil</i> (No.5)</a>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pavans&amp;transclude=Template:Catintro">Pavans</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Galliards&amp;transclude=Template:Catintro">Galliards</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Dances&amp;transclude=Template:Catintro">Dances</a></span>; <span class="expandline" title="8 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_instruments&amp;transclude=Template:Catintro">For 5 instruments</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_with_open_instrumentation&amp;transclude=Template:Catintro">Scores with open instrumentation</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_players&amp;transclude=Template:Catintro">For 5 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_guitars_%28arr%29&amp;transclude=Template:Catintro">For 5 guitars (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_lutes_%28arr%29&amp;transclude=Template:Catintro">For 3 lutes (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_lute&amp;transclude=Template:Catintro">Scores featuring the lute</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_players&amp;transclude=Template:Catintro">For 3 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Paduana and Galliard, APG2.05","composer":"Mercker, Matthias","comphref":"\/wiki\/Category:Mercker,_Matthias"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"paduana and galliard","itunes":"paduana and galliard","composer":"mercker","scorekeywords":"paduana and galliard","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"437679":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437679\/437680\/456a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437679"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437679"}},"437680":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437679\/437680\/456a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437680"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437680"}},"118679":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118679"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118679\/118680\/118681\/118682\/118683\/118684\/494e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118679"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118679"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118679"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118679"}},"118680":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118680"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118679\/118680\/118681\/118682\/118683\/118684\/494e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118680"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118680"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118680"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118680"}},"118681":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118681"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118679\/118680\/118681\/118682\/118683\/118684\/494e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118681"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118681"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118681"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118681"}},"118682":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118682"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118679\/118680\/118681\/118682\/118683\/118684\/494e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118682"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118682"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118682"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118682"}},"118683":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118683"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118679\/118680\/118681\/118682\/118683\/118684\/494e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118683"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118683"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118683"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118683"}},"118684":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118684"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118679\/118680\/118681\/118682\/118683\/118684\/494e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118684"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118684"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118684"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118684"}},"118685":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118685"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118685\/118686\/118687\/118688\/118689\/118690\/6f19"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118685"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118685"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118685"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118685"}},"118686":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118686"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118685\/118686\/118687\/118688\/118689\/118690\/6f19"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118686"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118686"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118686"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118686"}},"118687":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118687"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118685\/118686\/118687\/118688\/118689\/118690\/6f19"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118687"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118687"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118687"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118687"}},"118688":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118688"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118685\/118686\/118687\/118688\/118689\/118690\/6f19"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118688"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118688"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118688"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118688"}},"118689":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118689"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118685\/118686\/118687\/118688\/118689\/118690\/6f19"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118689"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118689"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118689"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118689"}},"118690":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=118690"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/118685\/118686\/118687\/118688\/118689\/118690\/6f19"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP118690"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/118690"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/118690"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23118690"}},"437673":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=437673"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437673\/437674\/437675\/a148"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP437673"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/437673"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437673"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437673"}},"437674":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=437674"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437673\/437674\/437675\/a148"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP437674"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/437674"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437674"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437674"}},"437675":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=437675"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437673\/437674\/437675\/a148"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP437675"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/437675"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437675"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437675"}},"437676":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=437676"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437676\/437677\/437678\/30a9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP437676"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/437676"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437676"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437676"}},"437677":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=437677"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437676\/437677\/437678\/30a9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP437677"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/437677"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437677"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437677"}},"437678":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=437678"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/437676\/437677\/437678\/30a9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP437678"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/437678"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/437678"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23437678"}},"257741":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=257741"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/257741\/257742\/257743\/257744\/618b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP257741"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/257741"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/257741"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23257741"}},"257742":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=257742"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/257741\/257742\/257743\/257744\/618b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP257742"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/257742"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/257742"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23257742"}},"257743":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=257743"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/257741\/257742\/257743\/257744\/618b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP257743"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/257743"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/257743"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23257743"}},"257744":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=257744"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/257741\/257742\/257743\/257744\/618b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP257744"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/257744"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/257744"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Paduana+and+Galliard%2C+APG2.05+%28Mercker%2C+Matthias%29&frmTitle=IMSLP+%23257744"}}};JGFileOpts={"437679":[],"437680":[],"118679":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDwqlntEQVUT+qYgVWRRNA8J2JWLe3aVm8Z5n8PcOOfik85YkNlRAGw4EcpKJDlqrJc6yjxnuYfGLl2FArgPaV"},"118680":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjU\/ZpOQMUbPv+bXaUR7BcF1Uk6MieFeGunWS+n7a6oPg3OmkIioN3feFRMCxp5GzAPHwjc16j\/H8y\/wmHN7m9t"},"118681":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhpahDY8fKSfIDGCKLCQfIehRjef7tZefXjd+MFCImn933YQVWipIuwxYMyi+TUgY46moDb9PpDrh6yAUhPj1au"},"118682":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgphB+oqAtEpGSzFJXvR7PQx06\/OIYVby8LODL5c\/xzTsn2tQg2T2cNtfaLCTbv6nLkDs2\/lUKvPbEUeXZOPpSP"},"118683":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhBJe+aMa4aDLvS03bDSbPB06qSX4e2ZSRB0V7M+f9tyKbQGgxgfYSfwGUs7jxMYg2r1BCFtcvpa539K4B\/nDLU"},"118684":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biypks4Mg3104+wzJ39mpUceKtYk7PtSEtJA2sENkzCWGMO2GCxHvMsmEtU+KidzufOF+60x7\/Bh05d9Lh3g\/YX"},"118685":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg8e33FMShc9VIkZxh0Q5Me0Ehh0yFMs0yHAVNKhCiCuBBeRidkIMHmzjAXNia9PPreuzCyJOX67fRU\/yY8p8l6"},"118686":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhY2MCwznp2DTdWR\/w3YwVCB5LJYTpng9mhZU\/YHvD6oZCYNlb1Rh9ajUvqscCScMzlGBboZJfWzGkuqrOhPZRXAFrIbJjju2JjmEqze9bnFA=="},"118687":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjns0VP7q4V1wlVlw+MAVUYgJRiXiWcuan3tgjX5HZ6M+a+vTMWRXxqHQhocxGhKNR2Mxs9dk1l8qiNb7XjN6QPWPs0PCvlctvumOQLtEIAUw=="},"118688":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj5wcAcwGE4HAglfh9JvXq7MMd2KXPzp9lRTla2lpc21YvxAU1FMYusId3hpZWVK3xLWhR1fs+v9zQE\/56GWuVoVcq+yb3nxne2tqJJIB5row=="},"118689":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhG3qPVa1x5Q9ApBu2u1gNcZSsNIK\/65d8mbeC8vVXXAfLFjtJ+QTMddCIwVx7KtzcqcWQ3XeXwtXlywUsbqwDh9JMaOj1fI9Zq839mOwhNqA=="},"118690":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biz14cDsD1E7docfbpUX1Ihk30XcTr\/tRPO7v6Hbrd4UxjrjRCrd7eG+S5EMM5RNDy13IDbmAxkFiHqPwpMrpTcVdyHJ2TGqLYv1nidaoYA6g=="},"437673":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjY0ZMJbt1r77bvR4QqehIId3pRodqKfBx6UZZYDsofQkIBAss+giO5fqlBWPLVv4xJH448GiO\/mYsPq0Dkws+mpeZbkbHLLVkvRWHPW8EDA1mqmVYSkNZarGuq1pTDORI="},"437674":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgusir2bEK6EI8Iey85RoL0SyNGtJHkepelv2tG8vKrmNwg6PFN0+IQMDJ9AyQf1gQaBsSTTQ5hCt9ILygSoo5oEicuvKm0b3tzPQlpkrlYrIZwgHSZH13Vy\/ucMt5KZbU="},"437675":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhaliZSyaQPCYpMv9Zm2Oix8p4SHVQvjKnGLeDbPgBQvn9Xu8ayEDcvWqp6Y5OALOeUrHLdrYcXCbDV8qRDYZe9L5qsLJ4hvV5jjhZc9TZJFfURGKw8viS3MSbNwJrj0NM="},"437676":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgjte5ytK9hAnU3J\/7H\/O0gtF26wMi4hwXlHGRAxYSwHQvjoQnhab8\/IfawAIhDKvyVE8naZHDxFk8ZtAy3L\/RbiRGWm80f\/TFeU5TwGRSe9XqvP1CzQJm\/7VkTx7+oJ9s="},"437677":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnY+rygu7Aorp6bVgTnGakyz0OZqRhI9eYcj5h5KFrciEjyaU5o8f1SurWR6d597w1YD5th0RWVuDXvX0TY8PAqp3cQ9K8GadhGth56GmCxGRk2ynZVpiEjOM2Wl4mKpg="},"437678":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgajqSAY02MwdUDMGJ4qPVH9gP3iFpLDotFP02Kz+2JWUBu\/OgUMfkGDWo1CIcYlXI5WDq4cd2uzyhVNa6iFvkgZHT9enljbidFCpWwa3Bj9L97oAS80dMumkBJadBy+KY="},"257741":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bho9TzPI83IMXgZTcvECaxB+sXgyr3eEDBq7CelO024jEL5H4l2DcJSQXbiqkLbgJq16kLlf8zDqqn011e7eE+krxR455x8Q+K1b2xp\/LLqdw=="},"257742":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh0ZX0M2CiWptcc56y9EXSkjs4Ad5gLC3VY9jAU1ls6RZIQi6IAnaXEtvEFJr3N28TxXE4Jv6svzWZjX8F3dNxWs1l36RSmoyHutw2XQBlUCcoKucCvQmr96wmWGMk4Uw0="},"257743":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqHGCaWeqtrc+550cfpEv+QWtKnPFDboeVEBD1DXb+TwD2U96YMgXGrVFa3hjHikPRRWLSajzUg9NFS0C7OMexCKpo6MjTcV+G2oUhEkskI6r87lepI\/As+LHi1NATV7c="},"257744":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgpm0I614Y+ppCxmlRS\/uwYmgfLKCOZcegnKQGdR6D4g9P2ucIDkpBqsvDF0B8GRcC0xXVYi7fvweO+Dir4whcD8e8tVXxNbwheyV3\/kSQUTp3l1IvG+ZTxeB86IqIx6wE="}};JGPageUntagged=false;JGPageTags=["pavans","galliards","5open"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":0},"scores":{"tabScore1":false,"tabArrTrans":false,"tabScore3":true,"tabScore4":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores and Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"437679":[0,0],"437680":[0,0],"118679":[0,0],"118680":[0,0],"118681":[0,0],"118682":[0,0],"118683":[0,0],"118684":[0,0],"118685":[0,0],"118686":[0,0],"118687":[0,0],"118688":[0,0],"118689":[0,0],"118690":[0,0],"437673":[0,0],"437674":[0,0],"437675":[0,0],"437676":[0,0],"437677":[0,0],"437678":[0,0],"257741":[0,0],"257742":[0,0],"257743":[0,0],"257744":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_5_Guitars_.28H.C3.B6ger.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For 5 Guitars (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores_and_Parts"><span class="tocnumber">2.1</span> <span class="toctext">Scores and Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Paduana"><span class="tocnumber">2.1.1</span> <span class="toctext">Paduana</span></a></li>
+<li class="toclevel-3"><a href="#Galliard"><span class="tocnumber">2.1.2</span> <span class="toctext">Galliard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Paduan"><span class="tocnumber">2.2.1</span> <span class="toctext">Paduan</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_5_Guitars_.28H.C3.B6ger.29_2"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For 5 Guitars (Höger)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Galliard_2"><span class="tocnumber">2.2.2</span> <span class="toctext">Galliard</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_5_Guitars_.28H.C3.B6ger.29_3"><span class="tocnumber">2.2.2.1</span> <span class="toctext">For 5 Guitars (Höger)</span></a></li>
+<li class="toclevel-4"><a href="#For_3_Lutes_.28H.C3.B6ger.29"><span class="tocnumber">2.2.2.2</span> <span class="toctext">For 3 Lutes (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">2</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<p><span id="naa-nofilesnote"><i>No files submitted.</i><br /></span><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h5> <span class="mw-headline" id="For_5_Guitars_.28H.C3.B6ger.29">For 5 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP437679" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437679"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Paduana</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0d/PMLP418017-Mercker%2C_Matthias_-_05a_Paduana_%281609%29_-5Git.mp3" class="internal" title="PMLP418017-Mercker, Matthias - 05a Paduana (1609) -5Git.mp3">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05a_Paduana_(1609)_-5Git.mp3" title="File:PMLP418017-Mercker, Matthias - 05a Paduana (1609) -5Git.mp3">#437679</a> - 2.88MB - 2:31<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437679' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437679'>
+	<a href='javascript:void(0)' id='437679' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437679' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437679' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437679' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437679' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437679'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/437679/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437679/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@437679" title="Special:GetFCtrStats/@437679">8</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a><span class="mh555"> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_437679'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"437679":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/0\/0d\/IMSLP437679-PMLP418017-Mercker,_Matthias_-_05a_Paduana_(1609)_-5Git.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":437680}});</script>
+</p>
+</div><div id="IMSLP437680" class="we_file we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437680"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Galliard</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/51/PMLP418017-Mercker%2C_Matthias_-_05b_Galliard_%281609%29_-5Git.mp3" class="internal" title="PMLP418017-Mercker, Matthias - 05b Galliard (1609) -5Git.mp3">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05b_Galliard_(1609)_-5Git.mp3" title="File:PMLP418017-Mercker, Matthias - 05b Galliard (1609) -5Git.mp3">#437680</a> - 2.14MB - 1:52<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437680' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437680'>
+	<a href='javascript:void(0)' id='437680' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437680' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437680' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437680' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437680' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437680'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/437680/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437680/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@437680" title="Special:GetFCtrStats/@437680">7</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a><span class="mh555"> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_437680'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"437680":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/5\/51\/IMSLP437680-PMLP418017-Mercker,_Matthias_-_05b_Galliard_(1609)_-5Git.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=437679/437680">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=437679/437680">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Because most of my Transcriptions are never heard before, I decided to make a simple computer synthesized audio file for hearing control.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="437679">Javascript is required for this feature.</div><script>JGINITsearchbars['437679']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores and Parts (<span id="tabScore1_ct">12</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">10</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Other (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Source Files (<span id="tabScore4_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores_and_Parts">Scores and Parts</span></h3>
+<h4> <span class="mw-headline" id="Paduana">Paduana</span></h4>
+<div class="we"><div id="IMSLP118679" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118679"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9c/PMLP239888-hild_1609_05a_paduana.pdf" class="internal" title="PMLP239888-hild 1609 05a paduana.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana.pdf" title="File:PMLP239888-hild 1609 05a paduana.pdf">#118679</a> - 0.03MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118679' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118679'>
+	<a href='javascript:void(0)' id='118679' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118679' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118679' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118679' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118679' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118679'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118679/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118679/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 378"><a href="/wiki/Special:GetFCtrStats/@118679" title="Special:GetFCtrStats/@118679">378</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>5 more</u>:</b> Canto • Quinto • Alto • Tenore • Basso
+</p>
+</div><div id="IMSLP118680" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118680"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Canto</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ab/PMLP239888-hild_1609_05a_paduana-1.pdf" class="internal" title="PMLP239888-hild 1609 05a paduana-1.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana-1.pdf" title="File:PMLP239888-hild 1609 05a paduana-1.pdf">#118680</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118680' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118680'>
+	<a href='javascript:void(0)' id='118680' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118680' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118680' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118680' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118680' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118680'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118680/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118680/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 119"><a href="/wiki/Special:GetFCtrStats/@118680" title="Special:GetFCtrStats/@118680">119</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118681" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118681"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Quinto</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e6/PMLP239888-hild_1609_05a_paduana-2.pdf" class="internal" title="PMLP239888-hild 1609 05a paduana-2.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana-2.pdf" title="File:PMLP239888-hild 1609 05a paduana-2.pdf">#118681</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118681' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118681'>
+	<a href='javascript:void(0)' id='118681' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118681' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118681' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118681' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118681' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118681'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118681/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118681/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 112"><a href="/wiki/Special:GetFCtrStats/@118681" title="Special:GetFCtrStats/@118681">112</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118682" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118682"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Alto</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/20/PMLP239888-hild_1609_05a_paduana-3.pdf" class="internal" title="PMLP239888-hild 1609 05a paduana-3.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana-3.pdf" title="File:PMLP239888-hild 1609 05a paduana-3.pdf">#118682</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118682' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118682'>
+	<a href='javascript:void(0)' id='118682' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118682' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118682' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118682' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118682' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118682'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118682/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118682/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 116"><a href="/wiki/Special:GetFCtrStats/@118682" title="Special:GetFCtrStats/@118682">116</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118683" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118683"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenore</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/56/PMLP239888-hild_1609_05a_paduana-4.pdf" class="internal" title="PMLP239888-hild 1609 05a paduana-4.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana-4.pdf" title="File:PMLP239888-hild 1609 05a paduana-4.pdf">#118683</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118683' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118683'>
+	<a href='javascript:void(0)' id='118683' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118683' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118683' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118683' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118683' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118683'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118683/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118683/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 113"><a href="/wiki/Special:GetFCtrStats/@118683" title="Special:GetFCtrStats/@118683">113</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118684" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118684"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basso</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2c/PMLP239888-hild_1609_05a_paduana-5.pdf" class="internal" title="PMLP239888-hild 1609 05a paduana-5.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana-5.pdf" title="File:PMLP239888-hild 1609 05a paduana-5.pdf">#118684</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118684' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118684'>
+	<a href='javascript:void(0)' id='118684' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118684' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118684' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118684' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118684' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118684'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118684/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118684/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 116"><a href="/wiki/Special:GetFCtrStats/@118684" title="Special:GetFCtrStats/@118684">116</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Alpers,_Ulrich" title="Category:Alpers, Ulrich">Ulrich Alpers</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Ulrich Alpers
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=118679/118680/118681/118682/118683/118684">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=118679/118680/118681/118682/118683/118684">del</a>/<span id="fmrglnk" data-pdfstr="118679//118680//118681//118682//118683//118684/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="118679">Javascript is required for this feature.</div><script>JGINITsearchbars['118679']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP239888-hild_1609_05a_paduana.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/9c/e384b12a8ab7e9d1857e5828602307b432e72983.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Galliard">Galliard</span></h4>
+<div class="we"><div id="IMSLP118685" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118685"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/58/PMLP239888-hild_1609_05b_galliard.pdf" class="internal" title="PMLP239888-hild 1609 05b galliard.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard.pdf" title="File:PMLP239888-hild 1609 05b galliard.pdf">#118685</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118685' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118685'>
+	<a href='javascript:void(0)' id='118685' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118685' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118685' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118685' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118685' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118685'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118685/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118685/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 207"><a href="/wiki/Special:GetFCtrStats/@118685" title="Special:GetFCtrStats/@118685">207</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>5 more</u>:</b> Canto • Quinto • Alto • Tenore • Basso
+</p>
+</div><div id="IMSLP118686" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118686"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Canto</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0b/PMLP239888-hild_1609_05b_galliard-1.pdf" class="internal" title="PMLP239888-hild 1609 05b galliard-1.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard-1.pdf" title="File:PMLP239888-hild 1609 05b galliard-1.pdf">#118686</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118686' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118686'>
+	<a href='javascript:void(0)' id='118686' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118686' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118686' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118686' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118686' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118686'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118686/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118686/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 116"><a href="/wiki/Special:GetFCtrStats/@118686" title="Special:GetFCtrStats/@118686">116</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118687" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118687"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Quinto</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dd/PMLP239888-hild_1609_05b_galliard-2.pdf" class="internal" title="PMLP239888-hild 1609 05b galliard-2.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard-2.pdf" title="File:PMLP239888-hild 1609 05b galliard-2.pdf">#118687</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118687' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118687'>
+	<a href='javascript:void(0)' id='118687' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118687' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118687' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118687' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118687' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118687'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118687/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118687/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 110"><a href="/wiki/Special:GetFCtrStats/@118687" title="Special:GetFCtrStats/@118687">110</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118688" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118688"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Alto</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bc/PMLP239888-hild_1609_05b_galliard-3.pdf" class="internal" title="PMLP239888-hild 1609 05b galliard-3.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard-3.pdf" title="File:PMLP239888-hild 1609 05b galliard-3.pdf">#118688</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118688' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118688'>
+	<a href='javascript:void(0)' id='118688' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118688' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118688' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118688' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118688' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118688'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118688/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118688/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 113"><a href="/wiki/Special:GetFCtrStats/@118688" title="Special:GetFCtrStats/@118688">113</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118689" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118689"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenore</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/77/PMLP239888-hild_1609_05b_galliard-4.pdf" class="internal" title="PMLP239888-hild 1609 05b galliard-4.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard-4.pdf" title="File:PMLP239888-hild 1609 05b galliard-4.pdf">#118689</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118689' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118689'>
+	<a href='javascript:void(0)' id='118689' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118689' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118689' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118689' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118689' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118689'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118689/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118689/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 111"><a href="/wiki/Special:GetFCtrStats/@118689" title="Special:GetFCtrStats/@118689">111</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP118690" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/118690"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basso</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7f/PMLP239888-hild_1609_05b_galliard-5.pdf" class="internal" title="PMLP239888-hild 1609 05b galliard-5.pdf">*</a></span><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard-5.pdf" title="File:PMLP239888-hild 1609 05b galliard-5.pdf">#118690</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-118690' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-118690'>
+	<a href='javascript:void(0)' id='118690' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='118690' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='118690' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='118690' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='118690' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-118690'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/118690/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/118690/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 109"><a href="/wiki/Special:GetFCtrStats/@118690" title="Special:GetFCtrStats/@118690">109</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Lurchi" title="User:Lurchi">Ulrich Alpers</a> (2011/9/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Alpers,_Ulrich" title="Category:Alpers, Ulrich">Ulrich Alpers</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Ulrich Alpers
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=118685/118686/118687/118688/118689/118690">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=118685/118686/118687/118688/118689/118690">del</a>/<span id="fmrglnk" data-pdfstr="118685//118686//118687//118688//118689//118690/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="118685">Javascript is required for this feature.</div><script>JGINITsearchbars['118685']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP239888-hild_1609_05b_galliard.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/58/0c08d28b2609324b3079978fef80982c4bc64f99.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores and Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Paduan">Paduan</span></h4>
+<h5> <span class="mw-headline" id="For_5_Guitars_.28H.C3.B6ger.29_2">For 5 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP437673" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437673"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/33/PMLP418017-Mercker%2C_Matthias_-_05a_Paduana_%281609%29_-5Git.pdf" class="internal" title="PMLP418017-Mercker, Matthias - 05a Paduana (1609) -5Git.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05a_Paduana_(1609)_-5Git.pdf" title="File:PMLP418017-Mercker, Matthias - 05a Paduana (1609) -5Git.pdf">#437673</a> - 0.09MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437673' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437673'>
+	<a href='javascript:void(0)' id='437673' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437673' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437673' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437673' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437673' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437673'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/437673/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437673/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 10"><a href="/wiki/Special:GetFCtrStats/@437673" title="Special:GetFCtrStats/@437673">10</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP437674" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437674"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/74/PMLP418017-Mercker%2C_Matthias_-_05a_Paduana_%281609%29_-Git1%262.pdf" class="internal" title="PMLP418017-Mercker, Matthias - 05a Paduana (1609) -Git1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05a_Paduana_(1609)_-Git1%262.pdf" title="File:PMLP418017-Mercker, Matthias - 05a Paduana (1609) -Git1&amp;2.pdf">#437674</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437674' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437674'>
+	<a href='javascript:void(0)' id='437674' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437674' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437674' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437674' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437674' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437674'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/437674/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437674/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@437674" title="Special:GetFCtrStats/@437674">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP437675" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437675"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 3/4/5</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/88/PMLP418017-Mercker%2C_Matthias_-_05a_Paduana_%281609%29_-Git3-5.pdf" class="internal" title="PMLP418017-Mercker, Matthias - 05a Paduana (1609) -Git3-5.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05a_Paduana_(1609)_-Git3-5.pdf" title="File:PMLP418017-Mercker, Matthias - 05a Paduana (1609) -Git3-5.pdf">#437675</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437675' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437675'>
+	<a href='javascript:void(0)' id='437675' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437675' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437675' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437675' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437675' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437675'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/437675/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437675/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@437675" title="Special:GetFCtrStats/@437675">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=437673/437674/437675">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=437673/437674/437675">del</a>/<span id="fmrglnk" data-pdfstr="437673//437674//437675/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="437673">Javascript is required for this feature.</div><script>JGINITsearchbars['437673']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05a_Paduana_(1609)_-5Git.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/33/9d3490c04edffc6c7d0d7b0e21c25709d46543ff.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Galliard_2">Galliard</span></h4>
+<h5> <span class="mw-headline" id="For_5_Guitars_.28H.C3.B6ger.29_3">For 5 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP437676" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437676"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4d/PMLP418017-Mercker%2C_Matthias_-_05b_Galliard_%281609%29_-5Git.pdf" class="internal" title="PMLP418017-Mercker, Matthias - 05b Galliard (1609) -5Git.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05b_Galliard_(1609)_-5Git.pdf" title="File:PMLP418017-Mercker, Matthias - 05b Galliard (1609) -5Git.pdf">#437676</a> - 0.08MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437676' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437676'>
+	<a href='javascript:void(0)' id='437676' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437676' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437676' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437676' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437676' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437676'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/437676/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437676/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 9"><a href="/wiki/Special:GetFCtrStats/@437676" title="Special:GetFCtrStats/@437676">9</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP437677" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437677"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/ff/PMLP418017-Mercker%2C_Matthias_-_05b_Galliard_%281609%29_-Git1%262.pdf" class="internal" title="PMLP418017-Mercker, Matthias - 05b Galliard (1609) -Git1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05b_Galliard_(1609)_-Git1%262.pdf" title="File:PMLP418017-Mercker, Matthias - 05b Galliard (1609) -Git1&amp;2.pdf">#437677</a> - 0.06MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437677' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437677'>
+	<a href='javascript:void(0)' id='437677' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437677' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437677' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437677' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437677' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437677'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/437677/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437677/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@437677" title="Special:GetFCtrStats/@437677">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP437678" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/437678"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 3/4/5</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/40/PMLP418017-Mercker%2C_Matthias_-_05b_Galliard_%281609%29_-Git3-5.pdf" class="internal" title="PMLP418017-Mercker, Matthias - 05b Galliard (1609) -Git3-5.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05b_Galliard_(1609)_-Git3-5.pdf" title="File:PMLP418017-Mercker, Matthias - 05b Galliard (1609) -Git3-5.pdf">#437678</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-437678' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-437678'>
+	<a href='javascript:void(0)' id='437678' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='437678' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='437678' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='437678' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='437678' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-437678'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/437678/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/437678/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@437678" title="Special:GetFCtrStats/@437678">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2016/9/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=437676/437677/437678">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=437676/437677/437678">del</a>/<span id="fmrglnk" data-pdfstr="437676//437677//437678/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="437676">Javascript is required for this feature.</div><script>JGINITsearchbars['437676']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_05b_Galliard_(1609)_-5Git.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4d/be95b72df3ccaab1d3456144ef7a8fdf2aae4d3e.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_3_Lutes_.28H.C3.B6ger.29">For 3 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP257741" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/257741"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute score (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8c/PMLP418017-Mercker%2C_Matthias_-_Galliard_5b_%281609%29.pdf" class="internal" title="PMLP418017-Mercker, Matthias - Galliard 5b (1609).pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_Galliard_5b_(1609).pdf" title="File:PMLP418017-Mercker, Matthias - Galliard 5b (1609).pdf">#257741</a> - 0.06MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-257741' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-257741'>
+	<a href='javascript:void(0)' id='257741' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='257741' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='257741' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='257741' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='257741' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-257741'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/257741/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/257741/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 45"><a href="/wiki/Special:GetFCtrStats/@257741" title="Special:GetFCtrStats/@257741">45</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/11/7)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP257742" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/257742"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/PMLP418017-Mercker%2C_Matthias_-_Galliard_5b_%281609%29_L-1.pdf" class="internal" title="PMLP418017-Mercker, Matthias - Galliard 5b (1609) L-1.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_Galliard_5b_(1609)_L-1.pdf" title="File:PMLP418017-Mercker, Matthias - Galliard 5b (1609) L-1.pdf">#257742</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-257742' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-257742'>
+	<a href='javascript:void(0)' id='257742' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='257742' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='257742' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='257742' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='257742' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-257742'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/257742/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/257742/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 33"><a href="/wiki/Special:GetFCtrStats/@257742" title="Special:GetFCtrStats/@257742">33</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/11/7)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP257743" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/257743"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3e/PMLP418017-Mercker%2C_Matthias_-_Galliard_5b_%281609%29_L-2.pdf" class="internal" title="PMLP418017-Mercker, Matthias - Galliard 5b (1609) L-2.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_Galliard_5b_(1609)_L-2.pdf" title="File:PMLP418017-Mercker, Matthias - Galliard 5b (1609) L-2.pdf">#257743</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-257743' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-257743'>
+	<a href='javascript:void(0)' id='257743' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='257743' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='257743' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='257743' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='257743' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-257743'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/257743/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/257743/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 32"><a href="/wiki/Special:GetFCtrStats/@257743" title="Special:GetFCtrStats/@257743">32</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/11/7)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP257744" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/257744"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b9/PMLP418017-Mercker%2C_Matthias_-_Galliard_5b_%281609%29_L-3.pdf" class="internal" title="PMLP418017-Mercker, Matthias - Galliard 5b (1609) L-3.pdf">*</a></span><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_Galliard_5b_(1609)_L-3.pdf" title="File:PMLP418017-Mercker, Matthias - Galliard 5b (1609) L-3.pdf">#257744</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-257744' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-257744'>
+	<a href='javascript:void(0)' id='257744' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='257744' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='257744' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='257744' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='257744' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-257744'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/257744/Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)" title="Special:IMSLPEditCTag/257744/Paduana and Galliard, APG2.05 (Mercker, Matthias)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 32"><a href="/wiki/Special:GetFCtrStats/@257744" title="Special:GetFCtrStats/@257744">32</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/11/7)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=257741/257742/257743/257744">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=257741/257742/257743/257744">del</a>/<span id="fmrglnk" data-pdfstr="257741//257742//257743//257744/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>In French Lute-tablature (Unisono) with diminutions in the tradition of the great luteplayers of the 16th century. If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="257741">Javascript is required for this feature.</div><script>JGINITsearchbars['257741']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP418017-Mercker,_Matthias_-_Galliard_5b_(1609).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8c/f6a470891edd5b44382352b2bf8ff4da9c98f3ac.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Other" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="source" data-name="Source Files" data-tabid="tabScore4"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Paduana and Galliard
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Mercker,_Matthias" title="Category:Mercker, Matthias">Mercker, Matthias</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IMM 1
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2 sections
+<dl><dd>a. Paduana
+</dd><dd>b. Galliard
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1609 in <a href="/wiki/Ausserlesener_Paduanen_und_Galliarden,_Ander_Theil_(Hildebrand,_Christian)" title="Ausserlesener Paduanen und Galliarden, Ander Theil (Hildebrand, Christian)"><i>Ausserlesener Paduanen und Galliarden, Ander Theil</i> (No.5)</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>5 instruments
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 894/1000000
+Post-expand include size: 85307/2097152 bytes
+Template argument size: 144/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:418017-0!*!0!!en!2!* and timestamp 20180416053546 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)&amp;oldid=2157416">http://imslp.org/index.php?title=Paduana_and_Galliard,_APG2.05_(Mercker,_Matthias)&amp;oldid=2157416</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Alpers,_Ulrich/Editor" title="Category:Alpers, Ulrich/Editor">Alpers, Ulrich/Editor</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:H%C3%B6ger,_Anton/Arranger" title="Category:Höger, Anton/Arranger">Höger, Anton/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Mercker,_Matthias" title="Category:Mercker, Matthias">Mercker, Matthias</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Pavans" title="Category:Pavans">Pavans</a></li><li><a href="/wiki/Category:Galliards" title="Category:Galliards">Galliards</a></li><li><a href="/wiki/Category:Dances" title="Category:Dances">Dances</a></li><li><a href="/wiki/Category:For_5_instruments" title="Category:For 5 instruments">For 5 instruments</a></li><li><a href="/wiki/Category:Scores_with_open_instrumentation" title="Category:Scores with open instrumentation">Scores with open instrumentation</a></li><li><a href="/wiki/Category:For_5_players" title="Category:For 5 players">For 5 players</a></li><li><a href="/wiki/Category:For_5_guitars_(arr)" title="Category:For 5 guitars (arr)">For 5 guitars (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:For_3_lutes_(arr)" title="Category:For 3 lutes (arr)">For 3 lutes (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_lute" title="Category:Scores featuring the lute">Scores featuring the lute</a></li><li><a href="/wiki/Category:For_3_players" title="Category:For 3 players">For 3 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1609" title="Category:Works first published in 1609">Works first published in 1609</a></li><li><a href="/wiki/Category:Works_first_published_in_the_17th_century" title="Category:Works first published in the 17th century">Works first published in the 17th century</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Paduana_and_Galliard%2C_APG2.05_%28Mercker%2C_Matthias%29">635 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Paduana%20and%20Galliard%2C%20APG2.05%20%28Mercker%2C%20Matthias%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.831 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416053546 -->
+</html>
+		

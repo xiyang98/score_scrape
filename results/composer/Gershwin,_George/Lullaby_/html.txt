@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Lullaby (Gershwin, George) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Lullaby_(Gershwin,_George)", "wgTitle": "Lullaby (Gershwin, George)", "wgCurRevisionId": 2569197, "wgArticleId": 194704, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WorkNonPD-US", "Manookian, Jeff/Performer", "Recordings", "Viljoen, Michael/Editor", "Manookian, Jeff/Arranger", "Scores", "Gershwin, George", "Early 20th century style", "Early 20th century", "Lullabies", "For 2 violins, viola, cello", "Scores featuring the violin", "Scores featuring the viola", "Scores featuring the cello", "For 4 players", "For strings (arr)", "For strings", "Scores featuring string ensemble", "Pages with arrangements", "Works first published in 1948", "Works first published in the 20th century", "Scores with links to Sheet Music Plus"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lullaby_Gershwin_George action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Lullaby_(Gershwin,_George)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Lullaby+%28Gershwin%2C+George%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Lullaby_(Gershwin,_George)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Lullaby_(Gershwin,_George)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Lullaby_(Gershwin,_George)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Lullaby_(Gershwin,_George)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Lullaby_(Gershwin,_George)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Lullaby_(Gershwin,_George)&amp;oldid=2569197" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Lullaby%20%28Gershwin%2C%20George%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Lullaby (Gershwin, George)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><table class="toccolours protected" style="border: 1px solid #8888aa; margin-left:auto; margin-right:auto; padding-top:4px; padding-bottom:4px; padding-left:8px; padding-right:8px; width:80%; font-size:95%;">
+
+<tr>
+<td align="justify">
+<p>Since this work was first published after 1922 with the prescribed copyright notice, it is <i>unlikely</i> that this work is <a href="/wiki/Public_Domain" title="Public Domain" class="mw-redirect">public domain</a> in the USA. However, it <i>is</i> in the <a href="/wiki/Public_Domain" title="Public Domain" class="mw-redirect">public domain</a> in Canada (where IMSLP is hosted), the EU, and in those countries where the copyright term is life+70 years or less. 
+</p>
+<center><span style="color:crimson"><b>IMSLP does not assume any sort of legal responsibility or liability for the consequences of downloading files that are not in the public domain in your country.</b></span></center>
+</td></tr></table>
+<div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1948 - New York: New World Music
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Lullabies&amp;transclude=Template:Catintro">Lullabies</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_violins%2C_viola%2C_cello&amp;transclude=Template:Catintro">For 2 violins, viola, cello</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="expandline" title="6 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viola&amp;transclude=Template:Catintro">Scores featuring the viola</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_players&amp;transclude=Template:Catintro">For 4 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_strings_%28arr%29&amp;transclude=Template:Catintro">For strings (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_strings&amp;transclude=Template:Catintro">For strings</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_string_ensemble&amp;transclude=Template:Catintro">Scores featuring string ensemble</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Lullaby","composer":"Gershwin, George","comphref":"\/wiki\/Category:Gershwin,_George"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"lullaby","itunes":"lullaby","composer":"gershwin","scorekeywords":"lullaby","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":89,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CDS195.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CDS195.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCDS195","desc":"String Quartets - HEIDRICH: Variations on Happy Birthday \/ GERSHWIN: Lullaby \/ KERN: Smoke Gets In Your Eyes \/ CHAPLIN: Limelight","label":"Dynamic","category":"Chamber Music - Classical Music","composer":"Rachmaninov, Sergey -- Thomas-Mifune, Werner -- Chaplin, Charlie -- Kern, Jerome -- Porter, Cole -- Shostakovich, Dmitry -- Pachelbel, Johann -- Elgar, Edward -- Gershwin, George -- Heidrich, Peter -- Razek, Antonin","artist":"Venice String Quartet","country":"Germany Russia United Kingdom United States","catid":"CDS195","cdinfo":[[["Thomas-Mifune, Werner",[["Comic string quartet (after Beethoven's Symphony No. 5 in C Minor, Op. 67)","mediaplayer\/player.asp?br=128&tl=403341",[]]]],["Chaplin, Charlie",[["Limelight: Eternally","mediaplayer\/player.asp?br=128&tl=403342",[]]]],["Shostakovich, Dmitry",[["Zolotoy vek (The Golden Age), Op. 22, Act II: Polka (arr. for string quartet)","mediaplayer\/player.asp?br=128&tl=403343",[]]]],["Rachmaninov, Sergey",[["14 Songs, Op. 34: No. 14. Vocalise (arr. for string quartet)","mediaplayer\/player.asp?br=128&tl=403344",[]]]],["Heidrich, Peter",[["Variations on Happy Birthday","mediaplayer\/player.asp?br=128&tl=403345|403346|403347|403348|403349|403350|403351|403352|403353|403354|403355|403356|403357|403358|403359",[]]]],["Gershwin, George",[["Lullaby","mediaplayer\/player.asp?br=128&tl=403360",[]]]],["Pachelbel, Johann",[["Canon in D Major","mediaplayer\/player.asp?br=128&tl=403361",[]]]],["Razek, Antonin",[["Cat's Serenade (arr. for string quartet)","mediaplayer\/player.asp?br=128&tl=403362",[]]]],["Thomas-Mifune, Werner",[["Chromatic Syncopations","mediaplayer\/player.asp?br=128&tl=403363",[]]]],["Kern, Jerome",[["Roberta: Smoke Gets In Your Eyes (arr. for string quartet)","mediaplayer\/player.asp?br=128&tl=403364",[]]]],["Porter, Cole",[["Anything Goes: Anything Goes (arr. for string quartet)","mediaplayer\/player.asp?br=128&tl=403365",[]]]],["Elgar, Edward",[["Salut d'amour, Op. 12 (arr. for string quartet)","mediaplayer\/player.asp?br=128&tl=403366",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DE3216.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DE3216.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDE3216","desc":"GERSHWIN, G.: Dayful of Song \/ Cuban Overture \/ Promenade \/ Rhapsody in Blue \/ Lullaby\/ An American in Paris (Dallas Symphony, Litton)","label":"Delos","category":"Chamber Music - Classical Music","composer":"Gershwin, George","artist":"Dallas Symphony Orchestra -- Litton, Andrew -- Girko, Stephen","country":"Russia United States","catid":"DE3216","cdinfo":[[["Gershwin, George",[["Dayful of Song (arr. S. Ramin)","mediaplayer\/player.asp?br=128&tl=443219",[]]]],["Gershwin, George",[["Cuban Overture","mediaplayer\/player.asp?br=128&tl=443220",[]]]],["Gershwin, George",[["Promenade (arr. A. Kostelanetz)","mediaplayer\/player.asp?br=128&tl=443221",[]]]],["Gershwin, George",[["Rhapsody in Blue (original version)","mediaplayer\/player.asp?br=128&tl=443222",[]],["Lullaby (arr. for orchestra)","mediaplayer\/player.asp?br=128&tl=443223",[]],["An American in Paris","mediaplayer\/player.asp?br=128&tl=443224",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CRC2174.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CRC2174.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCRC2174","desc":"GERSHWIN, G.: Piano Concerto in F Major \/ Lullaby \/ An American in Paris \/ Three-Quarter Blues (Small)","label":"Centaur","category":"Concertos - Classical Music","composer":"Gershwin, George","artist":"","country":"United States","catid":"CRC2174","cdinfo":[[["Gershwin, George",[["Piano Concerto in F Major (arr. for piano)","mediaplayer\/player.asp?br=128&tl=482740|482741|482742",[]]]],["Gershwin, George",[["Lullaby (arr. for piano)","mediaplayer\/player.asp?br=128&tl=482743",[]]]],["Gershwin, George",[["An American in Paris (arr. W.M. Daly and H. Small)","mediaplayer\/player.asp?br=128&tl=482744",[]]]],["Gershwin, George",[["Three-Quarter Blues, \"Irish Waltz\"","mediaplayer\/player.asp?br=128&tl=482745",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028946642429.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028946642429.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028946642429","desc":"GERSHWIN, G.: Rhapsody in Blue \/ An American in Paris \/ Lullaby \/ Cuban Overture (Katia Lab\u00e8que, Marielle Lab\u00e8que, Cleveland Orchestra, Chailly)","label":"Decca","category":"Orchestral - Classical Music","composer":"Gershwin, George","artist":"Lab\u00e8que, Katia -- Lab\u00e8que, Marielle -- Chailly, Riccardo -- Cleveland Orchestra","country":"United States","catid":"00028946642429","cdinfo":[[["Gershwin, George",[["Rhapsody in Blue (arr. for 2 pianos and orchestra)","mediaplayer\/player.asp?br=128&tl=2440478",[]]]],["Gershwin, George",[["Lullaby","mediaplayer\/player.asp?br=128&tl=2440479",[]],["An American in Paris","mediaplayer\/player.asp?br=128&tl=2440480",[]],["Cuban Overture","mediaplayer\/player.asp?br=128&tl=2440481",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.110219-20.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.110219-20.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.110219-20","desc":"GERSHWIN: Porgy and Bess (Original Cast Recordings) (1935-1942)","label":"Naxos Historical","category":"Chamber Music - Classical Music","composer":"Gershwin, George","artist":"Heifetz, Jascha -- Jepson, Helen -- Robeson, Paul -- Brown, Anne -- Duncan, Todd -- Long, Avon -- Matthews, Edward -- Dowdy, Helen -- Bay, Emmanuel -- Greenwood, Clifford -- Smallens, Alexander -- Wallenstein, Alfred -- Decca Symphony Orchestra -- Los Angeles Philharmonic Orchestra -- Leo Reisman Orchestra","country":"Russia United States","catid":"8.110219-20","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=BC94861.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=BC94861.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DBC94861","desc":"GERSHWIN, G.: Rhapsody in Blue \/ An American in Paris (Siegel, Saint Louis Symphony, Slatkin)","label":"Brilliant Classics","category":"Concertos - Classical Music","composer":"Gershwin, George","artist":"Slatkin, Leonard -- Saint Louis Symphony Orchestra -- Siegel, Jeffrey","country":"United States","catid":"BC94861","cdinfo":[[["Gershwin, George",[["Piano Concerto in F Major","mediaplayer\/player.asp?br=128&tl=2258046|2258047|2258048",["I. Allegro","II. Andante con moto","III. Allegro agitato"]],["Lullaby (version for orchestra)","mediaplayer\/player.asp?br=128&tl=2258049",["Lullaby"]],["Cuban Overture","mediaplayer\/player.asp?br=128&tl=2258050",[]],["Second Rhapsody","mediaplayer\/player.asp?br=128&tl=2258051",[]],["Promenade (version for orchestra)","mediaplayer\/player.asp?br=128&tl=2258052",[]]]]],[["Gershwin, George",[["Rhapsody in Blue","mediaplayer\/player.asp?br=128&tl=2258053",[]],["I Got Rhythm Variations","mediaplayer\/player.asp?br=128&tl=2258054",[]]]],["Gershwin, George",[["Porgy and Bess (excerpts)","mediaplayer\/player.asp?br=128&tl=2258055|2258056|2258057|2258058|2258059",["Act I: Introduction","Act I: Porgy Sings","Act I: Fugue","Act II: Hurricane","Act III: Good Morning, Brother"]]]],["Gershwin, George",[["An American in Paris","mediaplayer\/player.asp?br=128&tl=2258060",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099920662851.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099920662851.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099920662851","desc":"American Classics: George Gershwin","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Gershwin, George","artist":"Donohoe, Peter -- Previn, Andr\u00e9 -- Slatkin, Leonard -- Rattle, Simon -- London Symphony Orchestra -- London Sinfonietta -- Saint Louis Symphony Orchestra","country":"United States","catid":"5099920662851","cdinfo":[[["Gershwin, George",[["An American in Paris","mediaplayer\/player.asp?br=128&tl=1225744",[]],["Rhapsody in Blue","mediaplayer\/player.asp?br=128&tl=1225745",[]],["Catfish Row: Suite from Porgy and Bess","mediaplayer\/player.asp?br=128&tl=1225747|1225748|1225749|1225750|1225751",["I. Act I Scene 1: Introduction","II. Porgy Sings","III. Fugue","IV. Act II Scene 3: Hurricane","V. Act III Scene 3: Good Mornin', Brother"]],["Lullaby (version for orchestra)","mediaplayer\/player.asp?br=128&tl=1225752",["Lullaby"]],["Cuban Overture","mediaplayer\/player.asp?br=128&tl=1225753",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947761150.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947761150.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947761150","desc":"Orchestral Music - SOUSA, J.P. \/ COPLAND, A. \/ IVES, C. \/ GERSHWIN, G. (The Arthur Fiedler Legacy - Stars and Stripes - An American Concert)","label":"Deutsche Grammophon","category":"Orchestral - Classical Music","composer":"Morton, Jelly Roll -- Anderson, Leroy -- Washington, Ned -- Bowman, Euday L. -- Ragas, Henry -- Shields, Larry -- Edwards, Eddie -- Bernstein, Leonard -- Rodgers, Richard -- Willson, Meredith -- Wrubel, Allie -- Blake, Eubie -- Joplin, Scott -- Carmichael, Hoagy -- Ives, Charles -- Berlin, Irving -- Sousa, John Philip -- Copland, Aaron -- Gershwin, George -- Sbarbaro, Larry -- LaRocca, Nick -- DeSylva, Buddy","artist":"Fiedler, Arthur -- Boston Pops Orchestra -- Votapek, Ralph -- Cardillo, Pasquale -- Come, Andrea","country":"United States","catid":"00028947761150","cdinfo":[[["Sousa, John Philip",[["The Stars and Stripes Forever","mediaplayer\/player.asp?br=128&tl=3083922",[]]]],["Copland, Aaron",[["An Outdoor Overture","mediaplayer\/player.asp?br=128&tl=3083923",[]]]],["Ives, Charles",[["Variations on America (arr. W. Schuman for orchestra)","mediaplayer\/player.asp?br=128&tl=3083924",[]]]],["Gershwin, George",[["Second Rhapsody","mediaplayer\/player.asp?br=128&tl=3083925",[]]]],["Bernstein, Leonard",[["Candide: Overture","mediaplayer\/player.asp?br=128&tl=3083926",[]],["Mass Suite","mediaplayer\/player.asp?br=128&tl=3083927|3083928|3083929|3083930|3083931|3083932|3083933|3083934|3083935",["Devotions Before Mass","First Introit","Second Introit","Gloria Tibi","Gloria in Excelsis","Gospel - Sermon","Credo","The Lord's Prayer","Sanctus"]]]],["Willson, Meredith",[["The Music Man: Seventy-Six Trombones (arr. J. Woodbury for orchestra)","mediaplayer\/player.asp?br=128&tl=3084011",[]]]],["Gershwin, George",[["3 Preludes (arr. G. Stone for orchestra)","mediaplayer\/player.asp?br=128&tl=3084012",[]]]],["Gershwin, George",[["Of Thee I Sing: Wintergreen For President (arr. W. Paul for orchestra)","mediaplayer\/player.asp?br=128&tl=3084013",[]]]],["Gershwin, George",[["Girl Crazy: Suite","mediaplayer\/player.asp?br=128&tl=3084014",[]]]],["Rodgers, Richard",[["Richard Rogers Walzer (arr. L. Anderson for orchestra)","mediaplayer\/player.asp?br=128&tl=3084015",[]]]],["Anderson, Leroy",[["Forgotten Dreams","mediaplayer\/player.asp?br=128&tl=3084016",[]],["A Trumpeter's Lullaby","mediaplayer\/player.asp?br=128&tl=3084017",[]],["Bugler's Holiday","mediaplayer\/player.asp?br=128&tl=3084018",[]]]],["Carmichael, Hoagy",[["Stardust (arr. J. Mason for orchestra)","mediaplayer\/player.asp?br=128&tl=3084019",[]]]],["Washington, Ned",[["Pinocchio: When You Wish Upon a Star (arr. J. Mason for orchestra)","mediaplayer\/player.asp?br=128&tl=3084020",[]]]],["Wrubel, Allie",[["Song of the South: Zip-a-dee-doo-dah (arr. F. Marks for orchestra)","mediaplayer\/player.asp?br=128&tl=3084234",[]]]],["Joplin, Scott",[["The Entertainer (arr. R. Hayman for clarinet and orchestra)","mediaplayer\/player.asp?br=128&tl=3084021",[]],["Sidewalk Story: Sugar Cane Rag (arr. R. Hayman for orchestra)","mediaplayer\/player.asp?br=128&tl=3084022",[]]]],["Joplin, Scott",[["The Easy Winners (arr. N. Wayland for orchestra)","mediaplayer\/player.asp?br=128&tl=3084023",[]]]],["Joplin, Scott",[["Maple Leaf Rag (arr. E. Knight for orchestra)","mediaplayer\/player.asp?br=128&tl=3084024",[]]]],["Blake, Eubie",[["Charleston Rag (arr. R. Bockholt for orchestra)","mediaplayer\/player.asp?br=128&tl=3084235",[]]]],["Berlin, Irving",[["Alexander's Ragtime Band (arr. N. Wayland for orchestra)","mediaplayer\/player.asp?br=128&tl=3084236",[]]]],["Bowman, Euday L.",[["12th Street Rag (arr. R. Hayman for orchestra)","mediaplayer\/player.asp?br=128&tl=3084237",[]]]],["Morton, Jelly Roll",[["Darktown Strutter's Ball (arr. N. Wayland for orchestra)","mediaplayer\/player.asp?br=128&tl=3084238",[]]]],["Ragas, Henry",[["Tiger Rag (arr. J. Mason for orchestra)","mediaplayer\/player.asp?br=128&tl=3084239",[]]]],["DeSylva, Buddy",[["Varsity Drag Variations (arr. N. Wayland for orchestra)","mediaplayer\/player.asp?br=128&tl=3084240",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099962176651.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099962176651.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099962176651","desc":"American Classics: George Gershwin","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Gershwin, George","artist":"Donohoe, Peter -- Previn, Andr\u00e9 -- Slatkin, Leonard -- Rattle, Simon -- London Symphony Orchestra -- London Sinfonietta -- Saint Louis Symphony Orchestra","country":"United States","catid":"5099962176651","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GB2568-2.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GB2568-2.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGB2568-2","desc":"Vocal Recital: Matteuzzi, William - PIZZETTI, I. \/ GRIEG, E. \/ QUILTER, R. \/ LISZT, F. \/ REGER, M. \/ MONTEVERDI, C. (Lullabies)","label":"Bongiovanni","category":"Opera - Classical Music","composer":"Nakada, Yoshinao -- Alvarez, Fermin Maria -- Mussorgsky, Modest Petrovich -- Puccini, Giacomo -- Quilter, Roger -- Reger, Max -- Pizzetti, Ildebrando -- Liszt, Franz -- Garc\u00eda Lorca, Federico -- Tchaikovsky, Pyotr Il'yich -- Monteverdi, Claudio -- Caplet, Andr\u00e9 -- Falla, Manuel de -- Faur\u00e9, Gabriel -- Grieg, Edvard -- Gershwin, George -- Freitas, Frederico de -- Needham, Alicia Adelaide -- Recli, Giulia -- Cortese, Luigi -- Weber, Ilse -- Morales, Carlos Ovidio -- Karidas, G.","artist":"Matteuzzi, William -- de Poli, Francesco -- Sampaolesi, Cesare","country":"Czech Republic France Germany Hungary Italy Japan Norway Portugal Russia Spain United Kingdom United States","catid":"GB2568-2","cdinfo":[[["Pizzetti, Ildebrando",[["La rappresentazione di S Uliva: Ninna-nanna di Uliva","mediaplayer\/player.asp?br=128&tl=3041187",[]]]],["Grieg, Edvard",[["Julens vuggesang (Yuletide Cradle-Song), EG 155","mediaplayer\/player.asp?br=128&tl=3041188",[]]]],["Quilter, Roger",[["Fairy Lullaby","mediaplayer\/player.asp?br=128&tl=3041189",[]]]],["Freitas, Frederico de",[["O meu menino e d'oiro","mediaplayer\/player.asp?br=128&tl=3041190",[]]]],["Reger, Max",[["8 Lieder, Op. 43: No. 5. Wiegenlied","mediaplayer\/player.asp?br=128&tl=3041191",[]]]],["Alvarez, Fermin Maria",[["Nana","mediaplayer\/player.asp?br=128&tl=3041192",[]]]],["Liszt, Franz",[["3 Songs from William Tell, S292\/2\/R582b: No. 1. Der Fischerknabe","mediaplayer\/player.asp?br=128&tl=3041193",[]]]],["Faur&#233;, Gabriel",[["Les berceaux, Op. 23, No. 1","mediaplayer\/player.asp?br=128&tl=3041194",[]]]],["Tchaikovsky, Pyotr Il'yich",[["6 Romances, Op. 16: No. 1. Kolibel'naya pesnya (Cradle Song)","mediaplayer\/player.asp?br=128&tl=3041195",[]]]],["Caplet, Andr&#233;",[["Le vieux coffret: No. 2. Berceuse","mediaplayer\/player.asp?br=128&tl=3041196",[]]]],["Falla, Manuel de",[["7 Canciones populares espa&#241;olas: No. 5. Nana","mediaplayer\/player.asp?br=128&tl=3041197",[]]]],["Morales, Carlos Ovidio",[["Cancion de cuna","mediaplayer\/player.asp?br=128&tl=3041198",[]]]],["Garc&#237;a Lorca, Federico",[["Canciones espa&#241;olas Antiguas: Nana de Sevilla","mediaplayer\/player.asp?br=128&tl=3041199",[]]]],["Weber, Ilse",[["Wiegala","mediaplayer\/player.asp?br=128&tl=3041200",[]]]],["Reger, Max",[["Schlichte Weisen, Op. 76: No. 52. Maria Wiegenlied","mediaplayer\/player.asp?br=128&tl=3041201",[]]]],["Mussorgsky, Modest Petrovich",[["Pesni i plyaski smerti (Songs and Dances of Death): No. 1. Lullaby","mediaplayer\/player.asp?br=128&tl=3041202",[]]]],["Monteverdi, Claudio",[["L'incoronazione di Poppea, Act II: Adagiati, Poppea","mediaplayer\/player.asp?br=128&tl=3041203",[]]]],["Puccini, Giacomo",[["Sogno d'or","mediaplayer\/player.asp?br=128&tl=3041204",[]]]],["Gershwin, George",[["Porgy and Bess, Act I: Summertime","mediaplayer\/player.asp?br=128&tl=3041205",[]]]],["Needham, Alicia Adelaide",[["Irish Lullaby","mediaplayer\/player.asp?br=128&tl=3041206",[]]]],["Cortese, Luigi",[["5 Canti popolari della liguria, Op. 47: No. 2. Ninna nanna corbellina","mediaplayer\/player.asp?br=128&tl=3041207",[]]]],["Karidas, G.",[["Ninna - Nanna","mediaplayer\/player.asp?br=128&tl=3041208",[]]]],["Nakada, Yoshinao",[["8 Songs for Children: No. 8. Oyasuminasai (Good Night!)","mediaplayer\/player.asp?br=128&tl=3041209",[]]]],["Recli, Giulia",[["La luna prigioniera","mediaplayer\/player.asp?br=128&tl=3041210",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/gershwin%20lullaby"};IMSLPNaxosSearch="gershwin lullaby";JGaskdonation=0;JGFileTools={"403237":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403237"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%23403237"}},"400776":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/400776"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%23400776"}},"110540":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/110540"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%23110540"}},"517275":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/517275"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%23517275"}},"508457":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/508457"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%23508457"}},"94494":{"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/94494"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/94494"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%2394494"}},"94495":{"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/94495"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/94495"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lullaby+%28Gershwin%2C+George%29&frmTitle=IMSLP+%2394495"}}};JGFileOpts={"403237":[],"400776":[],"110540":[],"517275":[],"508457":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjMGIYkYzjIDAXOTdAYOsnopb8R8zZev02BeEsAQ+04xeOkjxJVUZIOBklK+jVYBqQXbvXbMYj+cHikkxn7w42t"},"94494":[],"94495":[]};JGPageUntagged=false;JGPageTags=["lullabies","2vn va vc"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore3":true,"tabScore1":false,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":1}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"94494":[8.3571428571429,"42"],"94495":[8.5555555555556,"36"],"110540":[7.6363636363636,"11"],"400776":[8,"1"],"403237":[7.3333333333333,"3"],"508457":[10,"1"],"517275":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_String_Orchestra_.28Manookian.29"><span class="tocnumber">1.1.1</span> <span class="toctext">For String Orchestra (Manookian)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.1</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_String_Orchestra_.28Manookian.29_2"><span class="tocnumber">2.2.1</span> <span class="toctext">For String Orchestra (Manookian)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">4</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<h5> <span class="mw-headline" id="For_String_Orchestra_.28Manookian.29">For String Orchestra (Manookian)</span></h5>
+<div class="we"><div id="IMSLP403237" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403237"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Live Performance</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/23/PMLP194704-George_Gershwin_Lullaby_arr_Jeff_Manookian.mp3" class="internal" title="PMLP194704-George Gershwin Lullaby arr Jeff Manookian.mp3">*</a></span><a href="/wiki/File:PMLP194704-George_Gershwin_Lullaby_arr_Jeff_Manookian.mp3" title="File:PMLP194704-George Gershwin Lullaby arr Jeff Manookian.mp3">#403237</a> - 17.39MB - 9:30<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403237' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403237'>
+	<a href='javascript:void(0)' id='403237' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403237' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403237' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403237' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403237' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403237'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/403237/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/403237/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@403237" title="Special:GetFCtrStats/@403237">974</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a><span class="mh555"> (2015/12/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Orchester KOMP.ART<br />Christian Spitzenstaetter (conductor)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Windsor Editions
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-NoDerivs_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-NoDerivs 4.0">Creative Commons Attribution-NonCommercial-NoDerivs 4.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=403237">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=403237">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Recorded in Innsbruck, Austria
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="403237">Javascript is required for this feature.</div><script>JGINITsearchbars['403237']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP400776" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/400776"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Live Performance</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/20/PMLP194704-APAC_Orchestra_Lullaby_George_Gershwin_%281898_1937%29.mp3" class="internal" title="PMLP194704-APAC Orchestra Lullaby George Gershwin (1898 1937).mp3">*</a></span><a href="/wiki/File:PMLP194704-APAC_Orchestra_Lullaby_George_Gershwin_(1898_1937).mp3" title="File:PMLP194704-APAC Orchestra Lullaby George Gershwin (1898 1937).mp3">#400776</a> - 13.59MB - 7:25<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-400776' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-400776'>
+	<a href='javascript:void(0)' id='400776' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='400776' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='400776' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='400776' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='400776' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-400776'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/400776/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/400776/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@400776" title="Special:GetFCtrStats/@400776">245</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a><span class="mh555"> (2015/11/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Shanghai American School Orchestra (Pudong Campus)<br />Hanrich Claassen (conductor)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Windsor Editions
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=400776">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=400776">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Recorded in Shanghai, China
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="400776">Javascript is required for this feature.</div><script>JGINITsearchbars['400776']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP110540" class="we_file_first we_fileblock_3 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/110540"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Live Performance</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/32/PMLP194704-01-CANCION_DE_CUNA.mp3" class="internal" title="PMLP194704-01-CANCION DE CUNA.mp3">*</a></span><a href="/wiki/File:PMLP194704-01-CANCION_DE_CUNA.mp3" title="File:PMLP194704-01-CANCION DE CUNA.mp3">#110540</a> - 8.04MB - 8:47<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-110540' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-110540'>
+	<a href='javascript:void(0)' id='110540' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='110540' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='110540' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='110540' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='110540' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-110540'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/110540/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/110540/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@110540" title="Special:GetFCtrStats/@110540">6238</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a><span class="mh555"> (2011/7/23)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Manookian,_Jeff" title="Category:Manookian, Jeff">Jeff Manookian</a> (conductor)
+</td></tr>
+<tr>
+<th>Performers
+</th>
+<td>Orquesta de Tucumán (Argentina)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Windsor Editions
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_No_Derivatives_3.0" title="IMSLP:Creative Commons Attribution Non-commercial No Derivatives 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial No Derivatives 3.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=110540">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=110540">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Recorded in Tucumán, Argentina
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="110540">Javascript is required for this feature.</div><script>JGINITsearchbars['110540']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP517275" class="we_file_first we_fileblock_4 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/517275"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Live Performance</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7c/PMLP194704-GERSHWIN_Lullaby_mp3.mp3" class="internal" title="PMLP194704-GERSHWIN Lullaby mp3.mp3">*</a></span><a href="/wiki/File:PMLP194704-GERSHWIN_Lullaby_mp3.mp3" title="File:PMLP194704-GERSHWIN Lullaby mp3.mp3">#517275</a> - 18.76MB - 10:15<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-517275' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-517275'>
+	<a href='javascript:void(0)' id='517275' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='517275' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='517275' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='517275' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='517275' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-517275'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/517275/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/517275/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@517275" title="Special:GetFCtrStats/@517275">9</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a><span class="mh555"> (2018/3/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>South Anchorage (Alaska) Camerata<br />Nathan Levine, conductor
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Windsor Editions
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=517275">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=517275">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="517275">Javascript is required for this feature.</div><script>JGINITsearchbars['517275']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Scores (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore1_tab"><b><a href="#tabScore1">Parts (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">2</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Scores" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP508457" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/508457"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Parts</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f1/PMLP194704-Gershwin_Lullaby_Parts.pdf" class="internal" title="PMLP194704-Gershwin Lullaby Parts.pdf">*</a></span><a href="/wiki/File:PMLP194704-Gershwin_Lullaby_Parts.pdf" title="File:PMLP194704-Gershwin Lullaby Parts.pdf">#508457</a> - 0.16MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-508457' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-508457'>
+	<a href='javascript:void(0)' id='508457' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='508457' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='508457' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='508457' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='508457' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-508457'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/508457/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/508457/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <a href="/wiki/Special:GetFCtrStats/@508457" title="Special:GetFCtrStats/@508457">870</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:Michaeljviljoen" title="User:Michaeljviljoen">Michaeljviljoen</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Michaeljviljoen" title="User:Michaeljviljoen">Michaeljviljoen</a> (2018/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Viljoen,_Michael" title="Category:Viljoen, Michael">Michael Viljoen</a>&#160;(b. 1973)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michael Viljoen, 2018.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-ShareAlike 4.0">Creative Commons Attribution-ShareAlike 4.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=508457">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=508457">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="508457">Javascript is required for this feature.</div><script>JGINITsearchbars['508457']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_String_Orchestra_.28Manookian.29_2">For String Orchestra (Manookian)</span></h5>
+<div class="we"><div id="IMSLP94494" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/94494"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Full Score</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/PMLP194704-SCORE.pdf" class="internal" title="PMLP194704-SCORE.pdf">*</a></span><a href="/wiki/File:PMLP194704-SCORE.pdf" title="File:PMLP194704-SCORE.pdf">#94494</a> - 0.38MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-94494' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-94494'>
+	<a href='javascript:void(0)' id='94494' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='94494' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='94494' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='94494' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='94494' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-94494'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/94494/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/94494/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <a href="/wiki/Special:GetFCtrStats/@94494" title="Special:GetFCtrStats/@94494">27513</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Kerikan<br />
+<a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a> (<span title="Updated: 2011/3/13" class="hovertext">2011/2/28</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP94495" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/94495"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Parts</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/47/PMLP194704-SET_OF_PARTS.pdf" class="internal" title="PMLP194704-SET OF PARTS.pdf">*</a></span><a href="/wiki/File:PMLP194704-SET_OF_PARTS.pdf" title="File:PMLP194704-SET OF PARTS.pdf">#94495</a> - 1.19MB, 28 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-94495' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-94495'>
+	<a href='javascript:void(0)' id='94495' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='94495' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='94495' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='94495' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='94495' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-94495'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/94495/Lullaby_(Gershwin,_George)" title="Special:IMSLPEditCTag/94495/Lullaby (Gershwin, George)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>44</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <a href="/wiki/Special:GetFCtrStats/@94495" title="Special:GetFCtrStats/@94495">16191</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Kerikan<br />
+<a href="/wiki/User:Kerikan" title="User:Kerikan">Kerikan</a> (<span title="Updated: 2011/3/13" class="hovertext">2011/2/28</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Manookian,_Jeff" title="Category:Manookian, Jeff">Jeff Manookian</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Windsor Editiions
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_No_Derivatives_3.0" title="IMSLP:Creative Commons Attribution Non-commercial No Derivatives 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial No Derivatives 3.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=94494/94495">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=94494/94495">del</a>/<span id="fmrglnk" data-pdfstr="94494//94495/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="94494">Javascript is required for this feature.</div><script>JGINITsearchbars['94494']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Lullaby
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Gershwin,_George" title="Category:Gershwin, George">Gershwin, George</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IGG 9
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1948 - New York: New World Music
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>9 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Early_20th_century_style" title="Category:Early 20th century style">Early 20th century</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>2 violins, viola, cello
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.sheetmusicplus.com/composers/george-gershwin-sheet-music/1800756?Ntt=Lullaby&amp;narrow_by=Lullaby&amp;Ns=default&amp;recsPerPage=50&amp;id=298930"><i>Lullaby</i> - scores at Sheet Music Plus</a></span>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 453/1000000
+Post-expand include size: 39433/2097152 bytes
+Template argument size: 134/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:194704-0!*!0!!en!*!* and timestamp 20180414193203 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Lullaby_(Gershwin,_George)&amp;oldid=2569197">http://imslp.org/index.php?title=Lullaby_(Gershwin,_George)&amp;oldid=2569197</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WorkNonPD-US" title="Category:WorkNonPD-US">WorkNonPD-US</a></li><li><a href="/wiki/Category:Manookian,_Jeff/Performer" title="Category:Manookian, Jeff/Performer">Manookian, Jeff/Performer</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Viljoen,_Michael/Editor" title="Category:Viljoen, Michael/Editor">Viljoen, Michael/Editor</a></li><li><a href="/wiki/Category:Manookian,_Jeff/Arranger" title="Category:Manookian, Jeff/Arranger">Manookian, Jeff/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Gershwin,_George" title="Category:Gershwin, George">Gershwin, George</a></li><li><a href="/wiki/Category:Early_20th_century_style" title="Category:Early 20th century style">Early 20th century style</a></li><li><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a></li><li><a href="/wiki/Category:Lullabies" title="Category:Lullabies">Lullabies</a></li><li><a href="/wiki/Category:For_2_violins,_viola,_cello" title="Category:For 2 violins, viola, cello">For 2 violins, viola, cello</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:Scores_featuring_the_viola" title="Category:Scores featuring the viola">Scores featuring the viola</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:For_4_players" title="Category:For 4 players">For 4 players</a></li><li><a href="/wiki/Category:For_strings_(arr)" title="Category:For strings (arr)">For strings (arr)</a></li><li><a href="/wiki/Category:For_strings" title="Category:For strings">For strings</a></li><li><a href="/wiki/Category:Scores_featuring_string_ensemble" title="Category:Scores featuring string ensemble">Scores featuring string ensemble</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1948" title="Category:Works first published in 1948">Works first published in 1948</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Scores_with_links_to_Sheet_Music_Plus" title="Category:Scores with links to Sheet Music Plus">Scores with links to Sheet Music Plus</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Lullaby_%28Gershwin%2C_George%29">15,066 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Lullaby%20%28Gershwin%2C%20George%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.430 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414193203 -->
+</html>
+		

@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Piano Quintet (Franck, César) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Piano_Quintet_(Franck,_César)", "wgTitle": "Piano Quintet (Franck, César)", "wgCurRevisionId": 2524656, "wgArticleId": 4816, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Musicians from Marlboro/Performer", "Gardner Museum Recordings", "Recordings", "Pages with First Editions", "Sibley Mirroring Project", "Scores published by Edition Peters", "Scores", "Franck, César", "Romantic style", "Romantic", "Quintets", "For 2 violins, viola, cello, piano", "Scores featuring the violin", "Scores featuring the viola", "Scores featuring the cello", "Scores featuring the piano", "For 5 players", "Works first published in 1880", "Works first published in the 19th century", "Saint-Saëns, Camille/Dedicatee"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Piano_Quintet_Franck_César action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Piano_Quintet_(Franck,_C%C3%A9sar)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Piano_Quintet_(Franck,_C%C3%A9sar)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Piano_Quintet_(Franck,_C%C3%A9sar)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Piano_Quintet_(Franck,_C%C3%A9sar)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Piano_Quintet_(Franck,_C%C3%A9sar)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Piano_Quintet_(Franck,_C%C3%A9sar)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Piano_Quintet_(Franck,_C%C3%A9sar)&amp;oldid=2524656" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Piano%20Quintet%20%28Franck%2C%20C%C3%A9sar%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Piano Quintet (Franck, César)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 movements
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1880 ca.
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Quintets&amp;transclude=Template:Catintro">Quintets</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_violins%2C_viola%2C_cello%2C_piano&amp;transclude=Template:Catintro">For 2 violins, viola, cello, piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="expandline" title="4 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viola&amp;transclude=Template:Catintro">Scores featuring the viola</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_players&amp;transclude=Template:Catintro">For 5 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Piano Quintet","composer":"Franck, C\u00e9sar","comphref":"\/wiki\/Category:Franck,_C%C3%A9sar"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"piano quintet","itunes":"piano quintet","composer":"franck","scorekeywords":"piano quintet","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":94,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.553645.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.553645.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.553645","desc":"FRANCK: Piano Quintet \/ CHAUSSON: String Quartet","label":"Naxos","category":"Chamber Music - Classical Music","composer":"Chausson, Ernest -- Franck, C\u00e9sar","artist":"Levinas, Michael -- Ludwig Quartet","country":"France","catid":"8.553645","cdinfo":[[["Franck, C&#233;sar",[["Piano Quintet in F Minor","mediaplayer\/player.asp?br=128&tl=10799|10800|10801",[]]]],["Chausson, Ernest",[["String Quartet in C Minor, Op. 35","mediaplayer\/player.asp?br=128&tl=6824|6825|6826",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=9.70142.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=9.70142.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D9.70142","desc":"RITZEN, P.: Piano Quintet \/ FRANCK, C.: Piano Quintet (Ritzen, Moscow Chamber Academy)","label":"Naxos","category":"Chamber Music - Classical Music","composer":"Ritzen, Peter -- Franck, C\u00e9sar","artist":"Moscow Chamber Academy","country":"Belgium France","catid":"9.70142","cdinfo":[[["Ritzen, Peter",[["Piano Quintet in F-Sharp Minor","mediaplayer\/player.asp?br=128&tl=866503|866504|866505|866506",["I. Con moto","II. Scherzo: Vivo - Trio - Vivo","III. Adagio","IV. Finale: Arriaga Variations"]]]],["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=866532|866533|866534",["I. Molto moderato quasi lento","II.  Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=LY023.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=LY023.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DLY023","desc":"SCHUMANN, R.: Piano Quintet in E-Flat Major, Op. 44 \/ FRANCK, C.: Piano Quintet in F Minor (Ensemble Syntonia)","label":"Syntonia","category":"Chamber Music - Classical Music","composer":"Schumann, Robert -- Franck, C\u00e9sar","artist":"Ensemble Syntonia","country":"France Germany","catid":"LY023","cdinfo":[[["Schumann, Robert",[["Piano Quintet in E-Flat Major, Op. 44","mediaplayer\/player.asp?br=128&tl=1580199|1580200|1580201|1580202",["I. Allegro brillante","II. In modo d'una marcia. Un poco largamente","III. Scherzo: Molto vivace","IV. Allegro, ma non troppo"]]]],["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=1580203|1580204|1580205",["I. Molto moderato quasi lento","II.  Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.572009.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.572009.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.572009","desc":"FRANCK, C.: String Quartet in D Major \/ Piano Quintet in F Minor (Ortiz, Fine Arts Quartet)","label":"Naxos","category":"Chamber Music - Classical Music","composer":"Franck, C\u00e9sar","artist":"Ortiz, Cristina -- Fine Arts Quartet","country":"France","catid":"8.572009","cdinfo":[[["Franck, C&#233;sar",[["String Quartet in D Major, M. 9","mediaplayer\/player.asp?br=128&tl=590348|590349|590350|590351",["I. Poco lento - Allegro","II. Scherzo: Vivace","III. Larghetto","IV. Finale: Allegro molto"]],["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=590352|590353|590354",["I. Molto moderato quasi lento","II. Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=886445075731.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=886445075731.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D886445075731","desc":"DVO\u0158\u00c1K, A.: Piano Quintet, Op. 81 \/ FRANCK, C.: Piano Quintet (Heifetz, I. Baker, Primrose, Piatigorsky, Lateiner) [Heifetz Remastered]","label":"RCA Records","category":"Chamber Music - Classical Music","composer":"Dvo\u0159\u00e1k, Anton\u00edn -- Franck, C\u00e9sar","artist":"Heifetz, Jascha -- Primrose, William -- Pennario, Leonard -- Baker, Israel -- Lateiner, Jacob","country":"Czech Republic France","catid":"886445075731","cdinfo":[[["Dvo&#345;&#225;k, Anton&#237;n",[["Piano Quintet in A Major, Op. 81, B. 155","mediaplayer\/player.asp?br=128&tl=3119330|3119331|3119332|3119333",["I. Allegro ma non tanto","II. Dumka: Andante con moto","III. Scherzo (Furiant): Molto vivace","IV. Finale: Allegro"]]]],["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=3119334|3119335|3119336",["I. Molto moderato quasi lento","II.  Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=YR03.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=YR03.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DYR03","desc":"FRANCK, C.: String Quartet \/ Piano Quintet \/ Violin Sonata (Ysa\u00ffe String Quartet, Rog\u00e9)","label":"Ysaye Records","category":"Chamber Music - Classical Music","composer":"Franck, C\u00e9sar","artist":"Rog\u00e9, Pascal -- Ysaye String Quartet -- Sutre, Guillaume","country":"France","catid":"YR03","cdinfo":[[["Franck, C&#233;sar",[["String Quartet in D Major, M. 9","mediaplayer\/player.asp?br=128&tl=1942338|1942339|1942340|1942341",["I. Poco lento - Allegro","II. Scherzo: Vivace","III. Larghetto","IV. Finale: Allegro molto"]]]]],[["Franck, C&#233;sar",[["Violin Sonata in A Major, M. 8","mediaplayer\/player.asp?br=128&tl=1942342|1942343|1942344|1942345",["I. Allegretto ben moderato","II. Allegro","III. Recitativo - Fantasia: Ben moderato - Molto lento","IV. Allegretto poco mosso"]],["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=1942346|1942347|1942348",["I. Molto moderato quasi lento","II.  Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=IMV003.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=IMV003.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DIMV003","desc":"FRANCK, C.: Piano Quintet \/ FAURE, G.: Piano Quintet No. 2 (Perlemuter, Parrenin Quartet)","label":"INA Memoire vive","category":"Chamber Music - Classical Music","composer":"Faur\u00e9, Gabriel -- Franck, C\u00e9sar","artist":"Perlemuter, Vlado -- Parrenin Quartet","country":"France","catid":"IMV003","cdinfo":[[["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=1350282|1350283|1350284",["I. Molto moderato quasi lento","II.  Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]],["Faur&#233;, Gabriel",[["Piano Quintet No. 2 in C Minor, Op. 115","mediaplayer\/player.asp?br=128&tl=1350285|1350286|1350287|1350288",["I. Allegro moderato","II. Allegro vivo","III. Andante moderato","IV. Allegro molto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CDX-29001.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CDX-29001.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCDX-29001","desc":"FRANCK: Piano Quintet \/ FAURE: String Quartet","label":"Divox","category":"Chamber Music - Classical Music","composer":"Faur\u00e9, Gabriel -- Franck, C\u00e9sar","artist":"Amati Quartet -- Bartschi, Werner","country":"France","catid":"CDX-29001","cdinfo":[[["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=395161|395162|395163",[]]]],["Faur&#233;, Gabriel",[["String Quartet in E Minor, Op. 121","mediaplayer\/player.asp?br=128&tl=395164|395165|395166",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=Phoenix142.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=Phoenix142.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPhoenix142","desc":"FRANCK, C.: Piano Quintet \/ String Quartet (Petersen Quartet, Pizarro)","label":"Phoenix Edition","category":"Chamber Music - Classical Music","composer":"Franck, C\u00e9sar","artist":"Pizarro, Artur -- Petersen Quartet","country":"France","catid":"Phoenix142","cdinfo":[[["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=571052|571053|571054",["I. Molto moderato","II. Lento","III. Allegro non troppo"]],["String Quartet in D Major, M. 9","mediaplayer\/player.asp?br=128&tl=571055|571056|571057|571058",["I. Poco lento - Allegro","II. Scherzo: Vivace","III. Larghetto","IV. Finale - Allegro molto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.571278.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.571278.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.571278","desc":"MAHLER, G.: Piano Quartet \/ FRANCK, C.: Piano Quintet (Biret Archive Edition, Vol. 5)","label":"Idil Biret Archive","category":"Chamber Music - Classical Music","composer":"Mahler, Gustav -- Franck, C\u00e9sar","artist":"Biret, Idil -- London String Quartet","country":"Austria France","catid":"8.571278","cdinfo":[[["Mahler, Gustav",[["Piano Quartet in A Minor","mediaplayer\/player.asp?br=128&tl=847723",[]]]],["Franck, C&#233;sar",[["Piano Quintet in F Minor, M. 7","mediaplayer\/player.asp?br=128&tl=847724|847725|847726",["I. Molto moderato quasi lento","II.  Lento, con molto sentimento","III. Allegro non troppo ma con fuoco"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/franck%20piano%20quintet"};IMSLPNaxosSearch="franck piano quintet";JGaskdonation=0;JGFileTools={"83262":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/83262"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2383262"}},"40733":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40733"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40733\/40729\/40730\/40731\/40732\/3232"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40733"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=40733"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/40733"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40733"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2340733"}},"40729":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40729"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40733\/40729\/40730\/40731\/40732\/3232"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40729"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=40729"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/40729"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40729"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2340729"}},"40730":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40730"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40733\/40729\/40730\/40731\/40732\/3232"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40730"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=40730"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/40730"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40730"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2340730"}},"40731":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40731"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40733\/40729\/40730\/40731\/40732\/3232"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40731"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=40731"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/40731"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40731"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2340731"}},"40732":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40732"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40733\/40729\/40730\/40731\/40732\/3232"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40732"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=40732"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/40732"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40732"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2340732"}},"173697":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=173697"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/173697\/173698\/173699\/173700\/173701\/5979"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP173697"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=173697"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/173697"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/173697"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23173697"}},"173698":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=173698"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/173697\/173698\/173699\/173700\/173701\/5979"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP173698"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=173698"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/173698"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/173698"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23173698"}},"173699":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=173699"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/173697\/173698\/173699\/173700\/173701\/5979"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP173699"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=173699"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/173699"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/173699"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23173699"}},"173700":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=173700"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/173697\/173698\/173699\/173700\/173701\/5979"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP173700"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=173700"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/173700"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/173700"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23173700"}},"173701":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=173701"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/173697\/173698\/173699\/173700\/173701\/5979"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP173701"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=173701"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/173701"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/173701"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23173701"}},"1604":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=1604"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/1604\/1605\/1606\/8844"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP01604"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=1604"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/1604"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/1604"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2301604"}},"1605":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=1605"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/1604\/1605\/1606\/8844"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP01605"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=1605"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/1605"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/1605"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2301605"}},"1606":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=1606"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/1604\/1605\/1606\/8844"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP01606"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=1606"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/1606"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/1606"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Piano+Quintet+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2301606"}}};JGFileOpts={"83262":[],"40733":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgKkdL1vSn1grv7Ulyq4yDjb6PZogl2nD9WMUeKMokd5y+24I1b\/rfQfNtg8LQyzUrnqOdBNo7wzs\/2IQEL8aNNidX1QmkpwUIT0pVrk2pp\/Q=="},"40729":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biYcI8pSFAIEBqT0qwaqo2MpGiuQgEc4CqQ8aT\/9UwNJ4gbyWEGg9WRaF6OUz8u9uc1caxhhnHc6UsbuYkJWxYZ2P4q4aeqteAKn\/18xLJQkQ=="},"40730":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9qUK4HTB+BNC\/XGMNB6T6bX5\/\/r4QJAOh6zPAOtTXlwMFYYEd6Lcv8P66IU2dU8HyZQtwnshAW0RdevxhUwTHb7o64rXSFXNw2B6+quQFjg=="},"40731":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bicRHiWcrI9yuwc2q+1jAsbSiHv\/GCVSCwD187epgtkUCr7Wx+EY4bGYlTcrDPb1SBzNblJqv1YopUUsXrkm7jrrXysnNLee8tiJZNcwlu6jA=="},"40732":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi1g1oH0eGl2QJbvcJX76RzwmVpTENtSo5fv3uPanI2xwNbR2CC5BSTZ4ZB2MigPdoXYxigEnp7dlkmeRfBvBrSRZHr3RoZYUg5shEgNWASIw=="},"173697":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDO26OLuZ+x8qlwHPffKXeizzqdMu6SqoD6yZYvmAJJTqeb+IPEMl247XqIZOjZa1nyUN5m8shAkAPTUKy6mrLmOGTeyuHHwBFdCdhmwSmMw=="},"173698":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjns0VP7q4V1wlVlw+MAVUYHO1nqCT3XqGkbqvJjChXkSman9BBYt3CFC5r\/yClhlWwVWA1TgZJCdS\/\/ufX71ixT21BzVkOFjL+VY0gyRy7cg=="},"173699":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj\/2k6uZK9ttBBaEhalSbdem2zlDLl8svuzXyJz+GnpTgRBxP\/YR6cVHNlAoabcAc8AKVuc\/gICvf3jtO6ti\/C6zWtCU8b+MhvskUjY8eSffQ=="},"173700":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgsWTvqPbHdneO3oijr7X\/QYPttkzr3x8w5WZpJQ2MabcNr4FpX00ONc7EGeU8UEa+kjlyG\/Ve2jnRhmNBhsiHxWme+QOK2egmK\/9\/W9lH+OA=="},"173701":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bibbyxwcwNbnIG8hxGQ7VSpf5W\/z9X61Ohd\/qBwS51n1KBQtBR\/ENte+xn6dmmpK88K+MUkFLOmmaAfqpVokHeP2K8\/aR\/KCr1TIIuKZORYaQ=="},"1604":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgit\/\/0l+SnnyAXKD6r2Wjc719ZE6\/3nO0u15XczkqQlCRZhJYvhhszywA5Wd3ARJE="},"1605":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgywvUzPuoZ7uUBu55eKj756YxPx434NDsz1pi8GWHGB82KnueCX7I0NNLfAUdtsuc="},"1606":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bho9TzPI83IMXgZTcvECaxBNgYT2vvgl3b4EEbtcQvGnGasS804jAdOzzdPCPzjrDY="}};JGPageUntagged=false;JGPageTags=["quintets","2vn va vc pf"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore1":false,"tabArrTrans":true,"tabScore3":true,"tabScore4":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores and Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"1604":[4,"6"],"1605":[4.5,"2"],"1606":[6.5,"2"],"40729":[6.4444444444444,"9"],"40730":[7.3333333333333,"6"],"40731":[6.5,"4"],"40732":[6,"7"],"40733":[7.1904761904762,"21"],"83262":[7.25,"4"],"173697":[6.6,"10"],"173698":[10,"1"],"173699":[8,"4"],"173700":[10,"3"],"173701":[7.3333333333333,"3"]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores_and_Parts"><span class="tocnumber">2.1</span> <span class="toctext">Scores and Parts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Publication_History"><span class="tocnumber">4.1</span> <span class="toctext">Publication History</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">1</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<div class="we"><div id="IMSLP83262" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/83262"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e2/PMLP04816-franck_pnoquintetfminor.mp3" class="internal" title="PMLP04816-franck pnoquintetfminor.mp3">*</a></span><a href="/wiki/File:PMLP04816-franck_pnoquintetfminor.mp3" title="File:PMLP04816-franck pnoquintetfminor.mp3">#83262</a> - <span style="color:red"><b>31.26</b></span>MB - 34:08<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-83262' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-83262'>
+	<a href='javascript:void(0)' id='83262' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='83262' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='83262' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='83262' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='83262' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-83262'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/83262/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/83262/Piano Quintet (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@83262" title="Special:GetFCtrStats/@83262">3405</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a><span class="mh555"> (2010/10/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_83262'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"83262":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/e\/e2\/IMSLP83262-PMLP04816-franck_pnoquintetfminor.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Musicians_from_Marlboro" title="Category:Musicians from Marlboro"> Musicians from Marlboro</a> (ensemble)
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Boston: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.gardnermuseum.org/music/listen/music_library?filter=composer">Isabella Stewart Gardner Museum</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_No_Derivatives_3.0" title="IMSLP:Creative Commons Attribution Non-commercial No Derivatives 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial No Derivatives 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=83262">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=83262">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="83262">Javascript is required for this feature.</div><script>JGINITsearchbars['83262']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores and Parts (<span id="tabScore1_ct">13</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Other (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Source Files (<span id="tabScore4_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores_and_Parts">Scores and Parts</span></h3>
+<div class="we"><div id="IMSLP40733" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40733"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2d/SIBLEY1802.8059.56ba-39087009103278piano.pdf" class="internal" title="SIBLEY1802.8059.56ba-39087009103278piano.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.8059.56ba-39087009103278piano.pdf" title="File:SIBLEY1802.8059.56ba-39087009103278piano.pdf">#40733</a> - 7.23MB, 80 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40733' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40733'>
+	<a href='javascript:void(0)' id='40733' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40733' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40733' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40733' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40733' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40733'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40733/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/40733/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 10831"><a href="/wiki/Special:GetFCtrStats/@40733" title="Special:GetFCtrStats/@40733">10831</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/8059"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a> (2009/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>4 more</u>:</b> Violin I part • Violin II part • Viola part • Cello part
+</p>
+</div><div id="IMSLP40729" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40729"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin I part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/45/SIBLEY1802.8059.f09a-39087009103278violin1.pdf" class="internal" title="SIBLEY1802.8059.f09a-39087009103278violin1.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.8059.f09a-39087009103278violin1.pdf" title="File:SIBLEY1802.8059.f09a-39087009103278violin1.pdf">#40729</a> - 0.95MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40729' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40729'>
+	<a href='javascript:void(0)' id='40729' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40729' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40729' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40729' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40729' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40729'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40729/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/40729/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3507"><a href="/wiki/Special:GetFCtrStats/@40729" title="Special:GetFCtrStats/@40729">3507</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/8059"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a> (2009/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP40730" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40730"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin II part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/50/SIBLEY1802.8059.ca0f-39087009103278violin2.pdf" class="internal" title="SIBLEY1802.8059.ca0f-39087009103278violin2.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.8059.ca0f-39087009103278violin2.pdf" title="File:SIBLEY1802.8059.ca0f-39087009103278violin2.pdf">#40730</a> - 0.89MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40730' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40730'>
+	<a href='javascript:void(0)' id='40730' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40730' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40730' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40730' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40730' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40730'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40730/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/40730/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2145"><a href="/wiki/Special:GetFCtrStats/@40730" title="Special:GetFCtrStats/@40730">2145</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/8059"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a> (2009/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP40731" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40731"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Viola part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/49/SIBLEY1802.8059.50c3-39087009103278viola.pdf" class="internal" title="SIBLEY1802.8059.50c3-39087009103278viola.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.8059.50c3-39087009103278viola.pdf" title="File:SIBLEY1802.8059.50c3-39087009103278viola.pdf">#40731</a> - 0.89MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40731' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40731'>
+	<a href='javascript:void(0)' id='40731' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40731' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40731' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40731' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40731' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40731'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40731/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/40731/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2246"><a href="/wiki/Special:GetFCtrStats/@40731" title="Special:GetFCtrStats/@40731">2246</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/8059"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a> (2009/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP40732" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40732"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/08/SIBLEY1802.8059.aa50-39087009103278cello.pdf" class="internal" title="SIBLEY1802.8059.aa50-39087009103278cello.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.8059.aa50-39087009103278cello.pdf" title="File:SIBLEY1802.8059.aa50-39087009103278cello.pdf">#40732</a> - 0.86MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40732' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40732'>
+	<a href='javascript:void(0)' id='40732' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40732' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40732' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40732' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40732' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40732'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40732/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/40732/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2212"><a href="/wiki/Special:GetFCtrStats/@40732" title="Special:GetFCtrStats/@40732">2212</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/8059"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Matthieu" title="User:Matthieu">Matthieu</a> (2009/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Hamelle" title="Hamelle">Hamelle</a>, n.d. (ca.1880), plate J. 1746 H.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=40733/40729/40730/40731/40732">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=40733/40729/40730/40731/40732">del</a>/<span id="fmrglnk" data-pdfstr="40733//40729//40730//40731//40732/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="40733">Javascript is required for this feature.</div><script>JGINITsearchbars['40733']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=40733|40729|40730|40731|40732&type=Piano%20score%7CViolin%20I%20part%7CViolin%20II%20part%7CViola%20part%7CCello%20part&pgcount=80|12|12|12|12&signature=dbd817e086ca129b28359a4c56428344cd63474d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.8059.56ba-39087009103278piano.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2d/b8ebd6ab3c90e1acd72841e4c0dd71d7a08b6100.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP173697" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/173697"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a7/SIBLEY1802.18445.abda-39087009088248score.pdf" class="internal" title="SIBLEY1802.18445.abda-39087009088248score.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.18445.abda-39087009088248score.pdf" title="File:SIBLEY1802.18445.abda-39087009088248score.pdf">#173697</a> - 9.09MB, 81 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-173697' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-173697'>
+	<a href='javascript:void(0)' id='173697' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='173697' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='173697' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='173697' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='173697' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-173697'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/173697/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/173697/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3495"><a href="/wiki/Special:GetFCtrStats/@173697" title="Special:GetFCtrStats/@173697">3495</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/18445"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a> (2012/1/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>4 more</u>:</b> Violin 1 • Violin 2 • Viola • Cello
+</p>
+</div><div id="IMSLP173698" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/173698"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dd/SIBLEY1802.18445.8295-39087009088248violin1.pdf" class="internal" title="SIBLEY1802.18445.8295-39087009088248violin1.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.18445.8295-39087009088248violin1.pdf" title="File:SIBLEY1802.18445.8295-39087009088248violin1.pdf">#173698</a> - 1.22MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-173698' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-173698'>
+	<a href='javascript:void(0)' id='173698' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='173698' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='173698' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='173698' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='173698' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-173698'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/173698/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/173698/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1013"><a href="/wiki/Special:GetFCtrStats/@173698" title="Special:GetFCtrStats/@173698">1013</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/18445"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a> (2012/1/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP173699" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/173699"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/SIBLEY1802.18445.dab3-39087009088248violin2.pdf" class="internal" title="SIBLEY1802.18445.dab3-39087009088248violin2.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.18445.dab3-39087009088248violin2.pdf" title="File:SIBLEY1802.18445.dab3-39087009088248violin2.pdf">#173699</a> - 1.11MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-173699' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-173699'>
+	<a href='javascript:void(0)' id='173699' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='173699' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='173699' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='173699' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='173699' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-173699'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/173699/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/173699/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 731"><a href="/wiki/Special:GetFCtrStats/@173699" title="Special:GetFCtrStats/@173699">731</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/18445"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a> (2012/1/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP173700" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/173700"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Viola</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/ba/SIBLEY1802.18445.0882-39087009088248viola.pdf" class="internal" title="SIBLEY1802.18445.0882-39087009088248viola.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.18445.0882-39087009088248viola.pdf" title="File:SIBLEY1802.18445.0882-39087009088248viola.pdf">#173700</a> - 1.13MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-173700' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-173700'>
+	<a href='javascript:void(0)' id='173700' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='173700' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='173700' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='173700' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='173700' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-173700'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/173700/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/173700/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 771"><a href="/wiki/Special:GetFCtrStats/@173700" title="Special:GetFCtrStats/@173700">771</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/18445"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a> (2012/1/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP173701" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/173701"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b2/SIBLEY1802.18445.b37f-39087009088248cello.pdf" class="internal" title="SIBLEY1802.18445.b37f-39087009088248cello.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.18445.b37f-39087009088248cello.pdf" title="File:SIBLEY1802.18445.b37f-39087009088248cello.pdf">#173701</a> - 1.13MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-173701' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-173701'>
+	<a href='javascript:void(0)' id='173701' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='173701' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='173701' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='173701' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='173701' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-173701'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/173701/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/173701/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 808"><a href="/wiki/Special:GetFCtrStats/@173701" title="Special:GetFCtrStats/@173701">808</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/18445"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Aldona" title="User:Aldona">Aldona Jones</a> (2012/1/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Edition_Peters" title="Edition Peters">C.F. Peters</a><!--ASL0-->, No.3743, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001921&amp;teil=0203&amp;seite=00000042&amp;zoom=1">[1921]</a></span>.  Plate 10237.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=173697/173698/173699/173700/173701">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=173697/173698/173699/173700/173701">del</a>/<span id="fmrglnk" data-pdfstr="173697//173698//173699//173700//173701/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="173697">Javascript is required for this feature.</div><script>JGINITsearchbars['173697']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=173697|173698|173699|173700|173701&type=Piano%20Score%7CViolin%201%7CViolin%202%7CViola%7CCello&pgcount=81|12|12|12|12&signature=c570c879e3ab056cd31ef9e297d0cd35df7ff7b5"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.18445.abda-39087009088248score.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a7/b4a5a648a0aaa8789af4bb9f8c8cf07da14c45a1.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP01604" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/01604"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>I. Molto moderato quasi lento</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6a/Franck_quintet.pdf" class="internal" title="Franck quintet.pdf">*</a></span><a href="/wiki/File:Franck_quintet.pdf" title="File:Franck quintet.pdf">#01604</a> - 1.70MB, 34 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-1604' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-1604'>
+	<a href='javascript:void(0)' id='1604' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='1604' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='1604' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='1604' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='1604' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-1604'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/01604/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/01604/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2743"><a href="/wiki/Special:GetFCtrStats/@1604" title="Special:GetFCtrStats/@1604">2743</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Peter" title="User:Peter">Peter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by SMA<br />
+<a href="/wiki/User:Peter" title="User:Peter">Peter</a> (2006/9/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP01605" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/01605"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>II. Lento, con molto sentimento</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/51/Franck_quintet2.pdf" class="internal" title="Franck quintet2.pdf">*</a></span><a href="/wiki/File:Franck_quintet2.pdf" title="File:Franck quintet2.pdf">#01605</a> - 0.76MB, 13 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-1605' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-1605'>
+	<a href='javascript:void(0)' id='1605' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='1605' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='1605' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='1605' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='1605' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-1605'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/01605/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/01605/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1321"><a href="/wiki/Special:GetFCtrStats/@1605" title="Special:GetFCtrStats/@1605">1321</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Peter" title="User:Peter">Peter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by SMA<br />
+<a href="/wiki/User:Peter" title="User:Peter">Peter</a> (2006/9/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP01606" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/01606"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>III. Allegro non troppo, ma con fuoco</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8c/Franck_quintet3.pdf" class="internal" title="Franck quintet3.pdf">*</a></span><a href="/wiki/File:Franck_quintet3.pdf" title="File:Franck quintet3.pdf">#01606</a> - 1.48MB, 30 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-1606' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-1606'>
+	<a href='javascript:void(0)' id='1606' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='1606' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='1606' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='1606' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='1606' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-1606'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/01606/Piano_Quintet_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/01606/Piano Quintet (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1222"><a href="/wiki/Special:GetFCtrStats/@1606" title="Special:GetFCtrStats/@1606">1222</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Peter" title="User:Peter">Peter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by SMA<br />
+<a href="/wiki/User:Peter" title="User:Peter">Peter</a> (2006/9/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Edition_Peters" title="Edition Peters">C.F. Peters</a><!--ASL1-->, No.3743, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001921&amp;teil=0203&amp;seite=00000042&amp;zoom=1">[1921]</a></span>.  Plate 10237.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Mineola: <a href="/wiki/Dover_Publications" title="Dover Publications">Dover Publications</a>, 1991.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=1604/1605/1606">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=1604/1605/1606">del</a>/<span id="fmrglnk" data-pdfstr="1604//1605//1606/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="1604">Javascript is required for this feature.</div><script>JGINITsearchbars['1604']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=1604|1605|1606&type=I.%20Molto%20moderato%20quasi%20lento%7CII.%20Lento%2C%20con%20molto%20sentimento%7CIII.%20Allegro%20non%20troppo%2C%20ma%20con%20fuoco&pgcount=34|13|30&signature=f87b8d71b38695d4b08389dd90b5b59e9b061122"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Franck_quintet.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6a/c8e922a0f9bdbd5f48abf83ce06a0a1e0e89c826.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores and Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Other" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="source" data-name="Source Files" data-tabid="tabScore4"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Quintette en Fa mineur, pour piano, 2 violins, alto et violoncelle
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Piano Quintet
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Franck,_C%C3%A9sar" title="Category:Franck, César">Franck, César</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>FWV 7
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ICF 42
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 movements:<br />I. Molto moderato quasi lento<br />II. Lento, con molto sentimento<br />III. Allegro non troppo, ma con fuoco
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1880 January 17
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1880 ca.
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td><a href="/wiki/Category:Saint-Sa%C3%ABns,_Camille" title="Category:Saint-Saëns, Camille">Camille Saint-Saëns</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>2 violins, viola, cello, piano
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Piano_Quintet_(Franck)" class="extiw" title="wikipedia:Piano Quintet (Franck)">Wikipedia article</a>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<h3> <span class="mw-headline" id="Publication_History">Publication History</span></h3>
+<ul><li> Paris&#160;: J. Hamelle, n.d. [188x]. Plate J.1746H
+</li><li> Leipzig: C.F. Peters
+</li><li> London: Eulenburg no. 329. Pl. no.: E.E. 3328. (miniature score)
+</li></ul>
+<p>Reprint:
+</p>
+<ul><li> New York: Dover Publications, 1991.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 721/1000000
+Post-expand include size: 59481/2097152 bytes
+Template argument size: 2259/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:4816-0!*!0!!en!2!* and timestamp 20180416123008 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Piano_Quintet_(Franck,_C%C3%A9sar)&amp;oldid=2524656">http://imslp.org/index.php?title=Piano_Quintet_(Franck,_C%C3%A9sar)&amp;oldid=2524656</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Musicians_from_Marlboro/Performer" title="Category:Musicians from Marlboro/Performer">Musicians from Marlboro/Performer</a></li><li><a href="/wiki/Category:Gardner_Museum_Recordings" title="Category:Gardner Museum Recordings">Gardner Museum Recordings</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores_published_by_Edition_Peters" title="Category:Scores published by Edition Peters">Scores published by Edition Peters</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Franck,_C%C3%A9sar" title="Category:Franck, César">Franck, César</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Quintets" title="Category:Quintets">Quintets</a></li><li><a href="/wiki/Category:For_2_violins,_viola,_cello,_piano" title="Category:For 2 violins, viola, cello, piano">For 2 violins, viola, cello, piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:Scores_featuring_the_viola" title="Category:Scores featuring the viola">Scores featuring the viola</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_5_players" title="Category:For 5 players">For 5 players</a></li><li><a href="/wiki/Category:Works_first_published_in_1880" title="Category:Works first published in 1880">Works first published in 1880</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Saint-Sa%C3%ABns,_Camille/Dedicatee" title="Category:Saint-Saëns, Camille/Dedicatee">Saint-Saëns, Camille/Dedicatee</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Piano_Quintet_%28Franck%2C_C%C3%A9sar%29">11,919 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Piano%20Quintet%20%28Franck%2C%20C%C3%A9sar%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.540 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416123008 -->
+</html>
+		

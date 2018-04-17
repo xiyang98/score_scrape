@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Ricercar a 4 (Hassler, Hans Leo) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Ricercar_a_4_(Hassler,_Hans_Leo)", "wgTitle": "Ricercar a 4 (Hassler, Hans Leo)", "wgCurRevisionId": 1384308, "wgArticleId": 352414, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WIMA files", "Haas, Eric/Arranger", "Rondeau, Michel/Arranger", "Scores", "Hassler, Hans Leo", "Renaissance style", "Renaissance", "Ricercars", "For organ", "Scores featuring the organ", "For 1 player", "For 4 recorders (arr)", "For 4 players", "Scores featuring the recorder", "For 4 viols (arr)", "Scores featuring the viol", "For 2 trumpets, 2 trombones (arr)", "Scores featuring the trumpet", "Scores featuring the trombone", "Pages with arrangements"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ricercar_a_4_Hassler_Hans_Leo action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Ricercar_a_4_(Hassler,_Hans_Leo)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Ricercar_a_4_(Hassler,_Hans_Leo)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Ricercar_a_4_(Hassler,_Hans_Leo)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Ricercar_a_4_(Hassler,_Hans_Leo)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Ricercar_a_4_(Hassler,_Hans_Leo)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Ricercar_a_4_(Hassler,_Hans_Leo)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Ricercar_a_4_(Hassler,_Hans_Leo)&amp;oldid=1384308" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Ricercar%20a%204%20%28Hassler%2C%20Hans%20Leo%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Ricercar a 4 (Hassler, Hans Leo)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Ricercars&amp;transclude=Template:Catintro">Ricercars</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="expandline" title="9 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_recorders_%28arr%29&amp;transclude=Template:Catintro">For 4 recorders (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_players&amp;transclude=Template:Catintro">For 4 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_recorder&amp;transclude=Template:Catintro">Scores featuring the recorder</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_viols_%28arr%29&amp;transclude=Template:Catintro">For 4 viols (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viol&amp;transclude=Template:Catintro">Scores featuring the viol</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_trumpets%2C_2_trombones_%28arr%29&amp;transclude=Template:Catintro">For 2 trumpets, 2 trombones (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_trumpet&amp;transclude=Template:Catintro">Scores featuring the trumpet</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_trombone&amp;transclude=Template:Catintro">Scores featuring the trombone</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Ricercar a 4","composer":"Hassler, Hans Leo","comphref":"\/wiki\/Category:Hassler,_Hans_Leo"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"ricercar a 4","itunes":"ricercar a 4","composer":"hassler","scorekeywords":"ricercar a 4","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":9,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=KTC1409.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=KTC1409.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DKTC1409","desc":"HASSLER, H.L.: Sacred and Secular Music (Currende Vocal Ensemble, Currende Instrumental Ensemble, Nevel)","label":"Etcetera","category":"Chamber Music - Classical Music","composer":"Hassler, Hans Leo","artist":"Nevel, Erik van -- Currende Instrumental Ensemble","country":"Germany","catid":"KTC1409","cdinfo":[[["Hassler, Hans Leo",[["Psalmen und christliche gesang (excerpts)","mediaplayer\/player.asp?br=128&tl=1074151|1074152",["Hertzlich lieb hab ich dich","O Mensch, bewein dein Sunde gross"]]]],["Hassler, Hans Leo",[["Cantiones sacrae de festis praecipuis totius anni: Deus, Deus meus","mediaplayer\/player.asp?br=128&tl=1074153",[]],["Sacri concentus (excerpts)","mediaplayer\/player.asp?br=128&tl=1074154|1074155|1074156",["Exsultate Deo","Veni, sancte spiritus","Hodie completi sunt dies pentecostes"]],["Cantiones sacrae de festis praecipuis totius anni (excerpts)","mediaplayer\/player.asp?br=128&tl=1074157|1074158|1074159",["Dum complerentur dies pentecostes","Nunc dimittis servum tuum","Vincula dum Christus terit"]]]],["Hassler, Hans Leo",[["Cantiones sacrae de festis praecipuis totius anni (excerpts)","mediaplayer\/player.asp?br=128&tl=1078359|1078360",["Ricercar in G Major","Ricercar in C Major  Ricercar"]]]],["Hassler, Hans Leo",[["Sacri concentus (excerpts)","mediaplayer\/player.asp?br=128&tl=1074162|1074163",["Ad Dominum, cum tribularer","Laudem dicite Deo nostro"]],["Cantiones sacrae de festis praecipuis totius anni: Nos autem populus ejus","mediaplayer\/player.asp?br=128&tl=1074164",[]],["Sacri concentus (excerpts)","mediaplayer\/player.asp?br=128&tl=1074165|1074166|1074167",["O Domine Jesu Christe","O sacrum convivium","Domine, Deus meus"]]]],["Hassler, Hans Leo",[["Psalmen und christliche gesang (excerpts)","mediaplayer\/player.asp?br=128&tl=1074168|1074169|1074170|1074171",["Auss tieffer noth schrey ich zu dir","Und ob es wert biss in die nacht","Ob bey uns ist der sunde vil","Ehr sey dem Vater und dem Son"]]]]],[["Hassler, Hans Leo",[["Lustgarten neuer teutscher Gesang, Balletti, Gaillarden und Intraden (excerpts)","mediaplayer\/player.asp?br=128&tl=1078346|1078347|1078348|1078349|1078350",["Intrada I","Intrada II","Intrada III","Intrada IV","Intrada VII"]],["Neue teutsche Gesang nach Art der welschen Madrigalien und Canzonetten (excerpts)","mediaplayer\/player.asp?br=128&tl=1074178|1074179|1074180|1074181|1074182",["Nun fanget an ein guts Liedlein zu singen","Schons Lieb, du machst mir angst","Feinslieb, du hast mich gfangen","Herzlieb, zu dir allein","Von dir kan ich nicht scheyden"]]]],["Hassler, Hans Leo",[["Sacri concentus: Canzona","mediaplayer\/player.asp?br=128&tl=1074183",[]],["Madrigali (excerpts)","mediaplayer\/player.asp?br=128&tl=1074184|1074185|1074186|1074187|1074188",["Musica e lo mio core","Tessea catena d'oro","O dolci lagrimette","Vattene pur crudel","Care lagrime mie"]],["Lustgarten neuer teutscher Gesang, Balletti, Gaillarden und Intraden (excerpts)","mediaplayer\/player.asp?br=128&tl=1074189|1074190",["Mein Gmuth ist mir verwirret","Tantzen und springen"]],["Canzonette (excerpts)","mediaplayer\/player.asp?br=128&tl=1074191|1074192|1074193|1074194",["Mi sento ohime morire","Fuggendo andai per boschi","O tu che mi dai pene","Vivan sempre i pastori"]]]],["Hassler, Hans Leo",[["Lustgarten neuer teutscher Gesang, Balletti, Gaillarden und Intraden (excerpts)","mediaplayer\/player.asp?br=128&tl=1078352|1078353",["Intrada V","Gagliarde"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=RAM0501.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=RAM0501.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DRAM0501","desc":"HASSLER, J.: Harpsichord Music (Ich gieng einmal spatieren) (Berben)","label":"Ramee","category":"Instrumental - Classical Music","composer":"Hassler, Hans Leo -- Hassler, Jakob","artist":"Berben, Leon","country":"Germany","catid":"RAM0501","cdinfo":[[["Hassler, Jakob",[["Toccata di quarto tono","mediaplayer\/player.asp?br=128&tl=1567990",[]],["Ricercar","mediaplayer\/player.asp?br=128&tl=1567991",[]],["Ricercar del primo tuono","mediaplayer\/player.asp?br=128&tl=1568014",[]],["Fantasia noni toni","mediaplayer\/player.asp?br=128&tl=1568036",[]],["Canzon","mediaplayer\/player.asp?br=128&tl=1568094",[]],["Fuga septimi toni","mediaplayer\/player.asp?br=128&tl=1568095",[]]]],["Hassler, Hans Leo",[["Variations on Ich gieng einmal spatieren","mediaplayer\/player.asp?br=128&tl=1568179",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HMU907388.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HMU907388.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHMU907388","desc":"NEUSIEDLER, M.: Lute Music (O'Dette)","label":"Harmonia Mundi","category":"Instrumental - Classical Music","composer":"Arcadelt, Jacques -- Crecquillon, Thomas -- Rore, Cipriano de -- Hassler, Hans Leo -- Neusiedler, Melchior -- Berchem, Jacquet de","artist":"O'Dette, Paul","country":"Belgium France Germany Netherlands","catid":"HMU907388","cdinfo":[[["Neusiedler, Melchior",[["Wie mocht ich frohlich werden","mediaplayer\/player.asp?br=128&tl=1949628",[]],["Ricercar terzo","mediaplayer\/player.asp?br=128&tl=1949629",[]]]],["Crecquillon, Thomas",[["Un gai bergier (arr. M. Neusiedler for lute)","mediaplayer\/player.asp?br=128&tl=1949630",[]]]],["Neusiedler, Melchior",[["Pass'e mezzo antico con il suo saltarello","mediaplayer\/player.asp?br=128&tl=1949631",[]],["Der fuggerin dantz","mediaplayer\/player.asp?br=128&tl=1949632",[]],["Il primo libro intabolatura di liuto: Ricercar secondo","mediaplayer\/player.asp?br=128&tl=1949633",[]],["Ich gieng einmal spatzieren","mediaplayer\/player.asp?br=128&tl=1949634",[]]]],["Arcadelt, Jacques",[["O felici occhi miei (arr. M. Neusiedler for lute)","mediaplayer\/player.asp?br=128&tl=1949635",[]]]],["Neusiedler, Melchior",[["Il secondo libro intabolatura di liuto: Ricercar secondo","mediaplayer\/player.asp?br=128&tl=1949636",[]],["Beschaffens gluck ist unversammpt","mediaplayer\/player.asp?br=128&tl=1949637",[]],["Fantasia","mediaplayer\/player.asp?br=128&tl=1949638",[]],["Der Dornsanen Dantz mit Hupffauff","mediaplayer\/player.asp?br=128&tl=1949639",[]],["Phantasia","mediaplayer\/player.asp?br=128&tl=1949640",[]]]],["Hassler, Hans Leo",[["Cara mia dolce stella (arr. M. Neusiedler for lute)","mediaplayer\/player.asp?br=128&tl=1949641",[]]]],["Neusiedler, Melchior",[["Chi passa per sta strada","mediaplayer\/player.asp?br=128&tl=1949642",[]],["Wann ich des Morgens fruh auffsteh","mediaplayer\/player.asp?br=128&tl=1949643",[]]]],["Berchem, Jacquet de",[["O s'io potessi donna (arr. M. Neusiedler for lute)","mediaplayer\/player.asp?br=128&tl=1949644",[]]]],["Neusiedler, Melchior",[["Fantasia No. 21","mediaplayer\/player.asp?br=128&tl=1949645",[]],["Psalm 103, \"Nun lob mein Seel den herren\"","mediaplayer\/player.asp?br=128&tl=1949646",[]],["Herr gott nun sey gepreyset","mediaplayer\/player.asp?br=128&tl=1949647",[]],["Joseph lieber Joseph mein","mediaplayer\/player.asp?br=128&tl=1949648",[]],["Pass'e mezzo e saltarello","mediaplayer\/player.asp?br=128&tl=1949649",[]]]],["Rore, Cipriano de",[["Ancor che col partire (arr. M. Neusiedler for lute)","mediaplayer\/player.asp?br=128&tl=1949650",[]]]],["Neusiedler, Melchior",[["Fantasia super ancor che col partire","mediaplayer\/player.asp?br=128&tl=1949651",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HCD11720.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HCD11720.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHCD11720","desc":"GEMS OF RENAISSANCE MUSIC (THE)","label":"Hungaroton","category":"Chamber Music - Classical Music","composer":"Anonymous -- Bruck, Arnold von -- Isaac, Heinrich -- Praetorius, Michael -- Vallet, Nicolas -- Clemens non Papa, Jacobus -- Josquin des Prez, -- Gabrieli, Andrea -- Susato, Tylman -- Sandrin, Pierre -- Janequin, Cl\u00e9ment -- Dowland, John -- Hassler, Hans Leo -- Attaingnant, Pierre -- Jan z Lublina, -- Phalese, Pierre -- Le Roy, Adrian -- Lupi II, Didier -- Maschera, Florentio -- Lasso, Orlando di -- Tartaglino, Hippolito -- Bulman, Baruch -- Grefinger, Wolfgang -- Millot, Nicolas","artist":"Czidra, Laszlo -- Pertis, Zsuzsa -- Lugosi, Melinda -- Benko, Daniel -- Camerata Hungarica -- Studio vocals -- Tody, Eva Ilona -- Hajnoczi, Katalin","country":"Belgium France Germany Italy Netherlands Poland United Kingdom","catid":"HCD11720","cdinfo":[[["Susato, Tylman",[["Danserye: Ronde No. 5. Wo bistu?","mediaplayer\/player.asp?br=128&tl=2158912",[]]]],["Isaac, Heinrich",[["Innsbruck, ich muss dich lassen","mediaplayer\/player.asp?br=128&tl=2158913",[]]]],["Maschera, Florentio",[["Libro primo de canzoni da sonare a quattro voci: Canzon, \"La Maggia\"","mediaplayer\/player.asp?br=128&tl=2158914",[]]]],["Clemens non Papa, Jacobus",[["Je prens en gre la dure mort","mediaplayer\/player.asp?br=128&tl=2158915",[]]]],["Lupi II, Didier",[["Susanne un jour d'amour sollicitee: Cantus firmus - Susanne un jour: Chanson a 5","mediaplayer\/player.asp?br=128&tl=2158916",[]]]],["Dowland, John",[["Lachrimae, \"Seaven Teares\": XVI. M. Buctons Galiard","mediaplayer\/player.asp?br=128&tl=2158917",[]]]],["Tartaglino, Hippolito",[["Canzon sopra Susanna","mediaplayer\/player.asp?br=128&tl=2158918",[]]]],["Grefinger, Wolfgang",[["Ach Gott, wem soll ichs klagen","mediaplayer\/player.asp?br=128&tl=2158919",[]]]],["Anonymous",[["Gallicum [Carmina Germanica et Gallica, 16th Century]","mediaplayer\/player.asp?br=128&tl=2158920",[]]]],["Millot, Nicolas",[["Susane un jour","mediaplayer\/player.asp?br=128&tl=2158921",[]]]],["Attaingnant, Pierre",[["Danceries, Book 3: Allemande Et d'ou venez vous - Madame Lucette - Allemandes 2, 6, 5, 4","mediaplayer\/player.asp?br=128&tl=2158922",[]]]],["Le Roy, Adrian",[["Briefve et facile instruction: Almande","mediaplayer\/player.asp?br=128&tl=2158923",[]]]],["Bruck, Arnold von",[["So trinken wir alle","mediaplayer\/player.asp?br=128&tl=2158924",[]]]],["Jan z Lublina,",[["Chorea","mediaplayer\/player.asp?br=128&tl=2158925",[]]]],["Prez, Josquin des",[["In te Domine speravi per trovar pieta","mediaplayer\/player.asp?br=128&tl=2158926",[]]]],["Jan z Lublina,",[["Chorea","mediaplayer\/player.asp?br=128&tl=2158927",[]]]],["Sandrin, Pierre",[["Ce qui m'est deu et ordonne - Liber Primus Leviorum Carminum: Galliard","mediaplayer\/player.asp?br=128&tl=2158928",[]]]],["Bulman, Baruch",[["Pavan","mediaplayer\/player.asp?br=128&tl=2158929",[]]]],["Janequin, Cl&#233;ment",[["Tresves d'amours","mediaplayer\/player.asp?br=128&tl=2158930",[]]]],["Susato, Tylman",[["Danserye: No. 10. Mon desir","mediaplayer\/player.asp?br=128&tl=2158931",[]]]],["Anonymous",[["La pastorella si leva per tempo","mediaplayer\/player.asp?br=128&tl=2158932",[]]]],["Gabrieli, Andrea",[["Ricercar del primo tuono alla quarta alta (Libro Secondo, 1595)","mediaplayer\/player.asp?br=128&tl=2158933",[]]]],["Praetorius, Michael",[["Terpsichore: Spagnoletta a 4 - Le secret des Muses: Allemande fortune helas pourquoy","mediaplayer\/player.asp?br=128&tl=2158934",[]]]],["Hassler, Hans Leo",[["Lustgarten neuer teutscher Gesang, Balletti, Gaillarden und Intraden: Intrada","mediaplayer\/player.asp?br=128&tl=2158935",[]]]],["Anonymous",[["Un cavalier di spagna [Apografo Miscellaneo Marciano]","mediaplayer\/player.asp?br=128&tl=2158936",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=3229262064323.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=3229262064323.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D3229262064323","desc":"Chamber Music (Baroque) - ROSENMULLER, J. \/ SCHULTZ, J. \/ SCHEIN, J.H. (Deutsche Barock-Kammermusik VII) (Verbruggen, Flanders Recorder Quartet)","label":"Ricercar","category":"Chamber Music - Classical Music","composer":"Engelmann, Georg -- Scheidt, Samuel -- Schein, Johann Hermann -- Schop, Johann -- Rosenmuller, Johann -- Hassler, Hans Leo -- Schultz, Johannes -- Luetkeman, Paul","artist":"Verbruggen, Marion -- Flanders Recorder Quartet","country":"Denmark Germany Poland","catid":"3229262064323","cdinfo":[[["Rosenmuller, Johann",[["12 Sonatas (1682): Sonata No. 11 a 5 in D Major","mediaplayer\/player.asp?br=128&tl=1618647",[]]]],["Luetkeman, Paul",[["Fantasia, \"Innsbruck, ich muss dich lassen\"","mediaplayer\/player.asp?br=128&tl=1618648",[]]]],["Schultz, Johannes",[["40 Neuwe ausserlesene schone liebliche Paduanen, Intraden und Galliard: Passamezzo-Variationen","mediaplayer\/player.asp?br=128&tl=1618649",[]]]],["Schein, Johann Hermann",[["Suite No. 12","mediaplayer\/player.asp?br=128&tl=1618650",[]]]],["Schop, Johann",[["Padouana 57","mediaplayer\/player.asp?br=128&tl=1618651",[]]]],["Scheidt, Samuel",[["Canzon No. 28, SSWV 66, \"Canzon super O Nachbar Roland\"","mediaplayer\/player.asp?br=128&tl=1618652",[]]]],["Hassler, Hans Leo",[["Canzon duodecimi toni (arr. for flute quintet)","mediaplayer\/player.asp?br=128&tl=1618653",[]]]],["Engelmann, Georg",[["Paduana Doaga - Gaillarde Zibotte","mediaplayer\/player.asp?br=128&tl=1618654",[]]]],["Rosenmuller, Johann",[["12 Sonatas (1682): Sonata No. 7 a 4 in A Minor","mediaplayer\/player.asp?br=128&tl=1618655",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MIR236.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MIR236.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMIR236","desc":"FOLLE JOURN\u00c9E F\u00caTE SES 20 ANS (LA)","label":"Mirare","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Alb\u00e9niz, Isaac -- Bach, Johann Sebastian -- Gimenez, Jeronimo -- McHugh, Jimmy -- Purcell, Henry -- Rachmaninov, Sergey -- Ravel, Maurice -- Satie, Erik -- Scarlatti, Domenico -- Schubert, Franz -- Pergolesi, Giovanni Battista -- Vivaldi, Antonio -- Liszt, Franz -- Handel, George Frideric -- Haydn, Franz Joseph -- Mendelssohn, Felix -- Schumann, Robert -- Soler, Antonio -- Chopin, Fryderyk -- Barber, Samuel -- Beethoven, Ludwig van -- Bizet, Georges -- Dvo\u0159\u00e1k, Anton\u00edn -- Faur\u00e9, Gabriel -- Grieg, Edvard -- Strauss, Richard -- Rimsky-Korsakov, Nikolay Andreyevich -- Borodin, Alexander Porfir'yevich -- Brahms, Johannes -- Debussy, Claude -- Gavrilin, Valery Aleksandrovich","artist":"Keohane, Maria -- Vassiljeva, Tatjana -- MacLeod, Stephan -- Pierlot, Philippe -- Tena, Lucero -- Kobow, Jan -- Mammel, Hans J\u00f6rg -- Fuge, Katherine -- Perrot, Benjamin -- Hantai, Pierre -- Corboz, Michel -- Nelson, John -- Kantorow, Jean-Jacques -- Chamber Orchestra of Europe -- Wallonie Royal Chamber Orchestra -- Bordeaux Aquitaine National Orchestra -- Beaugiraud, Patrick -- Dumay, Augustin -- Korobeinikov, Andrei -- Bolton, Florence -- Ryan, Kwame -- Desert, Claire -- Sinfonia Varsovia -- Lamoureux Orchestra -- Berezovsky, Boris -- Rial, Nuria -- Zander, Anna -- Jensen, Eivind Gullberg -- Mena, Carlos -- Scheen, Celine -- Queffelec, Anne -- Strosser, Emmanuel -- Engerer, Brigitte -- Ensemble Orchestral de Paris -- Zhu, Xiao-Mei -- Guyot, Romain -- Neuburger, Jean-Frederic -- Le Guay, Claire-Marie -- Karoui, Faycal -- Liss, Dmitry -- Ricercar Consort -- Yamada, Kazuki -- Lausanne Instrumental Ensemble -- Ural Philharmonic Orchestra -- Colliard, Gilles -- Perez, Luis Fernando -- Modigliani Quartet -- Giusiano, Philippe -- Diluka, Shani -- Reveuse, La -- Bonnard, Valerie -- Trio Chausson -- Inoue, Noriko -- Poincheval, Penelope -- Pessi, Giovanna -- Hassler, Julie -- Ensemble Barbaroque -- Renegades Steel Band Orchestra -- Tchernouchenko, Vladislav -- Rossfelder, Emmanuel -- Rodriguez, Veronika -- Cote Quest Big Band -- Vidal, Jean-Philippe","country":"Austria Czech Republic France Germany Hungary Italy Norway Poland Russia Spain United Kingdom United States","catid":"MIR236","cdinfo":[[["Bach, Johann Sebastian",[["Magnificat in D Major, BWV 243: Magnificat anima mea","mediaplayer\/player.asp?br=128&tl=2080589",[]]]],["Bach, Johann Sebastian",[["Oboe d'amore Concerto in A Major, BWV 1055: I. Allegro","mediaplayer\/player.asp?br=128&tl=2080590",[]],["Gottes Zeit ist die allerbeste Zeit, BWV 106: Sinfonia","mediaplayer\/player.asp?br=128&tl=2080591",[]]]],["Vivaldi, Antonio",[["Nisi Dominus, RV 608: Cum dederit","mediaplayer\/player.asp?br=128&tl=2080592",[]]]],["Bach, Johann Sebastian",[["Magnificat in D Major, BWV 243: Et misericorda","mediaplayer\/player.asp?br=128&tl=2092594",[]]]],["Handel, George Frideric",[["Tra le fiamme, HWV 170: Aria: Voli per l'aria","mediaplayer\/player.asp?br=128&tl=2080594",[]]]],["Scarlatti, Domenico",[["Keyboard Sonata in B Minor, K.27\/L.449\/P.83","mediaplayer\/player.asp?br=128&tl=2080595",[]]]],["Bach, Johann Sebastian",[["The Well-Tempered Clavier, Book 1, BWV 846 - 869: Prelude in E Minor, BWV 855a (arr. A. Siloti)","mediaplayer\/player.asp?br=128&tl=2092595",[]]]],["Bach, Johann Sebastian",[["The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude No. 1 in C Major, BWV 846","mediaplayer\/player.asp?br=128&tl=2080597",[]]]],["Soler, Antonio",[["Keyboard Sonata No. 129 in E Minor","mediaplayer\/player.asp?br=128&tl=2080598",[]]]],["Handel, George Frideric",[["Organ Concerto No. 6 in B-Flat Major, Op. 4, No. 6, HWV 294: I. Andante - Allegro","mediaplayer\/player.asp?br=128&tl=2080599",[]]]],["Purcell, Henry",[["Dido and Aeneas, Z. 626, Act II: The Grove","mediaplayer\/player.asp?br=128&tl=2080600",[]]]],["Purcell, Henry",[["Oedipus, King of Thebes, Z. 583: Music for a While","mediaplayer\/player.asp?br=128&tl=2080601",[]]]],["Pergolesi, Giovanni Battista",[["Stabat mater: Stabat mater dolorosa","mediaplayer\/player.asp?br=128&tl=2080602",[]]]],["Bach, Johann Sebastian",[["Mass in A Major, BWV 234: Qui tollis peccata mundi","mediaplayer\/player.asp?br=128&tl=2080603",[]],["Mass in B Minor, BWV 232: Agnus dei","mediaplayer\/player.asp?br=128&tl=2080604",[]]]],["Bach, Johann Sebastian",[["Nach dir, Herr, verlanget mich, BWV 150: Ciaccona","mediaplayer\/player.asp?br=128&tl=2080605",[]]]],["Vivaldi, Antonio",[["The 4 Seasons: Violin Concerto in F Minor, Op. 8, No. 4, RV 297, \"L'inverno\" (Winter): III. Allegro (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2092596",[]]]]],[["Haydn, Franz Joseph",[["Cello Concerto No. 1 in C Major, Hob.VIIb:1: II. Adagio","mediaplayer\/player.asp?br=128&tl=2081398",[]]]],["Mozart, Wolfgang Amadeus",[["Clarinet Concerto in A Major, K. 622: II. Adagio","mediaplayer\/player.asp?br=128&tl=2081399",[]]]],["Schubert, Franz",[["Piano Quintet in A Major, Op. 114, D. 667, \"Die Forelle\" (The Trout): IV. Tema con variazioni","mediaplayer\/player.asp?br=128&tl=2081400",[]]]],["Mozart, Wolfgang Amadeus",[["Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato","mediaplayer\/player.asp?br=128&tl=2081401",[]]]],["Beethoven, Ludwig van",[["Piano Sonata No. 17 in D Minor, Op. 31, No. 2, \"Tempest\": III. Allegretto","mediaplayer\/player.asp?br=128&tl=2092627",[]],["Piano Concerto No. 2 in B-Flat Major, Op. 19: III. Rondo: Molto allegro","mediaplayer\/player.asp?br=128&tl=2081403",[]],["Bagatelle in A Minor, WoO 59, \"Fur Elise\"","mediaplayer\/player.asp?br=128&tl=2081404",[]]]],["Schumann, Robert",[["Waldscenen, Op. 82: No. 7. Vogel als Prophet (The Prophetic Bird)","mediaplayer\/player.asp?br=128&tl=2082141",[]]]],["Liszt, Franz",[["Consolations, S172\/R12: No. 3 in D-Flat Major: Lento placido","mediaplayer\/player.asp?br=128&tl=2082142",[]]]],["Chopin, Fryderyk",[["12 Etudes, Op. 10: No. 3 in E Major, Op. 10, No. 3","mediaplayer\/player.asp?br=128&tl=2082143",[]]]],["Mendelssohn, Felix",[["Lieder ohne Worte (Songs without Words), Book 6, Op. 67: No. 32 in F-Sharp Minor, Op. 67, No. 2, MWV U145","mediaplayer\/player.asp?br=128&tl=2082144",[]]]],["Schubert, Franz",[["Piano Trio No. 2 in E-Flat Major, Op. 100, D. 929: II. Andante con moto","mediaplayer\/player.asp?br=128&tl=2082145",[]]]],["Chopin, Fryderyk",[["Piano Concerto No. 2 in F Minor, Op. 21: III. Allegro vivace","mediaplayer\/player.asp?br=128&tl=2082146",[]]]],["Schubert, Franz",[["Ellens Gesang III (Ave Maria!) , Op. 52, No. 6, D. 839, \"Hymne an die Jungfrau\" (arr. for steelband)","mediaplayer\/player.asp?br=128&tl=2082147",[]]]]],[["Strauss, Richard",[["Also sprach Zarathustra, Op. 30, TrV 176: Einleitung &#8212;","mediaplayer\/player.asp?br=128&tl=2082198",[]]]],["Brahms, Johannes",[["21 Hungarian Dances, WoO 1: No. 4 in G Minor (arr. P. Juon for orchestra)","mediaplayer\/player.asp?br=128&tl=2082199",[]]]],["Rachmaninov, Sergey",[["Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto","mediaplayer\/player.asp?br=128&tl=2082200",[]]]],["Borodin, Alexander Porfir'yevich",[["Prince Igor (Knyaz Igor), Act II: Polovtsian Dances","mediaplayer\/player.asp?br=128&tl=2082201",[]]]],["Gavrilin, Valery Aleksandrovich",[["Une musique du soir","mediaplayer\/player.asp?br=128&tl=2082202",[]]]],["Faur&#233;, Gabriel",[["Requiem, Op. 48: Sanctus","mediaplayer\/player.asp?br=128&tl=2082203",[]]]],["Alb&#233;niz, Isaac",[["Suite espa&#241;ola No. 1, Op. 47: No. 5. Asturias (Leyenda) (arr. for guitar)","mediaplayer\/player.asp?br=128&tl=2092629",[]]]],["Ravel, Maurice",[["Le tombeau de Couperin: No. 6. Toccata (version for piano)","mediaplayer\/player.asp?br=128&tl=2082205",[]]]],["Debussy, Claude",[["Le petit negre (The Little Negro)","mediaplayer\/player.asp?br=128&tl=2082206",[]]]],["Satie, Erik",[["3 Gymnopedies: No. 1. Lent et douloureux","mediaplayer\/player.asp?br=128&tl=2082207",[]]]],["Barber, Samuel",[["Souvenirs, Op. 28: III. Pas de deux (version for piano solo)","mediaplayer\/player.asp?br=128&tl=2082208",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["16 Slavonic Dances, Op. 72: Slavonic Dance No. 10 in E Minor, Op. 72, No. 2","mediaplayer\/player.asp?br=128&tl=2082209",[]]]],["Rimsky-Korsakov, Nikolay Andreyevich",[["Tale of Tsar Saltan, Op. 57: Flight of the Bumble-bee (arr. S. Rachmaninov for piano)","mediaplayer\/player.asp?br=128&tl=2082210",[]]]],["Grieg, Edvard",[["Piano Concerto in A Minor, Op. 16: II. Adagio","mediaplayer\/player.asp?br=128&tl=2082211",[]]]],["Brahms, Johannes",[["Piano Quintet in F Minor, Op. 34: III. Scherzo: Allegro","mediaplayer\/player.asp?br=128&tl=2082212",[]]]],["Bizet, Georges",[["Carmen Suite No. 2: VI. Danse bohemienne","mediaplayer\/player.asp?br=128&tl=2082213",[]]]],["Gimenez, Jeronimo",[["La boda de Luis Alonso, o La noche del encierro","mediaplayer\/player.asp?br=128&tl=2082214",[]]]],["McHugh, Jimmy",[["I Feel a Song Coming On","mediaplayer\/player.asp?br=128&tl=2082215",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MIR277.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MIR277.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMIR277","desc":"PASSION DE L'\u00c2ME ET DU COEUR","label":"Mirare","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Purcell, Henry -- Rachmaninov, Sergey -- Pergolesi, Giovanni Battista -- Vivaldi, Antonio -- Bach, Johann Michael -- Tchaikovsky, Pyotr Il'yich -- Telemann, Georg Philipp -- Schumann, Robert -- Chopin, Fryderyk -- Beethoven, Ludwig van -- Faur\u00e9, Gabriel -- Granados, Enrique -- Borodin, Alexander Porfir'yevich -- Couperin, Francois","artist":"Keohane, Maria -- MacLeod, Stephan -- Kobow, Jan -- Fuge, Katherine -- Perrot, Benjamin -- Hantai, Pierre -- Corboz, Michel -- Nelson, John -- Stradivaria -- Beaugiraud, Patrick -- Beyer, Amandine -- Balssa, Emmanuel -- Cuiller, Bertrand -- Bernardini, Alfredo -- Bolton, Florence -- Desert, Claire -- Eguez, Eduardo -- Sinfonia Varsovia -- Semkow, Jerzy -- Berezovsky, Boris -- Rial, Nuria -- Zehetmair, Thomas -- Zander, Anna -- Mena, Carlos -- Engerer, Brigitte -- Ensemble Orchestral de Paris -- Concert Francais, Le -- Orchestre de Pau Pays de Bearn -- Karoui, Faycal -- Ricercar Consort -- Lausanne Instrumental Ensemble -- Pierlot, Philippe -- Perez, Luis Fernando -- Orchestre de Chambre de Paris -- Hirose, Etsuko -- Reveuse, La -- Cuiller, Daniel -- Prazak Quartet -- Blanchard, Margaux -- Sartre, Sylvain -- Ombres, Les -- Avdeeva, Yulianna -- Hassler, Julie -- Guarneri Trio Prague","country":"France Germany Italy Poland Russia Spain United Kingdom","catid":"MIR277","cdinfo":[[["Bach, Johann Sebastian",[["St. John Passion, BWV 245, Part I: Herr, unser Herrscher","mediaplayer\/player.asp?br=128&tl=2177263",[]]]],["Pergolesi, Giovanni Battista",[["Stabat mater: Quando corpus morietur","mediaplayer\/player.asp?br=128&tl=2177264",[]]]],["Vivaldi, Antonio",[["Stabat Mater, RV 621 (excerpts)","mediaplayer\/player.asp?br=128&tl=2177265|2177266",["Stabat Mater dolorosa","Eja mater, fons amoris"]]]],["Bach, Johann Sebastian",[["Ich hatte viel Bekummernis, BWV 21: Sinfonia","mediaplayer\/player.asp?br=128&tl=2177267",[]]]],["Telemann, Georg Philipp",[["Sonata in G Minor, TWV 43:g1: III. Largo","mediaplayer\/player.asp?br=128&tl=2177276",[]]]],["Bach, Johann Michael",[["Ach, wie sehnlich wart ich der Zeit","mediaplayer\/player.asp?br=128&tl=2177277",[]]]],["Bach, Johann Sebastian",[["Keyboard Concerto in F Minor, BWV 1056: II. Largo","mediaplayer\/player.asp?br=128&tl=2177278",[]]]],["Couperin, Fran&#231;ois",[["Les gouts-reunis: Concerto No. 10 in A Minor: III. Plainte pour les Violes: Lentement et douloureusement","mediaplayer\/player.asp?br=128&tl=2177279",[]]]],["Purcell, Henry",[["Welcome to all the pleasures, Z. 339, \"Ode on St. Cecilia's Day\": Here the deities approve","mediaplayer\/player.asp?br=128&tl=2177298",[]]]],["Bach, Johann Sebastian",[["Oboe d'amore Concerto in A Major, BWV 1055: II. Larghetto","mediaplayer\/player.asp?br=128&tl=2177299",[]]]],["Bach, Johann Sebastian",[["Mass in B Minor, BWV 232: Crucifixus etiam pro nobis","mediaplayer\/player.asp?br=128&tl=2177300",[]]]],["Bach, Johann Sebastian",[["Lass, Furstin, lass noch einen Strahl, BWV 198, \"Trauer Ode\": Lass, Furstin, lass noch einen Strahl","mediaplayer\/player.asp?br=128&tl=2177301",[]]]],["Bach, Johann Sebastian",[["Christ lag in Todesbanden, BWV 4: Den Tod niemand zwingen kunnt","mediaplayer\/player.asp?br=128&tl=2177325",[]]]],["Bach, Johann Sebastian",[["Magnificat in D Major, BWV 243: Suscepit Israel","mediaplayer\/player.asp?br=128&tl=2177326",[]],["St. John Passion, BWV 245, Part II: Ruht wohl, ihr heiligen Gebeine","mediaplayer\/player.asp?br=128&tl=2177327",[]]]],["Chopin, Fryderyk",[["Piano Concerto No. 2 in F Minor, Op. 21: I. Maestoso","mediaplayer\/player.asp?br=128&tl=2177328",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Symphony No. 6 in B Minor, Op. 74, \"Pathetique\": II. Allegro con gracia","mediaplayer\/player.asp?br=128&tl=2177329",[]]]],["Borodin, Alexander Porfir'yevich",[["String Quartet No. 2 in D Major: III. Notturno: Andante","mediaplayer\/player.asp?br=128&tl=2177415",[]]]],["Beethoven, Ludwig van",[["Piano Trio No. 5 in D Major, Op. 70, No. 1, \"Ghost\": II. Largo assai ed espressivo","mediaplayer\/player.asp?br=128&tl=2177416",[]]]],["Rachmaninov, Sergey",[["Fantaisie tableaux - Suite No. 1, Op. 5: I. Barcarolle","mediaplayer\/player.asp?br=128&tl=2177417",[]]]],["Granados, Enrique",[["Goyescas, Book 1: No. 4. Quejas, o La maja y el ruisenor","mediaplayer\/player.asp?br=128&tl=2177430",[]]]],["Schumann, Robert",[["Davidsbundlertanze, Op. 6: No. 7. Nicht schnell","mediaplayer\/player.asp?br=128&tl=2177431",[]]]],["Chopin, Fryderyk",[["24 Preludes, Op. 28 (excerpts)","mediaplayer\/player.asp?br=128&tl=2177432|2177433",["No. 4 in E Minor","No. 8 in F-Sharp Minor"]]]],["Schumann, Robert",[["Piano Concerto in A Minor, Op. 54: II. Intermezzo: Andantino grazioso","mediaplayer\/player.asp?br=128&tl=2177446",[]]]],["Faur&#233;, Gabriel",[["Pelleas et Melisande Suite, Op. 80: I. Prelude","mediaplayer\/player.asp?br=128&tl=2177447",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=RIC225.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=RIC225.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DRIC225","desc":"SCHEIDEMANN, H.: Organ Music (Foccroulle)","label":"Ricercar","category":"Instrumental - Classical Music","composer":"Scheidemann, Heinrich","artist":"Foccroulle, Bernard","country":"Germany","catid":"RIC225","cdinfo":[[["Scheidemann, Heinrich",[["Christ lag in Todesbanden, WV 3","mediaplayer\/player.asp?br=128&tl=984241",[]],["Angelus ad pastores ait, WV 46","mediaplayer\/player.asp?br=128&tl=984242",[]],["Praeambulum in D Minor, WV 35","mediaplayer\/player.asp?br=128&tl=984243",[]],["Jesus Christus, unser Heiland, WV 10","mediaplayer\/player.asp?br=128&tl=984244",[]],["Praeambulum in D Minor, WV 33","mediaplayer\/player.asp?br=128&tl=984245",[]],["Canzona in F Major, WV 44","mediaplayer\/player.asp?br=128&tl=984246",[]],["Toccata in G Major, WV 43","mediaplayer\/player.asp?br=128&tl=984247",[]],["Erbarm dich mein, o Herre Gott, WV 4","mediaplayer\/player.asp?br=128&tl=984248",[]],["Praeambulum in E Major, WV 38","mediaplayer\/player.asp?br=128&tl=984249",[]],["Verbum caro factum est (after Hassler), WV 56","mediaplayer\/player.asp?br=128&tl=984250",[]],["Lobet den Herren, denn er ist sehr freundlich, WV 13","mediaplayer\/player.asp?br=128&tl=984251",[]],["Praeambulum in G Minor, WV 41","mediaplayer\/player.asp?br=128&tl=984252",[]],["Magnificat II Toni, WV 15","mediaplayer\/player.asp?br=128&tl=984253",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DOR-90133.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DOR-90133.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDOR-90133","desc":"Chamber Music (Renaissance) - PHILIDOR, P.D. \/ BUSNOYS, A. \/ LUZZASCHI, L. \/ MONTEVERDI, C. (A Renaissance Tour of Europe) (New York Kammermusiker)","label":"Dorian Sono Luminus","category":"Chamber Music - Classical Music","composer":"Anonymous -- Crecquillon, Thomas -- Isaac, Heinrich -- Walter, Johann -- Luzzaschi, Luzzasco -- Scheidt, Samuel -- Schein, Johann Hermann -- Wilbye, John -- Greiter, Matthias -- Traditional -- Isaac, Heinricus -- Monteverdi, Claudio -- Banchieri, Adriano -- Dowland, John -- Hassler, Hans Leo -- Finck, Heinrich -- Morley, Thomas -- Grillo, Giovanni Battista -- Adson, John -- Lasso, Orlando di -- Erbach, Christian -- Philidor, Pierre Danican -- Finck, Herman -- Peuerl, Paul -- Posch, Isaac -- Busnois, Antoine","artist":"New York Kammermusiker","country":"Austria Belgium France Germany Italy Netherlands United Kingdom","catid":"DOR-90133","cdinfo":[[["Philidor, Pierre Danican",[["Pavane Henry IV","mediaplayer\/player.asp?br=128&tl=805606",[]]]],["Busnois, Antoine",[["Cent mille escus quant je vouldroye","mediaplayer\/player.asp?br=128&tl=805607",[]]]],["Philidor, Pierre Danican",[["Pavane Louis XIII","mediaplayer\/player.asp?br=128&tl=805608",[]],["Pavane","mediaplayer\/player.asp?br=128&tl=805609",[]],["La brosse - Tourdion","mediaplayer\/player.asp?br=128&tl=805610",[]]]],["Luzzaschi, Luzzasco",[["Canzone","mediaplayer\/player.asp?br=128&tl=805611",[]]]],["Monteverdi, Claudio",[["Saria ben","mediaplayer\/player.asp?br=128&tl=805612",[]]]],["Grillo, Giovanni Battista",[["Canzone","mediaplayer\/player.asp?br=128&tl=805613",[]],["Canzone","mediaplayer\/player.asp?br=128&tl=805614",[]]]],["Banchieri, Adriano",[["Fantasia","mediaplayer\/player.asp?br=128&tl=805615",[]]]],["Peuerl, Paul",[["Paduan","mediaplayer\/player.asp?br=128&tl=805616",[]]]],["Erbach, Christian",[["Canzona, \"La Paglia\"","mediaplayer\/player.asp?br=128&tl=805617",[]]]],["Hassler, Hans Leo",[["Ecce Enim","mediaplayer\/player.asp?br=128&tl=805618",[]]]],["Posch, Isaac",[["Gagliarda","mediaplayer\/player.asp?br=128&tl=805619",[]]]],["Hassler, Hans Leo",[["Canzon","mediaplayer\/player.asp?br=128&tl=805620",[]]]],["Greiter, Matthias",[["Ich stuend an einem Morgen","mediaplayer\/player.asp?br=128&tl=805621",[]]]],["Peuerl, Paul",[["Paduan","mediaplayer\/player.asp?br=128&tl=805622",[]]]],["Finck, Heinrich",[["Ich stund an einem Morgen","mediaplayer\/player.asp?br=128&tl=805623",[]]]],["Schein, Johann Hermann",[["Courente","mediaplayer\/player.asp?br=128&tl=805624",[]]]],["Finck, Herman",[["Uncur","mediaplayer\/player.asp?br=128&tl=805625",[]]]],["Scheidt, Samuel",[["Galliard","mediaplayer\/player.asp?br=128&tl=805626",[]],["Courante","mediaplayer\/player.asp?br=128&tl=805652",[]],["Duo for Oboe and English horn","mediaplayer\/player.asp?br=128&tl=805653",[]],["Duo for Oboe and Bassoon","mediaplayer\/player.asp?br=128&tl=805654",[]]]],["Walter, Johann",[["Canon","mediaplayer\/player.asp?br=128&tl=805655",[]]]],["Schein, Johann Hermann",[["Paduana","mediaplayer\/player.asp?br=128&tl=805656",[]]]],["Anonymous",[["Heth Sold Ein Meisken Garn Om Win","mediaplayer\/player.asp?br=128&tl=805657",[]]]],["Isaac, Heinricus",[["La mi la sol, la sol la mi","mediaplayer\/player.asp?br=128&tl=805658",[]]]],["Anonymous",[["Jamque","mediaplayer\/player.asp?br=128&tl=805659",[]]]],["Lasso, Orlando di",[["Duo","mediaplayer\/player.asp?br=128&tl=805660",[]]]],["Crecquillon, Thomas",[["Gallicum Quiddam","mediaplayer\/player.asp?br=128&tl=805661",[]]]],["Isaac, Heinricus",[["Ich stund an einem Morgen","mediaplayer\/player.asp?br=128&tl=805662",[]]]],["Isaac, Heinrich",[["Tmeiskin aus iunch","mediaplayer\/player.asp?br=128&tl=805663",[]],["Ricercar","mediaplayer\/player.asp?br=128&tl=805664",[]]]],["Morley, Thomas",[["Now is the month of maying","mediaplayer\/player.asp?br=128&tl=805665",[]]]],["Traditional",[["Jon, come kisse me now","mediaplayer\/player.asp?br=128&tl=805666",[]]]],["Dowland, John",[["Captain Digorie Piper's Galliard, P. 19","mediaplayer\/player.asp?br=128&tl=805667",[]]]],["Wilbye, John",[["Thus saith my Cloris bright","mediaplayer\/player.asp?br=128&tl=805668",[]]]],["Traditional",[["All in a garden green","mediaplayer\/player.asp?br=128&tl=805669",[]]]],["Adson, John",[["Royal Wind Music","mediaplayer\/player.asp?br=128&tl=805670",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="hassler ricercar a 4";JGaskdonation=0;JGFileTools={"210537":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210537"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210537"}},"222736":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222736"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222736"}},"210529":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210529"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210529"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210529"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210529"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210529"}},"210530":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210530"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210530"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210530"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210530"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210530"}},"210531":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210531"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210531"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210531"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210531"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210531"}},"210532":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210532"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210532"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210532"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210532"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210532"}},"210533":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210533"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210533"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210533"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210533"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210533"}},"210534":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210534"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210534"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210534"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210534"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210534"}},"210535":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210535"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210535"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210535"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210535"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210535"}},"210536":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=210536"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/210529\/210530\/210531\/210532\/210533\/210534\/210535\/210536\/9c35"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP210536"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/210536"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/210536"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23210536"}},"222730":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=222730"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/222730\/222731\/222732\/222733\/222734\/222735\/a070"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP222730"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/222730"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222730"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222730"}},"222731":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=222731"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/222730\/222731\/222732\/222733\/222734\/222735\/a070"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP222731"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/222731"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222731"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222731"}},"222732":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=222732"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/222730\/222731\/222732\/222733\/222734\/222735\/a070"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP222732"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/222732"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222732"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222732"}},"222733":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=222733"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/222730\/222731\/222732\/222733\/222734\/222735\/a070"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP222733"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/222733"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222733"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222733"}},"222734":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=222734"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/222730\/222731\/222732\/222733\/222734\/222735\/a070"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP222734"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/222734"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222734"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222734"}},"222735":{"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/222730\/222731\/222732\/222733\/222734\/222735\/a070"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP222735"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/222735"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Ricercar+a+4+%28Hassler%2C+Hans+Leo%29&frmTitle=IMSLP+%23222735"}}};JGFileOpts={"210537":[],"222736":[],"210529":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjf9NvU3T\/8iNzRa3IG9TwkAB8GQQOLJTUJWiX3aej4fElMUG\/hfh+wk\/ju+6GAWTurVHpsJTe5+9P8veuq6\/cIJsnYGIcGmp6JFupOV9t+pg=="},"210530":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0EdwkhkRlOksgkbqXIkh5X8LquenDbYYjAMB15eC0gkQvEbNU8yU4NhLpjbz41F+RLnANmDzJ0lLIpPIYBy2Q"},"210531":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhziNResvOnxDyPZpeTWHqc8NWmMXx6xEO4V3QwsvVT2t2gkscKM20dibc19+0DsGaXAevbcDWczxzR+SFOuGBJgy6fXqZRHW8fFor2YEh2+A=="},"210532":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhxwJnBXNK6ANGuF5YjdKe\/uNxaF09hd2BrhGBsd72Xb9nuJ5mxB0hznzeKK2lUYfGRC7WBsDlukMVaIuWmYdj2"},"210533":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhVW+GcaTrFCcd7fI82VxhiLm7O4a6dmG8Gu4S+bptsxAR0AvRpATLTb5pEJzXe8QfRziNbNefF818rn4\/\/GelN"},"210534":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi\/Q6zVDpw2z6WHxG9cJjbMRUfmDFEI81CqkIfymqRUtMLqn8Ye2RbOy71WTptBmroGuO5H+wHm8UmlM9rdOUvz"},"210535":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0EdwkhkRlOksgkbqXIkh5G4alIOgekTN+nEj5WTjEhJv\/8zQbUiTYuzdl+x60GY+YTrf6vDmxdZjdBsuPCiMp"},"210536":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bijD7oQeQAhcb\/OArftnVIsz6xTlmbZvyB1HDxO9ufGaQ6WmQNLdmdRjN21CJoz3eeNHzZIlP0QYJRcXR4DfkiC"},"222730":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgBRWsxJsRd+zb5ro+ed9do1MG2\/kdRfo4E3HOIJrGdDxPr8Rxc2zNUB\/wFRzVfP0w+oHX00Lo16jVaTEaSnNGU"},"222731":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgCkVaE6wY+tC3W8TmGYcqRSbeG8+H8H0\/GGXOyCP2JBsuRbPl9y3AuCrF81653\/MPQakQ+CidTdM1ErtGYd+XC"},"222732":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5n00RmaUgxwM7QtnNxm4d+7C3wQgewXjCCZqyYMc2TrFX5RNRGFozW9b\/pSn1DhQDHy\/qmQAth4M9v+nj1wUJ"},"222733":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlhoOMk11XHY+VGsQzns4g1aLm8mR72kNE91nxPdT0tyz0N9jh7d2j5KEFZCuOHsk8c8x5Fky6+ewHUcT8ZryT"},"222734":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDXwBMMkaeJ6grRRPTlWmCesqXTl\/161EX5qieVZgFeFAv74cWrzwt+mPeuvlKSNhdOjaKXeYFy\/Hqpa6jIvdD"},"222735":[]};JGPageUntagged=false;JGPageTags=["ricercars","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore2":true,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"210529":[4,"2"],"210533":[2,"1"],"210534":[8,"1"],"210537":[0,0],"222736":[0,0],"210530":[0,0],"210531":[0,0],"210532":[0,0],"210535":[0,0],"210536":[0,0],"222730":[0,0],"222731":[0,0],"222732":[0,0],"222733":[0,0],"222734":[0,0],"222735":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_4_Recorders_.28Haas.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For 4 Recorders (Haas)</span></a></li>
+<li class="toclevel-3"><a href="#For_2_Trumpets_and_2_Trombones_.28Rondeau.29"><span class="tocnumber">1.2.2</span> <span class="toctext">For 2 Trumpets and 2 Trombones (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.1</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_4_Recorders_or_4_Viols_.28Haas.29"><span class="tocnumber">2.1.1</span> <span class="toctext">For 4 Recorders or 4 Viols (Haas)</span></a></li>
+<li class="toclevel-3"><a href="#For_2_Trumpets_and_2_Trombones_.28Rondeau.29_2"><span class="tocnumber">2.1.2</span> <span class="toctext">For 2 Trumpets and 2 Trombones (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">2</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h5> <span class="mw-headline" id="For_4_Recorders_.28Haas.29">For 4 Recorders (Haas)</span></h5>
+<div class="we"><div id="IMSLP210537" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210537"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>MIDI performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/11/WIMA.93fa-hassler_Ricercar.mid" class="internal" title="WIMA.93fa-hassler Ricercar.mid">*</a></span><a href="/wiki/File:WIMA.93fa-hassler_Ricercar.mid" title="File:WIMA.93fa-hassler Ricercar.mid">#210537</a> - 0.02MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210537' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210537'>
+	<a href='javascript:void(0)' id='210537' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210537' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210537' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210537' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210537' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210537'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/210537/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210537/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@210537" title="Special:GetFCtrStats/@210537">240</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a><span class="mh555"> (2012/4/25)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Eric Haas
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Eric Haas
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=210537">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=210537">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="210537">Javascript is required for this feature.</div><script>JGINITsearchbars['210537']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h5> <span class="mw-headline" id="For_2_Trumpets_and_2_Trombones_.28Rondeau.29">For 2 Trumpets and 2 Trombones (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP222736" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222736"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e8/WIMA.e678-RicHasSco.mp3" class="internal" title="WIMA.e678-RicHasSco.mp3">*</a></span><a href="/wiki/File:WIMA.e678-RicHasSco.mp3" title="File:WIMA.e678-RicHasSco.mp3">#222736</a> - 8.16MB - 8:54<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222736' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222736'>
+	<a href='javascript:void(0)' id='222736' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222736' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222736' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222736' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222736' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222736'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/222736/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222736/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@222736" title="Special:GetFCtrStats/@222736">148</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_222736'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"222736":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/e\/e8\/IMSLP222736-WIMA.e678-RicHasSco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Synthesized
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=222736">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=222736">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="222736">Javascript is required for this feature.</div><script>JGINITsearchbars['222736']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Scores (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">14</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Scores" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_4_Recorders_or_4_Viols_.28Haas.29">For 4 Recorders or 4 Viols (Haas)</span></h5>
+<div class="we"><div id="IMSLP210529" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210529"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d5/WIMA.b918-Hassler_Ricercar_ut.re.mi.pdf" class="internal" title="WIMA.b918-Hassler Ricercar ut.re.mi.pdf">*</a></span><a href="/wiki/File:WIMA.b918-Hassler_Ricercar_ut.re.mi.pdf" title="File:WIMA.b918-Hassler Ricercar ut.re.mi.pdf">#210529</a> - 0.78MB, 13 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210529' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210529'>
+	<a href='javascript:void(0)' id='210529' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210529' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210529' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210529' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210529' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210529'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210529/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210529/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2120"><a href="/wiki/Special:GetFCtrStats/@210529" title="Special:GetFCtrStats/@210529">2120</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>7 more</u>:</b> Cantus: Descant recorder • Cantus: Treble recorder • Altus: Treble recorder • Altus: Treble viol • Tenor: Tenor recorder • Tenor: Tenor viol • Bassus: Bass recorder
+</p>
+</div><div id="IMSLP210530" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210530"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cantus: Descant recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cd/WIMA.278b-Hassler_Ricercar_C.pdf" class="internal" title="WIMA.278b-Hassler Ricercar C.pdf">*</a></span><a href="/wiki/File:WIMA.278b-Hassler_Ricercar_C.pdf" title="File:WIMA.278b-Hassler Ricercar C.pdf">#210530</a> - 0.22MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210530' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210530'>
+	<a href='javascript:void(0)' id='210530' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210530' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210530' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210530' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210530' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210530'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210530/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210530/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 304"><a href="/wiki/Special:GetFCtrStats/@210530" title="Special:GetFCtrStats/@210530">304</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP210531" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210531"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cantus: Treble recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/WIMA.5027-Hassler_Ricercar_C-28A-29.pdf" class="internal" title="WIMA.5027-Hassler Ricercar C-28A-29.pdf">*</a></span><a href="/wiki/File:WIMA.5027-Hassler_Ricercar_C-28A-29.pdf" title="File:WIMA.5027-Hassler Ricercar C-28A-29.pdf">#210531</a> - 0.23MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210531' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210531'>
+	<a href='javascript:void(0)' id='210531' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210531' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210531' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210531' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210531' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210531'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210531/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210531/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 228"><a href="/wiki/Special:GetFCtrStats/@210531" title="Special:GetFCtrStats/@210531">228</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP210532" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210532"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Altus: Treble recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/62/WIMA.57a2-hassler_Ricercar_A.pdf" class="internal" title="WIMA.57a2-hassler Ricercar A.pdf">*</a></span><a href="/wiki/File:WIMA.57a2-hassler_Ricercar_A.pdf" title="File:WIMA.57a2-hassler Ricercar A.pdf">#210532</a> - 0.18MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210532' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210532'>
+	<a href='javascript:void(0)' id='210532' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210532' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210532' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210532' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210532' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210532'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210532/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210532/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 215"><a href="/wiki/Special:GetFCtrStats/@210532" title="Special:GetFCtrStats/@210532">215</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP210533" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210533"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Altus: Treble viol</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b7/WIMA.e030-hassler_Ricercar_Av.pdf" class="internal" title="WIMA.e030-hassler Ricercar Av.pdf">*</a></span><a href="/wiki/File:WIMA.e030-hassler_Ricercar_Av.pdf" title="File:WIMA.e030-hassler Ricercar Av.pdf">#210533</a> - 0.17MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210533' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210533'>
+	<a href='javascript:void(0)' id='210533' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210533' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210533' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210533' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210533' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210533'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210533/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210533/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 172"><a href="/wiki/Special:GetFCtrStats/@210533" title="Special:GetFCtrStats/@210533">172</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP210534" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210534"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor: Tenor recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/76/WIMA.40db-hassler_Ricercar_T.pdf" class="internal" title="WIMA.40db-hassler Ricercar T.pdf">*</a></span><a href="/wiki/File:WIMA.40db-hassler_Ricercar_T.pdf" title="File:WIMA.40db-hassler Ricercar T.pdf">#210534</a> - 0.18MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210534' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210534'>
+	<a href='javascript:void(0)' id='210534' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210534' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210534' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210534' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210534' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210534'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210534/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210534/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 199"><a href="/wiki/Special:GetFCtrStats/@210534" title="Special:GetFCtrStats/@210534">199</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP210535" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210535"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor: Tenor viol</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cd/WIMA.2375-hassler_Ricercar_Tv.pdf" class="internal" title="WIMA.2375-hassler Ricercar Tv.pdf">*</a></span><a href="/wiki/File:WIMA.2375-hassler_Ricercar_Tv.pdf" title="File:WIMA.2375-hassler Ricercar Tv.pdf">#210535</a> - 0.18MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210535' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210535'>
+	<a href='javascript:void(0)' id='210535' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210535' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210535' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210535' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210535' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210535'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210535/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210535/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 147"><a href="/wiki/Special:GetFCtrStats/@210535" title="Special:GetFCtrStats/@210535">147</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP210536" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/210536"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassus: Bass recorder</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/30/WIMA.5990-hassler_Ricercar_B.pdf" class="internal" title="WIMA.5990-hassler Ricercar B.pdf">*</a></span><a href="/wiki/File:WIMA.5990-hassler_Ricercar_B.pdf" title="File:WIMA.5990-hassler Ricercar B.pdf">#210536</a> - 0.17MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-210536' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-210536'>
+	<a href='javascript:void(0)' id='210536' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='210536' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='210536' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='210536' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='210536' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-210536'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/210536/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/210536/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 227"><a href="/wiki/Special:GetFCtrStats/@210536" title="Special:GetFCtrStats/@210536">227</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/4/26" class="hovertext">2012/4/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Haas,_Eric" title="Category:Haas, Eric">Eric Haas</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Eric Haas
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=210529/210530/210531/210532/210533/210534/210535/210536">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=210529/210530/210531/210532/210533/210534/210535/210536">del</a>/<span id="fmrglnk" data-pdfstr="210529//210530//210531//210532//210533//210534//210535//210536/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="210529">Javascript is required for this feature.</div><script>JGINITsearchbars['210529']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.b918-Hassler_Ricercar_ut.re.mi.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d5/ca39526f55a11be877a5ea3a2643fb22d384485e.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_2_Trumpets_and_2_Trombones_.28Rondeau.29_2">For 2 Trumpets and 2 Trombones (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP222730" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222730"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8f/WIMA.4b1b-RicHasSco.pdf" class="internal" title="WIMA.4b1b-RicHasSco.pdf">*</a></span><a href="/wiki/File:WIMA.4b1b-RicHasSco.pdf" title="File:WIMA.4b1b-RicHasSco.pdf">#222730</a> - 0.20MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222730' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222730'>
+	<a href='javascript:void(0)' id='222730' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222730' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222730' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222730' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222730' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222730'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/222730/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222730/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 346"><a href="/wiki/Special:GetFCtrStats/@222730" title="Special:GetFCtrStats/@222730">346</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>5 more</u>:</b> Trumpet 1 • Trumpet 2 • Trombone • Bass Trombone • Engraving files (Finale)
+</p>
+</div><div id="IMSLP222731" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222731"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3d/WIMA.5f9b-RicHasTrp1.pdf" class="internal" title="WIMA.5f9b-RicHasTrp1.pdf">*</a></span><a href="/wiki/File:WIMA.5f9b-RicHasTrp1.pdf" title="File:WIMA.5f9b-RicHasTrp1.pdf">#222731</a> - 0.07MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222731' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222731'>
+	<a href='javascript:void(0)' id='222731' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222731' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222731' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222731' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222731' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222731'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/222731/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222731/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 82"><a href="/wiki/Special:GetFCtrStats/@222731" title="Special:GetFCtrStats/@222731">82</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP222732" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222732"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1f/WIMA.717c-RicHasTrp2.pdf" class="internal" title="WIMA.717c-RicHasTrp2.pdf">*</a></span><a href="/wiki/File:WIMA.717c-RicHasTrp2.pdf" title="File:WIMA.717c-RicHasTrp2.pdf">#222732</a> - 0.07MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222732' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222732'>
+	<a href='javascript:void(0)' id='222732' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222732' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222732' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222732' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222732' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222732'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/222732/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222732/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 60"><a href="/wiki/Special:GetFCtrStats/@222732" title="Special:GetFCtrStats/@222732">60</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP222733" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222733"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/16/WIMA.86d5-RicHasTrb.pdf" class="internal" title="WIMA.86d5-RicHasTrb.pdf">*</a></span><a href="/wiki/File:WIMA.86d5-RicHasTrb.pdf" title="File:WIMA.86d5-RicHasTrb.pdf">#222733</a> - 0.07MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222733' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222733'>
+	<a href='javascript:void(0)' id='222733' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222733' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222733' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222733' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222733' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222733'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/222733/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222733/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 65"><a href="/wiki/Special:GetFCtrStats/@222733" title="Special:GetFCtrStats/@222733">65</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP222734" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222734"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass Trombone</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4c/WIMA.e456-RicHasBtrb.pdf" class="internal" title="WIMA.e456-RicHasBtrb.pdf">*</a></span><a href="/wiki/File:WIMA.e456-RicHasBtrb.pdf" title="File:WIMA.e456-RicHasBtrb.pdf">#222734</a> - 0.06MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222734' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222734'>
+	<a href='javascript:void(0)' id='222734' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222734' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222734' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222734' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222734' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222734'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/222734/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222734/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 63"><a href="/wiki/Special:GetFCtrStats/@222734" title="Special:GetFCtrStats/@222734">63</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP222735" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/222735"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9f/WIMA.9607-SS.zip" class="internal" title="WIMA.9607-SS.zip">*</a></span><a href="/wiki/File:WIMA.9607-SS.zip" title="File:WIMA.9607-SS.zip">#222735</a> - 0.29MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-222735' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-222735'>
+	<a href='javascript:void(0)' id='222735' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='222735' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='222735' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='222735' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='222735' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-222735'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/222735/Ricercar_a_4_(Hassler,_Hans_Leo)" title="Special:IMSLPEditCTag/222735/Ricercar a 4 (Hassler, Hans Leo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 283"><a href="/wiki/Special:GetFCtrStats/@222735" title="Special:GetFCtrStats/@222735">283</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/5/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=222730/222731/222732/222733/222734/222735">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=222730/222731/222732/222733/222734/222735">del</a>/<span id="fmrglnk" data-pdfstr="222730//222731//222732//222733//222734/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="222730">Javascript is required for this feature.</div><script>JGINITsearchbars['222730']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.4b1b-RicHasSco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8f/9501c9f9a2ddb7af10a7bb2a652629e32367863d.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Ricercar a 4 ut re mi fa sol la
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Hassler,_Hans_Leo" title="Category:Hassler, Hans Leo">Hassler, Hans Leo</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IHH 60
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Organ
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 595/1000000
+Post-expand include size: 58076/2097152 bytes
+Template argument size: 53/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:352414-0!*!0!!en!2!* and timestamp 20180416050707 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Ricercar_a_4_(Hassler,_Hans_Leo)&amp;oldid=1384308">http://imslp.org/index.php?title=Ricercar_a_4_(Hassler,_Hans_Leo)&amp;oldid=1384308</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Haas,_Eric/Arranger" title="Category:Haas, Eric/Arranger">Haas, Eric/Arranger</a></li><li><a href="/wiki/Category:Rondeau,_Michel/Arranger" title="Category:Rondeau, Michel/Arranger">Rondeau, Michel/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Hassler,_Hans_Leo" title="Category:Hassler, Hans Leo">Hassler, Hans Leo</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a></li><li><a href="/wiki/Category:Ricercars" title="Category:Ricercars">Ricercars</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_4_recorders_(arr)" title="Category:For 4 recorders (arr)">For 4 recorders (arr)</a></li><li><a href="/wiki/Category:For_4_players" title="Category:For 4 players">For 4 players</a></li><li><a href="/wiki/Category:Scores_featuring_the_recorder" title="Category:Scores featuring the recorder">Scores featuring the recorder</a></li><li><a href="/wiki/Category:For_4_viols_(arr)" title="Category:For 4 viols (arr)">For 4 viols (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_viol" title="Category:Scores featuring the viol">Scores featuring the viol</a></li><li><a href="/wiki/Category:For_2_trumpets,_2_trombones_(arr)" title="Category:For 2 trumpets, 2 trombones (arr)">For 2 trumpets, 2 trombones (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_trumpet" title="Category:Scores featuring the trumpet">Scores featuring the trumpet</a></li><li><a href="/wiki/Category:Scores_featuring_the_trombone" title="Category:Scores featuring the trombone">Scores featuring the trombone</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Ricercar_a_4_%28Hassler%2C_Hans_Leo%29">1,750 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Ricercar%20a%204%20%28Hassler%2C%20Hans%20Leo%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.482 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416050707 -->
+</html>
+		

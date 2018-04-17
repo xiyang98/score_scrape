@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Patrocinium musices (Berg, Adam) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Patrocinium_musices_(Berg,_Adam)", "wgTitle": "Patrocinium musices (Berg, Adam)", "wgCurRevisionId": 2450781, "wgArticleId": 802050, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from Bayerische Staatsbibliothek", "Pages with First Editions", "Scores", "Berg, Adam/Collections", "Renaissance style", "Renaissance", "Motets", "Masses", "Religious works", "Passions", "Magnificats", "Vespers", "Intonations", "Sacred hymns", "Hymns", "For 4 voices", "For unaccompanied voices", "Scores featuring the voice", "For 5 voices", "For 6 voices", "For 8 voices", "For mixed chorus", "Scores featuring mixed chorus", "For unaccompanied chorus", "Latin language", "Works first published in 1573", "Works first published in the 16th century", "Lassus, Orlande de/Collections", "Collections", "Daser, Ludwig/Collections", "Sale, Franz/Collections", "Ammon, Blasius/Collections", "Zacharia, Cesare de/Collections"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Patrocinium_musices_Berg_Adam action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Patrocinium_musices_(Berg,_Adam)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (1)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Patrocinium_musices_(Berg,_Adam)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Patrocinium_musices_(Berg,_Adam)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Patrocinium_musices_(Berg,_Adam)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Patrocinium_musices_(Berg,_Adam)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Patrocinium_musices_(Berg,_Adam)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Patrocinium_musices_(Berg,_Adam)&amp;oldid=2450781" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Patrocinium%20musices%20%28Berg%2C%20Adam%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Patrocinium musices (Berg, Adam)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>12 volumes
+<dl><dt><ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:WikiForum&amp;thread=18794"><i>Contents</i></a></span>
+</li></ul>
+</dt></dl>
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1573-98
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Motets&amp;transclude=Template:Catintro">Motets</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Masses&amp;transclude=Template:Catintro">Masses</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Religious_works&amp;transclude=Template:Catintro">Religious works</a></span>; <span class="expandline" title="16 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Passions&amp;transclude=Template:Catintro">Passions</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Magnificats&amp;transclude=Template:Catintro">Magnificats</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Vespers&amp;transclude=Template:Catintro">Vespers</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Intonations&amp;transclude=Template:Catintro">Intonations</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Sacred_hymns&amp;transclude=Template:Catintro">Sacred hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Hymns&amp;transclude=Template:Catintro">Hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_voices&amp;transclude=Template:Catintro">For 4 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_voices&amp;transclude=Template:Catintro">For unaccompanied voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_5_voices&amp;transclude=Template:Catintro">For 5 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_6_voices&amp;transclude=Template:Catintro">For 6 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_8_voices&amp;transclude=Template:Catintro">For 8 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_mixed_chorus&amp;transclude=Template:Catintro">For mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_chorus&amp;transclude=Template:Catintro">For unaccompanied chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Latin_language&amp;transclude=Template:Catintro">Latin language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Patrocinium musices","composer":"Berg, Adam","comphref":"\/wiki\/Category:Berg,_Adam"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"patrocinium musices","itunes":"patrocinium musices","composer":"berg","scorekeywords":"patrocinium musices","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"495341":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495341"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495341"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495341"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495341"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495341"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495341"}},"495431":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495431"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495431"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495431"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495431"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495431"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495431"}},"495437":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495437"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495437"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495437"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495437"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495437"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495437"}},"495451":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495451"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495451"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495451"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495451"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495451"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495451"}},"495454":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495454"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495454"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495454"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495454"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495454"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495454"}},"495455":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495455"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495455"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495455"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495455"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495455"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495455"}},"495493":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495493"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495493"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495493"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495493"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495493"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495493"}},"495496":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495496"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495496"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495496"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495496"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495496"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495496"}},"495515":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495515"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495515"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495515"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495515"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495515"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495515"}},"495517":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495517"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495517"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495517"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495517"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495517"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495517"}},"495518":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495518"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495518"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495518"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495518"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495518"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495518"}},"495523":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=495523"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP495523"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=495523"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/495523"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/495523"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Patrocinium+musices+%28Berg%2C+Adam%29&frmTitle=IMSLP+%23495523"}}};JGFileOpts={"495341":[],"495431":[],"495437":[],"495451":[],"495454":[],"495455":[],"495493":[],"495496":[],"495515":[],"495517":[],"495518":[],"495523":[]};JGPageUntagged=false;JGPageTags=["motets","masses","passions","magnificats","intonations","hymns","4vv","5vv","6vv","8vv","ch","la"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"495341":[0,0],"495431":[0,0],"495437":[0,0],"495451":[0,0],"495454":[0,0],"495455":[0,0],"495493":[0,0],"495496":[0,0],"495515":[0,0],"495517":[0,0],"495518":[0,0],"495523":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Volume_IV:_Orlande_de_Lassus.2C_Passion_for_5_Voices.2C_2_Lessons_for_4_Voices"><span class="tocnumber">2.1.1</span> <span class="toctext">Volume IV: Orlande de Lassus, Passion for 5 Voices, 2 Lessons for 4 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_V:_Orlande_de_Lassus.2C_10_Magnificats_for_4-6_and_8_Voices"><span class="tocnumber">2.1.2</span> <span class="toctext">Volume V: Orlande de Lassus, 10 Magnificats for 4-6 and 8 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_VI:_Ludwig_Daser.2C_Passionis_Domini_Nostri_for_4_Voices"><span class="tocnumber">2.1.3</span> <span class="toctext">Volume VI: Ludwig Daser, Passionis Domini Nostri for 4 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_VII:_Orlande_de_Lassus.2C_13_Magnificats_for_4-6_Voices"><span class="tocnumber">2.1.4</span> <span class="toctext">Volume VII: Orlande de Lassus, 13 Magnificats for 4-6 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_VIII:_Orlande_de_Lassus.2C_6_Masses_for_5_Voices"><span class="tocnumber">2.1.5</span> <span class="toctext">Volume VIII: Orlande de Lassus, 6 Masses for 5 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_IX:_Franz_Sale.2C_15_Officia_for_4-6_Voices"><span class="tocnumber">2.1.6</span> <span class="toctext">Volume IX: Franz Sale, 15 Officia for 4-6 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_X:_Blasius_Ammon.2C_5_Masses_for_4_Voices"><span class="tocnumber">2.1.7</span> <span class="toctext">Volume X: Blasius Ammon, 5 Masses for 4 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_XI:_Cesare_de_Zacharia.2C_11_Intonationes_for_4_Voices.2C_35_Hymns_for_5_Voices"><span class="tocnumber">2.1.8</span> <span class="toctext">Volume XI: Cesare de Zacharia, 11 Intonationes for 4 Voices, 35 Hymns for 5 Voices</span></a></li>
+<li class="toclevel-3"><a href="#Volume_XII:_Franz_Sale.2C_Missa_super_Exultandi_tempus_est_for_5_Voices"><span class="tocnumber">2.1.9</span> <span class="toctext">Volume XII: Franz Sale, Missa super Exultandi tempus est for 5 Voices</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">12</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP495341" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495341"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>I. Lassus: Cantionum quas mutetas vocant, LV 1573.9</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/18/PMLP802050-lassus_patrocinium_musices_1_1573.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 1 1573.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_1_1573.pdf" title="File:PMLP802050-lassus patrocinium musices 1 1573.pdf">#495341</a> - <span style="color:red"><b>136.92</b></span>MB, 389 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495341' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495341'>
+	<a href='javascript:void(0)' id='495341' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495341' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495341' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495341' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495341' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495341'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495341/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495341/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 18"><a href="/wiki/Special:GetFCtrStats/@495341" title="Special:GetFCtrStats/@495341">18</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP495431" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495431"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>II. Lassus: Missae aliquot quinque vocum, LV 1574.3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/ff/PMLP802050-lassus_patrocinium_musices_2_1574.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 2 1574.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_2_1574.pdf" title="File:PMLP802050-lassus patrocinium musices 2 1574.pdf">#495431</a> - <span style="color:red"><b>178.64</b></span>MB, 479 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495431' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495431'>
+	<a href='javascript:void(0)' id='495431' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495431' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495431' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495431' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495431' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495431'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495431/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495431/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 9"><a href="/wiki/Special:GetFCtrStats/@495431" title="Special:GetFCtrStats/@495431">9</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (<span title="Updated: 2017/10/5" class="hovertext">2017/10/4</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP495437" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495437"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>III. Lassus: Officia aliquot de praecipuis Festis Anni, LV 1574.4</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/10/PMLP802050-lassus_patrocinium_musices_3_1575.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 3 1575.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_3_1575.pdf" title="File:PMLP802050-lassus patrocinium musices 3 1575.pdf">#495437</a> - <span style="color:red"><b>110.13</b></span>MB, 299 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495437' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495437'>
+	<a href='javascript:void(0)' id='495437' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495437' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495437' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495437' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495437' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495437'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495437/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495437/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@495437" title="Special:GetFCtrStats/@495437">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (<span title="Updated: 2017/10/5" class="hovertext">2017/10/4</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: <a href="/wiki/Category:Berg,_Adam" title="Category:Berg, Adam">Adam Berg</a>, 1573-74.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495341/495431/495437">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495341/495431/495437">del</a>/<span id="fmrglnk" data-pdfstr="495341//495431//495437/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495341">Javascript is required for this feature.</div><script>JGINITsearchbars['495341']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495341|495431|495437&type=I.%20Lassus%3A%20Cantionum%20quas%20mutetas%20vocant%2C%20LV%201573.9%7CII.%20Lassus%3A%20Missae%20aliquot%20quinque%20vocum%2C%20LV%201574.3%7CIII.%20Lassus%3A%20Officia%20aliquot%20de%20praecipuis%20Festis%20Anni%2C%20LV%201574.4&pgcount=389|479|299&signature=145dc0d69e52f3d8be7832420c82b31979603be7"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_1_1573.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/18/1353b6324e9fb13cf9873aaa47650def49559b7f.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_IV:_Orlande_de_Lassus.2C_Passion_for_5_Voices.2C_2_Lessons_for_4_Voices">Volume IV: <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Orlande de Lassus</a>, Passion for 5 Voices, 2 Lessons for 4 Voices</span></h4>
+<div class="we"><div id="IMSLP495451" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495451"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/97/PMLP802050-lassus_patrocinium_musices_4_1575.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 4 1575.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_4_1575.pdf" title="File:PMLP802050-lassus patrocinium musices 4 1575.pdf">#495451</a> - <span style="color:red"><b>124.04</b></span>MB, 327 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495451' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495451'>
+	<a href='javascript:void(0)' id='495451' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495451' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495451' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495451' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495451' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495451'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495451/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495451/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@495451" title="Special:GetFCtrStats/@495451">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1575.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495451">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495451">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Orlandi de Lasso ... Passio quinque vocum: Idem Lectiones Iob, &amp; Lectiones Matutinae de Nativitate Christi, quatuor vocum.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495451">Javascript is required for this feature.</div><script>JGINITsearchbars['495451']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495451&type=Complete%20Score&pgcount=327&signature=f5d653e5e9b7a2f4e678ab7004f7ef80d1c9b523"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_4_1575.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/97/7683d3471328ff48e5cd5851b176f1f49edba84d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_V:_Orlande_de_Lassus.2C_10_Magnificats_for_4-6_and_8_Voices">Volume V: <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Orlande de Lassus</a>, 10 Magnificats for 4-6 and 8 Voices</span></h4>
+<div class="we"><div id="IMSLP495454" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495454"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6e/PMLP802050-lassus_patrocinium_musices_5_1576.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 5 1576.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_5_1576.pdf" title="File:PMLP802050-lassus patrocinium musices 5 1576.pdf">#495454</a> - <span style="color:red"><b>129.47</b></span>MB, 327 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495454' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495454'>
+	<a href='javascript:void(0)' id='495454' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495454' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495454' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495454' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495454' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495454'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495454/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495454/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@495454" title="Special:GetFCtrStats/@495454">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1576.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495454">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495454">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Orlandi de Lasso ... Magnificat aliquot, quatuor, quinque, sex &amp; octo vocum.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495454">Javascript is required for this feature.</div><script>JGINITsearchbars['495454']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495454&type=Complete%20Score&pgcount=327&signature=f4d96fec5f2981731895b7bff0fd722a6d4cbe41"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_5_1576.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6e/f0f61bd582a965e9678a4e69dc975f45ab5c9459.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_VI:_Ludwig_Daser.2C_Passionis_Domini_Nostri_for_4_Voices">Volume VI: <a href="/wiki/Category:Daser,_Ludwig" title="Category:Daser, Ludwig">Ludwig Daser</a>, Passionis Domini Nostri for 4 Voices</span></h4>
+<div class="we"><div id="IMSLP495455" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495455"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/19/PMLP802050-daser_patrocinium_musices_1578.pdf" class="internal" title="PMLP802050-daser patrocinium musices 1578.pdf">*</a></span><a href="/wiki/File:PMLP802050-daser_patrocinium_musices_1578.pdf" title="File:PMLP802050-daser patrocinium musices 1578.pdf">#495455</a> - <span style="color:red"><b>34.23</b></span>MB, 97 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495455' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495455'>
+	<a href='javascript:void(0)' id='495455' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495455' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495455' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495455' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495455' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495455'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495455/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495455/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@495455" title="Special:GetFCtrStats/@495455">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1578.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495455">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495455">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Passionis domini nostri Iesu Christi historia, in usum Ecclesiae, quatuor vocibus composita, authore Ludovico Daser ...
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495455">Javascript is required for this feature.</div><script>JGINITsearchbars['495455']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495455&type=Complete%20Score&pgcount=97&signature=23c3a6ea338f47d0c543c1c9b6e0824a58fcc3ea"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-daser_patrocinium_musices_1578.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/19/95f4b06c76aa0d54ddf9dc3ab7d84bb05ab9449c.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_VII:_Orlande_de_Lassus.2C_13_Magnificats_for_4-6_Voices">Volume VII: <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Orlande de Lassus</a>, 13 Magnificats for 4-6 Voices</span></h4>
+<div class="we"><div id="IMSLP495493" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495493"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fa/PMLP802050-lassus_patrocinium_musices_1587_magnificat.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 1587 magnificat.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_1587_magnificat.pdf" title="File:PMLP802050-lassus patrocinium musices 1587 magnificat.pdf">#495493</a> - <span style="color:red"><b>124.99</b></span>MB, 343 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495493' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495493'>
+	<a href='javascript:void(0)' id='495493' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495493' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495493' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495493' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495493' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495493'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495493/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495493/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4"><a href="/wiki/Special:GetFCtrStats/@495493" title="Special:GetFCtrStats/@495493">4</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1587.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495493">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495493">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Beatissimae, deiparae. virginis Mariae canticum Magnificat. Quattuor, quinque, &amp; sex vocibus, ad imitationem cantilenarum quarundam, singulari concentus hilaritate excellentium. Authore Orlando de Lasso
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495493">Javascript is required for this feature.</div><script>JGINITsearchbars['495493']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495493&type=Complete%20Score&pgcount=343&signature=cffb3af4c09adce0cd11fe93db5f00e12539f9f8"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_1587_magnificat.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/fa/47c2659b1235e616f506297a517734bea2d84f24.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_VIII:_Orlande_de_Lassus.2C_6_Masses_for_5_Voices">Volume VIII: <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Orlande de Lassus</a>, 6 Masses for 5 Voices</span></h4>
+<div class="we"><div id="IMSLP495496" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495496"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c5/PMLP802050-lassus_patrocinium_musices_1589_missae_5_vocum.pdf" class="internal" title="PMLP802050-lassus patrocinium musices 1589 missae 5 vocum.pdf">*</a></span><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_1589_missae_5_vocum.pdf" title="File:PMLP802050-lassus patrocinium musices 1589 missae 5 vocum.pdf">#495496</a> - <span style="color:red"><b>149.82</b></span>MB, 441 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495496' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495496'>
+	<a href='javascript:void(0)' id='495496' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495496' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495496' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495496' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495496' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495496'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495496/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495496/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@495496" title="Special:GetFCtrStats/@495496">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1589.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495496">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495496">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Missae aliquot quinque vocum. Orlandi de Lasso
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495496">Javascript is required for this feature.</div><script>JGINITsearchbars['495496']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495496&type=Complete%20Score&pgcount=441&signature=29ee38b67a87fad52cd4482d70239b03c34104a8"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-lassus_patrocinium_musices_1589_missae_5_vocum.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/c5/d916aedcf75e146a5fb6244075598106ddc8557e.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_IX:_Franz_Sale.2C_15_Officia_for_4-6_Voices">Volume IX: <a href="/wiki/Category:Sale,_Franz" title="Category:Sale, Franz">Franz Sale</a>, 15 Officia for 4-6 Voices</span></h4>
+<div class="we"><div id="IMSLP495515" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495515"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b3/PMLP802050-sale_patrocinium_musices_1589.pdf" class="internal" title="PMLP802050-sale patrocinium musices 1589.pdf">*</a></span><a href="/wiki/File:PMLP802050-sale_patrocinium_musices_1589.pdf" title="File:PMLP802050-sale patrocinium musices 1589.pdf">#495515</a> - <span style="color:red"><b>108.47</b></span>MB, 391 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495515' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495515'>
+	<a href='javascript:void(0)' id='495515' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495515' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495515' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495515' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495515' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495515'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495515/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495515/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 9"><a href="/wiki/Special:GetFCtrStats/@495515" title="Special:GetFCtrStats/@495515">9</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1589.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495515">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495515">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Missarum solenniorum, tam sanctorum quam Festorum Officia Labentis anni, in Catholicae Ecclesiae usum, harmonice contra punctum ac suavissime concinnata ... Francisco Sale authore
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495515">Javascript is required for this feature.</div><script>JGINITsearchbars['495515']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495515&type=Complete%20Score&pgcount=391&signature=2ff462e866e676f736f9f0550bdcc628aafb2091"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-sale_patrocinium_musices_1589.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b3/f22f37994b04bd843e75cfbccc43246f8692f8b0.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_X:_Blasius_Ammon.2C_5_Masses_for_4_Voices">Volume X: <a href="/wiki/Category:Ammon,_Blasius" title="Category:Ammon, Blasius">Blasius Ammon</a>, 5 Masses for 4 Voices</span></h4>
+<div class="we"><div id="IMSLP495517" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495517"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f9/PMLP802050-ammon_patrocinium_musices_1591.pdf" class="internal" title="PMLP802050-ammon patrocinium musices 1591.pdf">*</a></span><a href="/wiki/File:PMLP802050-ammon_patrocinium_musices_1591.pdf" title="File:PMLP802050-ammon patrocinium musices 1591.pdf">#495517</a> - <span style="color:red"><b>86.43</b></span>MB, 263 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495517' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495517'>
+	<a href='javascript:void(0)' id='495517' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495517' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495517' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495517' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495517' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495517'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495517/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495517/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5"><a href="/wiki/Special:GetFCtrStats/@495517" title="Special:GetFCtrStats/@495517">5</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1591.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495517">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495517">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Missae cum breves tum quatuor vocum laudatissime concinnatae. Authore Blasio Amon Tyrolensis soli oriundo.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495517">Javascript is required for this feature.</div><script>JGINITsearchbars['495517']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495517&type=Complete%20Score&pgcount=263&signature=813f9074ea8ae2128d945db522ad17ab3e3263d3"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-ammon_patrocinium_musices_1591.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f9/256ed1fbc73506f4d33965003765e14c4c9310d0.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_XI:_Cesare_de_Zacharia.2C_11_Intonationes_for_4_Voices.2C_35_Hymns_for_5_Voices">Volume XI: <a href="/wiki/Category:Zacharia,_Cesare_de" title="Category:Zacharia, Cesare de">Cesare de Zacharia</a>, 11 Intonationes for 4 Voices, 35 Hymns for 5 Voices</span></h4>
+<div class="we"><div id="IMSLP495518" class="we_file_first we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495518"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d0/PMLP802050-zacharia_patrocinium_musices_1594.pdf" class="internal" title="PMLP802050-zacharia patrocinium musices 1594.pdf">*</a></span><a href="/wiki/File:PMLP802050-zacharia_patrocinium_musices_1594.pdf" title="File:PMLP802050-zacharia patrocinium musices 1594.pdf">#495518</a> - <span style="color:red"><b>152.16</b></span>MB, 485 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495518' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495518'>
+	<a href='javascript:void(0)' id='495518' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495518' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495518' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495518' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495518' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495518'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495518/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495518/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 8"><a href="/wiki/Special:GetFCtrStats/@495518" title="Special:GetFCtrStats/@495518">8</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1594.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495518">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495518">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Intonationes Vespertinarum precum una cum singulorum tonorum psalmodiis (quae vulgo Falsi bordoni dicuntur) Quatuor Vocum. Praeterea hymni quinque vocum de tempore per totum annum nuper numeris Musicis astricti &amp; antehac nunquam in lucem aediti. Cum regula eorundem pro temporis varietate accipiendorum. Secundum ritum Romanum, Bambergensem, Constantiensem, &amp; Augustanum. Authore Caesare de Zachariis Cremonensi.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495518">Javascript is required for this feature.</div><script>JGINITsearchbars['495518']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495518&type=Complete%20Score&pgcount=485&signature=eae9eeb2df336fd78c8f82ff5692b7873a353ff0"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-zacharia_patrocinium_musices_1594.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d0/1c8845b3c60491be1c3c4fcaf94838fc16f229cd.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Volume_XII:_Franz_Sale.2C_Missa_super_Exultandi_tempus_est_for_5_Voices">Volume XII: <a href="/wiki/Category:Sale,_Franz" title="Category:Sale, Franz">Franz Sale</a>, Missa super Exultandi tempus est for 5 Voices</span></h4>
+<div class="we"><div id="IMSLP495523" class="we_file_first we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/495523"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d8/PMLP802050-sale_patrocinium_musices_1598.pdf" class="internal" title="PMLP802050-sale patrocinium musices 1598.pdf">*</a></span><a href="/wiki/File:PMLP802050-sale_patrocinium_musices_1598.pdf" title="File:PMLP802050-sale patrocinium musices 1598.pdf">#495523</a> - <span style="color:red"><b>34.00</b></span>MB, 103 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-495523' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-495523'>
+	<a href='javascript:void(0)' id='495523' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='495523' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='495523' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='495523' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='495523' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-495523'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/495523/Patrocinium_musices_(Berg,_Adam)" title="Special:IMSLPEditCTag/495523/Patrocinium musices (Berg, Adam)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 10"><a href="/wiki/Special:GetFCtrStats/@495523" title="Special:GetFCtrStats/@495523">10</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2017/10/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>München: Adam Berg, 1598.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=495523">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=495523">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>In Natalem Domini Iesu Christi servatoris nostri, Mutetum quinque vocum, &amp; Missa, ad eius imitationem composita. Authore Francisco Sale, Musico Caesarco.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="495523">Javascript is required for this feature.</div><script>JGINITsearchbars['495523']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=495523&type=Complete%20Score&pgcount=103&signature=5f5e11931064ac0eeb5da044fe0226b0a58f09be"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP802050-sale_patrocinium_musices_1598.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d8/70b200ef0cfef46ca12e8633fd26423ec15adea3.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Patrocinium musices
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Berg,_Adam" title="Category:Berg, Adam">Berg, Adam</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>12 volumes:
+<dl><dd>I. <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Lassus</a>: <a href="/wiki/Cantionum_quas_mutetas_vocant,_LV_1573.9_(Lassus,_Orlande_de)" title="Cantionum quas mutetas vocant, LV 1573.9 (Lassus, Orlande de)"><i>Cantionum quas mutetas vocant, LV 1573.9</i></a>
+<dl><dd>(21 motets for 4-6 voices)
+</dd></dl>
+</dd><dd>II. <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Lassus</a>: <a href="/wiki/Missae_aliquot_quinque_vocum,_LV_1574.3_(Lassus,_Orlande_de)" title="Missae aliquot quinque vocum, LV 1574.3 (Lassus, Orlande de)"><i>Missae aliquot quinque vocum, LV 1574.3</i></a>
+<dl><dd>(5 masses for 5 voices)
+</dd></dl>
+</dd><dd>III. <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Lassus</a>: <a href="/wiki/Officia_aliquot_de_praecipuis_Festis_Anni,_LV_1574.4_(Lassus,_Orlande_de)" title="Officia aliquot de praecipuis Festis Anni, LV 1574.4 (Lassus, Orlande de)"><i>Officia aliquot de praecipuis Festis Anni, LV 1574.4</i></a>
+<dl><dd>(7 officia for 5 voices)
+</dd></dl>
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1573-98
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Latin
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>1. Wilhelm, duke of Bavaria<br />2. Pope Gregory XIII <br />3. Bishop Johann Egolph <br />4: Gaspar Frasio, abbot of Weihenstephan<br />5. Ambrosius Mayrhofer, Abbot of St. Emmeran, Ratisbon<br />6. Ludwig, Duke of Wurttemberg &amp; Teck<br />7. Ernst, Archbishop of Cologne<br />8. Georg, Abbot of Weingarten<br />9. Wolfgang Theodor, Archbishop of Salzburg<br />10. Andreas, Cardinal of Austria, Bishop of Konstanz and Brixen<br />11. Heinrich, Count of Furstenberg, Heiligenberg &amp; Werdenberg <br />12. Nicolaus, of Heinrichau Abbey
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>4-8 voices
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>These volumes were also published in a smaller format by Phalese
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>Choirbook format.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 1418/1000000
+Post-expand include size: 77618/2097152 bytes
+Template argument size: 1326/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:802050-0!*!0!!en!2!* and timestamp 20180415040253 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Patrocinium_musices_(Berg,_Adam)&amp;oldid=2450781">http://imslp.org/index.php?title=Patrocinium_musices_(Berg,_Adam)&amp;oldid=2450781</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_Bayerische_Staatsbibliothek" title="Category:Scores from Bayerische Staatsbibliothek">Scores from Bayerische Staatsbibliothek</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Berg,_Adam/Collections" title="Category:Berg, Adam/Collections">Berg, Adam/Collections</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a></li><li><a href="/wiki/Category:Motets" title="Category:Motets">Motets</a></li><li><a href="/wiki/Category:Masses" title="Category:Masses">Masses</a></li><li><a href="/wiki/Category:Religious_works" title="Category:Religious works">Religious works</a></li><li><a href="/wiki/Category:Passions" title="Category:Passions">Passions</a></li><li><a href="/wiki/Category:Magnificats" title="Category:Magnificats">Magnificats</a></li><li><a href="/wiki/Category:Vespers" title="Category:Vespers">Vespers</a></li><li><a href="/wiki/Category:Intonations" title="Category:Intonations">Intonations</a></li><li><a href="/wiki/Category:Sacred_hymns" title="Category:Sacred hymns">Sacred hymns</a></li><li><a href="/wiki/Category:Hymns" title="Category:Hymns">Hymns</a></li><li><a href="/wiki/Category:For_4_voices" title="Category:For 4 voices">For 4 voices</a></li><li><a href="/wiki/Category:For_unaccompanied_voices" title="Category:For unaccompanied voices">For unaccompanied voices</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:For_5_voices" title="Category:For 5 voices">For 5 voices</a></li><li><a href="/wiki/Category:For_6_voices" title="Category:For 6 voices">For 6 voices</a></li><li><a href="/wiki/Category:For_8_voices" title="Category:For 8 voices">For 8 voices</a></li><li><a href="/wiki/Category:For_mixed_chorus" title="Category:For mixed chorus">For mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:For_unaccompanied_chorus" title="Category:For unaccompanied chorus">For unaccompanied chorus</a></li><li><a href="/wiki/Category:Latin_language" title="Category:Latin language">Latin language</a></li><li><a href="/wiki/Category:Works_first_published_in_1573" title="Category:Works first published in 1573">Works first published in 1573</a></li><li><a href="/wiki/Category:Works_first_published_in_the_16th_century" title="Category:Works first published in the 16th century">Works first published in the 16th century</a></li><li><a href="/wiki/Category:Lassus,_Orlande_de/Collections" title="Category:Lassus, Orlande de/Collections">Lassus, Orlande de/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:Daser,_Ludwig/Collections" title="Category:Daser, Ludwig/Collections">Daser, Ludwig/Collections</a></li><li><a href="/wiki/Category:Sale,_Franz/Collections" title="Category:Sale, Franz/Collections">Sale, Franz/Collections</a></li><li><a href="/wiki/Category:Ammon,_Blasius/Collections" title="Category:Ammon, Blasius/Collections">Ammon, Blasius/Collections</a></li><li><a href="/wiki/Category:Zacharia,_Cesare_de/Collections" title="Category:Zacharia, Cesare de/Collections">Zacharia, Cesare de/Collections</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Patrocinium_musices_%28Berg%2C_Adam%29">1,306 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Patrocinium%20musices%20%28Berg%2C%20Adam%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 2.042 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415040253 -->
+</html>
+		

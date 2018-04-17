@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>William Ratcliff (Cui, César) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "William_Ratcliff_(Cui,_César)", "wgTitle": "William Ratcliff (Cui, César)", "wgCurRevisionId": 1667078, "wgArticleId": 32185, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores engraved by C.G. Röder", "Scores published by Robert Seitz", "Rimsky-Korsakov, Nikolay/Arranger", "Scores published by Bessel", "Sibley Mirroring Project", "Work pages with links to recordings", "Scores", "Cui, César", "Romantic style", "Romantic", "Operas", "Theatrical Works", "For voices, mixed chorus, orchestra", "Scores featuring the voice", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For voices and chorus with orchestra", "Russian language", "For orchestra (arr)", "For orchestra", "Pages with arrangements", "Works first published in 1869", "Works first published in the 19th century", "Zhukovsky, Vasily/Librettist", "Heine, Heinrich/Librettist", "Krylov, Viktor/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-William_Ratcliff_Cui_César action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/William_Ratcliff_(Cui,_C%C3%A9sar)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=William_Ratcliff_(Cui,_C%C3%A9sar)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=William_Ratcliff_(Cui,_C%C3%A9sar)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/William_Ratcliff_(Cui,_C%C3%A9sar)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/William_Ratcliff_(Cui,_C%C3%A9sar)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=William_Ratcliff_(Cui,_C%C3%A9sar)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=William_Ratcliff_(Cui,_C%C3%A9sar)&amp;oldid=1667078" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=William%20Ratcliff%20%28Cui%2C%20C%C3%A9sar%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					William Ratcliff (Cui, César)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 acts
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1861-68
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas&amp;transclude=Template:Catintro">Operas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For voices, mixed chorus, orchestra</a></span>; <span class="expandline" title="7 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Russian_language&amp;transclude=Template:Catintro">Russian language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra_%28arr%29&amp;transclude=Template:Catintro">For orchestra (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra&amp;transclude=Template:Catintro">For orchestra</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"William Ratcliff","composer":"Cui, C\u00e9sar","comphref":"\/wiki\/Category:Cui,_C%C3%A9sar"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"william ratcliff","itunes":"william ratcliff","composer":"cui","scorekeywords":"william ratcliff","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"13077":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=13077"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP13077"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=13077"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/13077"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/13077"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2313077"}},"13085":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=13085"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP13085"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=13085"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/13085"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/13085"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/13085"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2313085"}},"13796":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=13796"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP13796"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=13796"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/13796"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/13796"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/13796"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2313796"}},"14033":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14033"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14033"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14033"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14033"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14033"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14033"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314033"}},"14082":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14082"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14082"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14082"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14082"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14082"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14082"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314082"}},"14083":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14083"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14083"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14083"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14083"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14083"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14083"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314083"}},"14084":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14084"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14084"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14084"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14084"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14084"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14084"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314084"}},"14085":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14085"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14085"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14085"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14085"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14085"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14085"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314085"}},"14086":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14086"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14086"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14086"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14086"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14086"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14086"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314086"}},"14128":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14128"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14128"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14128"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14128"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14128"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14128"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314128"}},"14129":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14129"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14129"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14129"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14129"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14129"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14129"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314129"}},"13093":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=13093"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP13093"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=13093"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/13093"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/13093"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/13093"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2313093"}},"14190":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14190"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14190"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14190"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14190"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14190"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14190"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314190"}},"14191":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14191"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14191"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14191"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14191"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14191"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14191"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314191"}},"14192":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14192"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14192"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14192"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14192"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14192"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14192"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314192"}},"14253":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=14253"},"015-ZIPFILE":{"icon":52,"label":"Download 16 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13077\/13085\/13796\/14033\/14082\/14083\/14084\/14085\/14086\/14128\/14129\/13093\/14190\/14191\/14192\/14253\/1d55"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP14253"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=14253"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/14253"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/14253"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/14253"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2314253"}},"13094":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=13094"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13094\/78051\/2a61"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP13094"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=13094"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/13094"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/13094"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2313094"}},"78051":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=78051"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/13094\/78051\/2a61"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP78051"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=78051"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/78051"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/78051"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/78051"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=William+Ratcliff+%28Cui%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2378051"}}};JGFileOpts={"13077":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjjZBCakrGw7REqr+0IGR9gzTq744hcfO\/7e7Qdsn6gNgetzcTOTrHCrGbdf+KSivbcyTrq6SxPjmzB5YMfST8k"},"13085":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlSlHYD0MssNo8GpLidcfDoH2xg\/\/p93jQ4c4EzhmvPA0aLAXZtT5o9CDYAJ8nhB4zaKyodunVJV8vAqflRpTW"},"13796":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjeqeAbfSKE9uRPhSi3fstuBxCef\/bbFMa6apZ0fEqduqydeYlKQ\/vhv6MMLrUHyloGFuyqGWB\/6PPAbO4E0Jb9"},"14033":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpP42d1VHzgi9UgbDqYzOnG\/qXjLBg3VJyWWmo7uy1BvDq2Y9ldhxC7ztpGFAfN+u3DAcBUvETSracbouEH28a"},"14082":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh0ZX0M2CiWptcc56y9EXSkXaYnMCQxWVPpjQ006Mj+pmEzBxuItWOceNcs6srJdlk="},"14083":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjRP9WcZPItje8BgMbg3tngEAtYEtptqbtGnZXOZcvN9pnt72sOWQpkfXsq1r2ibWizJBPhCjH7o\/syvF1g1iQ4"},"14084":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjYa\/OrzE8XtdhqKxDB6GhsNWpAP64E71Jm1ZychF8CDugfDqKhNHrsS7iuilt2GgtSrhlrLELLjLPQcYIwsrus"},"14085":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg3JAKBXeSU8NKjnePBmFyRD5Hv3O1neVbNJ2VzAvbJ5dTHpuO5s\/hTUf4y1rPotluyULdshLCUQ29imazvoklS"},"14086":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhV6QDm2UZrtPpwtHxUhXalQAX27GOc1IJrMWHVJNE\/wDrobpDI1VHNdIlReemwsWKN1LXH8U+Qk9mzh2SgKn8i"},"14128":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi1g1oH0eGl2QJbvcJX76RztG1MT2v67ESg1Li0+a9K+EdfbK9AyHB+mmx1Vlfwyn7MmUUbTD+NVVDCFXpG2hrj"},"14129":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgOsUCLrPsn+YGdK+wbOBtWn1wlp651BSX\/+8W9eFhx22tEQ52fikTyoO8Ft+Frc9Q="},"13093":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi3i395NKJF0OvaJno9UrorCKMarFQn\/heh4uWbwiHplsZ0ymx1FfqjgO4XDEr31NE="},"14190":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhsTbO\/JZI1CkPEnFdSGbBGBn00aCYTC1mzpT260xLzy+lQTPQA2\/uuCqmyhDypQC7Fy7Ie7OBEqeQs9JSYA4gS"},"14191":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhLAM+k1Pyk5bSKhVaSqpq\/ZfCtiELUH4QMb57q1gE+hzdOBytwHEwWA8McV2yKfvqFikJQexY9\/OsUqj2GZy1H"},"14192":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhK6liFjmexyPuJ2WQfD4NjbFG7cJm09r3vJPm44fPmvzEW+NaG4Ul1TdnfLzqMjvM="},"14253":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjXO\/pbA\/b2YpAHqGJMFIsSxrlaKN7Of74CbdaQxuNmNTY+tzspfNg3E\/B\/+nJmtvY9oVkgEKTivxxriNDe4JCd"},"13094":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjk\/1fXmEdPYJv0udX\/A33ji11z8QaGzNqwmtJNfiCnTHdIUBaLfebGXnTUJgZmfuDTa6mrzsSwF51ttkkFsKXJ"},"78051":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhvfj666XUGnmMf6yXaoGH3eeLkeyNTsb6uLPuDVt0F58XSf2gsQzQjYIZtMYFIXk9acmfI3flaMahBDJ+LFHPxOvwCRP+njiwrOBst9S4vGA=="}};JGPageUntagged=false;JGPageTags=["operas","vv ch orch","ru"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore3":true,"tabScore4":true,"tabScore1":false,"tabArrTrans":false,"tabScore5":true,"tabScore6":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"13077":[0,0],"13085":[0,0],"13796":[0,0],"14033":[0,0],"14082":[0,0],"14083":[0,0],"14084":[0,0],"14085":[0,0],"14086":[0,0],"14128":[0,0],"14129":[0,0],"13093":[0,0],"14190":[0,0],"14191":[0,0],"14192":[0,0],"14253":[0,0],"13094":[0,0],"78051":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Vocal Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Entr.27acte_.28Act_III.29"><span class="tocnumber">2.2.1</span> <span class="toctext">Entr'acte (Act III)</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Orchestra_.28Rimsky-Korsakov.29"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For Orchestra (Rimsky-Korsakov)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Free_Recordings"><span class="tocnumber">3</span> <span class="toctext">Free Recordings</span></a></li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">4</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">5</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Scores (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Parts (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore1_tab"><b><a href="#tabScore1">Vocal Scores (<span id="tabScore1_ct">16</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">2</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Scores" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Parts" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<div class="we"><div id="IMSLP13077" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/13077"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Title page and preliminaries</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9d/CuiVil_Preliminaries.pdf" class="internal" title="CuiVil Preliminaries.pdf">*</a></span><a href="/wiki/File:CuiVil_Preliminaries.pdf" title="File:CuiVil Preliminaries.pdf">#13077</a> - 0.47MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-13077' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-13077'>
+	<a href='javascript:void(0)' id='13077' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='13077' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='13077' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='13077' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='13077' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-13077'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/13077/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/13077/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 235"><a href="/wiki/Special:GetFCtrStats/@13077" title="Special:GetFCtrStats/@13077">235</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (2007/9/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>15 more</u>:</b> Introduction • Act I, Tableau 1, Scene 1a. Wedding Chorus and Blessing • Act I, Tableau 1, Scene 1b. Mary's Romance and Douglas' Narrative • Act 1, Tableau 1, Scene 2. MacGregor's Narrative • Act I, Tableau 2 (=Scene 3 of Act I) • Act II, Tableau 1, Scene 1. Entr'acte, Dances, and Chorus • Act II, Tableau 1, Scene 2. Scene with the Drunk • Act II, Tableau 1, Scene 3. Lesley's Song • Act II, Tableau 1, Scene 4. Ratcliff's Narrative • Act II, Tableau 2, Scene by the Black Stone • Entr'acte (to Act III) • Act III, Scene 1a. Mary's [2nd] Romance • Act III, Scene 1b. Margaret's Narrative • Act III, Scene 2. [Love] Duet • Act III, Last Scene
+</p>
+</div><div id="IMSLP13085" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/13085"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Introduction</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/11/CuiVil_00_Introduction.pdf" class="internal" title="CuiVil 00 Introduction.pdf">*</a></span><a href="/wiki/File:CuiVil_00_Introduction.pdf" title="File:CuiVil 00 Introduction.pdf">#13085</a> - 1.22MB, 7 (#4-10) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-13085' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-13085'>
+	<a href='javascript:void(0)' id='13085' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='13085' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='13085' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='13085' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='13085' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-13085'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/13085/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/13085/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 227"><a href="/wiki/Special:GetFCtrStats/@13085" title="Special:GetFCtrStats/@13085">227</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (2007/9/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP13796" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/13796"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act I, Tableau 1, Scene 1a. Wedding Chorus and Blessing</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5e/Cui_Vil_Act1_Sc1a_11-32.pdf" class="internal" title="Cui Vil Act1 Sc1a 11-32.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act1_Sc1a_11-32.pdf" title="File:Cui Vil Act1 Sc1a 11-32.pdf">#13796</a> - 3.40MB, 22 (#11-32) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-13796' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-13796'>
+	<a href='javascript:void(0)' id='13796' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='13796' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='13796' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='13796' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='13796' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-13796'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/13796/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/13796/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 206"><a href="/wiki/Special:GetFCtrStats/@13796" title="Special:GetFCtrStats/@13796">206</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/13" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14033" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14033"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act I, Tableau 1, Scene 1b. Mary's Romance and Douglas' Narrative</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d2/Cui_Vil_Act1_Sc1b_33-63.pdf" class="internal" title="Cui Vil Act1 Sc1b 33-63.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act1_Sc1b_33-63.pdf" title="File:Cui Vil Act1 Sc1b 33-63.pdf">#14033</a> - 4.94MB, 31 (#33-63) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14033' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14033'>
+	<a href='javascript:void(0)' id='14033' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14033' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14033' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14033' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14033' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14033'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14033/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14033/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 161"><a href="/wiki/Special:GetFCtrStats/@14033" title="Special:GetFCtrStats/@14033">161</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/17" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14082" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14082"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act 1, Tableau 1, Scene 2. MacGregor's Narrative</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/Cui_Vil_Act1_Sc2.pdf" class="internal" title="Cui Vil Act1 Sc2.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act1_Sc2.pdf" title="File:Cui Vil Act1 Sc2.pdf">#14082</a> - 2.87MB, 17 (#64-80) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14082' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14082'>
+	<a href='javascript:void(0)' id='14082' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14082' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14082' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14082' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14082' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14082'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14082/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14082/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 153"><a href="/wiki/Special:GetFCtrStats/@14082" title="Special:GetFCtrStats/@14082">153</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/18" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14083" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14083"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act I, Tableau 2 (=Scene 3 of Act I)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/82/Cui_Vil_Act1_Tableau2.pdf" class="internal" title="Cui Vil Act1 Tableau2.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act1_Tableau2.pdf" title="File:Cui Vil Act1 Tableau2.pdf">#14083</a> - 3.22MB, 19 (#81-99) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14083' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14083'>
+	<a href='javascript:void(0)' id='14083' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14083' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14083' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14083' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14083' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14083'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14083/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14083/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 157"><a href="/wiki/Special:GetFCtrStats/@14083" title="Special:GetFCtrStats/@14083">157</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/18" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14084" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14084"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act II, Tableau 1, Scene 1. Entr'acte, Dances, and Chorus</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e8/Cui_Vil_Act2_Tab1_Sc1.pdf" class="internal" title="Cui Vil Act2 Tab1 Sc1.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act2_Tab1_Sc1.pdf" title="File:Cui Vil Act2 Tab1 Sc1.pdf">#14084</a> - 1.71MB, 10 (#100-109) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14084' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14084'>
+	<a href='javascript:void(0)' id='14084' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14084' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14084' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14084' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14084' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14084'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14084/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14084/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 159"><a href="/wiki/Special:GetFCtrStats/@14084" title="Special:GetFCtrStats/@14084">159</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/18" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14085" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14085"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act II, Tableau 1, Scene 2. Scene with the Drunk</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2a/Cui_Vil_Act2_Tab1_Sc2.pdf" class="internal" title="Cui Vil Act2 Tab1 Sc2.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act2_Tab1_Sc2.pdf" title="File:Cui Vil Act2 Tab1 Sc2.pdf">#14085</a> - 1.94MB, 11 (#110-120) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14085' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14085'>
+	<a href='javascript:void(0)' id='14085' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14085' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14085' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14085' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14085' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14085'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14085/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14085/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 151"><a href="/wiki/Special:GetFCtrStats/@14085" title="Special:GetFCtrStats/@14085">151</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/18" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14086" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14086"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act II, Tableau 1, Scene 3. Lesley's Song</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/93/Cui_Vil_Act2_Tab1_Sc3.pdf" class="internal" title="Cui Vil Act2 Tab1 Sc3.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act2_Tab1_Sc3.pdf" title="File:Cui Vil Act2 Tab1 Sc3.pdf">#14086</a> - 2.14MB, 13 (#121-133) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14086' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14086'>
+	<a href='javascript:void(0)' id='14086' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14086' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14086' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14086' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14086' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14086'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14086/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14086/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 156"><a href="/wiki/Special:GetFCtrStats/@14086" title="Special:GetFCtrStats/@14086">156</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/18" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14128" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14128"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act II, Tableau 1, Scene 4. Ratcliff's Narrative</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/08/Cui_Vil_Act2_Tab1_Sc4.pdf" class="internal" title="Cui Vil Act2 Tab1 Sc4.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act2_Tab1_Sc4.pdf" title="File:Cui Vil Act2 Tab1 Sc4.pdf">#14128</a> - 4.19MB, 26 (#134-159) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14128' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14128'>
+	<a href='javascript:void(0)' id='14128' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14128' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14128' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14128' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14128' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14128'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14128/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14128/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 154"><a href="/wiki/Special:GetFCtrStats/@14128" title="Special:GetFCtrStats/@14128">154</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/19" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14129" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14129"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act II, Tableau 2, Scene by the Black Stone</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b4/Cui_Vil_Act2_Tab2.pdf" class="internal" title="Cui Vil Act2 Tab2.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act2_Tab2.pdf" title="File:Cui Vil Act2 Tab2.pdf">#14129</a> - 3.29MB, 19 (#160-178) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14129' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14129'>
+	<a href='javascript:void(0)' id='14129' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14129' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14129' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14129' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14129' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14129'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14129/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14129/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 148"><a href="/wiki/Special:GetFCtrStats/@14129" title="Special:GetFCtrStats/@14129">148</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/19" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP13093" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/13093"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Entr'acte (to Act III)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e3/11_Entracte.pdf" class="internal" title="11 Entracte.pdf">*</a></span><a href="/wiki/File:11_Entracte.pdf" title="File:11 Entracte.pdf">#13093</a> - 0.79MB, 4 (#179-182) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-13093' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-13093'>
+	<a href='javascript:void(0)' id='13093' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='13093' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='13093' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='13093' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='13093' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-13093'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/13093/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/13093/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 165"><a href="/wiki/Special:GetFCtrStats/@13093" title="Special:GetFCtrStats/@13093">165</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (2007/9/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14190" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14190"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act III, Scene 1a. Mary's [2nd</a> Romance</span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/10/Cui_Vil_Act3_Scene1a.pdf" class="internal" title="Cui Vil Act3 Scene1a.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act3_Scene1a.pdf" title="File:Cui Vil Act3 Scene1a.pdf">#14190</a> - 3.15MB, 6 (#183-188) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14190' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14190'>
+	<a href='javascript:void(0)' id='14190' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14190' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14190' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14190' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14190' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14190'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14190/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14190/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 153"><a href="/wiki/Special:GetFCtrStats/@14190" title="Special:GetFCtrStats/@14190">153</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/20" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14191" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14191"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act III, Scene 1b. Margaret's Narrative</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/63/Cui_Vil_Act3_Scene1b.pdf" class="internal" title="Cui Vil Act3 Scene1b.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act3_Scene1b.pdf" title="File:Cui Vil Act3 Scene1b.pdf">#14191</a> - 3.32MB, 13 (#189-201) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14191' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14191'>
+	<a href='javascript:void(0)' id='14191' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14191' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14191' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14191' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14191' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14191'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14191/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14191/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 157"><a href="/wiki/Special:GetFCtrStats/@14191" title="Special:GetFCtrStats/@14191">157</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/20" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14192" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14192"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act III, Scene 2. [Love</a> Duet</span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ce/Cui_Vil_Act3_Scene2.pdf" class="internal" title="Cui Vil Act3 Scene2.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act3_Scene2.pdf" title="File:Cui Vil Act3 Scene2.pdf">#14192</a> - 1.36MB, 8 (#202-209) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14192' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14192'>
+	<a href='javascript:void(0)' id='14192' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14192' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14192' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14192' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14192' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14192'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14192/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14192/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 171"><a href="/wiki/Special:GetFCtrStats/@14192" title="Special:GetFCtrStats/@14192">171</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/20" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP14253" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/14253"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act III, Last Scene</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a6/Cui_Vil_Act3_LastScene.pdf" class="internal" title="Cui Vil Act3 LastScene.pdf">*</a></span><a href="/wiki/File:Cui_Vil_Act3_LastScene.pdf" title="File:Cui Vil Act3 LastScene.pdf">#14253</a> - 3.69MB, 22 (#210-231) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-14253' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-14253'>
+	<a href='javascript:void(0)' id='14253' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='14253' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='14253' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='14253' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='14253' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-14253'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/14253/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/14253/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 157"><a href="/wiki/Special:GetFCtrStats/@14253" title="Special:GetFCtrStats/@14253">157</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (<span title="Updated: 2007/9/21" class="hovertext">2007/9/1</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Engraver
+</th>
+<td>Leipzig: <a href="/wiki/C.G._R%C3%B6der" title="C.G. Röder">C.G. Röder</a>.
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Russian / German
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Robert_Seitz" title="Robert Seitz">Robert Seitz</a><!--ASL0-->, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001869&amp;teil=0203&amp;seite=00000194&amp;zoom=1">[1869]</a></span>.  <br />later issued by <a href="/wiki/Bessel" title="Bessel">W. Bessel &amp; Co.</a>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=13077/13085/13796/14033/14082/14083/14084/14085/14086/14128/14129/13093/14190/14191/14192/14253">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=13077/13085/13796/14033/14082/14083/14084/14085/14086/14128/14129/13093/14190/14191/14192/14253">del</a>/<span id="fmrglnk" data-pdfstr="13077//13085//13796//14033//14082//14083//14084//14085//14086//14128//14129//13093//14190//14191//14192//14253/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="13077">Javascript is required for this feature.</div><script>JGINITsearchbars['13077']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=13077|13085|13796|14033|14082|14083|14084|14085|14086|14128|14129|13093|14190|14191|14192|14253&type=Title%20page%20and%20preliminaries%7CIntroduction%7CAct%20I%2C%20Tableau%201%2C%20Scene%201a.%20Wedding%20Chorus%20and%20Blessing%7CAct%20I%2C%20Tableau%201%2C%20Scene%201b.%20Mary%27s%20Romance%20and%20Douglas%27%20Narrative%7CAct%201%2C%20Tableau%201%2C%20Scene%202.%20MacGregor%27s%20Narrative%7CAct%20I%2C%20Tableau%202%20%28%3DScene%203%20of%20Act%20I%29%7CAct%20II%2C%20Tableau%201%2C%20Scene%201.%20Entr%27acte%2C%20Dances%2C%20and%20Chorus%7CAct%20II%2C%20Tableau%201%2C%20Scene%202.%20Scene%20with%20the%20Drunk%7CAct%20II%2C%20Tableau%201%2C%20Scene%203.%20Lesley%27s%20Song%7CAct%20II%2C%20Tableau%201%2C%20Scene%204.%20Ratcliff%27s%20Narrative%7CAct%20II%2C%20Tableau%202%2C%20Scene%20by%20the%20Black%20Stone%7CEntr%27acte%20%28to%20Act%20III%29%7CAct%20III%2C%20Scene%201a.%20Mary%27s%20%5B2nd%5D%20Romance%7CAct%20III%2C%20Scene%201b.%20Margaret%27s%20Narrative%7CAct%20III%2C%20Scene%202.%20%5BLove%5D%20Duet%7CAct%20III%2C%20Last%20Scene&pgcount=4|7|22|31|17|19|10|11|13|26|19|4|19|19|8|22&signature=20095a9bf41fdd184a7507661349683ca81af260"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:CuiVil_Preliminaries.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/9d/20a456f40a5d8d5b74076eed52d9481aaefd847a.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Vocal Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Entr.27acte_.28Act_III.29">Entr'acte (Act III)</span></h4>
+<h5> <span class="mw-headline" id="For_Orchestra_.28Rimsky-Korsakov.29">For Orchestra (Rimsky-Korsakov)</span></h5>
+<div class="we"><div id="IMSLP13094" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/13094"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a8/CuiVil_11_Entracte_orch%28Rimsky%29.PDF" class="internal" title="CuiVil 11 Entracte orch(Rimsky).PDF">*</a></span><a href="/wiki/File:CuiVil_11_Entracte_orch(Rimsky).PDF" title="File:CuiVil 11 Entracte orch(Rimsky).PDF">#13094</a> - 0.84MB, 9 (including title) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-13094' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-13094'>
+	<a href='javascript:void(0)' id='13094' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='13094' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='13094' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='13094' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='13094' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-13094'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/13094/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/13094/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 144"><a href="/wiki/Special:GetFCtrStats/@13094" title="Special:GetFCtrStats/@13094">144</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Lyle_Neff" title="User:Lyle Neff">Lyle Neff</a> (2007/9/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP78051" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/78051"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c3/SIBLEY1802.12467.5ca5-39087009299001score.pdf" class="internal" title="SIBLEY1802.12467.5ca5-39087009299001score.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.12467.5ca5-39087009299001score.pdf" title="File:SIBLEY1802.12467.5ca5-39087009299001score.pdf">#78051</a> - 1.67MB, 10 (tp, #2-9, ad) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-78051' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-78051'>
+	<a href='javascript:void(0)' id='78051' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='78051' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='78051' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='78051' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='78051' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-78051'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/78051/William_Ratcliff_(Cui,_C%C3%A9sar)" title="Special:IMSLPEditCTag/78051/William Ratcliff (Cui, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 100"><a href="/wiki/Special:GetFCtrStats/@78051" title="Special:GetFCtrStats/@78051">100</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/12467"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2010/9/8" class="hovertext">2010/9/7</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rimsky-Korsakov,_Nikolay" title="Category:Rimsky-Korsakov, Nikolay">Nikolay Rimsky-Korsakov</a> (1844–1908)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>St. Petersburg: <a href="/wiki/Bessel" title="Bessel">W. Bessel &amp; Co.</a><!--ASL1-->, n.d.(ca.1899).  Plate 4069.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=13094/78051">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=13094/78051">del</a>/<span id="fmrglnk" data-pdfstr="13094//78051/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="13094">Javascript is required for this feature.</div><script>JGINITsearchbars['13094']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=13094|78051&type=Complete%20score%7CComplete%20score&pgcount=9|10&signature=222aea4b90603e97237c8c20d24d60357a96364d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:CuiVil_11_Entracte_orch(Rimsky).PDF" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a8/a41f3351d14342e119ddff899850924e0238a038.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span>
+<h2> <span class="mw-headline" id="Free_Recordings">Free Recordings</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mediafire.com/play/mn2zymmqzjy/Cui_Vil_Intro_Fin2006.mp3">1. Introduction (Audio from MIDI orchestration sequenced by Lyle Neff, based on vocal score)</a>
+</li></ul>
+<p><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+</p>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">William Ratcliff
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Вилльям Ратклифф
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Cui,_C%C3%A9sar" title="Category:Cui, César">Cui, César</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ICC 126
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 acts
+<dl><dd>1. Introduction
+</dd></dl>
+<dl><dt><ul><li>Act I.
+</li></ul>
+</dt></dl>
+<ul><li><i>Tableau 1</i>
+</li></ul>
+<dl><dd>2. Scene 1a. Wedding Chorus and Blessing
+</dd><dd>3. Scene 1b. Mary's Romance and Douglas' Narrative
+</dd><dd>4. Scene 2. MacGregor's Narrative
+</dd></dl>
+<ul><li><i>Tableau 2</i>
+</li></ul>
+<dl><dd>5. Scene 3 [of Act I].
+</dd></dl>
+<dl><dt><ul><li>Act II.
+</li></ul>
+</dt></dl>
+<ul><li><i>Tableau 1</i>
+</li></ul>
+<dl><dd>6. Scene 1. Entr'acte, Dances, and Chorus
+</dd><dd>7. Scene 2. Scene with the Drunk
+</dd><dd>8. Scene 3. Lesley's Song
+</dd><dd>9. Scene 4. Ratcliff's Narrative
+</dd></dl>
+<ul><li><i>Tableau 2</i>
+</li></ul>
+<dl><dd>10. Scene by the Black Stone.
+</dd></dl>
+<dl><dt><ul><li>Act III.
+</li></ul>
+</dt><dd>11. Entr'acte
+</dd><dd>12. Scene 1a. Mary's [2nd] Romance
+</dd><dd>13. Scene 1b. Margaret's Narrative
+</dd><dd>14. Scene 2. [Love] Duet
+</dd><dd>15. Last Scene
+</dd></dl>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1861-68
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1869-02-26 – St. Petersburg, Maryinsky Theatre
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1869 (vocal score only) - Leipzig: Robert Seitz
+<dl><dd><span class="plainlinks"><a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001869&amp;teil=0203&amp;seite=00000194&amp;zoom=1">Hofmeister's <i>Monatsbericht</i> (1869), p.194</a></span>
+</dd></dl>
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td>Composer, after <a href="/wiki/Category:Zhukovsky,_Vasily" title="Category:Zhukovsky, Vasily">Vasily Zhukovsky</a> (1783–1852)'s translation of the tragedy by <a href="/wiki/Category:Heine,_Heinrich" title="Category:Heine, Heinrich">Heinrich Heine</a> (1797–1856), with additional material by <a href="/wiki/Category:Krylov,_Viktor" title="Category:Krylov, Viktor">Viktor Krylov</a> (1838–1906)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Russian, with added German text; French later added to Mary's 2nd Romance
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Voices with Orchestra
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/William_Ratcliff_(Cui)" class="extiw" title="wikipedia:William Ratcliff (Cui)">Wikipedia article</a>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<hr />
+<table class="collapsible" width="66%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="2" align="center" style="background-color:rgb(250,190,135)">Operas by <a href="/wiki/Category:Cui,_C%C3%A9sar" title="Category:Cui, César">César Cui</a>
+</th></tr>
+<tr>
+<td valign="top" width="57%" style="background-color:rgb(250,220,180)">
+<ul><li> <i>Neuhausen Castle</i> (1859, unfinished)
+</li><li> <i><a href="/wiki/Prisoner_of_the_Caucasus_(Cui,_C%C3%A9sar)" title="Prisoner of the Caucasus (Cui, César)">Prisoner of the Caucasus</a></i> (1857–58, rev. 1881–82, 1885)
+</li><li> <i><a href="/wiki/The_Mandarin%27s_Son_(Cui,_C%C3%A9sar)" title="The Mandarin's Son (Cui, César)">The Mandarin's Son</a></i> (1859)
+</li><li> <i><strong class="selflink">William Ratcliff</strong></i> (1861–68)
+</li><li> <i><a href="/wiki/Mlada_(Various)" title="Mlada (Various)">Mlada</a></i> (1872, Act I only)
+</li><li> <i><a href="/wiki/Angelo_(Cui,_C%C3%A9sar)" title="Angelo (Cui, César)">Angelo</a></i> (1871–75)
+</li><li> <i><a href="/wiki/Le_flibustier_(Cui,_C%C3%A9sar)" title="Le flibustier (Cui, César)">Le flibustier</a></i> (1888–89)
+</li><li> <i><a href="/wiki/The_Saracen_(Cui,_C%C3%A9sar)" title="The Saracen (Cui, César)">The Saracen</a></i> (1896–98)
+</li><li> <i><a href="/wiki/Feast_in_Time_of_Plague_(Cui,_C%C3%A9sar)" title="Feast in Time of Plague (Cui, César)">Feast in Time of Plague</a></i> (1899~1900?)
+</li></ul>
+</td>
+<td valign="top" width="43%" style="background-color:rgb(250,220,180)">
+<ul><li> <i>Undina</i> (1900–04?, unfinished)
+</li><li> <i><a href="/wiki/Mademoiselle_Fifi_(Cui,_C%C3%A9sar)" title="Mademoiselle Fifi (Cui, César)">Mademoiselle Fifi</a></i> (1902–03)
+</li><li> <i><a href="/wiki/The_Snow_Bogatyr_(Cui,_C%C3%A9sar)" title="The Snow Bogatyr (Cui, César)">The Snow Bogatyr</a></i> (1905)
+</li><li> <i><a href="/wiki/Mateo_Falcone_(Cui,_C%C3%A9sar)" title="Mateo Falcone (Cui, César)">Mateo Falcone</a></i> (1906–07)
+</li><li> <i><a href="/wiki/The_Captain%27s_Daughter_(Cui,_C%C3%A9sar)" title="The Captain's Daughter (Cui, César)">The Captain's Daughter</a></i> (1907–09)
+</li><li> <i><a href="/wiki/Little_Red_Riding-Hood_(Cui,_C%C3%A9sar)" title="Little Red Riding-Hood (Cui, César)">Little Red Riding-Hood</a></i> (1911)
+</li><li> <i><a href="/wiki/Ivan_the_Fool_(Cui,_C%C3%A9sar)" title="Ivan the Fool (Cui, César)">Ivan the Fool</a></i> (1913)
+</li><li> <i><a href="/wiki/Puss-in-Boots_(Cui,_C%C3%A9sar)" title="Puss-in-Boots (Cui, César)">Puss-in-Boots</a></i> (1913)
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1239/1000000
+Post-expand include size: 71249/2097152 bytes
+Template argument size: 2085/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:32185-0!*!0!!en!2!* and timestamp 20180416023601 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=William_Ratcliff_(Cui,_C%C3%A9sar)&amp;oldid=1667078">http://imslp.org/index.php?title=William_Ratcliff_(Cui,_C%C3%A9sar)&amp;oldid=1667078</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_engraved_by_C.G._R%C3%B6der" title="Category:Scores engraved by C.G. Röder">Scores engraved by C.G. Röder</a></li><li><a href="/wiki/Category:Scores_published_by_Robert_Seitz" title="Category:Scores published by Robert Seitz">Scores published by Robert Seitz</a></li><li><a href="/wiki/Category:Rimsky-Korsakov,_Nikolay/Arranger" title="Category:Rimsky-Korsakov, Nikolay/Arranger">Rimsky-Korsakov, Nikolay/Arranger</a></li><li><a href="/wiki/Category:Scores_published_by_Bessel" title="Category:Scores published by Bessel">Scores published by Bessel</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Work_pages_with_links_to_recordings" title="Category:Work pages with links to recordings">Work pages with links to recordings</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Cui,_C%C3%A9sar" title="Category:Cui, César">Cui, César</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Operas" title="Category:Operas">Operas</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:For_voices,_mixed_chorus,_orchestra" title="Category:For voices, mixed chorus, orchestra">For voices, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:Russian_language" title="Category:Russian language">Russian language</a></li><li><a href="/wiki/Category:For_orchestra_(arr)" title="Category:For orchestra (arr)">For orchestra (arr)</a></li><li><a href="/wiki/Category:For_orchestra" title="Category:For orchestra">For orchestra</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1869" title="Category:Works first published in 1869">Works first published in 1869</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Zhukovsky,_Vasily/Librettist" title="Category:Zhukovsky, Vasily/Librettist">Zhukovsky, Vasily/Librettist</a></li><li><a href="/wiki/Category:Heine,_Heinrich/Librettist" title="Category:Heine, Heinrich/Librettist">Heine, Heinrich/Librettist</a></li><li><a href="/wiki/Category:Krylov,_Viktor/Librettist" title="Category:Krylov, Viktor/Librettist">Krylov, Viktor/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=William_Ratcliff_%28Cui%2C_C%C3%A9sar%29">1,503 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/William%20Ratcliff%20%28Cui%2C%20C%C3%A9sar%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.468 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416023601 -->
+</html>
+		

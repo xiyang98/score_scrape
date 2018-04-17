@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Beautiful Dreamer (Foster, Stephen) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Beautiful_Dreamer_(Foster,_Stephen)", "wgTitle": "Beautiful Dreamer (Foster, Stephen)", "wgCurRevisionId": 1276682, "wgArticleId": 52333, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Hudson, Robert A./Editor", "Hudson, Robert A./Arranger", "Baumbach, Adolph/Arranger", "Scores from the Library of Congress", "Gobbaerts, Louis/Arranger", "Scores", "Foster, Stephen", "Romantic style", "Romantic", "Serenades", "For voice, piano", "For voices with keyboard", "Scores featuring the voice", "Scores featuring the piano", "English language", "For mixed chorus, orchestra (arr)", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For chorus with orchestra", "For piano (arr)", "For 1 player", "Pages with arrangements", "Works first published in 1865", "Works first published in the 19th century", "E-flat major"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Beautiful_Dreamer_Foster_Stephen action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Beautiful_Dreamer_(Foster,_Stephen)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Beautiful_Dreamer_(Foster,_Stephen)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Beautiful_Dreamer_(Foster,_Stephen)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Beautiful_Dreamer_(Foster,_Stephen)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Beautiful_Dreamer_(Foster,_Stephen)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Beautiful_Dreamer_(Foster,_Stephen)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Beautiful_Dreamer_(Foster,_Stephen)&amp;oldid=1276682" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Beautiful%20Dreamer%20%28Foster%2C%20Stephen%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Beautiful Dreamer (Foster, Stephen)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1862?
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Serenades&amp;transclude=Template:Catintro">Serenades</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voice%2C_piano&amp;transclude=Template:Catintro">For voice, piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_keyboard&amp;transclude=Template:Catintro">For voices with keyboard</a></span>; <span class="expandline" title="9 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:English_language&amp;transclude=Template:Catintro">English language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_mixed_chorus%2C_orchestra_%28arr%29&amp;transclude=Template:Catintro">For mixed chorus, orchestra (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_chorus_with_orchestra&amp;transclude=Template:Catintro">For chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Beautiful Dreamer","composer":"Foster, Stephen","comphref":"\/wiki\/Category:Foster,_Stephen"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"beautiful dreamer","itunes":"beautiful dreamer","composer":"foster","scorekeywords":"beautiful dreamer","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":43,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947884675.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947884675.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947884675","desc":"STEFFE, W.: Battle Hymn of the Republic \/ WARD, S.A.: America the Beautiful \/ FOSTER, S.: Beautiful Dreamer (Americana) (Merrill, Black)","label":"Decca","category":"Musicals - Classical Music","composer":"Robison, Carson -- Steffe, William -- Rodgers, Richard -- Willson, Meredith -- Foster, Stephen C. -- Traditional -- Ward, Samuel A. -- Minningerode, Meade -- Galloway, Ted B.","artist":"Merrill, Robert -- Black, Stanley -- London Festival Orchestra","country":"United States","catid":"00028947884675","cdinfo":[[["Steffe, William",[["Battle Hymn of the Republic","mediaplayer\/player.asp?br=128&tl=2404585",[]]]],["Ward, Samuel A.",[["America the Beautiful","mediaplayer\/player.asp?br=128&tl=2404586",[]]]],["Traditional",[["Hoe Down!","mediaplayer\/player.asp?br=128&tl=2404587",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer","mediaplayer\/player.asp?br=128&tl=2404588",[]]]],["Rodgers, Richard",[["Oklahoma!, Act II: Oklahoma","mediaplayer\/player.asp?br=128&tl=2404589",[]]]],["Traditional",[["Mademoiselle from Armentieres - When Johnny Comes Marching Home","mediaplayer\/player.asp?br=128&tl=2404590",[]]]],["Foster, Stephen C.",[["De Camptown Races","mediaplayer\/player.asp?br=128&tl=2404591",[]]]],["Robison, Carson",[["Carry Me Back to the Lone Prairie","mediaplayer\/player.asp?br=128&tl=2404592",[]]]],["Traditional",[["Blow The Man Down","mediaplayer\/player.asp?br=128&tl=2404593",[]]]],["Minningerode, Meade",[["The Whiffenpoof Song","mediaplayer\/player.asp?br=128&tl=2404594",[]]]],["Willson, Meredith",[["Ask Not","mediaplayer\/player.asp?br=128&tl=2404595",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TROY319.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TROY319.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTROY319","desc":"Vocal Recital: Danton, Jean - FOSTER, S. \/ JOPLIN, S. \/ COPLAND, A. \/ IVES, C. \/ DAVIS, C. \/ ROMBERG, S. (American Dreamer - Heart Songs)","label":"Albany","category":"Musicals - Classical Music","composer":"Ganz, Rudolph -- Bernstein, Leonard -- Foster, Stephen C. -- Kern, Jerome -- Joplin, Scott -- Ives, Charles -- Romberg, Sigmund -- Carpenter, John Alden -- Copland, Aaron -- Davis, Carl -- Gershwin, George","artist":"Stumpf, Thomas -- Danton, Jean -- Curry, Michael","country":"Czech Republic Hungary India Switzerland United Kingdom United States","catid":"TROY319","cdinfo":[[["Foster, Stephen C.",[["Beautiful Dreamer","mediaplayer\/player.asp?br=128&tl=449241",[]],["Ah! May the red rose live alway!","mediaplayer\/player.asp?br=128&tl=449242",[]]]],["Foster, Stephen C.",[["If You've Only Got a Moustache","mediaplayer\/player.asp?br=128&tl=449243",[]]]],["Ganz, Rudolph",[["A Memory","mediaplayer\/player.asp?br=128&tl=452782",[]]]],["Joplin, Scott",[["When your hair is like the snow","mediaplayer\/player.asp?br=128&tl=449244",[]]]],["Carpenter, John Alden",[["Gitanjali (Song offerings): The Sleep That Flits On Baby's Eyes","mediaplayer\/player.asp?br=128&tl=452783",[]]]],["Copland, Aaron",[["The Dodger","mediaplayer\/player.asp?br=128&tl=449245",[]],["Long Time Ago","mediaplayer\/player.asp?br=128&tl=449246",[]]]],["Ives, Charles",[["Memories","mediaplayer\/player.asp?br=128&tl=449247",[]]]],["Ives, Charles",[["Songs my mother taught me","mediaplayer\/player.asp?br=128&tl=449248",[]]]],["Ives, Charles",[["The Circus Band","mediaplayer\/player.asp?br=128&tl=449249",[]]]],["Davis, Carl",[["Diversions: Here Comes the Ballad","mediaplayer\/player.asp?br=128&tl=449250",[]]]],["Romberg, Sigmund",[["Are You Love?","mediaplayer\/player.asp?br=128&tl=449251",[]]]],["Bernstein, Leonard",[["Peter Pan","mediaplayer\/player.asp?br=128&tl=449252|449253",[]]]],["Kern, Jerome",[["Very Warm for May: All The Things You Are","mediaplayer\/player.asp?br=128&tl=449254",[]]]],["Kern, Jerome",[["One Moment Alone","mediaplayer\/player.asp?br=128&tl=449255",[]]]],["Kern, Jerome",[["She's a Good Fellow: The First Rose of Summer","mediaplayer\/player.asp?br=128&tl=449256",[]]]],["Kern, Jerome",[["Sweet Adeline","mediaplayer\/player.asp?br=128&tl=449257",[]]]],["Gershwin, George",[["Oh, Kay!: Someone to Watch Over Me","mediaplayer\/player.asp?br=128&tl=449258",[]]]],["Gershwin, George",[["Song of the Flame: You are you","mediaplayer\/player.asp?br=128&tl=449260",[]]]],["Gershwin, George",[["Girl Crazy: I got rhythm","mediaplayer\/player.asp?br=128&tl=449261",[]],["Delicious: Blah, blah, blah","mediaplayer\/player.asp?br=128&tl=449262",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0094638222552.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0094638222552.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0094638222552","desc":"ASHOKAN FAREWELL - Beautiful Dreamer","label":"Warner Classics - Parlophone","category":"Vocal - Classical Music","composer":"Foster, Stephen C. -- Traditional -- Copland, Aaron -- Valentini, Giovanni -- Ungar, Jay -- Mason, Molly -- Stepp, William","artist":"Hampson, Thomas -- Gambill, Paul -- Trischka, Tony -- Nashville Chamber Orchestra -- Rust, Steve -- Kinsella, Arnie -- Bargeron, Dave -- Ungar, Jay -- Burke, Gary -- Newton, Abby -- Mason, Molly -- Unger, Ruth -- Kirk, John -- Wimmer, Kevin -- Powell, Dirk -- Arsement, Ganey -- Lea, Mary -- Balfa, Christine -- Glaser, Matt -- Stover, Evan -- Ecklund, Peter -- Rust, Mark","country":"Italy United States","catid":"0094638222552","cdinfo":[[["Ungar, Jay",[["Ashokan Farewell","mediaplayer\/player.asp?br=128&tl=1349714",[]]]],["Mason, Molly",[["Bound for Another Harvest Home","mediaplayer\/player.asp?br=128&tl=1349715",[]]]],["Ungar, Jay",[["Prairie Spring","mediaplayer\/player.asp?br=128&tl=1349716",[]],["Haymaker's Hoedown","mediaplayer\/player.asp?br=128&tl=1349717",[]]]],["Traditional",[["Solstice Hymn","mediaplayer\/player.asp?br=128&tl=1349718",[]]]],["Ungar, Jay",[["Thanksgiving Waltz","mediaplayer\/player.asp?br=128&tl=1349719",[]]]],["Traditional",[["La Chanson de Mardi Gras","mediaplayer\/player.asp?br=128&tl=1349720",[]]]],["Copland, Aaron",[["Bonaparte's Retreat - 4 Dance Episodes: IV. Hoe Down","mediaplayer\/player.asp?br=128&tl=1349721",[]]]],["Foster, Stephen C.",[["Jeanie with the Light Brown Hair","mediaplayer\/player.asp?br=128&tl=1349771|1349772",["Introduction: Violin solo","Jeanie with the Light Brown Hair"]]]],["Foster, Stephen C.",[["Hard times come again no more","mediaplayer\/player.asp?br=128&tl=1349804",[]]]],["Foster, Stephen C.",[["The Voice of By Gone Days","mediaplayer\/player.asp?br=128&tl=1349813",[]]]],["Foster, Stephen C.",[["Ring, ring de banjo! - Susanna - Camptown Races","mediaplayer\/player.asp?br=128&tl=1349814",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer","mediaplayer\/player.asp?br=128&tl=1349815",[]]]],["Foster, Stephen C.",[["That's what's the matter","mediaplayer\/player.asp?br=128&tl=1349828",[]],["Old Folks at Home - My old Kentucky home, good-night!","mediaplayer\/player.asp?br=128&tl=1349832",[]]]],["Foster, Stephen C.",[["Sweetly she sleeps, my Alice fair","mediaplayer\/player.asp?br=128&tl=1349914",[]]]],["Valentini, Giovanni",[["My wife is a most knowing woman","mediaplayer\/player.asp?br=128&tl=1349915",[]]]],["Foster, Stephen C.",[["Linger in blissful repose","mediaplayer\/player.asp?br=128&tl=1349953",[]]]],["Foster, Stephen C.",[["Ah! May the red rose live alway!","mediaplayer\/player.asp?br=128&tl=1349974",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CCLCDG1138.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CCLCDG1138.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCCLCDG1138","desc":"BEAUTIFUL DREAMER (Music of America's Gilded Age) (Kunzel)","label":"The Gift of Music","category":"Instrumental - Classical Music","composer":"MacDowell, Edward -- Foster, Stephen C. -- Kern, Jerome -- Herbert, Victor -- Joplin, Scott -- Sousa, John Philip","artist":"Kunzel, Erich -- Cincinnati Pops Orchestra -- Spring, Matthew -- Stowe, Sara -- Souter, Martin","country":"United States","catid":"CCLCDG1138","cdinfo":[[["Sousa, John Philip",[["Peaches and Cream","mediaplayer\/player.asp?br=128&tl=693547",[]],["Desiree: Waltz","mediaplayer\/player.asp?br=128&tl=693548",[]]]],["Herbert, Victor",[["Auditorium Festival March, \"Festival March\"","mediaplayer\/player.asp?br=128&tl=693549",[]]]],["MacDowell, Edward",[["To A Wild Rose (arr. for piano)","mediaplayer\/player.asp?br=128&tl=693550",[]]]],["Joplin, Scott",[["The Entertainer","mediaplayer\/player.asp?br=128&tl=693551",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer","mediaplayer\/player.asp?br=128&tl=693552",[]]]],["Joplin, Scott",[["Bethena","mediaplayer\/player.asp?br=128&tl=693553",[]]]],["Foster, Stephen C.",[["I Dream of Jeannie","mediaplayer\/player.asp?br=128&tl=693554",[]],["Old Folks at Home","mediaplayer\/player.asp?br=128&tl=693555",[]]]],["Joplin, Scott",[["Solace","mediaplayer\/player.asp?br=128&tl=693556",[]]]],["Sousa, John Philip",[["The Washington Post March","mediaplayer\/player.asp?br=128&tl=693557",[]]]],["Joplin, Scott",[["Maple Leaf Rag (version for piano)","mediaplayer\/player.asp?br=128&tl=693558",[]]]],["Kern, Jerome",[["Mark Twain Suite","mediaplayer\/player.asp?br=128&tl=693559",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099923447851.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099923447851.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099923447851","desc":"American Classics: Stephen Foster, Charles Tomlinson Griffes and Aaron Copland","label":"Warner Classics - Parlophone","category":"Vocal - Classical Music","composer":"Foster, Stephen C. -- Griffes, Charles Tomlinson -- Copland, Aaron -- Valentini, Giovanni","artist":"Zeger, Brian -- Hampson, Thomas -- London Symphony Orchestra -- Voigt, Deborah -- Trischka, Tony -- Hendricks, Barbara -- Kinsella, Arnie -- Bargeron, Dave -- Ungar, Jay -- Mason, Molly -- Tilson Thomas, Michael -- Kirk, John -- Glaser, Matt -- Stover, Evan -- Ecklund, Peter -- Rust, Mark","country":"Italy United States","catid":"5099923447851","cdinfo":[[["Foster, Stephen C.",[["Jeanie with the Light Brown Hair (arr. D. Alpher, C. Dragon, M. Mason and J. Ungar)","mediaplayer\/player.asp?br=128&tl=1363741|1363742",["Introduction: Violin solo","Jeanie with the Light Brown Hair"]]]],["Foster, Stephen C.",[["Hard times come again no more (arr. D. Alpher, M. Mason and J. Ungar)","mediaplayer\/player.asp?br=128&tl=1363743",[]]]],["Foster, Stephen C.",[["The Voice of By Gone Days","mediaplayer\/player.asp?br=128&tl=1363744",[]]]],["Foster, Stephen C.",[["Ring, ring de banjo! - Susanna - Camptown Races","mediaplayer\/player.asp?br=128&tl=1363745",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. D. Alpher, J. Halloran, M. Mason and J. Ungar)","mediaplayer\/player.asp?br=128&tl=1363746",[]]]],["Foster, Stephen C.",[["That's what's the matter (arr. D. Alpher, M. Mason and J. Ungar)","mediaplayer\/player.asp?br=128&tl=1363747",[]],["Old Folks at Home - My old Kentucky home, good-night!","mediaplayer\/player.asp?br=128&tl=1363748",[]]]],["Foster, Stephen C.",[["Sweetly she sleeps, my Alice fair","mediaplayer\/player.asp?br=128&tl=1363749",[]]]],["Valentini, Giovanni",[["My wife is a most knowing woman","mediaplayer\/player.asp?br=128&tl=1363750",[]]]],["Foster, Stephen C.",[["Linger in blissful repose","mediaplayer\/player.asp?br=128&tl=1363751",[]]]],["Foster, Stephen C.",[["Ah! May the red rose live alway! (arr. D. Alpher, M. Mason and J. Ungar)","mediaplayer\/player.asp?br=128&tl=1363752",[]]]],["Griffes, Charles Tomlinson",[["The Half-Ring Moon","mediaplayer\/player.asp?br=128&tl=1363761",[]]]],["Griffes, Charles Tomlinson",[["Pierrot","mediaplayer\/player.asp?br=128&tl=1363762",[]]]],["Griffes, Charles Tomlinson",[["Cleopatra to the Asp","mediaplayer\/player.asp?br=128&tl=1363763",[]]]],["Griffes, Charles Tomlinson",[["Evening Song","mediaplayer\/player.asp?br=128&tl=1363764",[]]]],["Copland, Aaron",[["8 Poems of Emily Dickinson","mediaplayer\/player.asp?br=128&tl=1363753|1363754|1363755|1363756|1363757|1363758|1363759|1363760",["No. 1. Nature, the gentlest mother","No. 2. There came a wind like a bugle","No. 3. The world feels dusty","No. 4. Heart, we will forget him","No. 5. Dear March, come in!","No. 6. Sleep is supposed to be","No. 7. Going to Heaven!","No. 8. The Chariot"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.559124.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.559124.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.559124","desc":"FOSTER: Foster for Brass","label":"Naxos","category":"Chamber Music - Classical Music","composer":"Grafulla, Claudio S. -- Bellak, James -- Winner, Septimus -- Ratel, William -- Foster, Stephen C. -- Squire, Alfred -- Friedrich, G.W E. -- Hall, D.C. -- King, J. P. -- White, Edward L.","artist":"Chestnut Brass Company","country":"United States","catid":"8.559124","cdinfo":[[["Friedrich, G.W E.",[["Ellen Bayne Quick Step","mediaplayer\/player.asp?br=128&tl=87373",[]]]],["Hall, D.C.",[["Bronze Bob Tail Horse Quick Step (arr. T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87377",[]]]],["Foster, Stephen C.",[["Why, No One to Love (arr. W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87378",[]]]],["White, Edward L.",[["California Quick Step (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87383",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87440",[]]]],["Grafulla, Claudio S.",[["Dolly Day Quick Step (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87427",[]]]],["Bellak, James",[["Hard Times Waltz (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87428",[]]]],["Foster, Stephen C.",[["We are Coming Father Abraam, 300,000 More (arr.  W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87432",[]]]],["King, J. P.",[["Colonel Meeker's Quick Step (arr. T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87438",[]]]],["Friedrich, G.W E.",[["March. My Old Kentucky Home","mediaplayer\/player.asp?br=128&tl=87375",[]]]],["Foster, Stephen C.",[["My Wife is a Most Knowing Woman (arr. W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87433",[]]]],["Friedrich, G.W E.",[["Maggie By My Side Grand March","mediaplayer\/player.asp?br=128&tl=87441",[]]]],["Foster, Stephen C.",[["Santa Anna's Retreat from Buena Vista (arr. W.R. Baccus)","mediaplayer\/player.asp?br=128&tl=87434",[]]]],["Winner, Septimus",[["Willie Schottisch (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87430",[]]]],["Grafulla, Claudio S.",[["George Hart's Quick Step (arr. T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87439",[]]]],["Foster, Stephen C.",[["Some Folks (arr. W.R. Baccus)","mediaplayer\/player.asp?br=128&tl=87435",[]]]],["Foster, Stephen C.",[["Open Thy Lattice Love (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87431",[]]]],["Friedrich, G.W E.",[["Old Dog Tray March (arr. B. Barrie)","mediaplayer\/player.asp?br=128&tl=87437",[]]]],["Ratel, William",[["Camptown Quick Step (arr. J. Krush)","mediaplayer\/player.asp?br=128&tl=87429",[]]]],["Friedrich, G.W E.",[["Massa's in the Cold Ground","mediaplayer\/player.asp?br=128&tl=87374",[]]]],["Foster, Stephen C.",[["When This Dreadful War is Over (arr. W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87436",[]]]],["Foster, Stephen C.",[["Come Where My Love Lies Dreaming (arr. B. Barrie)","mediaplayer\/player.asp?br=128&tl=87442",[]]]],["Squire, Alfred",[["Come Where My Love Lies Dreaming Quick Step (arr. T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87380",[]]]],["Foster, Stephen C.",[["Gentle Annie (arr. W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87379",[]],["Lulu is Gone (arr. W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87381",[]],["Where has Lula Gone (arr. W.R. Baccus and T.L. Cornett)","mediaplayer\/player.asp?br=128&tl=87382",[]]]],["Friedrich, G.W E.",[["Farewell My Lily Dear Quick Step","mediaplayer\/player.asp?br=128&tl=87376",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=074644829723.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=074644829723.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D074644829723","desc":"Choral Concert: Mormon Tabernacle Choir - ROOT, G.F. \/ POULTON, G. \/ STEFFE, W. \/ FOSTER, S. (Songs of the Civil War and Stephen Foster Favorites)","label":"Sony Classical","category":"Choral - Secular - Classical Music","composer":"Root, George Frederick -- Webster, Joseph Philbrick -- Steffe, William -- Crouch, Frederick Nicolls -- Emmett, Daniel Decatur -- Foster, Stephen C. -- Traditional -- Gilmore, Patrick Sarsfield -- Kittredge, Walter -- Poulton, George","artist":"Asper, Frank Wilson -- Condie, Richard P.","country":"Germany United Kingdom United States","catid":"074644829723","cdinfo":[[["Root, George Frederick",[["Tramp! Tramp! Tramp! (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150849",[]]]],["Poulton, George",[["Aura Lee (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150850",[]]]],["Traditional",[["The Bonnie Blue Flag (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150851",[]]]],["Traditional",[["He's Gone Away (arr. K. Davis for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150852",[]]]],["Root, George Frederick",[["The Battle Cry of Freedom","mediaplayer\/player.asp?br=128&tl=2150853",[]]]],["Webster, Joseph Philbrick",[["Lorena (arr. A. Schreiner for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150854",[]]]],["Steffe, William",[["Battle Hymn of the Republic (arr. P.J. Wilhousky for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150855",[]]]],["Kittredge, Walter",[["Tenting on the Old Camp Ground (arr. N. Lockwood)","mediaplayer\/player.asp?br=128&tl=2150856",[]]]],["Traditional",[["Sweet Evelina (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150857",[]]]],["Emmett, Daniel Decatur",[["Dixie (arr. J. Welch for choir and chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2150858",[]]]],["Crouch, Frederick Nicolls",[["Kathleen Mavourneen (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150859",[]]]],["Traditional",[["Sometimes I Feel Like A Motherless Child (arr. R. Ringwald for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150866",[]]]],["Gilmore, Patrick Sarsfield",[["When Johnny comes Marching Home (arr. P.J. Wilhousky for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150867",[]]]],["Foster, Stephen C.",[["Ring, ring de banjo! (arr. R. De Cormier)","mediaplayer\/player.asp?br=128&tl=2150868",[]]]],["Foster, Stephen C.",[["Susanna (Oh! Susanna) (arr. R. Shaw and A. Parker)","mediaplayer\/player.asp?br=128&tl=2150869",[]]]],["Foster, Stephen C.",[["Old Folks at Home \"Way Down Upon the Swanee River\" (arr. A. Schreiner)","mediaplayer\/player.asp?br=128&tl=2150870",[]]]],["Foster, Stephen C.",[["The Glendy Burk (arr. R. De Cormier)","mediaplayer\/player.asp?br=128&tl=2150871",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150872",[]]]],["Foster, Stephen C.",[["Jeanie with the Light Brown Hair (arr. R.P. Condie)","mediaplayer\/player.asp?br=128&tl=2150873",[]]]],["Foster, Stephen C.",[["De Camptown Races (arr. R. De Cormier)","mediaplayer\/player.asp?br=128&tl=2150874",[]]]],["Foster, Stephen C.",[["My Old Kentucky Home (arr. R. Cundick for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150875",[]]]],["Foster, Stephen C.",[["Nelly Bly (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150876",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=FC-005.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=FC-005.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DFC-005","desc":"Orchestral Music - FOSTER, S. \/ BOYER, P. \/ POULTON, G. \/ ROOT, G.F. (American Originals) (Cincinnati Pops Orchestra, J.M. Russell)","label":"Fanfare Cincinnati","category":"Orchestral - Classical Music","composer":"Root, George Frederick -- Boyer, Peter -- Foster, Stephen C. -- Traditional -- Poulton, George","artist":"Cincinnati Pops Orchestra -- Henry, Joe -- Over the Rhine -- Russell, John Morris -- O'Donovan, Aoife -- Cash, Rosanne -- Flemons, Dom -- Bergquist, Karin -- Comet Bluegrass All-Stars -- Cunningham, Ed","country":"Canada United Kingdom United States","catid":"FC-005","cdinfo":[[["Foster, Stephen C.",[["Oh! Susanna (arr. C. Walden for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381802",[]]]],["Foster, Stephen C.",[["Jeanie with the Light Brown Hair (arr. R. Mounsey for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381803",[]]]],["Foster, Stephen C.",[["My old Kentucky home, good night (arr. R. Pellett for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381804",[]]]],["Traditional",[["Amazing Grace (arr. R. Pellett)","mediaplayer\/player.asp?br=128&tl=2381805",[]]]],["Boyer, Peter",[["Rolling River (Sketches on \"Shenandoah\")","mediaplayer\/player.asp?br=128&tl=2381806",[]]]],["Foster, Stephen C.",[["Why, No One to Love? (arr. R. Pellett for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381807",[]]]],["Foster, Stephen C.",[["Old folks at Home (arr. T. Berens for vocals and orchestra)","mediaplayer\/player.asp?br=128&tl=2381808",[]]]],["Traditional",[["Kumbaya (arr. T. Berens)","mediaplayer\/player.asp?br=128&tl=2381809",[]]]],["Foster, Stephen C.",[["Slumber My Darling (arr. C. Walden for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381810",[]]]],["Poulton, George",[["Aura Lee  (arr. R. Pellett for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381811",[]]]],["Foster, Stephen C.",[["Foster's Folly (arr. T. Berens for orchestra)","mediaplayer\/player.asp?br=128&tl=2381812",[]]]],["Foster, Stephen C.",[["Ring, ring de banjo! (arr. C. Walden for orchestra)","mediaplayer\/player.asp?br=128&tl=2381830",[]]]],["Traditional",[["Red River Valley (arr. T. Berens)","mediaplayer\/player.asp?br=128&tl=2381831",[]]]],["Root, George Frederick",[["The Battle Cry of Freedom (arr. T. Berens for orchestra)","mediaplayer\/player.asp?br=128&tl=2381832",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. R. Mounsey for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381833",[]]]],["Foster, Stephen C.",[["Hard times come again no more (arr. T. Berens for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381834",[]]]],["Foster, Stephen C.",[["De Camptown Races (arr. R. Mounsey)","mediaplayer\/player.asp?br=128&tl=2381835",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=LEMS8036.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=LEMS8036.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DLEMS8036","desc":"FOSTER, S.: Vocal Music (Dear Friends and Gentle Hearts) (Dooley)","label":"Lyrichord Early Music","category":"Instrumental - Classical Music","composer":"Foster, Stephen C.","artist":"Dooley, Jeffrey -- Crafton, Randy -- Cok, Kathryn -- Gummere, Christine -- Neely, Patricia Ann -- Nelson, Leah -- DeLucia, John -- Dixon, David -- Rand, Paula","country":"Irish Republic United States","catid":"LEMS8036","cdinfo":[[["Foster, Stephen C.",[["Beautiful Dreamer","mediaplayer\/player.asp?br=128&tl=453799",[]],["Soiree Polka","mediaplayer\/player.asp?br=128&tl=453800",[]],["Ah! May the red rose live alway!","mediaplayer\/player.asp?br=128&tl=453801",[]]]],["Foster, Stephen C.",[["We are coming, Father Abraam, 300,000 more","mediaplayer\/player.asp?br=128&tl=453802",[]]]],["Foster, Stephen C.",[["Linger in blissful repose","mediaplayer\/player.asp?br=128&tl=453803",[]],["Santa Anna's Retreat from Buena Vista","mediaplayer\/player.asp?br=128&tl=453804",[]],["Farewell, Mother dear","mediaplayer\/player.asp?br=128&tl=453805",[]],["Jeanie with the Light Brown Hair","mediaplayer\/player.asp?br=128&tl=453806",[]],["That's what's the matter","mediaplayer\/player.asp?br=128&tl=453807",[]],["Hard times come again no more","mediaplayer\/player.asp?br=128&tl=453808",[]]]],["Foster, Stephen C.",[["Summer Longings","mediaplayer\/player.asp?br=128&tl=453809",[]]]],["Foster, Stephen C.",[["I'm nothing but a plain old soldier","mediaplayer\/player.asp?br=128&tl=453810",[]],["My old Kentucky home, good night","mediaplayer\/player.asp?br=128&tl=453811",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DOR-90299.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DOR-90299.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDOR-90299","desc":"Piano Recital: Schwab, Jacqueline - MOLLOY, J.L. \/ TUCKER, H. \/ FOSTER, S. \/ KITTREDGE, W. (Mark Twain's America - A Portrait in Music)","label":"Dorian Sono Luminus","category":"Instrumental - Classical Music","composer":"Dacre, Harry -- Anonymous -- Tucker, Henry -- Molloy, James Lynam -- Foster, Stephen C. -- Herbert, Victor -- Traditional -- Lowry, Robert -- Harris, Charles K. -- Scott, James -- Bucalossi, Ernest -- Kittredge, Walter -- Spilman, Jonathan Edwards -- Leybourne, George","artist":"Schwab, Jacqueline","country":"United Kingdom United States","catid":"DOR-90299","cdinfo":[[["Molloy, James Lynam",[["Love's Old Sweet Song - Sweet Genevieve (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761717",[]]]],["Traditional",[["Fisher's Hornpipe -  Saratoga Hornpipe - Good for the Tongue - Cincinnati Hornpipe","mediaplayer\/player.asp?br=128&tl=761718",[]],["Tis the Last Rose of Summer","mediaplayer\/player.asp?br=128&tl=761719",[]],["The Good Old Way","mediaplayer\/player.asp?br=128&tl=761720",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761721",[]]]],["Kittredge, Walter",[["Tenting on the Old Camp Ground (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761722",[]]]],["Anonymous",[["Little Carrie's Favorite Gallop","mediaplayer\/player.asp?br=128&tl=761723",[]]]],["Traditional",[["Sometimes I Feel Like a Motherless Child","mediaplayer\/player.asp?br=128&tl=761724",[]]]],["Foster, Stephen C.",[["Gentle Annie (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761725",[]]]],["Bucalossi, Ernest",[["La Gitana (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761726",[]]]],["Traditional",[["John Anderson, My Jo","mediaplayer\/player.asp?br=128&tl=761727",[]]]],["Herbert, Victor",[["The Ameer (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761728",["The Ameer: The Schottische (arr. J. Schwab)"]]]],["Traditional",[["Oft in the Stilly Night - Flow Gently, Sweet Afton (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761729",[]]]],["Scott, James",[["The Fascinator (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761730",[]]]],["Traditional",[["A Psalm of Life","mediaplayer\/player.asp?br=128&tl=761731",[]],["Our Meeting is Over","mediaplayer\/player.asp?br=128&tl=761732",[]]]],["Lowry, Robert",[["Beautiful River - Battle Hymn of the Republic (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761733",[]]]],["Leybourne, George",[["The Flying Trapeze - Daisy Bell (A Bicycle Built for Two) - After the Ball (arr. J. Schwab)","mediaplayer\/player.asp?br=128&tl=761734",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/foster%20beautiful%20dreamer"};IMSLPNaxosSearch="foster beautiful dreamer";JGaskdonation=0;JGFileTools={"205494":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205494"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23205494"}},"172084":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=172084"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP172084"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/172084"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/172084"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23172084"}},"269628":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269628"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269628"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269628"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269628"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269628"}},"269621":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269621"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269621"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269621"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269621"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269621"}},"269622":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269622"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269622"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269622"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269622"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269622"}},"269623":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269623"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269623"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269623"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269623"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269623"}},"269624":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269624"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269624"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269624"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269624"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269624"}},"269625":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269625"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269625"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269625"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269625"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269625"}},"269626":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269626"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269626"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269626"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269626"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269626"}},"269627":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269627"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269627"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269627"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269627"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269627"}},"269615":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269615"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269615"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269615"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269615"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269615"}},"269616":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269616"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269616"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269616"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269616"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269616"}},"269617":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269617"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269617"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269617"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269617"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269617"}},"269618":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269618"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269618"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269618"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269618"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269618"}},"269619":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269619"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269619"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269619"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269619"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269619"}},"269620":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=269620"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP269620"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/269620"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/269620"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23269620"}},"172086":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=172086"},"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/269628\/269621\/269622\/269623\/269624\/269625\/269626\/269627\/269615\/269616\/269617\/269618\/269619\/269620\/172086\/4270"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP172086"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/172086"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/172086"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23172086"}},"22870":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=22870"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP22870"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=22870"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/22870"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/22870"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/22870"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%2322870"}},"86026":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=86026"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP86026"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=86026"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/86026"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/86026"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Beautiful+Dreamer+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%2386026"}}};JGFileOpts={"205494":[],"172084":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgwfxiauvRily7rORhgdLwLWd\/yxLDrfTBbPzDPBGqRTGc43U\/qYd4sjL0H6OXALWXE7BnsX25Zk2XkysOBliBi"},"269628":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjY0ZMJbt1r77bvR4QqehIIPRF9wq5VDBDm0lJu4DTrqg\/0xqIPlmLQ2vDTK7EQSQKlSuD74vkLS6YEnY\/\/XNDG2cKBK\/TnMSt2bTb2nbiXhw=="},"269621":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhZpE5S1k4mqY0h7O7HbCBuoZHjXF8YVVN4sJW0DF6U2DIv\/QxBcl97KlCaON6dRc91g37zzq\/irxaYTBKW4qJVwmLp9GUdpSad7veOb+dwgw=="},"269622":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhZpE5S1k4mqY0h7O7HbCBu5yphJeMPM00oiq0fkNRyJUzYP9GXyzaP93L3oBfQ6a2\/9dB12h3wQo3YsAFkQe1tbEfUzNunoRGphfY7NQyuhw=="},"269623":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhHbD7rCRAHeRLLZXNMAVTeu4kTYPNIzmLrpqeR3FcVHxHeEu95k1+dg6SmIuGHeI379c3ye\/llGF1GB+mgLyMGFjgXgDZ5Af9TXpgWpmaxWQ=="},"269624":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhZitJl1Nts0jbe8dJb7h6GetmqQBVTspTnyEB49qWwjiJ5Xp36gaTD0Mzm\/8nydBWZ8GVSXD4IPTkQ+yv378tEZ7HYsCELd1Z3XXu7D2F50w=="},"269625":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biz14cDsD1E7docfbpUX1Ih6OvgQ8efFSIfO0DwrUTYch14IRKsFEcmujSm5Ysp4g58fri7MYMzq82Q+ekPpDNzODAtKVP0Nxv9k10d5UfRpQ=="},"269626":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjEKlbR5l8Kc9337urzwgLVvCXP2L5F1tz9iWqffRDFOnsaO\/FfkQmVra3w1KhIeJUShXZru\/S2bZVPd+MbP\/6SQfla\/pAwpZfR2MwXegX3Qg=="},"269627":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjPKaUbgtD+3puag7ZVw5hL8\/5CZCbkoU6azjJ37LTOQd+UftOzRY\/UtFH87v5+KZgN4LiWKw7u4yiIw4Rb8dWfhrml\/bSJeN6qtH\/zF0Ojkg=="},"269615":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhVW+GcaTrFCcd7fI82Vxhiw1PPxqgPS+tASeqqR9KT0r4HniabMzCHoLUeac9I\/QARe6JRPn2Y6Kg4eLVjUE4lPrRFpPti+FFB0dvBOwutSQ=="},"269616":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgY2mMX1TRqVCnWG\/q3T+GSWOmZWrcZyMwWb+XSf2ZDBQi96fKZWUjM3yAH7YGS8QLfolhEJfClWab+4piEZXVFVxE27162ctQggmPoaxSYHw=="},"269617":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi\/OGaBkEU54iDxj2Uks4pF8\/k7JPK96LrKL+dtPDd194j\/pAjSeOpTVDRDITi6tDPi6bpm7zL7UgbcYSp3sbERpVq9DvVekH7tKVDvS\/jatQ=="},"269618":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgYyJ4pHeIktQMBOsRZ48hwJmx\/ORX5JvidjZirYpfQnH2mUHx6albgkEoEFbQUTemw92LjDjQCzi0TRkDpikU\/kEEZIpyaZuNCYajaCGRAkA=="},"269619":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh9\/bny6uHUdTyf2PKVauv2Z4ktwUjB++PdpyY3MkoZHNpH+8M2LpiN9gyR7oTBUPfXaqcYT85rLF9DiRUIGKBxwsC1hkVztYybUIFuepGarQ=="},"269620":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biqP7XiZxdPZ70ErYip6UCgHFZSY4PKxALanxUcX64Li3iZNJ66TyZoybbqEb4QZRyHeCp9G4fNppYay+hu+HFTLKWN0MrEfTSkMaHPPs9S5g=="},"172086":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgjE8BTTi4225RlzzYrn3jcF5uPtVnlDGmT7sNuMi3v\/kMhCZWcuYWNFTBp3RwS9dNfHmr7BRXIOQ\/grsRDOGdl"},"22870":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhYpbIuyRBJOqYq2nl9zwgpgldaa2t\/AXRYartmanRILplAKl42BTNAh1yaNcXl9Nw6p897Z7GggcL9coKxoh7fRiH+5EfJEW8P0ctPgGkiAQz588seaqgO79r5SWAWZaQ="},"86026":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjwVCkzfiL2IevL1kgtvB+DLtB4IVpD5U7a9Up\/rxLbC1Q7mAHx+QVlKHSdwsZHp63Qb\/hUoTzUeFvTj8o9pL\/g8H5xsfwYDT+HfIcNWkl0sg=="}};JGPageUntagged=false;JGPageTags=["serenades","v pf","en"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"22870":[4,"3"],"86026":[2,"1"],"172084":[7.8333333333333,"12"],"172086":[8,"1"],"269622":[8,"1"],"205494":[0,0],"269628":[0,0],"269621":[0,0],"269623":[0,0],"269624":[0,0],"269625":[0,0],"269626":[0,0],"269627":[0,0],"269615":[0,0],"269616":[0,0],"269617":[0,0],"269618":[0,0],"269619":[0,0],"269620":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Mixed_Chorus_and_Orchestra_.28Hudson.29"><span class="tocnumber">2.2.1</span> <span class="toctext">For Mixed Chorus and Orchestra (Hudson)</span></a></li>
+<li class="toclevel-3"><a href="#For_Piano_solo_.28Baumbach.29"><span class="tocnumber">2.2.2</span> <span class="toctext">For Piano solo (Baumbach)</span></a></li>
+<li class="toclevel-3"><a href="#For_Piano_solo_.28Gobbaerts.29"><span class="tocnumber">2.2.3</span> <span class="toctext">For Piano solo (Gobbaerts)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">1</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP205494" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205494"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Synthesized Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/22/PMLP52333-Beautiful_Dreamer.mid" class="internal" title="PMLP52333-Beautiful Dreamer.mid">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer.mid" title="File:PMLP52333-Beautiful Dreamer.mid">#205494</a> - 0.01MB - 1:33<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205494' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205494'>
+	<a href='javascript:void(0)' id='205494' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205494' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205494' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205494' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205494' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205494'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/205494/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/205494/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@205494" title="Special:GetFCtrStats/@205494">739</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a><span class="mh555"> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=205494">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=205494">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="205494">Javascript is required for this feature.</div><script>JGINITsearchbars['205494']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">17</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP172084" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/172084"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ac/PMLP52333-Beautiful_Dreamer.pdf" class="internal" title="PMLP52333-Beautiful Dreamer.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer.pdf" title="File:PMLP52333-Beautiful Dreamer.pdf">#172084</a> - 0.04MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-172084' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-172084'>
+	<a href='javascript:void(0)' id='172084' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='172084' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='172084' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='172084' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='172084' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-172084'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/172084/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/172084/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 12431"><a href="/wiki/Special:GetFCtrStats/@172084" title="Special:GetFCtrStats/@172084">12431</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">editor</a> (2012/1/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Hudson,_Robert_A." title="Category:Hudson, Robert A.">Robert A. Hudson</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=172084">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=172084">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="172084">Javascript is required for this feature.</div><script>JGINITsearchbars['172084']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP52333-Beautiful_Dreamer.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ac/f33df5d4434b50c238ec1da38569548084bcb16f.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Mixed_Chorus_and_Orchestra_.28Hudson.29">For Mixed Chorus and Orchestra (Hudson)</span></h5>
+<div class="we"><div id="IMSLP269628" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269628"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Full Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/33/PMLP52333-Beautiful_Dreamer_Conductors_Score.pdf" class="internal" title="PMLP52333-Beautiful Dreamer Conductors Score.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_Conductors_Score.pdf" title="File:PMLP52333-Beautiful Dreamer Conductors Score.pdf">#269628</a> - 0.09MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269628' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269628'>
+	<a href='javascript:void(0)' id='269628' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269628' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269628' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269628' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269628' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269628'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269628/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269628/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1114"><a href="/wiki/Special:GetFCtrStats/@269628" title="Special:GetFCtrStats/@269628">1114</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>14 more</u>:</b> Clarinet and Trumpet 1 (B&#x266d;) • Clarinet and Trumpet 2 (B&#x266d;) • Bass Clarinet (B&#x266d;) • Alto Saxophone (E&#x266d;) • Baritone Saxophone (E&#x266d;) • Horn 1 (F) • Horn 2 (F) • Violins I • Violins II • Violas • Cellos I • Cellos II • Basses • Chorus score (SATB/Piano)
+</p>
+</div><div id="IMSLP269621" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269621"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet and Trumpet 1 (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/86/PMLP52333-Beautiful_Dreamer_-_011_Bb_1.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 011 Bb 1.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_011_Bb_1.pdf" title="File:PMLP52333-Beautiful Dreamer - 011 Bb 1.pdf">#269621</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269621' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269621'>
+	<a href='javascript:void(0)' id='269621' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269621' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269621' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269621' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269621' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269621'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269621/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269621/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 234"><a href="/wiki/Special:GetFCtrStats/@269621" title="Special:GetFCtrStats/@269621">234</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269622" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269622"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet and Trumpet 2 (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/86/PMLP52333-Beautiful_Dreamer_-_012_Bb_2.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 012 Bb 2.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_012_Bb_2.pdf" title="File:PMLP52333-Beautiful Dreamer - 012 Bb 2.pdf">#269622</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269622' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269622'>
+	<a href='javascript:void(0)' id='269622' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269622' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269622' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269622' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269622' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269622'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269622/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269622/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 170"><a href="/wiki/Special:GetFCtrStats/@269622" title="Special:GetFCtrStats/@269622">170</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269623" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269623"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass Clarinet (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d9/PMLP52333-Beautiful_Dreamer_-_013_Bass_Clarinet.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 013 Bass Clarinet.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_013_Bass_Clarinet.pdf" title="File:PMLP52333-Beautiful Dreamer - 013 Bass Clarinet.pdf">#269623</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269623' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269623'>
+	<a href='javascript:void(0)' id='269623' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269623' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269623' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269623' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269623' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269623'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269623/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269623/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 150"><a href="/wiki/Special:GetFCtrStats/@269623" title="Special:GetFCtrStats/@269623">150</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269624" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269624"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Alto Saxophone (E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b3/PMLP52333-Beautiful_Dreamer_-_014_Alto_Sax..pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 014 Alto Sax..pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_014_Alto_Sax..pdf" title="File:PMLP52333-Beautiful Dreamer - 014 Alto Sax..pdf">#269624</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269624' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269624'>
+	<a href='javascript:void(0)' id='269624' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269624' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269624' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269624' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269624' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269624'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269624/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269624/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 166"><a href="/wiki/Special:GetFCtrStats/@269624" title="Special:GetFCtrStats/@269624">166</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269625" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269625"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Baritone Saxophone (E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7f/PMLP52333-Beautiful_Dreamer_-_015_Baritone_Sax..pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 015 Baritone Sax..pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_015_Baritone_Sax..pdf" title="File:PMLP52333-Beautiful Dreamer - 015 Baritone Sax..pdf">#269625</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269625' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269625'>
+	<a href='javascript:void(0)' id='269625' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269625' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269625' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269625' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269625' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269625'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269625/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269625/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 134"><a href="/wiki/Special:GetFCtrStats/@269625" title="Special:GetFCtrStats/@269625">134</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269626" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269626"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1 (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/23/PMLP52333-Beautiful_Dreamer_-_016_Horn_in_F_1.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 016 Horn in F 1.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_016_Horn_in_F_1.pdf" title="File:PMLP52333-Beautiful Dreamer - 016 Horn in F 1.pdf">#269626</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269626' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269626'>
+	<a href='javascript:void(0)' id='269626' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269626' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269626' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269626' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269626' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269626'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269626/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269626/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 153"><a href="/wiki/Special:GetFCtrStats/@269626" title="Special:GetFCtrStats/@269626">153</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269627" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269627"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 2 (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/66/PMLP52333-Beautiful_Dreamer_-_017_Horn_in_F_2.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 017 Horn in F 2.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_017_Horn_in_F_2.pdf" title="File:PMLP52333-Beautiful Dreamer - 017 Horn in F 2.pdf">#269627</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269627' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269627'>
+	<a href='javascript:void(0)' id='269627' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269627' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269627' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269627' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269627' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269627'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269627/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269627/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 130"><a href="/wiki/Special:GetFCtrStats/@269627" title="Special:GetFCtrStats/@269627">130</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269615" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269615"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b7/PMLP52333-Beautiful_Dreamer_-_005_Violin_1.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 005 Violin 1.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_005_Violin_1.pdf" title="File:PMLP52333-Beautiful Dreamer - 005 Violin 1.pdf">#269615</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269615' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269615'>
+	<a href='javascript:void(0)' id='269615' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269615' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269615' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269615' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269615' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269615'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269615/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269615/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 416"><a href="/wiki/Special:GetFCtrStats/@269615" title="Special:GetFCtrStats/@269615">416</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269616" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269616"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b0/PMLP52333-Beautiful_Dreamer_-_006_Violin_2.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 006 Violin 2.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_006_Violin_2.pdf" title="File:PMLP52333-Beautiful Dreamer - 006 Violin 2.pdf">#269616</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269616' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269616'>
+	<a href='javascript:void(0)' id='269616' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269616' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269616' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269616' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269616' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269616'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269616/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269616/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 198"><a href="/wiki/Special:GetFCtrStats/@269616" title="Special:GetFCtrStats/@269616">198</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269617" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269617"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e0/PMLP52333-Beautiful_Dreamer_-_007_Viola.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 007 Viola.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_007_Viola.pdf" title="File:PMLP52333-Beautiful Dreamer - 007 Viola.pdf">#269617</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269617' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269617'>
+	<a href='javascript:void(0)' id='269617' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269617' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269617' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269617' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269617' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269617'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269617/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269617/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 171"><a href="/wiki/Special:GetFCtrStats/@269617" title="Special:GetFCtrStats/@269617">171</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269618" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269618"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/21/PMLP52333-Beautiful_Dreamer_-_008_Cello_1.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 008 Cello 1.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_008_Cello_1.pdf" title="File:PMLP52333-Beautiful Dreamer - 008 Cello 1.pdf">#269618</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269618' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269618'>
+	<a href='javascript:void(0)' id='269618' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269618' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269618' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269618' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269618' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269618'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269618/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269618/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 212"><a href="/wiki/Special:GetFCtrStats/@269618" title="Special:GetFCtrStats/@269618">212</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269619" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269619"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3a/PMLP52333-Beautiful_Dreamer_-_009_Cello_2.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 009 Cello 2.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_009_Cello_2.pdf" title="File:PMLP52333-Beautiful Dreamer - 009 Cello 2.pdf">#269619</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269619' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269619'>
+	<a href='javascript:void(0)' id='269619' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269619' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269619' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269619' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269619' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269619'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269619/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269619/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 161"><a href="/wiki/Special:GetFCtrStats/@269619" title="Special:GetFCtrStats/@269619">161</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP269620" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/269620"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3f/PMLP52333-Beautiful_Dreamer_-_010_Contrabass.pdf" class="internal" title="PMLP52333-Beautiful Dreamer - 010 Contrabass.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_-_010_Contrabass.pdf" title="File:PMLP52333-Beautiful Dreamer - 010 Contrabass.pdf">#269620</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-269620' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-269620'>
+	<a href='javascript:void(0)' id='269620' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='269620' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='269620' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='269620' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='269620' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-269620'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/269620/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/269620/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 189"><a href="/wiki/Special:GetFCtrStats/@269620" title="Special:GetFCtrStats/@269620">189</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2013/2/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP172086" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/172086"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Chorus score (SATB/Piano)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/75/PMLP52333-Beautiful_Dreamer_SATB.pdf" class="internal" title="PMLP52333-Beautiful Dreamer SATB.pdf">*</a></span><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_SATB.pdf" title="File:PMLP52333-Beautiful Dreamer SATB.pdf">#172086</a> - 0.05MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-172086' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-172086'>
+	<a href='javascript:void(0)' id='172086' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='172086' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='172086' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='172086' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='172086' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-172086'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/172086/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/172086/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1114"><a href="/wiki/Special:GetFCtrStats/@172086" title="Special:GetFCtrStats/@172086">1114</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (<span title="Updated: 2013/2/14" class="hovertext">2012/1/18</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Hudson,_Robert_A." title="Category:Hudson, Robert A.">Robert A. Hudson</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=269628/269621/269622/269623/269624/269625/269626/269627/269615/269616/269617/269618/269619/269620/172086">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=269628/269621/269622/269623/269624/269625/269626/269627/269615/269616/269617/269618/269619/269620/172086">del</a>/<span id="fmrglnk" data-pdfstr="269628//269621//269622//269623//269624//269625//269626//269627//269615//269616//269617//269618//269619//269620//172086/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="269628">Javascript is required for this feature.</div><script>JGINITsearchbars['269628']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP52333-Beautiful_Dreamer_Conductors_Score.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/33/70b061070f3abdd06a6888b842ba1da5ae8c920f.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Baumbach.29">For Piano solo (Baumbach)</span></h5>
+<div class="we"><div id="IMSLP22870" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/22870"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fc/PMLP52333-beautiful-dreamer-arranged-with-brilliant-variations.pdf" class="internal" title="PMLP52333-beautiful-dreamer-arranged-with-brilliant-variations.pdf">*</a></span><a href="/wiki/File:PMLP52333-beautiful-dreamer-arranged-with-brilliant-variations.pdf" title="File:PMLP52333-beautiful-dreamer-arranged-with-brilliant-variations.pdf">#22870</a> - 7.11MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-22870' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-22870'>
+	<a href='javascript:void(0)' id='22870' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='22870' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='22870' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='22870' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='22870' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-22870'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/22870/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/22870/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3582"><a href="/wiki/Special:GetFCtrStats/@22870" title="Special:GetFCtrStats/@22870">3582</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Gacl" title="User:Gacl">gacl</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Gacl" title="User:Gacl">gacl</a> (2008/10/10)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Baumbach,_Adolph" title="Category:Baumbach, Adolph">Adolph Baumbach</a> (ca.1830-1880)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/Pond" title="Pond">William A. Pond &amp; Co.</a>, 1865. Plate 6119.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=22870">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=22870">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Color
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="22870">Javascript is required for this feature.</div><script>JGINITsearchbars['22870']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=22870&type=Complete%20Score&pgcount=7&signature=8b4d021f23ae26d825ef7e31e54a9b70679603f1"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP52333-beautiful-dreamer-arranged-with-brilliant-variations.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/fc/e0c90c1fad5d704fc5e7526402be2921e673c882.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Gobbaerts.29">For Piano solo (Gobbaerts)</span></h5>
+<div class="we"><div id="IMSLP86026" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/86026"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e4/PMLP52333-Foster-Streabbog-Beautiful_Dreamer.pdf" class="internal" title="PMLP52333-Foster-Streabbog-Beautiful Dreamer.pdf">*</a></span><a href="/wiki/File:PMLP52333-Foster-Streabbog-Beautiful_Dreamer.pdf" title="File:PMLP52333-Foster-Streabbog-Beautiful Dreamer.pdf">#86026</a> - 0.36MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-86026' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-86026'>
+	<a href='javascript:void(0)' id='86026' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='86026' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='86026' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='86026' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='86026' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-86026'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/86026/Beautiful_Dreamer_(Foster,_Stephen)" title="Special:IMSLPEditCTag/86026/Beautiful Dreamer (Foster, Stephen)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2466"><a href="/wiki/Special:GetFCtrStats/@86026" title="Special:GetFCtrStats/@86026">2466</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Choul" title="User:Choul">Choul</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.loc.gov/index.html"><span style="border-bottom:1px dotted black" title="Library of Congress">US-Wc</span></a></span><br />
+<a href="/wiki/User:Choul" title="User:Choul">Choul</a> (2010/11/28)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Gobbaerts,_Louis" title="Category:Gobbaerts, Louis">Louis Gobbaerts</a> (1835-1886)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/Pond" title="Pond">William A. Pond &amp; Co.</a>, 1879. Plate 9081.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=86026">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=86026">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Cleaned 600 dpi B/W.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="86026">Javascript is required for this feature.</div><script>JGINITsearchbars['86026']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=86026&type=Complete%20Score&pgcount=4&signature=50be4c72966568002efee8e078a056207025ae9e"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP52333-Foster-Streabbog-Beautiful_Dreamer.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/e4/c722ce2dcdef3dc85f5c40ffa0f141ea79f64b36.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Beautiful Dreamer
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Serenade
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Foster,_Stephen" title="Category:Foster, Stephen">Foster, Stephen</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ISF 9
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>E-flat major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1862?
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1865?
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td>Composer
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>English
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Voice and Piano
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a rel="nofollow" class="external text" href="http://library.duke.edu/rubenstein/scriptorium/sheetmusic/b/b09/b0991/b0991-2-72dpi.html">Duke Library</a>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 783/1000000
+Post-expand include size: 70579/2097152 bytes
+Template argument size: 171/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:52333-0!*!0!!en!2!* and timestamp 20180414193227 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Beautiful_Dreamer_(Foster,_Stephen)&amp;oldid=1276682">http://imslp.org/index.php?title=Beautiful_Dreamer_(Foster,_Stephen)&amp;oldid=1276682</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Hudson,_Robert_A./Editor" title="Category:Hudson, Robert A./Editor">Hudson, Robert A./Editor</a></li><li><a href="/wiki/Category:Hudson,_Robert_A./Arranger" title="Category:Hudson, Robert A./Arranger">Hudson, Robert A./Arranger</a></li><li><a href="/wiki/Category:Baumbach,_Adolph/Arranger" title="Category:Baumbach, Adolph/Arranger">Baumbach, Adolph/Arranger</a></li><li><a href="/wiki/Category:Scores_from_the_Library_of_Congress" title="Category:Scores from the Library of Congress">Scores from the Library of Congress</a></li><li><a href="/wiki/Category:Gobbaerts,_Louis/Arranger" title="Category:Gobbaerts, Louis/Arranger">Gobbaerts, Louis/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Foster,_Stephen" title="Category:Foster, Stephen">Foster, Stephen</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Serenades" title="Category:Serenades">Serenades</a></li><li><a href="/wiki/Category:For_voice,_piano" title="Category:For voice, piano">For voice, piano</a></li><li><a href="/wiki/Category:For_voices_with_keyboard" title="Category:For voices with keyboard">For voices with keyboard</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:English_language" title="Category:English language">English language</a></li><li><a href="/wiki/Category:For_mixed_chorus,_orchestra_(arr)" title="Category:For mixed chorus, orchestra (arr)">For mixed chorus, orchestra (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_chorus_with_orchestra" title="Category:For chorus with orchestra">For chorus with orchestra</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1865" title="Category:Works first published in 1865">Works first published in 1865</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:E-flat_major" title="Category:E-flat major">E-flat major</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Beautiful_Dreamer_%28Foster%2C_Stephen%29">10,096 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Beautiful%20Dreamer%20%28Foster%2C%20Stephen%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.567 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414193227 -->
+</html>
+		

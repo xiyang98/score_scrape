@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Cinq-Mars (Gounod, Charles) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Cinq-Mars_(Gounod,_Charles)", "wgTitle": "Cinq-Mars (Gounod, Charles)", "wgCurRevisionId": 2494820, "wgArticleId": 141930, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Internet Archive", "Bazille, Auguste/Arranger", "Scores published by Grus", "Scores published by L. Grus", "Scores from Biblioteca Digital Hispánica", "Scores with citations from the Bibliographie de la France", "Hignard, Aristide/Arranger", "Herman, Adolphe/Arranger", "Nathan, Ernest/Arranger", "Scores", "Gounod, Charles", "Romantic style", "Romantic", "Operas", "Theatrical Works", "For voices, mixed chorus, orchestra", "Scores featuring the voice", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For voices and chorus with orchestra", "French language", "For piano (arr)", "For 1 player", "Scores featuring the piano", "For violin, piano (arr)", "For 2 players", "Scores featuring the violin", "For cello, piano (arr)", "Scores featuring the cello", "Pages with arrangements", "Works first published in 1877", "Works first published in the 19th century", "Pages with parts for purchase", "Poirson, Paul/Librettist", "Gallet, Louis/Librettist", "Scores with links to Sheet Music Plus"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Cinq-Mars_Gounod_Charles action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Cinq-Mars_(Gounod,_Charles)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Cinq-Mars_(Gounod,_Charles)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Cinq-Mars_(Gounod,_Charles)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Cinq-Mars_(Gounod,_Charles)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Cinq-Mars_(Gounod,_Charles)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Cinq-Mars_(Gounod,_Charles)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Cinq-Mars_(Gounod,_Charles)&amp;oldid=2494820" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Cinq-Mars%20%28Gounod%2C%20Charles%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Cinq-Mars (Gounod, Charles)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 acts
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1877
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas&amp;transclude=Template:Catintro">Operas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For voices, mixed chorus, orchestra</a></span>; <span class="expandline" title="13 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:French_language&amp;transclude=Template:Catintro">French language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_violin%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For violin, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_cello%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For cello, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span></span>
+</td></tr>
+<tr>
+<th>Related Works
+</th>
+<td><a href="/wiki/Category:Pieces_based_on_Gounod%27s_%27Cinq-Mars%27" title="Category:Pieces based on Gounod's 'Cinq-Mars'">Pieces based on <i>Cinq-Mars</i></a>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Cinq-Mars","composer":"Gounod, Charles","comphref":"\/wiki\/Category:Gounod,_Charles"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"cinq-mars","itunes":"cinq-mars","composer":"gounod","scorekeywords":"cinq-mars","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=26;JGBSAccompnum=0;JGNaxosSearch={"numres":4,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ES1024.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ES1024.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DES1024","desc":"GOUNOD, C.-F.: Cinq mars [Opera] (Vidal, Gens, Christoyannis, Foster-Williams, Bavarian Radio Chorus, Munich Radio Orchestra, U. Schirmer)","label":"Ediciones Singulares","category":"Opera - Classical Music","composer":"Gounod, Charles-Francois","artist":"Vidal, Mathias -- Gens, V\u00e9ronique -- Lenormand, Marie -- Schirmer, Ulf -- Munich Radio Orchestra -- Foster-Williams, Andrew -- Christoyannis, Tassis -- Meyer, Andrew Lepri -- Ettmayr, Matthias -- Klose, Wolfgang -- Heyboer, Andre -- Nahoun, Norma -- Belobo-Greg, Jacques","country":"France","catid":"ES1024","cdinfo":[[["Gounod, Charles-Fran&#231;ois",[["Cinq mars","mediaplayer\/player.asp?br=128&tl=3034137|3034138|3034139|3034140|3034141|3034142|3034143|3034144|3034145|3034146|3034147|3034148|3034149|3034150|3034151|3034152|3034153|3034154|3034155|3034156|3034157|3034158|3034159|3034160|3034161|3034162|3034163|3034164|3034165|3034166|3034167|3034168|3034169|3034170|3034171|3034172",["Overture","Act I: Sc&#232;ne: &#192; la cour (Marie, Cinq-Mars, Noblemen)","Act I: Duet: Henri, vous nous parliez  (Cinq-Mars, De Thou)","Act I: Duet: On dit que le hasard (Cinq-Mars, De Thou, Le P&#232;re Joseph)","Act I: Sc&#232;ne: Messieurs, que le Seigneur vous entende! (Marie, Cinq-Mars, De Thou, Le P&#232;re Joseph, Seigneurs)","Act I: Morceau d'ensemble: Reine! (Marie, Cinq-Mars, De Thou, Le P&#232;re Joseph, Dames, Seigneurs)","Act I: Allez, par la nuit claire (Jeunes Seigneurs)","Act I: Cavatina: Par quel trouble profond (Marie)","Act I: Duet: Ah! Vous m'avez pardonn&#232; (Marie, Cinq-Mars)","Act I: Duet: Faut-il donc oublier (Marie, Cinq-Mars)","Act II Tableau I: Introduction","Act II Tableau I, Sc&#232;ne: &#192; Marion, reine des belles! (Marion, Ninon, Fontrailles, Gentilhommes, Pages et Valets)","Act II Tableau I, Sc&#232;ne: Marion, dites-nous, ma reine (Marion, Ninon, Fontrailles)","Act II Tableau I, Chanson: On ne verra plus dans Paris (Fontrailles, Gentilhommes, Pages et Valets)","Act II Tableau I, Recitative - Melodrama: Que ne renversez-vous enfin le cardinal (Marion, Fontrailles, De Brienne)","Act II Tableau I, Sc&#232;ne: Messieurs, avez-vous vu (Fontrailles, Montr&#232;sor, Montmort, De Brienne)","Act II Tableau I: Ah! Monsieur le grand &#233;cuyer (Cinq-Mars, Seigneurs)","Act II Tableau I, Cavatina: Marie! (Marie, Cinq-Mars)","Act II Tableau I, Sc&#232;ne: Cet homme encor! (Marie, Cinq-Mars, Le P&#232;re Joseph)","Act II Tableau I, Trio - Sc&#232;ne : Est-il vrai (Marie, Cinq-Mars, Fontrailles, Le P&#232;re Joseph)","Act II Tableau II: Introduction","Act II Tableau II, Sc&#232;ne: Ninon dites-nous (Ninon, Fontrailles, Seigneurs et Femmes)","Act II Tableau II, Divertissement: Belle, dont le sourire (Seigneurs et Femmes)","Act II Tableau II, Air: Bergers qui le voulez conna&#238;tre (Marion, Seigneurs et Femmes)","Act II Tableau II: Divertissement","Act II Tableau II: Danse des Berg&#232;res","Act II Tableau II: Entr&#233;e du Jeune Berger","Act II Tableau II: Aminthe est sauvage (Le Berger, Seigneurs et Femmes)","Act II Tableau II: Entr&#233;e des Petits Soins","Act II Tableau II: Entr&#233;e des Billets Doux et des Jolis Vers","Act II Tableau II, Sonnet: De vos traits mon &#226;me est navr&#233;e (Le Berger, Seigneurs et Femmes)","Act II Tableau II: Finale","Act II Tableau II: &#192; Marion (Seigneurs et Femmes)","Act II Tableau II: Sarabande","Act II Tableau II, Sc&#232;ne: Nous sommes seuls (Marion, Fontrailles)","Act II Tableau II, Sc&#232;ne - Arioso: J'ai cherch&#233; vainement Cinq-Mars (De Thou)"]]]]],[["Gounod, Charles-Fran&#231;ois",[["Cinq mars","mediaplayer\/player.asp?br=128&tl=3034173|3034174|3034175|3034176|3034177|3034178|3034179|3034180|3034181|3034182|3034183|3034184|3034185|3034186|3034187|3034188|3034189|3034190|3034191|3034192|3034193|3034194|3034195",["Act II Tableau II, Sc&#232;ne: Viendra-t-il? (Cinq-Mars, Fontrailles, Conjur&#233;s)","Act II Tableau II, Sc&#232;ne: Henri! (Cinq-Mars, Fontrailles, De Thou, Conjur&#233;s)","Act III: Introduction","Act III: La fanfare &#233;veill&#233;e (Les Amis de Cinq-Mars)","Act III: Cavatina: Henri! Marie! (De Thou)","Act III: Sc&#232;ne: Madame, c'est le lieu du rendez-vous (Marie, De Thou)","Act III: Trio: &#212; Marie! (Marie, Cinq-Mars, De Thou)","Act III: Sc&#232;ne: Ainsi donc, ils sont l&#224;? (Cinq-Mars, Le P&#232;re Joseph, Eustache)","Act III: Air: Tu t'en vas (Le P&#232;re Joseph)","Act III: Duet: Ah! Demeurez ici, madame (Marie, Le P&#232;re Joseph)","Act III: Sc&#232;ne: Hallali! (Le P&#232;re Joseph, Veneurs, Piqueurs et Paysans)","Act III: Sc&#232;ne: Hallali! Chasse superbe (Chasseurs et Paysans)","Act III: Sc&#232;ne: Princesse, nous avons d&#233;plor&#233; (Marie, Le Roi, Le P&#232;re Joseph)","Act III: Pour sauver une cause perdue (Marie, L'Ambassadeur, Le Roi, Le P&#232;re Joseph, Chorus)","Act IV: Pr&#233;lude","Act IV: Sc&#232;ne: Ami, je faisais un beau r&#234;ve (Cinq-Mars, De Thou)","Act IV: Cavatine: &#192; vous, ma m&#232;re (Cinq-Mars)","Act IV: Sc&#232;ne: Ah qu'ai-je dit? (Marie, Cinq-Mars)","Act IV: Duet: &#192; ta voix le ciel s'est ouvert (Marie, Cinq-Mars)","Act IV: Sc&#232;ne: Ami, venez! (Marie, Cinq-Mars, De Thou)","Act IV: Sc&#232;ne: Entendez-vous, Henri? (Cinq-Mars, De Thou)","Act IV: Sc&#232;ne: Messieurs (Cinq-Mars, De Thou, Le Chancelier, Le P&#232;re Joseph)","Act IV: Hymne - Sc&#232;ne Finale: Seigneur! soutiens notre &#226;me (Marie, Cinq-Mars, De Thou)"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947421429.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947421429.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947421429","desc":"Opera Arias (Mezzo-soprano): Ko\u017een\u00e1, Magdalena - AUBER, D.-F. \/ GOUNOD, C.-F. \/ MASSENET, J. \/ VERDI, G. (French Arias)","label":"Deutsche Grammophon","category":"Opera - Classical Music","composer":"Auber, Daniel-Fran\u00e7ois -- Thomas, Ambroise -- Ravel, Maurice -- Verdi, Giuseppe -- Boieldieu, Francois-Adrien -- Massenet, Jules -- Offenbach, Jacques -- Berlioz, Hector -- Bizet, Georges -- Gounod, Charles-Francois","artist":"Ko\u017een\u00e1, Magdalena -- Keck, Jean-Christophe -- Minkowski, Marc -- Mahler Chamber Orchestra -- Parat, Edwige -- Delgado-Boge, Claire -- Zvellereiter, Jean -- Lodygensky, Marina","country":"France Italy","catid":"00028947421429","cdinfo":[[["Auber, Daniel-Fran&#231;ois",[["Le domino noir, S. 30, Act III: Je suis sauv&#233;e enfin - Ah quelle nuit - Flamme vengeresse","mediaplayer\/player.asp?br=128&tl=3057694",[]]]],["Gounod, Charles-Fran&#231;ois",[["Cinq mars: Nuit resplendissante","mediaplayer\/player.asp?br=128&tl=3057695",[]]]],["Gounod, Charles-Fran&#231;ois",[["Romeo and Juliet, Act III: Depuis hier je cherche en vain mon maitre!","mediaplayer\/player.asp?br=128&tl=3057696",[]]]],["Massenet, Jules",[["Cleopatre: J'ai verse le poison dans cette coupe d'or","mediaplayer\/player.asp?br=128&tl=3057697",[]]]],["Verdi, Giuseppe",[["Don Carlo (Sung in French) (excerpts)","mediaplayer\/player.asp?br=128&tl=3057698|3057699",["Act II: Sous ces bois au feuillage immense","Act II: Au palais des f&#233;es"]]]],["Berlioz, Hector",[["La damnation de Faust, Op. 24, Part III: Autrefois un roi de Thule, \"The King of Thule\" (version for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3057700",[]]]],["Ravel, Maurice",[["L'heure espagnole: Scene 17: Oh! la pitoyable aventure!","mediaplayer\/player.asp?br=128&tl=3057701",[]]]],["Massenet, Jules",[["Don Quichotte, Act IV: Aria: Lorsque le temps d'amour a fui","mediaplayer\/player.asp?br=128&tl=3057702",[]]]],["Thomas, Ambroise",[["Mignon, Act I: Connais-tu le pays?","mediaplayer\/player.asp?br=128&tl=3057703",[]]]],["Boieldieu, Francois-Adrien",[["La dame blanche, Act I: Chut! Chut! Ecoutons!","mediaplayer\/player.asp?br=128&tl=3057704",[]]]],["Gounod, Charles-Fran&#231;ois",[["Sapho, Act III: Ou suis-je &#8230; O ma lyre immortelle","mediaplayer\/player.asp?br=128&tl=3058342",[]]]],["Offenbach, Jacques",[["Les contes d'Hoffmann (The Tales of Hoffmann), Act II: Voyez-la sous son &#233;ventail","mediaplayer\/player.asp?br=128&tl=3058344",[]]]],["Massenet, Jules",[["Cendrillon, Act I: Ah! Que mes soeurs sont heureuses!","mediaplayer\/player.asp?br=128&tl=3058352",[]]]],["Bizet, Georges",[["Carmen, Act II: Les tringles des sistres tintaient","mediaplayer\/player.asp?br=128&tl=3058353",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SYMP1223.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SYMP1223.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSYMP1223","desc":"Opera Arias - ROSSINI, G. \/ GOUNOD, C.-F. \/ VERDI, G. \/ BOITO, G. \/ CILEA, G. \/ BELLINI, G. (The Harold Wayne Collection, Vol. 30) (1905-1916)","label":"Symposium Records","category":"Opera - Classical Music","composer":"Cilea, Francesco -- Verdi, Giuseppe -- Cherry, John William -- Leoncavallo, Ruggero -- Messager, Andre -- Barnard, Charlotte Alington Claribel -- Tosti, Francesco Paolo -- Massenet, Jules -- Catalani, Alfredo -- Bellini, Vincenzo -- Bizet, Georges -- Dvo\u0159\u00e1k, Anton\u00edn -- Gounod, Charles-Francois -- Rossini, Gioachino -- Boito, Arrigo -- Delmet, Paul -- Tosti, Paolo -- Graffeo, -- Valenta,","artist":"McCormack, John -- Stracciari, Riccardo -- Studio pianist -- Studio orchestra -- Ackte, Aino -- Storchio, Rosina -- Burzio, Eugenia -- Studio conductor, -- Gruning, Wilhelm -- Brejean-Silver, Georgette -- Bellantoni, Giuseppe -- Ventura, Elvino -- Segur, Marie Therese de -- Labia, Fausta -- Perea, Emilio -- Bianco-Tamagno, Luisa -- Theodorides, Elena -- Theodorides, Victoria -- Vlachopoulos, Michael -- Bobkova, Malka -- Malata, Lucy -- Farneti, Maria -- Bressler-Gianoli, Clohilde -- Bourdon, Jeanne -- Galand, Alfed -- Seligman, Sibyl","country":"Czech Republic France Italy United Kingdom","catid":"SYMP1223","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947765516.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947765516.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947765516","desc":"Opera Arias (Soprano): Garan\u010da, El\u012bna  - CHAP\u00cd, R. \/ ROSSINI, G. \/ OFFENBACH, J. \/ STRAUSS, R. (Aria Cantilena)","label":"Deutsche Grammophon","category":"Opera - Classical Music","composer":"Chapi, Ruperto -- Villa-Lobos, Heitor -- Massenet, Jules -- Montsalvatge, Xavier -- Offenbach, Jacques -- Gounod, Charles-Francois -- Strauss, Richard -- Rossini, Gioachino","artist":"Pieczonka, Adrianne -- Damrau, Diana -- Bruns, Peter -- Garanca, Elina -- Luisi, Fabio -- Dresden Staatskapelle -- Muller, Thomas -- Licht, Dominik -- Liebmann, Heike -- Harnisch, Rafael -- Beutlich, Matthias -- Flade, Katharina -- Tuma, Mirko","country":"Austria Brazil France Germany Italy Spain","catid":"00028947765516","cdinfo":[[["Chapi, Ruperto",[["Las hijas de Zebedeo: Al pensar en el dueno, \"Carceleras\"","mediaplayer\/player.asp?br=128&tl=2954428",[]]]],["Massenet, Jules",[["Werther, Act III: Werther! Werther! &#8230; Qui m'aurait dit","mediaplayer\/player.asp?br=128&tl=2954465",[]]]],["Offenbach, Jacques",[["Les contes d'Hoffmann (The Tales of Hoffmann), Act III: Romance: C'est l'amour vainqueur","mediaplayer\/player.asp?br=128&tl=2954479",[]]]],["Rossini, Gioachino",[["La Cenerentola (Cinderella), Act II: Nacqui all'affanno e al pianto","mediaplayer\/player.asp?br=128&tl=2954480",[]]]],["Villa-Lobos, Heitor",[["Bachianas brasileiras No. 5: I. Aria: Cantilena","mediaplayer\/player.asp?br=128&tl=2954481",[]]]],["Offenbach, Jacques",[["La Grande-Duchesse de Gerolstein, Act I: Ah! Que 'j'aime les militaires","mediaplayer\/player.asp?br=128&tl=2954539",[]]]],["Rossini, Gioachino",[["L'Italiana in Algeri (The Italian Girl in Algiers), Act II: Per lui che adoro","mediaplayer\/player.asp?br=128&tl=2954540",[]]]],["Montsalvatge, Xavier",[["Madrigal sobre un tema popular","mediaplayer\/player.asp?br=128&tl=2954541",[]]]],["Strauss, Richard",[["Der Rosenkavalier, Op. 59, TrV 227 (excerpts)","mediaplayer\/player.asp?br=128&tl=2954585|2954586",["Act III: Marie Theres'! &#8230; Hab' mir's gelobt","Act III: Ist ein Traum, kann nicht wirklich sein"]]]],["Gounod, Charles-Fran&#231;ois",[["Cinq mars: Par quel trouble profond suis-je ici ramen&#233;e - Nuit resplendissante","mediaplayer\/player.asp?br=128&tl=2954587",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="gounod cinq-mars";JGaskdonation=0;JGFileTools={"70709":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=70709"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP70709"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=70709","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/70709"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/70709"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%2370709"}},"503076":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=503076"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP503076"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=503076","t":true},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/503076"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%23503076"}},"258183":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=258183"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP258183"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=258183","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/258183"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/258183"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%23258183"}},"258766":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=258766"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP258766"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=258766","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/258766"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/258766"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%23258766"}},"258184":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=258184"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP258184"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=258184","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/258184"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/258184"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%23258184"}},"288227":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=288227"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP288227"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=288227","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/288227"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/288227"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%23288227"}},"288228":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=288228"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP288228"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=288228","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/288228"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/288228"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Cinq-Mars+%28Gounod%2C+Charles%29&frmTitle=IMSLP+%23288228"}}};JGFileOpts={"70709":[],"503076":[],"258183":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5k7\/CSy3+CNRoojfnqXDygpkUjC3DcvjZEpXdgEjXpC7Iq\/LUipIatGJyuE6e9uH6KsoJgNNITY5kkawASBHt"},"258766":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6Ir0KO3r8dRFjIT93wgzXNZJQSZztSiQmnbpPzf50Wp23GsDYsx3DDjFSaLkCmbVKnmvULGDEhqVY7S0bLy5QG\/vxX8lZQtRqVr90U6NzQA=="},"258184":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhjSoUwDqNZutTsN0chMx\/c+vYL5gnM54lkC6Hj4MyuN6HQp8M+3\/Rn1qYrVrxrEY7QDKmpTy8CBoEjJ2phXJyC"},"288227":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgriTsiKYPZ4jMlk7P59Vs0BHvka+YENkEKFlG0OKJfVK\/FuxW6nitwHYgrxLCNifdilMsMo55deiC3Z6P99SzfzHZcRMmIJbJZ1NmCAFp79PZUvTKtkqYkRIACfpwqlDk="},"288228":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhziNResvOnxDyPZpeTWHqcHjMY6Ma7rWuCoi7bvRpXvffg2O+SOx3ErU1Ta24EYlza4nK5VcPO579RC9Xeyu7sfVmE4s5wGhkyP0R3sZ\/N2w=="}};JGPageUntagged=false;JGPageTags=["operas","vv ch orch","fr"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore3":true,"tabScore4":true,"tabScore1":false,"tabArrTrans":false,"tabScore5":true,"tabScore6":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"70709":[3,"2"],"258184":[10,"1"],"503076":[0,0],"258183":[0,0],"258766":[0,0],"288227":[0,0],"288228":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Vocal Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Complete"><span class="tocnumber">2.1.1</span> <span class="toctext">Complete</span></a></li>
+<li class="toclevel-3"><a href="#Cantil.C3.A8ne:_.27Nuit_resplendissante.27_.28Act_I.29"><span class="tocnumber">2.1.2</span> <span class="toctext">Cantilène: 'Nuit resplendissante' (Act I)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Complete_2"><span class="tocnumber">2.2.1</span> <span class="toctext">Complete</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Piano_.28Hignard.29"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For Piano (Hignard)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Cantil.C3.A8ne"><span class="tocnumber">2.2.2</span> <span class="toctext">Cantilène</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Violin_and_Piano_.28Herman.29"><span class="tocnumber">2.2.2.1</span> <span class="toctext">For Violin and Piano (Herman)</span></a></li>
+<li class="toclevel-4"><a href="#For_Cello_and_Piano_.28Nathan.29"><span class="tocnumber">2.2.2.2</span> <span class="toctext">For Cello and Piano (Nathan)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Scores (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Parts (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore1_tab"><b><a href="#tabScore1">Vocal Scores (<span id="tabScore1_ct">4</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">3</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Scores" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Parts" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<h4> <span class="mw-headline" id="Complete">Complete</span></h4>
+<div class="we"><div id="IMSLP70709" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/70709"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b7/PMLP141930-Gounod_-_Cinq-mars_VS.pdf" class="internal" title="PMLP141930-Gounod - Cinq-mars VS.pdf">*</a></span><a href="/wiki/File:PMLP141930-Gounod_-_Cinq-mars_VS.pdf" title="File:PMLP141930-Gounod - Cinq-mars VS.pdf">#70709</a> - 15.04MB, 295 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-70709' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-70709'>
+	<a href='javascript:void(0)' id='70709' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='70709' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='70709' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='70709' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='70709' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-70709'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/70709/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/70709/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1805"><a href="/wiki/Special:GetFCtrStats/@70709" title="Special:GetFCtrStats/@70709">1805</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.archive.org/details/cinqmarsoperaenq00goun"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (<span title="Updated: 2010/7/10" class="hovertext">2010/7/9</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Bazille,_Auguste" title="Category:Bazille, Auguste">Auguste Bazille</a>
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Grus" title="Grus">Léon Grus</a><!--ASL0-->, n.d.[1877].  Plate L.G. 3381.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=70709">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=70709">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Date confirmed from BNF. Plate also from BNF.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="70709">Javascript is required for this feature.</div><script>JGINITsearchbars['70709']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=70709&type=Complete%20Score&pgcount=295&signature=dddb4796d6d2a8cd763a88d4557bfc6d3a6da880"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP141930-Gounod_-_Cinq-mars_VS.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b7/25c6219cf4188226af4ea225a7409626805edcc9.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP503076" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/503076"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d3/PMLP141930-Ville_de_Paris_MMP_4-689_-_Cinq-mars%2C_op%C3%A9ra_en_quatre_actes_et_cinq_tableaux_%281877%29.pdf" class="internal" title="PMLP141930-Ville de Paris MMP 4-689 - Cinq-mars, opéra en quatre actes et cinq tableaux (1877).pdf">*</a></span><a href="/wiki/File:PMLP141930-Ville_de_Paris_MMP_4-689_-_Cinq-mars,_op%C3%A9ra_en_quatre_actes_et_cinq_tableaux_(1877).pdf" title="File:PMLP141930-Ville de Paris MMP 4-689 - Cinq-mars, opéra en quatre actes et cinq tableaux (1877).pdf">#503076</a> - <span style="color:red"><b>45.10</b></span>MB, 167 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-503076' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-503076'>
+	<a href='javascript:void(0)' id='503076' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='503076' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='503076' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='503076' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='503076' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-503076'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/503076/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/503076/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3"><a href="/wiki/Special:GetFCtrStats/@503076" title="Special:GetFCtrStats/@503076">3</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Vangi" title="User:Vangi">Vangi</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Ville de Paris<br />
+<a href="/wiki/User:Vangi" title="User:Vangi">Vangi</a> (2017/12/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Bazille,_Auguste" title="Category:Bazille, Auguste">Auguste Bazille</a>
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/IMSLP:Music_Publishers" title="IMSLP:Music Publishers">L. Grus</a>, ca 1877.  Plate LG 3381.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=503076">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=503076">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Partition chant et piano - Source&#160;: Ville de Paris  MMP 4-689
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="503076">Javascript is required for this feature.</div><script>JGINITsearchbars['503076']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=503076&type=Complete%20Score&pgcount=167&signature=4e1118ba66a9e372ee9b0469072d10ab1300a9b1"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP141930-Ville_de_Paris_MMP_4-689_-_Cinq-mars,_op%C3%A9ra_en_quatre_actes_et_cinq_tableaux_(1877).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d3/9cf9645b8fcb5ed08d6c02ab83b1a1033f0f843a.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP258183" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/258183"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c8/PMLP141930-Gounod_-_Cinq-Mars_ItVS.pdf" class="internal" title="PMLP141930-Gounod - Cinq-Mars ItVS.pdf">*</a></span><a href="/wiki/File:PMLP141930-Gounod_-_Cinq-Mars_ItVS.pdf" title="File:PMLP141930-Gounod - Cinq-Mars ItVS.pdf">#258183</a> - 6.99MB, 305 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-258183' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-258183'>
+	<a href='javascript:void(0)' id='258183' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='258183' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='258183' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='258183' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='258183' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-258183'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/258183/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/258183/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 373"><a href="/wiki/Special:GetFCtrStats/@258183" title="Special:GetFCtrStats/@258183">373</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://bdh.bne.es/bnesearch/detalle/bdh0000111359"><span style="border-bottom:1px dotted black" title="Bibl. Dig. Hispánica">E-Mn</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2012/11/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Bazille,_Auguste" title="Category:Bazille, Auguste">Auguste Bazille</a> (1828-1891), piano reduction
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Italian
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Grus" title="Grus">Léon Grus</a><!--ASL1-->, n.d.[1877].  Plate L.G. 3384.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=258183">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=258183">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Plate from BDH. Publication noted in the <i><a href="/wiki/Bibliographie_de_la_France" title="Bibliographie de la France">Bibliographie de la France</a></i>&#160;2e série, 66e année, Nº 36, 8 Septembre 1877, p.506, r. 2801..
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="258183">Javascript is required for this feature.</div><script>JGINITsearchbars['258183']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=258183&type=Complete%20Score&pgcount=301&signature=379e41e2e4baa76973a7c8f3869b515735b5a55d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP141930-Gounod_-_Cinq-Mars_ItVS.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/c8/531fe501267fefd6774220872b8b55dc97c3b9ae.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Cantil.C3.A8ne:_.27Nuit_resplendissante.27_.28Act_I.29">Cantilène: 'Nuit resplendissante' (Act I)</span></h4>
+<div class="we"><div id="IMSLP258766" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/258766"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (C major)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8a/PMLP419719-Gounod_-_Nuit_silencieuse_CmajBDH4h.pdf" class="internal" title="PMLP419719-Gounod - Nuit silencieuse CmajBDH4h.pdf">*</a></span><a href="/wiki/File:PMLP419719-Gounod_-_Nuit_silencieuse_CmajBDH4h.pdf" title="File:PMLP419719-Gounod - Nuit silencieuse CmajBDH4h.pdf">#258766</a> - 0.76MB, 6 (#27-32) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-258766' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-258766'>
+	<a href='javascript:void(0)' id='258766' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='258766' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='258766' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='258766' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='258766' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-258766'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/258766/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/258766/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 533"><a href="/wiki/Special:GetFCtrStats/@258766" title="Special:GetFCtrStats/@258766">533</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://bdh.bne.es"><span style="border-bottom:1px dotted black" title="Bibl. Dig. Hispánica">E-Mn</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (<span title="Updated: 2012/11/16" class="hovertext">2012/11/15</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i>Vingt mélodies, 4<sup>ème</sup> recueil (soprano ou ténor)</i><br />Paris: <a href="/wiki/Choudens" title="Choudens">Choudens</a>, n.d.[1877].
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=258766">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=258766">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Published as <i>Nuit silencieuse</i>.<br />For high voice (Original key is B major).
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="258766">Javascript is required for this feature.</div><script>JGINITsearchbars['258766']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=258766&type=Complete%20Score%20%28C%20major%29&pgcount=6&signature=2e56fe10b72d601a99aa3fa1b9fac43bf0a66870"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP419719-Gounod_-_Nuit_silencieuse_CmajBDH4h.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8a/a72a57b89469b1d0ca8ed49cf510156dd99bcc71.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Vocal Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Complete_2">Complete</span></h4>
+<h5> <span class="mw-headline" id="For_Piano_.28Hignard.29">For Piano (Hignard)</span></h5>
+<div class="we"><div id="IMSLP258184" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/258184"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/03/PMLP141930-Gounod_-_Cinq-Mars_PS.pdf" class="internal" title="PMLP141930-Gounod - Cinq-Mars PS.pdf">*</a></span><a href="/wiki/File:PMLP141930-Gounod_-_Cinq-Mars_PS.pdf" title="File:PMLP141930-Gounod - Cinq-Mars PS.pdf">#258184</a> - 4.73MB, 178 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-258184' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-258184'>
+	<a href='javascript:void(0)' id='258184' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='258184' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='258184' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='258184' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='258184' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-258184'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/258184/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/258184/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 178"><a href="/wiki/Special:GetFCtrStats/@258184" title="Special:GetFCtrStats/@258184">178</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://bdh.bne.es/bnesearch/detalle/bdh0000108477"><span style="border-bottom:1px dotted black" title="Bibl. Dig. Hispánica">E-Mn</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2012/11/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Hignard,_Aristide" title="Category:Hignard, Aristide">Aristide Hignard</a> (1822-1898)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Grus" title="Grus">Léon Grus</a><!--ASL2-->, n.d.[1877].  Plate L.G. 3382.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=258184">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=258184">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Date confirmed from BNF.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="258184">Javascript is required for this feature.</div><script>JGINITsearchbars['258184']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=258184&type=Complete%20Score&pgcount=178&signature=608d1c174ef562ec8d1d821e4bdd09811d288d9d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP141930-Gounod_-_Cinq-Mars_PS.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/03/395a6497d44159e9cebfa44c9fd35f6db713e097.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Cantil.C3.A8ne">Cantilène</span></h4>
+<h5> <span class="mw-headline" id="For_Violin_and_Piano_.28Herman.29">For Violin and Piano (Herman)</span></h5>
+<div class="we"><div id="IMSLP288227" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/288227"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score, Violin Part, and Organ Part (ad lib.)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b1/PMLP141930-AHerman_Cantil%C3%A8ne_de_Cinq-Mars_violinpiano.pdf" class="internal" title="PMLP141930-AHerman Cantilène de Cinq-Mars violinpiano.pdf">*</a></span><a href="/wiki/File:PMLP141930-AHerman_Cantil%C3%A8ne_de_Cinq-Mars_violinpiano.pdf" title="File:PMLP141930-AHerman Cantilène de Cinq-Mars violinpiano.pdf">#288227</a> - 0.96MB, 20 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-288227' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-288227'>
+	<a href='javascript:void(0)' id='288227' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='288227' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='288227' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='288227' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='288227' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-288227'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/288227/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/288227/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 166"><a href="/wiki/Special:GetFCtrStats/@288227" title="Special:GetFCtrStats/@288227">166</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://bdh.bne.es/bnesearch/detalle/3613371"><span style="border-bottom:1px dotted black" title="Bibl. Dig. Hispánica">E-Mn</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2013/7/15" class="hovertext">2013/7/14</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Herman,_Adolphe" title="Category:Herman, Adolphe">Adolphe Herman</a> (1823–1903)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Grus" title="Grus">Léon Grus</a>, n.d. [1877]. Plate L.G. 3393.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=288227">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=288227">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Publication noted in the <i><a href="/wiki/Bibliographie_de_la_France" title="Bibliographie de la France">Bibliographie de la France</a></i>&#160;, 2d Series, Vol.21, No.22, 2 June 1877, p.345.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="288227">Javascript is required for this feature.</div><script>JGINITsearchbars['288227']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=288227&type=Piano%20Score%2C%20Violin%20Part%2C%20and%20Organ%20Part%20%28ad%20lib.%29&pgcount=20&signature=59eb5202204bbb34f6fffdc27b8a1f858c6a37f4"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP141930-AHerman_Cantil%C3%A8ne_de_Cinq-Mars_violinpiano.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b1/28ace1aff7c7344c672882723b4f91c077262d9e.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Cello_and_Piano_.28Nathan.29">For Cello and Piano (Nathan)</span></h5>
+<div class="we"><div id="IMSLP288228" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/288228"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/PMLP141930-ENathan_Cantil%C3%A8ne_de_Cinq-Mars_cello.pdf" class="internal" title="PMLP141930-ENathan Cantilène de Cinq-Mars cello.pdf">*</a></span><a href="/wiki/File:PMLP141930-ENathan_Cantil%C3%A8ne_de_Cinq-Mars_cello.pdf" title="File:PMLP141930-ENathan Cantilène de Cinq-Mars cello.pdf">#288228</a> - 0.62MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-288228' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-288228'>
+	<a href='javascript:void(0)' id='288228' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='288228' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='288228' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='288228' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='288228' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-288228'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/288228/Cinq-Mars_(Gounod,_Charles)" title="Special:IMSLPEditCTag/288228/Cinq-Mars (Gounod, Charles)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 94"><a href="/wiki/Special:GetFCtrStats/@288228" title="Special:GetFCtrStats/@288228">94</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://bdh.bne.es/bnesearch/detalle/3762383"><span style="border-bottom:1px dotted black" title="Bibl. Dig. Hispánica">E-Mn</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2013/7/15" class="hovertext">2013/7/14</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Nathan,_Ernest" title="Category:Nathan, Ernest">Ernest Nathan</a> (fl.1870–1886)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Grus" title="Grus">Léon Grus</a>, n.d. [1877]. Plate L.G. 3403.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=288228">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=288228">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Published as Nathan's Op.92 and listed as "d'après Ad. Herman" so Nathan's transcription may use the same piano score as Herman's. Publication noted in the <i><a href="/wiki/Bibliographie_de_la_France" title="Bibliographie de la France">Bibliographie de la France</a></i>&#160;, 2d Series, Vol.21, No.30, 28 July 1877, p.421.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="288228">Javascript is required for this feature.</div><script>JGINITsearchbars['288228']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=288228&type=Cello%20Part&pgcount=7&signature=ccbad935b211cdb7c4a575a6fd45e4b311bae0e9"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP141930-ENathan_Cantil%C3%A8ne_de_Cinq-Mars_cello.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/00/28849a117418e3599231e1211884bdf2270d3178.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Cinq-Mars
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Opéra en quatre actes
+</td></tr>
+<tr>
+<th>Authorities
+</th>
+<td><a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Cinq-Mars_(opera)">Wikipedia</a>
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Gounod,_Charles" title="Category:Gounod, Charles">Gounod, Charles</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ICG 43
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>4 acts
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1877-04-05 in Paris, <a href="http://en.wikipedia.org/wiki/Op%C3%A9ra-Comique" class="extiw" title="wikipedia:Opéra-Comique">Opéra-Comique</a>
+<dl><dd>Charles Lamoureux, conductor
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1877
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Poirson,_Paul" title="Category:Poirson, Paul">Paul Poirson</a> (1836-1895)<br /><a href="/wiki/Category:Gallet,_Louis" title="Category:Gallet, Louis">Louis Gallet</a> (1835-1898)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>A mes Collaborateurs et Amis, Paul Poirson &amp; Louis Gallet
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>vocal soloists, mixed chorus, orchestra
+</td></tr>
+<tr>
+<th>Related Works
+</th>
+<td><a href="/wiki/Category:Pieces_based_on_Gounod%27s_%27Cinq-Mars%27" title="Category:Pieces based on Gounod's 'Cinq-Mars'">Pieces based on <i>Cinq-Mars</i></a>
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Cinq-Mars_(opera)" class="extiw" title="wikipedia:Cinq-Mars (opera)">Wikipedia article</a><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.charles-gounod.com/vi/oeuvres/operas/cinqmars.htm">Synopsis (charles-gounod.com)</a></span><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.sheetmusicplus.com/composers/charles-francois-gounod-sheet-music/1800373?Ntt=Cinq-mars&amp;narrow_by=Cinq-mars&amp;Ns=default&amp;recsPerPage=50&amp;id=298930"><i>Cinq-mars</i> - scores at Sheet Music Plus</a></span>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<table width="67%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="2" align="center" style="background-color:rgb(218,165,32)"><b>Operas by <a href="/wiki/Category:Gounod,_Charles" title="Category:Gounod, Charles">Charles Gounod</a></b>
+</th></tr>
+<tr>
+<td valign="top" width="50%" style="background-color:rgb(255,222,173)">
+<ul><li> <i><a href="/wiki/Sapho_(Gounod,_Charles)" title="Sapho (Gounod, Charles)">Sapho</a></i> (1851, rev.1884)
+</li><li> <i><a href="/wiki/La_nonne_sanglante_(Gounod,_Charles)" title="La nonne sanglante (Gounod, Charles)">La nonne sanglante</a></i> (1854)
+</li><li> <i><a href="/wiki/Le_m%C3%A9decin_malgr%C3%A9_lui_(Gounod,_Charles)" title="Le médecin malgré lui (Gounod, Charles)">Le médecin malgré lui</a></i> (1858)
+</li><li> <i><a href="/wiki/Faust_(Gounod,_Charles)" title="Faust (Gounod, Charles)">Faust</a></i> (1859, rev.1869)
+</li><li> <i><a href="/wiki/Phil%C3%A9mon_et_Baucis_(Gounod,_Charles)" title="Philémon et Baucis (Gounod, Charles)">Philémon et Baucis</a></i> (1860, rev.1876)
+</li><li> <i><a href="/wiki/La_colombe_(Gounod,_Charles)" title="La colombe (Gounod, Charles)">La colombe</a></i> (1860)
+</li><li> <i><a href="/wiki/La_reine_de_Saba_(Gounod,_Charles)" title="La reine de Saba (Gounod, Charles)">La reine de Saba</a></i> (1862)
+</li></ul>
+</td>
+<td valign="top" width="50%" style="background-color:rgb(255,222,173)">
+<ul><li> <i><a href="/wiki/Mireille_(Gounod,_Charles)" title="Mireille (Gounod, Charles)">Mireille</a></i> (1864)
+</li><li> <i><a href="/wiki/Rom%C3%A9o_et_Juliette_(Gounod,_Charles)" title="Roméo et Juliette (Gounod, Charles)">Roméo et Juliette</a></i> (1867, rev.1888)
+</li><li> <i><strong class="selflink">Cinq-Mars</strong></i> (1877)
+</li><li> <i><a href="/wiki/Polyeucte_(Gounod,_Charles)" title="Polyeucte (Gounod, Charles)">Polyeucte</a></i> (1878)
+</li><li> <i><a href="/wiki/Le_tribut_de_Zamora_(Gounod,_Charles)" title="Le tribut de Zamora (Gounod, Charles)">Le tribut de Zamora</a></i> (1881)
+</li><li> <i>Maître Pierre</i> (1877-84, incomplete)
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1341/1000000
+Post-expand include size: 60371/2097152 bytes
+Template argument size: 2140/2097152 bytes
+Expensive parser function count: 4/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:141930-0!*!0!!en!2!* and timestamp 20180413112406 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Cinq-Mars_(Gounod,_Charles)&amp;oldid=2494820">http://imslp.org/index.php?title=Cinq-Mars_(Gounod,_Charles)&amp;oldid=2494820</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Bazille,_Auguste/Arranger" title="Category:Bazille, Auguste/Arranger">Bazille, Auguste/Arranger</a></li><li><a href="/wiki/Category:Scores_published_by_Grus" title="Category:Scores published by Grus">Scores published by Grus</a></li><li><a href="/wiki/Category:Scores_published_by_L._Grus" title="Category:Scores published by L. Grus">Scores published by L. Grus</a></li><li><a href="/wiki/Category:Scores_from_Biblioteca_Digital_Hisp%C3%A1nica" title="Category:Scores from Biblioteca Digital Hispánica">Scores from Biblioteca Digital Hispánica</a></li><li><a href="/wiki/Category:Scores_with_citations_from_the_Bibliographie_de_la_France" title="Category:Scores with citations from the Bibliographie de la France">Scores with citations from the Bibliographie de la France</a></li><li><a href="/wiki/Category:Hignard,_Aristide/Arranger" title="Category:Hignard, Aristide/Arranger">Hignard, Aristide/Arranger</a></li><li><a href="/wiki/Category:Herman,_Adolphe/Arranger" title="Category:Herman, Adolphe/Arranger">Herman, Adolphe/Arranger</a></li><li><a href="/wiki/Category:Nathan,_Ernest/Arranger" title="Category:Nathan, Ernest/Arranger">Nathan, Ernest/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Gounod,_Charles" title="Category:Gounod, Charles">Gounod, Charles</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Operas" title="Category:Operas">Operas</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:For_voices,_mixed_chorus,_orchestra" title="Category:For voices, mixed chorus, orchestra">For voices, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:French_language" title="Category:French language">French language</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_violin,_piano_(arr)" title="Category:For violin, piano (arr)">For violin, piano (arr)</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:For_cello,_piano_(arr)" title="Category:For cello, piano (arr)">For cello, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1877" title="Category:Works first published in 1877">Works first published in 1877</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:Poirson,_Paul/Librettist" title="Category:Poirson, Paul/Librettist">Poirson, Paul/Librettist</a></li><li><a href="/wiki/Category:Gallet,_Louis/Librettist" title="Category:Gallet, Louis/Librettist">Gallet, Louis/Librettist</a></li><li><a href="/wiki/Category:Scores_with_links_to_Sheet_Music_Plus" title="Category:Scores with links to Sheet Music Plus">Scores with links to Sheet Music Plus</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Cinq-Mars_%28Gounod%2C_Charles%29">3,049 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Cinq-Mars%20%28Gounod%2C%20Charles%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.049 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414151954 -->
+</html>
+		

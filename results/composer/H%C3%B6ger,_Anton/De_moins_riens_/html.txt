@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>De moins riens (Naich, Hubert) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "De_moins_riens_(Naich,_Hubert)", "wgTitle": "De moins riens (Naich, Hubert)", "wgCurRevisionId": 1879229, "wgArticleId": 356123, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Höger, Anton/Arranger", "Scores", "Naich, Hubert", "Renaissance style", "Renaissance", "Chansons", "Songs", "For 6 voices", "For unaccompanied voices", "Scores featuring the voice", "French language", "For 2 voices, 2 lutes (arr)", "For voices with solo instruments", "Scores featuring the soprano voice", "Scores featuring the lute", "For 3 lutes (arr)", "For 3 players", "For 3 guitars (arr)", "Scores featuring the guitar", "Pages with arrangements", "Works first published in 1597", "Works first published in the 16th century"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-De_moins_riens_Naich_Hubert action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/De_moins_riens_(Naich,_Hubert)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=De+moins+riens+%28Naich%2C+Hubert%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=De_moins_riens_(Naich,_Hubert)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=De_moins_riens_(Naich,_Hubert)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/De_moins_riens_(Naich,_Hubert)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/De_moins_riens_(Naich,_Hubert)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=De_moins_riens_(Naich,_Hubert)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=De_moins_riens_(Naich,_Hubert)&amp;oldid=1879229" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=De%20moins%20riens%20%28Naich%2C%20Hubert%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					De moins riens (Naich, Hubert)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>First Publication
+</th>
+<td>1597
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Chansons&amp;transclude=Template:Catintro">Chansons</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Songs&amp;transclude=Template:Catintro">Songs</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_6_voices&amp;transclude=Template:Catintro">For 6 voices</a></span>; <span class="expandline" title="11 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_voices&amp;transclude=Template:Catintro">For unaccompanied voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:French_language&amp;transclude=Template:Catintro">French language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_voices%2C_2_lutes_%28arr%29&amp;transclude=Template:Catintro">For 2 voices, 2 lutes (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_solo_instruments&amp;transclude=Template:Catintro">For voices with solo instruments</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_soprano_voice&amp;transclude=Template:Catintro">Scores featuring the soprano voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_lute&amp;transclude=Template:Catintro">Scores featuring the lute</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_lutes_%28arr%29&amp;transclude=Template:Catintro">For 3 lutes (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_players&amp;transclude=Template:Catintro">For 3 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_guitars_%28arr%29&amp;transclude=Template:Catintro">For 3 guitars (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"De moins riens","composer":"Naich, Hubert","comphref":"\/wiki\/Category:Naich,_Hubert"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"de moins riens","itunes":"de moins riens","composer":"naich","scorekeywords":"de moins riens","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"281097":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/281097"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23281097"}},"226423":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/226423"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23226423"}},"282226":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/282226"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23282226"}},"281091":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=281091"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/281091\/281092\/281093\/281094\/281095\/297547\/f5bc"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP281091"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/281091"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/281091"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23281091"}},"281092":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=281092"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/281091\/281092\/281093\/281094\/281095\/297547\/f5bc"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP281092"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/281092"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/281092"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23281092"}},"281093":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=281093"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/281091\/281092\/281093\/281094\/281095\/297547\/f5bc"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP281093"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/281093"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/281093"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23281093"}},"281094":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=281094"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/281091\/281092\/281093\/281094\/281095\/297547\/f5bc"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP281094"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/281094"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/281094"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23281094"}},"281095":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=281095"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/281091\/281092\/281093\/281094\/281095\/297547\/f5bc"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP281095"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/281095"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/281095"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23281095"}},"297547":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=297547"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/281091\/281092\/281093\/281094\/281095\/297547\/f5bc"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP297547"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/297547"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/297547"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23297547"}},"213571":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=213571"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/213571\/213572\/213573\/213574\/96f0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP213571"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/213571"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/213571"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23213571"}},"213572":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=213572"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/213571\/213572\/213573\/213574\/96f0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP213572"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/213572"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/213572"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23213572"}},"213573":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=213573"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/213571\/213572\/213573\/213574\/96f0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP213573"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/213573"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/213573"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23213573"}},"213574":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=213574"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/213571\/213572\/213573\/213574\/96f0"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP213574"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/213574"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/213574"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23213574"}},"282203":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=282203"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/282203\/282204\/282205\/282206\/282207\/297548\/8fa6"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP282203"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/282203"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/282203"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23282203"}},"282204":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=282204"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/282203\/282204\/282205\/282206\/282207\/297548\/8fa6"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP282204"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/282204"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/282204"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23282204"}},"282205":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=282205"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/282203\/282204\/282205\/282206\/282207\/297548\/8fa6"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP282205"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/282205"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/282205"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23282205"}},"282206":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=282206"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/282203\/282204\/282205\/282206\/282207\/297548\/8fa6"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP282206"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/282206"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/282206"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23282206"}},"282207":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=282207"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/282203\/282204\/282205\/282206\/282207\/297548\/8fa6"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP282207"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/282207"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/282207"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23282207"}},"297548":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=297548"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/282203\/282204\/282205\/282206\/282207\/297548\/8fa6"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP297548"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/297548"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/297548"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23297548"}},"315357":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=315357"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/315357\/315358\/315359\/315360\/dc38"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP315357"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/315357"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/315357"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23315357"}},"315358":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=315358"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/315357\/315358\/315359\/315360\/dc38"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP315358"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/315358"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/315358"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23315358"}},"315359":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=315359"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/315357\/315358\/315359\/315360\/dc38"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP315359"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/315359"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/315359"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23315359"}},"315360":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=315360"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/315357\/315358\/315359\/315360\/dc38"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP315360"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/315360"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/315360"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=De+moins+riens+%28Naich%2C+Hubert%29&frmTitle=IMSLP+%23315360"}}};JGFileOpts={"281097":[],"226423":[],"282226":[],"281091":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgey+EIHUv635cXAZhe5C25EeAJfSunjrMurRRukQpgLMxivX8AzW1m3udYcgv8H45YNtGE1BeWgbgHtfjHIlI6z4L7MBaxTnKd\/T84TYWpjUoYjeHVMm1oPADeLOVm9WutNvSxQNde059sICIUBHXc"},"281092":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bisz42SRy49ptOOCTkuUkNMoEI4\/RvuvCcLbX5dYB8poppRMIm3wi\/KkzRkycRA466WJeE7zf3Svdt5c4Q10nEOK466wmIAWCS5NRTeDeHVZkgMTbkXAGyhXXHOXwXFj8PJmW5Sk4AWSk43yBJ7GWNf"},"281093":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6i35p4yi6WfN+\/52Iu8FCRpmZG\/HrJK7YmGbIgmQdnJRbEgjgdQ988NC8brb4DaGEWvUNF0E9R3cxoSfDFG7uQkCVu2gBs1CUkprOrFTh10fm874zdhZD6sZANS0RufNMPqwXtsv\/32+7zyNPRV8z"},"281094":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgriTsiKYPZ4jMlk7P59Vs0JiVEGij\/6l9npaBnnwZKXUDdUeOM\/0IgAnDV5QafOkmD5d2XJ+ICzZgWE7dt5dTSqy5AJAWu8YWxo8EB\/HQV5CzWj0Dl9G283n1EcD5BFTpi6Tjj6l6yXPMiLEhUQfIP"},"281095":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCl7OnFT3E9ls3fppaIBVcNpes7N355shS4FnUdzMqVeZCLM2r9fzLI4bg+XwhFXRwXwy2GXZjbevTnPk7WNFn28coG0QrY8\/GrFGfKWAjYS24WBlFcSWQ7ZtJ9kv7jmuQF9oKiFrGULQj\/6NffCV3"},"297547":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biZ5KHNfz4kvnSgnwHzFboYf8L6J0lUpaZXcFKIgrEoPF6TUxUzEf5YNu1Tl6ARTvhQO7Pym8or9scU5Qa25AA7SwoPHTI82uvKZLuD3c7NAhJWqHldoqujDRbIh7YjEfY="},"213571":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjz9fyYY+EDnoJO98jM5fSfpKsabj6hIMz\/5WDnQzKR41a5sTtqoaPo7HfqEwrZyT+Bvut9Y9vKnANF7CNmyR80jnsy3Hs21FJg\/gROVmGngHrd0Yd\/qg1KsFNoaXJZooQ="},"213572":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgl4GBbFTPFefwW1CVd84pRdgJiNiJc+MXz8WmbR7JhARcFr2uou9hY1ZBeY98i+AvWhPylCHgfNqp9yWIVg5v94cXgB14ql5AuYqfnei2OOY9JTZw3IGydaVleXxIAvX0="},"213573":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhcfDqcDaCOvu4ODNonJCXPA+ed5\/GK\/PVAnBDePvfCyMl3T46XDBcM0hzt\/cou+Ouhtr0g03DknfbJT1T08tYa2LSzNf9RKCRdcB\/IOJ1bB9QMiyYXu6aeuA0\/gLa5OAE="},"213574":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh2nCVcwuNqX8JoSw4xQfEFOoRk1NpsH0dv8NSVooYsEUl7JmxiTsH\/sUDjpvlVOaZs4TdtZyd0iF4hcAY7JaJoP3UNDZ9WA2b4V0tPl2Xs4ZkqAL5Qe3xAxC5KQgyr7tA="},"282203":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj\/2k6uZK9ttBBaEhalSbde2Zaiaiy4n0yVPyPp6JpCZgRMCZ8qzEVKYNEolKTNqo4c8iJmRpSAW65DjyPOKm9MkEXjjATAC24SwaRzYTLNnyKz99+l\/ZuNgTdy7yrq+Os="},"282204":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjY0ZMJbt1r77bvR4QqehIIyoOBwtvvmQ8oeOCNZfSTuhBbwSk4uAk7468jNRIVHLwNFeCmpTgGidIzILJZVDvWiTnBzuxE0G48lAAStogTPZRcj4zIBe\/SyhCTOM\/jGJON\/1DrdStYAMTZjpoPso0Y"},"282205":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9qUK4HTB+BNC\/XGMNB6T63pNv\/cdUbtCzVOmidMj8chda+ih92QSlzik9JZiuzOu0JPPc7gmCnXBkK1dxwPEHY7zN0Ohc0glK2PkQV9T61xAljeNX1axMrP8CY0L70qOR0TTi53njmOoOIJe2AS3w"},"282206":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqtfyxpqgrJPLAROZKtqzFK31dVhc9leUl6cyqC3951BDY4mQBqRRiDv0+OtlSBUOHbPz7AiAZEcEb8kIeyKg3u3H3YcLvmfO37NH5KDXdh\/AjKXnvO+US8bn1o69bAZZmtbfbXCZrk4w7ye55xIP6"},"282207":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjf9NvU3T\/8iNzRa3IG9TwkYQ1bUoSpzq8N9U\/cdrf4aAeM7E1MfbCSHrlGF1GsZor8fwiVvtBYpirF4c5bBvltNF9jebphlhiAKOb45C8lvIvyvlHa4ZNfVRwarJrvJvfWfHqhRK9WDzg5ZJg2f2hQ"},"297548":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjkuHqBx2vhgZcAsm4+\/P6L6pl5DXwCb3otyQ5TVnFizH6VCsDJbvvWM\/kOasUSpNbf28+ZhWS6LRYBxV1V8uwhsJugH0jDsjwiKe6B8gcjSOmzZQQqrsuL2b3+krFYpxg="},"315357":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqtfyxpqgrJPLAROZKtqzFpullZsVxj\/4gFlITgwWdd980CLONBwRxLKgRffD0\/WG+EuQI7wLwnOqMutZVkAo0uo+vvdmp4FpkEzPiFK171SrlUeMIDwkmtI+pYaF5huE="},"315358":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgYyJ4pHeIktQMBOsRZ48hweXSXBGXepkb96fZ7cgh7sb8UjEnH8k+GPHkOJQljtkxLjJ6FMEVxGHB2gXYnTZ7E7jkiIm68n5hx9sWV7jsU3jh\/A2iFBvnBozfLhiCU9Vw="},"315359":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhnHbj4YtZlIzLIlasmLV4E66sTfln3rK0zpxCpThI0fe\/ueyzLHUH+e9t5c8OQjGRMkki7OVZBLNXeFtsi7Dif3VL2Q6nLdsbqFvel4xk5qv1Q\/vUz5Lfxpqr7svdlrDM="},"315360":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhpahDY8fKSfIDGCKLCQfIeD86YaSPjEB4N4eXTYWtTOtMudE8yfkgDdcM4K6EfPEkzPkaY7RSstIPbb8TBXvW4hGbmaUxGzBgLRRAmmFwoe6RkoSp8JKBNeSMXOA6e8qc="}};JGPageUntagged=false;JGPageTags=["chansons","6vv","fr"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":0},"scores":{"tabScore2":true,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"281097":[0,0],"226423":[0,0],"282226":[0,0],"281091":[0,0],"281092":[0,0],"281093":[0,0],"281094":[0,0],"281095":[0,0],"297547":[0,0],"213571":[0,0],"213572":[0,0],"213573":[0,0],"213574":[0,0],"282203":[0,0],"282204":[0,0],"282205":[0,0],"282206":[0,0],"282207":[0,0],"297548":[0,0],"315357":[0,0],"315358":[0,0],"315359":[0,0],"315360":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Prima_parte"><span class="tocnumber">1.2.1</span> <span class="toctext">Prima parte</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29"><span class="tocnumber">1.2.1.1</span> <span class="toctext">For 2 Sopranos and 2 Lutes (Höger)</span></a></li>
+<li class="toclevel-4"><a href="#For_3_Lutes_.28H.C3.B6ger.29"><span class="tocnumber">1.2.1.2</span> <span class="toctext">For 3 Lutes (Höger)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Secondo_parte"><span class="tocnumber">1.2.2</span> <span class="toctext">Secondo parte</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29_2"><span class="tocnumber">1.2.2.1</span> <span class="toctext">For 2 Sopranos and 2 Lutes (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.1</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Prima_parte_2"><span class="tocnumber">2.1.1</span> <span class="toctext">Prima parte</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29_3"><span class="tocnumber">2.1.1.1</span> <span class="toctext">For 2 Sopranos and 2 Lutes (Höger)</span></a></li>
+<li class="toclevel-4"><a href="#For_3_Lutes_.28H.C3.B6ger.29_2"><span class="tocnumber">2.1.1.2</span> <span class="toctext">For 3 Lutes (Höger)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Secondo_parte_2"><span class="tocnumber">2.1.2</span> <span class="toctext">Secondo parte</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29_4"><span class="tocnumber">2.1.2.1</span> <span class="toctext">For 2 Sopranos and 2 Lutes (Höger)</span></a></li>
+<li class="toclevel-4"><a href="#For_3_Guitars_.28H.C3.B6ger.29"><span class="tocnumber">2.1.2.2</span> <span class="toctext">For 3 Guitars (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">3</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<p><span id="naa-nofilesnote"><i>No files submitted.</i><br /></span><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h4> <span class="mw-headline" id="Prima_parte">Prima parte</span></h4>
+<h5> <span class="mw-headline" id="For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29">For 2 Sopranos and 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP281097" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/281097"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Synthesized performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b4/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_%282S%26sL%29.mp3" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte (2S&amp;sL).mp3">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_(2S%26sL).mp3" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte (2S&amp;sL).mp3">#281097</a> - 2.32MB - 1:39<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-281097' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-281097'>
+	<a href='javascript:void(0)' id='281097' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='281097' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='281097' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='281097' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='281097' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-281097'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/281097/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/281097/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@281097" title="Special:GetFCtrStats/@281097">34</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a><span class="mh555"> (2013/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_281097'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"281097":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/b\/b4\/IMSLP281097-PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_(2S&sL).mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_3.0" title="IMSLP:Creative Commons Attribution-NonCommercial 3.0">Creative Commons Attribution-NonCommercial 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=281097">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=281097">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Because most of my Intavolations are never heard before, I decided to make a simple computer synthesized audio file for hearing control. (In this Synthesized performance, I replaced the voice samples with woodwinds)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="281097">Javascript is required for this feature.</div><script>JGINITsearchbars['281097']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h5> <span class="mw-headline" id="For_3_Lutes_.28H.C3.B6ger.29">For 3 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP226423" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/226423"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Synthesized performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cc/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte.mp3" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte.mp3">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte.mp3" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte.mp3">#226423</a> - 1.29MB - 1:29<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-226423' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-226423'>
+	<a href='javascript:void(0)' id='226423' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='226423' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='226423' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='226423' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='226423' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-226423'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/226423/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/226423/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@226423" title="Special:GetFCtrStats/@226423">36</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a><span class="mh555"> (2012/5/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_226423'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"226423":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/c\/cc\/IMSLP226423-PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>computer synthesized audio
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=226423">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=226423">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Because most of my Intavbulations are never heard before, I decided to make a simple computer synthesized audio file for hearing control.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="226423">Javascript is required for this feature.</div><script>JGINITsearchbars['226423']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h4> <span class="mw-headline" id="Secondo_parte">Secondo parte</span></h4>
+<h5> <span class="mw-headline" id="For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29_2">For 2 Sopranos and 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP282226" class="we_file_first we_fileblock_3 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/282226"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Synthesized performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d6/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte.mp3" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte.mp3">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte.mp3" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte.mp3">#282226</a> - 2.48MB - 1:45<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-282226' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-282226'>
+	<a href='javascript:void(0)' id='282226' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='282226' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='282226' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='282226' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='282226' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-282226'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/282226/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/282226/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@282226" title="Special:GetFCtrStats/@282226">25</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a><span class="mh555"> (2013/5/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_282226'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"282226":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/d\/d6\/IMSLP282226-PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_3.0" title="IMSLP:Creative Commons Attribution-NonCommercial 3.0">Creative Commons Attribution-NonCommercial 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=282226">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=282226">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Because most of my Intabulations are never heard before, I decided to make a simple computer synthesized audio file for hearing control. (In this Synthesized performance, I replaced the voice samples with woodwinds)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="282226">Javascript is required for this feature.</div><script>JGINITsearchbars['282226']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Scores (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">20</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Scores" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Prima_parte_2">Prima parte</span></h4>
+<h5> <span class="mw-headline" id="For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29_3">For 2 Sopranos and 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP281091" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/281091"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (Tablature &amp; Staff)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/85/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_%282S%26sL%29.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL).pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_(2S%26sL).pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL).pdf">#281091</a> - 0.56MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-281091' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-281091'>
+	<a href='javascript:void(0)' id='281091' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='281091' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='281091' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='281091' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='281091' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-281091'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/281091/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/281091/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 78"><a href="/wiki/Special:GetFCtrStats/@281091" title="Special:GetFCtrStats/@281091">78</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2015/1/15" class="hovertext">2013/5/15</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>5 more</u>:</b> Soprano 1 • Soprano 2 • Lute 1 • Lute 2 • Lute 1/2
+</p>
+</div><div id="IMSLP281092" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/281092"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Soprano 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/68/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_%282S%26sL%29_-_Canto_1.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - Canto 1.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_(2S%26sL)_-_Canto_1.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - Canto 1.pdf">#281092</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-281092' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-281092'>
+	<a href='javascript:void(0)' id='281092' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='281092' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='281092' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='281092' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='281092' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-281092'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/281092/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/281092/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@281092" title="Special:GetFCtrStats/@281092">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP281093" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/281093"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Soprano 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/da/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_%282S%26sL%29_-_Canto_2.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - Canto 2.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_(2S%26sL)_-_Canto_2.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - Canto 2.pdf">#281093</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-281093' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-281093'>
+	<a href='javascript:void(0)' id='281093' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='281093' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='281093' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='281093' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='281093' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-281093'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/281093/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/281093/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 38"><a href="/wiki/Special:GetFCtrStats/@281093" title="Special:GetFCtrStats/@281093">38</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP281094" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/281094"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b1/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_%282S%26sL%29_-_g_-_L1_.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - g - L1 .pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_(2S%26sL)_-_g_-_L1_.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - g - L1 .pdf">#281094</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-281094' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-281094'>
+	<a href='javascript:void(0)' id='281094' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='281094' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='281094' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='281094' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='281094' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-281094'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/281094/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/281094/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 37"><a href="/wiki/Special:GetFCtrStats/@281094" title="Special:GetFCtrStats/@281094">37</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP281095" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/281095"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/84/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_%282S%26sL%29_-_g_-_L2.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - g - L2.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_(2S%26sL)_-_g_-_L2.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte Fin-Tab (2S&amp;sL) - g - L2.pdf">#281095</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-281095' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-281095'>
+	<a href='javascript:void(0)' id='281095' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='281095' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='281095' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='281095' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='281095' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-281095'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/281095/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/281095/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 35"><a href="/wiki/Special:GetFCtrStats/@281095" title="Special:GetFCtrStats/@281095">35</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP297547" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/297547"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c2/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_%282L%29.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte (2L).pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_(2L).pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte (2L).pdf">#297547</a> - 0.06MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-297547' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-297547'>
+	<a href='javascript:void(0)' id='297547' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='297547' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='297547' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='297547' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='297547' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-297547'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/297547/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/297547/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 32"><a href="/wiki/Special:GetFCtrStats/@297547" title="Special:GetFCtrStats/@297547">32</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2013/9/29" class="hovertext">2013/5/15</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=281091/281092/281093/281094/281095/297547">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=281091/281092/281093/281094/281095/297547">del</a>/<span id="fmrglnk" data-pdfstr="281091//281092//281093//281094//281095//297547/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Intabulation in French Lute-tabulature (Lutes in g). If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="281091">Javascript is required for this feature.</div><script>JGINITsearchbars['281091']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_Fin-Tab_(2S%26sL).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/85/cd0c11b15fd049f9feddf9b40f855e31e2575a1b.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_3_Lutes_.28H.C3.B6ger.29_2">For 3 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP213571" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/213571"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e5/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte.pdf">#213571</a> - 0.05MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-213571' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-213571'>
+	<a href='javascript:void(0)' id='213571' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='213571' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='213571' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='213571' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='213571' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-213571'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/213571/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/213571/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 59"><a href="/wiki/Special:GetFCtrStats/@213571" title="Special:GetFCtrStats/@213571">59</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/5/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP213572" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/213572"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1 (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/78/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_L1.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte L1.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_L1.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte L1.pdf">#213572</a> - 0.04MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-213572' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-213572'>
+	<a href='javascript:void(0)' id='213572' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='213572' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='213572' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='213572' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='213572' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-213572'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/213572/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/213572/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 43"><a href="/wiki/Special:GetFCtrStats/@213572" title="Special:GetFCtrStats/@213572">43</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/5/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP213573" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/213573"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 2 (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c4/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_L2.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte L2.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_L2.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte L2.pdf">#213573</a> - 0.04MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-213573' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-213573'>
+	<a href='javascript:void(0)' id='213573' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='213573' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='213573' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='213573' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='213573' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-213573'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/213573/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/213573/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@213573" title="Special:GetFCtrStats/@213573">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/5/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP213574" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/213574"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 3 (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f2/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte_L3.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte L3.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte_L3.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte L3.pdf">#213574</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-213574' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-213574'>
+	<a href='javascript:void(0)' id='213574' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='213574' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='213574' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='213574' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='213574' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-213574'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/213574/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/213574/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@213574" title="Special:GetFCtrStats/@213574">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2012/5/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=213571/213572/213573/213574">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=213571/213572/213573/213574">del</a>/<span id="fmrglnk" data-pdfstr="213571//213572//213573//213574/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Intabulation in french Lute-tabulature (Unisono) with diminutions in the tradition of the great luteplayers of the 16th century. If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="213571">Javascript is required for this feature.</div><script>JGINITsearchbars['213571']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/e5/c5fa06639d8169130aa01f9879fbb6550e172d9d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Secondo_parte_2">Secondo parte</span></h4>
+<h5> <span class="mw-headline" id="For_2_Sopranos_and_2_Lutes_.28H.C3.B6ger.29_4">For 2 Sopranos and 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP282203" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/282203"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (Tablature &amp; Staff)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte_%28Fin-Tab%29.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab).pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(Fin-Tab).pdf" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab).pdf">#282203</a> - 0.55MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-282203' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-282203'>
+	<a href='javascript:void(0)' id='282203' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='282203' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='282203' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='282203' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='282203' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-282203'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/282203/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/282203/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 51"><a href="/wiki/Special:GetFCtrStats/@282203" title="Special:GetFCtrStats/@282203">51</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2015/1/15" class="hovertext">2013/5/24</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_6" data-block="6">
+<p><b>⇒ <u>5 more</u>:</b> Soprano 1 • Soprano 2 • Lute 1 • Lute 2 • Lute 1/2
+</p>
+</div><div id="IMSLP282204" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/282204"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Soprano 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/33/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte_%28Fin-Tab%29_-_Canto_1.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - Canto 1.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(Fin-Tab)_-_Canto_1.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - Canto 1.pdf">#282204</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-282204' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-282204'>
+	<a href='javascript:void(0)' id='282204' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='282204' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='282204' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='282204' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='282204' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-282204'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/282204/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/282204/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 35"><a href="/wiki/Special:GetFCtrStats/@282204" title="Special:GetFCtrStats/@282204">35</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP282205" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/282205"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Soprano 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/50/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte_%28Fin-Tab%29_-_Canto_2.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - Canto 2.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(Fin-Tab)_-_Canto_2.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - Canto 2.pdf">#282205</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-282205' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-282205'>
+	<a href='javascript:void(0)' id='282205' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='282205' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='282205' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='282205' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='282205' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-282205'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/282205/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/282205/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@282205" title="Special:GetFCtrStats/@282205">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP282206" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/282206"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a9/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte_%28Fin-Tab%29_-_g_-_L1_.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - g - L1 .pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(Fin-Tab)_-_g_-_L1_.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - g - L1 .pdf">#282206</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-282206' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-282206'>
+	<a href='javascript:void(0)' id='282206' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='282206' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='282206' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='282206' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='282206' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-282206'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/282206/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/282206/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@282206" title="Special:GetFCtrStats/@282206">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP282207" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/282207"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d5/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte_%28Fin-Tab%29_-_g_-_L2.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - g - L2.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(Fin-Tab)_-_g_-_L2.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte (Fin-Tab) - g - L2.pdf">#282207</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-282207' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-282207'>
+	<a href='javascript:void(0)' id='282207' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='282207' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='282207' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='282207' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='282207' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-282207'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/282207/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/282207/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 32"><a href="/wiki/Special:GetFCtrStats/@282207" title="Special:GetFCtrStats/@282207">32</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (2013/5/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP297548" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/297548"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Lute 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0c/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_secondo_parte_%282L%29.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens secondo parte (2L).pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(2L).pdf" title="File:PMLP356123-Naich, Ubert - De moins riens secondo parte (2L).pdf">#297548</a> - 0.06MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-297548' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-297548'>
+	<a href='javascript:void(0)' id='297548' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='297548' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='297548' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='297548' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='297548' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-297548'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/297548/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/297548/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@297548" title="Special:GetFCtrStats/@297548">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Anton Höger</a> (<span title="Updated: 2013/9/29" class="hovertext">2013/5/24</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=282203/282204/282205/282206/282207/297548">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=282203/282204/282205/282206/282207/297548">del</a>/<span id="fmrglnk" data-pdfstr="282203//282204//282205//282206//282207//297548/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Intabulation in French Lute-tabulature (Lutes in g). If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="282203">Javascript is required for this feature.</div><script>JGINITsearchbars['282203']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_secondo_parte_(Fin-Tab).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/3c/76af39168e6a0ab21ea7d7c9e472f7cc37765f26.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_3_Guitars_.28H.C3.B6ger.29">For 3 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP315357" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/315357"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a9/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte-3Git.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte-3Git.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte-3Git.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte-3Git.pdf">#315357</a> - 0.11MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-315357' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-315357'>
+	<a href='javascript:void(0)' id='315357' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='315357' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='315357' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='315357' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='315357' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-315357'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/315357/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/315357/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 49"><a href="/wiki/Special:GetFCtrStats/@315357" title="Special:GetFCtrStats/@315357">49</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2014/2/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP315358" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/315358"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/21/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte-3Git_-_Git._1.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte-3Git - Git. 1.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte-3Git_-_Git._1.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte-3Git - Git. 1.pdf">#315358</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-315358' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-315358'>
+	<a href='javascript:void(0)' id='315358' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='315358' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='315358' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='315358' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='315358' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-315358'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/315358/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/315358/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 30"><a href="/wiki/Special:GetFCtrStats/@315358" title="Special:GetFCtrStats/@315358">30</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2014/2/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP315359" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/315359"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/92/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte-3Git_-_Git._2.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte-3Git - Git. 2.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte-3Git_-_Git._2.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte-3Git - Git. 2.pdf">#315359</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-315359' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-315359'>
+	<a href='javascript:void(0)' id='315359' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='315359' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='315359' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='315359' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='315359' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-315359'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/315359/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/315359/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 30"><a href="/wiki/Special:GetFCtrStats/@315359" title="Special:GetFCtrStats/@315359">30</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2014/2/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP315360" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/315360"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Guitar 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e6/PMLP356123-Naich%2C_Ubert_-_De_moins_riens_prima_parte-3Git_-_Git._3.pdf" class="internal" title="PMLP356123-Naich, Ubert - De moins riens prima parte-3Git - Git. 3.pdf">*</a></span><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte-3Git_-_Git._3.pdf" title="File:PMLP356123-Naich, Ubert - De moins riens prima parte-3Git - Git. 3.pdf">#315360</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-315360' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-315360'>
+	<a href='javascript:void(0)' id='315360' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='315360' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='315360' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='315360' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='315360' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-315360'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/315360/De_moins_riens_(Naich,_Hubert)" title="Special:IMSLPEditCTag/315360/De moins riens (Naich, Hubert)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 30"><a href="/wiki/Special:GetFCtrStats/@315360" title="Special:GetFCtrStats/@315360">30</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2014/2/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=315357/315358/315359/315360">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=315357/315358/315359/315360">del</a>/<span id="fmrglnk" data-pdfstr="315357//315358//315359//315360/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="315357">Javascript is required for this feature.</div><script>JGINITsearchbars['315357']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP356123-Naich,_Ubert_-_De_moins_riens_prima_parte-3Git.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a9/1df619fed3deae871e5bef53bab86b50d3eadc4e.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">De moins riens
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Naich,_Hubert" title="Category:Naich, Hubert">Naich, Hubert</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IHN 2
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1597
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>6 voices
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a rel="nofollow" class="external text" href="http://ricercar.cesr.univ-tours.fr/3-programmes/basechanson/03231-3.asp?numfiche=1724">Programme Ricercar</a>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 846/1000000
+Post-expand include size: 85917/2097152 bytes
+Template argument size: 112/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:356123-0!*!0!!en!2!* and timestamp 20180416163645 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=De_moins_riens_(Naich,_Hubert)&amp;oldid=1879229">http://imslp.org/index.php?title=De_moins_riens_(Naich,_Hubert)&amp;oldid=1879229</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:H%C3%B6ger,_Anton/Arranger" title="Category:Höger, Anton/Arranger">Höger, Anton/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Naich,_Hubert" title="Category:Naich, Hubert">Naich, Hubert</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a></li><li><a href="/wiki/Category:Chansons" title="Category:Chansons">Chansons</a></li><li><a href="/wiki/Category:Songs" title="Category:Songs">Songs</a></li><li><a href="/wiki/Category:For_6_voices" title="Category:For 6 voices">For 6 voices</a></li><li><a href="/wiki/Category:For_unaccompanied_voices" title="Category:For unaccompanied voices">For unaccompanied voices</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:French_language" title="Category:French language">French language</a></li><li><a href="/wiki/Category:For_2_voices,_2_lutes_(arr)" title="Category:For 2 voices, 2 lutes (arr)">For 2 voices, 2 lutes (arr)</a></li><li><a href="/wiki/Category:For_voices_with_solo_instruments" title="Category:For voices with solo instruments">For voices with solo instruments</a></li><li><a href="/wiki/Category:Scores_featuring_the_soprano_voice" title="Category:Scores featuring the soprano voice">Scores featuring the soprano voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_lute" title="Category:Scores featuring the lute">Scores featuring the lute</a></li><li><a href="/wiki/Category:For_3_lutes_(arr)" title="Category:For 3 lutes (arr)">For 3 lutes (arr)</a></li><li><a href="/wiki/Category:For_3_players" title="Category:For 3 players">For 3 players</a></li><li><a href="/wiki/Category:For_3_guitars_(arr)" title="Category:For 3 guitars (arr)">For 3 guitars (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1597" title="Category:Works first published in 1597">Works first published in 1597</a></li><li><a href="/wiki/Category:Works_first_published_in_the_16th_century" title="Category:Works first published in the 16th century">Works first published in the 16th century</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=De_moins_riens_%28Naich%2C_Hubert%29">691 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/De%20moins%20riens%20%28Naich%2C%20Hubert%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.443 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416163645 -->
+</html>
+		

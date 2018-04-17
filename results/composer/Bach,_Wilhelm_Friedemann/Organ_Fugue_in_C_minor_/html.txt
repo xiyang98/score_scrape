@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Organ Fugue in C minor (Bach, Wilhelm Friedemann) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)", "wgTitle": "Organ Fugue in C minor (Bach, Wilhelm Friedemann)", "wgCurRevisionId": 1578796, "wgArticleId": 297761, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WIMA files", "Rondeau, Michel/Arranger", "Roose, Patrick/Editor", "Scores", "Bach, Wilhelm Friedemann", "Baroque style", "Baroque", "Fugues", "For organ", "Scores featuring the organ", "For 1 player", "For orchestra (arr)", "For orchestra", "Scores featuring the orchestra", "Pages with arrangements", "Works first published in 1770", "Works first published in the 18th century", "C minor", "Bach, Johann Christoph Friedrich/Collections", "Collections", "Kellner, Johann Peter/Collections"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Organ_Fugue_in_C_minor_Bach_Wilhelm_Friedemann action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)&amp;oldid=1578796" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Organ%20Fugue%20in%20C%20minor%20%28Bach%2C%20Wilhelm%20Friedemann%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Organ Fugue in C minor (Bach, Wilhelm Friedemann)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1770&#160;?
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Fugues&amp;transclude=Template:Catintro">Fugues</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="expandline" title="4 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra_%28arr%29&amp;transclude=Template:Catintro">For orchestra (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra&amp;transclude=Template:Catintro">For orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Organ Fugue in C minor","composer":"Bach, Wilhelm Friedemann","comphref":"\/wiki\/Category:Bach,_Wilhelm_Friedemann"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"organ fugue in c minor","itunes":"organ fugue in c minor","composer":"bach","scorekeywords":"organ fugue in c minor","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099969716454.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099969716454.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099969716454","desc":"BACH, J.S.: Organ Works, Vol. 2 (Rogg)","label":"Warner Classics - Parlophone","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian","artist":"Rogg, Lionel","country":"Germany","catid":"5099969716454","cdinfo":[[["Bach, Johann Sebastian",[["Prelude and Fugue in E Major, BWV 566","mediaplayer\/player.asp?br=128&tl=1116938|1116939",["Prelude","Fuga"]],["Prelude and Fugue in C Major, BWV 545","mediaplayer\/player.asp?br=128&tl=1116940|1116941",["Prelude","Fugue"]],["Prelude and Fugue in C Major, BWV 531","mediaplayer\/player.asp?br=128&tl=1116942|1116943",["Prelude","Fugue"]],["Prelude and Fugue in G Minor, BWV 535","mediaplayer\/player.asp?br=128&tl=1116944|1116945",["Prelude","Fugue"]],["Prelude and Fugue in C Minor, BWV 549","mediaplayer\/player.asp?br=128&tl=1116946|1116947",["Prelude","Fugue"]],["Prelude and Fugue in D Major, BWV 532","mediaplayer\/player.asp?br=128&tl=1116948|1116949",["Prelude","Fugue"]],["Prelude and Fugue in G Major, BWV 550","mediaplayer\/player.asp?br=128&tl=1116950|1116951",["Prelude","Fugue"]],["Prelude and Fugue in E Minor, BWV 533","mediaplayer\/player.asp?br=128&tl=1116952|1116953",["Prelude","Fugue"]],["Prelude and Fugue in A Minor, BWV 551","mediaplayer\/player.asp?br=128&tl=1116954|1116955",["Prelude","Fuge"]],["Prelude and Fugue in A Major, BWV 536","mediaplayer\/player.asp?br=128&tl=1116956|1116957",["Prelude","Fugue"]],["Prelude and Fugue in D Minor, BWV 539","mediaplayer\/player.asp?br=128&tl=1116958|1116959",["Prelude","Fugue"]]]]],[["Bach, Johann Sebastian",[["Fantasia and Fugue in C Minor, BWV 537","mediaplayer\/player.asp?br=128&tl=1116960|1116961",["Fantasia","Fugue"]],["Piece d'Orgue in G Major, BWV 572, \"Fantasia in G Major\"","mediaplayer\/player.asp?br=128&tl=1116962",[]],["Fantasia in C Major, BWV 570","mediaplayer\/player.asp?br=128&tl=1116963",[]],["Fantasia in B Minor, BWV 563","mediaplayer\/player.asp?br=128&tl=1116964",[]],["Fantasia in C Minor, BWV 562","mediaplayer\/player.asp?br=128&tl=1116965",[]],["Prelude in G Major, BWV 568","mediaplayer\/player.asp?br=128&tl=1116966",[]],["Prelude in A Minor, BWV 569","mediaplayer\/player.asp?br=128&tl=1116967",[]],["Canzona in D Minor, BWV 588","mediaplayer\/player.asp?br=128&tl=1116968",[]],["Pastorale in F Major, BWV 590","mediaplayer\/player.asp?br=128&tl=1116969",[]],["Fugue in C Minor, BWV 575","mediaplayer\/player.asp?br=128&tl=1116970",[]],["Fugue in G Minor, BWV 578","mediaplayer\/player.asp?br=128&tl=1116971",[]],["Fugue in B Minor on a theme by Corelli, BWV 579","mediaplayer\/player.asp?br=128&tl=1116972",[]],["Fugue in C Minor on a theme by Legrenzi, BWV 574","mediaplayer\/player.asp?br=128&tl=1116973",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356932852.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356932852.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356932852","desc":"BACH, J.S. \/ FRANCK, C. \/ WIDOR, C.-M.: Organ Works (Germani)","label":"Warner Classics - Parlophone","category":"Concertos - Classical Music","composer":"Bach, Johann Sebastian -- Widor, Charles-Marie -- Franck, C\u00e9sar","artist":"","country":"France Germany","catid":"0724356932852","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099926428956.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099926428956.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099926428956","desc":"BACH, J.S.: Organ Music, Vol. 1 (Rogg)","label":"Warner Classics - Parlophone","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian","artist":"Rogg, Lionel","country":"Germany","catid":"5099926428956","cdinfo":[[["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565","mediaplayer\/player.asp?br=128&tl=1119612|1119613",["Toccata","Fugue"]],["Toccata, adagio and fugue in C Major, BWV 564","mediaplayer\/player.asp?br=128&tl=1119614|1119615|1119616",["Toccata","Adagio","Fugue"]],["Toccata and Fugue in D Minor, BWV 538, \"Dorian\"","mediaplayer\/player.asp?br=128&tl=1119617|1119618",["Toccata","Fugue"]],["Toccata and Fugue in F Major, BWV 540","mediaplayer\/player.asp?br=128&tl=1119635|1119636",["Toccata","Fugue"]],["Prelude and Fugue in C Major, BWV 547","mediaplayer\/player.asp?br=128&tl=1119619|1119620",["Prelude","Fugue"]],["Prelude and Fugue in B Minor, BWV 544","mediaplayer\/player.asp?br=128&tl=1119621|1119622",["Prelude","Fugue"]]]]],[["Bach, Johann Sebastian",[["Fantasia and Fugue in G Minor, BWV 542","mediaplayer\/player.asp?br=128&tl=1119623|1119624",["Fantasia","Fugue"]],["Prelude and Fugue in G Major, BWV 541","mediaplayer\/player.asp?br=128&tl=1119625|1119626",["Prelude","Fugue"]],["Prelude and Fugue in A Minor, BWV 543","mediaplayer\/player.asp?br=128&tl=1119627|1119628",["Prelude","Fugue"]],["Prelude and Fugue in C Minor, BWV 546","mediaplayer\/player.asp?br=128&tl=1119629|1119630",["Prelude","Fugue"]],["Prelude and Fugue in E Minor, BWV 548, \"Wedge\"","mediaplayer\/player.asp?br=128&tl=1119637|1119638",["Prelude","Fugue"]],["Prelude and Fugue in F Minor, BWV 534","mediaplayer\/player.asp?br=128&tl=1119631|1119632",["Prelude","Fugue"]],["Passacaglia and Fugue in C Minor, BWV 582","mediaplayer\/player.asp?br=128&tl=1119633|1119634",["Passacaglia","Fugue"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CDX-29208.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CDX-29208.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCDX-29208","desc":"BACH, J.S.: Organ Concertos, BWV 593, 594, 596 \/ Fugue in C Minor on a theme by Legrenzi, BWV 574","label":"Divox","category":"Concertos - Classical Music","composer":"Bach, Johann Sebastian","artist":"Scheidegger, Rudolf","country":"Germany","catid":"CDX-29208","cdinfo":[[["Bach, Johann Sebastian",[["Organ Concerto in A Minor, BWV 593 (arr. of Vivaldi's Violin Concerto in A Minor, RV 522)","mediaplayer\/player.asp?br=128&tl=395174|395175|395176",[]],["Organ Concerto in C Major, BWV 594 (arr. of Vivaldi's Concerto in D Major, RV 208)","mediaplayer\/player.asp?br=128&tl=395177|395178|395179",[]],["Organ Concerto in D Minor, BWV 596 (arr. of Vivaldi's Violin Concerto in D Minor, RV 565)","mediaplayer\/player.asp?br=128&tl=395180|395181|395182",[]],["Fugue in C Minor on a theme by Legrenzi, BWV 574","mediaplayer\/player.asp?br=128&tl=395183",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028948075164.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028948075164.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028948075164","desc":"Organ Music - WIDOR, C.-M. \/ BACH, J.S. \/ SAINT-SA\u00cbNS, C. \/ VIERNE, L. \/ MESSIAEN, O. (Great Organ Masterworks) (P. Hurford, S. Preston, Latry)","label":"Decca","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian -- Karg-Elert, Sigfrid -- Reger, Max -- Saint-Sa\u00ebns, Camille -- Langlais, Jean -- Vierne, Louis -- Widor, Charles-Marie -- Liszt, Franz -- Alain, Jehan -- Mendelssohn, Felix -- Messiaen, Olivier -- Clarke, Jeremiah -- Boellmann, Leon -- Brahms, Johannes -- Franck, C\u00e9sar","artist":"Preston, Simon -- Dutoit, Charles -- Montreal Symphony Orchestra -- Latry, Olivier","country":"France Germany Hungary United Kingdom","catid":"00028948075164","cdinfo":[[["Widor, Charles-Marie",[["Organ Symphony No. 5 in F Minor, Op. 42, No. 1: V. Toccata: Allegro","mediaplayer\/player.asp?br=128&tl=3011950",[]]]],["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565","mediaplayer\/player.asp?br=128&tl=3011951|3011952",["Toccata","Fugue"]]]],["Saint-Sa&#235;ns, Camille",[["Symphony No. 3 in C Minor, Op. 78, \"Organ\": II. Maestoso - Allegro - Pi&#249; allegro - Molto allegro - Pesante","mediaplayer\/player.asp?br=128&tl=3011956",[]]]],["Karg-Elert, Sigfrid",[["66 Choral-Improvisationen (Chorale Improvisations), Op. 65 : No. 59. Nun danket alle Gott, \"March Triomphale\"","mediaplayer\/player.asp?br=128&tl=3011959",[]]]],["Bach, Johann Sebastian",[["6 Schubler Chorales, BWV 645-650: Wachet auf, ruft uns die Stimme, BWV 645","mediaplayer\/player.asp?br=128&tl=3011960",[]]]],["Widor, Charles-Marie",[["Organ Symphony No. 6 in G Minor, Op. 42, No. 2: I. Allegro","mediaplayer\/player.asp?br=128&tl=3011961",[]]]],["Clarke, Jeremiah",[["Suite in D Major: IV. The Prince of Denmark's March, \"Trumpet Voluntary\" (arr. H. Murrill)","mediaplayer\/player.asp?br=128&tl=3011962",[]]]],["Vierne, Louis",[["Organ Symphony No. 1 in D Minor, Op. 14: VI. Final","mediaplayer\/player.asp?br=128&tl=3011966",[]],["24 Pieces en style libre, Op. 31: No. 19. Berceuse","mediaplayer\/player.asp?br=128&tl=3011967",[]]]],["Messiaen, Olivier",[["Le Banquet Celeste","mediaplayer\/player.asp?br=128&tl=3011973",[]]]],["Franck, C&#233;sar",[["3 Pieces for Organ: No. 3. Piece Heroique in B Minor, M. 37","mediaplayer\/player.asp?br=128&tl=3011974",[]]]],["Bach, Johann Sebastian",[["Fantasia and Fugue in G Minor, BWV 542: Fantasia","mediaplayer\/player.asp?br=128&tl=3011975",[]]]],["Mendelssohn, Felix",[["Organ Sonata in C Minor, Op. 65, No. 2, MWV W57: II. Allegro maestoso e vivace","mediaplayer\/player.asp?br=128&tl=3011976",[]]]],["Bach, Johann Sebastian",[["In dulci jubilo, BWV 729","mediaplayer\/player.asp?br=128&tl=3011977",[]]]],["Liszt, Franz",[["Prelude and Fugue on the name B-A-C-H, S260\/R381","mediaplayer\/player.asp?br=128&tl=3011978",[]]]],["Langlais, Jean",[["3 Paraphrases gregoriennes, Op. 5: No. 3. Hymne d'action de grace Te Deum","mediaplayer\/player.asp?br=128&tl=3011982",[]]]],["Alain, Jehan",[["3 Pieces: No. 3. Litanies","mediaplayer\/player.asp?br=128&tl=3011990",[]]]],["Reger, Max",[["Introduction and Passacaglia in D Minor, WoO 4, No. 6","mediaplayer\/player.asp?br=128&tl=3011991",[]]]],["Franck, C&#233;sar",[["3 Chorales for Organ: No. 2 in B Minor, M. 39","mediaplayer\/player.asp?br=128&tl=3011992",[]]]],["Bach, Johann Sebastian",[["Passacaglia and Fugue in C Minor, BWV 582: Passacaglia","mediaplayer\/player.asp?br=128&tl=3011993",[]]]],["Boellmann, Leon",[["Suite gothique, Op. 25","mediaplayer\/player.asp?br=128&tl=3011994|3011995|3011996|3011997",["I. Introduction - Choral: Maestoso &#8212;","II. Menuet gothique: Allegro &#8212;","III. Priere a Notre-Dame: Tres lent","IV. Toccata: Allegro"]]]],["Bach, Johann Sebastian",[["Fantasia in C Minor, BWV 562","mediaplayer\/player.asp?br=128&tl=3011998",[]]]],["Franck, C&#233;sar",[["Prelude, fugue et variation in B Minor, Op. 18","mediaplayer\/player.asp?br=128&tl=3011999",[]]]],["Reger, Max",[["12 Pieces, Op. 59: No. 9. Benedictus in D-Flat Major","mediaplayer\/player.asp?br=128&tl=3012000",[]]]],["Bach, Johann Sebastian",[["Das Orgelbuchlein, BWV 599-644: Nun komm, der Heiden Heiland, BWV 599","mediaplayer\/player.asp?br=128&tl=3012001",[]]]],["Brahms, Johannes",[["11 Chorale Preludes, Op. 122: No. 8. Es ist ein Ros' entsprungen","mediaplayer\/player.asp?br=128&tl=3012002",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.570571.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.570571.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.570571","desc":"BACH, W.F.: Organ Works (J. Brown)","label":"Naxos","category":"Instrumental - Classical Music","composer":"Bach, Wilhelm Friedemann","artist":"Brown, Julia","country":"Germany","catid":"8.570571","cdinfo":[[["Bach, Wilhelm Friedemann",[["Fugue in G Minor, Fk. 37","mediaplayer\/player.asp?br=128&tl=815592",[]],["7 Chorale Preludes, Fk. 38\/1: No. 3. Jesu, meine Freude","mediaplayer\/player.asp?br=128&tl=815593",[]],["Fugue in F Major, Fk. 33","mediaplayer\/player.asp?br=128&tl=815594",[]],["7 Chorale Preludes, Fk. 38\/1: No. 1. Nun komm, der Heiden Heiland","mediaplayer\/player.asp?br=128&tl=815595",[]],["Fugue in C Minor, Fk. 32","mediaplayer\/player.asp?br=128&tl=815596",[]],["Fugue in C Minor","mediaplayer\/player.asp?br=128&tl=815597",[]],["7 Chorale Preludes, Fk. 38\/1: No. 4. Durch Adams Fall ist ganz verderbt","mediaplayer\/player.asp?br=128&tl=815599",[]],["Fugue in F Major, Fk. 36, \"Tripelfuge\"","mediaplayer\/player.asp?br=128&tl=815600",[]],["7 Chorale Preludes, Fk. 38\/1: No. 6. Was mein Gott will, das g'scheh allzeit","mediaplayer\/player.asp?br=128&tl=815601",[]],["Fugue in C Minor","mediaplayer\/player.asp?br=128&tl=815602",[]],["7 Chorale Preludes, Fk. 38\/1: No. 7. Wir Christenleut han jetzund Freud","mediaplayer\/player.asp?br=128&tl=815603",[]],["Fugue in B-Flat Major","mediaplayer\/player.asp?br=128&tl=815604",[]],["7 Chorale Preludes, Fk. 38\/1: No. 5. Wir danken dir, Herr Jesu Christ","mediaplayer\/player.asp?br=128&tl=815605",[]],["Fugue in D Major","mediaplayer\/player.asp?br=128&tl=815606",[]],["7 Chorale Preludes, Fk. 38\/1: No. 2. Christe, der du bist Tag und Licht","mediaplayer\/player.asp?br=128&tl=815607",[]],["Fugue in B-Flat Major","mediaplayer\/player.asp?br=128&tl=815608",[]],["Fugue in A Minor","mediaplayer\/player.asp?br=128&tl=815609",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=BC95166.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=BC95166.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DBC95166","desc":"BACH, J.S.: Organ Music (Toccata and Fugue) (Molardi)","label":"Brilliant Classics","category":"Concertos - Classical Music","composer":"Bach, Johann Sebastian","artist":"Molardi, Stefano","country":"Germany","catid":"BC95166","cdinfo":[[["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565","mediaplayer\/player.asp?br=128&tl=3121489|3121490",["Toccata","Fugue"]],["Das Orgelb&#252;chlein, BWV 599-644 (excerpts)","mediaplayer\/player.asp?br=128&tl=3121491|3121492|3121493|3121494",["Gott, durch deine Gute, BWV 600","Der Tag, der ist so freudenreich, BWV 605","Vom Himmel kam der Engel Schar, BWV 607","In dulci jubilo, BWV 608"]],["Toccata, adagio and fugue in C Major, BWV 564","mediaplayer\/player.asp?br=128&tl=3121495|3121496|3121497",["Toccata","Adagio","Fugue"]],["Das Orgelb&#252;chlein, BWV 599-644 (excerpts)","mediaplayer\/player.asp?br=128&tl=3121498|3121499",["Ich ruf' zu dir, Herr Jesu Christ, BWV 639","Wenn wir in hochsten Noten sein, BWV 641"]],["Organ Concerto in A Minor, BWV 593 (arr. of Vivaldi's Violin Concerto in A Minor, RV 522)","mediaplayer\/player.asp?br=128&tl=3121500|3121501|3121502",["I. Allegro","II. Adagio","III. Allegro"]],["18 Chorales, BWV 651-668, \"Leipziger Chorale\" (excerpts)","mediaplayer\/player.asp?br=128&tl=3121503|3121504",["Nun komm der Heiden Heiland, BWV 659","Allein Gott in der Hoh', BWV 664"]],["Passacaglia and Fugue in C Minor, BWV 582: Passacaglia","mediaplayer\/player.asp?br=128&tl=3121505",[]],["Fantasia and Fugue in G Minor, BWV 542","mediaplayer\/player.asp?br=128&tl=3121506|3121507",["Fantasia","Fugue"]],["6 Schubler Chorales, BWV 645-650 (excerpts)","mediaplayer\/player.asp?br=128&tl=3121508|3121509",["Wachet auf, ruft uns die Stimme, BWV 645","Kommst du nun, Jesu, vom Himmel herunter, BWV 650"]],["Trio Sonata No. 5 in C Major, BWV 529","mediaplayer\/player.asp?br=128&tl=3121510|3121511|3121512",["I. Allegro","II. Largo","III. Allegro"]],["Das Orgelb&#252;chlein, BWV 599-644 (excerpts)","mediaplayer\/player.asp?br=128&tl=3121513|3121514",["O Mensch, bewein dein Sunde gross, BWV 622","Hilf Gott, dass mir's gelinge, BWV 624"]],["Toccata and Fugue in D Minor, BWV 538, \"Dorian\"","mediaplayer\/player.asp?br=128&tl=3121515|3121516",["Toccata","Fuga"]],["Christ, unser Herr, zum Jordan kam, BWV 684","mediaplayer\/player.asp?br=128&tl=3121517",[]],["18 Chorales, BWV 651-668, \"Leipziger Chorale\": Schmucke dich, o liebe Seele, BWV 654","mediaplayer\/player.asp?br=128&tl=3121518",[]],["Prelude and Fugue in G Major, BWV 541","mediaplayer\/player.asp?br=128&tl=3121519|3121520",["Prelude","Fugue"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724357356855.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724357356855.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724357356855","desc":"BACH, J.S.: Favorite Organ Works (Rogg)","label":"Warner Classics - Parlophone","category":"Concertos - Classical Music","composer":"Bach, Johann Sebastian","artist":"Rogg, Lionel","country":"Germany","catid":"0724357356855","cdinfo":[[["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565","mediaplayer\/player.asp?br=128&tl=1115678",[]],["6 Schubler Chorales, BWV 645-650: Wachet auf, ruft uns die Stimme, BWV 645","mediaplayer\/player.asp?br=128&tl=1115679",[]],["18 Chorales, BWV 651-668, \"Leipziger Chorale\": Nun komm der Heiden Heiland, BWV 659","mediaplayer\/player.asp?br=128&tl=1115680",[]],["Fantasia and Fugue in G Minor, BWV 542","mediaplayer\/player.asp?br=128&tl=1115681",[]],["Organ Concerto in A Minor, BWV 593 (arr. of Vivaldi's Violin Concerto in A Minor, RV 522)","mediaplayer\/player.asp?br=128&tl=1115682|1115683|1115684",["I. &#8212;","II. Adagio","III. Allegro"]],["Toccata, adagio and fugue in C Major, BWV 564","mediaplayer\/player.asp?br=128&tl=1115685|1115686|1115687",["Toccata","Adagio","Fugue"]],["Passacaglia and Fugue in C Minor, BWV 582","mediaplayer\/player.asp?br=128&tl=1115688",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.553859.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.553859.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.553859","desc":"BACH, J.S.: Great Organ Works (R\u00fcbsam)","label":"Naxos","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian","artist":"Hock, Bertalan -- R\u00fcbsam, Wolfgang","country":"Germany","catid":"8.553859","cdinfo":[[["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565","mediaplayer\/player.asp?br=128&tl=2190|2191",["I. Toccata","II. Fugue"]],["Fugue in G Minor, BWV 578","mediaplayer\/player.asp?br=128&tl=2180",[]],["Prelude and Fugue in E-Flat Major, BWV 552, \"St. Anne\"","mediaplayer\/player.asp?br=128&tl=2185|2186",["I. Prelude","II. Fugue"]]]],["Bach, Johann Sebastian",[["Herz und Mund und Tat und Leben, BWV 147: Jesu, Joy of Man's Desiring (arr. for organ)","mediaplayer\/player.asp?br=128&tl=2182",[]]]],["Bach, Johann Sebastian",[["Toccata, Adagio and Fugue in C Major, BWV 564","mediaplayer\/player.asp?br=128&tl=2187|2188|2189",["I. Toccata","II. Adagio","III. Fugue"]],["Ich ruf' zu dir, Herr Jesu Christ, BWV 639","mediaplayer\/player.asp?br=128&tl=2181",[]],["Passacaglia and Fugue in C Minor, BWV 582","mediaplayer\/player.asp?br=128&tl=2183|2184",["I. Passacaglia","II. Fugue"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=OC150B.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=OC150B.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DOC150B","desc":"BACH, J.S.: Organ Music (Stella)","label":"OnClassical","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian","artist":"Stella, Simone","country":"Germany","catid":"OC150B","cdinfo":[[["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565","mediaplayer\/player.asp?br=128&tl=3115079|3115080",["Toccata","Fugue"]],["Toccata and Fugue in D Minor, BWV 538, \"Dorian\"","mediaplayer\/player.asp?br=128&tl=3115081|3115082",["Toccata","Fuga"]],["Pastorale in F Major, BWV 590","mediaplayer\/player.asp?br=128&tl=3115083|3115084|3115085|3115086",["I. Prelude","II. Allemande","III. Aria","IV. Gigue"]],["Prelude and Fugue in C Major, BWV 545","mediaplayer\/player.asp?br=128&tl=3115087|3115088",["Prelude","Fugue"]],["Piece d'Orgue in G Major, BWV 572, \"Fantasia in G Major\"","mediaplayer\/player.asp?br=128&tl=3115089",[]],["Fantasia and Fugue in G Minor, BWV 542","mediaplayer\/player.asp?br=128&tl=3115090|3115091",["Fantasia","Fugue"]],["Passacaglia and Fugue in C Minor, BWV 582","mediaplayer\/player.asp?br=128&tl=3115092|3115093",["Passacaglia","Fugue"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/bach%20organ%20fugue%20in%20c%20minor"};IMSLPNaxosSearch="bach organ fugue in c minor";JGaskdonation=0;JGFileTools={"167173":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/167173"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23167173"}},"205259":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205259"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205259"}},"167172":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=167172"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/167172\/178026\/1d2b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP167172"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/167172"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/167172"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23167172"}},"178026":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/167172\/178026\/1d2b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP178026"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/178026"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23178026"}},"205244":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205244"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205244"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205244"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205244"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205244"}},"205245":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205245"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205245"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205245"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205245"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205245"}},"205246":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205246"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205246"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205246"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205246"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205246"}},"205247":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205247"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205247"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205247"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205247"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205247"}},"205248":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205248"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205248"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205248"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205248"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205248"}},"205249":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205249"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205249"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205249"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205249"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205249"}},"205250":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205250"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205250"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205250"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205250"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205250"}},"205251":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205251"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205251"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205251"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205251"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205251"}},"205252":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205252"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205252"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205252"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205252"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205252"}},"205253":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205253"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205253"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205253"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205253"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205253"}},"205254":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205254"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205254"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205254"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205254"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205254"}},"205255":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205255"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205255"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205255"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205255"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205255"}},"205256":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=205256"},"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205256"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/205256"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205256"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205256"}},"205257":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/205244\/205245\/205246\/205247\/205248\/205249\/205250\/205251\/205252\/205253\/205254\/205255\/205256\/205257\/cf31"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP205257"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/205257"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Organ+Fugue+in+C+minor+%28Bach%2C+Wilhelm+Friedemann%29&frmTitle=IMSLP+%23205257"}}};JGFileOpts={"167173":[],"205259":[],"167172":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDXwBMMkaeJ6grRRPTlWmCZ0dRK\/hRHj4kz64VbcZp2QbNEY7lo+B+uHYsniUMfjEsba4J5ySuoDLFQ0P7yMrv"},"178026":[],"205244":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjns0VP7q4V1wlVlw+MAVUYo8J\/kAjRL0BDA3mclvvlaUKfDgHvNKO+5rp3xsrRnESpg+ApCFLBmibZwhefOEAi"},"205245":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhgZXFZSCIUbax\/U3Y8wZhcgBE\/vFdb5in+GYnebPKl3\/3Kfn3DHaVIBjpdP2DeNQk="},"205246":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjSPLbuYDNFUbV9rnnpzj3UQlWrtmgrIDqM13CPNEgGwVLqBfb3Mjhoyno6tTXob3Y="},"205247":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biEHuVSI7fXEDASWJfxRjJ1XQ47jnhXoZ+l73dqhCE0ENHER\/6LTKciTY1kGn0Qk+Q="},"205248":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgajqSAY02MwdUDMGJ4qPVHm1zB80EnkpT3WNZL+FOIJGjUUVJ6BCwICNQ2GIijE53JoiPQqDeXKaPoD1F+FvBl"},"205249":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biyJI0N32dRO21ICrOTD5zXOi51SoBKuRP+s3hnXtL9PiI+gWP5hI5OmnyBX465V1o="},"205250":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgajqSAY02MwdUDMGJ4qPVHumV0TtgsA4g4eCHbpxes8jMuBt4IyYqAgRtDcCl\/OS4Vdx0u3q4rNekELRmStqGU"},"205251":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhnHbj4YtZlIzLIlasmLV4E1jdawfdNh0i1lyZWDOn5XIxgfD\/Om92c7NovQg3+N\/DAI6+NW6YgsimQHwDd4lMf"},"205252":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bji96VKkXx4Cuxb26Okq6E3RTqwrt3il8gEigDZXLc2F4y\/MjkX3ruNPw6fUwQRDVjihTxewmQdIEUGpm4thjRV"},"205253":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjjAGGxuffIs\/9yRKwWtRNYlM4kuwsglIZVMvBgJsgCW1082ASLtHQ9HtNxkQdn9peGIneP8I76UdoWrAeIfuRn"},"205254":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjWBgEXI9Ozf8UoND3DrrNuVIFC20Dpt0e914nI9R\/lGjWyfdkZIstQQYHZ6mczgmWWgtl2tqh+56vs0gWCsEz3"},"205255":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6i35p4yi6WfN+\/52Iu8FCZ5EVA091\/SuZVS+vvdridZOOdh5G63KHl3jt+AxSpM4="},"205256":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgDCGz5\/sWROx0Y0gfkTejFHjNbeTmk\/Z7xqtEnfnfaWprizWqdzVjSURuHeZuvMRY="},"205257":[]};JGPageUntagged=false;JGPageTags=["fugues","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore3":true,"tabScore4":true,"tabArrTrans":false,"tabScore5":true,"tabScore1":false,"tabScore6":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Organ Scores","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"178026":[3,"2"],"205257":[2,"1"],"167173":[0,0],"205259":[0,0],"167172":[0,0],"205244":[0,0],"205245":[0,0],"205246":[0,0],"205247":[0,0],"205248":[0,0],"205249":[0,0],"205250":[0,0],"205251":[0,0],"205252":[0,0],"205253":[0,0],"205254":[0,0],"205255":[0,0],"205256":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Organ_.28Composer.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For Organ (Composer)</span></a></li>
+<li class="toclevel-3"><a href="#For_Orchestra_.28Rondeau.29"><span class="tocnumber">1.2.2</span> <span class="toctext">For Orchestra (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.1</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Orchestra_.28Rondeau.29_2"><span class="tocnumber">2.1.1</span> <span class="toctext">For Orchestra (Rondeau)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Organ_Scores"><span class="tocnumber">2.2</span> <span class="toctext">Organ Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">2</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h5> <span class="mw-headline" id="For_Organ_.28Composer.29">For Organ (Composer)</span></h5>
+<div class="we"><div id="IMSLP167173" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/167173"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>MIDI Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/02/WIMA.fc55-WFBach%2CFuga.mid" class="internal" title="WIMA.fc55-WFBach,Fuga.mid">*</a></span><a href="/wiki/File:WIMA.fc55-WFBach,Fuga.mid" title="File:WIMA.fc55-WFBach,Fuga.mid">#167173</a> - 0.01MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-167173' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-167173'>
+	<a href='javascript:void(0)' id='167173' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='167173' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='167173' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='167173' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='167173' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-167173'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/167173/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/167173/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@167173" title="Special:GetFCtrStats/@167173">247</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a><span class="mh555"> (2011/12/28)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=167173">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=167173">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="167173">Javascript is required for this feature.</div><script>JGINITsearchbars['167173']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h5> <span class="mw-headline" id="For_Orchestra_.28Rondeau.29">For Orchestra (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP205259" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205259"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fc/WIMA.86a7-BFugCmSco.mp3" class="internal" title="WIMA.86a7-BFugCmSco.mp3">*</a></span><a href="/wiki/File:WIMA.86a7-BFugCmSco.mp3" title="File:WIMA.86a7-BFugCmSco.mp3">#205259</a> - 2.13MB - 2:19<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205259' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205259'>
+	<a href='javascript:void(0)' id='205259' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205259' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205259' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205259' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205259' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205259'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/205259/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205259/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@205259" title="Special:GetFCtrStats/@205259">159</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_205259'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"205259":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/f\/fc\/IMSLP205259-WIMA.86a7-BFugCmSco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Synthesized
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=205259">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=205259">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="205259">Javascript is required for this feature.</div><script>JGINITsearchbars['205259']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Scores (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Parts (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">14</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore1_tab"><b><a href="#tabScore1">Organ Scores (<span id="tabScore1_ct">2</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Scores" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Parts" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Orchestra_.28Rondeau.29_2">For Orchestra (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP205244" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205244"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dd/WIMA.1526-BFugCmSco.pdf" class="internal" title="WIMA.1526-BFugCmSco.pdf">*</a></span><a href="/wiki/File:WIMA.1526-BFugCmSco.pdf" title="File:WIMA.1526-BFugCmSco.pdf">#205244</a> - 0.18MB, 17 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205244' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205244'>
+	<a href='javascript:void(0)' id='205244' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205244' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205244' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205244' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205244' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205244'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205244/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205244/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 284"><a href="/wiki/Special:GetFCtrStats/@205244" title="Special:GetFCtrStats/@205244">284</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>13 more</u>:</b> Flute • Oboe • Clarinet • Bassoon • Horn • Trumpet • Timpani • Violins I • Violins II • Violas • Cellos • Basses • Engraving files (Finale)
+</p>
+</div><div id="IMSLP205245" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205245"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/42/WIMA.e6ff-BFugCmFl.pdf" class="internal" title="WIMA.e6ff-BFugCmFl.pdf">*</a></span><a href="/wiki/File:WIMA.e6ff-BFugCmFl.pdf" title="File:WIMA.e6ff-BFugCmFl.pdf">#205245</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205245' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205245'>
+	<a href='javascript:void(0)' id='205245' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205245' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205245' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205245' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205245' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205245'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205245/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205245/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 109"><a href="/wiki/Special:GetFCtrStats/@205245" title="Special:GetFCtrStats/@205245">109</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205246" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205246"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/98/WIMA.0dc7-BFugCmOb.pdf" class="internal" title="WIMA.0dc7-BFugCmOb.pdf">*</a></span><a href="/wiki/File:WIMA.0dc7-BFugCmOb.pdf" title="File:WIMA.0dc7-BFugCmOb.pdf">#205246</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205246' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205246'>
+	<a href='javascript:void(0)' id='205246' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205246' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205246' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205246' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205246' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205246'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205246/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205246/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 85"><a href="/wiki/Special:GetFCtrStats/@205246" title="Special:GetFCtrStats/@205246">85</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205247" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205247"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/14/WIMA.a3a0-BFugCmCl.pdf" class="internal" title="WIMA.a3a0-BFugCmCl.pdf">*</a></span><a href="/wiki/File:WIMA.a3a0-BFugCmCl.pdf" title="File:WIMA.a3a0-BFugCmCl.pdf">#205247</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205247' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205247'>
+	<a href='javascript:void(0)' id='205247' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205247' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205247' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205247' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205247' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205247'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205247/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205247/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 105"><a href="/wiki/Special:GetFCtrStats/@205247" title="Special:GetFCtrStats/@205247">105</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205248" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205248"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/40/WIMA.3e75-BFugCmBsn.pdf" class="internal" title="WIMA.3e75-BFugCmBsn.pdf">*</a></span><a href="/wiki/File:WIMA.3e75-BFugCmBsn.pdf" title="File:WIMA.3e75-BFugCmBsn.pdf">#205248</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205248' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205248'>
+	<a href='javascript:void(0)' id='205248' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205248' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205248' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205248' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205248' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205248'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205248/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205248/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 85"><a href="/wiki/Special:GetFCtrStats/@205248" title="Special:GetFCtrStats/@205248">85</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205249" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205249"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0d/WIMA.1dd7-BFugCmHn.pdf" class="internal" title="WIMA.1dd7-BFugCmHn.pdf">*</a></span><a href="/wiki/File:WIMA.1dd7-BFugCmHn.pdf" title="File:WIMA.1dd7-BFugCmHn.pdf">#205249</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205249' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205249'>
+	<a href='javascript:void(0)' id='205249' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205249' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205249' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205249' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205249' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205249'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205249/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205249/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 83"><a href="/wiki/Special:GetFCtrStats/@205249" title="Special:GetFCtrStats/@205249">83</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205250" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205250"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/40/WIMA.e075-BFugCmTrp.pdf" class="internal" title="WIMA.e075-BFugCmTrp.pdf">*</a></span><a href="/wiki/File:WIMA.e075-BFugCmTrp.pdf" title="File:WIMA.e075-BFugCmTrp.pdf">#205250</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205250' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205250'>
+	<a href='javascript:void(0)' id='205250' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205250' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205250' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205250' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205250' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205250'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205250/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205250/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 78"><a href="/wiki/Special:GetFCtrStats/@205250" title="Special:GetFCtrStats/@205250">78</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205251" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205251"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/92/WIMA.27c7-BFugCmTim.pdf" class="internal" title="WIMA.27c7-BFugCmTim.pdf">*</a></span><a href="/wiki/File:WIMA.27c7-BFugCmTim.pdf" title="File:WIMA.27c7-BFugCmTim.pdf">#205251</a> - 0.02MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205251' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205251'>
+	<a href='javascript:void(0)' id='205251' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205251' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205251' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205251' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205251' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205251'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205251/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205251/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 69"><a href="/wiki/Special:GetFCtrStats/@205251" title="Special:GetFCtrStats/@205251">69</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205252" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205252"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/59/WIMA.1022-BFugCmVl1.pdf" class="internal" title="WIMA.1022-BFugCmVl1.pdf">*</a></span><a href="/wiki/File:WIMA.1022-BFugCmVl1.pdf" title="File:WIMA.1022-BFugCmVl1.pdf">#205252</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205252' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205252'>
+	<a href='javascript:void(0)' id='205252' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205252' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205252' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205252' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205252' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205252'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205252/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205252/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 107"><a href="/wiki/Special:GetFCtrStats/@205252" title="Special:GetFCtrStats/@205252">107</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205253" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205253"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/af/WIMA.83f5-BFugCmVl2.pdf" class="internal" title="WIMA.83f5-BFugCmVl2.pdf">*</a></span><a href="/wiki/File:WIMA.83f5-BFugCmVl2.pdf" title="File:WIMA.83f5-BFugCmVl2.pdf">#205253</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205253' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205253'>
+	<a href='javascript:void(0)' id='205253' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205253' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205253' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205253' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205253' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205253'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205253/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205253/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 76"><a href="/wiki/Special:GetFCtrStats/@205253" title="Special:GetFCtrStats/@205253">76</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205254" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205254"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d6/WIMA.c6b6-BFugCmVla.pdf" class="internal" title="WIMA.c6b6-BFugCmVla.pdf">*</a></span><a href="/wiki/File:WIMA.c6b6-BFugCmVla.pdf" title="File:WIMA.c6b6-BFugCmVla.pdf">#205254</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205254' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205254'>
+	<a href='javascript:void(0)' id='205254' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205254' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205254' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205254' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205254' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205254'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205254/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205254/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 81"><a href="/wiki/Special:GetFCtrStats/@205254" title="Special:GetFCtrStats/@205254">81</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205255" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205255"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/da/WIMA.a048-BFugCmVc.pdf" class="internal" title="WIMA.a048-BFugCmVc.pdf">*</a></span><a href="/wiki/File:WIMA.a048-BFugCmVc.pdf" title="File:WIMA.a048-BFugCmVc.pdf">#205255</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205255' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205255'>
+	<a href='javascript:void(0)' id='205255' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205255' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205255' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205255' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205255' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205255'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205255/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205255/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 84"><a href="/wiki/Special:GetFCtrStats/@205255" title="Special:GetFCtrStats/@205255">84</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205256" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205256"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/72/WIMA.df21-BFugCmDb.pdf" class="internal" title="WIMA.df21-BFugCmDb.pdf">*</a></span><a href="/wiki/File:WIMA.df21-BFugCmDb.pdf" title="File:WIMA.df21-BFugCmDb.pdf">#205256</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205256' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205256'>
+	<a href='javascript:void(0)' id='205256' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205256' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205256' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205256' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205256' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205256'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205256/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205256/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 79"><a href="/wiki/Special:GetFCtrStats/@205256" title="Special:GetFCtrStats/@205256">79</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP205257" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/205257"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f6/WIMA.055d-BFugCm.zip" class="internal" title="WIMA.055d-BFugCm.zip">*</a></span><a href="/wiki/File:WIMA.055d-BFugCm.zip" title="File:WIMA.055d-BFugCm.zip">#205257</a> - 0.58MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-205257' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-205257'>
+	<a href='javascript:void(0)' id='205257' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='205257' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='205257' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='205257' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='205257' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-205257'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/205257/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/205257/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 108"><a href="/wiki/Special:GetFCtrStats/@205257" title="Special:GetFCtrStats/@205257">108</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=205244/205245/205246/205247/205248/205249/205250/205251/205252/205253/205254/205255/205256/205257">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=205244/205245/205246/205247/205248/205249/205250/205251/205252/205253/205254/205255/205256/205257">del</a>/<span id="fmrglnk" data-pdfstr="205244//205245//205246//205247//205248//205249//205250//205251//205252//205253//205254//205255//205256/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="205244">Javascript is required for this feature.</div><script>JGINITsearchbars['205244']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.1526-BFugCmSco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/dd/bcf0401a50cfafa1d8b7a39a379147399bcc6bb7.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Organ_Scores">Organ Scores</span></h3>
+<div class="we"><div id="IMSLP167172" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/167172"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score, original version</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4c/WIMA.4cad-WFBach%2CFuga.pdf" class="internal" title="WIMA.4cad-WFBach,Fuga.pdf">*</a></span><a href="/wiki/File:WIMA.4cad-WFBach,Fuga.pdf" title="File:WIMA.4cad-WFBach,Fuga.pdf">#167172</a> - 0.13MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-167172' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-167172'>
+	<a href='javascript:void(0)' id='167172' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='167172' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='167172' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='167172' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='167172' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-167172'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/167172/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/167172/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 4415"><a href="/wiki/Special:GetFCtrStats/@167172" title="Special:GetFCtrStats/@167172">4415</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2011/12/29" class="hovertext">2011/12/28</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP178026" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/178026"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/44/WIMA.45d8-WFBach%2CFuga.zip" class="internal" title="WIMA.45d8-WFBach,Fuga.zip">*</a></span><a href="/wiki/File:WIMA.45d8-WFBach,Fuga.zip" title="File:WIMA.45d8-WFBach,Fuga.zip">#178026</a> - 0.06MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-178026' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-178026'>
+	<a href='javascript:void(0)' id='178026' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='178026' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='178026' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='178026' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='178026' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-178026'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/178026/Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)" title="Special:IMSLPEditCTag/178026/Organ Fugue in C minor (Bach, Wilhelm Friedemann)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 616"><a href="/wiki/Special:GetFCtrStats/@178026" title="Special:GetFCtrStats/@178026">616</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by editor<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/2/12" class="hovertext">2011/12/28</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Roose,_Patrick" title="Category:Roose, Patrick">Patrick Roose</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=167172/178026">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=167172/178026">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>From Musikalisches Vielerley, Hamburg, 1770.<br />These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="167172">Javascript is required for this feature.</div><script>JGINITsearchbars['167172']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.4cad-WFBach,Fuga.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4c/aa6b419c2035b31765c53f7b22da1f3e8fe9af9c.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Organ Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Fugue for Organ in C minor
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Bach,_Wilhelm_Friedemann" title="Category:Bach, Wilhelm Friedemann">Bach, Wilhelm Friedemann</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>WoO&#160;; BR A 89&#160;?&#160;; WohB 20.4&#160;; FecK 6.2
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IWB 43
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>C minor
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1770&#160;?
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Organ
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism900008987&amp;db=251&amp;View=rism&amp;Language=en">RISM 900008987</a></span> (as a work by J.C.F. Bach)<br /><span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism450061443&amp;db=251&amp;View=rism&amp;Language=en">RISM 450061443</a></span> (likewise, with catalog number)<br /><span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism452013096&amp;db=251&amp;View=rism&amp;Language=en">RISM 452013096</a></span> (attrib. to WF Bach)<br /><span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism461014005&amp;db=251&amp;View=rism&amp;Language=en">RISM 461014005</a></span> (attrib. to JP Kellner)
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>RISM is uncertain as to attribution - either <a href="/wiki/Category:Bach,_Johann_Christoph_Friedrich" title="Category:Bach, Johann Christoph Friedrich">Johann Christoph Friedrich Bach</a> (WohB XX.4) or Wilhelm Friedemann Bach (Fk deest) or even perhaps <a href="/wiki/Category:Kellner,_Johann_Peter" title="Category:Kellner, Johann Peter">Johann Peter Kellner</a> (FK 6.2/WB 20.4)
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 793/1000000
+Post-expand include size: 64329/2097152 bytes
+Template argument size: 340/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:297761-0!*!0!!en!2!* and timestamp 20180415211416 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)&amp;oldid=1578796">http://imslp.org/index.php?title=Organ_Fugue_in_C_minor_(Bach,_Wilhelm_Friedemann)&amp;oldid=1578796</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Rondeau,_Michel/Arranger" title="Category:Rondeau, Michel/Arranger">Rondeau, Michel/Arranger</a></li><li><a href="/wiki/Category:Roose,_Patrick/Editor" title="Category:Roose, Patrick/Editor">Roose, Patrick/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Bach,_Wilhelm_Friedemann" title="Category:Bach, Wilhelm Friedemann">Bach, Wilhelm Friedemann</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Fugues" title="Category:Fugues">Fugues</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_orchestra_(arr)" title="Category:For orchestra (arr)">For orchestra (arr)</a></li><li><a href="/wiki/Category:For_orchestra" title="Category:For orchestra">For orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1770" title="Category:Works first published in 1770">Works first published in 1770</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:C_minor" title="Category:C minor">C minor</a></li><li><a href="/wiki/Category:Bach,_Johann_Christoph_Friedrich/Collections" title="Category:Bach, Johann Christoph Friedrich/Collections">Bach, Johann Christoph Friedrich/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:Kellner,_Johann_Peter/Collections" title="Category:Kellner, Johann Peter/Collections">Kellner, Johann Peter/Collections</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Organ_Fugue_in_C_minor_%28Bach%2C_Wilhelm_Friedemann%29">1,908 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Organ%20Fugue%20in%20C%20minor%20%28Bach%2C%20Wilhelm%20Friedemann%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.492 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415211416 -->
+</html>
+		

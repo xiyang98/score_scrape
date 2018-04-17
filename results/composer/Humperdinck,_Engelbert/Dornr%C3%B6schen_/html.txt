@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Dornröschen (Humperdinck, Engelbert) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Dornröschen_(Humperdinck,_Engelbert)", "wgTitle": "Dornröschen (Humperdinck, Engelbert)", "wgCurRevisionId": 2355428, "wgArticleId": 85655, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with First Editions", "Scores engraved by Oscar Brandstetter", "Scores published by Max Brockhaus", "Brüggemann, Alfred/Editor", "Rödelberger, Phillip/Editor", "Fuchs, Gabriele/Arranger", "Scores", "Humperdinck, Engelbert", "Romantic style", "Romantic", "Fairy operas", "Theatrical Works", "Operas", "For voices, mixed chorus, orchestra", "Scores featuring the voice", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For voices and chorus with orchestra", "German language", "For 2 voices, piano (arr)", "For voices with keyboard", "Scores featuring the piano", "Pages with arrangements", "Works first published in 1902", "Works first published in the 20th century", "Ebeling, Elisabeth/Librettist", "Filhés, Bertha/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dornröschen_Humperdinck_Engelbert action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Dornr%C3%B6schen_(Humperdinck,_Engelbert)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Dornr%C3%B6schen_(Humperdinck,_Engelbert)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Dornr%C3%B6schen_(Humperdinck,_Engelbert)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Dornr%C3%B6schen_(Humperdinck,_Engelbert)&amp;oldid=2355428" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Dornr%C3%B6schen%20%28Humperdinck%2C%20Engelbert%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Dornröschen (Humperdinck, Engelbert)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 acts
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1902 – Leipzig: <a href="/wiki/Max_Brockhaus" title="Max Brockhaus">Max Brockhaus</a>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Fairy_operas&amp;transclude=Template:Catintro">Fairy operas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas&amp;transclude=Template:Catintro">Operas</a></span>; <span class="expandline" title="9 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For voices, mixed chorus, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:German_language&amp;transclude=Template:Catintro">German language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_voices%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For 2 voices, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_keyboard&amp;transclude=Template:Catintro">For voices with keyboard</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Dornr\u00f6schen","composer":"Humperdinck, Engelbert","comphref":"\/wiki\/Category:Humperdinck,_Engelbert"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"dornroschen","itunes":"dornroschen","composer":"humperdinck","scorekeywords":"dornroschen","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":6,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=777510-2.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=777510-2.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D777510-2","desc":"HUMPERDINCK, E.: Dornroschen [Opera] (Fassbaender, Landshamer, Kaiser, Haaks, Bavarian Radio Chorus, Munich Radio Orchestra, U. Schirmer)","label":"CPO","category":"Opera - Classical Music","composer":"Humperdinck, Engelbert","artist":"Fassbaender, Brigitte -- Schirmer, Ulf -- Munich Radio Orchestra -- Kaiser, Kristiane -- Haaks, Tobias -- Landshamer, Christina -- Klose, Wolfgang -- Hampl, Stephanie -- Borchers, Anna -- Clark, Miriam -- Bayer, Brigitte -- Yang, Guibee -- May, Jerzy -- Malisch, Barbara","country":"Germany","catid":"777510-2","cdinfo":[[["Humperdinck, Engelbert",[["Dornroschen","mediaplayer\/player.asp?br=128&tl=1000787|1000788|1000789|1000790|1000791|1000792|1000793|1000794|1000795|1000796|1000797|1000798|1000799|1000800|1000801|1000802|1000803|1000804|1000805|1000806",["Prelude Scene 1: Orchestral Prelude","Prelude Scene 1: Happy Event: Duftige Rosen lasset uns binden (Chorus of Maidens)","Dialogue 1","Prelude Scene 1: Arrival of the Fairies: Seht dorf, vom Morgenwind getragen (The Messenger, 12 Fairies)","Dialogue 2","Prelude Scene 1: Fairy Banquet","Prelude Scene 1: Baptismal Song: Lasst unds jetzt den Reigen schliessen (Rosa, Fairies)","Dialogue 3","Prelude Scene 1: Blessing and Curse: Wohlan so nenne dich nach mir (Rosa, Bella, Sophia, Viola, Poesis, Mab, Flora, Hulda, Veritas, Blanca, Damonia)","Dialogue 4","Prelude Scene 1: Sleep for Death: Nach ruht dein Gluck in meinen Handen (Rosa, Morphina, The Other Fairies)","Dialogue 5","Act I: Praeludium","Act I Scene 2: Festive Music","Dialogue 6","Act I Scene 2: Ich fuhl' ein leises Bangen (Roschen, Rose, Forget-Me-Not, Breeze)","Dialogue 7","Act I Scene 2: The Guests at the Feast","Dialogue 8","Act I Scene 2: Doom: O seht doch Mutterchen, seht doch (Roschen, King, Chorus of the Guests, Cook, Table Master, Damonia, Morphina)"]]]]],[["Humperdinck, Engelbert",[["Dornroschen","mediaplayer\/player.asp?br=128&tl=1000807|1000808|1000809|1000810|1000811|1000812|1000813|1000814|1000815|1000816|1000817|1000818|1000819|1000820|1000821|1000822|1000823|1000824|1000825|1000826|1000827|1000828|1000829|1000830|1000831|1000832|1000833|1000834|1000835|1000836|1000837",["Act II Scene 3: Ballade","Act II Scene 3: The Dream Image: In dem Schloss, dem altersgrauen (Reinhold)","Dialogue 9","Act II Scene 3: The Revelation","Dialogue 10","Act II Scene 3: Sleeping Beauty's Picture: O, welch' Entzucken (Reinhold, Overseer)","Dialogue 11","Act II Scene 3: Admonition: Wenn drei Tage noch verstrichen (Overseer) - Dialogue 12 - Interlude: Wanderings","Dialogue 13","Act II Scene 4: Heavenly Ascent: Mondesstrahl (Damonia)","Act II Scene 5: Dance of the Spheres: Herbei zum Tanz (Chorus of the Fixed Stars)","Dialogue 14","Act II Scene 5: Sunrise","Dialogue 15","Act II Scene 5: Declaration of the Stars: Wir halten Wacht (Chorus of the Stars)","Dialogue 16","Act II Scene 5: Dance of the Spheres: Ihr Sterne, herbei! (Sonne, Chorus of the Stars)","Act III Scene 6: Ach, das Gleiten (Quicksilver)","Act III Scene 6: The Oath: Die Ringe mein! (Reinhold, Quicksilver)","Dialogue 17","Act III Scene 6: Temptation: Halt ein! (Damonia, Nymphs and Naiads)","Dialogue 18","Act III Scene 6: Triumph: O zaudre nicht (Damonia, Nymphs and Naiads, Reinhold)","Dialogue 19","Act III Scene 6: Snowstorm","Act III Scene 6: Sunshine","Dialogue 20","Act III Scene 6: Interlude: The Thorn Castle","Dialogue 21","Act III Scene 7: Damonia's End: Ich sterbe! (A Dull Voice, A Gentle Voice) - In the Castle Garden: O Wunder ohne Gleichen! (Quicksilver, Reinhold)","Act III: The Awakening: Ich seid ein Esel! (Cook, Table Master, King, All the Guests, Sleeping Beauty, Reinhold, Pages, The Envoy, Queen, Rosa, Chorus)"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099962858458.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099962858458.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099962858458","desc":"HUMPERDINCK, E.: Marchenmusiken \/ Hansel und Gretel \/ Der blaue Vogel \/ Dornroschen (Rickenbacher)","label":"Erato - Parlophone","category":"Orchestral - Classical Music","composer":"Humperdinck, Engelbert","artist":"Rickenbacher, Karl Anton -- Bamberg Symphony Orchestra","country":"Germany","catid":"5099962858458","cdinfo":[[["Humperdinck, Engelbert",[["Hansel und Gretel","mediaplayer\/player.asp?br=128&tl=1201621",["Prelude"]],["Der blaue Vogel (excerpts)","mediaplayer\/player.asp?br=128&tl=1201760|1201761",["Prelude: Der Weinachstraum","Sternenreigen"]],["Konigskinder (The King's Children) (excerpts)","mediaplayer\/player.asp?br=128&tl=1201762|1201763|1201764",["Overture","Act II: Introduction - Hellafest, Kinderreigen","Act III: Introduction - Verdorben! Gestorben!"]],["Dornroschen","mediaplayer\/player.asp?br=128&tl=1201765|1201766|1201767|1201768|1201769",["Prelude","Ballade","Wanderings","The Thorn Castle","Festival Sounds"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356112858.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356112858.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356112858","desc":"HUMPERDINCK, E.: Fairy-tale Music (Rickenbacher)","label":"Erato - Parlophone","category":"Orchestral - Classical Music","composer":"Humperdinck, Engelbert","artist":"Rickenbacher, Karl Anton -- Bamberg Symphony Orchestra","country":"Germany","catid":"0724356112858","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.223369.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.223369.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.223369","desc":"HUMPERDINCK: Moorish Rhapsody \/ Sleeping Beauty","label":"Marco Polo","category":"Orchestral - Classical Music","composer":"Humperdinck, Engelbert","artist":"Fischer-Dieskau, Martin -- Slovak Radio Symphony Orchestra","country":"Germany","catid":"8.223369","cdinfo":[[["Humperdinck, Engelbert",[["Sleeping Beauty","mediaplayer\/player.asp?br=128&tl=15909|15910|15911|15912|15913",[]],["The Merchant of Venice","mediaplayer\/player.asp?br=128&tl=15915",[]],["Moorish Rhapsody","mediaplayer\/player.asp?br=128&tl=15906|15907|15908",[]],["The Canteen Woman","mediaplayer\/player.asp?br=128&tl=15914",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=825646012237.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=825646012237.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D825646012237","desc":"ES WAR EINMAL \u2026 - Once Upon a Time \u2026 For Kids","label":"Warner Classics","category":"Opera - Classical Music","composer":"Humperdinck, Engelbert -- Massenet, Jules -- Offenbach, Jacques -- Rossini, Gioachino","artist":"Quilico, Gino -- Stade, Frederica von -- Gelmetti, Gianluigi -- Kempe, Rudolf -- Rickenbacher, Karl Anton -- Norrington, Roger -- Bamberg Symphony Orchestra -- Lyon National Opera Orchestra -- City of Birmingham Symphony Orchestra -- Fremaux, Louis -- Royal Philharmonic Orchestra -- Stuttgart Radio Symphony Orchestra -- Hendricks, Barbara -- Foster, Lawrence -- St. Luke's Chamber Ensemble","country":"France Germany Italy","catid":"825646012237","cdinfo":[[["Humperdinck, Engelbert",[["Hansel und Gretel (excerpts) (arr. R. Kempe)","mediaplayer\/player.asp?br=128&tl=2853308|2853309|2853310|2853311|2853312",["Overture","Act II: Prelude (The Witch's Ride)","Act III: The Gingerbread House","Act III: Juchhei! Nun ist die Hexe tot (Witch Waltz)","Act II: Witches' Ride: Dream Pantomine"]]]],["Humperdinck, Engelbert",[["Dornroschen","mediaplayer\/player.asp?br=128&tl=2853313|2853314|2853315|2853316|2853317",["Prelude","Ballade","Wanderings","The Thorn Castle","Festival Sounds"]]]],["Offenbach, Jacques",[["Barbe-bleue: Overture","mediaplayer\/player.asp?br=128&tl=2853318",[]],["Barbe-bleue, Act I: Or depuis la rose nouvelle&#8230; Tous les deux,amoureux","mediaplayer\/player.asp?br=128&tl=2853319",["Barbe-bleue, Act I: Or depuis la rose nouvelle&#8230; Tous les deux, amoureux"]]]],["Massenet, Jules",[["Suite de Cendrillon: Valse","mediaplayer\/player.asp?br=128&tl=2853320",[]]]],["Rossini, Gioachino",[["La Cenerentola (Cinderella): Overture","mediaplayer\/player.asp?br=128&tl=2853321",[]]]],["Rossini, Gioachino",[["La Cenerentola (Cinderella), Act II: Nacqui all'affano &#8230; Non pi&#249; mesta","mediaplayer\/player.asp?br=128&tl=2853322",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099997367857.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099997367857.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099997367857","desc":"Es war einmal\u2026 Grimms Marchen in der Musik","label":"Warner Classics - Parlophone","category":"Ballet - Classical Music","composer":"Prokofiev, Sergey -- Tchaikovsky, Pyotr Il'yich -- Humperdinck, Engelbert -- Massenet, Jules -- Offenbach, Jacques -- Orff, Carl -- Rossini, Gioachino","artist":"Quilico, Gino -- Schmitt-Walter, Karl -- Hotter, Hans -- Schwarzkopf, Elisabeth -- Stade, Frederica von -- Prey, Hermann -- Christ, Rudolf -- Previn, Andr\u00e9 -- Cordes, Marcel -- Frick, Gottlob -- Gelmetti, Gianluigi -- Kempe, Rudolf -- Sawallisch, Wolfgang -- Rickenbacher, Karl Anton -- Norrington, Roger -- Bamberg Symphony Orchestra -- Lyon National Opera Orchestra -- City of Birmingham Symphony Orchestra -- London Symphony Orchestra -- Moser, Edda -- Kusche, Benno -- Kuen, Paul -- Fremaux, Louis -- Philharmonia Orchestra -- Royal Philharmonic Orchestra -- Stuttgart Radio Symphony Orchestra -- Neidlinger, Gustav -- Hendricks, Barbara -- Wallberg, Heinz -- Wieter, Georg -- Foster, Lawrence -- St. Luke's Chamber Ensemble -- Lindner, Brigitte -- Rosner, Willi -- Peter, Albrecht -- Gramatzki, Ilse -- Hug, Eugen -- Roleff, Ursula -- Frohn, Thomas -- Lagger, Peter -- Graml, Helmut -- Holloway, Teresa -- G\u00fcrzenich Orchestra","country":"France Germany Italy Russia","catid":"5099997367857","cdinfo":false}],"moreres":false};IMSLPNaxosSearch="humperdinck dornroschen";JGaskdonation=0;JGFileTools={"475251":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=475251"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP475251"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=475251"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/475251"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/475251"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%23475251"}},"52463":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=52463"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP52463"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=52463"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/52463"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/52463"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2352463"}},"52465":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=52465"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/52465\/52466\/52467\/52468\/52469\/0376"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP52465"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=52465"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/52465"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/52465"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2352465"}},"52466":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=52466"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/52465\/52466\/52467\/52468\/52469\/0376"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP52466"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=52466"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/52466"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/52466"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/52466"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2352466"}},"52467":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=52467"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/52465\/52466\/52467\/52468\/52469\/0376"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP52467"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=52467"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/52467"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/52467"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/52467"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2352467"}},"52468":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=52468"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/52465\/52466\/52467\/52468\/52469\/0376"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP52468"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=52468"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/52468"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/52468"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/52468"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2352468"}},"52469":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=52469"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/52465\/52466\/52467\/52468\/52469\/0376"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP52469"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=52469"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/52469"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/52469"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/52469"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2352469"}},"38933":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=38933"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP38933"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/38933"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/38933"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/38933"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Dornr%C3%B6schen+%28Humperdinck%2C+Engelbert%29&frmTitle=IMSLP+%2338933"}}};JGFileOpts={"475251":[],"52463":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjNeWSdfNl8gk8JqjwK1zga5++tGnRuFJ9CqhmPa1IbYXC6UkZmIwbfTp\/rT6Gpe3LiTm\/VeA5g+OS2iH5MrHrsnxgW0Caufx98zEF6WozwYw=="},"52465":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgcdDskcpqt5ZJqZI5Ryi2xczLQCETuEEMBFct9gF7a4ef3KzEb2Vgo+t5beTLg0YDMsIvqqAPEjkiQ9qdWMv3NUKKcQ+Ep9gMx3BT+TK1JZS9BUyRi+HT2PQI1MexI+fE="},"52466":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bijD7oQeQAhcb\/OArftnVIsxqVmDrqE46W\/fEnSQIv4G7RKqimjxVpLVpHVf1fi7m3vpEkOoFRQTSbC08aHXL1jKDVS+6\/cG3DvdByUq4HxXp8JMWD9oS+HsBH6aMX6A0Y40PZlJ7lrdSxPp2GD9hxP"},"52467":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bho25VJE2OHN6mRmmn9NPMYfK5sFWEqsg6nS5IPhqXQBfY\/jHY3DfPhhHcg4IF\/NLV9GFX19tyab6WuJbHqUbtZ9BCVLPMSrYXHUaYUiMEmdl4\/Z9i0WHuioWlHG8YhaclzQkCuVachERuFGn1mkxKK"},"52468":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biMKbpAym8J99x2dm\/scwljLR4tpbqt+t4h4dPhBieOkzPrVKfqqGv6DZz5ry357e+ArSvYIoSrvfUBVlQMgyDBNM0wNlA7Ww2jeXiocVlpzwf\/cnRw9Z1GNNc0e\/\/ADiBvtCuyVgxXzBTaQk\/So4IG"},"52469":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjcnbTiHpOmB0H8HIxOGSuOTp+0Mf1VuNOTMUPkyZOzYca+rfdEWmwqQCgKwd6Rl8S+e1\/MnOreHMowxUn9dKsmaDKKy4MqVo9U7yBq4B2mFyrPj8uWLTsb5o\/n5aRiUCxJV3jRv46DxSwRCqA7IZMs"},"38933":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjcnbTiHpOmB0H8HIxOGSuOenS+HRKTJ3urYNq0w62afgWAW993VCb4cbK2SoYzoR8HdQmEuhhLIwEQ6R7zuUwqm71FJAczLDNqSedN6NLzzq24WUvwOt3VQt87LfXB7gM="}};JGPageUntagged=false;JGPageTags=["fairy operas","vv ch orch","de"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore4":true,"tabScore2":false,"tabArrTrans":false,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"38933":[10,"1"],"52466":[6,"2"],"475251":[0,0],"52463":[0,0],"52465":[0,0],"52467":[0,0],"52468":[0,0],"52469":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a></li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.2</span> <span class="toctext">Vocal Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Complete_Work"><span class="tocnumber">2.2.1</span> <span class="toctext">Complete Work</span></a>
+<ul>
+<li class="toclevel-4"><a href="#German"><span class="tocnumber">2.2.1.1</span> <span class="toctext">German</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Excerpts"><span class="tocnumber">2.2.2</span> <span class="toctext">Excerpts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.3</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Rosengesang_.28Gesang_der_Rosenm.C3.A4dchen.29"><span class="tocnumber">2.3.1</span> <span class="toctext">Rosengesang (Gesang der Rosenmädchen)</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Voices_and_Piano_.28Composer.2C_Fuchs.29"><span class="tocnumber">2.3.1.1</span> <span class="toctext">For 2 Voices and Piano (Composer, Fuchs)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Parts (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Vocal Scores (<span id="tabScore2_ct">6</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">1</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<div class="we"><div id="IMSLP475251" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/475251"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6a/PMLP85655-Dornroeschen.pdf" class="internal" title="PMLP85655-Dornroeschen.pdf">*</a></span><a href="/wiki/File:PMLP85655-Dornroeschen.pdf" title="File:PMLP85655-Dornroeschen.pdf">#475251</a> - <span style="color:red"><b>54.31</b></span>MB, 205 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-475251' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-475251'>
+	<a href='javascript:void(0)' id='475251' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='475251' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='475251' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='475251' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='475251' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-475251'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/475251/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/475251/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 46"><a href="/wiki/Special:GetFCtrStats/@475251" title="Special:GetFCtrStats/@475251">46</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Jonasdberlin&amp;action=edit&amp;redlink=1" class="new" title="User:Jonasdberlin (page does not exist)">Jonasdberlin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Jonasdberlin&amp;action=edit&amp;redlink=1" class="new" title="User:Jonasdberlin (page does not exist)">Jonasdberlin</a> (2017/6/10)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Engraver
+</th>
+<td>Leipzig: <a href="/wiki/Oscar_Brandstetter" title="Oscar Brandstetter">Oscar Brandstetter</a>.
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Max_Brockhaus" title="Max Brockhaus">Max Brockhaus</a><!--ASL0-->, 1902.  Plate M.B. 435.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=475251">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=475251">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="475251">Javascript is required for this feature.</div><script>JGINITsearchbars['475251']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=475251&type=Complete%20Score&pgcount=205&signature=c98d3aeee3650780d24a3323ec672bb5cad20244"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP85655-Dornroeschen.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6a/84a9b30781e8dfa816b5ee4116e51e829b48f8bb.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Parts" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<h4> <span class="mw-headline" id="Complete_Work">Complete Work</span></h4>
+<h5> <span class="mw-headline" id="German">German</span></h5>
+<div class="we"><div id="IMSLP52463" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/52463"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ed/PMLP85655-Humperdinck_Dornroeschen_vs_Brockh.pdf" class="internal" title="PMLP85655-Humperdinck Dornroeschen vs Brockh.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_vs_Brockh.pdf" title="File:PMLP85655-Humperdinck Dornroeschen vs Brockh.pdf">#52463</a> - 7.79MB, 119 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-52463' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-52463'>
+	<a href='javascript:void(0)' id='52463' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='52463' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='52463' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='52463' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='52463' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-52463'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/52463/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/52463/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">15</span></a> </span>- <span title="Total number of downloads: 1731"><a href="/wiki/Special:GetFCtrStats/@52463" title="Special:GetFCtrStats/@52463">1731</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/1/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Br%C3%BCggemann,_Alfred" title="Category:Brüggemann, Alfred">Alfred Brüggemann</a> (1873-1944)<br /><a href="/index.php?title=Category:R%C3%B6delberger,_Phillip&amp;action=edit&amp;redlink=1" class="new" title="Category:Rödelberger, Phillip (page does not exist)">Phillip Rödelberger</a> (1865-1941)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Max_Brockhaus" title="Max Brockhaus">Max Brockhaus</a><!--ASL1-->, 1902.  Plate M.B. 434.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=52463">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=52463">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="52463">Javascript is required for this feature.</div><script>JGINITsearchbars['52463']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=52463&type=Complete%20Score&pgcount=119&signature=8000568fe748b7bfa48b76d7feff5afeb73b2427"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_vs_Brockh.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ed/d140e90cd3c6856747a9a7fd443217a45995cd50.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Excerpts">Excerpts</span></h4>
+<div class="we"><div id="IMSLP52465" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/52465"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Prelude to Act I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ef/PMLP85655-Humperdinck_Dornroeschen_1.Akt_Vorspiel_2hands_Brockh.pdf" class="internal" title="PMLP85655-Humperdinck Dornroeschen 1.Akt Vorspiel 2hands Brockh.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_1.Akt_Vorspiel_2hands_Brockh.pdf" title="File:PMLP85655-Humperdinck Dornroeschen 1.Akt Vorspiel 2hands Brockh.pdf">#52465</a> - 1.08MB, 8 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-52465' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-52465'>
+	<a href='javascript:void(0)' id='52465' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='52465' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='52465' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='52465' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='52465' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-52465'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/52465/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/52465/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">15</span></a> </span>- <span title="Total number of downloads: 610"><a href="/wiki/Special:GetFCtrStats/@52465" title="Special:GetFCtrStats/@52465">610</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/1/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>4 more</u>:</b> Festklänge (Act I) • Ballade (Act II) • Irrfahrten (Act II) • Das Dornenschloss (Act III)
+</p>
+</div><div id="IMSLP52466" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/52466"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Festklänge (Act I)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/30/PMLP85655-Humperdinck_Dornroeschen_1.Akt_2.Bild_Vorspiel_2hands_Brockh.pdf" class="internal" title="PMLP85655-Humperdinck Dornroeschen 1.Akt 2.Bild Vorspiel 2hands Brockh.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_1.Akt_2.Bild_Vorspiel_2hands_Brockh.pdf" title="File:PMLP85655-Humperdinck Dornroeschen 1.Akt 2.Bild Vorspiel 2hands Brockh.pdf">#52466</a> - 0.60MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-52466' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-52466'>
+	<a href='javascript:void(0)' id='52466' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='52466' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='52466' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='52466' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='52466' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-52466'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/52466/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/52466/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">15</span></a> </span>- <span title="Total number of downloads: 269"><a href="/wiki/Special:GetFCtrStats/@52466" title="Special:GetFCtrStats/@52466">269</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/1/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP52467" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/52467"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Ballade (Act II)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fd/PMLP85655-Humperdinck_Dornroeschen_2.Akt_3.Bild_Ballade_2hands_Brockh.pdf" class="internal" title="PMLP85655-Humperdinck Dornroeschen 2.Akt 3.Bild Ballade 2hands Brockh.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_2.Akt_3.Bild_Ballade_2hands_Brockh.pdf" title="File:PMLP85655-Humperdinck Dornroeschen 2.Akt 3.Bild Ballade 2hands Brockh.pdf">#52467</a> - 0.44MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-52467' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-52467'>
+	<a href='javascript:void(0)' id='52467' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='52467' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='52467' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='52467' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='52467' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-52467'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/52467/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/52467/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">15</span></a> </span>- <span title="Total number of downloads: 239"><a href="/wiki/Special:GetFCtrStats/@52467" title="Special:GetFCtrStats/@52467">239</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/1/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP52468" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/52468"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Irrfahrten (Act II)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a2/PMLP85655-Humperdinck_Dornroeschen_2.Akt_3.Bild_Irrfahrten_2hands_Brockh.pdf" class="internal" title="PMLP85655-Humperdinck Dornroeschen 2.Akt 3.Bild Irrfahrten 2hands Brockh.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_2.Akt_3.Bild_Irrfahrten_2hands_Brockh.pdf" title="File:PMLP85655-Humperdinck Dornroeschen 2.Akt 3.Bild Irrfahrten 2hands Brockh.pdf">#52468</a> - 0.91MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-52468' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-52468'>
+	<a href='javascript:void(0)' id='52468' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='52468' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='52468' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='52468' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='52468' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-52468'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/52468/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/52468/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">15</span></a> </span>- <span title="Total number of downloads: 141"><a href="/wiki/Special:GetFCtrStats/@52468" title="Special:GetFCtrStats/@52468">141</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/1/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP52469" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/52469"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Das Dornenschloss (Act III)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1a/PMLP85655-Humperdinck_Dornroeschen_3.Akt_6.Bild_Das_Dornenschloss_2hands_Brockh.pdf" class="internal" title="PMLP85655-Humperdinck Dornroeschen 3.Akt 6.Bild Das Dornenschloss 2hands Brockh.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_3.Akt_6.Bild_Das_Dornenschloss_2hands_Brockh.pdf" title="File:PMLP85655-Humperdinck Dornroeschen 3.Akt 6.Bild Das Dornenschloss 2hands Brockh.pdf">#52469</a> - 0.33MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-52469' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-52469'>
+	<a href='javascript:void(0)' id='52469' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='52469' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='52469' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='52469' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='52469' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-52469'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/52469/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/52469/Dornröschen (Humperdinck, Engelbert)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">15</span></a> </span>- <span title="Total number of downloads: 211"><a href="/wiki/Special:GetFCtrStats/@52469" title="Special:GetFCtrStats/@52469">211</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2010/1/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Br%C3%BCggemann,_Alfred" title="Category:Brüggemann, Alfred">Alfred Brüggemann</a> (1873-1944)<br /><a href="/index.php?title=Category:R%C3%B6delberger,_Phillip&amp;action=edit&amp;redlink=1" class="new" title="Category:Rödelberger, Phillip (page does not exist)">Phillip Rödelberger</a> (1865-1941)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Max_Brockhaus" title="Max Brockhaus">Max Brockhaus</a><!--ASL2-->, 1902.  Plate M.B. 434.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=52465/52466/52467/52468/52469">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=52465/52466/52467/52468/52469">del</a>/<span id="fmrglnk" data-pdfstr="52465//52466//52467//52468//52469/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="52465">Javascript is required for this feature.</div><script>JGINITsearchbars['52465']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=52465|52466|52467|52468|52469&type=Prelude%20to%20Act%20I%7CFestkl%C3%A4nge%20%28Act%20I%29%7CBallade%20%28Act%20II%29%7CIrrfahrten%20%28Act%20II%29%7CDas%20Dornenschloss%20%28Act%20III%29&pgcount=8|4|3|6|2&signature=08e533b1f51fd0cc34635b59b4382575b34ff4b3"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP85655-Humperdinck_Dornroeschen_1.Akt_Vorspiel_2hands_Brockh.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ef/e0c6301670c1c77c5a48787f658ebcafa384d60c.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Vocal Scores" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Rosengesang_.28Gesang_der_Rosenm.C3.A4dchen.29">Rosengesang (Gesang der Rosenmädchen)</span></h4>
+<h5> <span class="mw-headline" id="For_2_Voices_and_Piano_.28Composer.2C_Fuchs.29">For 2 Voices and Piano (Composer, Fuchs)</span></h5>
+<div class="we"><div id="IMSLP38933" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/38933"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1a/PMLP85655-Humperdinck%2CEngelbert%2CRosengesang%2CDornr%C3%B6schen%2CEHWV_121.pdf" class="internal" title="PMLP85655-Humperdinck,Engelbert,Rosengesang,Dornröschen,EHWV 121.pdf">*</a></span><a href="/wiki/File:PMLP85655-Humperdinck,Engelbert,Rosengesang,Dornr%C3%B6schen,EHWV_121.pdf" title="File:PMLP85655-Humperdinck,Engelbert,Rosengesang,Dornröschen,EHWV 121.pdf">#38933</a> - 0.92MB, 5 (1 title &amp; 4 score) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-38933' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-38933'>
+	<a href='javascript:void(0)' id='38933' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='38933' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='38933' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='38933' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='38933' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-38933'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/38933/Dornr%C3%B6schen_(Humperdinck,_Engelbert)" title="Special:IMSLPEditCTag/38933/Dornröschen (Humperdinck, Engelbert)"><span style="color:gray">C</span>/<span style="color:green">V</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 367"><a href="/wiki/Special:GetFCtrStats/@38933" title="Special:GetFCtrStats/@38933">367</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ralph_Theo_Misch" title="User:Ralph Theo Misch">Ralph Theo Misch</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Ralph Theo Misch<br />
+<a href="/wiki/User:Ralph_Theo_Misch" title="User:Ralph Theo Misch">Ralph Theo Misch</a> (<span title="Updated: 2009/9/8" class="hovertext">2009/9/7</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td>Composer<br /><a href="/index.php?title=Category:Fuchs,_Gabriele&amp;action=edit&amp;redlink=1" class="new" title="Category:Fuchs, Gabriele (page does not exist)">Gabriele Fuchs</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Max_Brockhaus" title="Max Brockhaus">Max Brockhaus</a><!--ASL3-->, 1911.  Plate M. B. 589.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=38933">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=38933">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>monochrome 600 dpi, compr. CCITT group 4
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="38933">Javascript is required for this feature.</div><script>JGINITsearchbars['38933']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP85655-Humperdinck,Engelbert,Rosengesang,Dornr%C3%B6schen,EHWV_121.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/1a/47fabfd17c0379ded9dc35264b634f862f7c0ebc.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Dornröschen
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Märchenoper in drei Akten
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Humperdinck,_Engelbert" title="Category:Humperdinck, Engelbert">Humperdinck, Engelbert</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>EHWV 121
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IEH 5
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 acts
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1902-11-12 — Frankfurt am Main
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1902 – Leipzig: <a href="/wiki/Max_Brockhaus" title="Max Brockhaus">Max Brockhaus</a>
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Ebeling,_Elisabeth" title="Category:Ebeling, Elisabeth">Elisabeth Ebeling</a> (1828&#8211;1905) and <a href="/index.php?title=Category:Filh%C3%A9s,_Bertha&amp;action=edit&amp;redlink=1" class="new" title="Category:Filhés, Bertha (page does not exist)">Bertha Filhés</a> (1819– after 1902)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>German
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>vocal soloists, mixed chorus, orchestra
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 783/1000000
+Post-expand include size: 45207/2097152 bytes
+Template argument size: 837/2097152 bytes
+Expensive parser function count: 4/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:85655-0!*!0!!en!2!* and timestamp 20180414222941 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Dornr%C3%B6schen_(Humperdinck,_Engelbert)&amp;oldid=2355428">http://imslp.org/index.php?title=Dornr%C3%B6schen_(Humperdinck,_Engelbert)&amp;oldid=2355428</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_engraved_by_Oscar_Brandstetter" title="Category:Scores engraved by Oscar Brandstetter">Scores engraved by Oscar Brandstetter</a></li><li><a href="/wiki/Category:Scores_published_by_Max_Brockhaus" title="Category:Scores published by Max Brockhaus">Scores published by Max Brockhaus</a></li><li><a href="/wiki/Category:Br%C3%BCggemann,_Alfred/Editor" title="Category:Brüggemann, Alfred/Editor">Brüggemann, Alfred/Editor</a></li><li><a href="/wiki/Category:R%C3%B6delberger,_Phillip/Editor" title="Category:Rödelberger, Phillip/Editor">Rödelberger, Phillip/Editor</a></li><li><a href="/wiki/Category:Fuchs,_Gabriele/Arranger" title="Category:Fuchs, Gabriele/Arranger">Fuchs, Gabriele/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Humperdinck,_Engelbert" title="Category:Humperdinck, Engelbert">Humperdinck, Engelbert</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Fairy_operas" title="Category:Fairy operas">Fairy operas</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:Operas" title="Category:Operas">Operas</a></li><li><a href="/wiki/Category:For_voices,_mixed_chorus,_orchestra" title="Category:For voices, mixed chorus, orchestra">For voices, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:German_language" title="Category:German language">German language</a></li><li><a href="/wiki/Category:For_2_voices,_piano_(arr)" title="Category:For 2 voices, piano (arr)">For 2 voices, piano (arr)</a></li><li><a href="/wiki/Category:For_voices_with_keyboard" title="Category:For voices with keyboard">For voices with keyboard</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1902" title="Category:Works first published in 1902">Works first published in 1902</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Ebeling,_Elisabeth/Librettist" title="Category:Ebeling, Elisabeth/Librettist">Ebeling, Elisabeth/Librettist</a></li><li><a href="/wiki/Category:Filh%C3%A9s,_Bertha/Librettist" title="Category:Filhés, Bertha/Librettist">Filhés, Bertha/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Dornr%C3%B6schen_%28Humperdinck%2C_Engelbert%29">2,241 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Dornr%C3%B6schen%20%28Humperdinck%2C%20Engelbert%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.420 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414222941 -->
+</html>
+		

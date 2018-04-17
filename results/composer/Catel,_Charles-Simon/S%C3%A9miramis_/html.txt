@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Sémiramis (Catel, Charles-Simon) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Sémiramis_(Catel,_Charles-Simon)", "wgTitle": "Sémiramis (Catel, Charles-Simon)", "wgCurRevisionId": 1977051, "wgArticleId": 363117, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Internet Archive", "Scores", "Catel, Charles-Simon", "Classical style", "Classical", "Lyric tragedies", "Theatrical Works", "Operas", "Lyric operas", "For voices, mixed chorus, orchestra", "Scores featuring the voice", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For voices and chorus with orchestra", "French language", "Works first published in 1802", "Works first published in the 19th century", "Desriaux, Philippe/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Sémiramis_Catel_Charles-Simon action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/S%C3%A9miramis_(Catel,_Charles-Simon)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=S%C3%A9miramis_(Catel,_Charles-Simon)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=S%C3%A9miramis_(Catel,_Charles-Simon)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/S%C3%A9miramis_(Catel,_Charles-Simon)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/S%C3%A9miramis_(Catel,_Charles-Simon)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=S%C3%A9miramis_(Catel,_Charles-Simon)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=S%C3%A9miramis_(Catel,_Charles-Simon)&amp;oldid=1977051" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=S%C3%A9miramis%20%28Catel%2C%20Charles-Simon%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Sémiramis (Catel, Charles-Simon)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 Acts
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1802
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Lyric_tragedies&amp;transclude=Template:Catintro">Lyric tragedies</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas&amp;transclude=Template:Catintro">Operas</a></span>; <span class="expandline" title="7 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Lyric_operas&amp;transclude=Template:Catintro">Lyric operas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For voices, mixed chorus, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:French_language&amp;transclude=Template:Catintro">French language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"S\u00e9miramis","composer":"Catel, Charles-Simon","comphref":"\/wiki\/Category:Catel,_Charles-Simon"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"semiramis","itunes":"semiramis","composer":"catel","scorekeywords":"semiramis","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":2,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GCD921625.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GCD921625.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGCD921625","desc":"CATEL, C.S.: Semiramis [Opera] (Le Concert Spirituel, Niquet)","label":"Glossa","category":"Opera - Classical Music","composer":"Catel, Charles Simon","artist":"Vidal, Mathias -- Courjal, Nicolas -- Wesseling, Maria Riccarda -- Niquet, Herve -- Foster-Williams, Andrew -- Maire, Nicholas -- Concert Spirituel Orchestra -- Philiponet, Gabrielle","country":"France","catid":"GCD921625","cdinfo":[[["Catel, Charles Simon",[["Semiramis","mediaplayer\/player.asp?br=128&tl=1502143|1502144|1502145|1502146|1502147|1502148|1502149|1502150|1502151|1502152|1502153|1502154|1502155|1502156",["Ouverture","Act I Scene 1: Air avec choeur: Arzace, par sa valeur (Azema, Chorus)","Act I Scene 2: Recitatif: Mais d'ou vient que la paix (Azema)","Act I Scene 3: Recitatif: O voiles de la mort! (Semiramis, Azema)","Act I Scene 3: Choeur: Sois sensible a notre douleur (Chorus)","Act I Scene 3: Recitatif et air: J'avais cru que ces dieux (Semiramis)","Act I Scene 3: Marche des pretres","Act I Scene 4: Recitatif: Reine et grands, ecoutez (Oroes, Semiramis)","Act I Scene 4: Ensemble: O sentence cruelle! (Semiramis, Azema, Oroes, Chorus)","Act I Scene 4: Marche et scene: Mais j'entends retentir les trompettes (Oroes, Semiramis)","Act I Scene 5: Choeur: Quelle pompe! (Chorus)","Act I Scene 5: Scene: Reine, ces etendards (Arzace, Semiramis)","Act I Scene 5: Andante","Act I Scene 5: Danse pour les africains"]]]]],[["Catel, Charles Simon",[["Semiramis","mediaplayer\/player.asp?br=128&tl=1502157|1502173|1502174|1502175|1502176|1502177|1502178|1502179|1502180|1502181|1502182|1502183|1502184|1502185|1502186|1502187|1502188|1502189|1502190|1502191|1502192|1502193|1502194|1502195|1502196|1502197|1502198|1502199|1502200|1502201|1502202",["Act II Scene 1: Recitatif: Que m'a dit Oroes? (Arzace)","Act II Scene 1: Air et recitatif: Oui, je viens des champs de la gloire (Arzace)","Act II Scene 2: Recitatif: Objet de tous mes voeux (Arzace, Azema)","Act II Scene 2: Duo: De tant d'amour (Azema, Arzace)","Act II Scene 2: Recitatif: Mais Assur parait (Azema) - Scene 3: Va, dis-je, et vois enfin (Assur, Arzace) - Scene 4: Tu combles la mesure (Assur, Azema)","Act II Scene 4: Air: Que l'eclat de votre naissance (Azema)","Act II Scene 5: Recitatif: Ont-ils fait l'un et l'autre (Assur)","Act II Scene 5: Recitatif: Tous les grands de l'Etat (Cedar, Assur)","Act II Scene 5: Air: S'il est vrai que votre vengeance (Assur)","Act II Scene 6: Marche","Act II Scene 6: Recitatif: Princes, mages, guerriers (Oroes, Semiramis)","Act II Scene 6: Air: Maitresse de mon diademe (Semiramis)","Act II Scene 6: Recitatif: Que de ce grand hymen (Semiramis)","Act II Scene 6: Choeur: Oui, nous jurons (Chorus)","Act II Scene 6: Choeur: Pretresses de l'hymen (Chorus)","Act II Scene 6: Recitatif: Vous dont la noble audace (Semiramis, Chorus, Assur, Oroes)","Act II Scene 6: Recitatif: Tu regneras Arzace (L'ombre de Ninus)","Act II Scene 6: Finale: Grands dieux! (Tous)","Act III Scene 1: Recitatif: Non, ne differons plus (Assur)","Act III Scene 1: Ensemble: Que le mystere et le silence (Chorus, Assur)","Act III Scene 2: Recitatif: Le ciel m'a tout ravi (Arzace, Azema)","Act III Scene 2: Duo: Songe qu'a toi je me confie (Azema, Arzace)","Act III Scene 3: Recitatif: Venez, retirons-nous (Oroes, Arzace)","Act III Scene 3: Ensemble: Frappez, punissez le coupable (Oroes, Chorus, Arzace)","Act III Scene 4: Recitatif: Non, je ne reviens point de cet etat (Arzace)","Act III Scene 5: Recitatif: On n'attend plus que vous (Semiramis, Arzace)","Act III Scene 5: Duo: Eh bien, ne tarde plus (Semiramis, Arzace)","Act III Scene 5: Recitatif: Mais c'est trop differer (Arzace, Semiramis) - Scene 6: Et c'est la que tu fuis (Semiramis, Azema)","Act III Scene 7: Recitatif: Ciel! ou suis-je? (Arzace, Azema) - Scene 8: Le ciel est satisfait (Oroes, Chorus, Assur, Arzace)","Act III Scene 8: Recitatif: Viens me venger (Semiramis, Arzace)","Act III Scene 8: Choeur: O terrible destin! (Chorus)"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ZZT337.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ZZT337.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DZZT337","desc":"Vocal Recital: Deshayes, Karine - CHERUBINI, L. \/ BOISSELOT, X. \/ HEROLD, F. \/ CATEL, C.S. (French Romatic Cantatas)","label":"Zig-Zag Territoires","category":"Opera - Classical Music","composer":"Herold, Ferdinand -- Cherubini, Luigi -- Catel, Charles Simon -- Boisselot, Xavier","artist":"Deshayes, Karine -- Stern, David -- Opera Fuoco Orchestra","country":"France Italy","catid":"ZZT337","cdinfo":[[["Cherubini, Luigi",[["Medea (Medee): Overture","mediaplayer\/player.asp?br=128&tl=1895940",[]]]],["Boisselot, Xavier",[["Velleda","mediaplayer\/player.asp?br=128&tl=1895941",[]]]],["Herold, Ferdinand",[["Ariane","mediaplayer\/player.asp?br=128&tl=1895942",[]]]],["Cherubini, Luigi",[["Medea (Medee), Act II: Ah! Nos peines seront communes (Sung in French)","mediaplayer\/player.asp?br=128&tl=1895943",[]]]],["Catel, Charles Simon",[["Semiramis: Overture","mediaplayer\/player.asp?br=128&tl=1895944",[]]]],["Cherubini, Luigi",[["Circe: Sur un rocher desert","mediaplayer\/player.asp?br=128&tl=1895945",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="catel semiramis";JGaskdonation=0;JGFileTools={"219374":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=219374"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/219374\/219375\/219376\/5de7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP219374"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=219374"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/219374"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/219374"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23219374"}},"219375":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=219375"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/219374\/219375\/219376\/5de7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP219375"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=219375"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/219375"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/219375"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23219375"}},"219376":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=219376"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/219374\/219375\/219376\/5de7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP219376"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=219376"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/219376"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/219376"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23219376"}},"403591":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403591"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403591"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403591"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403591"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403591"}},"403592":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403592"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403592"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403592"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403592"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403592"}},"403593":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403593"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403593"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403593"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403593"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403593"}},"403594":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403594"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403594"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403594"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403594"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403594"}},"403595":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403595"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403595"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403595"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403595"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403595"}},"403596":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403596"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403596"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403596"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403596"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403596"}},"403597":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403597"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403597"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403597"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403597"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403597"}},"403598":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403598"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403598"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403598"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403598"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403598"}},"403599":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403599"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403599"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403599"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403599"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403599"}},"403600":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403600"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403600"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403600"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403600"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403600"}},"403601":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403601"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403601"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403601"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403601"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403601"}},"403602":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403602"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403602"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403602"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403602"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403602"}},"403603":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/403591\/403592\/403593\/403594\/403595\/403596\/403597\/403598\/403599\/403600\/403601\/403602\/403603\/da91"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP403603"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=403603"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/403603"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/403603"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=S%C3%A9miramis+%28Catel%2C+Charles-Simon%29&frmTitle=IMSLP+%23403603"}}};JGFileOpts={"219374":[],"219375":[],"219376":[],"403591":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9I705G5VvjNKg3moYOhbn32z7XU1CxskuDFDYVL1kMzjvqVPdb5okhED68wBo7UIriAjF4ph3rVpX+YSCLBY6Byk1jKXGvz0+sLukugPdKg=="},"403592":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biWM32p6hdMPBX+jW7ljCtH0V+qurKU9hyvTIgYPkLzwfvOWEpDIYgfl7ZV5Uuagz6VV1n\/qouLDYsuq1AuGO5VtDMjf0tWZZ9T\/TYPqnm3jg=="},"403593":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgphB+oqAtEpGSzFJXvR7PQHkDhhhhTjk1fMOhvqwK+p3rimPs8DYxiioxuW6LEFd7442LT8lkwyL98SS4Zlf2CvJhCEUYSenbnMJ2efgbulA=="},"403594":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhW5E3LVzcoMocWOm0q0c5wjYdMbARlSO64gbZ3BQ8ZTwRm9\/ykch7\/aD8GSxAhUIHWv8Boog3KdCCBLto7f5uf46xvW+q4MzqOQNqpRcw9gw=="},"403595":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkol3vTF+uG57mN4PAKizDx6P\/TpXNWKWM+AKojjXd1Yyj9YM02M81BDQxpwt1a5TVkx3pwlZoXrW4rPEnE+rKotLngsnYULg3IjyAjDwR1Q=="},"403596":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj+8wl5aKhhkHE2JqkCLzeIAmPyx8femZTGYteODNuF6zqZRJ3SudH9woB4f\/FF58p0dcgi4S2Vetyj9AX8oz9Qw9OdGiFOSQ8TRXAtX6SK0w=="},"403597":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgMlAeWpYmWTwSywfTdOIcLHpzk2ZNJ6RKHPnS7h6cwrO9CoHc33RE6iA8gY1FHcPOwdFmhZymrDS1EsoKT0hMWo6Etw82EUMscFVjpeiPT0g=="},"403598":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi1g1oH0eGl2QJbvcJX76Rzj5za7zCRV1mD3nJMMEfjt9ImmIMEzmzT7fKeH5VsTRICFjoW3GDOSnoaHkjVTjDCEapPGm7SnA8OEaSWV3D1JQ=="},"403599":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh0ZX0M2CiWptcc56y9EXSkzcDBpzWOoFRbQFwNx63cC4q7CQg2hQStrBnrCqBMxkgo7ffLzN3uIlXz966KroPhtFg39HK8AS16bzCpKiNulA=="},"403600":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj5vr7RMXQZaxSWXjxKaU5IVAoGVJUK4sTjhe1h+nwV1vy6q4etrzsJInIvQ3yorKzVdbl8Qc0bw6Yge2X65uEXpCek5Lu0O9Ck25WvWC1GBg=="},"403601":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjjAGGxuffIs\/9yRKwWtRNYtj92OhujKY\/N5C9K2jStFsPs+vyWPAOGVhQ49EvFz6Oi+YT3GQpHdG6zkv9kavmaeX7Ns1suAwIEN0anw6ljJQ=="},"403602":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj\/2k6uZK9ttBBaEhalSbdeB8EChphzInRZCY\/RdXrkdUjqMd46BN5pV0WwGxuVPK3QOgqGMOtnaWJGDzTVDMc6oDN9zWWbsa8BuV\/updJuVQ=="},"403603":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biL2ev2lkgT8Dyn+FS3nKM2voMa54CV\/xm6cTX8sOj58T3+9pPoBCvDjycnltXjWtoVnx3AKN8H3Dv1J2PzizX5OC1NSveT6UJwHGHVySe69A=="}};JGPageUntagged=false;JGPageTags=["lyric tragedies","vv ch orch","fr"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"219374":[10,"1"],"219375":[0,0],"219376":[0,0],"403591":[0,0],"403592":[0,0],"403593":[0,0],"403594":[0,0],"403595":[0,0],"403596":[0,0],"403597":[0,0],"403598":[0,0],"403599":[0,0],"403600":[0,0],"403601":[0,0],"403602":[0,0],"403603":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Overture"><span class="tocnumber">2.2.1</span> <span class="toctext">Overture</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">3</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">13</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<div class="we"><div id="IMSLP219374" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/219374"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Title Page - Act I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/57/PMLP363117-Catel_-_Semiramis_FS1_IArch.pdf" class="internal" title="PMLP363117-Catel - Semiramis FS1 IArch.pdf">*</a></span><a href="/wiki/File:PMLP363117-Catel_-_Semiramis_FS1_IArch.pdf" title="File:PMLP363117-Catel - Semiramis FS1 IArch.pdf">#219374</a> - 15.20MB, 127 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-219374' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-219374'>
+	<a href='javascript:void(0)' id='219374' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='219374' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='219374' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='219374' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='219374' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-219374'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/219374/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/219374/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 368"><a href="/wiki/Special:GetFCtrStats/@219374" title="Special:GetFCtrStats/@219374">368</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/smiramistragdiel00cate#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2012/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP219375" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/219375"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c7/PMLP363117-Catel_-_Semiramis_FS2_IArch.pdf" class="internal" title="PMLP363117-Catel - Semiramis FS2 IArch.pdf">*</a></span><a href="/wiki/File:PMLP363117-Catel_-_Semiramis_FS2_IArch.pdf" title="File:PMLP363117-Catel - Semiramis FS2 IArch.pdf">#219375</a> - 12.36MB, 104 (#128-231) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-219375' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-219375'>
+	<a href='javascript:void(0)' id='219375' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='219375' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='219375' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='219375' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='219375' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-219375'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/219375/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/219375/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 138"><a href="/wiki/Special:GetFCtrStats/@219375" title="Special:GetFCtrStats/@219375">138</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/smiramistragdiel00cate#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2012/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP219376" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/219376"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Act III</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a7/PMLP363117-Catel_-_Semiramis_FS3_IArch.pdf" class="internal" title="PMLP363117-Catel - Semiramis FS3 IArch.pdf">*</a></span><a href="/wiki/File:PMLP363117-Catel_-_Semiramis_FS3_IArch.pdf" title="File:PMLP363117-Catel - Semiramis FS3 IArch.pdf">#219376</a> - 11.38MB, 95 (#232-326) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-219376' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-219376'>
+	<a href='javascript:void(0)' id='219376' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='219376' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='219376' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='219376' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='219376' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-219376'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/219376/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/219376/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 133"><a href="/wiki/Special:GetFCtrStats/@219376" title="Special:GetFCtrStats/@219376">133</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/smiramistragdiel00cate#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2012/5/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Magasin de Musique, n.d.(ca.1802). Plate 12.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=219374/219375/219376">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=219374/219375/219376">del</a>/<span id="fmrglnk" data-pdfstr="219374//219375//219376/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="219374">Javascript is required for this feature.</div><script>JGINITsearchbars['219374']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=219374|219375|219376&type=Title%20Page%20-%20Act%20I%7CAct%20II%7CAct%20III&pgcount=127|104|95&signature=a0efe6997691377ceb793cab6800cf83b5da2ff0"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<h4> <span class="mw-headline" id="Overture">Overture</span></h4>
+<div class="we"><div id="IMSLP403591" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403591"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cover</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/94/PMLP363117-1100-Catel-Semiramis-00-Cover.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-00-Cover.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-00-Cover.pdf" title="File:PMLP363117-1100-Catel-Semiramis-00-Cover.pdf">#403591</a> - 0.09MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403591' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403591'>
+	<a href='javascript:void(0)' id='403591' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403591' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403591' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403591' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403591' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403591'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403591/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403591/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 11"><a href="/wiki/Special:GetFCtrStats/@403591" title="Special:GetFCtrStats/@403591">11</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>12 more</u>:</b> Flute • Oboes 1, 2 • Clarinets 1, 2 (in C) • Bassoons 1, 2 • Horns 1, 2 (in F) • Trumpets 1, 2 (in F) • Trombones 1, 2, 3 • Timpani • Violins I • Violins II • Violas • Cellos, Basses
+</p>
+</div><div id="IMSLP403592" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403592"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2b/PMLP363117-1100-Catel-Semiramis-01-Flute.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-01-Flute.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-01-Flute.pdf" title="File:PMLP363117-1100-Catel-Semiramis-01-Flute.pdf">#403592</a> - 0.16MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403592' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403592'>
+	<a href='javascript:void(0)' id='403592' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403592' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403592' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403592' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403592' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403592'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403592/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403592/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 14"><a href="/wiki/Special:GetFCtrStats/@403592" title="Special:GetFCtrStats/@403592">14</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403593" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403593"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboes 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/20/PMLP363117-1100-Catel-Semiramis-02-Hautbois1%262.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-02-Hautbois1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-02-Hautbois1%262.pdf" title="File:PMLP363117-1100-Catel-Semiramis-02-Hautbois1&amp;2.pdf">#403593</a> - 0.27MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403593' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403593'>
+	<a href='javascript:void(0)' id='403593' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403593' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403593' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403593' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403593' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403593'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403593/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403593/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 15"><a href="/wiki/Special:GetFCtrStats/@403593" title="Special:GetFCtrStats/@403593">15</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403594" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403594"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinets 1, 2 (in C)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/52/PMLP363117-1100-Catel-Semiramis-04-Clarinette1%262.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-04-Clarinette1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-04-Clarinette1%262.pdf" title="File:PMLP363117-1100-Catel-Semiramis-04-Clarinette1&amp;2.pdf">#403594</a> - 0.28MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403594' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403594'>
+	<a href='javascript:void(0)' id='403594' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403594' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403594' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403594' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403594' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403594'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403594/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403594/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 13"><a href="/wiki/Special:GetFCtrStats/@403594" title="Special:GetFCtrStats/@403594">13</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403595" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403595"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoons 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c0/PMLP363117-1100-Catel-Semiramis-06-Basson1%262.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-06-Basson1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-06-Basson1%262.pdf" title="File:PMLP363117-1100-Catel-Semiramis-06-Basson1&amp;2.pdf">#403595</a> - 0.26MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403595' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403595'>
+	<a href='javascript:void(0)' id='403595' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403595' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403595' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403595' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403595' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403595'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403595/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403595/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 14"><a href="/wiki/Special:GetFCtrStats/@403595" title="Special:GetFCtrStats/@403595">14</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403596" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403596"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horns 1, 2 (in F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/57/PMLP363117-1100-Catel-Semiramis-07-Cor1%262.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-07-Cor1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-07-Cor1%262.pdf" title="File:PMLP363117-1100-Catel-Semiramis-07-Cor1&amp;2.pdf">#403596</a> - 0.27MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403596' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403596'>
+	<a href='javascript:void(0)' id='403596' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403596' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403596' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403596' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403596' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403596'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403596/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403596/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 10"><a href="/wiki/Special:GetFCtrStats/@403596" title="Special:GetFCtrStats/@403596">10</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403597" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403597"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpets 1, 2 (in F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d0/PMLP363117-1100-Catel-Semiramis-09-Trompette1%262.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-09-Trompette1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-09-Trompette1%262.pdf" title="File:PMLP363117-1100-Catel-Semiramis-09-Trompette1&amp;2.pdf">#403597</a> - 0.24MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403597' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403597'>
+	<a href='javascript:void(0)' id='403597' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403597' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403597' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403597' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403597' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403597'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403597/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403597/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 12"><a href="/wiki/Special:GetFCtrStats/@403597" title="Special:GetFCtrStats/@403597">12</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403598" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403598"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombones 1, 2, 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/08/PMLP363117-1100-Catel-Semiramis-11-Trombone1-2-3.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-11-Trombone1-2-3.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-11-Trombone1-2-3.pdf" title="File:PMLP363117-1100-Catel-Semiramis-11-Trombone1-2-3.pdf">#403598</a> - 0.35MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403598' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403598'>
+	<a href='javascript:void(0)' id='403598' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403598' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403598' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403598' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403598' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403598'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403598/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403598/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 12"><a href="/wiki/Special:GetFCtrStats/@403598" title="Special:GetFCtrStats/@403598">12</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403599" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403599"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/PMLP363117-1100-Catel-Semiramis-14-Timbales.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-14-Timbales.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-14-Timbales.pdf" title="File:PMLP363117-1100-Catel-Semiramis-14-Timbales.pdf">#403599</a> - 0.13MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403599' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403599'>
+	<a href='javascript:void(0)' id='403599' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403599' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403599' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403599' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403599' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403599'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403599/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403599/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 10"><a href="/wiki/Special:GetFCtrStats/@403599" title="Special:GetFCtrStats/@403599">10</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403600" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403600"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/09/PMLP363117-1100-Catel-Semiramis-15-Violon1.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-15-Violon1.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-15-Violon1.pdf" title="File:PMLP363117-1100-Catel-Semiramis-15-Violon1.pdf">#403600</a> - 0.31MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403600' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403600'>
+	<a href='javascript:void(0)' id='403600' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403600' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403600' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403600' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403600' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403600'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403600/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403600/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 11"><a href="/wiki/Special:GetFCtrStats/@403600" title="Special:GetFCtrStats/@403600">11</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403601" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403601"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/af/PMLP363117-1100-Catel-Semiramis-16-Violon2.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-16-Violon2.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-16-Violon2.pdf" title="File:PMLP363117-1100-Catel-Semiramis-16-Violon2.pdf">#403601</a> - 0.30MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403601' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403601'>
+	<a href='javascript:void(0)' id='403601' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403601' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403601' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403601' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403601' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403601'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403601/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403601/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 14"><a href="/wiki/Special:GetFCtrStats/@403601" title="Special:GetFCtrStats/@403601">14</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403602" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403602"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP363117-1100-Catel-Semiramis-17-Alto.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-17-Alto.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-17-Alto.pdf" title="File:PMLP363117-1100-Catel-Semiramis-17-Alto.pdf">#403602</a> - 0.26MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403602' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403602'>
+	<a href='javascript:void(0)' id='403602' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403602' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403602' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403602' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403602' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403602'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403602/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403602/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 14"><a href="/wiki/Special:GetFCtrStats/@403602" title="Special:GetFCtrStats/@403602">14</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP403603" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/403603"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos, Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4b/PMLP363117-1100-Catel-Semiramis-18-Basses.pdf" class="internal" title="PMLP363117-1100-Catel-Semiramis-18-Basses.pdf">*</a></span><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-18-Basses.pdf" title="File:PMLP363117-1100-Catel-Semiramis-18-Basses.pdf">#403603</a> - 0.26MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-403603' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-403603'>
+	<a href='javascript:void(0)' id='403603' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='403603' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='403603' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='403603' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='403603' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-403603'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/403603/S%C3%A9miramis_(Catel,_Charles-Simon)" title="Special:IMSLPEditCTag/403603/Sémiramis (Catel, Charles-Simon)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 10"><a href="/wiki/Special:GetFCtrStats/@403603" title="Special:GetFCtrStats/@403603">10</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2015/12/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Magasin de Musique, n.d.(ca.1802). Plate 14
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=403591/403592/403593/403594/403595/403596/403597/403598/403599/403600/403601/403602/403603">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=403591/403592/403593/403594/403595/403596/403597/403598/403599/403600/403601/403602/403603">del</a>/<span id="fmrglnk" data-pdfstr="403591//403592//403593//403594//403595//403596//403597//403598//403599//403600//403601//403602//403603/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="403591">Javascript is required for this feature.</div><script>JGINITsearchbars['403591']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=403591|403592|403593|403594|403595|403596|403597|403598|403599|403600|403601|403602|403603&type=Cover%7CFlute%7COboes%201%2C%202%7CClarinets%201%2C%202%20%28in%20C%29%7CBassoons%201%2C%202%7CHorns%201%2C%202%20%28in%20F%29%7CTrumpets%201%2C%202%20%28in%20F%29%7CTrombones%201%2C%202%2C%203%7CTimpani%7CViolins%20I%7CViolins%20II%7CViolas%7CCellos%2C%20Basses&pgcount=1|1|2|2|2|2|2|3|1|2|2|2|2&signature=f2b4fb895bb92565b560cbe591afd636daf37378"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP363117-1100-Catel-Semiramis-00-Cover.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/94/bee81cc8fac35fc21297e5c44b71cbb143cf9562.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Sémiramis
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Tragédie lyrique en trois actes
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Catel,_Charles-Simon" title="Category:Catel, Charles-Simon">Catel, Charles-Simon</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ICC 3
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 Acts
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1802-05-04
+<dl><dd>Paris: Opéra
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1802
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/index.php?title=Category:Desriaux,_Philippe&amp;action=edit&amp;redlink=1" class="new" title="Category:Desriaux, Philippe (page does not exist)">Philippe Desriaux</a> (1758-1805), after Voltaire
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>à M. Gossec
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>vocal soloists, mixed chorus, orchestra
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 530/1000000
+Post-expand include size: 52750/2097152 bytes
+Template argument size: 116/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:363117-0!*!0!!en!2!* and timestamp 20180414175109 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=S%C3%A9miramis_(Catel,_Charles-Simon)&amp;oldid=1977051">http://imslp.org/index.php?title=S%C3%A9miramis_(Catel,_Charles-Simon)&amp;oldid=1977051</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Catel,_Charles-Simon" title="Category:Catel, Charles-Simon">Catel, Charles-Simon</a></li><li><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical style</a></li><li><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a></li><li><a href="/wiki/Category:Lyric_tragedies" title="Category:Lyric tragedies">Lyric tragedies</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:Operas" title="Category:Operas">Operas</a></li><li><a href="/wiki/Category:Lyric_operas" title="Category:Lyric operas">Lyric operas</a></li><li><a href="/wiki/Category:For_voices,_mixed_chorus,_orchestra" title="Category:For voices, mixed chorus, orchestra">For voices, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:French_language" title="Category:French language">French language</a></li><li><a href="/wiki/Category:Works_first_published_in_1802" title="Category:Works first published in 1802">Works first published in 1802</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Desriaux,_Philippe/Librettist" title="Category:Desriaux, Philippe/Librettist">Desriaux, Philippe/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=S%C3%A9miramis_%28Catel%2C_Charles-Simon%29">988 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/S%C3%A9miramis%20%28Catel%2C%20Charles-Simon%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.469 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414175109 -->
+</html>
+		

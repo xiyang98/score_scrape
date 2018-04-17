@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Rédemption (Franck, César) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Rédemption_(Franck,_César)", "wgTitle": "Rédemption (Franck, César)", "wgCurRevisionId": 2107799, "wgArticleId": 66907, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores published by Heugel", "Sibley Mirroring Project", "Scores", "Franck, César", "Romantic style", "Romantic", "Symphonic poems", "For narrator, mixed chorus, orchestra", "Scores featuring the voice", "Scores featuring a narrator", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For voices and chorus with orchestra", "French language", "Works first published in 1873", "Works first published in the 19th century", "Pages with parts for purchase", "Blau, Édouard/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Rédemption_Franck_César action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/R%C3%A9demption_(Franck,_C%C3%A9sar)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=R%C3%A9demption_(Franck,_C%C3%A9sar)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=R%C3%A9demption_(Franck,_C%C3%A9sar)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/R%C3%A9demption_(Franck,_C%C3%A9sar)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/R%C3%A9demption_(Franck,_C%C3%A9sar)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=R%C3%A9demption_(Franck,_C%C3%A9sar)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=R%C3%A9demption_(Franck,_C%C3%A9sar)&amp;oldid=2107799" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=R%C3%A9demption%20%28Franck%2C%20C%C3%A9sar%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Rédemption (Franck, César)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1871, rev.1873
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Symphonic_poems&amp;transclude=Template:Catintro">Symphonic poems</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_narrator%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For narrator, mixed chorus, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="expandline" title="5 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_a_narrator&amp;transclude=Template:Catintro">Scores featuring a narrator</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:French_language&amp;transclude=Template:Catintro">French language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"R\u00e9demption","composer":"Franck, C\u00e9sar","comphref":"\/wiki\/Category:Franck,_C%C3%A9sar"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"redemption","itunes":"redemption","composer":"franck","scorekeywords":"redemption","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=26;JGBSAccompnum=0;JGNaxosSearch={"numres":10,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0094639133154.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0094639133154.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0094639133154","desc":"FRANCK, C.: Symphony in D Minor \/ Redemption \/ Symphonic Variations (Litton)","label":"Erato - Parlophone","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"Bournemouth Symphony Orchestra -- Litton, Andrew","country":"France","catid":"0094639133154","cdinfo":[[["Franck, C&#233;sar",[["Symphony in D Minor, M. 48","mediaplayer\/player.asp?br=128&tl=1146717|1146718|1146719",["I. Lento - Allegro non troppo","II. Allegretto - Poco pi&#249; lento - Tempo I","III. Allegro non troppo"]],["Redemption, M. 52","mediaplayer\/player.asp?br=128&tl=1146720",[]],["Symphonic Variations, M. 46","mediaplayer\/player.asp?br=128&tl=1146721",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CD-0274.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CD-0274.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCD-0274","desc":"FRANCK, C.: Orchestral Music (Arturo Toscanini Conducts Franck) (NBC Symphony, Toscanini) (1938-1952)","label":"Music and Arts Programs of America","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"NBC Symphony Orchestra","country":"France","catid":"CD-0274","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SU4122-2.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SU4122-2.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSU4122-2","desc":"Orchestral Music - FRANCK, C. \/ FALLA, M. de \/ DEBUSSY, C. (Jean Fournet in Prague) (Czech Philharmonic, Prague Symphony, Fournet)","label":"Supraphon","category":"Orchestral - Classical Music","composer":"Falla, Manuel de -- Debussy, Claude -- Franck, C\u00e9sar","artist":"Czech Philharmonic Orchestra -- Prague Symphony Orchestra -- Fournet, Jean -- Maxian, Frantisek","country":"France Spain","catid":"SU4122-2","cdinfo":[[["Franck, C&#233;sar",[["Redemption, M. 52","mediaplayer\/player.asp?br=128&tl=3019724",[]],["Les Eolides, M. 43","mediaplayer\/player.asp?br=128&tl=3019725",[]],["Le chasseur maudit (The Accursed Hunter), M. 44","mediaplayer\/player.asp?br=128&tl=3019726",[]],["Les Djinns, M. 45","mediaplayer\/player.asp?br=128&tl=3019727",[]]]]],[["Franck, C&#233;sar",[["Psyche, M. 47","mediaplayer\/player.asp?br=128&tl=3019728|3019729|3019730|3019731|3019732",["I. Le Sommeil de Psyche","II. Psyche enlevee par les Zephirs","III. Les jardins d'Eros","IV. Psyche et Eros","V. Le chatiment"]]]],["Debussy, Claude",[["Nocturnes","mediaplayer\/player.asp?br=128&tl=3019733|3019734|3019735",["No. 1. Nuages","No. 2. Fetes","No. 3. Sirenes"]]]]],[["Falla, Manuel de",[["El sombrero de tres picos (The Three-Cornered Hat), Part II: Danza de los vecinos (Seguidillas) (The Neighbours' Dance)","mediaplayer\/player.asp?br=128&tl=3019736",[]],["El sombrero de tres picos (The Three-Cornered Hat), Part II: Danza del molinero","mediaplayer\/player.asp?br=128&tl=3019737",[]],["El sombrero de tres picos (The Three-Cornered Hat), Part II: Final Dance","mediaplayer\/player.asp?br=128&tl=3019738",[]]]],["Debussy, Claude",[["Images (excerpts)","mediaplayer\/player.asp?br=128&tl=3019739|3019740|3019741|3019742",["No. 2. Iberia: a. Par les rues et par les chemins -","No. 2. Iberia: b. Les parfums de la nuit -","No. 2. Iberia: c. Le matin d'un jour de fete","No. 3. Rondes de printemps"]],["La mer","mediaplayer\/player.asp?br=128&tl=3019743|3019744|3019745",["No. 1. De l'aube a midi sur la mer","No. 2. Jeux de vagues","No. 3. Dialogue du vent et de la mer"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SK3931.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SK3931.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSK3931","desc":"FRANCK, C.: Symphony in D Minor \/ R\u00e9demption (Orchestre Symphonique du Mans, Gendille)","label":"Skarbo","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"Orchestre Symphonique du Mans -- Gendille, Jose-Andre","country":"France","catid":"SK3931","cdinfo":[[["Franck, C&#233;sar",[["Symphony in D Minor, M. 48","mediaplayer\/player.asp?br=128&tl=1802841|1802842|1802843",["I. Lento - Allegro non troppo","II. Allegretto","III. Allegro non troppo"]],["Redemption, M. 52","mediaplayer\/player.asp?br=128&tl=1802844",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=4D4217.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=4D4217.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D4D4217","desc":"FRANCK, C.: Piano, Chamber, Orchestral, Vocal and Organ Works (Historical Recordings, 1923-1942)","label":"Timpani","category":"Chamber Music - Classical Music","composer":"Franck, C\u00e9sar","artist":"Cortot, Alfred -- Thibaud, Jacques -- Thill, Georges -- Endreze, Arthur -- Selva, Blanche -- Wolff, Albert -- Coppola, Piero -- Colonne Concerts Orchestra -- Paris Conservatoire Orchestra -- Lamoureux Concerts Orchestra -- Studio orchestra -- Pro Arte Quartet -- Panzera, Charles -- Poulet, Gaston -- Martinelli, Germaine -- Faure, Maurice -- Nat, Yves -- D'Arkor, Andre -- Orchestre des Concerts Pierne -- Capet Quartet -- Ciampi, Marcel -- Orchestre Delfosse","country":"France Italy","catid":"4D4217","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CD-0898.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CD-0898.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCD-0898","desc":"Orchestral Music  - BERLIOZ, H. \/ BIZET, G. \/ DEBUSSY, C. \/ RAVEL, M. \/ FRANCK, C. (Toscanini Conducts the Music of France) (1936-1952)","label":"Music and Arts Programs of America","category":"Choral - Secular - Classical Music","composer":"Ravel, Maurice -- Massenet, Jules -- Meyerbeer, Giacomo -- Berlioz, Hector -- Bizet, Georges -- Roger-Ducasse, Jean -- Debussy, Claude -- Franck, C\u00e9sar","artist":"Novotna, Jarmila -- Studio soprano -- New York Philharmonic Orchestra -- NBC Symphony Orchestra","country":"France Germany United Kingdom","catid":"CD-0898","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947869283.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947869283.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947869283","desc":"Orchestral Music - CHARPENTIER, G. \/ MASSENET, J. \/ FRANCK, C. \/ LALO, E. (F\u00eate \u00e0 la Fran\u00e7aise) (Paris Conservatoire Orchestra, A. Wolf)","label":"Decca","category":"Orchestral - Classical Music","composer":"Lalo, \u00c9douard -- Massenet, Jules -- Charpentier, Gustave -- Franck, C\u00e9sar","artist":"Wolff, Albert -- Paris Conservatoire Orchestra -- Paris Opera-Comique Orchestra -- Boutard, Andre -- Cordier, Robert -- Balout, Jacques","country":"France","catid":"00028947869283","cdinfo":[[["Charpentier, Gustave",[["Impressions d'Italie","mediaplayer\/player.asp?br=128&tl=2872012|2872013|2872014|2872015|2872016",["I. Serenade","II. A la Fontaine","III. A mules","IV. Sur les cimes","V. Napoli (Naples)"]]]],["Massenet, Jules",[["Scenes pittoresques, \"Suite No. 4\"","mediaplayer\/player.asp?br=128&tl=2872017|2872018|2872019|2872020",["I. Marche","II. Air de ballet","III. Angelus","IV. Fete boh&#232;me"]],["Scenes alsaciennes, \"Suite No. 7\"","mediaplayer\/player.asp?br=128&tl=2872021|2872022|2872023|2872024",["I. Dimanche matin","II. Au cabaret","III. Sous les tilleuls","IV. Dimanche soir"]]]],["Franck, C&#233;sar",[["Le chasseur maudit (The Accursed Hunter), M. 44","mediaplayer\/player.asp?br=128&tl=2872025",[]],["Redemption, M. 52","mediaplayer\/player.asp?br=128&tl=2872036",[]]]],["Lalo, &#201;douard",[["Rapsodie norvegienne","mediaplayer\/player.asp?br=128&tl=2872037|2872038",["I. &#8212;","II. &#8212;"]],["Scherzo in D Minor","mediaplayer\/player.asp?br=128&tl=2872039",[]],["Le roi d'Ys, Act I: Overture","mediaplayer\/player.asp?br=128&tl=2872040",["Le roi d'Ys: Overture"]]]],["Massenet, Jules",[["Phedre: Ouverture","mediaplayer\/player.asp?br=128&tl=2872041",[]],["Werther, Act IV: Prelude and La nuit de Noel","mediaplayer\/player.asp?br=128&tl=2872042",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099960264657.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099960264657.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099960264657","desc":"Sacred Treasures","label":"Erato - Parlophone","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Allegri, Gregorio -- Bach, Johann Sebastian -- Poulenc, Francis -- Rachmaninov, Sergey -- Verdi, Giuseppe -- Schubert, Franz -- Penderecki, Krzysztof -- Pergolesi, Giovanni Battista -- P\u00e4rt, Arvo -- Ligeti, Gy\u00f6rgy -- Vivaldi, Antonio -- Cherubini, Luigi -- Szymanowski, Karol -- Tallis, Thomas -- Handel, George Frideric -- Mendelssohn, Felix -- Monteverdi, Claudio -- Charpentier, Marc-Antoine -- Barber, Samuel -- Beethoven, Ludwig van -- Durufl\u00e9, Maurice -- Faur\u00e9, Gabriel -- Gorecki, Henryk Mikolaj -- Gounod, Charles-Francois -- Stravinsky, Igor -- Rossini, Gioachino -- Brahms, Johannes -- Britten, Benjamin -- Franck, C\u00e9sar -- Gabrieli, Giovanni","artist":"Crook, Howard -- Vaness, Carol -- Baltsa, Agnes -- Argenta, Nancy -- Gambill, Robert -- Schlick, Barbara -- Chance, Michael -- Keenlyside, Simon -- Palmer, Felicity -- Hill, David -- Szmytka, Elzbieta -- Blochwitz, Hans Peter -- Bowers-Broadbent, Christopher -- Howell, Gwynne -- Meier, Waltraud -- Gens, V\u00e9ronique -- Ernman, Malena -- Scandiuzzi, Roberto -- Bickley, Susan -- Kirkby, Emma -- Murray, Ann -- Miles, Alastair -- Ainsley, John Mark -- Bar, Olaf -- Lafont, Jean-Philippe -- Farr, Stephen -- Quivar, Florence -- Robbin, Catherine -- Kooy, Peter -- Thomas, David -- Covey-Crump, Rogers -- Hogman, Nils -- Evera, Emily Van -- Edwards, Terry -- Baker, Janet -- Dawson, Lynne -- Nicholson, Paul -- Tschammer, Hans -- Christie, William -- Christophers, Harry -- Sawallisch, Wolfgang -- Pretre, Georges -- Hickox, Richard -- Studt, Richard -- Plasson, Michel -- Tate, Jeffrey -- Kaljuste, T\u00f5nu -- Norrington, Roger -- Rattle, Simon -- Muti, Riccardo -- City of Birmingham Symphony Orchestra -- Arts Florissants, Les -- Bournemouth Sinfonietta -- Connell, John -- Parrott, Andrew -- Taverner Players -- Toulouse Capitol Orchestra -- City of London Sinfonia -- English Chamber Orchestra -- Bavarian Radio Symphony Orchestra -- Fiorentino Maggio Musicale Orchestra -- Philharmonia Orchestra -- Jones, Gordon -- Malfitano, Catherine -- Ledger, Philip -- Hendricks, Barbara -- Herreweghe, Philippe -- V\u00e1rady, J\u00falia -- McCreesh, Paul -- Lesne, Gerard -- Collegium Vocale Gent Orchestra -- Seminario Musicale, Il -- Place, Alison -- Radio France New Philharmonic Orchestra -- Dale, Laurence -- Stewart, Malcolm -- Groupe Vocal de France -- Gabrieli Consort and Players -- London Classical Players -- Olsen, Keith -- Cable, Margaret -- Taverner Consort -- Bjorsund, Per -- Florida Players -- Barley, Peter -- Owens, Bud -- Coppola e il Suo Sestetto","country":"Austria Estonia France Germany Italy Poland Russia United Kingdom United States","catid":"5099960264657","cdinfo":[[["Charpentier, Marc-Antoine",[["Te Deum, H. 146 (excerpts)","mediaplayer\/player.asp?br=128&tl=1520162|1520163",["Prelude","Te Deum laudamus"]]]],["Vivaldi, Antonio",[["Gloria in D Major, RV 589: Gloria in excelsis Deo","mediaplayer\/player.asp?br=128&tl=1520164",[]]]],["Allegri, Gregorio",[["Il salmo Miserere mei Deus: Miserere","mediaplayer\/player.asp?br=128&tl=1520165",[]]]],["Monteverdi, Claudio",[["Selva morale e spirituale: Beatus vir I","mediaplayer\/player.asp?br=128&tl=1520166",[]]]],["Handel, George Frideric",[["Zadok the Priest, HWV 258","mediaplayer\/player.asp?br=128&tl=1520167",[]]]],["Tallis, Thomas",[["Spem in alium","mediaplayer\/player.asp?br=128&tl=1520168",[]]]],["Handel, George Frideric",[["Messiah, HWV 56, Part II: Hallelujah","mediaplayer\/player.asp?br=128&tl=1520169",[]]]],["Bach, Johann Sebastian",[["Herz und Mund und Tat und Leben, BWV 147: Chorale: Jesus bleibet meine Freude","mediaplayer\/player.asp?br=128&tl=1520170",[]]]],["Bach, Johann Sebastian",[["Christmas Oratorio, BWV 248, Part I: Jauchzet, frohlocket, auf, preiset die Tage &#8230;","mediaplayer\/player.asp?br=128&tl=1520171",[]]]],["Gabrieli, Giovanni",[["Sacrae symphoniae: Canzon noni toni","mediaplayer\/player.asp?br=128&tl=1520172",[]]]],["Pergolesi, Giovanni Battista",[["Stabat Mater: Stabat mater dolorosa","mediaplayer\/player.asp?br=128&tl=1520173",[]]]],["Bach, Johann Sebastian",[["St. John Passion, BWV 245, Part II: Chorale: Ruht wohl, ihr heiligen Gebeine","mediaplayer\/player.asp?br=128&tl=1520174",[]]]]],[["Mozart, Wolfgang Amadeus",[["Requiem in D Minor, K. 626 (excerpts) (completed by D. Druce)","mediaplayer\/player.asp?br=128&tl=1520175|1520176|1520177",["Introit: Requiem aeternam","Kyrie eleison","Sequence No. 6: Lacrimosa dies illa"]]]],["Mozart, Wolfgang Amadeus",[["Ave verum corpus, K. 618","mediaplayer\/player.asp?br=128&tl=1520178",[]]]],["Schubert, Franz",[["Hymnus an den Heiligen Geist, D. 964","mediaplayer\/player.asp?br=128&tl=1520179",[]]]],["Beethoven, Ludwig van",[["Mass in D Major, Op. 123, \"Missa Solemnis\": Agnus Dei: Agnus Dei","mediaplayer\/player.asp?br=128&tl=1520224",[]]]],["Cherubini, Luigi",[["Requiem No. 1 in C Minor: Introitus et Kyrie","mediaplayer\/player.asp?br=128&tl=1520225",[]]]],["Rossini, Gioachino",[["Stabat mater: Inflammatus et accensus","mediaplayer\/player.asp?br=128&tl=1520226",[]]]],["Mendelssohn, Felix",[["Psalm 42, Op. 42: Wie der Hirsch schreit","mediaplayer\/player.asp?br=128&tl=1520227",[]]]],["Gounod, Charles-Fran&#231;ois",[["Messe solennelle de Sainte Cecile: Domine salvum","mediaplayer\/player.asp?br=128&tl=1520228",[]]]],["Brahms, Johannes",[["Ein deutsches Requiem (A German Requiem), Op. 45: V. Ihr habt nun Traurigkeit","mediaplayer\/player.asp?br=128&tl=1520229",[]]]],["Verdi, Giuseppe",[["Messa da Requiem (excerpts)","mediaplayer\/player.asp?br=128&tl=1520230|1520231",["Dies irae: Dies irae, dies illa","Lux aeterna"]]]],["Franck, C&#233;sar",[["Redemption, M. 52 (final version): IV. Devant la loi nouvelle","mediaplayer\/player.asp?br=128&tl=1520232",[]]]],["Faur&#233;, Gabriel",[["Requiem, Op. 48 (excerpts)","mediaplayer\/player.asp?br=128&tl=1520233|1520234|1520235",["Pie Jesu","Libera me","In paradisum"]]]]],[["Barber, Samuel",[["Agnus Dei, Op. 11","mediaplayer\/player.asp?br=128&tl=1520236",[]]]],["Rachmaninov, Sergey",[["All-night Vigil, Op. 37, \"Vespers\": Hail, O Virgin Mother (Ave Maria)","mediaplayer\/player.asp?br=128&tl=1520237",[]]]],["Poulenc, Francis",[["4 Motets pour le temps de Noel, FP 152","mediaplayer\/player.asp?br=128&tl=1520238|1520239|1520240|1520241",["No. 1. O magnum mysterium","No. 2. Quem vidistis pastores dicite","No. 3. Videntes stellam","No. 4. Hodie Christus natus est"]]]],["Durufl&#233;, Maurice",[["Requiem, Op. 9 (excerpts)","mediaplayer\/player.asp?br=128&tl=1520242|1520243|1520244|1520245",["Kyrie","Pie Jesu","Libera me","In paradisum"]]]],["Ligeti, Gy&#246;rgy",[["Lux aeterna","mediaplayer\/player.asp?br=128&tl=1520246",[]]]],["Britten, Benjamin",[["A Shepherd's Carol","mediaplayer\/player.asp?br=128&tl=1520247",[]]]],["Stravinsky, Igor",[["Credo","mediaplayer\/player.asp?br=128&tl=1520248",[]]]],["Penderecki, Krzysztof",[["Agnus Dei","mediaplayer\/player.asp?br=128&tl=1520249",[]]]],["Gorecki, Henryk Mikolaj",[["Totus Tuus, Op. 60","mediaplayer\/player.asp?br=128&tl=1520250",[]]]],["P&#228;rt, Arvo",[["De profundis","mediaplayer\/player.asp?br=128&tl=1520251",[]]]],["Szymanowski, Karol",[["Stabat Mater, Op. 53: Christe, cum sit hinc exire (Chrystus niech mi bedzie grodem)","mediaplayer\/player.asp?br=128&tl=1520252",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CD-1192.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CD-1192.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCD-1192","desc":"SUNDAY EVENINGS WITH PIERRE MONTEUX (1941-1952)","label":"Music and Arts Programs of America","category":"Ballet - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Nicolai, Otto -- Thomas, Ambroise -- Chadwick, George Whitefield -- Rachmaninov, Sergey -- Respighi, Ottorino -- Gr\u00e9try, Andr\u00e9-Ernest-Modeste -- Wagner, Richard -- Walton, William -- Weber, Carl Maria von -- Liszt, Franz -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Massenet, Jules -- Mendelssohn, Felix -- Messiaen, Olivier -- Schumann, Robert -- Sibelius, Jean -- Sousa, John Philip -- Beethoven, Ludwig van -- Berlioz, Hector -- Dukas, Paul -- Falla, Manuel de -- Glazunov, Alexander Konstantinovich -- Gluck, Christoph Willibald -- Alfano, Franco -- Strauss, Richard -- Rimsky-Korsakov, Nikolay Andreyevich -- Rossini, Gioachino -- Borodin, Alexander Porfir'yevich -- Brahms, Johannes -- Franck, C\u00e9sar","artist":"Kapell, William -- Solomon -- Cherkassky, Shura -- Kraus, Lili -- Monteux, Pierre -- Blinder, Boris -- Standard Symphony Orchestra -- Warenskjold, Dorothy -- Blinder, Naoum","country":"Austria Belgium Finland France Germany Hungary Italy Russia Spain United Kingdom United States","catid":"CD-1192","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099946491657.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099946491657.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099946491657","desc":"100 x Klassik aus dem Kino","label":"Warner Classics - Parlophone","category":"Ballet - Classical Music","composer":"Barry, John -- Mozart, Wolfgang Amadeus -- Allegri, Gregorio -- Bach, Johann Sebastian -- Giazotto, Remo -- Morricone, Ennio -- Puccini, Giacomo -- Rachmaninov, Sergey -- Verdi, Giuseppe -- Satie, Erik -- Schubert, Franz -- Pergolesi, Giovanni Battista -- Vivaldi, Antonio -- Wagner, Richard -- Mahler, Gustav -- Myers, Stanley -- T\u00e1rrega, Francisco -- Tchaikovsky, Pyotr Il'yich -- Williams, John -- Handel, George Frideric -- Holst, Gustav -- Mascagni, Pietro -- Shostakovich, Dmitry -- Nyman, Michael -- Offenbach, Jacques -- Pachelbel, Johann -- Horner, James -- Catalani, Alfredo -- Chopin, Fryderyk -- Barber, Samuel -- Beethoven, Ludwig van -- Bellini, Vincenzo -- Bizet, Georges -- Dukas, Paul -- Dvo\u0159\u00e1k, Anton\u00edn -- Elgar, Edward -- Giordano, Umberto -- Strauss, Richard -- Debussy, Claude -- Shore, Howard -- Zimmer, Hans -- Newman, Thomas","artist":"Menuhin, Yehudi -- Freni, Mirella -- Dimitrova, Ghena -- Norman, Jessye -- Carreras, Jos\u00e9 -- Baltsa, Agnes -- Aler, John -- Lott, Felicity -- Morris, James -- Constable, John -- Bowman, James -- Gruberova, Edita -- Kenny, Yvonne -- Causse, Gerard -- Garrett, Lesley -- Gheorghiu, Angela -- Alagna, Roberto -- Howell, Gwynne -- Callas, Maria -- Gobbi, Tito -- Luxon, Benjamin -- Brendel, Wolfgang -- Gedda, Nicolai -- Desderi, Claudio -- Cohen, Robert -- Blaze, Robin -- Van Dam, Jose -- Murray, Ann -- Argerich, Martha -- Popp, Lucia -- Previn, Andr\u00e9 -- Gavrilov, Andrei -- Hough, Stephen -- Hoffman, Gary -- Evera, Emily Van -- Pappano, Antonio -- Tear, Robert -- Marshall, Wayne -- Stilwell, Richard -- Lupu, Radu -- Zacharias, Christian -- Ercolani, Renato -- Lympany, Moura -- Marshall, Margaret -- Fischer, Annie -- Beckett, Rachel -- Galway, James -- Marriner, Neville -- Barbirolli, John -- Jansons, Mariss -- Karajan, Herbert von -- Cambreling, Sylvain -- Soltesz, Stefan -- Rudel, Julius -- Gardelli, Lamberto -- Dutoit, Charles -- Vonk, Hans -- Tennstedt, Klaus -- Boult, Adrian -- Davis, Andrew -- Pretre, Georges -- Hickox, Richard -- Zinman, David -- Daniel, Paul -- Maksymiuk, Jerzy -- Ormandy, Eugene -- Serafin, Tullio -- Lombard, Alain -- Giulini, Carlo Maria -- Thomson, Bryden -- Rattle, Simon -- Muti, Riccardo -- Koopman, Ton -- Haitink, Bernard -- Levine, James -- Davis, Colin -- Dervaux, Pierre -- Paris National Opera Orchestra -- Vienna Philharmonic Orchestra -- Montreal Symphony Orchestra -- Oslo Philharmonic Orchestra -- Berlin Philharmonic Orchestra -- Philadelphia Orchestra -- City of Birmingham Symphony Orchestra -- Royal Opera House Orchestra, Covent Garden -- Polish Chamber Orchestra -- Munich Radio Orchestra -- Paris Conservatoire Orchestra -- London Symphony Orchestra -- Northern Sinfonia -- Davies, Arthur -- Tuckwell, Barry -- Dumay, Augustin -- Gutierrez, Horacio -- Kraus, Alfredo -- Bergonzi, Carlo -- Hodgson, Alfreda -- Little, Tasmin -- Dawson, Anne -- Parrott, Andrew -- Taverner Players -- Bath Festival Orchestra -- Del Mar, Norman -- London Philharmonic Orchestra -- New Philharmonia Orchestra -- Bavarian Radio Symphony Orchestra -- Philharmonia Orchestra -- Royal Philharmonic Orchestra -- Academy of St. Martin in the Fields Orchestra -- Toulouse National Chamber Orchestra -- Milan La Scala Orchestra -- Strasbourg Philharmonic Orchestra -- Dresden Staatskapelle -- Halle Orchestra -- Paris Opera-Comique Orchestra -- Varga, Laszlo -- Tipo, Maria -- Trama, Ugo -- Barrueco, Manuel -- Monreale, Leonardo -- Sciutti, Graziella -- Herbert, Sally -- Abel, David -- Finley, Gerald -- Price, Leontyne -- W\u00e4chter, Eberhard -- Hungarian Quartet -- Queffelec, Anne -- Ousset, Cecile -- Lindner, Brigitte -- Meyer, Sabine -- Geoff Love Orchestra -- Savall, Jordi -- Lysy, Alberto -- National Philharmonic Orchestra -- Bateman, Paul -- Pickett, Philip -- City of Prague Philharmonic Orchestra -- Coliban, Sorin -- Blanc, Ernest -- Cangelosi, David -- Parkening, Christopher -- Alexeev, Dmitri -- Camerata Lysy Gstaad -- Morse, Steve -- Bloch, Nikolaj -- Helmis, Fritz -- Rolandi, Gianna -- Beasley-Murray, Timothy -- London Session Orchestra -- New World Philharmonic Orchestra -- Sutherland, Iain -- Ennio Morricone Orchestra -- Slobodyanik, Alexander -- Cable, Margaret -- Bell, David -- Ferras, Christian -- Munich Radio Symphony Orchestra -- Tadeo, Giorgio -- Sellar, David -- Auriacombe, Louis -- Brussels National Opera Symphony Orchestra -- Saint-Clivier, Andre -- Boita, Peter -- Price, Ronnie -- Czapczynaki, Zbigniew -- Esham, Faith","country":"Austria Canada Czech Republic France Germany Italy Poland Russia Spain United Kingdom United States","catid":"5099946491657","cdinfo":[[["Strauss, Richard",[["Also sprach Zarathustra, Op. 30, TrV 176: Einleitung (2001: A Space Odyssey)","mediaplayer\/player.asp?br=128&tl=1409411",[]]]],["Wagner, Richard",[["Die Walkure, Act III: Ride of the Valkyries (Apocalypse Now)","mediaplayer\/player.asp?br=128&tl=1409412",[]]]],["Mozart, Wolfgang Amadeus",[["Requiem in D Minor, K. 626: Sequence No. 6: Lacrimosa dies illa (Amadeus)","mediaplayer\/player.asp?br=128&tl=1409413",[]]]],["Horner, James",[["Titanic: My Heart Will Go On (arr. for orchestra)","mediaplayer\/player.asp?br=128&tl=1409414",[]]]],["Barry, John",[["You Only Live Twice: Main Theme (James Bond 007)","mediaplayer\/player.asp?br=128&tl=1409415",[]]]],["Williams, John",[["Star Wars: Main Theme","mediaplayer\/player.asp?br=128&tl=1409416",[]]]],["Zimmer, Hans",[["Gladiator: Symphonic Suite","mediaplayer\/player.asp?br=128&tl=1409417",[]]]],["Bizet, Georges",[["Les pecheurs de perles (The Pearl Fishers), Act I: Au fond du temple saint  (Gallipoli)","mediaplayer\/player.asp?br=128&tl=1409418",[]]]],["Mascagni, Pietro",[["Cavalleria rusticana: Intermezzo (The Godfather III)","mediaplayer\/player.asp?br=128&tl=1409419",[]]]],["Shore, Howard",[["Lord of the Rings: The Fellowship of the Ring: Main Theme","mediaplayer\/player.asp?br=128&tl=1409420",[]]]],["Williams, John",[["Harry Potter and the Chamber of Secrets: Fawkes the Phoenix","mediaplayer\/player.asp?br=128&tl=1409421",[]],["Saving Private Ryan: Hymn to the Fallen","mediaplayer\/player.asp?br=128&tl=1409445",[]]]],["Mozart, Wolfgang Amadeus",[["Divertimento in E-Flat Major, K. 563: III. Menuetto: Allegretto (Mission Impossible)","mediaplayer\/player.asp?br=128&tl=1409446",[]]]],["Dukas, Paul",[["L'apprenti sorcier (The Sorcerer's Apprentice) (excerpt) (arr. N. Bates) (Fantasia)","mediaplayer\/player.asp?br=128&tl=1409447",[]]]],["Horner, James",[["Braveheart: End Title","mediaplayer\/player.asp?br=128&tl=1409448",[]]]],["Rachmaninov, Sergey",[["Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto (Somewhere in Time)","mediaplayer\/player.asp?br=128&tl=1409449",[]]]],["Allegri, Gregorio",[["Il salmo Miserere mei Deus (excerpts) (Chariots of Fire)","mediaplayer\/player.asp?br=128&tl=1409450",[]]]],["Myers, Stanley",[["Cavatina (arr. for 2 guitars) (The Deer Hunter)","mediaplayer\/player.asp?br=128&tl=1409451",[]]]],["Barber, Samuel",[["Adagio for Strings, Op. 11 (Platoon)","mediaplayer\/player.asp?br=128&tl=1409452",[]]]],["Mahler, Gustav",[["Symphony No. 5 in C-Sharp Minor: IV. Adagietto (Death in Venice)","mediaplayer\/player.asp?br=128&tl=1409453",[]]]],["Newman, Thomas",[["American Beauty: Any Other Name","mediaplayer\/player.asp?br=128&tl=1409474",[]]]],["Williams, John",[["E. T. (Extra-Terrestrial): Flying Theme","mediaplayer\/player.asp?br=128&tl=1409475",[]],["Schindler's List: Main Theme","mediaplayer\/player.asp?br=128&tl=1409477",[]]]],["Morricone, Ennio",[["The Mission: Gabriel's Oboe","mediaplayer\/player.asp?br=128&tl=1409478",[]]]],["Mozart, Wolfgang Amadeus",[["Symphony No. 25 in G Minor, K. 183: I. Allegro con brio (Romeo and Juliet)","mediaplayer\/player.asp?br=128&tl=1409479",[]]]],["Verdi, Giuseppe",[["La forza del destino: Overture (Jean de Florette)","mediaplayer\/player.asp?br=128&tl=1409480",[]]]],["Mozart, Wolfgang Amadeus",[["Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro (Alien)","mediaplayer\/player.asp?br=128&tl=1409481",[]]]],["Morricone, Ennio",[["Cinema Paradiso: Love Theme","mediaplayer\/player.asp?br=128&tl=1409483",[]]]],["Shostakovich, Dmitry",[["Jazz Suite No. 2: VI. Waltz No. 2 (Eyes Wide Shut)","mediaplayer\/player.asp?br=128&tl=1409482",[]]]],["Beethoven, Ludwig van",[["Symphony No. 9 in D Minor, Op. 125, \"Choral\": IV. Finale: Presto - Allegro assai (A Clockwork Orange)","mediaplayer\/player.asp?br=128&tl=1409484",[]]]],["Mozart, Wolfgang Amadeus",[["Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro (Ace Ventura)","mediaplayer\/player.asp?br=128&tl=1409485",[]],["Clarinet Concerto in A Major, K. 622: II. Adagio (Out of Africa)","mediaplayer\/player.asp?br=128&tl=1409495",[]],["Concerto for 2 Pianos in E-Flat Major, K. 365: III. Rondo: Allegro (Amadeus)","mediaplayer\/player.asp?br=128&tl=1409487",[]]]],["T&#225;rrega, Francisco",[["Recuerdos de la Alhambra (Sideways)","mediaplayer\/player.asp?br=128&tl=1409488",[]]]],["Mozart, Wolfgang Amadeus",[["Concerto for Flute and Harp in C Major, K. 299: II. Andantino (The Joy Luck Club )","mediaplayer\/player.asp?br=128&tl=1409489",[]]]],["Pergolesi, Giovanni Battista",[["Stabat Mater: Stabat mater dolorosa (The Talented Mr. Ripley)","mediaplayer\/player.asp?br=128&tl=1409490",[]]]],["Mozart, Wolfgang Amadeus",[["Ave verum corpus, K. 618 (Lorenzo's Oil)","mediaplayer\/player.asp?br=128&tl=1409491",[]]]],["Mozart, Wolfgang Amadeus",[["Horn Concerto No. 2 in E-Flat Major, K. 417: III. Rondo (JFK)","mediaplayer\/player.asp?br=128&tl=1409492",[]]]],["Schubert, Franz",[["String Quintet in C Major, Op. 163, D. 956: II. Adagio (Carrington)","mediaplayer\/player.asp?br=128&tl=1409493",[]]]],["Mozart, Wolfgang Amadeus",[["Le nozze di Figaro (The Marriage of Figaro), K. 492: Overture (Runaway Bride)","mediaplayer\/player.asp?br=128&tl=1409494",[]]]],["Elgar, Edward",[["Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato (Hilary and Jackie)","mediaplayer\/player.asp?br=128&tl=1409288",["Cello Concerto in E Minor, Op. 85: I. Adagio - Moderat (Hilary and Jackie)"]]]],["Mozart, Wolfgang Amadeus",[["Symphony No. 40 in G Minor, K. 550: I. Molto allegro (arr. N. Bates) (James Bond 007)","mediaplayer\/player.asp?br=128&tl=1409289",[]]]],["Elgar, Edward",[["Variations on an Original Theme, Op. 36, \"Enigma\": Variation 9: Nimrod (A. J. Jaeger) (Elizabeth)","mediaplayer\/player.asp?br=128&tl=1409290",[]]]],["Schubert, Franz",[["Symphony No. 8 in B Minor, D. 759, \"Unfinished\": I. Allegro moderato (Minority Report)","mediaplayer\/player.asp?br=128&tl=1409291",[]]]],["Mozart, Wolfgang Amadeus",[["Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": IV. Rondo: Allegro (There's Something About Mary)","mediaplayer\/player.asp?br=128&tl=1409294",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Swan Lake, Op. 20, Act II By a Lake: No. 10. Scene: Moderato (Billy Elliot)","mediaplayer\/player.asp?br=128&tl=1409295",[]]]],["Holst, Gustav",[["The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity (The Right Stuff)","mediaplayer\/player.asp?br=128&tl=1409296",[]]]],["Nyman, Michael",[["The Piano: The Heart Asks Pleasure First - The Promise","mediaplayer\/player.asp?br=128&tl=1409297",[]]]],["Mozart, Wolfgang Amadeus",[["Piano Concerto No. 21 in C Major, K. 467, \"Elvira Madigan\": II. Andante (cadenza by S. Hough) (Elvira Madigan)","mediaplayer\/player.asp?br=128&tl=1409298",[]]]],["Chopin, Fryderyk",[["Prelude No. 15 in D-Flat Major, Op. 28, No. 15, \"Raindrop (Face Off)","mediaplayer\/player.asp?br=128&tl=1409299",[]]]],["Mozart, Wolfgang Amadeus",[["Piano Concerto No. 20 in D Minor, K. 466: II. Romance (Amadeus)","mediaplayer\/player.asp?br=128&tl=1409300",[]]]],["Chopin, Fryderyk",[["Waltz No. 7 in C-Sharp Minor, Op. 64, No. 2 (Private Benjamin)","mediaplayer\/player.asp?br=128&tl=1409301",[]]]],["Mozart, Wolfgang Amadeus",[["Piano Sonata No. 11 in A Major, K. 331: III. Alla turca: Allegretto (The Truman Show)","mediaplayer\/player.asp?br=128&tl=1409302",[]],["Piano Concerto No. 25 in C Major, K. 503: II. Andante (The Associate)","mediaplayer\/player.asp?br=128&tl=1409303",[]],["Piano Sonata No. 11 in A Major, K. 331: I. Theme and Variations: Andante grazioso (A Beautiful Mind)","mediaplayer\/player.asp?br=128&tl=1409330",[]]]],["Beethoven, Ludwig van",[["Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\": I. Adagio sostenuto","mediaplayer\/player.asp?br=128&tl=1409331",[]]]],["Chopin, Fryderyk",[["Nocturne No. 20 in C-Sharp Minor, Op. posth.","mediaplayer\/player.asp?br=128&tl=1409332",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso","mediaplayer\/player.asp?br=128&tl=1409333",[]]]],["Satie, Erik",[["3 Gymnopedies: No. 1. Lent et douloureux","mediaplayer\/player.asp?br=128&tl=1409334",[]]]],["Chopin, Fryderyk",[["Waltz No. 6 in D-Flat Major, Op. 64, No. 1, \"Minute\"","mediaplayer\/player.asp?br=128&tl=1409335",[]]]],["Beethoven, Ludwig van",[["Bagatelle in A Minor, WoO 59, \"Fur Elise\" (Rosemary's Baby)","mediaplayer\/player.asp?br=128&tl=1409544",[]]]],["Chopin, Fryderyk",[["Piano Concerto No. 1 in E Minor, Op. 11: II. Romanza: Larghetto (The Truman Show)","mediaplayer\/player.asp?br=128&tl=1409545",[]]]],["Debussy, Claude",[["Suite bergamasque: III. Clair de lune (Ocean's Eleven)","mediaplayer\/player.asp?br=128&tl=1409546",[]]]],["Chopin, Fryderyk",[["Polonaise No. 6 in A-Flat Major, Op. 53, \"Heroic\" (Shine)","mediaplayer\/player.asp?br=128&tl=1409547",[]]]],["Bellini, Vincenzo",[["Norma, Act I: Casta diva (The Bridges of Madison County)","mediaplayer\/player.asp?br=128&tl=1409549",[]]]],["Verdi, Giuseppe",[["Rigoletto, Act III: La donna e mobile (Captain Corelli's Mandolin)","mediaplayer\/player.asp?br=128&tl=1409550",[]]]],["Mozart, Wolfgang Amadeus",[["Cosi fan tutte, K. 588, Act I: Terzetto: Soave sia il vento (Closer)","mediaplayer\/player.asp?br=128&tl=1409551",[]]]],["Verdi, Giuseppe",[["Il trovatore, Act IV: D'amor sull'ali rosee vanne (Basquiat)","mediaplayer\/player.asp?br=128&tl=1409552",[]]]],["Mozart, Wolfgang Amadeus",[["Le nozze di Figaro (The Marriage of Figaro), K. 492, Act I: Aria: Non pi&#249; andrai, farfallone amoroso (Trading Places)","mediaplayer\/player.asp?br=128&tl=1409553",[]]]],["Puccini, Giacomo",[["Tosca, Act II: Vissi d'arte (Copycat)","mediaplayer\/player.asp?br=128&tl=1409554",[]]]],["Mozart, Wolfgang Amadeus",[["Cosi fan tutte, K. 588, Act I: Aria: Un'aura amorosa (My Left Foot)","mediaplayer\/player.asp?br=128&tl=1409571",[]]]],["Mozart, Wolfgang Amadeus",[["Die Zauberflote (The Magic Flute), K. 620, Act II: Aria: Der Holle Rache kocht in meinem Herzen (Miss Congeniality)","mediaplayer\/player.asp?br=128&tl=1409572",[]]]],["Mozart, Wolfgang Amadeus",[["Le nozze di Figaro (The Marriage of Figaro), K. 492, Act III: Duet: Sull'aria &#8230; (The Shawshank Redemption)","mediaplayer\/player.asp?br=128&tl=1409573",["Le nozze di Figaro (The Marriage of Figaro), K. 492, Act III: Duet: Sull'aria &#8230;(The Shawshank Redemption)"]]]],["Giordano, Umberto",[["Andrea Chenier, Act III: La mamma morta (Philadelphia)","mediaplayer\/player.asp?br=128&tl=1409574",[]]]],["Mozart, Wolfgang Amadeus",[["Don Giovanni, K. 527, Act I: Duettino: La ci darem la mano (Babette's Feast)","mediaplayer\/player.asp?br=128&tl=1409575",[]]]],["Puccini, Giacomo",[["Tosca, Act III: E lucevan le stelle (Heavenly Creatures)","mediaplayer\/player.asp?br=128&tl=1409576",[]]]],["Bizet, Georges",[["Carmen, Act I: Habanera: L'amour est un oiseau rebelle (Callas Forever)","mediaplayer\/player.asp?br=128&tl=1409577",[]]]],["Puccini, Giacomo",[["La boh&#232;me, Act I: Che gelida manina (Moonstruck)","mediaplayer\/player.asp?br=128&tl=1409584",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Rusalka, Op. 114, B. 203, Act I: Mesicku na nebi hlubokem, \"Song to the Moon\" (Driving Miss Daisy)","mediaplayer\/player.asp?br=128&tl=1409585",[]]]],["Catalani, Alfredo",[["La Wally, Act I: Ebben? Ne andro lontana (Diva)","mediaplayer\/player.asp?br=128&tl=1409586",[]]]],["Offenbach, Jacques",[["Les contes d'Hoffmann (The Tales of Hoffmann), Act II: Entr'acte: Belle nuit, o nuit d'amour, \"Barcarolle\" (Life Is Beautiful)","mediaplayer\/player.asp?br=128&tl=1409743",[]]]],["Puccini, Giacomo",[["Turandot, Act III: Nessun dorma! (The Witches of Eastwick)","mediaplayer\/player.asp?br=128&tl=1409744",[]]]],["Handel, George Frideric",[["Solomon, HWV 67, Act III: Sinfonia, \"Arrival of the Queen of Sheba\" (Four Weddings and a Funeral)","mediaplayer\/player.asp?br=128&tl=1409746",[]]]],["Bach, Johann Sebastian",[["Toccata and Fugue in D Minor, BWV 565: Fugue (Aviator)","mediaplayer\/player.asp?br=128&tl=1409748",[]]]],["Handel, George Frideric",[["Zadok the Priest, HWV 258 (The Madness of King George)","mediaplayer\/player.asp?br=128&tl=1409747",[]]]],["Bach, Johann Sebastian",[["Concerto for 2 Violins in D Minor, BWV 1043: II. Largo ma non tanto (Children of a Lesser God)","mediaplayer\/player.asp?br=128&tl=1409752",[]]]],["Vivaldi, Antonio",[["Gloria in D Major, RV 589: Gloria in excelsis Deo (Someone to Watch Over Me)","mediaplayer\/player.asp?br=128&tl=1409753",[]]]],["Bach, Johann Sebastian",[["Viola da Gamba Sonata in G Minor, BWV 1029: II. Adagio (Truly Madly Deeply)","mediaplayer\/player.asp?br=128&tl=1409776",[]]]],["Giazotto, Remo",[["Adagio in G Minor (attrib. to Albinoni) (Gallipoli)","mediaplayer\/player.asp?br=128&tl=1409777",[]]]],["Vivaldi, Antonio",[["Mandolin Concerto in C Major, RV 425: I. Allegro (Kramer vs. Kramer)","mediaplayer\/player.asp?br=128&tl=1409778",[]]]],["Bach, Johann Sebastian",[["Goldberg Variations, BWV 988: Aria (The Silence of the Lambs)","mediaplayer\/player.asp?br=128&tl=1409779",[]]]],["Handel, George Frideric",[["Concerto Grosso in B Minor, Op. 6, No. 12, HWV 330: III. Aria: Larghetto e piano (Pirates of the Caribbean)","mediaplayer\/player.asp?br=128&tl=1409780",[]]]],["Bach, Johann Sebastian",[["Overture (Suite) No. 3 in D Major, BWV 1068: II. Air, \"Air on a G String\" (Runaway Bride)","mediaplayer\/player.asp?br=128&tl=1409781",[]]]],["Pachelbel, Johann",[["Canon and Gigue in D Major: Canon (Ordinary People)","mediaplayer\/player.asp?br=128&tl=1409782",[]]]],["Vivaldi, Antonio",[["The 4 Seasons: Violin Concerto in F Minor, Op. 8, No. 4, RV 297, \"L'inverno\" (Winter): II. Largo (The Other Sister)","mediaplayer\/player.asp?br=128&tl=1409785",[]]]],["Bach, Johann Sebastian",[["Herz und Mund und Tat und Leben, BWV 147: Chorale: Jesus bleibet meine Freude (Meet the Parents)","mediaplayer\/player.asp?br=128&tl=1409786",[]]]],["Handel, George Frideric",[["Keyboard Suite No. 4 (Set II) in D Minor, HWV 437: III. Sarabande (Barry Lyndon)","mediaplayer\/player.asp?br=128&tl=1409787",[]]]],["Bach, Johann Sebastian",[["Keyboard Concerto in F Minor, BWV 1056: II. Largo (Tomb Raider)","mediaplayer\/player.asp?br=128&tl=1409788",[]],["Brandenburg Concerto No. 3 in G Major, BWV 1048: I. (Allegro) (Hannibal)","mediaplayer\/player.asp?br=128&tl=1409789",[]]]],["Handel, George Frideric",[["Messiah, HWV 56, Part II: Hallelujah! (Bridget Jones)","mediaplayer\/player.asp?br=128&tl=1409790",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="franck redemption";JGaskdonation=0;JGFileTools={"29763":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=29763"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/29763\/89622\/64333\/57fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP29763"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=29763","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/29763"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/29763"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2329763"}},"89622":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=89622"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/29763\/89622\/64333\/57fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP89622"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=89622","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/89622"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/89622"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2389622"}},"64333":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=64333"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/29763\/89622\/64333\/57fb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP64333"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=64333","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/64333"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/64333"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2364333"}},"428296":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428296"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428296"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428296"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428296"}},"428293":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428293"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428293"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428293"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428293"}},"428291":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428291"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428291"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428291"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428291"}},"428292":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428292"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428292"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428292"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428292"}},"428294":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428294"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428294"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428294"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428294"}},"428295":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428295"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428295"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428295"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428295"}},"428300":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428300"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428300"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428300"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428300"}},"428298":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428298"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428298"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428298"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428298"}},"428299":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428299"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428299"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428299"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428299"}},"428297":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428297"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428297"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428297"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428297"}},"428303":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428303"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428303"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428303"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428303"}},"428304":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428304"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428304"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428304"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428304"}},"428301":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428301"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428301"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428301"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428301"}},"428302":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428302"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428302"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428302"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428302"}},"428290":{"015-ZIPFILE":{"icon":52,"label":"Download 15 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428296\/428293\/428291\/428292\/428294\/428295\/428300\/428298\/428299\/428297\/428303\/428304\/428301\/428302\/428290\/dbf9"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428290"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428290"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428290"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428290"}},"428305":{"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428305\/428306\/428307\/428308\/ed3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428305"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428305"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428305"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428305"}},"428306":{"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428305\/428306\/428307\/428308\/ed3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428306"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428306"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428306"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428306"}},"428307":{"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428305\/428306\/428307\/428308\/ed3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428307"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428307"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428307"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428307"}},"428308":{"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/428305\/428306\/428307\/428308\/ed3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP428308"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/428308"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/428308"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=R%C3%A9demption+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23428308"}}};JGFileOpts={"29763":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDXwBMMkaeJ6grRRPTlWmC+zALVjxzsiA9Kkx3mElbeQ01\/JheW7xQwsmRCv5wc57muk3OD9y1iS\/gISnNQKxa"},"89622":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgl4GBbFTPFefwW1CVd84pROilsxtRsAPcKBgB8xiR2ew5208F+LfdI16sI+PDMhj9DMTiJRIFoXliovjesK2K1sUU+ZTaXCcZQ3AWMcN7K2w=="},"64333":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgSb\/c01RefXwRilQTLqzGkGaD2vYQIIEBVwMr5A+jLPJe876ai91BTyrID+4bPlPae9cUSQABD\/JauBHUV7ne287T+B\/m+F4ibvCvKbFJF9sERWaFiXN67ztLinBBtMrOv1a0M6U4s6GvDs3apO8pB"},"428296":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgztAdierpKSGFGer+jP61Eu27jn+MKGa4GbXttnDeminp5p+VfcR1lWUDniCWjxFJmPn\/yJ7oTIx4NzNm7gCAX"},"428293":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi3i395NKJF0OvaJno9Urorz6qwTtmB1OB5n3DF1MtXcFMj61qEXfh3hO6P8p7GSrzN4RJbWcADhc\/\/+nfBQ2iG"},"428291":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgpm0I614Y+ppCxmlRS\/uwYLt3CJ8yYYLu6ITvrmrC4wnpPaUqbuTtWVMgKBt8ov0xgH\/bAE+q6S3LwKSUIB+Wu"},"428292":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjz9fyYY+EDnoJO98jM5fSfhcBH7we6\/g\/wh2HoFNt8DDAqH4P4JiTPtpBa5EY9830rL71x0lyaA4BP4X8yoT32"},"428294":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi3pHJyJ9zerEKDzCtHb7m+YWF0ebgCuGL3RAmHnkyzUG9mSuOe6dbQGC9DCSIK8n+kVRRsHgDMtV18Au78GV6F"},"428295":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0EdwkhkRlOksgkbqXIkh53QtKdFgMvP92iXoLNb4I9temQfUnDmJIeTsC4evYJYVsvYqb2CANzUlXDFGGJsVV"},"428300":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjMGIYkYzjIDAXOTdAYOsnojSuuUnTF5r7FswNWQ23Jzysmztzsoj3AAr3B8CCW+rmm5K11TCJkmPJsS4o7mByC"},"428298":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqZHsCAS4va9gsN0cZb6+U\/UOggv5tKtt\/tjellk2DVPIOwnFqbOrkly4hKQU2pwv8SFUNvyCktH5m1omkUycC"},"428299":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhZpE5S1k4mqY0h7O7HbCBuwxtzP8Shya0846WOWmW2aCTBV1Ze0fe6R8dO4RQzW8GDb98p\/xzLTWpElbd2LDt0"},"428297":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj\/2k6uZK9ttBBaEhalSbdeXOFb8PLisiV0oTEBxlcqY9l04dS9gbjhNfT0JrFtN0QEb2dZgbO7Eq3YsHG83Fry"},"428303":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh2PrN7TWH6LqGqNgBfwlvJkSGfXLzdVzc5OyxK9vcgWRcz6PACJAbXs16BcoQhVjwwcKasKB9T0B6KbG4vV+P4"},"428304":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjjAGGxuffIs\/9yRKwWtRNYv+g\/amF04AQEsTM1bSO4gRHzgOAIE8pubLY3BZcjSEMdPV\/pvqFT0U0iYpmcbRiw"},"428301":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0EdwkhkRlOksgkbqXIkh5WGgSruW9neK+iWoStZ196BuaN7JNpuswWCdCe2VjNOX3eudAc0rnjDSOlS13o1w0"},"428302":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjns0VP7q4V1wlVlw+MAVUYHhZDBTUI9scsJSG054i5snPOjwoMHrAeqlZAWVx6immKCroZkBCHl\/HXmiB55qdd"},"428290":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjKjNkUnr7JkftHsynmFIgICZsncP9BfZJcmhyifPXcTxk4OzE78tK2fFtYGvUqYRjTm7bCX9rzmHfDo+uk+WqI"},"428305":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhhhNdTL1cES42llJ5OqYlzn5I8iIimeqSEYfIdkvC8peR1uQdy\/lfJUNmDZbJvdvc9xyNWtcnaQ7Yl3VOAer6\/1raTb75ifQAhMDW1ruSPChogiJn1RUIhgGwfxVbiDxw="},"428306":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjfznQBGhdiOHCdXB5jyDTw+oyXVwvhWb8h3GNUBmc0yw9jOdYfeSdDuDIPY1CHjgdVhIbpytbI+XjUwVInq7npKXno0+nmqKsKXADEXJUMjyLzlSulsMxe\/w8wZi1jURE="},"428307":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjexx3TDRaTkk4KFAboeK6K5UMxftbyItARPC3MFOHoTiS4PVvVe966bFDe+ncDnORDmacCEHcddAlXHTMO6mh5yhi8ftcHsWHH2A5zuENpj\/s780d+diR5pIQB+ggN2WQ="},"428308":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh0ZX0M2CiWptcc56y9EXSkkGorrV63pxMldscP6qVSx+TJ1zg\/4GheGx26gWkda0H9GLNTET3OgPThoKTbmXj0uFvfAgr2CucZQ2uW6D1o4SaZ56ra7q987Y7hkxdhRkU="}};JGPageUntagged=false;JGPageTags=["symphonic poems","nar ch orch","fr"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"29763":[0,0],"89622":[0,0],"64333":[0,0],"428296":[0,0],"428293":[0,0],"428291":[0,0],"428292":[0,0],"428294":[0,0],"428295":[0,0],"428300":[0,0],"428298":[0,0],"428299":[0,0],"428297":[0,0],"428303":[0,0],"428304":[0,0],"428301":[0,0],"428302":[0,0],"428290":[0,0],"428305":[0,0],"428306":[0,0],"428307":[0,0],"428308":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Part_II.2C_No.5:_Morceau_Symphonique"><span class="tocnumber">2.1.1</span> <span class="toctext">Part II, No.5: Morceau Symphonique</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Part_II.2C_No.5:_Morceau_Symphonique_2"><span class="tocnumber">2.2.1</span> <span class="toctext">Part II, No.5: Morceau Symphonique</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">3</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">19</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<h4> <span class="mw-headline" id="Part_II.2C_No.5:_Morceau_Symphonique">Part II, No.5: Morceau Symphonique</span></h4>
+<div class="we"><div id="IMSLP29763" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/29763"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4c/PMLP66907-Franck-RedemptionNo5fs.pdf" class="internal" title="PMLP66907-Franck-RedemptionNo5fs.pdf">*</a></span><a href="/wiki/File:PMLP66907-Franck-RedemptionNo5fs.pdf" title="File:PMLP66907-Franck-RedemptionNo5fs.pdf">#29763</a> - 2.89MB, 40 (tp, #122-60) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-29763' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-29763'>
+	<a href='javascript:void(0)' id='29763' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='29763' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='29763' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='29763' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='29763' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-29763'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/29763/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/29763/Rédemption (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1780"><a href="/wiki/Special:GetFCtrStats/@29763" title="Special:GetFCtrStats/@29763">1780</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Google<br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (2009/3/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP89622" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/89622"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/78/SIBLEY1802.13772.92eb-39087011305416score.pdf" class="internal" title="SIBLEY1802.13772.92eb-39087011305416score.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.13772.92eb-39087011305416score.pdf" title="File:SIBLEY1802.13772.92eb-39087011305416score.pdf">#89622</a> - 3.26MB, 43 (iii, #122-60) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-89622' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-89622'>
+	<a href='javascript:void(0)' id='89622' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='89622' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='89622' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='89622' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='89622' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-89622'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/89622/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/89622/Rédemption (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 598"><a href="/wiki/Special:GetFCtrStats/@89622" title="Special:GetFCtrStats/@89622">598</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/13772"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (2011/1/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP64333" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/64333"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f9/PMLP66907-Franck_-_R%C3%A9demption_-_Part_2_-_V._Morceau_symphonique_%28orch._score%29.pdf" class="internal" title="PMLP66907-Franck - Rédemption - Part 2 - V. Morceau symphonique (orch. score).pdf">*</a></span><a href="/wiki/File:PMLP66907-Franck_-_R%C3%A9demption_-_Part_2_-_V._Morceau_symphonique_(orch._score).pdf" title="File:PMLP66907-Franck - Rédemption - Part 2 - V. Morceau symphonique (orch. score).pdf">#64333</a> - 1.24MB, 39 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-64333' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-64333'>
+	<a href='javascript:void(0)' id='64333' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='64333' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='64333' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='64333' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='64333' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-64333'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/64333/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/64333/Rédemption (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 710"><a href="/wiki/Special:GetFCtrStats/@64333" title="Special:GetFCtrStats/@64333">710</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Daphnis" title="User:Daphnis">Daphnis</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Daphnis" title="User:Daphnis">Daphnis</a> (<span title="Updated: 2010/5/17" class="hovertext">2010/5/16</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Heugel" title="Heugel">Heugel &amp; Cie.</a><!--ASL0-->, 1895.  Plate H. &amp; Cie. 9739.<br /><i>Reissue</i> — Catalog P.H. 151, n.d.(ca.1950) - #64333
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=29763/89622/64333">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=29763/89622/64333">del</a>/<span id="fmrglnk" data-pdfstr="29763//89622//64333/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="29763">Javascript is required for this feature.</div><script>JGINITsearchbars['29763']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=29763|89622|64333&type=Complete%20Score%7CComplete%20Score%7CComplete%20Score&pgcount=40|42|39&signature=5598f251daa90b748a58dce93cfa3b13c1bb5bc1"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP66907-Franck-RedemptionNo5fs.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4c/d3aa6a2fab43b61cc767a42194d130f94c39016b.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<h4> <span class="mw-headline" id="Part_II.2C_No.5:_Morceau_Symphonique_2">Part II, No.5: Morceau Symphonique</span></h4>
+<div class="we"><div id="IMSLP428296" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428296"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/17/PMLP66907-Redemption-Ob.1%2C2.pdf" class="internal" title="PMLP66907-Redemption-Ob.1,2.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Ob.1,2.pdf" title="File:PMLP66907-Redemption-Ob.1,2.pdf">#428296</a> - 0.12MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428296' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428296'>
+	<a href='javascript:void(0)' id='428296' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428296' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428296' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428296' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428296' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428296'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428296/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428296/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 55"><a href="/wiki/Special:GetFCtrStats/@428296" title="Special:GetFCtrStats/@428296">55</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>14 more</u>:</b> Oboe 1/2 • Clarinet 1/2 (A) • Bassoon 1/2 • Horn 1/2 (D) • Horn 3/4 (E) • Trumpet 1/2 (D) • Trombone 1/2 • Trombone 3/4 (also Ophicleide) • Timpani • Violins I • Violins II • Violas • Cellos • Basses
+</p>
+</div><div id="IMSLP428293" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428293"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e3/PMLP66907-Redemption-Fl.1%2C2.pdf" class="internal" title="PMLP66907-Redemption-Fl.1,2.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Fl.1,2.pdf" title="File:PMLP66907-Redemption-Fl.1,2.pdf">#428293</a> - 0.12MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428293' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428293'>
+	<a href='javascript:void(0)' id='428293' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428293' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428293' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428293' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428293' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428293'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428293/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428293/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 38"><a href="/wiki/Special:GetFCtrStats/@428293" title="Special:GetFCtrStats/@428293">38</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428291" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428291"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1/2 (A)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b9/PMLP66907-Redemption-Cl.1%2C2_in_A.pdf" class="internal" title="PMLP66907-Redemption-Cl.1,2 in A.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Cl.1,2_in_A.pdf" title="File:PMLP66907-Redemption-Cl.1,2 in A.pdf">#428291</a> - 0.12MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428291' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428291'>
+	<a href='javascript:void(0)' id='428291' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428291' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428291' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428291' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428291' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428291'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428291/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428291/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@428291" title="Special:GetFCtrStats/@428291">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428292" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428292"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e5/PMLP66907-Redemption-Fg.1%2C2.pdf" class="internal" title="PMLP66907-Redemption-Fg.1,2.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Fg.1,2.pdf" title="File:PMLP66907-Redemption-Fg.1,2.pdf">#428292</a> - 0.12MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428292' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428292'>
+	<a href='javascript:void(0)' id='428292' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428292' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428292' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428292' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428292' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428292'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428292/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428292/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 26"><a href="/wiki/Special:GetFCtrStats/@428292" title="Special:GetFCtrStats/@428292">26</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428294" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428294"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1/2 (D)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ea/PMLP66907-Redemption-Hn.1%2C2_in_D.pdf" class="internal" title="PMLP66907-Redemption-Hn.1,2 in D.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Hn.1,2_in_D.pdf" title="File:PMLP66907-Redemption-Hn.1,2 in D.pdf">#428294</a> - 0.10MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428294' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428294'>
+	<a href='javascript:void(0)' id='428294' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428294' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428294' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428294' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428294' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428294'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428294/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428294/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 30"><a href="/wiki/Special:GetFCtrStats/@428294" title="Special:GetFCtrStats/@428294">30</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428295" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428295"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 3/4 (E)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cd/PMLP66907-Redemption-Hn.3%2C4_in_E.pdf" class="internal" title="PMLP66907-Redemption-Hn.3,4 in E.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Hn.3,4_in_E.pdf" title="File:PMLP66907-Redemption-Hn.3,4 in E.pdf">#428295</a> - 0.11MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428295' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428295'>
+	<a href='javascript:void(0)' id='428295' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428295' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428295' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428295' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428295' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428295'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428295/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428295/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@428295" title="Special:GetFCtrStats/@428295">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428300" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428300"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1/2 (D)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f1/PMLP66907-Redemption-Trp.1%2C2_in_D.pdf" class="internal" title="PMLP66907-Redemption-Trp.1,2 in D.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Trp.1,2_in_D.pdf" title="File:PMLP66907-Redemption-Trp.1,2 in D.pdf">#428300</a> - 0.10MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428300' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428300'>
+	<a href='javascript:void(0)' id='428300' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428300' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428300' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428300' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428300' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428300'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428300/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428300/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@428300" title="Special:GetFCtrStats/@428300">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428298" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428298"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/12/PMLP66907-Redemption-Trb.1%2C2.pdf" class="internal" title="PMLP66907-Redemption-Trb.1,2.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Trb.1,2.pdf" title="File:PMLP66907-Redemption-Trb.1,2.pdf">#428298</a> - 0.09MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428298' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428298'>
+	<a href='javascript:void(0)' id='428298' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428298' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428298' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428298' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428298' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428298'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428298/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428298/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 37"><a href="/wiki/Special:GetFCtrStats/@428298" title="Special:GetFCtrStats/@428298">37</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428299" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428299"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 3/4 (also Ophicleide)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/86/PMLP66907-Redemption-Trb.3%2C4.pdf" class="internal" title="PMLP66907-Redemption-Trb.3,4.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Trb.3,4.pdf" title="File:PMLP66907-Redemption-Trb.3,4.pdf">#428299</a> - 0.09MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428299' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428299'>
+	<a href='javascript:void(0)' id='428299' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428299' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428299' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428299' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428299' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428299'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428299/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428299/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@428299" title="Special:GetFCtrStats/@428299">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428297" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428297"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP66907-Redemption-Timp._A-D.pdf" class="internal" title="PMLP66907-Redemption-Timp. A-D.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Timp._A-D.pdf" title="File:PMLP66907-Redemption-Timp. A-D.pdf">#428297</a> - 0.08MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428297' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428297'>
+	<a href='javascript:void(0)' id='428297' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428297' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428297' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428297' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428297' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428297'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428297/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428297/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@428297" title="Special:GetFCtrStats/@428297">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428303" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428303"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6c/PMLP66907-Redemption-Vn.1.pdf" class="internal" title="PMLP66907-Redemption-Vn.1.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Vn.1.pdf" title="File:PMLP66907-Redemption-Vn.1.pdf">#428303</a> - 0.28MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428303' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428303'>
+	<a href='javascript:void(0)' id='428303' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428303' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428303' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428303' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428303' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428303'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428303/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428303/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 50"><a href="/wiki/Special:GetFCtrStats/@428303" title="Special:GetFCtrStats/@428303">50</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428304" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428304"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/af/PMLP66907-Redemption-Vn.2.pdf" class="internal" title="PMLP66907-Redemption-Vn.2.pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Vn.2.pdf" title="File:PMLP66907-Redemption-Vn.2.pdf">#428304</a> - 0.28MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428304' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428304'>
+	<a href='javascript:void(0)' id='428304' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428304' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428304' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428304' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428304' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428304'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428304/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428304/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 27"><a href="/wiki/Special:GetFCtrStats/@428304" title="Special:GetFCtrStats/@428304">27</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428301" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428301"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cd/PMLP66907-Redemption-Va..pdf" class="internal" title="PMLP66907-Redemption-Va..pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Va..pdf" title="File:PMLP66907-Redemption-Va..pdf">#428301</a> - 0.14MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428301' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428301'>
+	<a href='javascript:void(0)' id='428301' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428301' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428301' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428301' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428301' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428301'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428301/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428301/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 24"><a href="/wiki/Special:GetFCtrStats/@428301" title="Special:GetFCtrStats/@428301">24</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428302" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428302"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dd/PMLP66907-Redemption-Vc..pdf" class="internal" title="PMLP66907-Redemption-Vc..pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Vc..pdf" title="File:PMLP66907-Redemption-Vc..pdf">#428302</a> - 0.12MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428302' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428302'>
+	<a href='javascript:void(0)' id='428302' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428302' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428302' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428302' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428302' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428302'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428302/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428302/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 26"><a href="/wiki/Special:GetFCtrStats/@428302" title="Special:GetFCtrStats/@428302">26</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428290" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428290"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/35/PMLP66907-Redemption-Cb..pdf" class="internal" title="PMLP66907-Redemption-Cb..pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Cb..pdf" title="File:PMLP66907-Redemption-Cb..pdf">#428290</a> - 0.11MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428290' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428290'>
+	<a href='javascript:void(0)' id='428290' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428290' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428290' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428290' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428290' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428290'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428290/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428290/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 32"><a href="/wiki/Special:GetFCtrStats/@428290" title="Special:GetFCtrStats/@428290">32</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>A Japanese editor
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>A Japanese editor
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_4.0" title="IMSLP:Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=428296/428293/428291/428292/428294/428295/428300/428298/428299/428297/428303/428304/428301/428302/428290">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=428296/428293/428291/428292/428294/428295/428300/428298/428299/428297/428303/428304/428301/428302/428290">del</a>/<span id="fmrglnk" data-pdfstr="428296//428293//428291//428292//428294//428295//428300//428298//428299//428297//428303//428304//428301//428302//428290/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>by "Musescore".
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="428296">Javascript is required for this feature.</div><script>JGINITsearchbars['428296']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP66907-Redemption-Ob.1,2.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/17/ee5f53b83d399c5d592ed8bc061a465047dab940.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP428305" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428305"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1, 2 (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d4/PMLP66907-Redemption-Hn.1%2C2_in_D_%28Transported_in_F%29.pdf" class="internal" title="PMLP66907-Redemption-Hn.1,2 in D (Transported in F).pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Hn.1,2_in_D_(Transported_in_F).pdf" title="File:PMLP66907-Redemption-Hn.1,2 in D (Transported in F).pdf">#428305</a> - 0.10MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428305' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428305'>
+	<a href='javascript:void(0)' id='428305' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428305' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428305' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428305' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428305' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428305'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428305/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428305/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 16"><a href="/wiki/Special:GetFCtrStats/@428305" title="Special:GetFCtrStats/@428305">16</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428306" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428306"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 3, 4 (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/28/PMLP66907-Redemption-Hn.3%2C4_in_E_%28Transported_in_F%29.pdf" class="internal" title="PMLP66907-Redemption-Hn.3,4 in E (Transported in F).pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Hn.3,4_in_E_(Transported_in_F).pdf" title="File:PMLP66907-Redemption-Hn.3,4 in E (Transported in F).pdf">#428306</a> - 0.12MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428306' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428306'>
+	<a href='javascript:void(0)' id='428306' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428306' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428306' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428306' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428306' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428306'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428306/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428306/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 20"><a href="/wiki/Special:GetFCtrStats/@428306" title="Special:GetFCtrStats/@428306">20</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428307" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428307"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1, 2 (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/22/PMLP66907-Redemption-Trp.1%2C2_in_D_%28Transported_in_B%29.pdf" class="internal" title="PMLP66907-Redemption-Trp.1,2 in D (Transported in B).pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Trp.1,2_in_D_(Transported_in_B).pdf" title="File:PMLP66907-Redemption-Trp.1,2 in D (Transported in B).pdf">#428307</a> - 0.10MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428307' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428307'>
+	<a href='javascript:void(0)' id='428307' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428307' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428307' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428307' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428307' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428307'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428307/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428307/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 15"><a href="/wiki/Special:GetFCtrStats/@428307" title="Special:GetFCtrStats/@428307">15</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP428308" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/428308"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1, 2 (C)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/PMLP66907-Redemption-Trp.1%2C2_in_D_%28Transported_in_C%29.pdf" class="internal" title="PMLP66907-Redemption-Trp.1,2 in D (Transported in C).pdf">*</a></span><a href="/wiki/File:PMLP66907-Redemption-Trp.1,2_in_D_(Transported_in_C).pdf" title="File:PMLP66907-Redemption-Trp.1,2 in D (Transported in C).pdf">#428308</a> - 0.10MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-428308' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-428308'>
+	<a href='javascript:void(0)' id='428308' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='428308' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='428308' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='428308' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='428308' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-428308'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/428308/R%C3%A9demption_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/428308/Rédemption (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 16"><a href="/wiki/Special:GetFCtrStats/@428308" title="Special:GetFCtrStats/@428308">16</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:A_Japanese_editor&amp;action=edit&amp;redlink=1" class="new" title="User:A Japanese editor (page does not exist)">AJE</a> (2016/6/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>A Japanese editor
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>A Japanese editor
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_4.0" title="IMSLP:Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=428305/428306/428307/428308">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=428305/428306/428307/428308">del</a>/<span id="fmrglnk" data-pdfstr="428305//428306//428307//428308/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>by "Musescore".
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="428305">Javascript is required for this feature.</div><script>JGINITsearchbars['428305']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP66907-Redemption-Hn.1,2_in_D_(Transported_in_F).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d4/2dde819d99362cd216472de890f79ae4341e53c8.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Rédemption
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Poëme-Symphonie
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Franck,_C%C3%A9sar" title="Category:Franck, César">Franck, César</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>FWV 52&#160;; Op.22
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ICF 63
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1871, rev.1873
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1873-4-10 (first version, but without the central Morceau symphonique)
+<p>1875-3-15 (2nd version) (see BNF, below.)
+</p>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1873 (first version, in reduction); 1895 (2nd version, published in orchestral/choral parts)
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Blau,_%C3%89douard" title="Category:Blau, Édouard">Édouard Blau</a>
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>narrator, female chorus (SSAA), mixed chorus (SATB), orchestra
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.bnf.fr/16713536/cesar_franck_redemption__cff_184a">BNF data</a></span> (version 1); <span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.bnf.fr/13912238/cesar_franck_redemption__cff_184b/">BNF data</a></span> (version 2)
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>Summary from BNF: ""Poéme-symphonie" en 2 parties. - Texte d'Édouard Blau. - Dates de composition (1re version, CFF 184A)&#160;: 1872. - 2e version avec nouveau choeur d'hommes et nouvel interlude dit "Morceau symphonique"&#160;: 1873. - 1re exécution (1re version)&#160;: Paris, Théâtre de l'Odéon, 10 avril 1873, Orchestre du Concert national, sous la direction d'Édouard Colonne. - 1re exécution (2e version)&#160;: Paris, Théâtre Ventadour, 15 mars 1875, choeur et orchestre sous la direction du compositeur. - 1re éd. (2e version)&#160;: Paris&#160;: Heugel, 1895"
+</p><p><br />
+The first version was completed on November 7, 1871 according to Stove ("César Franck: His Life and Times", p.164.)
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 761/1000000
+Post-expand include size: 71876/2097152 bytes
+Template argument size: 279/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:66907-0!*!0!!en!2!* and timestamp 20180416185033 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=R%C3%A9demption_(Franck,_C%C3%A9sar)&amp;oldid=2107799">http://imslp.org/index.php?title=R%C3%A9demption_(Franck,_C%C3%A9sar)&amp;oldid=2107799</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_published_by_Heugel" title="Category:Scores published by Heugel">Scores published by Heugel</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Franck,_C%C3%A9sar" title="Category:Franck, César">Franck, César</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Symphonic_poems" title="Category:Symphonic poems">Symphonic poems</a></li><li><a href="/wiki/Category:For_narrator,_mixed_chorus,_orchestra" title="Category:For narrator, mixed chorus, orchestra">For narrator, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_a_narrator" title="Category:Scores featuring a narrator">Scores featuring a narrator</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:French_language" title="Category:French language">French language</a></li><li><a href="/wiki/Category:Works_first_published_in_1873" title="Category:Works first published in 1873">Works first published in 1873</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:Blau,_%C3%89douard/Librettist" title="Category:Blau, Édouard/Librettist">Blau, Édouard/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=R%C3%A9demption_%28Franck%2C_C%C3%A9sar%29">2,815 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/R%C3%A9demption%20%28Franck%2C%20C%C3%A9sar%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.538 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416185033 -->
+</html>
+		

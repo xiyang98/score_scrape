@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)", "wgTitle": "Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)", "wgCurRevisionId": 1670227, "wgArticleId": 558200, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores published by Theodore Presser", "Sibley Mirroring Project", "Scores", "Mathews, William Smythe Babcock/Collections", "Romantic style", "Romantic", "Studies", "Pieces", "For piano", "Scores featuring the piano", "For 1 player", "Leefson, Maurits/Editor", "Becket, Thomas à/Editor", "Sternberg, Constantin von/Editor", "Tausig, Carl/Editor", "Stankowitch, Anthony/Editor", "Bülow, Hans von/Editor", "Schulhoff, Julius/Collections", "Collections", "Liszt, Franz/Collections", "Chopin, Frédéric/Collections", "Bach, Johann Sebastian/Collections", "Schumann, Robert/Collections", "Seiss, Isidor Wilhelm/Collections", "Seeling, Hans/Collections", "Leschetizky, Theodor/Collections", "Clementi, Muzio/Collections", "Mason, William/Collections", "Henselt, Adolf von/Collections", "Rachmaninoff, Sergei/Collections", "Godard, Benjamin/Collections", "Handel, George Frideric/Collections", "Jadassohn, Salomon/Collections", "Schytte, Ludvig/Collections", "Beringer, Oscar/Collections", "Backer-Grøndahl, Agathe/Collections", "Raff, Joachim/Collections", "Moszkowski, Moritz/Collections", "Schütt, Eduard/Collections", "Jensen, Adolf/Collections", "Czerny, Carl/Collections", "Haberbier, Ernst/Collections", "Cramer, Johann Baptist/Collections", "Bagge, Selmar/Collections", "Heller, Stephen/Collections", "Schmoll, Anton/Collections", "Krause, Anton/Collections", "Reinhold, Hugo/Collections", "Bohm, Carl/Collections", "Lemmens, Jacques-Nicolas/Collections", "Döring, Karl Heinrich/Collections", "Ravina, Jean Henri/Collections", "Bach, Carl Philipp Emanuel/Collections", "Paradies, Pietro Domenico/Collections", "Rimsky-Korsakov, Nikolay/Collections", "Stojowski, Sigismond/Collections", "Larmande-Des Argus, Sophie Lucile/Collections", "Orth, Albert/Collections", "Hünten, François/Collections", "Loeschhorn, Albert/Collections", "Hollaender, Victor/Collections", "Zilcher, Paul/Collections", "Wolff, Bernhard/Collections", "Mendelssohn, Felix/Collections", "Saint-Saëns, Camille/Collections", "Nollet, Eugène/Collections", "Birkedal-Barfod, Ludvig/Collections", "Janke, Gustav/Collections", "Kirchner, Theodor/Collections", "Hause, Carl/Collections", "Vogt, Jean/Collections", "Gurlitt, Cornelius/Collections", "Ascher, Joseph/Collections", "Lemoine, Henry/Collections", "Stamaty, Camille/Collections", "Concone, Giuseppe/Collections", "Krug, Diederich/Collections", "Ehmant, Anselm/Collections", "Sachs, Melchior Ernst/Collections", "Le Couppey, Félix/Collections", "Brauer, Friedrich/Collections", "Pescetti, Giovanni Battista/Collections", "Beethoven, Ludwig van/Collections", "Weber, Carl Maria von/Collections", "Massenet, Jules/Collections", "Le Carpentier, Adolphe Claire/Collections", "Burgmüller, Friedrich/Collections", "Gobbaerts, Louis/Collections", "Bischoff, Hans/Collections", "Kullak, Theodor/Collections", "Germer, Heinrich/Collections", "Kruckow, Richard/Collections", "Ahrens, Harry/Collections", "Luther, Martin/Collections", "Förster, Alban/Collections", "Kuhlau, Friedrich/Collections", "Vogel, Moritz/Collections", "Spindler, Fritz/Collections"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Standard_Graded_Course_of_Studies_for_the_Pianoforte_Mathews_William_Smythe_Babcock action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)&amp;oldid=1670227" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Standard%20Graded%20Course%20of%20Studies%20for%20the%20Pianoforte%20%28Mathews%2C%20William%20Smythe%20Babcock%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td><i>see below</i>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Studies&amp;transclude=Template:Catintro">Studies</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano&amp;transclude=Template:Catintro">For piano</a></span>; <span class="expandline" title="2 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Standard Graded Course of Studies for the Pianoforte","composer":"Mathews, William Smythe Babcock","comphref":"\/wiki\/Category:Mathews,_William_Smythe_Babcock"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"standard graded course of studies for the pianoforte","itunes":"standard graded course of studies for the pianoforte","composer":"mathews","scorekeywords":"standard graded course of studies for the pianoforte","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="mathews standard graded course of studies for the pianoforte";JGaskdonation=0;JGFileTools={"345818":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345818"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345818"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345818"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345818"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345818"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345818"}},"345819":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345819"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345819"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345819"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345819"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345819"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345819"}},"345820":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345820"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345820"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345820"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345820"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345820"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345820"}},"345821":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345821"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345821"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345821"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345821"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345821"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345821"}},"345822":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345822"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345822"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345822"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345822"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345822"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345822"}},"345823":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345823"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345823"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345823"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345823"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345823"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345823"}},"345824":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345824"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345824"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345824"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345824"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345824"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345824"}},"345825":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345825"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345825"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345825"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/345825"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345825"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345825"}},"345826":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345826"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345826"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345826"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/345826"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/345826"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345826"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345826"}},"345827":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345827"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345827"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345827"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/345827"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/345827"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345827"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345827"}},"345828":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=345828"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/345818\/345819\/345820\/345821\/345822\/345823\/345824\/345825\/345826\/345827\/345828\/52f8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP345828"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=345828"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/345828"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/345828"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/345828"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Standard+Graded+Course+of+Studies+for+the+Pianoforte+%28Mathews%2C+William+Smythe+Babcock%29&frmTitle=IMSLP+%23345828"}}};JGFileOpts={"345818":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhzmdIsgmj839yK\/Hr6I8VzJ7T02GbRIBentXIDq3Uhrtm5QHo5mk2Mus4AV0QxkgRd+BqSXTOZ8jjRmAqVchsN3ZDMDyguYVE+RYhymrn2jw=="},"345819":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhVW+GcaTrFCcd7fI82VxhiH0oUmShlW\/mCl30oW2q8\/XJGPIH13Zi+fbdHzhANA79uI13VnH25ZH5vfq4hHgmTxFopgZEyJ4JaWQmVsIehhQ=="},"345820":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhwYWwR1LbxLpGDGL5yIiSPedF+oCHs2pCigjpRGxBPbieFDmvRFKYPFli7XVj8shK+lgxhc75xouYZBD3fLGXhdXn9ApAZ+bYtJNVsk6GBDw=="},"345821":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biK4WUSXkU5U4lUhl2Vp5d4Qc4pUc8hMaSN52vm4kPLaAPY7VeHdrqsgxZm5ON1+Jut3CFflAv7iWtU6J8JgYbbhkScpLxJyLjEjmjwCN0R+Q=="},"345822":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bho25VJE2OHN6mRmmn9NPMYQsf08\/9rG8nTtTQkR4o\/VOf+Yct\/HgL8crB1KW3CpDr0NZSLMsewWiQm5pP6pCO7rsM6aFFa4jILJT6wWmM0Ew=="},"345823":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biQHZK+CXhjkkAY+\/bCNWUbTaFEZYOayEds5\/JMZ2dDr8ulIUlZeaNbsQBsoAwKfbavNP5XeUm1xpZosmHCtpQIi5RFOy38RHySblseYqMCWA=="},"345824":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhxwJnBXNK6ANGuF5YjdKe\/3qh4XV9\/7OLA74UKuEI58U5tSrvlvkXnm3knBI0cH7KhaWDnVfNDnR4uNr617fGJ1F\/H1bzcjg7+P9y+9fFe0g=="},"345825":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj51YXlzkiYih+0nXNmkllt3S4Mddr\/47jjSPA7Et46Y6TiaW7lpF7fDhs3pnPBVpdhHqZcTwAtqiWpJq86SkH1tiTxRPFrMiWmDL3NaJQjpg=="},"345826":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhoYWugaPnM4VoLLbTx\/Z9Fp8mqVhbDfJgjX2uqJo3Im85OwiyBS95XbSTMndOPkzJvBOWag+JG2Jb4Qv1U74N1ZBGhGFbYQAQV\/DLgdP12XQ=="},"345827":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhYpbIuyRBJOqYq2nl9zwgpA2hUnnH2JqwY\/36vzCbuJNlv0pwsNpKNjljFzU4DrGP7cp4eIV7SJ5garDOWlfqh1KUT1CpTFt57EUvJhjf6HA=="},"345828":[]};JGPageUntagged=false;JGPageTags=["studies","pieces","pf"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"345818":[4.7777777777778,"18"],"345819":[7,"8"],"345820":[5.5,"4"],"345821":[8,"4"],"345822":[6.6666666666667,"3"],"345823":[4.5,"4"],"345824":[7.3333333333333,"3"],"345825":[9,"2"],"345826":[5.6,"5"],"345827":[8,"2"],"345828":[10,"1"]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">11</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP345818" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345818"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ae/SIBLEY1802.15280.97ae-39087009941727grade_1.pdf" class="internal" title="SIBLEY1802.15280.97ae-39087009941727grade 1.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.97ae-39087009941727grade_1.pdf" title="File:SIBLEY1802.15280.97ae-39087009941727grade 1.pdf">#345818</a> - 5.71MB, 42 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345818' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345818'>
+	<a href='javascript:void(0)' id='345818' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345818' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345818' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345818' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345818' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345818'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345818/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345818/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6182"><a href="/wiki/Special:GetFCtrStats/@345818" title="Special:GetFCtrStats/@345818">6182</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>10 more</u>:</b> Vol.2 • Vol.3 • Vol.4 • Vol.5 • Vol.6 • Vol.7 • Vol.8 • Vol.9 • Vol.10 • Color Cover
+</p>
+</div><div id="IMSLP345819" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345819"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b7/SIBLEY1802.15280.5657-39087009941727grade_2.pdf" class="internal" title="SIBLEY1802.15280.5657-39087009941727grade 2.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.5657-39087009941727grade_2.pdf" title="File:SIBLEY1802.15280.5657-39087009941727grade 2.pdf">#345819</a> - 4.55MB, 34 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345819' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345819'>
+	<a href='javascript:void(0)' id='345819' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345819' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345819' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345819' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345819' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345819'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345819/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345819/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3449"><a href="/wiki/Special:GetFCtrStats/@345819" title="Special:GetFCtrStats/@345819">3449</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345820" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345820"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cb/SIBLEY1802.15280.1636-39087009941727grade_3.pdf" class="internal" title="SIBLEY1802.15280.1636-39087009941727grade 3.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.1636-39087009941727grade_3.pdf" title="File:SIBLEY1802.15280.1636-39087009941727grade 3.pdf">#345820</a> - 4.39MB, 34 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345820' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345820'>
+	<a href='javascript:void(0)' id='345820' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345820' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345820' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345820' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345820' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345820'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345820/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345820/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2817"><a href="/wiki/Special:GetFCtrStats/@345820" title="Special:GetFCtrStats/@345820">2817</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345821" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345821"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.4</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/05/SIBLEY1802.15280.1962-39087009941727grade_4.pdf" class="internal" title="SIBLEY1802.15280.1962-39087009941727grade 4.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.1962-39087009941727grade_4.pdf" title="File:SIBLEY1802.15280.1962-39087009941727grade 4.pdf">#345821</a> - 3.57MB, 34 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345821' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345821'>
+	<a href='javascript:void(0)' id='345821' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345821' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345821' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345821' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345821' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345821'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345821/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345821/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2604"><a href="/wiki/Special:GetFCtrStats/@345821" title="Special:GetFCtrStats/@345821">2604</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345822" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345822"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.5</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fd/SIBLEY1802.15280.7212-39087009941727grade_5.pdf" class="internal" title="SIBLEY1802.15280.7212-39087009941727grade 5.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.7212-39087009941727grade_5.pdf" title="File:SIBLEY1802.15280.7212-39087009941727grade 5.pdf">#345822</a> - 4.35MB, 37 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345822' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345822'>
+	<a href='javascript:void(0)' id='345822' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345822' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345822' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345822' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345822' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345822'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345822/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345822/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2496"><a href="/wiki/Special:GetFCtrStats/@345822" title="Special:GetFCtrStats/@345822">2496</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345823" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345823"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.6</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/df/SIBLEY1802.15280.b79c-39087009941735grade_6.pdf" class="internal" title="SIBLEY1802.15280.b79c-39087009941735grade 6.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.b79c-39087009941735grade_6.pdf" title="File:SIBLEY1802.15280.b79c-39087009941735grade 6.pdf">#345823</a> - 5.10MB, 41 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345823' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345823'>
+	<a href='javascript:void(0)' id='345823' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345823' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345823' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345823' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345823' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345823'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345823/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345823/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2373"><a href="/wiki/Special:GetFCtrStats/@345823" title="Special:GetFCtrStats/@345823">2373</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345824" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345824"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.7</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/62/SIBLEY1802.15280.2185-39087009941735grade_7.pdf" class="internal" title="SIBLEY1802.15280.2185-39087009941735grade 7.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.2185-39087009941735grade_7.pdf" title="File:SIBLEY1802.15280.2185-39087009941735grade 7.pdf">#345824</a> - 3.95MB, 33 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345824' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345824'>
+	<a href='javascript:void(0)' id='345824' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345824' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345824' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345824' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345824' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345824'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345824/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345824/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2294"><a href="/wiki/Special:GetFCtrStats/@345824" title="Special:GetFCtrStats/@345824">2294</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345825" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345825"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.8</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9e/SIBLEY1802.15280.f9e8-39087009941735grade_8.pdf" class="internal" title="SIBLEY1802.15280.f9e8-39087009941735grade 8.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.f9e8-39087009941735grade_8.pdf" title="File:SIBLEY1802.15280.f9e8-39087009941735grade 8.pdf">#345825</a> - 5.40MB, 41 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345825' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345825'>
+	<a href='javascript:void(0)' id='345825' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345825' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345825' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345825' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345825' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345825'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345825/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345825/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2287"><a href="/wiki/Special:GetFCtrStats/@345825" title="Special:GetFCtrStats/@345825">2287</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345826" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345826"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.9</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/41/SIBLEY1802.15280.cf4a-39087009941735grade_9.pdf" class="internal" title="SIBLEY1802.15280.cf4a-39087009941735grade 9.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.cf4a-39087009941735grade_9.pdf" title="File:SIBLEY1802.15280.cf4a-39087009941735grade 9.pdf">#345826</a> - 6.09MB, 41 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345826' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345826'>
+	<a href='javascript:void(0)' id='345826' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345826' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345826' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345826' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345826' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345826'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345826/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345826/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2383"><a href="/wiki/Special:GetFCtrStats/@345826" title="Special:GetFCtrStats/@345826">2383</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345827" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345827"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vol.10</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fc/SIBLEY1802.15280.1613-39087009941735grade_10.pdf" class="internal" title="SIBLEY1802.15280.1613-39087009941735grade 10.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.1613-39087009941735grade_10.pdf" title="File:SIBLEY1802.15280.1613-39087009941735grade 10.pdf">#345827</a> - 5.71MB, 37 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345827' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345827'>
+	<a href='javascript:void(0)' id='345827' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345827' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345827' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345827' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345827' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345827'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345827/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345827/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2868"><a href="/wiki/Special:GetFCtrStats/@345827" title="Special:GetFCtrStats/@345827">2868</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP345828" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/345828"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Color Cover</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/74/SIBLEY1802.15280.939f-39087009941727color_cover.pdf" class="internal" title="SIBLEY1802.15280.939f-39087009941727color cover.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.15280.939f-39087009941727color_cover.pdf" title="File:SIBLEY1802.15280.939f-39087009941727color cover.pdf">#345828</a> - <span style="color:red"><b>26.01</b></span>MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-345828' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-345828'>
+	<a href='javascript:void(0)' id='345828' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='345828' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='345828' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='345828' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='345828' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-345828'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/345828/Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)" title="Special:IMSLPEditCTag/345828/Standard Graded Course of Studies for the Pianoforte (Mathews, William Smythe Babcock)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1454"><a href="/wiki/Special:GetFCtrStats/@345828" title="Special:GetFCtrStats/@345828">1454</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/15280"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/9/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Philadelphia: <a href="/wiki/Theodore_Presser" title="Theodore Presser">Theodore Presser</a><!--ASL0-->, 1892-94.  Plate 1176, 1243-1250.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=345818/345819/345820/345821/345822/345823/345824/345825/345826/345827/345828">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=345818/345819/345820/345821/345822/345823/345824/345825/345826/345827/345828">del</a>/<span id="fmrglnk" data-pdfstr="345818//345819//345820//345821//345822//345823//345824//345825//345826//345827//345828/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="345818">Javascript is required for this feature.</div><script>JGINITsearchbars['345818']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=345818|345819|345820|345821|345822|345823|345824|345825|345826|345827|345828&type=Vol.1%7CVol.2%7CVol.3%7CVol.4%7CVol.5%7CVol.6%7CVol.7%7CVol.8%7CVol.9%7CVol.10%7CColor%20Cover&pgcount=42|34|34|34|37|41|33|41|41|37|10&signature=5c51968912fd53c5985be6c60908a9b13fd16f1f"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.15280.97ae-39087009941727grade_1.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ae/22e11611a5ef23fbdf54a02f11cff9c2f5787707.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Standard Graded Course of Studies for the Pianoforte
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Consisting of standard etudes and studies arranged in progressive order
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Mathews,_William_Smythe_Babcock" title="Category:Mathews, William Smythe Babcock">Mathews, William Smythe Babcock</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>10 Volumes
+<ul><li><dl><dt>Volume 1
+</dt></dl>
+</li></ul>
+<dl><dd>very short pieces, mainly by Mathews
+</dd></dl>
+<ul><li><dl><dt>Volume 2
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Lemoine,_Henry" title="Category:Lemoine, Henry">Lemoine</a>: 2 Allegro, Op.37 No.1+2
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: Fable
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: The Sky-Lark
+</li><li> <a href="/wiki/Category:Weber,_Carl_Maria_von" title="Category:Weber, Carl Maria von">Weber</a>: Bohemian Dance
+</li><li> <a href="/wiki/Category:Le_Carpentier,_Adolphe_Claire" title="Category:Le Carpentier, Adolphe Claire">Le Carpentier</a>: Two-Voice Exercise, Op.59 No.?
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Allegro commodo
+</li><li> <a href="/wiki/Category:Le_Couppey,_F%C3%A9lix" title="Category:Le Couppey, Félix">Le Couppey</a>: Bourree, Op.17
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Allegretto
+</li><li> <a href="/wiki/Category:Lemoine,_Henry" title="Category:Lemoine, Henry">Lemoine</a>: Study in Lightness
+</li><li> <a href="/wiki/Category:Lemoine,_Henry" title="Category:Lemoine, Henry">Lemoine</a>: Study for Singing Touch
+</li><li> Unknown: Arpeggios and Chords in d minor
+</li><li> <a href="/wiki/Category:Burgm%C3%BCller,_Friedrich" title="Category:Burgmüller, Friedrich">Burgmüller</a>: Consolation, Op.100
+</li><li> <a href="/wiki/Category:Duvernoy,_Jean-Baptiste" title="Category:Duvernoy, Jean-Baptiste">Duvernoy</a>: Study in Staccato Sixths
+</li><li> <a href="/wiki/Category:Duvernoy,_Jean-Baptiste" title="Category:Duvernoy, Jean-Baptiste">Duvernoy</a>: Study in Legato Thirds
+</li><li> <a href="/wiki/Category:Gobbaerts,_Louis" title="Category:Gobbaerts, Louis">Gobbaerts</a>: Wrist Study, Op.63 No.3
+</li><li> <a href="/wiki/Category:Bischoff,_Hans" title="Category:Bischoff, Hans">Bischoff</a>: Folk Song with 2 Variations, Op.31 No.11
+</li><li> <a href="/wiki/Category:Krause,_Anton" title="Category:Krause, Anton">Krause</a>: Melody Study, Op.4 No.?
+</li><li> <a href="/wiki/Category:Duvernoy,_Jean-Baptiste" title="Category:Duvernoy, Jean-Baptiste">Duvernoy</a>: Scale Study, Op.176 No.9
+</li><li> <a href="/wiki/Category:Krause,_Anton" title="Category:Krause, Anton">Krause</a>: Study in Finger Staccato, Op.4 No.11
+</li><li> <a href="/wiki/Category:Krause,_Anton" title="Category:Krause, Anton">Krause</a>: Study in Finger Rhythm, Op.4 No.12
+</li><li> <a href="/wiki/Category:H%C3%BCnten,_Fran%C3%A7ois" title="Category:Hünten, François">Hünten</a>: Nocturne No.1, Op.181
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Allegro
+</li><li> <a href="/wiki/Category:Gurlitt,_Cornelius" title="Category:Gurlitt, Cornelius">Gurlitt</a>: Song of Home, Op.50 No.?
+</li><li> <a href="/wiki/Category:Krug,_Diederich" title="Category:Krug, Diederich">Krug</a>: Melody Study, Op.121 No.32
+</li><li> <a href="/wiki/Category:Le_Carpentier,_Adolphe_Claire" title="Category:Le Carpentier, Adolphe Claire">Le Carpentier</a>: Study in Crossing Hands, Op.59 No.?
+</li><li> <a href="/wiki/Category:Lemoine,_Henry" title="Category:Lemoine, Henry">Lemoine</a>: Study in heavy running Passages
+</li><li> <a href="/wiki/Category:Loeschhorn,_Albert" title="Category:Loeschhorn, Albert">Loeschhorn</a>: Spring Morning, Op.84 No.40
+</li><li> <a href="/wiki/Category:Krug,_Diederich" title="Category:Krug, Diederich">Krug</a>: Waltz of the Forest Sprite, Op.121 No.23
+</li><li> <a href="/wiki/Category:Kullak,_Theodor" title="Category:Kullak, Theodor">Kullak</a>: Song with Variations
+</li></ol>
+<ul><li><dl><dt> Volume 2 Supplement
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Germer,_Heinrich" title="Category:Germer, Heinrich">Germer</a>: A study for the Fifth Finger, Op.37 No.19
+</li><li> <a href="/wiki/Category:Kruckow,_Richard" title="Category:Kruckow, Richard">Kruckow</a>: Danse a la Turque, Op.7 No.1
+</li><li> <a href="/wiki/Category:Ahrens,_Harry" title="Category:Ahrens, Harry">Ahrens</a>: Prankish Boys, Op.10 No.6
+</li><li> <a href="/wiki/Category:Luther,_Martin" title="Category:Luther, Martin">Luther</a>: Eine feste Burg
+</li><li> <a href="/wiki/Category:Haydn,_Joseph" title="Category:Haydn, Joseph">Haydn</a>: Air from Piano Sonata in D major
+</li><li> <a href="/wiki/Category:F%C3%B6rster,_Alban" title="Category:Förster, Alban">Förster</a>: The Sighing Wind, Op.96 No.8
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: Etude Polka
+</li><li> <a href="/wiki/Category:Kuhlau,_Friedrich" title="Category:Kuhlau, Friedrich">Kuhlau</a>: Melody
+</li><li> <a href="/wiki/Category:Kuhlau,_Friedrich" title="Category:Kuhlau, Friedrich">Kuhlau</a>: A pleasant Afternoon
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: On the Prairie
+</li><li> <a href="/wiki/Category:Vogel,_Moritz" title="Category:Vogel, Moritz">Vogel</a>: Study in Broken Thirds
+</li><li> <a href="/wiki/Category:Gurlitt,_Cornelius" title="Category:Gurlitt, Cornelius">Gurlitt</a>: Study in Broken Chords
+</li><li> <a href="/wiki/Category:Spindler,_Fritz" title="Category:Spindler, Fritz">Spindler</a>: Going to Church, Op.356 No.8
+</li><li> <a href="/wiki/Category:Germer,_Heinrich" title="Category:Germer, Heinrich">Germer</a>: Study in Syncopation, Op.37 No.11
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: A Study in Double Notes
+</li><li> <a href="/wiki/Category:Vogel,_Moritz" title="Category:Vogel, Moritz">Vogel</a>: Flight of the Swallows
+</li><li> <a href="/wiki/Category:Bertini,_Henri" title="Category:Bertini, Henri">Bertini</a>: Aria, Op.29 No.2
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: Etude in C major
+</li></ol>
+<ul><li><dl><dt>Volume 3
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Vogt,_Jean" title="Category:Vogt, Jean">Vogt</a>: Allegro moderato, Op.124
+</li><li> <a href="/wiki/Category:Gurlitt,_Cornelius" title="Category:Gurlitt, Cornelius">Gurlitt</a>: Con moto, Op.50 No.?
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: Graziella Waltz
+</li><li> <a href="/wiki/Category:Ascher,_Joseph" title="Category:Ascher, Joseph">Ascher</a>: Allegro vivace, Op.59
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: Allegro molto, Op.8 No.5
+</li><li> <a href="/wiki/Category:Lemoine,_Henry" title="Category:Lemoine, Henry">Lemoine</a>: Allegretto quasi Allegro, Op.37 No.48
+</li><li> <a href="/wiki/Category:Loeschhorn,_Albert" title="Category:Loeschhorn, Albert">Loeschhorn</a>: Allegretto, Op.65 No.21
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Molto Allegro
+</li><li> <a href="/wiki/Category:Stamaty,_Camille" title="Category:Stamaty, Camille">Stamaty</a>: Allegro molto leggiero
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: The happy Gold-Fishes
+</li><li> <a href="/wiki/Category:Concone,_Giuseppe" title="Category:Concone, Giuseppe">Concone</a>: Butterflies, Op.25
+</li><li> <a href="/wiki/Category:Krug,_Diederich" title="Category:Krug, Diederich">Krug</a>: Allegretto con moto, Op.75 No.7
+</li><li> <a href="/wiki/Category:Loeschhorn,_Albert" title="Category:Loeschhorn, Albert">Loeschhorn</a>: Etude
+</li><li> <a href="/wiki/Category:Biehl,_Albert" title="Category:Biehl, Albert">Biehl</a>: Etude, Op.139 No.4
+</li><li> <a href="/wiki/Category:Krug,_Diederich" title="Category:Krug, Diederich">Krug</a>: Andante con moto e legato, Op.75 No.?
+</li><li> <a href="/wiki/Category:Ehmant,_Anselm" title="Category:Ehmant, Anselm">Ehmant</a>: Study in Thirds
+</li><li> <a href="/wiki/Category:Sachs,_Melchior_Ernst" title="Category:Sachs, Melchior Ernst">Sachs</a>: The Contest of Giants, Op.3
+</li><li> <a href="/wiki/Category:Le_Couppey,_F%C3%A9lix" title="Category:Le Couppey, Félix">Le Couppey</a>: Allegro moderato, Op.26
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: A little Duet
+</li><li> <a href="/wiki/Category:Brauer,_Friedrich" title="Category:Brauer, Friedrich">Brauer</a>: Vivace, Op.15 No.9
+</li><li> Unknown: Gracefulness
+</li><li> <a href="/wiki/Category:Pescetti,_Giovanni_Battista" title="Category:Pescetti, Giovanni Battista">Pescetti</a>: Presto
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">Handel</a>: Prelude
+</li></ol>
+<ul><li><dl><dt> Volume 3 Supplement
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Bertini,_Henri" title="Category:Bertini, Henri">Bertini</a>: A Thought of Home
+</li><li> <a href="/wiki/Category:Schytte,_Ludvig" title="Category:Schytte, Ludvig">Schytte</a>: The March to Parnassus, Op.68
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Arpeggio Study, Op.636
+</li><li> <a href="/wiki/Category:Concone,_Giuseppe" title="Category:Concone, Giuseppe">Concone</a>: A Chromatic Fancy Piece, Op.30
+</li><li> <a href="/wiki/Category:Beethoven,_Ludwig_van" title="Category:Beethoven, Ludwig van">Beethoven</a>: Chord Study from Op.14 No.2
+</li><li> <a href="/wiki/Category:Weber,_Carl_Maria_von" title="Category:Weber, Carl Maria von">Weber</a>: Album Leaf
+</li><li> <a href="/wiki/Category:Massenet,_Jules" title="Category:Massenet, Jules">Massenet</a>: Longing, Op.10
+</li></ol>
+<ul><li><dl><dt>Volume 4
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Henselt,_Adolf_von" title="Category:Henselt, Adolf von">Henselt</a>: Love Song, Op.5
+</li><li> <a href="/wiki/Category:Nollet,_Eug%C3%A8ne" title="Category:Nollet, Eugène">Nollet</a>: Tempo giusto
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: Whispering Waves
+</li><li> <a href="/wiki/Category:Birkedal-Barfod,_Ludvig" title="Category:Birkedal-Barfod, Ludvig">Birkedal-Barfod</a>: Chords and Leaps for the left Hand
+</li><li> <a href="/wiki/Category:Krause,_Anton" title="Category:Krause, Anton">Krause</a>: Allegretto, Op.2 No.2
+</li><li> <a href="/wiki/Category:Heller,_Stephen" title="Category:Heller, Stephen">Heller</a>: Allegro assai, Op.46 No.?
+</li><li> <a href="/wiki/Category:Schytte,_Ludvig" title="Category:Schytte, Ludvig">Schytte</a>: Allegro vivace, Op.58 No.?
+</li><li> <a href="/wiki/Category:Janke,_Gustav" title="Category:Janke, Gustav">Janke</a>: Moderato energico, Op.11
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">Handel</a>: Air a la Bourree
+</li><li> <a href="/wiki/Category:Heller,_Stephen" title="Category:Heller, Stephen">Heller</a>: Allegretto moderato, Op.46 No.5
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: Allegro agitato, Op.8 No.11
+</li><li> Unknown: Study in Staccato Octaves
+</li><li> <a href="/wiki/Category:Mendelssohn,_Felix" title="Category:Mendelssohn, Felix">Mendelssohn</a>: Choral Octave Study, Op.35 No.1
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Little Prelude
+</li></ol>
+<ul><li><dl><dt> Volume 4 Supplement
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Kirchner,_Theodor" title="Category:Kirchner, Theodor">Kirchner</a>: On the Village Green, Op.71
+</li><li> <a href="/wiki/Category:Hause,_Carl" title="Category:Hause, Carl">Hause</a>: Staccato Etude, Op.102
+</li><li> <a href="/wiki/Category:Jensen,_Adolf" title="Category:Jensen, Adolf">Jensen</a>: Elfin Dance, Op.33 No.5
+</li><li> <a href="/wiki/Category:Ravina,_Jean_Henri" title="Category:Ravina, Jean Henri">Ravina</a>: Thistle-Down Fancies, Op.14
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Prelude
+</li></ol>
+<ul><li><dl><dt>Volume 5
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Schytte,_Ludvig" title="Category:Schytte, Ludvig">Schytte</a>: Moderato, Op.58 No.3
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: Moderato, Op.8 No.16
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: Moderato, Op.8 No.17
+</li><li> <a href="/wiki/Category:H%C3%BCnten,_Fran%C3%A7ois" title="Category:Hünten, François">Hünten</a>: Le Gracieux, Op.81 No.1
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Molto Allegro
+</li><li> <a href="/wiki/Category:Loeschhorn,_Albert" title="Category:Loeschhorn, Albert">Loeschhorn</a>: Village Festival
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: Allegro, Op.8 No.18
+</li><li> <a href="/wiki/Category:Heller,_Stephen" title="Category:Heller, Stephen">Heller</a>: Impromptu, Op.16 No.20
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Invention No.8
+</li><li> <a href="/wiki/Category:Hollaender,_Victor" title="Category:Hollaender, Victor">Hollaender</a>: Frühlingslied, Op.3 No.1
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">Handel</a>: Allemande
+</li><li> <a href="/wiki/Category:Loeschhorn,_Albert" title="Category:Loeschhorn, Albert">Loeschhorn</a>: Study in Octaves
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">Handel</a>: Allegro from 'Suite VII'
+</li><li> <a href="/wiki/Category:Zilcher,_Paul" title="Category:Zilcher, Paul">Zilcher</a>: Staccato Octaves
+</li><li> <a href="/wiki/Category:Wolff,_Bernhard" title="Category:Wolff, Bernhard">Wolff</a>: The Flute Player, Op.141
+</li><li> <a href="/wiki/Category:Mendelssohn,_Felix" title="Category:Mendelssohn, Felix">Mendelssohn</a>: Presto agitato
+</li><li> <a href="/wiki/Category:Saint-Sa%C3%ABns,_Camille" title="Category:Saint-Saëns, Camille">Saint-Saëns</a>: Tempo di Minuetto
+</li><li> <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Schumann</a>: Novelette, Op.99 No.9
+</li></ol>
+<ul><li><dl><dt>Volume 6
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Cramer,_Johann_Baptist" title="Category:Cramer, Johann Baptist">Cramer</a>: Allegro
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">Handel</a>: Corrente
+</li><li> <a href="/wiki/Category:Krause,_Anton" title="Category:Krause, Anton">Krause</a>: Allegro, Op.5 No.1
+</li><li> <a href="/wiki/Category:Haberbier,_Ernst" title="Category:Haberbier, Ernst">Haberbier</a>: Gondellied, Op.53 No.2
+</li><li> <a href="/wiki/Category:Reinhold,_Hugo" title="Category:Reinhold, Hugo">Reinhold</a>: Decision, Op.53 No.10
+</li><li> <a href="/wiki/Category:Moszkowski,_Moritz" title="Category:Moszkowski, Moritz">Moszkowski</a>: Etude, Op.18 No.3
+</li><li> <a href="/wiki/Category:Bohm,_Carl" title="Category:Bohm, Carl">Bohm</a>: Waltz Study, Op.229 No.2
+</li><li> <a href="/wiki/Category:Cramer,_Johann_Baptist" title="Category:Cramer, Johann Baptist">Cramer</a>: Allegro
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Allegro molto
+</li><li> <a href="/wiki/Category:Lemmens,_Jacques-Nicolas" title="Category:Lemmens, Jacques-Nicolas">Lemmens</a>: Fanfare
+</li><li> <a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich" title="Category:Döring, Karl Heinrich">Döring</a>: 'Midst the Breakers
+</li><li> <a href="/wiki/Category:Ravina,_Jean_Henri" title="Category:Ravina, Jean Henri">Ravina</a>: Prestissimo, Op.50 No.5
+</li><li> Unknown: Angel's Serenade
+</li><li> <a href="/wiki/Category:Bach,_Carl_Philipp_Emanuel" title="Category:Bach, Carl Philipp Emanuel">Bach</a>: Solfegietto
+</li><li> <a href="/wiki/Category:Paradies,_Pietro_Domenico" title="Category:Paradies, Pietro Domenico">Paradies</a>: Toccata
+</li><li> <a href="/wiki/Category:Clementi,_Muzio" title="Category:Clementi, Muzio">Clementi</a>: Canon from Op.40
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Invention
+</li><li> <a href="/wiki/Category:Rimsky-Korsakov,_Nikolay" title="Category:Rimsky-Korsakov, Nikolay">Rimsky-Korsakov</a>: Novelette
+</li><li> <a href="/wiki/Category:Stojowski,_Sigismond" title="Category:Stojowski, Sigismond">Stojowski</a>: Spinning Wheel
+</li><li> <a href="/wiki/Category:Larmande-Des_Argus,_Sophie_Lucile" title="Category:Larmande-Des Argus, Sophie Lucile">Larmande-Des Argus</a>: Double Note Study
+</li><li> <a href="/wiki/Category:Orth,_Albert" title="Category:Orth, Albert">Orth</a>: Allegro non troppo
+</li></ol>
+<ul><li><dl><dt>Volume 7
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Sch%C3%BCtt,_Eduard" title="Category:Schütt, Eduard">Schütt</a>: Etude Mignonne
+</li><li> <a href="/wiki/Category:Jensen,_Adolf" title="Category:Jensen, Adolf">Jensen</a>: Allegretto scherzando from Op.32
+</li><li> <a href="/wiki/Category:Czerny,_Carl" title="Category:Czerny, Carl">Czerny</a>: Octave Study
+</li><li> <a href="/wiki/Category:Haberbier,_Ernst" title="Category:Haberbier, Ernst">Haberbier</a>: The Awakening of Spring, Op.53 No.3
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Präludium in D major from 'Well-Tempered Clavichord'
+</li><li> <a href="/wiki/Category:Clementi,_Muzio" title="Category:Clementi, Muzio">Clementi</a>: Study from 'Gradus ad Parnassum'
+</li><li> <a href="/wiki/Category:Cramer,_Johann_Baptist" title="Category:Cramer, Johann Baptist">Cramer</a>: Presto
+</li><li> <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Schumann</a>: Allegro from 'Faschingsschwank aus Wien', Op.26 No.1
+</li><li> <a href="/wiki/Category:Cramer,_Johann_Baptist" title="Category:Cramer, Johann Baptist">Cramer</a>: Vivace
+</li><li> <a href="/wiki/Category:Bagge,_Selmar" title="Category:Bagge, Selmar">Bagge</a>: A Wrist Study
+</li><li> <a href="/wiki/Category:Heller,_Stephen" title="Category:Heller, Stephen">Heller</a>: Con moto &amp; Allegro vivace
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Chopin</a>: Prelude, Op.28 No.3
+</li><li> <a href="/wiki/Category:Schmoll,_Anton" title="Category:Schmoll, Anton">Schmoll</a>: Pluto's Revels, Op.123
+</li></ol>
+<ul><li><dl><dt>Volume 8
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Clementi,_Muzio" title="Category:Clementi, Muzio">Clementi</a>: 2 Studies from 'Gradus ad Parnassum'
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">Handel</a>: The Harmonious Blacksmith from 'Suite V'
+</li><li> <a href="/wiki/Category:Jadassohn,_Salomon" title="Category:Jadassohn, Salomon">Jadassohn</a>: Scherzo, Op.35 No.3, ed. <a href="/wiki/Category:Leefson,_Maurits" title="Category:Leefson, Maurits">Maurits Leefson</a>
+</li><li> <a href="/wiki/Category:Schytte,_Ludvig" title="Category:Schytte, Ludvig">Schytte</a>: The Chariot Race
+</li><li> <a href="/wiki/Category:Beringer,_Oscar" title="Category:Beringer, Oscar">Beringer</a>: Etude de Concert
+</li><li> <a href="/wiki/Category:Backer-Gr%C3%B8ndahl,_Agathe" title="Category:Backer-Grøndahl, Agathe">Backer-Grøndahl</a>: Etude de Concert, Op.11 No.3
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Chopin</a>: Prelude, Op.28 No.22
+</li><li> <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Schumann</a>: Traumeswirren from 'Fantasiestücke', Op.12 No.7
+</li><li> <a href="/wiki/Category:Henselt,_Adolf_von" title="Category:Henselt, Adolf von">Henselt</a>: Frühlingslied, Op.15, ed. <a href="/wiki/Category:Becket,_Thomas_%C3%A0" title="Category:Becket, Thomas à">Thomas à Becket</a>
+</li><li> <a href="/wiki/Category:Raff,_Joachim" title="Category:Raff, Joachim">Raff</a>: Etude Melodique, Op.130 No.2
+</li><li> <a href="/wiki/Category:Moszkowski,_Moritz" title="Category:Moszkowski, Moritz">Moszkowski</a>: Etincelles, Op.36 No.6
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Fugue in D major from 'Well-Tempered Clavichord'
+</li></ol>
+<ul><li><dl><dt>Volume 9
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Seiss,_Isidor_Wilhelm" title="Category:Seiss, Isidor Wilhelm">Seiss</a>: Bravura Study, Op.10 No.2
+</li><li> <a href="/wiki/Category:Seeling,_Hans" title="Category:Seeling, Hans">Seeling</a>: Study, Op.10 No.9
+</li><li> <a href="/wiki/Category:Leschetizky,_Theodor" title="Category:Leschetizky, Theodor">Leschetizky</a>: Les deux Alouettes, ed. <a href="/wiki/Category:Sternberg,_Constantin_von" title="Category:Sternberg, Constantin von">Constantin von Sternberg</a>
+</li><li> <a href="/wiki/Category:Clementi,_Muzio" title="Category:Clementi, Muzio">Clementi</a>: Study, ed. <a href="/wiki/Category:Tausig,_Carl" title="Category:Tausig, Carl">Carl Tausig</a>
+</li><li> <a href="/wiki/Category:Mason,_William" title="Category:Mason, William">Mason</a>: Toccata, Op.46 (Extract)
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Chopin</a>: Etude, Op.25 No.9
+</li><li> <a href="/wiki/Category:Henselt,_Adolf_von" title="Category:Henselt, Adolf von">Henselt</a>: Si oiseau j'etais, Op.2 No.6
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Fugue in cis minor from 'Well-Tempered Clavichord'
+</li><li> <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Schumann</a>: Grillen from 'Fantasiestücke', Op.12 No.4
+</li><li> <a href="/wiki/Category:Henselt,_Adolf_von" title="Category:Henselt, Adolf von">Henselt</a>: Orage, Op.5 No.1
+</li><li> <a href="/wiki/Category:Rachmaninoff,_Sergei" title="Category:Rachmaninoff, Sergei">Rachmaninoff</a>: Prelude, Op.3 No.2, ed. <a href="/wiki/Category:Leefson,_Maurits" title="Category:Leefson, Maurits">Maurits Leefson</a>
+</li><li> <a href="/wiki/Category:Godard,_Benjamin" title="Category:Godard, Benjamin">Godard</a>: En Route, Op.107 No.12
+</li></ol>
+<ul><li><dl><dt>Volume 10
+</dt></dl>
+</li></ul>
+<ol><li> <a href="/wiki/Category:Schulhoff,_Julius" title="Category:Schulhoff, Julius">Schulhoff</a>: Thrill Study, Op.13, ed. <a href="/wiki/Category:Stankowitch,_Anthony" title="Category:Stankowitch, Anthony">Anthony Stankowitch</a>
+</li><li> <a href="/wiki/Category:Liszt,_Franz" title="Category:Liszt, Franz">Liszt</a>: The Nightingale
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Chopin</a>: Etude, Op.25 No.2
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Bach</a>: Fantasie in c minor, ed. <a href="/wiki/Category:B%C3%BClow,_Hans_von" title="Category:Bülow, Hans von">Hans von Bülow</a>
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Chopin</a>: Etude, Op.10 No.5
+</li><li> <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Schumann</a>: Finale from 'Symphonic Etudes', Op.13
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Chopin</a>: Etude, Op.10 No.12
+</li><li> <a href="/wiki/Category:Liszt,_Franz" title="Category:Liszt, Franz">Liszt</a>: Waldesrauschen
+</li></ol>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Piano
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 4176/1000000
+Post-expand include size: 109105/2097152 bytes
+Template argument size: 7473/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:558200-0!*!0!!en!2!* and timestamp 20180415204330 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)&amp;oldid=1670227">http://imslp.org/index.php?title=Standard_Graded_Course_of_Studies_for_the_Pianoforte_(Mathews,_William_Smythe_Babcock)&amp;oldid=1670227</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_published_by_Theodore_Presser" title="Category:Scores published by Theodore Presser">Scores published by Theodore Presser</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Mathews,_William_Smythe_Babcock/Collections" title="Category:Mathews, William Smythe Babcock/Collections">Mathews, William Smythe Babcock/Collections</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Studies" title="Category:Studies">Studies</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_piano" title="Category:For piano">For piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Leefson,_Maurits/Editor" title="Category:Leefson, Maurits/Editor">Leefson, Maurits/Editor</a></li><li><a href="/wiki/Category:Becket,_Thomas_%C3%A0/Editor" title="Category:Becket, Thomas à/Editor">Becket, Thomas à/Editor</a></li><li><a href="/wiki/Category:Sternberg,_Constantin_von/Editor" title="Category:Sternberg, Constantin von/Editor">Sternberg, Constantin von/Editor</a></li><li><a href="/wiki/Category:Tausig,_Carl/Editor" title="Category:Tausig, Carl/Editor">Tausig, Carl/Editor</a></li><li><a href="/wiki/Category:Stankowitch,_Anthony/Editor" title="Category:Stankowitch, Anthony/Editor">Stankowitch, Anthony/Editor</a></li><li><a href="/wiki/Category:B%C3%BClow,_Hans_von/Editor" title="Category:Bülow, Hans von/Editor">Bülow, Hans von/Editor</a></li><li><a href="/wiki/Category:Schulhoff,_Julius/Collections" title="Category:Schulhoff, Julius/Collections">Schulhoff, Julius/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:Liszt,_Franz/Collections" title="Category:Liszt, Franz/Collections">Liszt, Franz/Collections</a></li><li><a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric/Collections" title="Category:Chopin, Frédéric/Collections">Chopin, Frédéric/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Sebastian/Collections" title="Category:Bach, Johann Sebastian/Collections">Bach, Johann Sebastian/Collections</a></li><li><a href="/wiki/Category:Schumann,_Robert/Collections" title="Category:Schumann, Robert/Collections">Schumann, Robert/Collections</a></li><li><a href="/wiki/Category:Seiss,_Isidor_Wilhelm/Collections" title="Category:Seiss, Isidor Wilhelm/Collections">Seiss, Isidor Wilhelm/Collections</a></li><li><a href="/wiki/Category:Seeling,_Hans/Collections" title="Category:Seeling, Hans/Collections">Seeling, Hans/Collections</a></li><li><a href="/wiki/Category:Leschetizky,_Theodor/Collections" title="Category:Leschetizky, Theodor/Collections">Leschetizky, Theodor/Collections</a></li><li><a href="/wiki/Category:Clementi,_Muzio/Collections" title="Category:Clementi, Muzio/Collections">Clementi, Muzio/Collections</a></li><li><a href="/wiki/Category:Mason,_William/Collections" title="Category:Mason, William/Collections">Mason, William/Collections</a></li><li><a href="/wiki/Category:Henselt,_Adolf_von/Collections" title="Category:Henselt, Adolf von/Collections">Henselt, Adolf von/Collections</a></li><li><a href="/wiki/Category:Rachmaninoff,_Sergei/Collections" title="Category:Rachmaninoff, Sergei/Collections">Rachmaninoff, Sergei/Collections</a></li><li><a href="/wiki/Category:Godard,_Benjamin/Collections" title="Category:Godard, Benjamin/Collections">Godard, Benjamin/Collections</a></li><li><a href="/wiki/Category:Handel,_George_Frideric/Collections" title="Category:Handel, George Frideric/Collections">Handel, George Frideric/Collections</a></li><li><a href="/wiki/Category:Jadassohn,_Salomon/Collections" title="Category:Jadassohn, Salomon/Collections">Jadassohn, Salomon/Collections</a></li><li><a href="/wiki/Category:Schytte,_Ludvig/Collections" title="Category:Schytte, Ludvig/Collections">Schytte, Ludvig/Collections</a></li><li><a href="/wiki/Category:Beringer,_Oscar/Collections" title="Category:Beringer, Oscar/Collections">Beringer, Oscar/Collections</a></li><li><a href="/wiki/Category:Backer-Gr%C3%B8ndahl,_Agathe/Collections" title="Category:Backer-Grøndahl, Agathe/Collections">Backer-Grøndahl, Agathe/Collections</a></li><li><a href="/wiki/Category:Raff,_Joachim/Collections" title="Category:Raff, Joachim/Collections">Raff, Joachim/Collections</a></li><li><a href="/wiki/Category:Moszkowski,_Moritz/Collections" title="Category:Moszkowski, Moritz/Collections">Moszkowski, Moritz/Collections</a></li><li><a href="/wiki/Category:Sch%C3%BCtt,_Eduard/Collections" title="Category:Schütt, Eduard/Collections">Schütt, Eduard/Collections</a></li><li><a href="/wiki/Category:Jensen,_Adolf/Collections" title="Category:Jensen, Adolf/Collections">Jensen, Adolf/Collections</a></li><li><a href="/wiki/Category:Czerny,_Carl/Collections" title="Category:Czerny, Carl/Collections">Czerny, Carl/Collections</a></li><li><a href="/wiki/Category:Haberbier,_Ernst/Collections" title="Category:Haberbier, Ernst/Collections">Haberbier, Ernst/Collections</a></li><li><a href="/wiki/Category:Cramer,_Johann_Baptist/Collections" title="Category:Cramer, Johann Baptist/Collections">Cramer, Johann Baptist/Collections</a></li><li><a href="/wiki/Category:Bagge,_Selmar/Collections" title="Category:Bagge, Selmar/Collections">Bagge, Selmar/Collections</a></li><li><a href="/wiki/Category:Heller,_Stephen/Collections" title="Category:Heller, Stephen/Collections">Heller, Stephen/Collections</a></li><li><a href="/wiki/Category:Schmoll,_Anton/Collections" title="Category:Schmoll, Anton/Collections">Schmoll, Anton/Collections</a></li><li><a href="/wiki/Category:Krause,_Anton/Collections" title="Category:Krause, Anton/Collections">Krause, Anton/Collections</a></li><li><a href="/wiki/Category:Reinhold,_Hugo/Collections" title="Category:Reinhold, Hugo/Collections">Reinhold, Hugo/Collections</a></li><li><a href="/wiki/Category:Bohm,_Carl/Collections" title="Category:Bohm, Carl/Collections">Bohm, Carl/Collections</a></li><li><a href="/wiki/Category:Lemmens,_Jacques-Nicolas/Collections" title="Category:Lemmens, Jacques-Nicolas/Collections">Lemmens, Jacques-Nicolas/Collections</a></li><li><a href="/wiki/Category:D%C3%B6ring,_Karl_Heinrich/Collections" title="Category:Döring, Karl Heinrich/Collections">Döring, Karl Heinrich/Collections</a></li><li><a href="/wiki/Category:Ravina,_Jean_Henri/Collections" title="Category:Ravina, Jean Henri/Collections">Ravina, Jean Henri/Collections</a></li><li><a href="/wiki/Category:Bach,_Carl_Philipp_Emanuel/Collections" title="Category:Bach, Carl Philipp Emanuel/Collections">Bach, Carl Philipp Emanuel/Collections</a></li><li><a href="/wiki/Category:Paradies,_Pietro_Domenico/Collections" title="Category:Paradies, Pietro Domenico/Collections">Paradies, Pietro Domenico/Collections</a></li><li><a href="/wiki/Category:Rimsky-Korsakov,_Nikolay/Collections" title="Category:Rimsky-Korsakov, Nikolay/Collections">Rimsky-Korsakov, Nikolay/Collections</a></li><li><a href="/wiki/Category:Stojowski,_Sigismond/Collections" title="Category:Stojowski, Sigismond/Collections">Stojowski, Sigismond/Collections</a></li><li><a href="/wiki/Category:Larmande-Des_Argus,_Sophie_Lucile/Collections" title="Category:Larmande-Des Argus, Sophie Lucile/Collections">Larmande-Des Argus, Sophie Lucile/Collections</a></li><li><a href="/wiki/Category:Orth,_Albert/Collections" title="Category:Orth, Albert/Collections">Orth, Albert/Collections</a></li><li><a href="/wiki/Category:H%C3%BCnten,_Fran%C3%A7ois/Collections" title="Category:Hünten, François/Collections">Hünten, François/Collections</a></li><li><a href="/wiki/Category:Loeschhorn,_Albert/Collections" title="Category:Loeschhorn, Albert/Collections">Loeschhorn, Albert/Collections</a></li><li><a href="/wiki/Category:Hollaender,_Victor/Collections" title="Category:Hollaender, Victor/Collections">Hollaender, Victor/Collections</a></li><li><a href="/wiki/Category:Zilcher,_Paul/Collections" title="Category:Zilcher, Paul/Collections">Zilcher, Paul/Collections</a></li><li><a href="/wiki/Category:Wolff,_Bernhard/Collections" title="Category:Wolff, Bernhard/Collections">Wolff, Bernhard/Collections</a></li><li><a href="/wiki/Category:Mendelssohn,_Felix/Collections" title="Category:Mendelssohn, Felix/Collections">Mendelssohn, Felix/Collections</a></li><li><a href="/wiki/Category:Saint-Sa%C3%ABns,_Camille/Collections" title="Category:Saint-Saëns, Camille/Collections">Saint-Saëns, Camille/Collections</a></li><li><a href="/wiki/Category:Nollet,_Eug%C3%A8ne/Collections" title="Category:Nollet, Eugène/Collections">Nollet, Eugène/Collections</a></li><li><a href="/wiki/Category:Birkedal-Barfod,_Ludvig/Collections" title="Category:Birkedal-Barfod, Ludvig/Collections">Birkedal-Barfod, Ludvig/Collections</a></li><li><a href="/wiki/Category:Janke,_Gustav/Collections" title="Category:Janke, Gustav/Collections">Janke, Gustav/Collections</a></li><li><a href="/wiki/Category:Kirchner,_Theodor/Collections" title="Category:Kirchner, Theodor/Collections">Kirchner, Theodor/Collections</a></li><li><a href="/wiki/Category:Hause,_Carl/Collections" title="Category:Hause, Carl/Collections">Hause, Carl/Collections</a></li><li><a href="/wiki/Category:Vogt,_Jean/Collections" title="Category:Vogt, Jean/Collections">Vogt, Jean/Collections</a></li><li><a href="/wiki/Category:Gurlitt,_Cornelius/Collections" title="Category:Gurlitt, Cornelius/Collections">Gurlitt, Cornelius/Collections</a></li><li><a href="/wiki/Category:Ascher,_Joseph/Collections" title="Category:Ascher, Joseph/Collections">Ascher, Joseph/Collections</a></li><li><a href="/wiki/Category:Lemoine,_Henry/Collections" title="Category:Lemoine, Henry/Collections">Lemoine, Henry/Collections</a></li><li><a href="/wiki/Category:Stamaty,_Camille/Collections" title="Category:Stamaty, Camille/Collections">Stamaty, Camille/Collections</a></li><li><a href="/wiki/Category:Concone,_Giuseppe/Collections" title="Category:Concone, Giuseppe/Collections">Concone, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Krug,_Diederich/Collections" title="Category:Krug, Diederich/Collections">Krug, Diederich/Collections</a></li><li><a href="/wiki/Category:Ehmant,_Anselm/Collections" title="Category:Ehmant, Anselm/Collections">Ehmant, Anselm/Collections</a></li><li><a href="/wiki/Category:Sachs,_Melchior_Ernst/Collections" title="Category:Sachs, Melchior Ernst/Collections">Sachs, Melchior Ernst/Collections</a></li><li><a href="/wiki/Category:Le_Couppey,_F%C3%A9lix/Collections" title="Category:Le Couppey, Félix/Collections">Le Couppey, Félix/Collections</a></li><li><a href="/wiki/Category:Brauer,_Friedrich/Collections" title="Category:Brauer, Friedrich/Collections">Brauer, Friedrich/Collections</a></li><li><a href="/wiki/Category:Pescetti,_Giovanni_Battista/Collections" title="Category:Pescetti, Giovanni Battista/Collections">Pescetti, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Beethoven,_Ludwig_van/Collections" title="Category:Beethoven, Ludwig van/Collections">Beethoven, Ludwig van/Collections</a></li><li><a href="/wiki/Category:Weber,_Carl_Maria_von/Collections" title="Category:Weber, Carl Maria von/Collections">Weber, Carl Maria von/Collections</a></li><li><a href="/wiki/Category:Massenet,_Jules/Collections" title="Category:Massenet, Jules/Collections">Massenet, Jules/Collections</a></li><li><a href="/wiki/Category:Le_Carpentier,_Adolphe_Claire/Collections" title="Category:Le Carpentier, Adolphe Claire/Collections">Le Carpentier, Adolphe Claire/Collections</a></li><li><a href="/wiki/Category:Burgm%C3%BCller,_Friedrich/Collections" title="Category:Burgmüller, Friedrich/Collections">Burgmüller, Friedrich/Collections</a></li><li><a href="/wiki/Category:Gobbaerts,_Louis/Collections" title="Category:Gobbaerts, Louis/Collections">Gobbaerts, Louis/Collections</a></li><li><a href="/wiki/Category:Bischoff,_Hans/Collections" title="Category:Bischoff, Hans/Collections">Bischoff, Hans/Collections</a></li><li><a href="/wiki/Category:Kullak,_Theodor/Collections" title="Category:Kullak, Theodor/Collections">Kullak, Theodor/Collections</a></li><li><a href="/wiki/Category:Germer,_Heinrich/Collections" title="Category:Germer, Heinrich/Collections">Germer, Heinrich/Collections</a></li><li><a href="/wiki/Category:Kruckow,_Richard/Collections" title="Category:Kruckow, Richard/Collections">Kruckow, Richard/Collections</a></li><li><a href="/wiki/Category:Ahrens,_Harry/Collections" title="Category:Ahrens, Harry/Collections">Ahrens, Harry/Collections</a></li><li><a href="/wiki/Category:Luther,_Martin/Collections" title="Category:Luther, Martin/Collections">Luther, Martin/Collections</a></li><li><a href="/wiki/Category:F%C3%B6rster,_Alban/Collections" title="Category:Förster, Alban/Collections">Förster, Alban/Collections</a></li><li><a href="/wiki/Category:Kuhlau,_Friedrich/Collections" title="Category:Kuhlau, Friedrich/Collections">Kuhlau, Friedrich/Collections</a></li><li><a href="/wiki/Category:Vogel,_Moritz/Collections" title="Category:Vogel, Moritz/Collections">Vogel, Moritz/Collections</a></li><li><a href="/wiki/Category:Spindler,_Fritz/Collections" title="Category:Spindler, Fritz/Collections">Spindler, Fritz/Collections</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Standard_Graded_Course_of_Studies_for_the_Pianoforte_%28Mathews%2C_William_Smythe_Babcock%29">16,387 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Standard%20Graded%20Course%20of%20Studies%20for%20the%20Pianoforte%20%28Mathews%2C%20William%20Smythe%20Babcock%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.385 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415204330 -->
+</html>
+		

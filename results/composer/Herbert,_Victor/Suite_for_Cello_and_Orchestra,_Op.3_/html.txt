@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Suite for Cello and Orchestra, Op.3 (Herbert, Victor) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)", "wgTitle": "Suite for Cello and Orchestra, Op.3 (Herbert, Victor)", "wgCurRevisionId": 2351648, "wgArticleId": 48398, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with First Editions", "Scores published by G.A. Zumsteeg", "Scores from the University of South Carolina", "Scores published by Carl Fischer", "Scores published by M. Witmark \x26 Sons", "Scores from the Internet Archive", "Riesenfeld, Hugo/Arranger", "Scores published by Boston Music Co.", "Saenger, Gustav/Arranger", "Sibley Mirroring Project", "Scores from the Library of Congress", "Scores", "Herbert, Victor", "Romantic style", "Romantic", "Suites", "For cello, orchestra", "Scores featuring the cello", "Scores featuring the orchestra", "For orchestra with soloists", "For cello, piano (arr)", "Scores featuring the piano", "For 2 players", "For flute, piano (arr)", "Scores featuring the flute", "For violin, piano (arr)", "Scores featuring the violin", "For piano (arr)", "For 1 player", "Pages with arrangements", "Works first published in 1884", "Works first published in the 19th century", "Pages with parts for purchase", "F major"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Suite_for_Cello_and_Orchestra_Op_3_Herbert_Victor action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)&amp;oldid=2351648" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Suite%20for%20Cello%20and%20Orchestra%2C%20Op.3%20%28Herbert%2C%20Victor%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Suite for Cello and Orchestra, Op.3 (Herbert, Victor)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>5 movements
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1882
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Suites&amp;transclude=Template:Catintro">Suites</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_cello%2C_orchestra&amp;transclude=Template:Catintro">For cello, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span>; <span class="expandline" title="11 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra_with_soloists&amp;transclude=Template:Catintro">For orchestra with soloists</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_cello%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For cello, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_flute%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For flute, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_flute&amp;transclude=Template:Catintro">Scores featuring the flute</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_violin%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For violin, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Suite for Cello and Orchestra, Op.3","composer":"Herbert, Victor","comphref":"\/wiki\/Category:Herbert,_Victor"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"suite for cello and orchestra","itunes":"suite for cello and orchestra","composer":"herbert","scorekeywords":"suite for cello and orchestra","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=3;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028943435529.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028943435529.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028943435529","desc":"GROF\u00c9, F.: Grand Canyon Suite \/ Mississippi \/ HERBERT, V.: Cello Concerto No. 2 (Miquelle, Eastman Rochester Orchestra, H. Hanson)","label":"Universal Classics","category":"Concertos - Classical Music","composer":"Herbert, Victor -- Grof\u00e9, Ferde","artist":"Eastman Rochester Orchestra, Rochester Pops Orchestra -- Miquelle, Georges","country":"United States","catid":"00028943435529","cdinfo":[[["Grof&#233;, Ferde",[["Grand Canyon Suite","mediaplayer\/player.asp?br=128&tl=2859106|2859107|2859108|2859109|2859110",["I. Sunrise","II. The Painted Desert","III. On the Trail","IV. Sunset","V. Cloudburst"]],["Mississippi, \"A Journey in Tones\"","mediaplayer\/player.asp?br=128&tl=2859111|2859112|2859113|2859114",["I. Father of Waters","II. Huckleberry Finn","III. Old Creole Days","IV. Mardi Gras"]]]],["Herbert, Victor",[["Cello Concerto No. 2 in E Minor, Op. 30","mediaplayer\/player.asp?br=128&tl=2859115|2859116|2859117",["I. Allegro impetuoso","II. Andante tranquillo","III. Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724355639158.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724355639158.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724355639158","desc":"Cello Recital: Rostropovich, Mstislav - BACH, J.S. \/ BEETHOVEN, L. van \/ DVORAK, A. \/ BRAHMS, J. \/ HAYDN, J. (Violoncello du siecle)","label":"Warner Classics - Parlophone","category":"Concertos - Classical Music","composer":"Bach, Johann Sebastian -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Shostakovich, Dmitry -- Beethoven, Ludwig van -- Dvo\u0159\u00e1k, Anton\u00edn -- Brahms, Johannes","artist":"Rostropovich, Mstislav -- Hoelscher, Ulf -- Karajan, Herbert von -- Giulini, Carlo Maria -- Rozhdestvensky, Gennady -- Berlin Philharmonic Orchestra -- Szell, George -- Richter, Sviatoslav -- London Philharmonic Orchestra -- Academy of St. Martin in the Fields Orchestra -- Cleveland Orchestra -- USSR State Symphony Orchestra -- Oistrakh, David -- Devetzi, Vasso -- Vishnevskaya, Galina","country":"Austria Czech Republic Germany Russia","catid":"0724355639158","cdinfo":[[["Bach, Johann Sebastian",[["Cello Suite No. 1 in G Major, BWV 1007","mediaplayer\/player.asp?br=128&tl=1153719|1153720|1153721|1153722|1153723|1153724|1153725",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I","VI. Menuet II","VII. Gigue"]]]],["Haydn, Franz Joseph",[["Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Finale: Allegro molto","mediaplayer\/player.asp?br=128&tl=1153726",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo","mediaplayer\/player.asp?br=128&tl=1153727",[]]]],["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102: III. Vivace ma non troppo","mediaplayer\/player.asp?br=128&tl=1153728",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Variations on a Rococo Theme in A Major, Op. 33","mediaplayer\/player.asp?br=128&tl=1153729",[]]]],["Beethoven, Ludwig van",[["Triple Concerto for Violin, Cello and Piano in C Major, Op. 56: III. Rondo alla polacca","mediaplayer\/player.asp?br=128&tl=1153730",[]]]],["Shostakovich, Dmitry",[["7 Verses, Op. 127: No. 3. We Were Together","mediaplayer\/player.asp?br=128&tl=1153731",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724355638854.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724355638854.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724355638854","desc":"Cello Recital: Rostropovich, Mstislav - BACH, J.S. \/ BEETHOVEN, L. van \/ HAYDN, J. \/ DVORAK, A. \/ SAINT-SAENS, C. \/ SCHUMANN, R. \/ BRAHMS, J.","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Prokofiev, Sergey -- Saint-Sa\u00ebns, Camille -- Villa-Lobos, Heitor -- Dutilleux, Henri -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Schumann, Robert -- Shostakovich, Dmitry -- Beethoven, Ludwig van -- Dvo\u0159\u00e1k, Anton\u00edn -- Stravinsky, Igor -- Brahms, Johannes -- Britten, Benjamin","artist":"Rostropovich, Mstislav -- Hoelscher, Ulf -- Karajan, Herbert von -- Sargent, Malcolm -- Giulini, Carlo Maria -- Rozhdestvensky, Gennady -- French National Orchestra -- Berlin Philharmonic Orchestra -- Szell, George -- Richter, Sviatoslav -- Moscow Philharmonic Orchestra -- London Philharmonic Orchestra -- Royal Philharmonic Orchestra -- Academy of St. Martin in the Fields Orchestra -- Cleveland Orchestra -- Orchestre de Paris -- Baudo, Serge -- USSR State Symphony Orchestra -- Oistrakh, David -- Dedyukhin, Alexandre -- Devetzi, Vasso -- Vishnevskaya, Galina","country":"Austria Brazil Czech Republic France Germany Russia United Kingdom","catid":"0724355638854","cdinfo":[[["Bach, Johann Sebastian",[["Cello Suite No. 1 in G Major, BWV 1007","mediaplayer\/player.asp?br=128&tl=1154107|1154108|1154109|1154110|1154111|1154112|1154113",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I -","V. Menuet II","VI. Gigue"]]]],["Beethoven, Ludwig van",[["12 Variations in F Major on Ein Madchen oder Weibchen from Mozart's Die Zauberflote, Op. 66","mediaplayer\/player.asp?br=128&tl=1154114",[]]]],["Haydn, Franz Joseph",[["Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto","mediaplayer\/player.asp?br=128&tl=1154115",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo","mediaplayer\/player.asp?br=128&tl=1154116",[]]]],["Saint-Sa&#235;ns, Camille",[["Cello Concerto No. 1 in A Minor, Op. 33: Allegro non troppo","mediaplayer\/player.asp?br=128&tl=1154117",[]]]],["Schumann, Robert",[["Cello Concerto in A Minor, Op. 129 (excerpts)","mediaplayer\/player.asp?br=128&tl=1154118|1154119",["II. Langsam - Etwas lebhafter - Schneller","III. Sehr lebhaft"]]]],["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102: III. Vivace ma non troppo","mediaplayer\/player.asp?br=128&tl=1154120",[]]]]],[["Tchaikovsky, Pyotr Il'yich",[["Variations on a Rococo Theme in A Major, Op. 33","mediaplayer\/player.asp?br=128&tl=1154121",[]]]],["Brahms, Johannes",[["Cello Sonata No. 2 in F Major, Op. 99: II. Adagio affettuoso","mediaplayer\/player.asp?br=128&tl=1154122",[]]]],["Prokofiev, Sergey",[["Symphony-Concerto in E Minor, Op. 125: III. Andante con moto","mediaplayer\/player.asp?br=128&tl=1154123",[]]]],["Britten, Benjamin",[["Cello Suite No. 1, Op. 72: VI. Moto perpetuo e Canto quarto: Presto","mediaplayer\/player.asp?br=128&tl=1154124",[]]]],["Dutilleux, Henri",[["Cello Concerto, \"Tout un monde lointain &#8230;\": V. Hymne","mediaplayer\/player.asp?br=128&tl=1154125",[]]]],["Beethoven, Ludwig van",[["Triple Concerto for Violin, Cello and Piano in C Major, Op. 56: III. Rondo alla polacca","mediaplayer\/player.asp?br=128&tl=1154126",[]]]],["Villa-Lobos, Heitor",[["Bachianas brasileiras No. 1: II. Prelude (Modinha)","mediaplayer\/player.asp?br=128&tl=1154127",[]]]],["Stravinsky, Igor",[["Mavra: Russian Maiden's Song, \"Parasha's Aria\" (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1154128",[]]]],["Shostakovich, Dmitry",[["Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto","mediaplayer\/player.asp?br=128&tl=1154129",[]]]],["Shostakovich, Dmitry",[["7 Verses, Op. 127: No. 3. We were Together","mediaplayer\/player.asp?br=128&tl=1154130",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356299658.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356299658.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356299658","desc":"Cello Recital: Rostropovich, Mstislav - BACH, J.S. \/ BEETHOVEN, L. van \/ HAYDN, J. \/ DVORAK, A. \/ SAINT-SAENS, C. \/ SCHUMANN, R. \/ BRAHMS, J.","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Prokofiev, Sergey -- Saint-Sa\u00ebns, Camille -- Villa-Lobos, Heitor -- Dutilleux, Henri -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Schumann, Robert -- Shostakovich, Dmitry -- Beethoven, Ludwig van -- Dvo\u0159\u00e1k, Anton\u00edn -- Stravinsky, Igor -- Brahms, Johannes -- Britten, Benjamin","artist":"Rostropovich, Mstislav -- Hoelscher, Ulf -- Karajan, Herbert von -- Sargent, Malcolm -- Giulini, Carlo Maria -- Rozhdestvensky, Gennady -- French National Orchestra -- Berlin Philharmonic Orchestra -- Szell, George -- Richter, Sviatoslav -- Moscow Philharmonic Orchestra -- London Philharmonic Orchestra -- Royal Philharmonic Orchestra -- Academy of St. Martin in the Fields Orchestra -- Cleveland Orchestra -- Orchestre de Paris -- Baudo, Serge -- USSR State Symphony Orchestra -- Oistrakh, David -- Dedyukhin, Alexandre -- Devetzi, Vasso -- Vishnevskaya, Galina","country":"Austria Brazil Czech Republic France Germany Russia United Kingdom","catid":"0724356299658","cdinfo":[[["Bach, Johann Sebastian",[["Cello Suite No. 1 in G Major, BWV 1007","mediaplayer\/player.asp?br=128&tl=1153222|1153223|1153224|1153225|1153226|1153227|1153228",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I -","V. Menuet II","VI. Gigue"]]]],["Beethoven, Ludwig van",[["12 Variations in F Major on Ein Madchen oder Weibchen from Mozart's Die Zauberflote, Op. 66","mediaplayer\/player.asp?br=128&tl=1153229",[]]]],["Haydn, Franz Joseph",[["Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto","mediaplayer\/player.asp?br=128&tl=1153230",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo","mediaplayer\/player.asp?br=128&tl=1153250",[]]]],["Saint-Sa&#235;ns, Camille",[["Cello Concerto No. 1 in A Minor, Op. 33: Allegro non troppo","mediaplayer\/player.asp?br=128&tl=1153251",[]]]],["Schumann, Robert",[["Cello Concerto in A Minor, Op. 129 (excerpts)","mediaplayer\/player.asp?br=128&tl=1153252|1153253",["II. Langsam - Etwas lebhafter - Schneller","III. Sehr lebhaft - (Cadenza) - Im Tempo - Schneller"]]]],["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102: III. Vivace ma non troppo","mediaplayer\/player.asp?br=128&tl=1153254",[]]]]],[["Tchaikovsky, Pyotr Il'yich",[["Variations on a Rococo Theme in A Major, Op. 33","mediaplayer\/player.asp?br=128&tl=1153255",[]]]],["Brahms, Johannes",[["Cello Sonata No. 2 in F Major, Op. 99: II. Adagio affettuoso","mediaplayer\/player.asp?br=128&tl=1153256",[]]]],["Prokofiev, Sergey",[["Symphony-Concerto in E Minor, Op. 125: III. Andante con moto","mediaplayer\/player.asp?br=128&tl=1153257",["III. Andante con moto"]]]],["Britten, Benjamin",[["Cello Suite No. 1, Op. 72: VI. Moto perpetuo e Canto quarto: Presto","mediaplayer\/player.asp?br=128&tl=1153258",[]]]],["Dutilleux, Henri",[["Cello Concerto, \"Tout un monde lointain &#8230;\": V. Hymne: Allegro","mediaplayer\/player.asp?br=128&tl=1153259",[]]]],["Beethoven, Ludwig van",[["Triple Concerto for Violin, Cello and Piano in C Major, Op. 56: III. Rondo alla polacca","mediaplayer\/player.asp?br=128&tl=1153260",[]]]],["Villa-Lobos, Heitor",[["Bachianas brasileiras No. 1: II. Prelude (Modinha)","mediaplayer\/player.asp?br=128&tl=1153261",[]]]],["Stravinsky, Igor",[["Mavra: Russian Maiden's Song, \"Parasha's Aria\" (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1153262",[]]]],["Shostakovich, Dmitry",[["Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto","mediaplayer\/player.asp?br=128&tl=1153263",[]]]],["Shostakovich, Dmitry",[["7 Verses, Op. 127: No. 3. We were Together","mediaplayer\/player.asp?br=128&tl=1153264",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947856306.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947856306.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947856306","desc":"KARAJAN, Herbert von: 101 Herbert von Karajan","label":"Decca","category":"Ballet - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Adam, Adolphe -- Tchaikovsky, Pyotr Il'yich -- Holst, Gustav -- Chopin, Fryderyk -- Gounod, Charles-Francois -- Grieg, Edvard -- Strauss I, Johann -- Strauss II, Johann -- Strauss, Josef -- Strauss, Richard -- Rosenthal, Manuel","artist":"Karajan, Herbert von -- Vienna Philharmonic Orchestra -- Berlin Philharmonic Orchestra -- Brabec, Emanuel -- Sivo, Josef","country":"Austria France Germany Norway Poland Russia United Kingdom","catid":"00028947856306","cdinfo":[[["Mozart, Wolfgang Amadeus",[["Symphony No. 40 in G Minor, K. 550","mediaplayer\/player.asp?br=128&tl=3107998|3108058|3108059|3108060",["I. Molto allegro","II. Andante","III. Menuetto: Allegretto","IV. Allegro assai"]],["Symphony No. 41 in C Major, K. 551, \"Jupiter\"","mediaplayer\/player.asp?br=128&tl=3108061|3108062|3108063|3108064",["I. Allegro vivace","II. Andante cantabile","III. Menuetto: Allegretto","IV. Molto Allegro"]]]],["Tchaikovsky, Pyotr Il'yich",[["Romeo and Juliet Fantasy Overture (3rd version, 1880)","mediaplayer\/player.asp?br=128&tl=3108065",[]]]],["Grieg, Edvard",[["Peer Gynt Suite No. 1, Op. 46","mediaplayer\/player.asp?br=128&tl=3107988|3107989|3107990|3107991",["I. Morning Mood","II. The Death of Aase","III. Anitra's Dance","IV. In the Hall of the Mountain King"]],["Peer Gynt Suite No. 2, Op. 55 (excerpts)","mediaplayer\/player.asp?br=128&tl=3107992|3107993",["I. Ingrid's Lament","IV. Solveig's Song"]]]],["Holst, Gustav",[["The Planets, Op. 32","mediaplayer\/player.asp?br=128&tl=3107981|3107982|3107983|3107984|3107985|3107986|3107987",["I. Mars, the Bringer of War","II. Venus, the Bringer of Peace","III. Mercury, the Winged Messenger","IV. Jupiter, the Bringer of Jollity","V. Saturn, the Bringer of Old Age","VI. Uranus, the Magician","VII. Neptune, the Mystic"]]]],["Strauss II, Johann",[["Die Fledermaus: Overture","mediaplayer\/player.asp?br=128&tl=3107999",[]],["Die Fledermaus, Act II: Ballet Music","mediaplayer\/player.asp?br=128&tl=3108085",[]]]],["Strauss I, Johann",[["Beliebte Annen-Polka, Op. 137","mediaplayer\/player.asp?br=128&tl=3108000",[]]]],["Strauss, Josef",[["Delirien, Op. 212","mediaplayer\/player.asp?br=128&tl=3108086",[]]]],["Strauss II, Johann",[["Der Zigeunerbaron (The Gypsy Baron): Overture","mediaplayer\/player.asp?br=128&tl=3108087",[]],["Auf der Jagd, Op. 373","mediaplayer\/player.asp?br=128&tl=3108088",[]],["Geschichten aus dem Wienerwald (Tales from the Vienna Woods), Waltz, Op. 325","mediaplayer\/player.asp?br=128&tl=3108089",[]]]],["Strauss, Richard",[["Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171","mediaplayer\/player.asp?br=128&tl=3107994",[]],["Salome, Op. 54, TrV 215: Dance of the Seven Veils","mediaplayer\/player.asp?br=128&tl=3107995",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Swan Lake Suite, Op. 20a (excerpts)","mediaplayer\/player.asp?br=128&tl=3108001|3108002|3108003|3108004|3108005|3108006",["I. Scene - Swan Theme","II. Waltz","III. Dance of the Swans","IV. Scene","V. Hungarian Dance (Czardas)","VI. Final Scene"]],["The Nutcracker Suite, Op. 71a (excerpts)","mediaplayer\/player.asp?br=128&tl=3108007|3108008|3107976|3108009|3108010|3108011|3107977|3107978",["I. Miniature Overture: Allegro giusto","II. Danses carateristiques: March","II. Danses carateristiques: Dance of the Sugar-plum Fairy","II. Danses carateristiques: Russian Dance, \"Trepak\"","II. Danses carateristiques: Arab Dance","II. Danses carateristiques: Chinese Dance","II. Danses carateristiques: Dance of the Reeds","III. Waltz of the Flowers"]],["The Sleeping Beauty Suite, Op. 66a (excerpts)","mediaplayer\/player.asp?br=128&tl=3108012|3108013|3108014|3108015|3107979",["I. Introduction - The Lilac Fairy","II. Pas d'action: Adagio","III. Characteristic Dance","IV. Panorama","V. Waltz"]]]],["Adam, Adolphe",[["Giselle","mediaplayer\/player.asp?br=128&tl=3108066|3108067|3108068|3108069|3108070|3108071|3108072|3108073|3108074|3108075|3108076|3108077|3108078|3108079|3108080|3108081|3108082|3108083|3108084",["Act I: Introduction","Act I: Entree joyeuse des vendangeurs et vendangeuses (Entry of the Grape-Pickers)","Act I: Entree du Prince","Act I: Entree de Giselle","Act I: Retour de la vendange et valse (The Grape-Pickers Return)","Act I: Pas de deux des jeunes paysans","Act I: La chasse (The Hunt)","Act I: Marche des vignerons (Grape-Pickers' March)","Act I: Variation de Giselle","Act I: Galop general","Act I: Finale du 1er Acte et Scene de folie (Finale of Act 1 and Mad Scene)","Act II: Apparition de Myrthe et evocation magique (Myrthe Appears - Magical Evocation)","Act II: Apparition de Giselle (Apparition of Giselle)","Act II: Entree du Prince et apparition de Giselle (The Prince Enters, Sees the Spectre of Giselle)","Act II: Entree d'Hilarion scene et fugue des Wilis","Act II: Grand pas de deux: Andante","Act II: Grand pas de deux: Variation de Loys","Act II: Grand pas de deux: Variation de Giselle","Act II: Finale"]]]],["Rosenthal, Manuel",[["Gaite Parisienne (after J. Offenbach)","mediaplayer\/player.asp?br=128&tl=3108035|3108036|3108037|3108038|3108039|3108040|3108041|3108042|3108043|3108044|3108045|3108046|3108047|3108048|3108049|3108050|3108051",["Overture (La vie parisienne)","Allegro brillante (Mesdames de la Halle)","Polka (La Voyage dans la lune)","Landler","Valse lente","Tempo di marcia","Valse","Allegro vivo","Valse","Allegro vivace - Misterioso","Valse","Allegro vivo","Cancan","Polka","&#8212;","Vivo","Barcarolle (Les Contes d'Hoffmann)"]]]],["Gounod, Charles-Fran&#231;ois",[["Faust","mediaplayer\/player.asp?br=128&tl=3108028|3108029|3108030|3108031|3108032|3108033|3108034",["I. Les Nubiennes","II. Adagio","III. Danse Antique","IV. Variations de Cleopatre","V. Les Troyens","VI. Variations du Miroir","VII. Danse de Phryne"]]]],["Chopin, Fryderyk",[["Prelude in A Major, Op. 28, No. 7 (arr. for orchestra)","mediaplayer\/player.asp?br=128&tl=3107980",[]]]],["Chopin, Fryderyk",[["Nocturne No. 10 in A-Flat Major, Op. 32, No. 2 (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108017",[]],["Waltz No. 11 in G-Flat Major, Op. 70, No. 1 (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108052",[]],["Mazurka No. 23 in D Major, Op. 33, No. 2 (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108053",[]],["Mazurka No. 44 in C Major, Op. 67, No. 3 (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108054",[]],["Prelude in A Major, Op. 28, No. 7 (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108055",[]],["Waltz No. 7 in C-Sharp Minor, Op. 64, No. 2 (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108016",[]],["Waltz No. 1 in E-Flat Major, Op. 18, \"Grande valse brillante\" (arr. R. Douglas for orchestra) [Les Sylphides]","mediaplayer\/player.asp?br=128&tl=3108056",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099909477551.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099909477551.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099909477551","desc":"ROSTROPOVICH, Mstislav: Very Best of (The)","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Popper, David -- Prokofiev, Sergey -- Rachmaninov, Sergey -- Saint-Sa\u00ebns, Camille -- Gubaidulina, Sofia -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Schumann, Robert -- Shostakovich, Dmitry -- Beethoven, Ludwig van -- Dvo\u0159\u00e1k, Anton\u00edn -- Strauss, Richard -- Brahms, Johannes -- Britten, Benjamin -- Debussy, Claude","artist":"Rostropovich, Mstislav -- Karajan, Herbert von -- Sargent, Malcolm -- Numajiri, Ryusuke -- Giulini, Carlo Maria -- Brown, Iona -- Rozhdestvensky, Gennady -- Berlin Philharmonic Orchestra -- Alley, John -- Szell, George -- Richter, Sviatoslav -- Moscow Philharmonic Orchestra -- London Philharmonic Orchestra -- Royal Philharmonic Orchestra -- Academy of St. Martin in the Fields Orchestra -- Cleveland Orchestra -- Koch, Ulrich -- Zybtsev, A. L. -- USSR State Symphony Orchestra -- Oistrakh, David -- Carrington, Simon -- Dedyukhin, Alexandre -- Devetzi, Vasso -- Percy, Neil","country":"Austria Czech Republic France Germany Russia United Kingdom","catid":"5099909477551","cdinfo":[[["Bach, Johann Sebastian",[["Cello Suite No. 1 in G Major, BWV 1007","mediaplayer\/player.asp?br=128&tl=1154489|1154490|1154491|1154492|1154493|1154494|1154495",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I -","V. Menuet II","VI. Gigue"]]]],["Haydn, Franz Joseph",[["Cello Concerto No. 1 in C Major, Hob.VIIb:1: I. Moderato (cadenza by B. Britten)","mediaplayer\/player.asp?br=128&tl=1154496",[]],["Cello Concerto No. 2 in D Major, Hob.VIIb:2: III. Rondo: Allegro (cadenza by M. Rostropovich)","mediaplayer\/player.asp?br=128&tl=1154497",[]]]],["Beethoven, Ludwig van",[["12 Variations in F Major on Ein Madchen oder Weibchen from Mozart's Die Zauberflote, Op. 66","mediaplayer\/player.asp?br=128&tl=1154498",[]]]],["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102: III. Vivace ma non troppo","mediaplayer\/player.asp?br=128&tl=1154499",[]],["Cello Sonata No. 2 in F Major, Op. 99: IV. Allegro molto","mediaplayer\/player.asp?br=128&tl=1154500",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Cello Concerto in B Minor, Op. 104, B. 191: I. Allegro","mediaplayer\/player.asp?br=128&tl=1154501",[]]]],["Schumann, Robert",[["Cello Concerto in A Minor, Op. 129: III. Sehr lebhaft - Im Tempo - Schneller","mediaplayer\/player.asp?br=128&tl=1154502",[]]]]],[["Tchaikovsky, Pyotr Il'yich",[["Variations on a Rococo Theme in A Major, Op. 33: Variation 1: Tempo della Thema","mediaplayer\/player.asp?br=128&tl=1154503",[]]]],["Saint-Sa&#235;ns, Camille",[["Cello Concerto No. 1 in A Minor, Op. 33: Allegro non troppo","mediaplayer\/player.asp?br=128&tl=1154504",[]]]],["Rachmaninov, Sergey",[["14 Songs, Op. 34: No. 14. Vocalise in E Minor (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1157860",[]]]],["Strauss, Richard",[["Don Quixote, Op. 35, TrV 184 (excerpts)","mediaplayer\/player.asp?br=128&tl=1154506",[]]]],["Britten, Benjamin",[["Symphony for Cello and Orchestra, Op. 68: IV. Passacaglia: Andante allegro","mediaplayer\/player.asp?br=128&tl=1154507",[]]]],["Shostakovich, Dmitry",[["Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto","mediaplayer\/player.asp?br=128&tl=1154508",[]],["Cello Sonata in D Minor, Op. 40: IV. Allegro","mediaplayer\/player.asp?br=128&tl=1154509",[]]]],["Gubaidulina, Sofia",[["Sonnengesang (The Canticle of the Sun by St. Francis of Assisi)","mediaplayer\/player.asp?br=128&tl=1154510",[]]]],["Prokofiev, Sergey",[["The Love for Three Oranges Suite, Op. 33bis: III. March (arr. M. Rostropovich)","mediaplayer\/player.asp?br=128&tl=1154511",[]]]],["Debussy, Claude",[["Suite bergamasque: III. Clair de lune (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1154512",[]]]],["Popper, David",[["Elfentanz, Op. 39","mediaplayer\/player.asp?br=128&tl=1154513",[]]]],["Prokofiev, Sergey",[["Cinderella, Op. 87, Act II: Waltz-Coda (arr. M. Rostropovich)","mediaplayer\/player.asp?br=128&tl=1154514",[]]]],["Prokofiev, Sergey",[["Symphony-Concerto in E Minor, Op. 125: II. Allegro giusto","mediaplayer\/player.asp?br=128&tl=1154515",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0094638714958.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0094638714958.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0094638714958","desc":"ALBUM DU 80EME ANNIVERSAIRE - Mstislav Rostropovich","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Popper, David -- Prokofiev, Sergey -- Saint-Sa\u00ebns, Camille -- Villa-Lobos, Heitor -- Dutilleux, Henri -- Tchaikovsky, Pyotr Il'yich -- Haydn, Franz Joseph -- Schumann, Robert -- Scriabin, Alexander -- Shostakovich, Dmitry -- Beethoven, Ludwig van -- Dvo\u0159\u00e1k, Anton\u00edn -- Strauss, Richard -- Stravinsky, Igor -- Bloch, Ernest -- Brahms, Johannes -- Britten, Benjamin -- Debussy, Claude","artist":"Perlman, Itzhak -- Rostropovich, Mstislav -- Hoelscher, Ulf -- Karajan, Herbert von -- Sargent, Malcolm -- Giulini, Carlo Maria -- Rozhdestvensky, Gennady -- Haitink, Bernard -- French National Orchestra -- Royal Concertgebouw Orchestra -- Berlin Philharmonic Orchestra -- Szell, George -- Richter, Sviatoslav -- Moscow Philharmonic Orchestra -- London Philharmonic Orchestra -- Royal Philharmonic Orchestra -- Academy of St. Martin in the Fields Orchestra -- Cleveland Orchestra -- Orchestre de Paris -- Baudo, Serge -- USSR State Symphony Orchestra -- Oistrakh, David -- Dedyukhin, Alexandre -- Devetzi, Vasso -- Vishnevskaya, Galina","country":"Austria Brazil Czech Republic France Germany Russia Switzerland United Kingdom","catid":"0094638714958","cdinfo":[[["Bach, Johann Sebastian",[["Cello Suite No. 1 in G Major, BWV 1007","mediaplayer\/player.asp?br=128&tl=1155542|1155543|1155544|1155545|1155546|1155547|1155548",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I","VI. Menuet II","VII. Gigue"]]]],["Beethoven, Ludwig van",[["12 Variations in F Major on Ein Madchen oder Weibchen from Mozart's Die Zauberflote, Op. 66","mediaplayer\/player.asp?br=128&tl=1155549",[]]]],["Haydn, Franz Joseph",[["Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto","mediaplayer\/player.asp?br=128&tl=1155550",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo","mediaplayer\/player.asp?br=128&tl=1155551",[]]]],["Saint-Sa&#235;ns, Camille",[["Cello Concerto No. 1 in A Minor, Op. 33: Allegro non troppo -","mediaplayer\/player.asp?br=128&tl=1155552",[]]]],["Schumann, Robert",[["Cello Concerto in A Minor, Op. 129 (excerpts)","mediaplayer\/player.asp?br=128&tl=1155553|1155554",["II. Langsam","III. Sehr lebhaft"]]]],["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102: III. Vivace ma non troppo","mediaplayer\/player.asp?br=128&tl=1155555",[]]]]],[["Tchaikovsky, Pyotr Il'yich",[["Variations on a Rococo Theme in A Major, Op. 33","mediaplayer\/player.asp?br=128&tl=1155556",[]]]],["Brahms, Johannes",[["Cello Sonata No. 2 in F Major, Op. 99: II. Adagio affettuoso","mediaplayer\/player.asp?br=128&tl=1155557",[]]]],["Prokofiev, Sergey",[["Symphony-Concerto in E Minor, Op. 125: III. Andante con moto","mediaplayer\/player.asp?br=128&tl=1155558",[]]]],["Britten, Benjamin",[["Cello Suite No. 1, Op. 72: VI. Moto perpetuo e Canto quarto: Presto","mediaplayer\/player.asp?br=128&tl=1155559",[]]]],["Dutilleux, Henri",[["Cello Concerto, \"Tout un monde lointain &#8230;\": V. Hymne","mediaplayer\/player.asp?br=128&tl=1155560",[]]]],["Beethoven, Ludwig van",[["Triple Concerto for Violin, Cello and Piano in C Major, Op. 56: III. Rondo alla polacca","mediaplayer\/player.asp?br=128&tl=1155561",[]]]],["Villa-Lobos, Heitor",[["Bachianas brasileiras No. 1: II. Prelude (Modinha)","mediaplayer\/player.asp?br=128&tl=1155562",[]]]],["Stravinsky, Igor",[["Mavra: Russian Maiden's Song, \"Parasha's Aria\" (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1155563",[]]]],["Shostakovich, Dmitry",[["Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto","mediaplayer\/player.asp?br=128&tl=1155564",[]]]],["Shostakovich, Dmitry",[["7 Verses, Op. 127: No. 3. We Were Together","mediaplayer\/player.asp?br=128&tl=1155565",[]]]]],[["Bloch, Ernest",[["Schelomo","mediaplayer\/player.asp?br=128&tl=1155566",[]]]],["Tchaikovsky, Pyotr Il'yich",[["6 Romances, Op. 16: No. 1. Kolibel'naya pesnya (Cradle Song)","mediaplayer\/player.asp?br=128&tl=1155567",[]]]],["Strauss, Richard",[["Cello Sonata in F Major, Op. 6, TrV 115: II. Andante ma non troppo","mediaplayer\/player.asp?br=128&tl=1155568",[]]]],["Popper, David",[["Im Walde, Op. 50: II. Gnomentanz (Gnomes Dance) (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1155569",[]]]],["Debussy, Claude",[["Preludes, Book 1: No. 12. Minstrels (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1155570",[]],["Suite bergamasque: III. Clair de lune (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1155571",[]]]],["Scriabin, Alexander",[["12 Etudes, Op. 8: No. 11. in B-Flat Minor (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=1155572",[]]]],["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102: I. Allegro","mediaplayer\/player.asp?br=128&tl=1155573",[]]]],["Strauss, Richard",[["Don Quixote, Op. 35, TrV 184: Finale: Don Quixotes Tod","mediaplayer\/player.asp?br=128&tl=1155574",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DACOCD770.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DACOCD770.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDACOCD770","desc":"Cello Recital: Bengtsson, Erling Bl\u00f6ndal - DELIUS, F. \/ BRITTEN, B. \/ LUTOS\u0141AWSKI, W.","label":"Danacord","category":"Concertos - Classical Music","composer":"Lutos\u0142awski, Witold -- Britten, Benjamin -- Delius, Frederick","artist":"Bengtsson, Erling Blondal -- Kamu, Okko -- Blomstedt, Herbert -- Copenhagen Philharmonic Orchestra -- Davies, Meredith -- Danish Radio Symphony Orchestra","country":"Poland United Kingdom","catid":"DACOCD770","cdinfo":[[["Delius, Frederick",[["Cello Concerto","mediaplayer\/player.asp?br=128&tl=2878120",[]]]],["Britten, Benjamin",[["Symphony for Cello and Orchestra, Op. 68","mediaplayer\/player.asp?br=128&tl=2878121|2878122|2878123|2878124",["I. Allegro maestoso","II. Presto inquieto","III. Adagio - Cadenza","IV. Passacaglia: Andante allegro"]]]]],[["Lutos&#322;awski, Witold",[["Cello Concerto","mediaplayer\/player.asp?br=128&tl=2878226",[]]]],["Britten, Benjamin",[["Cello Suite No. 2, Op. 80","mediaplayer\/player.asp?br=128&tl=2878227|2878228|2878229|2878230|2878231",["I. Declamato: Largo","II. Fuga: Andante","III. Scherzo: Allegro molto","IV. Andante lento","V. Ciaccona: Allegro"]],["Cello Suite No. 3, Op. 87","mediaplayer\/player.asp?br=128&tl=2878232|2878233|2878234|2878235|2878236|2878237|2878238|2878239|2878240",["I. Introduzione: Lento","II. Marcia: Allegro","III. Canto: Con moto","IV. Barcarola: Lento","V. Dialogo: Allegretto","VI. Fuga: Andante espressivo","VII. Recitativo: Fantastico","VIII. Moto perpetuo: Presto","IX. Passacaglia: Lento solenne"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=886445405033.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=886445405033.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D886445405033","desc":"Cello Recital: Yo-Yo Ma - BACH, J.S. \/ BOCCHERINI, L. \/ SCHUBERT, F. \/ BEETHOVEN, L. van \/ BRAHMS, J. \/ DVO\u0158\u00c1K, A. (The Classical Cello Collection)","label":"Sony Classical","category":"Chamber Music - Classical Music","composer":"Albert, Stephen -- Bach, Johann Sebastian -- Prokofiev, Sergey -- Saint-Sa\u00ebns, Camille -- Schoenberg, Arnold -- Schubert, Franz -- Lalo, \u00c9douard -- Walton, William -- Tchaikovsky, Pyotr Il'yich -- Herbert, Victor -- Massenet, Jules -- Barber, Samuel -- Bart\u00f3k, B\u00e9la -- Beethoven, Ludwig van -- Dvo\u0159\u00e1k, Anton\u00edn -- Elgar, Edward -- Faur\u00e9, Gabriel -- Strauss, Richard -- Bloch, Ernest -- Boccherini, Luigi -- Brahms, Johannes -- Britten, Benjamin -- Franck, C\u00e9sar","artist":"Ax, Emanuel -- Bonney, Barbara -- Laredo, Jaime -- Stott, Kathryn -- Previn, Andr\u00e9 -- Frank, Pamela -- Abbado, Claudio -- Masur, Kurt -- Maazel, Lorin -- Zinman, David -- Koopman, Ton -- Ozawa, Seiji -- French National Orchestra -- Chicago Symphony Orchestra -- London Symphony Orchestra -- New York Philharmonic Orchestra -- Baltimore Symphony Orchestra -- Pittsburgh Symphony Orchestra -- Amsterdam Baroque Orchestra -- Boston Symphony Orchestra -- Stern, Isaac -- Meyer, Edgar -- Ma, Yo-Yo -- Young, Rebecca","country":"Austria Czech Republic France Germany Hungary Italy Netherlands Russia Switzerland United Kingdom United States","catid":"886445405033","cdinfo":[[["Bach, Johann Sebastian",[["Cello Suite No. 1 in G Major, BWV 1007","mediaplayer\/player.asp?br=128&tl=2525065|2525066|2525067|2525068|2525069|2525070",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I-II","VI. Gigue"]],["Cello Suite No. 2 in D Minor, BWV 1008","mediaplayer\/player.asp?br=128&tl=2525071|2525072|2525073|2525074|2525075|2525076",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Menuet I-II","VI. Gigue"]],["Cello Suite No. 3 in C Major, BWV 1009","mediaplayer\/player.asp?br=128&tl=2525077|2525078|2525079|2525100|2525099|2525098",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Bourree I-II","VI. Gigue"]],["Cello Suite No. 4 in E-Flat Major, BWV 1010","mediaplayer\/player.asp?br=128&tl=2525097|2525096|2525095",["I. Prelude","II. Allemande","III. Courante"]]]]],[["Bach, Johann Sebastian",[["Cello Suite No. 4 in E-Flat Major, BWV 1010","mediaplayer\/player.asp?br=128&tl=2525094|2525093|2525092",["IV. Sarabande","V. Bourree I-II","VI. Gigue"]],["Cello Suite No. 5 in C Minor, BWV 1011","mediaplayer\/player.asp?br=128&tl=2525091|2525090|2525089|2525088|2525087|2525086",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Gavotte I-II","VI. Gigue"]],["Cello Suite No. 6 in D Major, BWV 1012","mediaplayer\/player.asp?br=128&tl=2525085|2525084|2525083|2525082|2525081|2525080",["I. Prelude","II. Allemande","III. Courante","IV. Sarabande","V. Gavotte I-II","VI. Gigue"]]]]],[["Bach, Johann Sebastian",[["Ihr Menschen, ruhmet Gottes Liebe, BWV 167: Chorale: Sei Lob und Preis mit Ehren (arr. T. Koopman for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715384",[]],["St. Matthew Passion, BWV 244, Part II: Aria: Erbarme dich, mein Gott (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715385",[]],["Herz und Mund und Tat und Leben, BWV 147: Jesu Joy of Man's Desiring (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715386",[]],["Jesus nahm zu sich die Zwolfe, BWV 22: Ertot uns durch dein Gute (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715387",[]],["Das Orgelbuchlein, BWV 599-644: Ich ruf' zu dir, Herr Jesu Christ, BWV 639 (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715388",[]],["Kommst du nun, Jesu, von Himmel herunter, BWV 650 (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715389",[]],["Nur jedem das Seine, BWV 163: Aria: Lass mein Herz die Munze sein (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715390",[]],["Erforsche mich, Gott, und erfahre mein Herz, BWV 136: Chorale: Dein Blut, der edle Saft (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715391",[]],["Overture (Suite) No. 3 in D Major, BWV 1068: II. Air, \"Air on a G String\" (arr. T. Koopman  for cello and orchestra)","mediaplayer\/player.asp?br=128&tl=2715392",[]]]],["Boccherini, Luigi",[["Cello Concerto in G Major, G. 480 (cadenza by T. Koopman)","mediaplayer\/player.asp?br=128&tl=2715393|2715394|2715395",["I. Allegro","II. Adagio","III. Allegro"]],["Cello Concerto in D Major, G. 478 (cadenza by T. Koopman)","mediaplayer\/player.asp?br=128&tl=2715396|2715397|2715398|2715399",["I. Allegro con spirito","II. Larghetto","III. Rondo","IV. Rondo: Comodo assai"]]]]],[["Schubert, Franz",[["Piano Quintet in A Major, Op. 114, D. 667, \"Die Forelle\" (The Trout)","mediaplayer\/player.asp?br=128&tl=2715432|2715433|2715434|2715435|2715436",["I. Allegro vivace","II. Andante","III. Scherzo","IV. Tema con variazioni","V. Finale: Allegro giusto"]],["Arpeggione Sonata in A Minor, D. 821","mediaplayer\/player.asp?br=128&tl=2715437|2715438|2715439",["I. Allegro moderato","II. Adagio","III. Allegretto"]]]],["Schubert, Franz",[["Die Forelle, D. 550","mediaplayer\/player.asp?br=128&tl=2715440",[]]]]],[["Beethoven, Ludwig van",[["Cello Sonata No. 4 in C Major, Op. 102, No. 1","mediaplayer\/player.asp?br=128&tl=2717831|2717832",["I. Andante - Allegro vivace","II. Adagio: Tempo d'andante - Allegro vivace"]],["Variations in E-Flat Major on Bei Mannern, welche Liebe fuhlen from Mozart's Die Zauberflote, WoO 46","mediaplayer\/player.asp?br=128&tl=2717833",[]],["12 Variations in G Major on See the conqu'ring hero comes from Handel's Judas Maccabaeus, WoO 45","mediaplayer\/player.asp?br=128&tl=2717834",[]],["12 Variations in F Major on Ein Madchen oder Weibchen from Mozart's Die Zauberflote, Op. 66","mediaplayer\/player.asp?br=128&tl=2717835",[]]]]],[["Brahms, Johannes",[["Double Concerto for Violin and Cello in A Minor, Op. 102","mediaplayer\/player.asp?br=128&tl=2717855|2717856|2717857",["I. Allegro","II. Andante","III. Vivace ma non troppo"]],["Piano Quartet No. 3 in C Minor, Op. 60","mediaplayer\/player.asp?br=128&tl=2717858|2717859|2717860|2717861",["I. Allegro ma non troppo","II. Scherzo: Allegro","III. Andante","IV. Allegro comodo"]]]]],[["Brahms, Johannes",[["Cello Sonata No. 1 in E Minor, Op. 38","mediaplayer\/player.asp?br=128&tl=2717862|2717863|2717864",["I. Allegro non troppo","II. Allegretto quasi menuetto","III. Allegro"]],["Cello Sonata No. 2 in F Major, Op. 99","mediaplayer\/player.asp?br=128&tl=2717865|2717866|2717867|2717868",["I. Allegro vivace","II. Adagio affettuoso","III. Allegro passionato","IV. Allegro molto"]]]],["Brahms, Johannes",[["Violin Sonata No. 3 in D Minor, Op. 108 (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=2717869|2717870|2717871|2717872",["I. Allegro","II. Adagio","III. Un poco presto e con sentimento","IV. Presto agitato"]]]]],[["Dvo&#345;&#225;k, Anton&#237;n",[["Cello Concerto in B Minor, Op. 104, B. 191","mediaplayer\/player.asp?br=128&tl=2722660|2722661|2722662",["I. Allegro","II. Adagio ma non troppo","III. Finale: Allegro moderato"]]]],["Herbert, Victor",[["Cello Concerto No. 2 in E Minor, Op. 30","mediaplayer\/player.asp?br=128&tl=2722663|2722664|2722665",["I. Allegro impetuoso","II. Andante tranquillo","III. Allegro"]]]]],[["Saint-Sa&#235;ns, Camille",[["Cello Concerto No. 1 in A Minor, Op. 33","mediaplayer\/player.asp?br=128&tl=2722666",[]]]],["Lalo, &#201;douard",[["Cello Concerto in D Minor","mediaplayer\/player.asp?br=128&tl=2722667|2722668|2722669",["I. Prelude: Lento - Allegro maestoso","II. Intermezzo: Andantino con moto - Allegro presto","III. Introduction: Andante - Allegro vivace"]]]]],[["Massenet, Jules",[["Thais, Act II: Meditation (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=2722670",[]]]],["Faur&#233;, Gabriel",[["Violin Sonata No. 1 in A Major, Op. 13 (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=2722671|2722672|2722673|2722674",["I. Allegro molto","II. Andante","III. Allegro vivo","IV. Allegro quasi presto"]]]],["Saint-Sa&#235;ns, Camille",[["Havanaise, Op. 83 (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=2722675",[]]]],["Franck, C&#233;sar",[["Violin Sonata in A Major, M. 8 (arr. for cello and piano)","mediaplayer\/player.asp?br=128&tl=2722676|2722677|2722678|2722679",["I. Allegretto ben moderato","II. Allegro","III. Recitativo - Fantasia: Ben moderato","IV. Allegretto poco mosso"]]]]],[["Strauss, Richard",[["Don Quixote, Op. 35, TrV 184","mediaplayer\/player.asp?br=128&tl=2722680",[]]]],["Schoenberg, Arnold",[["Cello Concerto in G Minor (after G.M. Monn)","mediaplayer\/player.asp?br=128&tl=2722681|2722682|2722683",["I. Allegro moderato","II. Andante, alla marcia","III. Tempo di minuetto"]]]]],[["Elgar, Edward",[["Cello Concerto in E Minor, Op. 85","mediaplayer\/player.asp?br=128&tl=2724766|2724767|2724768",["I. Adagio - Moderato - II. Lento - Allegro molto","III. Adagio","IV. Allegro - Moderato - Allegro ma non troppo"]]]],["Walton, William",[["Cello Concerto","mediaplayer\/player.asp?br=128&tl=2724769|2724770|2724771",["I. Moderato","II. Allegro appassionato","III. Lento - Allegro molto"]]]]],[["Prokofiev, Sergey",[["Symphony-Concerto in E Minor, Op. 125","mediaplayer\/player.asp?br=128&tl=2724772|2724773|2724774",["I. Andante","II. Allegro giusto","III. Andante con moto"]]]],["Tchaikovsky, Pyotr Il'yich",[["Variations on a Rococo Theme in A Major, Op. 33","mediaplayer\/player.asp?br=128&tl=2724775|2724776|2724777|2724778|2724779|2724780|2724781|2724782",["Theme: Moderato quasi andante","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7"]],["Andante Cantabile (From String Quartet No. 1, Op. 11)","mediaplayer\/player.asp?br=128&tl=2724783",[]]]]],[["Barber, Samuel",[["Cello Concerto, Op. 22","mediaplayer\/player.asp?br=128&tl=2724788|2724789|2724790",["I. Allegro moderato","II. Andante sostenuto","III. Molto allegro e appassionato"]]]],["Britten, Benjamin",[["Symphony for Cello and Orchestra, Op. 68","mediaplayer\/player.asp?br=128&tl=2724791|2724792|2724793|2724794",["I. Allegro maestoso","II. Presto inquieto","III. Adagio -","IV. Passacaglia: Andante allegro"]]]]],[["Albert, Stephen",[["Cello Concerto","mediaplayer\/player.asp?br=128&tl=2724795|2724796|2724797|2724798",["I. Audacemente ma sostenuto","II. Con brio - Instante","III. Larghetto","IV. Con moto - Con imminenzo inquiento"]]]],["Bart&#243;k, B&#233;la",[["Viola Concerto, BB 128 (completed by Tibor Serly, 1949)","mediaplayer\/player.asp?br=128&tl=2724799|2724800|2724801",["I. Moderato","II. Adagio religioso","III. Allegro vivace"]]]],["Bloch, Ernest",[["Schelomo","mediaplayer\/player.asp?br=128&tl=2724802",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947903109.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947903109.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947903109","desc":"KARAJAN, Herbert von: Karajan 1960s, Vol. 2","label":"Deutsche Grammophon","category":"Choral - Sacred - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Mussorgsky, Modest Petrovich -- Ravel, Maurice -- Schubert, Franz -- Handel, George Frideric -- Sibelius, Jean -- Bart\u00f3k, B\u00e9la -- Beethoven, Ludwig van -- Berlioz, Hector -- Strauss, Richard -- Brahms, Johannes -- Bruckner, Anton","artist":"Meyer, Wolfgang -- Stempnik, Gerhard -- Karajan, Herbert von -- Vienna Philharmonic Orchestra -- Berlin Philharmonic Orchestra -- Spierer, Leon -- Schwalbe, Michel -- W\u00e4chter, Eberhard -- Janowitz, Gundula -- Koch, Lothar -- Picht-Axenfeld, Edith -- Civil, Alan -- Ferras, Christian -- Cappone, Giusto -- Scherbaum, Adolf -- Westphal, Hanns-Joachim -- Borwitzky, Ottomar -- Fischer, Friedrich -- Hopkins, Shirley -- Steins, Karl -- Zoeller, Karlheinz -- Rutters, Matthias -- Goebel, Horst","country":"Austria Finland France Germany Hungary Russia","catid":"00028947903109","cdinfo":[[["Brahms, Johannes",[["Symphony No. 3 in F Major, Op. 90","mediaplayer\/player.asp?br=128&tl=3163957|3163958|3163959|3163960",["I. Allegro con brio - Un poco sostenuto","II. Andante","III. Poco allegretto","IV. Allegro - Un poco sostenuto"]],["Variations on a Theme by Haydn, Op. 56a, \"St. Anthony Variations\"","mediaplayer\/player.asp?br=128&tl=3163873|3163874|3163875|3163876|3163877|3163878|3163879|3163880|3163881|3163882",["Theme: Chorale St. Antoni: Andante","Variation 1: Andante con moto","Variation 2: Vivace","Variation 3: Con moto","Variation 4: Andante","Variation 5: Poco presto","Variation 6: Vivace","Variation 7: Grazioso","Variation 8: Poco presto","Finale: Andante"]],["Symphony No. 4 in E Minor, Op. 98","mediaplayer\/player.asp?br=128&tl=3163869|3163870|3163871|3163872",["I. Allegro non troppo","II. Andante moderato","III. Allegro giocoso - Poco meno presto","IV. Allegro energico e passionato - Pi&#249; allegro"]],["Violin Concerto in D Major, Op. 77","mediaplayer\/player.asp?br=128&tl=3164037|3164038|3164039",["I. Allegro non troppo","II. Adagio","III. Allegro giocoso, ma non troppo vivace"]]]],["Brahms, Johannes",[["Ein deutsches Requiem (A German Requiem), Op. 45","mediaplayer\/player.asp?br=128&tl=3163949|3163950|3163951|3163952|3163953|3163954|3163955",["I. Selig sind, die da Leid tragen","II. Denn alles Fleisch es ist wie Gras","III. Herr, lehre doch mich","IV. Wie lieblich sind deine Wohnungen","V. Ihr habt nun Traurigkeit","VI. Denn wir haben hie keine bleibende Statt","VII. Selig sind die Toten"]]]],["Sibelius, Jean",[["Violin Concerto in D Minor, Op. 47","mediaplayer\/player.asp?br=128&tl=3163975|3163976|3163977",["I. Allegro moderato","II. Adagio di molto","III. Allegro ma non tanto"]],["Finlandia, Op. 26","mediaplayer\/player.asp?br=128&tl=3163978",[]]]],["Berlioz, Hector",[["Symphonie fantastique, Op. 14","mediaplayer\/player.asp?br=128&tl=3163944|3163945|3163946|3163947|3163948",["I. Passions (Allegro agitato e appassionato assai)","II. Un Bal (Valse): Allegro non troppo","III. Scene aux Champs: Adagio","IV. Marche au Supplice: Allegretto non troppo","V. Songe d'une Nuit du Sabbat: Larghetto - Allegro"]]]],["Sibelius, Jean",[["Symphony No. 5 in E-Flat Major, Op. 82","mediaplayer\/player.asp?br=128&tl=3163988|3163989|3163990|3163991",["I. Tempo molto moderato","II.  Allegro moderato - Presto","II. Andante mosso, quasi allegretto","III. Allegro molto"]],["Tapiola, Op. 112","mediaplayer\/player.asp?br=128&tl=3163974",[]],["Symphony No. 4 in A Minor, Op. 63","mediaplayer\/player.asp?br=128&tl=3163940|3163941|3163942|3163943",["I. Tempo molto moderato, quasi adagio","II. Allegro molto vivace","III. Il tempo largo","IV. Allegro"]],["Lemminkainen Suite, Op. 22: II. The Swan of Tuonela","mediaplayer\/player.asp?br=128&tl=3163987",[]]]],["Bach, Johann Sebastian",[["Brandenburg Concerto No. 1 in F Major, BWV 1046","mediaplayer\/player.asp?br=128&tl=3163891|3163892|3163893|3163894",["I. Allegro","II. Adagio","III. Allegro","IV. Menuet - Trio - Polonaise"]],["Brandenburg Concerto No. 2 in F Major, BWV 1047","mediaplayer\/player.asp?br=128&tl=3163908|3163909|3163910",["I. (Allegro)","II. Andante","III. Allegro assai"]],["Brandenburg Concerto No. 3 in G Major, BWV 1048","mediaplayer\/player.asp?br=128&tl=3163895|3163896|3163897",["I. (Allegro)","II. Adagio","III. Allegro"]],["Brandenburg Concerto No. 4 in G Major, BWV 1049","mediaplayer\/player.asp?br=128&tl=3163898|3163899|3163900",["I. Allegro","II. Andante","III. Presto"]]]],["Bach, Johann Sebastian",[["Brandenburg Concerto No. 5 in D Major, BWV 1050 (arr. J. Loussier for flute, violin, harpsichord and orchestra)","mediaplayer\/player.asp?br=128&tl=3163919|3163920|3163921",["I. Allegro","II. Affettuoso","III. Allegro"]]]],["Bach, Johann Sebastian",[["Brandenburg Concerto No. 6 in B-Flat Major, BWV 1051","mediaplayer\/player.asp?br=128&tl=3163911|3163912|3163913",["I. &#8212;","II. Adagio ma non tanto","III. Allegro"]],["Overture (Suite) No. 2 in B Minor, BWV 1067","mediaplayer\/player.asp?br=128&tl=3163901|3163902|3163903|3163904|3163905|3163906|3163907",["I. Overture","II. Rondeau","III. Sarabande","IV. Bourree I-II","V. Polonaise","VI. Menuet","VII. Badinerie"]],["Overture (Suite) No. 3 in D Major, BWV 1068","mediaplayer\/player.asp?br=128&tl=3163914|3163915|3163916|3163917|3163918",["I. Overture","II. Air, \"Air on a G String\"","III. Gavotte I-II","IV. Bourree","V. Gigue"]]]],["Schubert, Franz",[["Symphony No. 8 in B Minor, D. 759, \"Unfinished\"","mediaplayer\/player.asp?br=128&tl=3163867|3163868",["I. Allegro moderato","II. Andante con moto"]]]],["Beethoven, Ludwig van",[["Fidelio, Op. 72: Overture","mediaplayer\/player.asp?br=128&tl=3163939",[]],["Leonore Overture No. 3, Op. 72b","mediaplayer\/player.asp?br=128&tl=3163938",[]],["Overture to Collin's Coriolan, Op. 62, \"Coriolan Overture\"","mediaplayer\/player.asp?br=128&tl=3163937",[]]]],["Mozart, Wolfgang Amadeus",[["Symphony No. 29 in A Major, K. 201","mediaplayer\/player.asp?br=128&tl=3163992|3163993|3163994|3163995",["I. Allegro moderato","II. Andante","III. Menuetto","IV. Allegro con spirito"]],["Symphony No. 33 in B-Flat Major, K. 319","mediaplayer\/player.asp?br=128&tl=3163979|3163980|3163981|3163982",["I. Allegro assai","II. Andante moderato","III. Menuetto","IV. Finale"]]]],["Bart&#243;k, B&#233;la",[["Concerto for Orchestra, BB 123","mediaplayer\/player.asp?br=128&tl=3163886|3163887|3163888|3163889|3163890",["I. Introduzione: Andante non troppo - Allegro vivace","II. Giuoco delle coppie: Allegretto scherzando","III. Elegia: Andante non troppo","IV. Intermezzo interrotto: Allegretto","V. Finale: Presto"]]]],["Mozart, Wolfgang Amadeus",[["Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\"","mediaplayer\/player.asp?br=128&tl=3163983|3163984|3163985|3163986",["I. Allegro","II. Romanze","III. Menuetto","IV. Rondo: Allegro"]],["Divertimento No. 15 in B-Flat Major, K. 287","mediaplayer\/player.asp?br=128&tl=3164002|3164003|3164004|3164005|3164006|3164007",["I. Allegro","II. Andante grazioso con variazioni","III. Menuetto","IV. Adagio","V. Menuetto","VI. Andante - Allegro molto"]],["Divertimento No. 17 in D Major, K. 334","mediaplayer\/player.asp?br=128&tl=3164014|3164015|3164016|3164017|3164018|3164019",["I. Allegro","II. Theme with variations: Andante","III. Menuetto","IV. Adagio","V. Menuetto","VI. Rondo: Allegro"]]]],["Strauss, Richard",[["Don Quixote, Op. 35, TrV 184","mediaplayer\/player.asp?br=128&tl=3163961|3163962|3163963|3163964|3163965|3163966|3163967|3163968|3163969|3163970|3163971|3163972|3163973",["Introduction","Don Quixote, der Ritter von der traurigen Gestalt","Variation 1: Das Abenteur mit den Windmuhlen -","Variation 2: Der Kampf gegen die Hammelherde -","Variation 3: Gesprache zwischen Ritter und Knappe -","Variation 4: Das Abenteur mit der Prozession von Bussern -","Variation 5: Don Quixotes Wacht in der Sommernacht -","Variation 6: Die verzauberte Dulzinea -","Variation 7: Der Ritt durch die Luft -","Variation 8: Die Fahrt auf dem verzauberten Nachen [Barcarolle] -","Variation 9: Der Kampf gegen die vermeintlichen Zauberer: der Angriff auf die Monche -","Variation 10: Zweikampf mit dem Ritter vom blanken Monde; Heimkehr des geschlagenen Don Quixote -","Finale: Don Quixotes Tod"]]]],["Mussorgsky, Modest Petrovich",[["Pictures at an Exhibition (arr. M. Ravel for orchestra)","mediaplayer\/player.asp?br=128&tl=3163922|3163923|3163924|3163925|3163926|3163927|3163928|3163929|3163930|3163931|3163932|3163933|3163934|3163935|3163936",["Promenade","I. The Gnome","Promenade","II. The Old Castle","Promenade","III. Tuileries","IV. Bydlo","Promenade","V. Ballet of the Unhatched Chicks","VI. Samuel Goldenberg and Schmuyle","VII. The Market Place at Limoges","VIII. Catacombae: Sepulchrum romanum","Cum mortuis in lingua mortua","IX. The Hut on Fowl's Legs (Baba-Yaga)","X. The Great Gate of Kiev"]]]],["Ravel, Maurice",[["Bolero","mediaplayer\/player.asp?br=128&tl=3163956",[]]]],["Bruckner, Anton",[["Symphony No. 9 in D Minor, WAB 109","mediaplayer\/player.asp?br=128&tl=3163883|3163884|3163885",["I. Feierlich, misterioso","II. Scherzo: Bewegt, lebhaft","III. Adagio: Langsam feierlich"]]]],["Handel, George Frideric",[["Concerto Grosso in D Major, Op. 6, No. 5, HWV 323","mediaplayer\/player.asp?br=128&tl=3164020|3164021|3164022|3164023|3164024|3164025",["I. [Larghetto e staccato]","II. Allegro","III. Presto","IV. Largo","V. Allegro","VI. Menuet: Un poco larghetto"]],["Concerto Grosso in B Minor, Op. 6, No. 12, HWV 330","mediaplayer\/player.asp?br=128&tl=3164032|3164033|3164034|3164035|3164036",["I. Largo","II. Allegro","III. Aria: Larghetto e piano","IV. Largo","V. Allegro"]],["Concerto Grosso in D Minor, Op. 6, No. 10, HWV 328","mediaplayer\/player.asp?br=128&tl=3164026|3164027|3164028|3164029|3164030|3164031",["I. Overture","II. Allegro","III. Air: Lento","IV. Allegro","V. Allegro","VI. Allegro moderato"]]]],["Mozart, Wolfgang Amadeus",[["Divertimento No. 11 in D Major, K. 251","mediaplayer\/player.asp?br=128&tl=3164008|3164009|3164010|3164011|3164012|3164013",["I. Allegro molto","II. Menuetto","III. Andantino","IV. Menuetto: Theme and variations","V. Rondo: Allegro assai","VI. Marcia alla francese"]],["Divertimento No. 10 in F Major, K. 247, \"Lodron Night Music No. 1\"","mediaplayer\/player.asp?br=128&tl=3163996|3163997|3163998|3163999|3164000|3164001",["I. Allegro","II. Andante grazioso","III. Menuetto","IV. Adagio","V. Menuetto","VI. Andante - Allegro assai"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/herbert%20suite%20for%20cello%20and%20orchestra"};IMSLPNaxosSearch="herbert suite for cello and orchestra";JGaskdonation=0;JGFileTools={"62348":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62348"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62348"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62348"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62348"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362348"}},"62349":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62349"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62349"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62349"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62349"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362349"}},"62350":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62350"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62350"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62350"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62350"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362350"}},"62351":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62351"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62351"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62351"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62351"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362351"}},"62352":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62352"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62352"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62352"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62352"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362352"}},"62353":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62353"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62353"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62353"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62353"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362353"}},"62354":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62354"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62354"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62354"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62354"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362354"}},"62355":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62355"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62355"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62355"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62355"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362355"}},"62356":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62356"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62356"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62356"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62356"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362356"}},"62357":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62357"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62357"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62357"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62357"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362357"}},"62358":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62358"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62358"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62358"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62358"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362358"}},"62359":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP62359"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/62359"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/62359"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/62359"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2362359"}},"60978":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=60978"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP60978"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=60978","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/60978"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/60978"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/60978"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2360978"}},"20834":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=20834"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP20834"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=20834","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/20834"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/20834"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2320834"}},"96417":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=96417"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/96417\/96416\/6640"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP96417"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=96417","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/96417"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/96417"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2396417"}},"96416":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=96416"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/96417\/96416\/6640"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP96416"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=96416","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/96416"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/96416"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/96416"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2396416"}},"357044":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=357044"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP357044"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=357044","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/357044"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/357044"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/357044"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%23357044"}},"75218":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=75218"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP75218"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=75218","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/75218"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/75218"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Suite+for+Cello+and+Orchestra%2C+Op.3+%28Herbert%2C+Victor%29&frmTitle=IMSLP+%2375218"}}};JGFileOpts={"62348":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgSb\/c01RefXwRilQTLqzGkqjCiApi3h6HD56KYH8dIq3bDi0kMnPJoqdXCWEQ6HHJSwt4R6RmLsWNOBLVuTuVM"},"62349":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjeqeAbfSKE9uRPhSi3fstuyNtMokAydVG0K8jA2FfpQ8ANMIDYY5ibOLzYaftHCE4y+qJ6i76kSQJEY+VRxMYn"},"62350":[],"62351":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj6s4B8RldgnuMCZb4unnc+uQUW5wj9ISYnagFCObUHUpl9kaXp\/tXUQtxosQD44IIUuzAFa2wEINIAx9yk0wyO"},"62352":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhLAM+k1Pyk5bSKhVaSqpq\/pFqu9F8vvMB9l0Kd6cVszBCLTx5HcEaf06829xYtsx8gq86FoG\/xlBbM0V6NPS\/x"},"62353":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bijc54Mvuctg\/6oIvz4q5IErs2utzQLzZSpX2L3teFspqrhEUFrQXRXXEpf3TUs3i2XK+\/eNPr9UDOfsxGs9Dbo"},"62354":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgeSKqztG9xu1PJxttiHDX5T78FbelzueFHqPxzlGtLO0BTu7I6oasXlIK9xjlrk\/1DqtZq9HmU1ZKuhzSbKAE+"},"62355":[],"62356":[],"62357":[],"62358":[],"62359":[],"60978":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biaYHyrUXkB3NrL0exPnqF9e5QvBo0e+poQYCmE1B74wYjwljUaPDbgWBjHE799BpatWsxgGiQai56VWJII+fUYuLhI8UGvtu3hnVN1YIxDvfRBtN95Dot9apDUpMPeVfY="},"20834":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjo2+VDLfalq3Dt2WhWko95+V3pqZajF31Gl1h2M6yyafzgtKJlJPbmyFkaZg91ve9X7h4L0XH6XojrtGbEUSnaytyVjDqMECbH\/Fjvz7aSWXHOqYQ9Q48uEyQWY7pUoEo="},"96417":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjSPLbuYDNFUbV9rnnpzj3Uw8hAP\/9iZXwomJmqJMjDGpduiAFO5LwmBGT6dSPAfqe11TNVHv7HKMHcCR8oJzumbZ2r6wGNS1roZ9b1jOFAxg=="},"96416":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6Ir0KO3r8dRFjIT93wgzXW722PRZMUi3\/4MNgQEyPJf07nAbF2C+OVmMMDlVX8Q\/NDVM+RYERd8wz3jsa5ILRTZIzDqNgpsKHjJO+D1fmx4JO47MSeqNm9JuNDCAJMEQ="},"357044":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgDCGz5\/sWROx0Y0gfkTejFdNmH2Y2C5vpPuXjdqtPLD9mrF+bJAY+88mgXHaXvWRR4o\/5vNGylZ2A5Wm1io\/lNAWyDREmxNzIMIS9I95e\/iA=="},"75218":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjqr+Sh57mQTWAxtjBMGr985LFg2QUp2fN4LCW6L7U0RB\/B7w8\/XQoyqJz49OIQCevwecc2UHuCHpL8BzU9tFda42q5D7HpbimCNpqIKNIjSg=="}};JGPageUntagged=false;JGPageTags=["suites","vc orch"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore3":true,"tabScore1":false,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":1}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"20834":[6,"3"],"62348":[0,0],"62349":[0,0],"62350":[0,0],"62351":[0,0],"62352":[0,0],"62353":[0,0],"62354":[0,0],"62355":[0,0],"62356":[0,0],"62357":[0,0],"62358":[0,0],"62359":[0,0],"60978":[0,0],"96417":[0,0],"96416":[0,0],"357044":[0,0],"75218":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.1</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Serenade_.28No.4.29"><span class="tocnumber">2.2.1</span> <span class="toctext">Serenade (No.4)</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Cello_and_Piano"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For Cello and Piano</span></a></li>
+<li class="toclevel-4"><a href="#For_Flute_and_Piano_.28Riesenfeld.29"><span class="tocnumber">2.2.1.2</span> <span class="toctext">For Flute and Piano (Riesenfeld)</span></a></li>
+<li class="toclevel-4"><a href="#For_Violin_and_Piano_.28Saenger.29"><span class="tocnumber">2.2.1.3</span> <span class="toctext">For Violin and Piano (Saenger)</span></a></li>
+<li class="toclevel-4"><a href="#For_Piano_solo_.28Herbert.29"><span class="tocnumber">2.2.1.4</span> <span class="toctext">For Piano solo (Herbert)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Scores (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore1_tab"><b><a href="#tabScore1">Parts (<span id="tabScore1_ct">12</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">6</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Scores" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP62348" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62348"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f9/PMLP48398-Herbert-Op03-01.Fl.pdf" class="internal" title="PMLP48398-Herbert-Op03-01.Fl.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-01.Fl.pdf" title="File:PMLP48398-Herbert-Op03-01.Fl.pdf">#62348</a> - 9.26MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62348' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62348'>
+	<a href='javascript:void(0)' id='62348' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62348' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62348' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62348' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62348' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62348'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62348/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62348/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 275"><a href="/wiki/Special:GetFCtrStats/@62348" title="Special:GetFCtrStats/@62348">275</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>11 more</u>:</b> Oboe 1, 2 • Clarinet 1, 2 (B&#x266d;, A) • Bassoon 1, 2 • Horn 1, 2 (F, D) • Timpani • Percussion (Triangle and Tambourine) • Violins I • Violins II • Violas • Cellos • Basses
+</p>
+</div><div id="IMSLP62349" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62349"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5e/PMLP48398-Herbert-Op03-02.Ob.pdf" class="internal" title="PMLP48398-Herbert-Op03-02.Ob.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-02.Ob.pdf" title="File:PMLP48398-Herbert-Op03-02.Ob.pdf">#62349</a> - 7.70MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62349' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62349'>
+	<a href='javascript:void(0)' id='62349' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62349' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62349' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62349' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62349' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62349'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62349/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62349/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 138"><a href="/wiki/Special:GetFCtrStats/@62349" title="Special:GetFCtrStats/@62349">138</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62350" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62350"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1, 2 (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>, A)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP48398-Herbert-Op03-03.Cl.pdf" class="internal" title="PMLP48398-Herbert-Op03-03.Cl.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-03.Cl.pdf" title="File:PMLP48398-Herbert-Op03-03.Cl.pdf">#62350</a> - 10.59MB, 8 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62350' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62350'>
+	<a href='javascript:void(0)' id='62350' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62350' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62350' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62350' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62350' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62350'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62350/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62350/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 154"><a href="/wiki/Special:GetFCtrStats/@62350" title="Special:GetFCtrStats/@62350">154</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62351" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62351"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dc/PMLP48398-Herbert-Op03-04.Bn.pdf" class="internal" title="PMLP48398-Herbert-Op03-04.Bn.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-04.Bn.pdf" title="File:PMLP48398-Herbert-Op03-04.Bn.pdf">#62351</a> - 8.38MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62351' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62351'>
+	<a href='javascript:void(0)' id='62351' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62351' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62351' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62351' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62351' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62351'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62351/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62351/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 168"><a href="/wiki/Special:GetFCtrStats/@62351" title="Special:GetFCtrStats/@62351">168</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62352" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62352"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1, 2 (F, D)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/63/PMLP48398-Herbert-Op03-05.Hn.pdf" class="internal" title="PMLP48398-Herbert-Op03-05.Hn.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-05.Hn.pdf" title="File:PMLP48398-Herbert-Op03-05.Hn.pdf">#62352</a> - 6.51MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62352' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62352'>
+	<a href='javascript:void(0)' id='62352' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62352' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62352' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62352' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62352' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62352'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62352/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62352/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 134"><a href="/wiki/Special:GetFCtrStats/@62352" title="Special:GetFCtrStats/@62352">134</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62353" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62353"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e9/PMLP48398-Herbert-Op03-06.Timp.pdf" class="internal" title="PMLP48398-Herbert-Op03-06.Timp.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-06.Timp.pdf" title="File:PMLP48398-Herbert-Op03-06.Timp.pdf">#62353</a> - 3.82MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62353' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62353'>
+	<a href='javascript:void(0)' id='62353' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62353' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62353' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62353' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62353' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62353'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62353/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62353/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 149"><a href="/wiki/Special:GetFCtrStats/@62353" title="Special:GetFCtrStats/@62353">149</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62354" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62354"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Percussion (Triangle and Tambourine)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9a/PMLP48398-Herbert-Op03-07.Perc.pdf" class="internal" title="PMLP48398-Herbert-Op03-07.Perc.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-07.Perc.pdf" title="File:PMLP48398-Herbert-Op03-07.Perc.pdf">#62354</a> - 7.76MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62354' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62354'>
+	<a href='javascript:void(0)' id='62354' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62354' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62354' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62354' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62354' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62354'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62354/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62354/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 189"><a href="/wiki/Special:GetFCtrStats/@62354" title="Special:GetFCtrStats/@62354">189</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62355" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62355"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/59/PMLP48398-Herbert-Op03-08.Vn1.pdf" class="internal" title="PMLP48398-Herbert-Op03-08.Vn1.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-08.Vn1.pdf" title="File:PMLP48398-Herbert-Op03-08.Vn1.pdf">#62355</a> - 15.14MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62355' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62355'>
+	<a href='javascript:void(0)' id='62355' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62355' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62355' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62355' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62355' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62355'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62355/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62355/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 268"><a href="/wiki/Special:GetFCtrStats/@62355" title="Special:GetFCtrStats/@62355">268</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62356" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62356"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c6/PMLP48398-Herbert-Op03-09.Vn2.pdf" class="internal" title="PMLP48398-Herbert-Op03-09.Vn2.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-09.Vn2.pdf" title="File:PMLP48398-Herbert-Op03-09.Vn2.pdf">#62356</a> - 14.95MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62356' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62356'>
+	<a href='javascript:void(0)' id='62356' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62356' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62356' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62356' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62356' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62356'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62356/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62356/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 139"><a href="/wiki/Special:GetFCtrStats/@62356" title="Special:GetFCtrStats/@62356">139</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62357" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62357"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/91/PMLP48398-Herbert-Op03-10.Va.pdf" class="internal" title="PMLP48398-Herbert-Op03-10.Va.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-10.Va.pdf" title="File:PMLP48398-Herbert-Op03-10.Va.pdf">#62357</a> - 14.70MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62357' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62357'>
+	<a href='javascript:void(0)' id='62357' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62357' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62357' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62357' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62357' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62357'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62357/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62357/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 190"><a href="/wiki/Special:GetFCtrStats/@62357" title="Special:GetFCtrStats/@62357">190</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62358" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62358"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/70/PMLP48398-Herbert-Op03-11.Vc.pdf" class="internal" title="PMLP48398-Herbert-Op03-11.Vc.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-11.Vc.pdf" title="File:PMLP48398-Herbert-Op03-11.Vc.pdf">#62358</a> - 14.67MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62358' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62358'>
+	<a href='javascript:void(0)' id='62358' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62358' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62358' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62358' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62358' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62358'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62358/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62358/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 380"><a href="/wiki/Special:GetFCtrStats/@62358" title="Special:GetFCtrStats/@62358">380</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP62359" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/62359"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/91/PMLP48398-Herbert-Op03-12.Cb.pdf" class="internal" title="PMLP48398-Herbert-Op03-12.Cb.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert-Op03-12.Cb.pdf" title="File:PMLP48398-Herbert-Op03-12.Cb.pdf">#62359</a> - 11.98MB, 9 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-62359' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-62359'>
+	<a href='javascript:void(0)' id='62359' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='62359' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='62359' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='62359' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='62359' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-62359'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/62359/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/62359/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 159"><a href="/wiki/Special:GetFCtrStats/@62359" title="Special:GetFCtrStats/@62359">159</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by US-CLp<br />
+<a href="/wiki/User:Ottaviano" title="User:Ottaviano">Ottaviano</a> (<span title="Updated: 2010/4/23" class="hovertext">2010/4/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Stuttgart: <a href="/wiki/G.A._Zumsteeg" title="G.A. Zumsteeg">G.A. Zumsteeg</a><!--ASL0-->, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001884&amp;teil=0203&amp;seite=00000049&amp;zoom=1">[1884]</a></span>.  Plate G.A.Z. 427.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=62348/62349/62350/62351/62352/62353/62354/62355/62356/62357/62358/62359">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=62348/62349/62350/62351/62352/62353/62354/62355/62356/62357/62358/62359">del</a>/<span id="fmrglnk" data-pdfstr="62348//62349//62350//62351//62352//62353//62354//62355//62356//62357//62358//62359/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Color scans
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="62348">Javascript is required for this feature.</div><script>JGINITsearchbars['62348']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=62348|62349|62350|62351|62352|62353|62354|62355|62356|62357|62358|62359&type=Flute%201%2C%202%7COboe%201%2C%202%7CClarinet%201%2C%202%20%28B%26%23x266d%3B%2C%20A%29%7CBassoon%201%2C%202%7CHorn%201%2C%202%20%28F%2C%20D%29%7CTimpani%7CPercussion%20%28Triangle%20and%20Tambourine%29%7CViolins%20I%7CViolins%20II%7CViolas%7CCellos%7CBasses&pgcount=7|6|8|6|5|3|3|11|11|11|11|9&signature=df385a588e2451c02df3eb72456ee4da370c17f7"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP48398-Herbert-Op03-01.Fl.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f9/2842363b0eebbf65502789cbcfad65b5f60f5a7d.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Serenade_.28No.4.29">Serenade (No.4)</span></h4>
+<h5> <span class="mw-headline" id="For_Cello_and_Piano">For Cello and Piano</span></h5>
+<div class="we"><div id="IMSLP60978" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/60978"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score and Cello Parts (alternate with bass and treble clefs)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e7/PMLP48398-Herbert_-_Serenade_from_Op3_for_cello_and_piano.pdf" class="internal" title="PMLP48398-Herbert - Serenade from Op3 for cello and piano.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert_-_Serenade_from_Op3_for_cello_and_piano.pdf" title="File:PMLP48398-Herbert - Serenade from Op3 for cello and piano.pdf">#60978</a> - 3.31MB, 9 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-60978' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-60978'>
+	<a href='javascript:void(0)' id='60978' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='60978' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='60978' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='60978' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='60978' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-60978'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/60978/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/60978/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 618"><a href="/wiki/Special:GetFCtrStats/@60978" title="Special:GetFCtrStats/@60978">618</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://sheetmusic.library.sc.edu/Music.asp?mid=3428"><span style="border-bottom:1px dotted black" title="University of South Carolina">US-COS</span></a></span><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (<span title="Updated: 2010/4/7" class="hovertext">2010/4/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/Carl_Fischer" title="Carl Fischer">Carl Fischer</a><!--ASL1-->, 1903, 1912.  Plate 7471-9 A. &amp; B.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=60978">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=60978">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="60978">Javascript is required for this feature.</div><script>JGINITsearchbars['60978']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=60978&type=Piano%20Score%20and%20Cello%20Parts%20%28alternate%20with%20bass%20and%20treble%20clefs%29&pgcount=9&signature=5e6a7dacdf2e562e806d7ac3755c9370a40edaf5"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP48398-Herbert_-_Serenade_from_Op3_for_cello_and_piano.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/e7/f4cabce1eae005d1260461c342234ed03fbc28bd.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP20834" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/20834"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score and Cello part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f8/PMLP48398-Herbert_-_Serenade_Op.3_for_cello_and_piano.pdf" class="internal" title="PMLP48398-Herbert - Serenade Op.3 for cello and piano.pdf">*</a></span><a href="/wiki/File:PMLP48398-Herbert_-_Serenade_Op.3_for_cello_and_piano.pdf" title="File:PMLP48398-Herbert - Serenade Op.3 for cello and piano.pdf">#20834</a> - 0.52MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-20834' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-20834'>
+	<a href='javascript:void(0)' id='20834' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='20834' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='20834' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='20834' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='20834' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-20834'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/20834/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/20834/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1122"><a href="/wiki/Special:GetFCtrStats/@20834" title="Special:GetFCtrStats/@20834">1122</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Generoso<br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (2008/8/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/M._Witmark_%26_Sons" title="M. Witmark &amp; Sons">M. Witmark &amp; Sons</a><!--ASL2-->, 1913.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=20834">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=20834">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="20834">Javascript is required for this feature.</div><script>JGINITsearchbars['20834']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=20834&type=Piano%20Score%20and%20Cello%20part&pgcount=6&signature=ccf2d022b493e9f866b9e4818b8ea6a53cc7e2d0"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:M._Witmark_%26_Sons_-_The_Artistic_Cellist.jpg" class="image"><img data-src="/images/thumb/5/52/M._Witmark_%26_Sons_-_The_Artistic_Cellist.jpg/120px-M._Witmark_%26_Sons_-_The_Artistic_Cellist.jpg" width="120" height="164" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Flute_and_Piano_.28Riesenfeld.29">For Flute and Piano (Riesenfeld)</span></h5>
+<div class="we"><div id="IMSLP96417" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/96417"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score and Flute Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/98/PMLP48398-VHerbert_Serenade_from_Op.3_Flute_Piano.pdf" class="internal" title="PMLP48398-VHerbert Serenade from Op.3 Flute Piano.pdf">*</a></span><a href="/wiki/File:PMLP48398-VHerbert_Serenade_from_Op.3_Flute_Piano.pdf" title="File:PMLP48398-VHerbert Serenade from Op.3 Flute Piano.pdf">#96417</a> - 0.38MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-96417' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-96417'>
+	<a href='javascript:void(0)' id='96417' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='96417' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='96417' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='96417' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='96417' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-96417'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/96417/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/96417/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 290"><a href="/wiki/Special:GetFCtrStats/@96417" title="Special:GetFCtrStats/@96417">290</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/serenadelaserena00herb#page/n5#page/NYPL/mode/2up"><span style="border-bottom:1px dotted black" title="MSN">MSN</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2011/3/18" class="hovertext">2011/3/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP96416" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/96416"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cover and Catalog Pages (color)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8a/PMLP48398-VHerbert_Serenade_from_Op.3_Flute_Piano_Cvr_Cat.pdf" class="internal" title="PMLP48398-VHerbert Serenade from Op.3 Flute Piano Cvr Cat.pdf">*</a></span><a href="/wiki/File:PMLP48398-VHerbert_Serenade_from_Op.3_Flute_Piano_Cvr_Cat.pdf" title="File:PMLP48398-VHerbert Serenade from Op.3 Flute Piano Cvr Cat.pdf">#96416</a> - 1.19MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-96416' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-96416'>
+	<a href='javascript:void(0)' id='96416' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='96416' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='96416' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='96416' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='96416' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-96416'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/96416/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/96416/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 104"><a href="/wiki/Special:GetFCtrStats/@96416" title="Special:GetFCtrStats/@96416">104</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/serenadelaserena00herb#page/n5#page/NYPL/mode/2up"><span style="border-bottom:1px dotted black" title="MSN">MSN</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2011/3/18" class="hovertext">2011/3/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Riesenfeld,_Hugo" title="Category:Riesenfeld, Hugo">Hugo Riesenfeld</a> (1879-1939) as Hugo Ries
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Boston: <a href="/wiki/Boston_Music_Co." title="Boston Music Co.">Boston Music Co.</a><!--ASL3-->, 1911.  Plate B.M.Co. 2559.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=96417/96416">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=96417/96416">del</a>/<span id="fmrglnk" data-pdfstr="96417//96416/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Original scans: 300dpi, color jpg2000 files with approximately 2300 by 3200 usable pixels. Converted to black and white, cleaned up, deskewed, and re-sampled to 600dpi.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="96417">Javascript is required for this feature.</div><script>JGINITsearchbars['96417']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=96417|96416&type=Piano%20Score%20and%20Flute%20Part%7CCover%20and%20Catalog%20Pages%20%28color%29&pgcount=4|2&signature=987cd0a8f395e4ba1e18e57fecc0de194db3e95a"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-VHerbert_Serenade_from_Op.3_Flute_Piano.jpg" class="image"><img data-src="/images/thumb/f/fa/TN-VHerbert_Serenade_from_Op.3_Flute_Piano.jpg/120px-TN-VHerbert_Serenade_from_Op.3_Flute_Piano.jpg" width="120" height="161" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Violin_and_Piano_.28Saenger.29">For Violin and Piano (Saenger)</span></h5>
+<div class="we"><div id="IMSLP357044" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/357044"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score and Violin Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/72/PMLP48398-Mod_Class_piano_Vol_2_Herb_sere.pdf" class="internal" title="PMLP48398-Mod Class piano Vol 2 Herb sere.pdf">*</a></span><a href="/wiki/File:PMLP48398-Mod_Class_piano_Vol_2_Herb_sere.pdf" title="File:PMLP48398-Mod Class piano Vol 2 Herb sere.pdf">#357044</a> - 4.17MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-357044' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-357044'>
+	<a href='javascript:void(0)' id='357044' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='357044' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='357044' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='357044' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='357044' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-357044'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/357044/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/357044/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 64"><a href="/wiki/Special:GetFCtrStats/@357044" title="Special:GetFCtrStats/@357044">64</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Schalltrichter" title="User:Schalltrichter">Schalltrichter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/7461"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Schalltrichter" title="User:Schalltrichter">Schalltrichter</a> (<span title="Updated: 2014/12/20" class="hovertext">2014/12/19</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Saenger,_Gustav" title="Category:Saenger, Gustav">Gustav Saenger</a> (1865-1935)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/Carl_Fischer" title="Carl Fischer">Carl Fischer</a><!--ASL4-->, 1903.  Plate 7471.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td><i><a href="/wiki/Modern_Classics_for_the_Violinist_(Berton,_Roland_de)" title="Modern Classics for the Violinist (Berton, Roland de)">Modern Classics for the Violinist</a></i>, <i>Vol.2</i> (pp.36-38, 16-17)<br />New York: <a href="/wiki/Carl_Fischer" title="Carl Fischer">Carl Fischer</a><!--ASL5-->, 1912.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=357044">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=357044">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="357044">Javascript is required for this feature.</div><script>JGINITsearchbars['357044']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=357044&type=Piano%20Score%20and%20Violin%20Part&pgcount=5&signature=1d9b55fcca16ceb1555422c99d62af96182c6a41"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP48398-Mod_Class_piano_Vol_2_Herb_sere.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/72/258a31f02bd4371b3a9e2aaf7394557819213a7b.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Herbert.29">For Piano solo (Herbert)</span></h5>
+<div class="we"><div id="IMSLP75218" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/75218"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7d/PMLP48398-Victor_Herbert_Serenade_for_piano_solo.pdf" class="internal" title="PMLP48398-Victor Herbert Serenade for piano solo.pdf">*</a></span><a href="/wiki/File:PMLP48398-Victor_Herbert_Serenade_for_piano_solo.pdf" title="File:PMLP48398-Victor Herbert Serenade for piano solo.pdf">#75218</a> - 0.31MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-75218' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-75218'>
+	<a href='javascript:void(0)' id='75218' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='75218' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='75218' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='75218' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='75218' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-75218'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/75218/Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)" title="Special:IMSLPEditCTag/75218/Suite for Cello and Orchestra, Op.3 (Herbert, Victor)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 229"><a href="/wiki/Special:GetFCtrStats/@75218" title="Special:GetFCtrStats/@75218">229</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.loc.gov/index.html"><span style="border-bottom:1px dotted black" title="Library of Congress">US-Wc</span></a></span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a> (<span title="Updated: 2010/8/16" class="hovertext">2010/8/15</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>Walter B. Keeler
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Stuttgart: <a href="/wiki/G.A._Zumsteeg" title="G.A. Zumsteeg">G.A. Zumsteeg</a><!--ASL6-->, 1883.  Plate G.A.Z. 424.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=75218">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=75218">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Source copy was printed by G. Schirmer, 1884.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="75218">Javascript is required for this feature.</div><script>JGINITsearchbars['75218']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=75218&type=Complete%20Score&pgcount=5&signature=f09bc867efee531d1724466e3af2ecbf3dc730fe"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP48398-Victor_Herbert_Serenade_for_piano_solo.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/7d/e0b0afc971adedf78e69e4d47c8597b4a316ac58.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Suite for Cello and Orchestra
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Herbert,_Victor" title="Category:Herbert, Victor">Herbert, Victor</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>Op.3
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IVH 42
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>F major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>5 movements:
+<ol><li> Allegro moderato
+</li><li> Scherzo
+</li><li> Andante
+</li><li> Serenade: Andantino grazioso
+</li><li> Tarantella. Allegro di molto - Più mosso
+</li></ol>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1882
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1884 – Stuttgart: <a href="/wiki/G.A._Zumsteeg" title="G.A. Zumsteeg">G.A. Zumsteeg</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Solo</i>: cello<br /><i>Orchestra</i>: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons + 2 horns + timpani, percussion (triangle, tambourine) + strings
+</td></tr>
+<tr>
+<th>Primary Sources
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/227208574">Manuscript copy of score edited by Steven Ledbetter</a></span>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1237/1000000
+Post-expand include size: 83157/2097152 bytes
+Template argument size: 2255/2097152 bytes
+Expensive parser function count: 7/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:48398-0!*!0!!en!2!* and timestamp 20180415142921 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)&amp;oldid=2351648">http://imslp.org/index.php?title=Suite_for_Cello_and_Orchestra,_Op.3_(Herbert,_Victor)&amp;oldid=2351648</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_G.A._Zumsteeg" title="Category:Scores published by G.A. Zumsteeg">Scores published by G.A. Zumsteeg</a></li><li><a href="/wiki/Category:Scores_from_the_University_of_South_Carolina" title="Category:Scores from the University of South Carolina">Scores from the University of South Carolina</a></li><li><a href="/wiki/Category:Scores_published_by_Carl_Fischer" title="Category:Scores published by Carl Fischer">Scores published by Carl Fischer</a></li><li><a href="/wiki/Category:Scores_published_by_M._Witmark_%26_Sons" title="Category:Scores published by M. Witmark &amp; Sons">Scores published by M. Witmark &amp; Sons</a></li><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Riesenfeld,_Hugo/Arranger" title="Category:Riesenfeld, Hugo/Arranger">Riesenfeld, Hugo/Arranger</a></li><li><a href="/wiki/Category:Scores_published_by_Boston_Music_Co." title="Category:Scores published by Boston Music Co.">Scores published by Boston Music Co.</a></li><li><a href="/wiki/Category:Saenger,_Gustav/Arranger" title="Category:Saenger, Gustav/Arranger">Saenger, Gustav/Arranger</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores_from_the_Library_of_Congress" title="Category:Scores from the Library of Congress">Scores from the Library of Congress</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Herbert,_Victor" title="Category:Herbert, Victor">Herbert, Victor</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Suites" title="Category:Suites">Suites</a></li><li><a href="/wiki/Category:For_cello,_orchestra" title="Category:For cello, orchestra">For cello, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_orchestra_with_soloists" title="Category:For orchestra with soloists">For orchestra with soloists</a></li><li><a href="/wiki/Category:For_cello,_piano_(arr)" title="Category:For cello, piano (arr)">For cello, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:For_flute,_piano_(arr)" title="Category:For flute, piano (arr)">For flute, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_flute" title="Category:Scores featuring the flute">Scores featuring the flute</a></li><li><a href="/wiki/Category:For_violin,_piano_(arr)" title="Category:For violin, piano (arr)">For violin, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1884" title="Category:Works first published in 1884">Works first published in 1884</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:F_major" title="Category:F major">F major</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Suite_for_Cello_and_Orchestra%2C_Op.3_%28Herbert%2C_Victor%29">2,022 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Suite%20for%20Cello%20and%20Orchestra%2C%20Op.3%20%28Herbert%2C%20Victor%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.034 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415203610 -->
+</html>
+		

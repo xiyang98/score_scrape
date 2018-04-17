@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Biblioteca d'oro (Longo, Alessandro) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Biblioteca_d\'oro_(Longo,_Alessandro)", "wgTitle": "Biblioteca d\'oro (Longo, Alessandro)", "wgCurRevisionId": 2572430, "wgArticleId": 43721, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores published by Ricordi", "Scores", "Longo, Alessandro/Collections", "Romantic style", "Romantic", "Pieces", "For piano", "Scores featuring the piano", "For 1 player", "Works first published in 1906", "Works first published in the 20th century", "Abt, Franz/Collections", "Collections", "D\'Alai, Mauro/Collections", "Alyabyev, Aleksandr/Collections", "Anfossi, Pasquale/Collections", "Arcadelt, Jacob/Collections", "D\'Arienzo, Nicola/Collections", "Arne, Thomas Augustine/Collections", "Bach, Carl Philipp Emanuel/Collections", "Bach, Johann Christian/Collections", "Bach, Johann Christoph/Collections", "Bach, Johann Sebastian/Collections", "Bach, Wilhelm Friedemann/Collections", "Bazzini, Antonio/Collections", "Beethoven, Ludwig van/Collections", "Bellini, Vincenzo/Collections", "Bencini, Pietro Paolo/Collections", "Benda, Georg/Collections", "Bianchi, Francesco/Collections", "Biber, Heinrich Ignaz Franz von/Collections", "Boccherini, Luigi/Collections", "Boieldieu, François Adrien/Collections", "Boito, Arrigo/Collections", "Bononcini, Giovanni/Collections", "Bottesini, Giovanni/Collections", "Byrd, William/Collections", "Caldara, Antonio/Collections", "Capponi, Francesco/Collections", "Carissimi, Giacomo/Collections", "Catalani, Alfredo/Collections", "Cavalli, Francesco/Collections", "Cesi, Beniamino/Collections", "Cesti, Antonio/Collections", "Chambonnières, Jacques Champion de/Collections", "Cherubini, Luigi/Collections", "Chopin, Frédéric/Collections", "Cimarosa, Domenico/Collections", "Clementi, Muzio/Collections", "Corelli, Arcangelo/Collections", "Costa, Pasquale Mario/Collections", "Couperin, François/Collections", "Crescentini, Girolamo/Collections", "Dalayrac, Nicolas/Collections", "Dandrieu, Jean-François/Collections", "Daquin, Louis-Claude/Collections", "David, Félicien/Collections", "Del Valle de Paz, Edgardo/Collections", "Denza, Luigi/Collections", "Dittersdorf, Carl Ditters von/Collections", "Döhler, Theodor/Collections", "Donizetti, Gaetano/Collections", "Durante, Francesco/Collections", "Esposito, Michele/Collections", "Faccio, Franco/Collections", "Falchi, Stanislao/Collections", "Falconieri, Andrea/Collections", "Fesch, Willem de/Collections", "Floridia, Pietro/Collections", "Florimo, Francesco/Collections", "Flotow, Friedrich von/Collections", "Franchetti, Alberto/Collections", "Frescobaldi, Girolamo/Collections", "Gaffi, Tommaso Bernardo/Collections", "Gaviniès, Pierre/Collections", "Geminiani, Francesco/Collections", "Giordani, Tommaso/Collections", "Glinka, Mikhail/Collections", "Gluck, Christoph Willibald/Collections", "Goldmark, Carl/Collections", "Gomes, Carlos/Collections", "Gordigiani, Luigi/Collections", "Gounod, Charles/Collections", "Grétry, André Ernest Modeste/Collections", "Halévy, Fromental/Collections", "Handel, George Frideric/Collections", "Hasse, Johann Adolph/Collections", "Hässler, Johann Wilhelm/Collections", "Hauptmann, Moritz/Collections", "Haydn, Joseph/Collections", "Hensel, Fanny/Collections", "Hérold, Ferdinand/Collections", "Himmel, Friedrich Heinrich/Collections", "Hummel, Johann Nepomuk/Collections", "Isouard, Nicolo/Collections", "Jommelli, Niccolò/Collections", "Ketten, Henry/Collections", "Kirnberger, Johann Philipp/Collections", "Krebs, Johann Ludwig/Collections", "Kreutzer, Rodolphe/Collections", "Kuhlau, Friedrich/Collections", "Lassus, Orlande de/Collections", "Leclair, Jean-Marie/Collections", "Legrenzi, Giovanni/Collections", "Leo, Leonardo/Collections", "Lindpaintner, Peter Joseph von/Collections", "Liszt, Franz/Collections", "Locatelli, Pietro Antonio/Collections", "Lori, Arcangelo/Collections", "Lortzing, Albert/Collections", "Lotti, Antonio/Collections", "Lully, Jean-Baptiste/Collections", "Luzzi, Luigi/Collections", "Mancinelli, Luigi/Collections", "Manfroce, Nicola/Collections", "Marcello, Benedetto/Collections", "Marchetti, Filippo/Collections", "Mariani, Angelo/Collections", "Marini, Biagio/Collections", "Marschner, Heinrich/Collections", "Martini, Giovanni Battista/Collections", "Martucci, Giuseppe/Collections", "Mascagni, Pietro/Collections", "Mascheroni, Edoardo/Collections", "Massenet, Jules/Collections", "Mattheson, Johann/Collections", "Mazzaferrata, Giovanni Battista/Collections", "Mazzucato, Alberto/Collections", "Méhul, Etienne Nicolas/Collections", "Mendelssohn, Felix/Collections", "Mercadante, Saverio/Collections", "Meyerbeer, Giacomo/Collections", "Monsigny, Pierre-Alexandre/Collections", "Monteverdi, Claudio/Collections", "Mozart, Leopold/Collections", "Mozart, Wolfgang Amadeus/Collections", "Muffat, Georg/Collections", "Nardini, Pietro/Collections", "Nichelmann, Christoph/Collections", "Nicolai, Otto/Collections", "Niedermeyer, Louis/Collections", "Orefice, Giuseppe dell\'/Collections", "Pacini, Giovanni/Collections", "Paganini, Niccolò/Collections", "Paisiello, Giovanni/Collections", "Paër, Ferdinando/Collections", "Palestrina, Giovanni Pierluigi da/Collections", "Paradies, Pietro Domenico/Collections", "Pergolesi, Giovanni Battista/Collections", "Peri, Jacopo/Collections", "Perosi, Lorenzo/Collections", "Perti, Giacomo Antonio/Collections", "Petrella, Errico/Collections", "Picchi, Giovanni/Collections", "Piccinni, Niccolò/Collections", "Platania, Pietro/Collections", "Poißl, Johann Nepomuk von/Collections", "Ponchielli, Amilcare/Collections", "Porpora, Nicola Antonio/Collections", "Puccini, Giacomo/Collections", "Purcell, Henry/Collections", "Rameau, Jean-Philippe/Collections", "Reichardt, Johann Friedrich/Collections", "Reissiger, Carl Gottlieb/Collections", "Ricci, Luigi/Collections", "Ricordi, Giulio/Collections", "Rigatti, Giovanni Antonio/Collections", "Righini, Vincenzo/Collections", "Rode, Pierre/Collections", "Romberg, Bernhard/Collections", "Rosa, Salvator/Collections", "Rossi, Francesco/Collections", "Rossi, Michelangelo/Collections", "Rossini, Gioacchino/Collections", "Rousseau, Jean-Jacques/Collections", "Rubinstein, Anton/Collections", "Sacchini, Antonio/Collections", "Salieri, Antonio/Collections", "Sammartini, Giuseppe/Collections", "Sarti, Giuseppe/Collections", "Scarlatti, Alessandro/Collections", "Scarlatti, Domenico/Collections", "Scarlatti, Giuseppe/Collections", "Schubert, Franz/Collections", "Schumann, Robert/Collections", "Serrao, Paolo/Collections", "Sgambati, Giovanni/Collections", "Spohr, Louis/Collections", "Spontini, Gaspare/Collections", "Supriani, Francesco/Collections", "Steibelt, Daniel/Collections", "Stradella, Alessandro/Collections", "Strozzi, Barbara/Collections", "Tartini, Giuseppe/Collections", "Thalberg, Sigismond/Collections", "Thomas, Ambroise/Collections", "Tofano, Gustavo/Collections", "Torelli, Giuseppe/Collections", "Tosti, Francesco Paolo/Collections", "Traetta, Tommaso/Collections", "Turini, Francesco/Collections", "Vaccai, Nicola/Collections", "Veracini, Francesco Maria/Collections", "Verdi, Giuseppe/Collections", "Viotti, Giovanni Battista/Collections", "Vivaldi, Antonio/Collections", "Wagenseil, Georg Christoph/Collections", "Wagner, Richard/Collections", "Weber, Carl Maria von/Collections", "Westerhout, Niccolò van/Collections", "Zipoli, Domenico/Collections"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Biblioteca_d_oro_Longo_Alessandro action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Biblioteca_d%27oro_(Longo,_Alessandro)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Biblioteca_d%27oro_(Longo,_Alessandro)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Biblioteca_d%27oro_(Longo,_Alessandro)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Biblioteca_d%27oro_(Longo,_Alessandro)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Biblioteca_d%27oro_(Longo,_Alessandro)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Biblioteca_d%27oro_(Longo,_Alessandro)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Biblioteca_d%27oro_(Longo,_Alessandro)&amp;oldid=2572430" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Biblioteca%20d%27oro%20%28Longo%2C%20Alessandro%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Biblioteca d'oro (Longo, Alessandro)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>7 volumes of 100 pieces each
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1906 ca.
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano&amp;transclude=Template:Catintro">For piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Biblioteca d'oro","composer":"Longo, Alessandro","comphref":"\/wiki\/Category:Longo,_Alessandro"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"biblioteca d'oro","itunes":"biblioteca d'oro","composer":"longo","scorekeywords":"biblioteca d'oro","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"518180":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=518180"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP518180"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=518180"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/518180"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%23518180"}},"18486":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18486"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18486"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18486"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18486"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18486"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318486"}},"18487":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18487"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18487"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18487"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18487"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18487"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318487"}},"18488":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18488"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18488"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18488"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18488"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18488"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318488"}},"18490":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18490"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18490"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18490"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18490"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18490"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318490"}},"18491":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18491"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18491"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18491"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18491"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18491"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318491"}},"18492":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18492"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18492"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18492"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18492"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18492"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318492"}},"18493":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18493"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/518180\/18486\/18487\/18488\/18490\/18491\/18492\/18493\/9c2a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18493"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=18493"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18493"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18493"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Biblioteca+d%27oro+%28Longo%2C+Alessandro%29&frmTitle=IMSLP+%2318493"}}};JGFileOpts={"518180":[],"18486":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9u2QdGtTOGrpdi36oUEl610U0Qr6w6CxyAD192ZN2xpDXuV9BG3xlU128jQ8Hx9PjeyYSPTrNDsMgKhOyxkWN"},"18487":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjqr+Sh57mQTWAxtjBMGr98rYpNa1X716m4JH0U+zHIp9Ym9VKvxI1GU2AWxRE+ffewX6npX5HbFsMcBk37x0nC"},"18488":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDO26OLuZ+x8qlwHPffKXeXyu7o4F6BCigjGuKDmg5Vb5HuKNDjsYVwA0MyVL\/l2T9xmiht\/2YMRfRxyQYx3\/M"},"18490":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgYyJ4pHeIktQMBOsRZ48hwmXbRtvVukWTaTFBXd\/OGuWdX3NiGhhNMWKUnvJynd8lOJyabqeb98nPFJP\/SRSqw"},"18491":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biqP7XiZxdPZ70ErYip6UCgAnN6jaeqRXNVx767AoaU2iaJHV2eaGVqvZ1FYzGBcRVmkF29oTsLX8wlIbYil2D3"},"18492":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjexx3TDRaTkk4KFAboeK6KxmP4uItzF3HBr+vi4zoNuxrjU6D3A7tBsKHxmQ+2S6ilKMG+iOEwH7gm8f6gCzXs"},"18493":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biz14cDsD1E7docfbpUX1IhQucRLFQ9XdhdsLc8e4HiK645EkI\/8i+hehXcD5+gCUW99uET2ywDwW+pmUufq2F6"}};JGPageUntagged=false;JGPageTags=["pieces","pf"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"18486":[4.6666666666667,"3"],"518180":[0,0],"18487":[0,0],"18488":[0,0],"18490":[0,0],"18491":[0,0],"18492":[0,0],"18493":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">8</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP518180" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/518180"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/30/PMLP43721-Longo_-_Biblioteca_d%27oro_-_I_f_%28etc%29.pdf" class="internal" title="PMLP43721-Longo - Biblioteca d&#39;oro - I f (etc).pdf">*</a></span><a href="/wiki/File:PMLP43721-Longo_-_Biblioteca_d%27oro_-_I_f_(etc).pdf" title="File:PMLP43721-Longo - Biblioteca d'oro - I f (etc).pdf">#518180</a> <a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ReverseLookup/18486"><span class="preview" data-title="Contains:&lt;br&gt;#18486&lt;br&gt;#18487&lt;br&gt;#18488&lt;br&gt;#18490&lt;br&gt;#18491&lt;br&gt;#18492&lt;br&gt;#18493"><small><i class="fa fa-clone"></i></small></span></a> - <span style="color:red"><b>38.63</b></span>MB, 850 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-518180' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-518180'>
+	<a href='javascript:void(0)' id='518180' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='518180' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='518180' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='518180' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='518180' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-518180'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/518180/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/518180/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 14"><a href="/wiki/Special:GetFCtrStats/@518180" title="Special:GetFCtrStats/@518180">14</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Music_Addict" title="User:Music Addict">Music Addict</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Music_Addict" title="User:Music Addict">Music Addict</a> (2018/4/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>7 more</u>:</b> Volume I • Volume II • Volume III • Volume IV • Volume V • Volume VI • Volume VII
+</p>
+</div><div id="IMSLP18486" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18486"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0a/Longo_-_Biblioteca_d%27oro_-_I_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - I f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_I_f.pdf" title="File:Longo - Biblioteca d'oro - I f.pdf">#18486</a> - 5.58MB, 76 x 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18486' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18486'>
+	<a href='javascript:void(0)' id='18486' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18486' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18486' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18486' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18486' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18486'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18486/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18486/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3152"><a href="/wiki/Special:GetFCtrStats/@18486" title="Special:GetFCtrStats/@18486">3152</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18487" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18487"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7d/Longo_-_Biblioteca_d%27oro_-_II_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - II f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_II_f.pdf" title="File:Longo - Biblioteca d'oro - II f.pdf">#18487</a> - 5.76MB, 153 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18487' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18487'>
+	<a href='javascript:void(0)' id='18487' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18487' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18487' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18487' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18487' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18487'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18487/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18487/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1244"><a href="/wiki/Special:GetFCtrStats/@18487" title="Special:GetFCtrStats/@18487">1244</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18488" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18488"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume III</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a7/Longo_-_Biblioteca_d%27oro_-_III_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - III f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_III_f.pdf" title="File:Longo - Biblioteca d'oro - III f.pdf">#18488</a> - 5.47MB, 149 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18488' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18488'>
+	<a href='javascript:void(0)' id='18488' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18488' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18488' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18488' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18488' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18488'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18488/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18488/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 954"><a href="/wiki/Special:GetFCtrStats/@18488" title="Special:GetFCtrStats/@18488">954</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18490" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18490"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume IV</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/21/Longo_-_Biblioteca_d%27oro_-_IV_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - IV f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_IV_f.pdf" title="File:Longo - Biblioteca d'oro - IV f.pdf">#18490</a> - 5.30MB, 152 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18490' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18490'>
+	<a href='javascript:void(0)' id='18490' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18490' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18490' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18490' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18490' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18490'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18490/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18490/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 905"><a href="/wiki/Special:GetFCtrStats/@18490" title="Special:GetFCtrStats/@18490">905</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18491" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18491"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume V</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3f/Longo_-_Biblioteca_d%27oro_-_V_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - V f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_V_f.pdf" title="File:Longo - Biblioteca d'oro - V f.pdf">#18491</a> - 5.73MB, 87 x 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18491' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18491'>
+	<a href='javascript:void(0)' id='18491' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18491' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18491' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18491' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18491' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18491'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18491/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18491/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 820"><a href="/wiki/Special:GetFCtrStats/@18491" title="Special:GetFCtrStats/@18491">820</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18492" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18492"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume VI</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/22/Longo_-_Biblioteca_d%27oro_-_VI_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - VI f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_VI_f.pdf" title="File:Longo - Biblioteca d'oro - VI f.pdf">#18492</a> - 5.08MB, 82 x 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18492' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18492'>
+	<a href='javascript:void(0)' id='18492' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18492' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18492' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18492' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18492' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18492'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18492/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18492/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 820"><a href="/wiki/Special:GetFCtrStats/@18492" title="Special:GetFCtrStats/@18492">820</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18493" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18493"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume VII</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7f/Longo_-_Biblioteca_d%27oro_-_VII_f.pdf" class="internal" title="Longo - Biblioteca d&#39;oro - VII f.pdf">*</a></span><a href="/wiki/File:Longo_-_Biblioteca_d%27oro_-_VII_f.pdf" title="File:Longo - Biblioteca d'oro - VII f.pdf">#18493</a> - 5.79MB, 149 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18493' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18493'>
+	<a href='javascript:void(0)' id='18493' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18493' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18493' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18493' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18493' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18493'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18493/Biblioteca_d%27oro_(Longo,_Alessandro)" title="Special:IMSLPEditCTag/18493/Biblioteca d'oro (Longo, Alessandro)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1058"><a href="/wiki/Special:GetFCtrStats/@18493" title="Special:GetFCtrStats/@18493">1058</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Caprotti<br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2008/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Milano: <a href="/wiki/Ricordi" title="Ricordi">G. Ricordi &amp; C.</a><!--ASL0-->, (ca.1906).
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=518180/18486/18487/18488/18490/18491/18492/18493">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=518180/18486/18487/18488/18490/18491/18492/18493">del</a>/<span id="fmrglnk" data-pdfstr="518180//18486//18487//18488//18490//18491//18492//18493/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="518180">Javascript is required for this feature.</div><script>JGINITsearchbars['518180']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=518180|18486|18487|18488|18490|18491|18492|18493&type=Complete%20Score%7CVolume%20I%7CVolume%20II%7CVolume%20III%7CVolume%20IV%7CVolume%20V%7CVolume%20VI%7CVolume%20VII&pgcount=850|76|153|149|152|87|84|149&signature=81e65ecbe249ce73b066e20fceca687e97851ba1"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP43721-Longo_-_Biblioteca_d%27oro_-_I_f_(etc).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/30/ba1b29c476d36753a47c84bc0a1c4e8138f697de.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Biblioteca d'Oro
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">700 pezzi per pianoforte tratti dalle opere di Maestri di ogni tempo e paese
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Longo,_Alessandro" title="Category:Longo, Alessandro">Longo, Alessandro</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>7 volumes of 100 pieces each:
+<ol><li> Autori diversi
+<ol><li> <a href="/wiki/Category:Stradella,_Alessandro" title="Category:Stradella, Alessandro">Alessandro Stradella</a>
+</li><li> <a href="/wiki/Category:Piccinni,_Niccol%C3%B2" title="Category:Piccinni, Niccolò">Niccolò Piccinni</a>
+</li><li> <a href="/wiki/Category:Dalayrac,_Nicolas" title="Category:Dalayrac, Nicolas">Nicolas Dalayrac</a>
+</li><li> <a href="/wiki/Category:Veracini,_Francesco_Maria" title="Category:Veracini, Francesco Maria">Francesco Maria Veracini</a>
+</li><li> <a href="/wiki/Category:Pergolesi,_Giovanni_Battista" title="Category:Pergolesi, Giovanni Battista">Giovanni Battista Pergolesi</a>
+</li><li> <a href="/wiki/Category:Gr%C3%A9try,_Andr%C3%A9_Ernest_Modeste" title="Category:Grétry, André Ernest Modeste">André Ernest Modeste Grétry</a>
+</li><li> <a href="/wiki/Category:Tartini,_Giuseppe" title="Category:Tartini, Giuseppe">Giuseppe Tartini</a>
+</li><li> <a href="/wiki/Category:Beethoven,_Ludwig_van" title="Category:Beethoven, Ludwig van">Ludwig van Beethoven</a>
+</li><li> <a href="/wiki/Category:Gluck,_Christoph_Willibald" title="Category:Gluck, Christoph Willibald">Christoph Willibald Gluck</a>
+</li><li> <a href="/wiki/Category:Bellini,_Vincenzo" title="Category:Bellini, Vincenzo">Vincenzo Bellini</a>
+</li><li> <a href="/wiki/Category:Mozart,_Wolfgang_Amadeus" title="Category:Mozart, Wolfgang Amadeus">Wolfgang Amadeus Mozart</a>
+</li><li> <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Johann Sebastian Bach</a>
+</li><li> <a href="/wiki/Category:Haydn,_Joseph" title="Category:Haydn, Joseph">Joseph Haydn</a>
+</li><li> <a href="/wiki/Category:Caldara,_Antonio" title="Category:Caldara, Antonio">Antonio Caldara</a>
+</li><li> <a href="/wiki/Category:Rameau,_Jean-Philippe" title="Category:Rameau, Jean-Philippe">Jean-Philippe Rameau</a>
+</li><li> <a href="/wiki/Category:Monsigny,_Pierre-Alexandre" title="Category:Monsigny, Pierre-Alexandre">Pierre-Alexandre Monsigny</a>
+</li><li> <a href="/wiki/Category:Rossini,_Gioacchino" title="Category:Rossini, Gioacchino">Gioacchino Rossini</a>
+</li><li> <a href="/wiki/Category:Scarlatti,_Alessandro" title="Category:Scarlatti, Alessandro">Alessandro Scarlatti</a>
+</li><li> <a href="/wiki/Category:Boccherini,_Luigi" title="Category:Boccherini, Luigi">Luigi Boccherini</a>
+</li><li> <a href="/wiki/Category:Cimarosa,_Domenico" title="Category:Cimarosa, Domenico">Domenico Cimarosa</a>
+</li><li> <a href="/wiki/Category:Durante,_Francesco" title="Category:Durante, Francesco">Francesco Durante</a>
+</li><li> <a href="/wiki/Category:Paisiello,_Giovanni" title="Category:Paisiello, Giovanni">Giovanni Paisiello</a>
+</li><li> <a href="/wiki/Category:Lully,_Jean-Baptiste" title="Category:Lully, Jean-Baptiste">Jean-Baptiste Lully</a>
+</li><li> <a href="/wiki/Category:Rousseau,_Jean-Jacques" title="Category:Rousseau, Jean-Jacques">Jean-Jacques Rousseau</a>
+</li><li> <a href="/wiki/Category:Schubert,_Franz" title="Category:Schubert, Franz">Franz Schubert</a>
+</li><li> <a href="/wiki/Category:Arcadelt,_Jacob" title="Category:Arcadelt, Jacob">Jacob Arcadelt</a>
+</li><li> <a href="/wiki/Category:Sacchini,_Antonio" title="Category:Sacchini, Antonio">Antonio Sacchini</a>
+</li><li> <a href="/wiki/Category:Lotti,_Antonio" title="Category:Lotti, Antonio">Antonio Lotti</a>
+</li><li> <a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric" title="Category:Chopin, Frédéric">Frédéric Chopin</a>
+</li><li> <a href="/wiki/Category:Isouard,_Nicolo" title="Category:Isouard, Nicolo">Nicolo Isouard</a>
+</li><li> <a href="/wiki/Category:Sammartini,_Giuseppe" title="Category:Sammartini, Giuseppe">Giuseppe Sammartini</a>
+</li><li> <a href="/wiki/Category:Monteverdi,_Claudio" title="Category:Monteverdi, Claudio">Claudio Monteverdi</a>
+</li><li> <a href="/wiki/Category:Kirnberger,_Johann_Philipp" title="Category:Kirnberger, Johann Philipp">Johann Philipp Kirnberger</a>
+</li><li> <a href="/wiki/Category:Scarlatti,_Domenico" title="Category:Scarlatti, Domenico">Domenico Scarlatti</a>
+</li><li> <a href="/wiki/Category:Glinka,_Mikhail" title="Category:Glinka, Mikhail">Mikhail Glinka</a>
+</li><li> <a href="/wiki/Category:Purcell,_Henry" title="Category:Purcell, Henry">Henry Purcell</a>
+</li><li> <a href="/wiki/Category:Mendelssohn,_Felix" title="Category:Mendelssohn, Felix">Felix Mendelssohn</a>
+</li><li> <a href="/wiki/Category:Niedermeyer,_Louis" title="Category:Niedermeyer, Louis">Louis Niedermeyer</a>
+</li><li> <a href="/wiki/Category:Marschner,_Heinrich" title="Category:Marschner, Heinrich">Heinrich Marschner</a>
+</li><li> <a href="/wiki/Category:Dittersdorf,_Carl_Ditters_von" title="Category:Dittersdorf, Carl Ditters von">Carl Ditters von Dittersdorf</a>
+</li><li> <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">George Frideric Handel</a>
+</li><li> <a href="/wiki/Category:Boieldieu,_Fran%C3%A7ois_Adrien" title="Category:Boieldieu, François Adrien">François Adrien Boieldieu</a>
+</li><li> <a href="/wiki/Category:Corelli,_Arcangelo" title="Category:Corelli, Arcangelo">Arcangelo Corelli</a>
+</li><li> <a href="/wiki/Category:Weber,_Carl_Maria_von" title="Category:Weber, Carl Maria von">Carl Maria von Weber</a>
+</li><li> <a href="/wiki/Category:Salieri,_Antonio" title="Category:Salieri, Antonio">Antonio Salieri</a>
+</li><li> <a href="/wiki/Category:Couperin,_Fran%C3%A7ois" title="Category:Couperin, François">François Couperin</a>
+</li><li> <a href="/wiki/Category:Meyerbeer,_Giacomo" title="Category:Meyerbeer, Giacomo">Giacomo Meyerbeer</a>
+</li><li> <a href="/wiki/Category:H%C3%A9rold,_Ferdinand" title="Category:Hérold, Ferdinand">Ferdinand Hérold</a>
+</li><li> <a href="/wiki/Category:M%C3%A9hul,_Etienne_Nicolas" title="Category:Méhul, Etienne Nicolas">Etienne Nicolas Méhul</a>
+</li><li> <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Robert Schumann</a>
+</li><li> <a href="/wiki/Category:Sarti,_Giuseppe" title="Category:Sarti, Giuseppe">Giuseppe Sarti</a>
+</li><li> <a href="/wiki/Category:Paradies,_Pietro_Domenico" title="Category:Paradies, Pietro Domenico">Pietro Domenico Paradies</a>
+</li><li> <a href="/wiki/Category:Byrd,_William" title="Category:Byrd, William">William Byrd</a>
+</li><li> <a href="/wiki/Category:Fesch,_Willem_de" title="Category:Fesch, Willem de">Willem de Fesch</a>
+</li><li> <a href="/wiki/Category:Porpora,_Nicola_Antonio" title="Category:Porpora, Nicola Antonio">Nicola Antonio Porpora</a>
+</li><li> <a href="/wiki/Category:Geminiani,_Francesco" title="Category:Geminiani, Francesco">Francesco Geminiani</a>
+</li><li> <a href="/wiki/Category:Bach,_Carl_Philipp_Emanuel" title="Category:Bach, Carl Philipp Emanuel">Carl Philipp Emanuel Bach</a>
+</li><li> <a href="/wiki/Category:Jommelli,_Niccol%C3%B2" title="Category:Jommelli, Niccolò">Niccolò Jommelli</a>
+</li><li> <a href="/wiki/Category:Martini,_Giovanni_Battista" title="Category:Martini, Giovanni Battista">Giovanni Battista Martini</a>
+</li><li> <a href="/wiki/Category:Paganini,_Niccol%C3%B2" title="Category:Paganini, Niccolò">Niccolò Paganini</a>
+</li><li> <a href="/wiki/Category:Bach,_Johann_Christian" title="Category:Bach, Johann Christian">Johann Christian Bach</a>
+</li><li> <a href="/wiki/Category:Anfossi,_Pasquale" title="Category:Anfossi, Pasquale">Pasquale Anfossi</a>
+</li><li> <a href="/wiki/Category:Dandrieu,_Jean-Fran%C3%A7ois" title="Category:Dandrieu, Jean-François">Jean-François Dandrieu</a>
+</li><li> <a href="/wiki/Category:Rossi,_Francesco" title="Category:Rossi, Francesco">Francesco Rossi</a>
+</li><li> <a href="/wiki/Category:Leclair,_Jean-Marie" title="Category:Leclair, Jean-Marie">Jean-Marie Leclair</a>
+</li><li> <a href="/wiki/Category:Traetta,_Tommaso" title="Category:Traetta, Tommaso">Tommaso Traetta</a>
+</li><li> <a href="/wiki/Category:Marcello,_Benedetto" title="Category:Marcello, Benedetto">Benedetto Marcello</a>
+</li><li> <a href="/wiki/Category:Bencini,_Pietro_Paolo" title="Category:Bencini, Pietro Paolo">Pietro Paolo Bencini</a>
+</li><li> <a href="/wiki/Category:Manfroce,_Nicola" title="Category:Manfroce, Nicola">Nicola Manfroce</a>
+</li><li> <a href="/wiki/Category:Rode,_Pierre" title="Category:Rode, Pierre">Pierre Rode</a>
+</li><li> <a href="/wiki/Category:Cherubini,_Luigi" title="Category:Cherubini, Luigi">Luigi Cherubini</a>
+</li><li> <a href="/wiki/Category:Giordani,_Tommaso" title="Category:Giordani, Tommaso">Tommaso Giordani</a>
+</li><li> <a href="/wiki/Category:Hasse,_Johann_Adolph" title="Category:Hasse, Johann Adolph">Johann Adolph Hasse</a>
+</li><li> <a href="/wiki/Category:Spohr,_Louis" title="Category:Spohr, Louis">Louis Spohr</a>
+</li><li> <a href="/wiki/Category:Peri,_Jacopo" title="Category:Peri, Jacopo">Jacopo Peri</a>
+</li><li> <a href="/wiki/Category:Pa%C3%ABr,_Ferdinando" title="Category:Paër, Ferdinando">Ferdinando Paër</a>
+</li><li> <a href="/wiki/Category:Cavalli,_Francesco" title="Category:Cavalli, Francesco">Francesco Cavalli</a>
+</li><li> <a href="/wiki/Category:Lassus,_Orlande_de" title="Category:Lassus, Orlande de">Orlande de Lassus</a>
+</li><li> <a href="/wiki/Category:Scarlatti,_Giuseppe" title="Category:Scarlatti, Giuseppe">Giuseppe Scarlatti</a>
+</li><li> <a href="/wiki/Category:Steibelt,_Daniel" title="Category:Steibelt, Daniel">Daniel Steibelt</a>
+</li><li> <a href="/wiki/Category:Picchi,_Giovanni" title="Category:Picchi, Giovanni">Giovanni Picchi</a>
+</li><li> <a href="/wiki/Category:Viotti,_Giovanni_Battista" title="Category:Viotti, Giovanni Battista">Giovanni Battista Viotti</a>
+</li><li> <a href="/wiki/Category:Kreutzer,_Rodolphe" title="Category:Kreutzer, Rodolphe">Rodolphe Kreutzer</a>
+</li><li> <a href="/wiki/Category:Zipoli,_Domenico" title="Category:Zipoli, Domenico">Domenico Zipoli</a>
+</li><li> <a href="/wiki/Category:Vivaldi,_Antonio" title="Category:Vivaldi, Antonio">Antonio Vivaldi</a>
+</li><li> <a href="/wiki/Category:Caccini,_Giulio" title="Category:Caccini, Giulio">Giulio Caccini</a>
+</li><li> Arcangelo del Leuto (<a href="/wiki/Category:Lori,_Arcangelo" title="Category:Lori, Arcangelo">Arcangelo Lori</a>)
+</li><li> <a href="/wiki/Category:Nardini,_Pietro" title="Category:Nardini, Pietro">Pietro Nardini</a>
+</li><li> <a href="/wiki/Category:Hummel,_Johann_Nepomuk" title="Category:Hummel, Johann Nepomuk">Johann Nepomuk Hummel</a>
+</li><li> <a href="/wiki/Category:D%27Alai,_Mauro" title="Category:D'Alai, Mauro">Mauro D'Alai</a>
+</li><li> <a href="/wiki/Category:Romberg,_Bernhard" title="Category:Romberg, Bernhard">Bernhard Romberg</a>
+</li><li> <a href="/wiki/Category:Leo,_Leonardo" title="Category:Leo, Leonardo">Leonardo Leo</a>
+</li><li> <a href="/wiki/Category:Falconieri,_Andrea" title="Category:Falconieri, Andrea">Andrea Falconieri</a>
+</li><li> <a href="/wiki/Category:Legrenzi,_Giovanni" title="Category:Legrenzi, Giovanni">Giovanni Legrenzi</a>
+</li><li> <a href="/wiki/Category:Clementi,_Muzio" title="Category:Clementi, Muzio">Muzio Clementi</a>
+</li><li> <a href="/wiki/Category:Turini,_Francesco" title="Category:Turini, Francesco">Francesco Turini</a>
+</li><li> <a href="/wiki/Category:Cesti,_Antonio" title="Category:Cesti, Antonio">Antonio Cesti</a>
+</li><li> <a href="/wiki/Category:Lortzing,_Albert" title="Category:Lortzing, Albert">Albert Lortzing</a>
+</li><li> <a href="/wiki/Category:Frescobaldi,_Girolamo" title="Category:Frescobaldi, Girolamo">Girolamo Frescobaldi</a>
+</li><li> <a href="/wiki/Category:Palestrina,_Giovanni_Pierluigi_da" title="Category:Palestrina, Giovanni Pierluigi da">Giovanni Pierluigi da Palestrina</a>
+</li></ol>
+</li><li> Haydn, Mozart, Beethoven
+<dl><dd> 1–34. <a href="/wiki/Category:Haydn,_Joseph" title="Category:Haydn, Joseph">Joseph Haydn</a>
+</dd><dd> 35–67. <a href="/wiki/Category:Mozart,_Wolfgang_Amadeus" title="Category:Mozart, Wolfgang Amadeus">Wolfgang Amadeus Mozart</a>
+</dd><dd> 68–100. <a href="/wiki/Category:Beethoven,_Ludwig_van" title="Category:Beethoven, Ludwig van">Ludwig van Beethoven</a>
+</dd></dl>
+</li><li> Autori diversi
+<ol><li> <a href="/wiki/Category:Verdi,_Giuseppe" title="Category:Verdi, Giuseppe">Giuseppe Verdi</a>
+</li><li> <a href="/wiki/Category:Rigatti,_Giovanni_Antonio" title="Category:Rigatti, Giovanni Antonio">Giovanni Antonio Rigatti</a>
+</li><li> <a href="/wiki/Category:Pacini,_Giovanni" title="Category:Pacini, Giovanni">Giovanni Pacini</a>
+</li><li> <a href="/wiki/Category:Locatelli,_Pietro_Antonio" title="Category:Locatelli, Pietro Antonio">Pietro Antonio Locatelli</a>
+</li><li> <a href="/wiki/Category:Puccini,_Giacomo" title="Category:Puccini, Giacomo">Giacomo Puccini</a>
+</li><li> <a href="/wiki/Category:Boito,_Arrigo" title="Category:Boito, Arrigo">Arrigo Boito</a>
+</li><li> <a href="/wiki/Category:Mazzucato,_Alberto" title="Category:Mazzucato, Alberto">Alberto Mazzucato</a>
+</li><li> <a href="/wiki/Category:Donizetti,_Gaetano" title="Category:Donizetti, Gaetano">Gaetano Donizetti</a>
+</li><li> <a href="/wiki/Category:Bottesini,_Giovanni" title="Category:Bottesini, Giovanni">Giovanni Bottesini</a>
+</li><li> <a href="/wiki/Category:Catalani,_Alfredo" title="Category:Catalani, Alfredo">Alfredo Catalani</a>
+</li><li> <a href="/wiki/Category:Capponi,_Francesco" title="Category:Capponi, Francesco">Francesco Capponi</a>
+</li><li> J. Burgmein (<a href="/wiki/Category:Ricordi,_Giulio" title="Category:Ricordi, Giulio">Giulio Ricordi</a>)
+</li><li> <a href="/wiki/Category:Faccio,_Franco" title="Category:Faccio, Franco">Franco Faccio</a>
+</li><li> <a href="/wiki/Category:David,_F%C3%A9licien" title="Category:David, Félicien">Félicien David</a>
+</li><li> <a href="/wiki/Category:Franchetti,_Alberto" title="Category:Franchetti, Alberto">Alberto Franchetti</a>
+</li><li> <a href="/wiki/Category:Falchi,_Stanislao" title="Category:Falchi, Stanislao">Stanislao Falchi</a>
+</li><li> <a href="/wiki/Category:Tosti,_Francesco_Paolo" title="Category:Tosti, Francesco Paolo">Francesco Paolo Tosti</a>
+</li><li> <a href="/wiki/Category:Floridia,_Pietro" title="Category:Floridia, Pietro">Pietro Floridia</a>
+</li><li> <a href="/wiki/Category:Gavini%C3%A8s,_Pierre" title="Category:Gaviniès, Pierre">Pierre Gaviniès</a>
+</li><li> <a href="/wiki/Category:Gordigiani,_Luigi" title="Category:Gordigiani, Luigi">Luigi Gordigiani</a>
+</li><li> <a href="/wiki/Category:Gomes,_Carlos" title="Category:Gomes, Carlos">Carlos Gomes</a>
+</li><li> <a href="/wiki/Category:Kuhlau,_Friedrich" title="Category:Kuhlau, Friedrich">Friedrich Kuhlau</a>
+</li><li> <a href="/wiki/Category:D%C3%B6hler,_Theodor" title="Category:Döhler, Theodor">Theodor Döhler</a>
+</li><li> <a href="/wiki/Category:Ketten,_Henry" title="Category:Ketten, Henry">Henry Ketten</a>
+</li><li> <a href="/wiki/Category:Liszt,_Franz" title="Category:Liszt, Franz">Franz Liszt</a>
+</li><li> <a href="/wiki/Category:Gaffi,_Tommaso_Bernardo" title="Category:Gaffi, Tommaso Bernardo">Tommaso Bernardo Gaffi</a>
+</li><li> <a href="/wiki/Category:Ponchielli,_Amilcare" title="Category:Ponchielli, Amilcare">Amilcare Ponchielli</a>
+</li><li> <a href="/wiki/Category:Massenet,_Jules" title="Category:Massenet, Jules">Jules Massenet</a>
+</li><li> <a href="/wiki/Category:Luzzi,_Luigi" title="Category:Luzzi, Luigi">Luigi Luzzi</a>
+</li><li> <a href="/wiki/Category:Mariani,_Angelo" title="Category:Mariani, Angelo">Angelo Mariani</a>
+</li><li> <a href="/wiki/Category:Tofano,_Gustavo" title="Category:Tofano, Gustavo">Gustavo Tofano</a>
+</li><li> <a href="/wiki/Category:Mascheroni,_Edoardo" title="Category:Mascheroni, Edoardo">Edoardo Mascheroni</a>
+</li><li> <a href="/wiki/Category:Ricci,_Luigi" title="Category:Ricci, Luigi">Luigi Ricci</a>
+</li><li> <a href="/wiki/Category:Arne,_Thomas_Augustine" title="Category:Arne, Thomas Augustine">Thomas Augustine Arne</a>
+</li><li> <a href="/wiki/Category:Bianchi,_Francesco" title="Category:Bianchi, Francesco">Francesco Bianchi</a>
+</li><li> <a href="/wiki/Category:Marchetti,_Filippo" title="Category:Marchetti, Filippo">Filippo Marchetti</a>
+</li><li> <a href="/wiki/Category:Mercadante,_Saverio" title="Category:Mercadante, Saverio">Saverio Mercadante</a>
+</li><li> <a href="/wiki/Category:Petrella,_Errico" title="Category:Petrella, Errico">Errico Petrella</a>
+</li><li> <a href="/wiki/Category:D%27Arienzo,_Nicola" title="Category:D'Arienzo, Nicola">Nicola D'Arienzo</a>
+</li><li> <a href="/wiki/Category:Alyabyev,_Aleksandr" title="Category:Alyabyev, Aleksandr">Aleksandr Alyabyev</a>
+</li><li> <a href="/wiki/Category:Nicolai,_Otto" title="Category:Nicolai, Otto">Otto Nicolai</a>
+</li><li> <a href="/wiki/Category:Mazzaferrata,_Giovanni_Battista" title="Category:Mazzaferrata, Giovanni Battista">Giovanni Battista Mazzaferrata</a>
+</li><li> <a href="/wiki/Category:Reichardt,_Johann_Friedrich" title="Category:Reichardt, Johann Friedrich">Johann Friedrich Reichardt</a>
+</li><li> <a href="/wiki/Category:Poi%C3%9Fl,_Johann_Nepomuk_von" title="Category:Poißl, Johann Nepomuk von">Johann Nepomuk von Poißl</a>
+</li><li> <a href="/wiki/Category:Spontini,_Gaspare" title="Category:Spontini, Gaspare">Gaspare  Spontini</a>
+</li><li> <a href="/wiki/Category:Himmel,_Friedrich_Heinrich" title="Category:Himmel, Friedrich Heinrich">Friedrich Heinrich Himmel</a>
+</li><li> <a href="/wiki/Category:Platania,_Pietro" title="Category:Platania, Pietro">Pietro Platania</a>
+</li><li> <a href="/wiki/Category:Hal%C3%A9vy,_Fromental" title="Category:Halévy, Fromental">Fromental Halévy</a>
+</li><li> <a href="/wiki/Category:Hauptmann,_Moritz" title="Category:Hauptmann, Moritz">Moritz Hauptmann</a>
+</li><li> <a href="/wiki/Category:Rubinstein,_Anton" title="Category:Rubinstein, Anton">Anton Rubinstein</a>
+</li><li> <a href="/wiki/Category:Thalberg,_Sigismond" title="Category:Thalberg, Sigismond">Sigismond Thalberg</a>
+</li><li> <a href="/wiki/Category:Orefice,_Giuseppe_dell%27" title="Category:Orefice, Giuseppe dell'">Giuseppe dell' Orefice</a>
+</li><li> <a href="/wiki/Category:Gounod,_Charles" title="Category:Gounod, Charles">Charles Gounod</a>
+</li><li> <a href="/wiki/Category:Marini,_Biagio" title="Category:Marini, Biagio">Biagio Marini</a>
+</li><li> <a href="/wiki/Category:Biber,_Heinrich_Ignaz_Franz_von" title="Category:Biber, Heinrich Ignaz Franz von">Heinrich Ignaz Franz von Biber</a>
+</li><li> <a href="/wiki/Category:Rossi,_Michelangelo" title="Category:Rossi, Michelangelo">Michelangelo Rossi</a>
+</li><li> <a href="/wiki/Category:Del_Valle_de_Paz,_Edgardo" title="Category:Del Valle de Paz, Edgardo">Edgardo Del Valle de Paz</a>
+</li><li> <a href="/wiki/Category:Vaccai,_Nicola" title="Category:Vaccai, Nicola">Nicola Vaccai</a>
+</li><li> <a href="/wiki/Category:Florimo,_Francesco" title="Category:Florimo, Francesco">Francesco Florimo</a>
+</li><li> <a href="/wiki/Category:Righini,_Vincenzo" title="Category:Righini, Vincenzo">Vincenzo Righini</a>
+</li><li> <a href="/wiki/Category:Flotow,_Friedrich_von" title="Category:Flotow, Friedrich von">Friedrich von Flotow</a>
+</li><li> <a href="/wiki/Category:Westerhout,_Niccol%C3%B2_van" title="Category:Westerhout, Niccolò van">Niccolò van Westerhout</a>
+</li><li> <a href="/wiki/Category:Abt,_Franz" title="Category:Abt, Franz">Franz Abt</a>
+</li><li> <a href="/wiki/Category:Reissiger,_Carl_Gottlieb" title="Category:Reissiger, Carl Gottlieb">Carl Gottlieb Reissiger</a>
+</li><li> <a href="/wiki/Category:Bazzini,_Antonio" title="Category:Bazzini, Antonio">Antonio Bazzini</a>
+</li><li> <a href="/wiki/Category:Krebs,_Johann_Ludwig" title="Category:Krebs, Johann Ludwig">Johann Ludwig Krebs</a>
+</li><li> <a href="/wiki/Category:Strozzi,_Barbara" title="Category:Strozzi, Barbara">Barbara Strozzi</a>
+</li><li> <a href="/wiki/Category:Lindpaintner,_Peter_Joseph_von" title="Category:Lindpaintner, Peter Joseph von">Peter Joseph von Lindpaintner</a>
+</li><li> <a href="/wiki/Category:Perti,_Giacomo_Antonio" title="Category:Perti, Giacomo Antonio">Giacomo Antonio Perti</a>
+</li><li> <a href="/wiki/Category:Serrao,_Paolo" title="Category:Serrao, Paolo">Paolo Serrao</a>
+</li><li> <a href="/wiki/Category:Benda,_Georg" title="Category:Benda, Georg">Georg Benda</a>
+</li><li> <a href="/wiki/Category:Carissimi,_Giacomo" title="Category:Carissimi, Giacomo">Giacomo Carissimi</a>
+</li><li> <a href="/wiki/Category:Mattheson,_Johann" title="Category:Mattheson, Johann">Johann Mattheson</a>
+</li><li> <a href="/wiki/Category:Hensel,_Fanny" title="Category:Hensel, Fanny">Fanny Hensel</a>
+</li><li> <a href="/wiki/Category:Supriani,_Francesco" title="Category:Supriani, Francesco">Francesco Supriani</a>
+</li><li> <a href="/wiki/Category:Mascagni,_Pietro" title="Category:Mascagni, Pietro">Pietro Mascagni</a>
+</li><li> <a href="/wiki/Category:Martucci,_Giuseppe" title="Category:Martucci, Giuseppe">Giuseppe Martucci</a>
+</li><li> <a href="/wiki/Category:Sgambati,_Giovanni" title="Category:Sgambati, Giovanni">Giovanni Sgambati</a>
+</li><li> <a href="/wiki/Category:Esposito,_Michele" title="Category:Esposito, Michele">Michele Esposito</a>
+</li><li> <a href="/wiki/Category:Costa,_Pasquale_Mario" title="Category:Costa, Pasquale Mario">Pasquale Mario Costa</a>
+</li><li> <a href="/wiki/Category:Bach,_Johann_Christoph" title="Category:Bach, Johann Christoph">Johann Christoph Bach</a>
+</li><li> <a href="/wiki/Category:Chambonni%C3%A8res,_Jacques_Champion_de" title="Category:Chambonnières, Jacques Champion de">Jacques Champion de Chambonnières</a>
+</li><li> <a href="/wiki/Category:Torelli,_Giuseppe" title="Category:Torelli, Giuseppe">Giuseppe Torelli</a>
+</li><li> <a href="/wiki/Category:Bach,_Wilhelm_Friedemann" title="Category:Bach, Wilhelm Friedemann">Wilhelm Friedemann Bach</a>
+</li><li> <a href="/wiki/Category:Crescentini,_Girolamo" title="Category:Crescentini, Girolamo">Girolamo Crescentini</a>
+</li><li> <a href="/wiki/Category:Cesi,_Beniamino" title="Category:Cesi, Beniamino">Beniamino Cesi</a>
+</li><li> <a href="/wiki/Category:Denza,_Luigi" title="Category:Denza, Luigi">Luigi Denza</a>
+</li><li> <a href="/wiki/Category:Thomas,_Ambroise" title="Category:Thomas, Ambroise">Ambroise Thomas</a>
+</li><li> <a href="/wiki/Category:Bononcini,_Giovanni" title="Category:Bononcini, Giovanni">Giovanni Bononcini</a>
+</li><li> <a href="/wiki/Category:Wagenseil,_Georg_Christoph" title="Category:Wagenseil, Georg Christoph">Georg Christoph Wagenseil</a>
+</li><li> <a href="/wiki/Category:Daquin,_Louis-Claude" title="Category:Daquin, Louis-Claude">Louis-Claude Daquin</a>
+</li><li> <a href="/wiki/Category:Mozart,_Leopold" title="Category:Mozart, Leopold">Leopold Mozart</a>
+</li><li> <a href="/wiki/Category:H%C3%A4ssler,_Johann_Wilhelm" title="Category:Hässler, Johann Wilhelm">Johann Wilhelm Hässler</a>
+</li><li> <a href="/wiki/Category:Nichelmann,_Christoph" title="Category:Nichelmann, Christoph">Christoph Nichelmann</a>
+</li><li> <a href="/wiki/Category:Muffat,_Georg" title="Category:Muffat, Georg">Georg Muffat</a>
+</li><li> <a href="/wiki/Category:Rosa,_Salvator" title="Category:Rosa, Salvator">Salvator Rosa</a>
+</li><li> <a href="/wiki/Category:Perosi,_Lorenzo" title="Category:Perosi, Lorenzo">Lorenzo Perosi</a>
+</li><li> <a href="/wiki/Category:Mancinelli,_Luigi" title="Category:Mancinelli, Luigi">Luigi Mancinelli</a>
+</li><li> <a href="/wiki/Category:Goldmark,_Carl" title="Category:Goldmark, Carl">Carl Goldmark</a>
+</li><li> <a href="/wiki/Category:Wagner,_Richard" title="Category:Wagner, Richard">Richard Wagner</a>
+</li></ol>
+</li><li> Schubert, Mendelssohn, Schumann
+<dl><dd> 1–33. <a href="/wiki/Category:Schubert,_Franz" title="Category:Schubert, Franz">Franz Schubert</a>
+</dd><dd> 34–66. <a href="/wiki/Category:Mendelssohn,_Felix" title="Category:Mendelssohn, Felix">Felix Mendelssohn</a>
+</dd><dd> 67–100. <a href="/wiki/Category:Schumann,_Robert" title="Category:Schumann, Robert">Robert Schumann</a>
+</dd></dl>
+</li><li> Bellini, Donizetti, Rossini, Verdi
+<dl><dd> 1–25. <a href="/wiki/Category:Bellini,_Vincenzo" title="Category:Bellini, Vincenzo">Vincenzo Bellini</a>
+</dd><dd> 26–50. <a href="/wiki/Category:Donizetti,_Gaetano" title="Category:Donizetti, Gaetano">Gaetano Donizetti</a>
+</dd><dd> 51–75. <a href="/wiki/Category:Rossini,_Gioacchino" title="Category:Rossini, Gioacchino">Gioacchino Rossini</a>
+</dd><dd> 76–100. <a href="/wiki/Category:Verdi,_Giuseppe" title="Category:Verdi, Giuseppe">Giuseppe Verdi</a>
+</dd></dl>
+</li><li> Gluck, Weber, Meyerbeer, Wagner
+<dl><dd> 1–25. <a href="/wiki/Category:Gluck,_Christoph_Willibald" title="Category:Gluck, Christoph Willibald">Christoph Willibald Gluck</a>
+</dd><dd> 26–50. <a href="/wiki/Category:Weber,_Carl_Maria_von" title="Category:Weber, Carl Maria von">Carl Maria von Weber</a>
+</dd><dd> 51–75. <a href="/wiki/Category:Meyerbeer,_Giacomo" title="Category:Meyerbeer, Giacomo">Giacomo Meyerbeer</a>
+</dd><dd> 76–100. <a href="/wiki/Category:Wagner,_Richard" title="Category:Wagner, Richard">Richard Wagner</a>
+</dd></dl>
+</li><li> Bach e Händel
+<dl><dd> 1–50. <a href="/wiki/Category:Bach,_Johann_Sebastian" title="Category:Bach, Johann Sebastian">Johann Sebastian Bach</a>
+</dd><dd> 51–100. <a href="/wiki/Category:Handel,_George_Frideric" title="Category:Handel, George Frideric">George Frideric Handel</a>
+</dd></dl>
+</li></ol>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1906 ca.
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>piano
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>700 arrangements and transcription of pre-classic, classic and romantic composers
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 7836/1000000
+Post-expand include size: 111636/2097152 bytes
+Template argument size: 13579/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:43721-0!*!0!!en!2!* and timestamp 20180412164629 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Biblioteca_d%27oro_(Longo,_Alessandro)&amp;oldid=2572430">http://imslp.org/index.php?title=Biblioteca_d%27oro_(Longo,_Alessandro)&amp;oldid=2572430</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_published_by_Ricordi" title="Category:Scores published by Ricordi">Scores published by Ricordi</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Longo,_Alessandro/Collections" title="Category:Longo, Alessandro/Collections">Longo, Alessandro/Collections</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_piano" title="Category:For piano">For piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Works_first_published_in_1906" title="Category:Works first published in 1906">Works first published in 1906</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Abt,_Franz/Collections" title="Category:Abt, Franz/Collections">Abt, Franz/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:D%27Alai,_Mauro/Collections" title="Category:D'Alai, Mauro/Collections">D'Alai, Mauro/Collections</a></li><li><a href="/wiki/Category:Alyabyev,_Aleksandr/Collections" title="Category:Alyabyev, Aleksandr/Collections">Alyabyev, Aleksandr/Collections</a></li><li><a href="/wiki/Category:Anfossi,_Pasquale/Collections" title="Category:Anfossi, Pasquale/Collections">Anfossi, Pasquale/Collections</a></li><li><a href="/wiki/Category:Arcadelt,_Jacob/Collections" title="Category:Arcadelt, Jacob/Collections">Arcadelt, Jacob/Collections</a></li><li><a href="/wiki/Category:D%27Arienzo,_Nicola/Collections" title="Category:D'Arienzo, Nicola/Collections">D'Arienzo, Nicola/Collections</a></li><li><a href="/wiki/Category:Arne,_Thomas_Augustine/Collections" title="Category:Arne, Thomas Augustine/Collections">Arne, Thomas Augustine/Collections</a></li><li><a href="/wiki/Category:Bach,_Carl_Philipp_Emanuel/Collections" title="Category:Bach, Carl Philipp Emanuel/Collections">Bach, Carl Philipp Emanuel/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Christian/Collections" title="Category:Bach, Johann Christian/Collections">Bach, Johann Christian/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Christoph/Collections" title="Category:Bach, Johann Christoph/Collections">Bach, Johann Christoph/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Sebastian/Collections" title="Category:Bach, Johann Sebastian/Collections">Bach, Johann Sebastian/Collections</a></li><li><a href="/wiki/Category:Bach,_Wilhelm_Friedemann/Collections" title="Category:Bach, Wilhelm Friedemann/Collections">Bach, Wilhelm Friedemann/Collections</a></li><li><a href="/wiki/Category:Bazzini,_Antonio/Collections" title="Category:Bazzini, Antonio/Collections">Bazzini, Antonio/Collections</a></li><li><a href="/wiki/Category:Beethoven,_Ludwig_van/Collections" title="Category:Beethoven, Ludwig van/Collections">Beethoven, Ludwig van/Collections</a></li><li><a href="/wiki/Category:Bellini,_Vincenzo/Collections" title="Category:Bellini, Vincenzo/Collections">Bellini, Vincenzo/Collections</a></li><li><a href="/wiki/Category:Bencini,_Pietro_Paolo/Collections" title="Category:Bencini, Pietro Paolo/Collections">Bencini, Pietro Paolo/Collections</a></li><li><a href="/wiki/Category:Benda,_Georg/Collections" title="Category:Benda, Georg/Collections">Benda, Georg/Collections</a></li><li><a href="/wiki/Category:Bianchi,_Francesco/Collections" title="Category:Bianchi, Francesco/Collections">Bianchi, Francesco/Collections</a></li><li><a href="/wiki/Category:Biber,_Heinrich_Ignaz_Franz_von/Collections" title="Category:Biber, Heinrich Ignaz Franz von/Collections">Biber, Heinrich Ignaz Franz von/Collections</a></li><li><a href="/wiki/Category:Boccherini,_Luigi/Collections" title="Category:Boccherini, Luigi/Collections">Boccherini, Luigi/Collections</a></li><li><a href="/wiki/Category:Boieldieu,_Fran%C3%A7ois_Adrien/Collections" title="Category:Boieldieu, François Adrien/Collections">Boieldieu, François Adrien/Collections</a></li><li><a href="/wiki/Category:Boito,_Arrigo/Collections" title="Category:Boito, Arrigo/Collections">Boito, Arrigo/Collections</a></li><li><a href="/wiki/Category:Bononcini,_Giovanni/Collections" title="Category:Bononcini, Giovanni/Collections">Bononcini, Giovanni/Collections</a></li><li><a href="/wiki/Category:Bottesini,_Giovanni/Collections" title="Category:Bottesini, Giovanni/Collections">Bottesini, Giovanni/Collections</a></li><li><a href="/wiki/Category:Byrd,_William/Collections" title="Category:Byrd, William/Collections">Byrd, William/Collections</a></li><li><a href="/wiki/Category:Caldara,_Antonio/Collections" title="Category:Caldara, Antonio/Collections">Caldara, Antonio/Collections</a></li><li><a href="/wiki/Category:Capponi,_Francesco/Collections" title="Category:Capponi, Francesco/Collections">Capponi, Francesco/Collections</a></li><li><a href="/wiki/Category:Carissimi,_Giacomo/Collections" title="Category:Carissimi, Giacomo/Collections">Carissimi, Giacomo/Collections</a></li><li><a href="/wiki/Category:Catalani,_Alfredo/Collections" title="Category:Catalani, Alfredo/Collections">Catalani, Alfredo/Collections</a></li><li><a href="/wiki/Category:Cavalli,_Francesco/Collections" title="Category:Cavalli, Francesco/Collections">Cavalli, Francesco/Collections</a></li><li><a href="/wiki/Category:Cesi,_Beniamino/Collections" title="Category:Cesi, Beniamino/Collections">Cesi, Beniamino/Collections</a></li><li><a href="/wiki/Category:Cesti,_Antonio/Collections" title="Category:Cesti, Antonio/Collections">Cesti, Antonio/Collections</a></li><li><a href="/wiki/Category:Chambonni%C3%A8res,_Jacques_Champion_de/Collections" title="Category:Chambonnières, Jacques Champion de/Collections">Chambonnières, Jacques Champion de/Collections</a></li><li><a href="/wiki/Category:Cherubini,_Luigi/Collections" title="Category:Cherubini, Luigi/Collections">Cherubini, Luigi/Collections</a></li><li><a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric/Collections" title="Category:Chopin, Frédéric/Collections">Chopin, Frédéric/Collections</a></li><li><a href="/wiki/Category:Cimarosa,_Domenico/Collections" title="Category:Cimarosa, Domenico/Collections">Cimarosa, Domenico/Collections</a></li><li><a href="/wiki/Category:Clementi,_Muzio/Collections" title="Category:Clementi, Muzio/Collections">Clementi, Muzio/Collections</a></li><li><a href="/wiki/Category:Corelli,_Arcangelo/Collections" title="Category:Corelli, Arcangelo/Collections">Corelli, Arcangelo/Collections</a></li><li><a href="/wiki/Category:Costa,_Pasquale_Mario/Collections" title="Category:Costa, Pasquale Mario/Collections">Costa, Pasquale Mario/Collections</a></li><li><a href="/wiki/Category:Couperin,_Fran%C3%A7ois/Collections" title="Category:Couperin, François/Collections">Couperin, François/Collections</a></li><li><a href="/wiki/Category:Crescentini,_Girolamo/Collections" title="Category:Crescentini, Girolamo/Collections">Crescentini, Girolamo/Collections</a></li><li><a href="/wiki/Category:Dalayrac,_Nicolas/Collections" title="Category:Dalayrac, Nicolas/Collections">Dalayrac, Nicolas/Collections</a></li><li><a href="/wiki/Category:Dandrieu,_Jean-Fran%C3%A7ois/Collections" title="Category:Dandrieu, Jean-François/Collections">Dandrieu, Jean-François/Collections</a></li><li><a href="/wiki/Category:Daquin,_Louis-Claude/Collections" title="Category:Daquin, Louis-Claude/Collections">Daquin, Louis-Claude/Collections</a></li><li><a href="/wiki/Category:David,_F%C3%A9licien/Collections" title="Category:David, Félicien/Collections">David, Félicien/Collections</a></li><li><a href="/wiki/Category:Del_Valle_de_Paz,_Edgardo/Collections" title="Category:Del Valle de Paz, Edgardo/Collections">Del Valle de Paz, Edgardo/Collections</a></li><li><a href="/wiki/Category:Denza,_Luigi/Collections" title="Category:Denza, Luigi/Collections">Denza, Luigi/Collections</a></li><li><a href="/wiki/Category:Dittersdorf,_Carl_Ditters_von/Collections" title="Category:Dittersdorf, Carl Ditters von/Collections">Dittersdorf, Carl Ditters von/Collections</a></li><li><a href="/wiki/Category:D%C3%B6hler,_Theodor/Collections" title="Category:Döhler, Theodor/Collections">Döhler, Theodor/Collections</a></li><li><a href="/wiki/Category:Donizetti,_Gaetano/Collections" title="Category:Donizetti, Gaetano/Collections">Donizetti, Gaetano/Collections</a></li><li><a href="/wiki/Category:Durante,_Francesco/Collections" title="Category:Durante, Francesco/Collections">Durante, Francesco/Collections</a></li><li><a href="/wiki/Category:Esposito,_Michele/Collections" title="Category:Esposito, Michele/Collections">Esposito, Michele/Collections</a></li><li><a href="/wiki/Category:Faccio,_Franco/Collections" title="Category:Faccio, Franco/Collections">Faccio, Franco/Collections</a></li><li><a href="/wiki/Category:Falchi,_Stanislao/Collections" title="Category:Falchi, Stanislao/Collections">Falchi, Stanislao/Collections</a></li><li><a href="/wiki/Category:Falconieri,_Andrea/Collections" title="Category:Falconieri, Andrea/Collections">Falconieri, Andrea/Collections</a></li><li><a href="/wiki/Category:Fesch,_Willem_de/Collections" title="Category:Fesch, Willem de/Collections">Fesch, Willem de/Collections</a></li><li><a href="/wiki/Category:Floridia,_Pietro/Collections" title="Category:Floridia, Pietro/Collections">Floridia, Pietro/Collections</a></li><li><a href="/wiki/Category:Florimo,_Francesco/Collections" title="Category:Florimo, Francesco/Collections">Florimo, Francesco/Collections</a></li><li><a href="/wiki/Category:Flotow,_Friedrich_von/Collections" title="Category:Flotow, Friedrich von/Collections">Flotow, Friedrich von/Collections</a></li><li><a href="/wiki/Category:Franchetti,_Alberto/Collections" title="Category:Franchetti, Alberto/Collections">Franchetti, Alberto/Collections</a></li><li><a href="/wiki/Category:Frescobaldi,_Girolamo/Collections" title="Category:Frescobaldi, Girolamo/Collections">Frescobaldi, Girolamo/Collections</a></li><li><a href="/wiki/Category:Gaffi,_Tommaso_Bernardo/Collections" title="Category:Gaffi, Tommaso Bernardo/Collections">Gaffi, Tommaso Bernardo/Collections</a></li><li><a href="/wiki/Category:Gavini%C3%A8s,_Pierre/Collections" title="Category:Gaviniès, Pierre/Collections">Gaviniès, Pierre/Collections</a></li><li><a href="/wiki/Category:Geminiani,_Francesco/Collections" title="Category:Geminiani, Francesco/Collections">Geminiani, Francesco/Collections</a></li><li><a href="/wiki/Category:Giordani,_Tommaso/Collections" title="Category:Giordani, Tommaso/Collections">Giordani, Tommaso/Collections</a></li><li><a href="/wiki/Category:Glinka,_Mikhail/Collections" title="Category:Glinka, Mikhail/Collections">Glinka, Mikhail/Collections</a></li><li><a href="/wiki/Category:Gluck,_Christoph_Willibald/Collections" title="Category:Gluck, Christoph Willibald/Collections">Gluck, Christoph Willibald/Collections</a></li><li><a href="/wiki/Category:Goldmark,_Carl/Collections" title="Category:Goldmark, Carl/Collections">Goldmark, Carl/Collections</a></li><li><a href="/wiki/Category:Gomes,_Carlos/Collections" title="Category:Gomes, Carlos/Collections">Gomes, Carlos/Collections</a></li><li><a href="/wiki/Category:Gordigiani,_Luigi/Collections" title="Category:Gordigiani, Luigi/Collections">Gordigiani, Luigi/Collections</a></li><li><a href="/wiki/Category:Gounod,_Charles/Collections" title="Category:Gounod, Charles/Collections">Gounod, Charles/Collections</a></li><li><a href="/wiki/Category:Gr%C3%A9try,_Andr%C3%A9_Ernest_Modeste/Collections" title="Category:Grétry, André Ernest Modeste/Collections">Grétry, André Ernest Modeste/Collections</a></li><li><a href="/wiki/Category:Hal%C3%A9vy,_Fromental/Collections" title="Category:Halévy, Fromental/Collections">Halévy, Fromental/Collections</a></li><li><a href="/wiki/Category:Handel,_George_Frideric/Collections" title="Category:Handel, George Frideric/Collections">Handel, George Frideric/Collections</a></li><li><a href="/wiki/Category:Hasse,_Johann_Adolph/Collections" title="Category:Hasse, Johann Adolph/Collections">Hasse, Johann Adolph/Collections</a></li><li><a href="/wiki/Category:H%C3%A4ssler,_Johann_Wilhelm/Collections" title="Category:Hässler, Johann Wilhelm/Collections">Hässler, Johann Wilhelm/Collections</a></li><li><a href="/wiki/Category:Hauptmann,_Moritz/Collections" title="Category:Hauptmann, Moritz/Collections">Hauptmann, Moritz/Collections</a></li><li><a href="/wiki/Category:Haydn,_Joseph/Collections" title="Category:Haydn, Joseph/Collections">Haydn, Joseph/Collections</a></li><li><a href="/wiki/Category:Hensel,_Fanny/Collections" title="Category:Hensel, Fanny/Collections">Hensel, Fanny/Collections</a></li><li><a href="/wiki/Category:H%C3%A9rold,_Ferdinand/Collections" title="Category:Hérold, Ferdinand/Collections">Hérold, Ferdinand/Collections</a></li><li><a href="/wiki/Category:Himmel,_Friedrich_Heinrich/Collections" title="Category:Himmel, Friedrich Heinrich/Collections">Himmel, Friedrich Heinrich/Collections</a></li><li><a href="/wiki/Category:Hummel,_Johann_Nepomuk/Collections" title="Category:Hummel, Johann Nepomuk/Collections">Hummel, Johann Nepomuk/Collections</a></li><li><a href="/wiki/Category:Isouard,_Nicolo/Collections" title="Category:Isouard, Nicolo/Collections">Isouard, Nicolo/Collections</a></li><li><a href="/wiki/Category:Jommelli,_Niccol%C3%B2/Collections" title="Category:Jommelli, Niccolò/Collections">Jommelli, Niccolò/Collections</a></li><li><a href="/wiki/Category:Ketten,_Henry/Collections" title="Category:Ketten, Henry/Collections">Ketten, Henry/Collections</a></li><li><a href="/wiki/Category:Kirnberger,_Johann_Philipp/Collections" title="Category:Kirnberger, Johann Philipp/Collections">Kirnberger, Johann Philipp/Collections</a></li><li><a href="/wiki/Category:Krebs,_Johann_Ludwig/Collections" title="Category:Krebs, Johann Ludwig/Collections">Krebs, Johann Ludwig/Collections</a></li><li><a href="/wiki/Category:Kreutzer,_Rodolphe/Collections" title="Category:Kreutzer, Rodolphe/Collections">Kreutzer, Rodolphe/Collections</a></li><li><a href="/wiki/Category:Kuhlau,_Friedrich/Collections" title="Category:Kuhlau, Friedrich/Collections">Kuhlau, Friedrich/Collections</a></li><li><a href="/wiki/Category:Lassus,_Orlande_de/Collections" title="Category:Lassus, Orlande de/Collections">Lassus, Orlande de/Collections</a></li><li><a href="/wiki/Category:Leclair,_Jean-Marie/Collections" title="Category:Leclair, Jean-Marie/Collections">Leclair, Jean-Marie/Collections</a></li><li><a href="/wiki/Category:Legrenzi,_Giovanni/Collections" title="Category:Legrenzi, Giovanni/Collections">Legrenzi, Giovanni/Collections</a></li><li><a href="/wiki/Category:Leo,_Leonardo/Collections" title="Category:Leo, Leonardo/Collections">Leo, Leonardo/Collections</a></li><li><a href="/wiki/Category:Lindpaintner,_Peter_Joseph_von/Collections" title="Category:Lindpaintner, Peter Joseph von/Collections">Lindpaintner, Peter Joseph von/Collections</a></li><li><a href="/wiki/Category:Liszt,_Franz/Collections" title="Category:Liszt, Franz/Collections">Liszt, Franz/Collections</a></li><li><a href="/wiki/Category:Locatelli,_Pietro_Antonio/Collections" title="Category:Locatelli, Pietro Antonio/Collections">Locatelli, Pietro Antonio/Collections</a></li><li><a href="/wiki/Category:Lori,_Arcangelo/Collections" title="Category:Lori, Arcangelo/Collections">Lori, Arcangelo/Collections</a></li><li><a href="/wiki/Category:Lortzing,_Albert/Collections" title="Category:Lortzing, Albert/Collections">Lortzing, Albert/Collections</a></li><li><a href="/wiki/Category:Lotti,_Antonio/Collections" title="Category:Lotti, Antonio/Collections">Lotti, Antonio/Collections</a></li><li><a href="/wiki/Category:Lully,_Jean-Baptiste/Collections" title="Category:Lully, Jean-Baptiste/Collections">Lully, Jean-Baptiste/Collections</a></li><li><a href="/wiki/Category:Luzzi,_Luigi/Collections" title="Category:Luzzi, Luigi/Collections">Luzzi, Luigi/Collections</a></li><li><a href="/wiki/Category:Mancinelli,_Luigi/Collections" title="Category:Mancinelli, Luigi/Collections">Mancinelli, Luigi/Collections</a></li><li><a href="/wiki/Category:Manfroce,_Nicola/Collections" title="Category:Manfroce, Nicola/Collections">Manfroce, Nicola/Collections</a></li><li><a href="/wiki/Category:Marcello,_Benedetto/Collections" title="Category:Marcello, Benedetto/Collections">Marcello, Benedetto/Collections</a></li><li><a href="/wiki/Category:Marchetti,_Filippo/Collections" title="Category:Marchetti, Filippo/Collections">Marchetti, Filippo/Collections</a></li><li><a href="/wiki/Category:Mariani,_Angelo/Collections" title="Category:Mariani, Angelo/Collections">Mariani, Angelo/Collections</a></li><li><a href="/wiki/Category:Marini,_Biagio/Collections" title="Category:Marini, Biagio/Collections">Marini, Biagio/Collections</a></li><li><a href="/wiki/Category:Marschner,_Heinrich/Collections" title="Category:Marschner, Heinrich/Collections">Marschner, Heinrich/Collections</a></li><li><a href="/wiki/Category:Martini,_Giovanni_Battista/Collections" title="Category:Martini, Giovanni Battista/Collections">Martini, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Martucci,_Giuseppe/Collections" title="Category:Martucci, Giuseppe/Collections">Martucci, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Mascagni,_Pietro/Collections" title="Category:Mascagni, Pietro/Collections">Mascagni, Pietro/Collections</a></li><li><a href="/wiki/Category:Mascheroni,_Edoardo/Collections" title="Category:Mascheroni, Edoardo/Collections">Mascheroni, Edoardo/Collections</a></li><li><a href="/wiki/Category:Massenet,_Jules/Collections" title="Category:Massenet, Jules/Collections">Massenet, Jules/Collections</a></li><li><a href="/wiki/Category:Mattheson,_Johann/Collections" title="Category:Mattheson, Johann/Collections">Mattheson, Johann/Collections</a></li><li><a href="/wiki/Category:Mazzaferrata,_Giovanni_Battista/Collections" title="Category:Mazzaferrata, Giovanni Battista/Collections">Mazzaferrata, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Mazzucato,_Alberto/Collections" title="Category:Mazzucato, Alberto/Collections">Mazzucato, Alberto/Collections</a></li><li><a href="/wiki/Category:M%C3%A9hul,_Etienne_Nicolas/Collections" title="Category:Méhul, Etienne Nicolas/Collections">Méhul, Etienne Nicolas/Collections</a></li><li><a href="/wiki/Category:Mendelssohn,_Felix/Collections" title="Category:Mendelssohn, Felix/Collections">Mendelssohn, Felix/Collections</a></li><li><a href="/wiki/Category:Mercadante,_Saverio/Collections" title="Category:Mercadante, Saverio/Collections">Mercadante, Saverio/Collections</a></li><li><a href="/wiki/Category:Meyerbeer,_Giacomo/Collections" title="Category:Meyerbeer, Giacomo/Collections">Meyerbeer, Giacomo/Collections</a></li><li><a href="/wiki/Category:Monsigny,_Pierre-Alexandre/Collections" title="Category:Monsigny, Pierre-Alexandre/Collections">Monsigny, Pierre-Alexandre/Collections</a></li><li><a href="/wiki/Category:Monteverdi,_Claudio/Collections" title="Category:Monteverdi, Claudio/Collections">Monteverdi, Claudio/Collections</a></li><li><a href="/wiki/Category:Mozart,_Leopold/Collections" title="Category:Mozart, Leopold/Collections">Mozart, Leopold/Collections</a></li><li><a href="/wiki/Category:Mozart,_Wolfgang_Amadeus/Collections" title="Category:Mozart, Wolfgang Amadeus/Collections">Mozart, Wolfgang Amadeus/Collections</a></li><li><a href="/wiki/Category:Muffat,_Georg/Collections" title="Category:Muffat, Georg/Collections">Muffat, Georg/Collections</a></li><li><a href="/wiki/Category:Nardini,_Pietro/Collections" title="Category:Nardini, Pietro/Collections">Nardini, Pietro/Collections</a></li><li><a href="/wiki/Category:Nichelmann,_Christoph/Collections" title="Category:Nichelmann, Christoph/Collections">Nichelmann, Christoph/Collections</a></li><li><a href="/wiki/Category:Nicolai,_Otto/Collections" title="Category:Nicolai, Otto/Collections">Nicolai, Otto/Collections</a></li><li><a href="/wiki/Category:Niedermeyer,_Louis/Collections" title="Category:Niedermeyer, Louis/Collections">Niedermeyer, Louis/Collections</a></li><li><a href="/wiki/Category:Orefice,_Giuseppe_dell%27/Collections" title="Category:Orefice, Giuseppe dell'/Collections">Orefice, Giuseppe dell'/Collections</a></li><li><a href="/wiki/Category:Pacini,_Giovanni/Collections" title="Category:Pacini, Giovanni/Collections">Pacini, Giovanni/Collections</a></li><li><a href="/wiki/Category:Paganini,_Niccol%C3%B2/Collections" title="Category:Paganini, Niccolò/Collections">Paganini, Niccolò/Collections</a></li><li><a href="/wiki/Category:Paisiello,_Giovanni/Collections" title="Category:Paisiello, Giovanni/Collections">Paisiello, Giovanni/Collections</a></li><li><a href="/wiki/Category:Pa%C3%ABr,_Ferdinando/Collections" title="Category:Paër, Ferdinando/Collections">Paër, Ferdinando/Collections</a></li><li><a href="/wiki/Category:Palestrina,_Giovanni_Pierluigi_da/Collections" title="Category:Palestrina, Giovanni Pierluigi da/Collections">Palestrina, Giovanni Pierluigi da/Collections</a></li><li><a href="/wiki/Category:Paradies,_Pietro_Domenico/Collections" title="Category:Paradies, Pietro Domenico/Collections">Paradies, Pietro Domenico/Collections</a></li><li><a href="/wiki/Category:Pergolesi,_Giovanni_Battista/Collections" title="Category:Pergolesi, Giovanni Battista/Collections">Pergolesi, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Peri,_Jacopo/Collections" title="Category:Peri, Jacopo/Collections">Peri, Jacopo/Collections</a></li><li><a href="/wiki/Category:Perosi,_Lorenzo/Collections" title="Category:Perosi, Lorenzo/Collections">Perosi, Lorenzo/Collections</a></li><li><a href="/wiki/Category:Perti,_Giacomo_Antonio/Collections" title="Category:Perti, Giacomo Antonio/Collections">Perti, Giacomo Antonio/Collections</a></li><li><a href="/wiki/Category:Petrella,_Errico/Collections" title="Category:Petrella, Errico/Collections">Petrella, Errico/Collections</a></li><li><a href="/wiki/Category:Picchi,_Giovanni/Collections" title="Category:Picchi, Giovanni/Collections">Picchi, Giovanni/Collections</a></li><li><a href="/wiki/Category:Piccinni,_Niccol%C3%B2/Collections" title="Category:Piccinni, Niccolò/Collections">Piccinni, Niccolò/Collections</a></li><li><a href="/wiki/Category:Platania,_Pietro/Collections" title="Category:Platania, Pietro/Collections">Platania, Pietro/Collections</a></li><li><a href="/wiki/Category:Poi%C3%9Fl,_Johann_Nepomuk_von/Collections" title="Category:Poißl, Johann Nepomuk von/Collections">Poißl, Johann Nepomuk von/Collections</a></li><li><a href="/wiki/Category:Ponchielli,_Amilcare/Collections" title="Category:Ponchielli, Amilcare/Collections">Ponchielli, Amilcare/Collections</a></li><li><a href="/wiki/Category:Porpora,_Nicola_Antonio/Collections" title="Category:Porpora, Nicola Antonio/Collections">Porpora, Nicola Antonio/Collections</a></li><li><a href="/wiki/Category:Puccini,_Giacomo/Collections" title="Category:Puccini, Giacomo/Collections">Puccini, Giacomo/Collections</a></li><li><a href="/wiki/Category:Purcell,_Henry/Collections" title="Category:Purcell, Henry/Collections">Purcell, Henry/Collections</a></li><li><a href="/wiki/Category:Rameau,_Jean-Philippe/Collections" title="Category:Rameau, Jean-Philippe/Collections">Rameau, Jean-Philippe/Collections</a></li><li><a href="/wiki/Category:Reichardt,_Johann_Friedrich/Collections" title="Category:Reichardt, Johann Friedrich/Collections">Reichardt, Johann Friedrich/Collections</a></li><li><a href="/wiki/Category:Reissiger,_Carl_Gottlieb/Collections" title="Category:Reissiger, Carl Gottlieb/Collections">Reissiger, Carl Gottlieb/Collections</a></li><li><a href="/wiki/Category:Ricci,_Luigi/Collections" title="Category:Ricci, Luigi/Collections">Ricci, Luigi/Collections</a></li><li><a href="/wiki/Category:Ricordi,_Giulio/Collections" title="Category:Ricordi, Giulio/Collections">Ricordi, Giulio/Collections</a></li><li><a href="/wiki/Category:Rigatti,_Giovanni_Antonio/Collections" title="Category:Rigatti, Giovanni Antonio/Collections">Rigatti, Giovanni Antonio/Collections</a></li><li><a href="/wiki/Category:Righini,_Vincenzo/Collections" title="Category:Righini, Vincenzo/Collections">Righini, Vincenzo/Collections</a></li><li><a href="/wiki/Category:Rode,_Pierre/Collections" title="Category:Rode, Pierre/Collections">Rode, Pierre/Collections</a></li><li><a href="/wiki/Category:Romberg,_Bernhard/Collections" title="Category:Romberg, Bernhard/Collections">Romberg, Bernhard/Collections</a></li><li><a href="/wiki/Category:Rosa,_Salvator/Collections" title="Category:Rosa, Salvator/Collections">Rosa, Salvator/Collections</a></li><li><a href="/wiki/Category:Rossi,_Francesco/Collections" title="Category:Rossi, Francesco/Collections">Rossi, Francesco/Collections</a></li><li><a href="/wiki/Category:Rossi,_Michelangelo/Collections" title="Category:Rossi, Michelangelo/Collections">Rossi, Michelangelo/Collections</a></li><li><a href="/wiki/Category:Rossini,_Gioacchino/Collections" title="Category:Rossini, Gioacchino/Collections">Rossini, Gioacchino/Collections</a></li><li><a href="/wiki/Category:Rousseau,_Jean-Jacques/Collections" title="Category:Rousseau, Jean-Jacques/Collections">Rousseau, Jean-Jacques/Collections</a></li><li><a href="/wiki/Category:Rubinstein,_Anton/Collections" title="Category:Rubinstein, Anton/Collections">Rubinstein, Anton/Collections</a></li><li><a href="/wiki/Category:Sacchini,_Antonio/Collections" title="Category:Sacchini, Antonio/Collections">Sacchini, Antonio/Collections</a></li><li><a href="/wiki/Category:Salieri,_Antonio/Collections" title="Category:Salieri, Antonio/Collections">Salieri, Antonio/Collections</a></li><li><a href="/wiki/Category:Sammartini,_Giuseppe/Collections" title="Category:Sammartini, Giuseppe/Collections">Sammartini, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Sarti,_Giuseppe/Collections" title="Category:Sarti, Giuseppe/Collections">Sarti, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Scarlatti,_Alessandro/Collections" title="Category:Scarlatti, Alessandro/Collections">Scarlatti, Alessandro/Collections</a></li><li><a href="/wiki/Category:Scarlatti,_Domenico/Collections" title="Category:Scarlatti, Domenico/Collections">Scarlatti, Domenico/Collections</a></li><li><a href="/wiki/Category:Scarlatti,_Giuseppe/Collections" title="Category:Scarlatti, Giuseppe/Collections">Scarlatti, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Schubert,_Franz/Collections" title="Category:Schubert, Franz/Collections">Schubert, Franz/Collections</a></li><li><a href="/wiki/Category:Schumann,_Robert/Collections" title="Category:Schumann, Robert/Collections">Schumann, Robert/Collections</a></li><li><a href="/wiki/Category:Serrao,_Paolo/Collections" title="Category:Serrao, Paolo/Collections">Serrao, Paolo/Collections</a></li><li><a href="/wiki/Category:Sgambati,_Giovanni/Collections" title="Category:Sgambati, Giovanni/Collections">Sgambati, Giovanni/Collections</a></li><li><a href="/wiki/Category:Spohr,_Louis/Collections" title="Category:Spohr, Louis/Collections">Spohr, Louis/Collections</a></li><li><a href="/wiki/Category:Spontini,_Gaspare/Collections" title="Category:Spontini, Gaspare/Collections">Spontini, Gaspare/Collections</a></li><li><a href="/wiki/Category:Supriani,_Francesco/Collections" title="Category:Supriani, Francesco/Collections">Supriani, Francesco/Collections</a></li><li><a href="/wiki/Category:Steibelt,_Daniel/Collections" title="Category:Steibelt, Daniel/Collections">Steibelt, Daniel/Collections</a></li><li><a href="/wiki/Category:Stradella,_Alessandro/Collections" title="Category:Stradella, Alessandro/Collections">Stradella, Alessandro/Collections</a></li><li><a href="/wiki/Category:Strozzi,_Barbara/Collections" title="Category:Strozzi, Barbara/Collections">Strozzi, Barbara/Collections</a></li><li><a href="/wiki/Category:Tartini,_Giuseppe/Collections" title="Category:Tartini, Giuseppe/Collections">Tartini, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Thalberg,_Sigismond/Collections" title="Category:Thalberg, Sigismond/Collections">Thalberg, Sigismond/Collections</a></li><li><a href="/wiki/Category:Thomas,_Ambroise/Collections" title="Category:Thomas, Ambroise/Collections">Thomas, Ambroise/Collections</a></li><li><a href="/wiki/Category:Tofano,_Gustavo/Collections" title="Category:Tofano, Gustavo/Collections">Tofano, Gustavo/Collections</a></li><li><a href="/wiki/Category:Torelli,_Giuseppe/Collections" title="Category:Torelli, Giuseppe/Collections">Torelli, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Tosti,_Francesco_Paolo/Collections" title="Category:Tosti, Francesco Paolo/Collections">Tosti, Francesco Paolo/Collections</a></li><li><a href="/wiki/Category:Traetta,_Tommaso/Collections" title="Category:Traetta, Tommaso/Collections">Traetta, Tommaso/Collections</a></li><li><a href="/wiki/Category:Turini,_Francesco/Collections" title="Category:Turini, Francesco/Collections">Turini, Francesco/Collections</a></li><li><a href="/wiki/Category:Vaccai,_Nicola/Collections" title="Category:Vaccai, Nicola/Collections">Vaccai, Nicola/Collections</a></li><li><a href="/wiki/Category:Veracini,_Francesco_Maria/Collections" title="Category:Veracini, Francesco Maria/Collections">Veracini, Francesco Maria/Collections</a></li><li><a href="/wiki/Category:Verdi,_Giuseppe/Collections" title="Category:Verdi, Giuseppe/Collections">Verdi, Giuseppe/Collections</a></li><li><a href="/wiki/Category:Viotti,_Giovanni_Battista/Collections" title="Category:Viotti, Giovanni Battista/Collections">Viotti, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Vivaldi,_Antonio/Collections" title="Category:Vivaldi, Antonio/Collections">Vivaldi, Antonio/Collections</a></li><li><a href="/wiki/Category:Wagenseil,_Georg_Christoph/Collections" title="Category:Wagenseil, Georg Christoph/Collections">Wagenseil, Georg Christoph/Collections</a></li><li><a href="/wiki/Category:Wagner,_Richard/Collections" title="Category:Wagner, Richard/Collections">Wagner, Richard/Collections</a></li><li><a href="/wiki/Category:Weber,_Carl_Maria_von/Collections" title="Category:Weber, Carl Maria von/Collections">Weber, Carl Maria von/Collections</a></li><li><a href="/wiki/Category:Westerhout,_Niccol%C3%B2_van/Collections" title="Category:Westerhout, Niccolò van/Collections">Westerhout, Niccolò van/Collections</a></li><li><a href="/wiki/Category:Zipoli,_Domenico/Collections" title="Category:Zipoli, Domenico/Collections">Zipoli, Domenico/Collections</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Biblioteca_d%27oro_%28Longo%2C_Alessandro%29">6,251 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Biblioteca%20d%27oro%20%28Longo%2C%20Alessandro%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.030 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414220025 -->
+</html>
+		

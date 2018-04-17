@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Recitative_and_Aria_from_\'Diana_e_Endimione\',_G.80_(Gerson,_Georg)", "wgTitle": "Recitative and Aria from \'Diana e Endimione\', G.80 (Gerson, Georg)", "wgCurRevisionId": 2509606, "wgArticleId": 212562, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WIMA files", "Scores from Det Kongelige Bibliotek", "Manuscripts from the 1800s", "Composers\' holographs from the 1800s", "Mondrup, Christian/Editor", "Scores", "Gerson, Georg", "Romantic style", "Romantic", "Recitatives", "Arias", "Duets", "For 2 voices, orchestra", "For voices with orchestra", "Scores featuring the voice", "Scores featuring the soprano voice", "Scores featuring the tenor voice", "Scores featuring the orchestra", "For 2 voices, piano", "For voices with keyboard", "Scores featuring the piano", "Italian language", "Vestris, Stefano/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Recitative_and_Aria_from_Diana_e_Endimione_G_80_Gerson_Georg action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)&amp;oldid=2509606" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Recitative%20and%20Aria%20from%20%27Diana%20e%20Endimione%27%2C%20G.80%20%28Gerson%2C%20Georg%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>Composition Year
+</th>
+<td>1813-11-03
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Recitatives&amp;transclude=Template:Catintro">Recitatives</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Arias&amp;transclude=Template:Catintro">Arias</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Duets&amp;transclude=Template:Catintro">Duets</a></span>; <span class="expandline" title="10 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_voices%2C_orchestra&amp;transclude=Template:Catintro">For 2 voices, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_orchestra&amp;transclude=Template:Catintro">For voices with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_soprano_voice&amp;transclude=Template:Catintro">Scores featuring the soprano voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_tenor_voice&amp;transclude=Template:Catintro">Scores featuring the tenor voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_voices%2C_piano&amp;transclude=Template:Catintro">For 2 voices, piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_keyboard&amp;transclude=Template:Catintro">For voices with keyboard</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Italian_language&amp;transclude=Template:Catintro">Italian language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Recitative and Aria from 'Diana e Endimione', G.80","composer":"Gerson, Georg","comphref":"\/wiki\/Category:Gerson,_Georg"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"recitative and aria from 'diana e endimione'","itunes":"recitative and aria from 'diana e endimione'","composer":"gerson","scorekeywords":"recitative and aria from 'diana e endimione'","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"353476":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353476"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353476"}},"353549":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353549"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353549"}},"104010":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=104010"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP104010"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/104010"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/104010"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/104010"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23104010"}},"353455":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=353455"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353455\/353456\/353457\/353460\/f1e7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353455"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353455"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353455"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353455"}},"353456":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=353456"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353455\/353456\/353457\/353460\/f1e7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353456"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353456"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353456"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353456"}},"353457":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=353457"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353455\/353456\/353457\/353460\/f1e7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353457"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353457"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353457"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353457"}},"353460":{"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353455\/353456\/353457\/353460\/f1e7"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353460"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353460"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353460"}},"353461":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353461"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353461"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353461"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353461"}},"353462":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353462"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353462"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353462"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353462"}},"353463":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353463"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353463"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353463"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353463"}},"353464":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353464"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353464"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353464"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353464"}},"353466":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353466"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353466"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353466"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353466"}},"353467":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353467"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353467"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353467"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353467"}},"353468":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353468"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353468"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353468"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353468"}},"353469":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353469"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353469"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353469"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353469"}},"353470":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353470"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353470"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353470"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353470"}},"353471":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353471"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353471"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353471"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353471"}},"423663":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP423663"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/423663"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/423663"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23423663"}},"353472":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353472"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353472"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353472"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353472"}},"423664":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP423664"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/423664"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/423664"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23423664"}},"353473":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353473"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353473"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353473"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353473"}},"423665":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP423665"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/423665"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/423665"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23423665"}},"353474":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353474"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353474"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353474"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353474"}},"353475":{"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353461\/353462\/353463\/353464\/353466\/353467\/353468\/353469\/353470\/353471\/423663\/353472\/423664\/353473\/423665\/353474\/353475\/06e8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353475"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353475"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353475"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353475"}},"353458":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=353458"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353458\/353459\/bf40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353458"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353458"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353458"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353458"}},"353459":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=353459"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/353458\/353459\/bf40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP353459"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/353459"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/353459"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Recitative+and+Aria+from+%27Diana+e+Endimione%27%2C+G.80+%28Gerson%2C+Georg%29&frmTitle=IMSLP+%23353459"}}};JGFileOpts={"353476":[],"353549":[],"104010":[],"353455":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgXyKRrZaCRAGM88GfVuPpMfy4cEMEtPjzCBcrwpW548kulcRMU+JSxlfoflIlH\/qE="},"353456":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjjAGGxuffIs\/9yRKwWtRNYV5jRkntWHkCkMlPtiOsZ9CkSsLSlS8mFZped\/XYOm\/uZb6Nr5iiMxEW6LAWHbLRz"},"353457":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnz7TJy8fmPyKQ36mJi7ohNuTBePlVKL1uZTiwO5NHEF36xz7tDJGQnMJxl7sXPbg="},"353460":[],"353461":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjwVCkzfiL2IevL1kgtvB+D9zQ0SpWX3CCukIa\/YQdo8nW14cJNOjTb6BwrQ4ibNK34vRI2HV+dqE7cQfUl9qGZ"},"353462":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjU\/ZpOQMUbPv+bXaUR7BcFdKxlewKenK9fY5DyrRhWhoPWlstmvsU27vx6idI8Y2Wk2InFAclPvNl+7LyDQq5A"},"353463":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhYgpffxxViLgJxm6Lb8rIxc\/hKdD5vBI9vNwHWs+fifiEVJvH+Fd2gWhQHhjF12oiWludBmu95kWNB\/lxOfhQM"},"353464":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgg+4P1oDlChYAFdX36Q\/cw12XIuo5w9JX\/Lrfq3CLz5KIn\/Snz6N4S1Arom64kz8GdLKFOe3sop4X7t3qXpCyr"},"353466":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjtHSN1Ynf5TDS5xdJRdIkuDWvdogjQcEHw8wu2qmMggPZEx5XMHNYlzSLPeFxNuphghPfL2VaKruys5ucXuTsn"},"353467":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0CvwFzlCDHfUR6m4YQehOfFgeETnEucYwmNrpEv8oTEGf+Ex\/25NCQBSPc+YbDf15vTOzQLV0RgW1l\/sV\/rM1"},"353468":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2birkW9RMqJ1VBYSnuFtelZbehgymJ0nzkhMs\/uvBDeBZ+pDI+Acj\/hKIiOtwiERid68r2yE4bbme\/ZUvjjydsNl"},"353469":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bipyeYnjW655vEvZ9t5CgOTxfhekEM\/3K98nfQGGSy2XbbDzIDIwCvtKsNQK0IylXiuaHoMxcjlkCvDK\/CeIz+U"},"353470":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhsTbO\/JZI1CkPEnFdSGbBG7S8jRipFDLhiQRZ+vMhtl00DlXZPncJZRtWB206odFC065ExKSynBg36dzkPp5Na"},"353471":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgphB+oqAtEpGSzFJXvR7PQOwMN6lyvZ1Gt5zi51Yn5amhTiwjtBxac\/jWkd04adUrQPki+zkzwK2HDN8wtJtWp"},"423663":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgywvUzPuoZ7uUBu55eKj75nsGkWoJtQbbPOiNCNjZYKqc6utPPQAmdzSktx+qGOf9e2F+CWRzcAz99zfwWoJT3"},"353472":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpP42d1VHzgi9UgbDqYzOn5SiIYOaZVkgXjBOOUiyf0JkDVfXL6ti0+9gg4j3XOCL\/LOyoPDoeS71hN2\/VY+dW"},"423664":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgXyKRrZaCRAGM88GfVuPpMBM8mFSSgsSgo672VUeJoXkl18+r4xEIVtd8c8c0+TcANtvzNoDvDLCFkzyPbAKuk"},"353473":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjYa\/OrzE8XtdhqKxDB6GhsNEn0tNB+1NjrmX\/JbKUHPn3RI5cpEsj36gUNUYL3gjhSM+n9yNDAYMw5U2QksnM8"},"423665":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgwfxiauvRily7rORhgdLwLGUDJaCl8cDd9iczxhp\/NXdzvD0E80Re3GAkjJ5WC9Slagjfa4Dd0kCf1VG936KuY"},"353474":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCsTvPKqJ1MSWldoCEquZm2GNq1GwXjbCYB9+DakE9Bhvhp0FL3Po0OmmB+f99QlL9vFGsgjmf87J7HXKtwhu1"},"353475":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkol3vTF+uG57mN4PAKizD45nJsbaepF+hHoZ3Xl63l+JoyOiMC9aNEKiVvfKbPzBAobbm9buLJOW1Ffhfr6He"},"353458":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg0FECXVJkJgS9b5BeLXAFsvOfuyN3DQmkBJPUVNYc9VR\/d9CR6aG4a+i+bOnM9d6lFtl9aHdclbtUCx5h8iu0P"},"353459":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj5wcAcwGE4HAglfh9JvXq73x0jC5of7HVox4eTxpL08P7DtEt55XogbLYEMhrn3gmrwFOYJXIFSPUpSzjmaQ2L"}};JGPageUntagged=false;JGPageTags=["recitatives","arias","duets","sop ten orch","sop ten pf","it"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":0},"scores":{"tabScore1":false,"tabScore2":false,"tabScore3":false,"tabArrTrans":true,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"353476":[0,0],"353549":[0,0],"104010":[0,0],"353455":[0,0],"353456":[0,0],"353457":[0,0],"353460":[0,0],"353461":[0,0],"353462":[0,0],"353463":[0,0],"353464":[0,0],"353466":[0,0],"353467":[0,0],"353468":[0,0],"353469":[0,0],"353470":[0,0],"353471":[0,0],"423663":[0,0],"353472":[0,0],"423664":[0,0],"353473":[0,0],"423665":[0,0],"353474":[0,0],"353475":[0,0],"353458":[0,0],"353459":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Piano"><span class="tocnumber">1.2.1</span> <span class="toctext">For Piano</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.3</span> <span class="toctext">Vocal Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">2</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<p><span id="naa-nofilesnote"><i>No files submitted.</i><br /></span><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP353476" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353476"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Synthesized Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/45/PMLP212562-diana.mp3" class="internal" title="PMLP212562-diana.mp3">*</a></span><a href="/wiki/File:PMLP212562-diana.mp3" title="File:PMLP212562-diana.mp3">#353476</a> - 10.55MB - 6:03<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353476' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353476'>
+	<a href='javascript:void(0)' id='353476' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353476' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353476' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353476' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353476' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353476'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/353476/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353476/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@353476" title="Special:GetFCtrStats/@353476">16</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a><span class="mh555"> (<i>Unknown</i>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_353476'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"353476":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/4\/45\/IMSLP353476-PMLP212562-diana.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Christian Mondrup
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=353476">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=353476">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="353476">Javascript is required for this feature.</div><script>JGINITsearchbars['353476']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h5> <span class="mw-headline" id="For_Piano">For Piano</span></h5>
+<div class="we"><div id="IMSLP353549" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353549"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Synthesized Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/36/PMLP212562-diana_pno.mp3" class="internal" title="PMLP212562-diana pno.mp3">*</a></span><a href="/wiki/File:PMLP212562-diana_pno.mp3" title="File:PMLP212562-diana pno.mp3">#353549</a> - 9.61MB - 6:02<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353549' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353549'>
+	<a href='javascript:void(0)' id='353549' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353549' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353549' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353549' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353549' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353549'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/353549/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353549/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@353549" title="Special:GetFCtrStats/@353549">11</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a><span class="mh555"> (2014/11/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_353549'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"353549":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/3\/36\/IMSLP353549-PMLP212562-diana_pno.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Christian Mondrup
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=353549">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=353549">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="353549">Javascript is required for this feature.</div><script>JGINITsearchbars['353549']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">5</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">17</span>)</a></b></li><li id="tabScore3_tab"><b><a href="#tabScore3">Vocal Scores (<span id="tabScore3_ct">2</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP104010" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/104010"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a8/PMLP212562-gerson-part_4-m_recit_%26_aria_diana_e_endimione.pdf" class="internal" title="PMLP212562-gerson-part 4-m recit &amp; aria diana e endimione.pdf">*</a></span><a href="/wiki/File:PMLP212562-gerson-part_4-m_recit_%26_aria_diana_e_endimione.pdf" title="File:PMLP212562-gerson-part 4-m recit &amp; aria diana e endimione.pdf">#104010</a> - 14.83MB, 23 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-104010' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-104010'>
+	<a href='javascript:void(0)' id='104010' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='104010' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='104010' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='104010' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='104010' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-104010'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/104010/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/104010/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 299"><a href="/wiki/Special:GetFCtrStats/@104010" title="Special:GetFCtrStats/@104010">299</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/elib/noder/"><span style="border-bottom:1px dotted black" title="Det Kongelige Bibliothek">DK-Kk</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (<span title="Updated: 2014/10/31" class="hovertext">2011/6/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Holograph manuscript, 1823
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=104010">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=104010">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Includes keyboard reduction for rehearsal.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="104010">Javascript is required for this feature.</div><script>JGINITsearchbars['104010']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP212562-gerson-part_4-m_recit_%26_aria_diana_e_endimione.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a8/106959a571741df89edeb7a906190260c68c3796.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP353455" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353455"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/64/PMLP212562-Diana.pdf" class="internal" title="PMLP212562-Diana.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana.pdf" title="File:PMLP212562-Diana.pdf">#353455</a> - 0.38MB, 39 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353455' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353455'>
+	<a href='javascript:void(0)' id='353455' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353455' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353455' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353455' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353455' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353455'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353455/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353455/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 72"><a href="/wiki/Special:GetFCtrStats/@353455" title="Special:GetFCtrStats/@353455">72</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2017/2/1" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353456" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353456"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Coda, 1813 version</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/af/PMLP212562-Diana-1813.pdf" class="internal" title="PMLP212562-Diana-1813.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana-1813.pdf" title="File:PMLP212562-Diana-1813.pdf">#353456</a> - 0.03MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353456' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353456'>
+	<a href='javascript:void(0)' id='353456' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353456' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353456' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353456' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353456' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353456'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353456/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353456/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@353456" title="Special:GetFCtrStats/@353456">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353457" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353457"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Contemporized Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ec/PMLP212562-Dianan.pdf" class="internal" title="PMLP212562-Dianan.pdf">*</a></span><a href="/wiki/File:PMLP212562-Dianan.pdf" title="File:PMLP212562-Dianan.pdf">#353457</a> - 0.39MB, 40 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353457' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353457'>
+	<a href='javascript:void(0)' id='353457' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353457' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353457' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353457' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353457' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353457'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353457/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353457/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 38"><a href="/wiki/Special:GetFCtrStats/@353457" title="Special:GetFCtrStats/@353457">38</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2017/12/23" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353460" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353460"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (MUP, TeX, QuickScript, Shell- and Perl- scripts)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2e/PMLP212562-Diana.zip" class="internal" title="PMLP212562-Diana.zip">*</a></span><a href="/wiki/File:PMLP212562-Diana.zip" title="File:PMLP212562-Diana.zip">#353460</a> - 0.11MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353460' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353460'>
+	<a href='javascript:void(0)' id='353460' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353460' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353460' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353460' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353460' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353460'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353460/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353460/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 49"><a href="/wiki/Special:GetFCtrStats/@353460" title="Special:GetFCtrStats/@353460">49</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2017/12/23" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Mondrup,_Christian" title="Category:Mondrup, Christian">Christian Mondrup</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Christian Mondrup
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=353455/353456/353457/353460">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=353455/353456/353457/353460">del</a>/<span id="fmrglnk" data-pdfstr="353455//353456//353457/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="353455">Javascript is required for this feature.</div><script>JGINITsearchbars['353455']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP212562-Diana.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/64/aa2be059f3b0e28e16acd7ca56c5354bc3f4ff57.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP353461" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353461"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e4/PMLP212562-Diana_fl.pdf" class="internal" title="PMLP212562-Diana fl.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_fl.pdf" title="File:PMLP212562-Diana fl.pdf">#353461</a> - 0.03MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353461' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353461'>
+	<a href='javascript:void(0)' id='353461' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353461' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353461' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353461' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353461' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353461'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353461/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353461/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 31"><a href="/wiki/Special:GetFCtrStats/@353461" title="Special:GetFCtrStats/@353461">31</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_5" data-block="5">
+<p><b>⇒ <u>16 more</u>:</b> Oboe 1 • Oboe 2 • Bassoon 1 • Bassoon 2 • Horn 1 (G) (original) • Horn 2 (G) (original) • Horn 1 (F) (transposed) • Horn 2 (F) (transposed) • Violins I (contemporized) • Violins I (original) • Violins II (contemporized) • Violins II (original) • Violas (contemporized) • Violas (original) • Cellos • Basses
+</p>
+</div><div id="IMSLP353462" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353462"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ab/PMLP212562-Diana_ob1.pdf" class="internal" title="PMLP212562-Diana ob1.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_ob1.pdf" title="File:PMLP212562-Diana ob1.pdf">#353462</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353462' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353462'>
+	<a href='javascript:void(0)' id='353462' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353462' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353462' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353462' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353462' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353462'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353462/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353462/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@353462" title="Special:GetFCtrStats/@353462">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353463" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353463"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1e/PMLP212562-Diana_ob2.pdf" class="internal" title="PMLP212562-Diana ob2.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_ob2.pdf" title="File:PMLP212562-Diana ob2.pdf">#353463</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353463' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353463'>
+	<a href='javascript:void(0)' id='353463' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353463' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353463' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353463' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353463' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353463'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353463/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353463/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 27"><a href="/wiki/Special:GetFCtrStats/@353463" title="Special:GetFCtrStats/@353463">27</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353464" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353464"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/60/PMLP212562-Diana_fg1.pdf" class="internal" title="PMLP212562-Diana fg1.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_fg1.pdf" title="File:PMLP212562-Diana fg1.pdf">#353464</a> - 0.03MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353464' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353464'>
+	<a href='javascript:void(0)' id='353464' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353464' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353464' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353464' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353464' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353464'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353464/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353464/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 29"><a href="/wiki/Special:GetFCtrStats/@353464" title="Special:GetFCtrStats/@353464">29</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353466" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353466"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/04/PMLP212562-Diana_fg2.pdf" class="internal" title="PMLP212562-Diana fg2.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_fg2.pdf" title="File:PMLP212562-Diana fg2.pdf">#353466</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353466' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353466'>
+	<a href='javascript:void(0)' id='353466' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353466' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353466' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353466' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353466' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353466'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353466/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353466/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@353466" title="Special:GetFCtrStats/@353466">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353467" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353467"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1 (G) (original)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5b/PMLP212562-Diana_cr1.pdf" class="internal" title="PMLP212562-Diana cr1.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_cr1.pdf" title="File:PMLP212562-Diana cr1.pdf">#353467</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353467' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353467'>
+	<a href='javascript:void(0)' id='353467' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353467' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353467' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353467' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353467' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353467'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353467/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353467/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 27"><a href="/wiki/Special:GetFCtrStats/@353467" title="Special:GetFCtrStats/@353467">27</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353468" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353468"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 2 (G) (original)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5c/PMLP212562-Diana_cr2.pdf" class="internal" title="PMLP212562-Diana cr2.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_cr2.pdf" title="File:PMLP212562-Diana cr2.pdf">#353468</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353468' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353468'>
+	<a href='javascript:void(0)' id='353468' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353468' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353468' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353468' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353468' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353468'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353468/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353468/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@353468" title="Special:GetFCtrStats/@353468">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353469" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353469"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1 (F) (transposed)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/39/PMLP212562-Diana_crf1.pdf" class="internal" title="PMLP212562-Diana crf1.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_crf1.pdf" title="File:PMLP212562-Diana crf1.pdf">#353469</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353469' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353469'>
+	<a href='javascript:void(0)' id='353469' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353469' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353469' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353469' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353469' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353469'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353469/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353469/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@353469" title="Special:GetFCtrStats/@353469">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353470" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353470"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 2 (F) (transposed)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/10/PMLP212562-Diana_crf2.pdf" class="internal" title="PMLP212562-Diana crf2.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_crf2.pdf" title="File:PMLP212562-Diana crf2.pdf">#353470</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353470' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353470'>
+	<a href='javascript:void(0)' id='353470' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353470' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353470' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353470' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353470' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353470'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353470/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353470/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 27"><a href="/wiki/Special:GetFCtrStats/@353470" title="Special:GetFCtrStats/@353470">27</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353471" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353471"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I (contemporized)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/20/PMLP212562-Diana_vl1.pdf" class="internal" title="PMLP212562-Diana vl1.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_vl1.pdf" title="File:PMLP212562-Diana vl1.pdf">#353471</a> - 0.05MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353471' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353471'>
+	<a href='javascript:void(0)' id='353471' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353471' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353471' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353471' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353471' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353471'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353471/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353471/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 29"><a href="/wiki/Special:GetFCtrStats/@353471" title="Special:GetFCtrStats/@353471">29</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP423663" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/423663"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I (original)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/51/PMLP212562-Diana_ovl1.pdf" class="internal" title="PMLP212562-Diana ovl1.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_ovl1.pdf" title="File:PMLP212562-Diana ovl1.pdf">#423663</a> - 0.05MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-423663' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-423663'>
+	<a href='javascript:void(0)' id='423663' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='423663' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='423663' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='423663' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='423663' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-423663'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/423663/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/423663/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 12"><a href="/wiki/Special:GetFCtrStats/@423663" title="Special:GetFCtrStats/@423663">12</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (2016/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353472" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353472"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II (contemporized)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d2/PMLP212562-Diana_vl2.pdf" class="internal" title="PMLP212562-Diana vl2.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_vl2.pdf" title="File:PMLP212562-Diana vl2.pdf">#353472</a> - 0.05MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353472' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353472'>
+	<a href='javascript:void(0)' id='353472' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353472' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353472' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353472' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353472' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353472'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353472/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353472/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 27"><a href="/wiki/Special:GetFCtrStats/@353472" title="Special:GetFCtrStats/@353472">27</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP423664" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/423664"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II (original)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/64/PMLP212562-Diana_ovl2.pdf" class="internal" title="PMLP212562-Diana ovl2.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_ovl2.pdf" title="File:PMLP212562-Diana ovl2.pdf">#423664</a> - 0.05MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-423664' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-423664'>
+	<a href='javascript:void(0)' id='423664' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='423664' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='423664' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='423664' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='423664' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-423664'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/423664/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/423664/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 13"><a href="/wiki/Special:GetFCtrStats/@423664" title="Special:GetFCtrStats/@423664">13</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (2016/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353473" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353473"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas (contemporized)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e8/PMLP212562-Diana_vla.pdf" class="internal" title="PMLP212562-Diana vla.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_vla.pdf" title="File:PMLP212562-Diana vla.pdf">#353473</a> - 0.04MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353473' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353473'>
+	<a href='javascript:void(0)' id='353473' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353473' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353473' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353473' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353473' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353473'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353473/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353473/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 31"><a href="/wiki/Special:GetFCtrStats/@353473" title="Special:GetFCtrStats/@353473">31</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP423665" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/423665"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas (original)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ac/PMLP212562-Diana_ovla.pdf" class="internal" title="PMLP212562-Diana ovla.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_ovla.pdf" title="File:PMLP212562-Diana ovla.pdf">#423665</a> - 0.04MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-423665' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-423665'>
+	<a href='javascript:void(0)' id='423665' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='423665' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='423665' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='423665' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='423665' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-423665'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/423665/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/423665/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 14"><a href="/wiki/Special:GetFCtrStats/@423665" title="Special:GetFCtrStats/@423665">14</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (2016/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353474" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353474"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/31/PMLP212562-Diana_vcl.pdf" class="internal" title="PMLP212562-Diana vcl.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_vcl.pdf" title="File:PMLP212562-Diana vcl.pdf">#353474</a> - 0.03MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353474' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353474'>
+	<a href='javascript:void(0)' id='353474' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353474' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353474' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353474' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353474' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353474'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353474/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353474/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@353474" title="Special:GetFCtrStats/@353474">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353475" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353475"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c0/PMLP212562-Diana_cb.pdf" class="internal" title="PMLP212562-Diana cb.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_cb.pdf" title="File:PMLP212562-Diana cb.pdf">#353475</a> - 0.03MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353475' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353475'>
+	<a href='javascript:void(0)' id='353475' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353475' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353475' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353475' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353475' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353475'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353475/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353475/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 27"><a href="/wiki/Special:GetFCtrStats/@353475" title="Special:GetFCtrStats/@353475">27</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2016/5/20" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Mondrup,_Christian" title="Category:Mondrup, Christian">Christian Mondrup</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Christian Mondrup
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=353461/353462/353463/353464/353466/353467/353468/353469/353470/353471/423663/353472/423664/353473/423665/353474/353475">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=353461/353462/353463/353464/353466/353467/353468/353469/353470/353471/423663/353472/423664/353473/423665/353474/353475">del</a>/<span id="fmrglnk" data-pdfstr="353461//353462//353463//353464//353466//353467//353468//353469//353470//353471//423663//353472//423664//353473//423665//353474//353475/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="353461">Javascript is required for this feature.</div><script>JGINITsearchbars['353461']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP212562-Diana_fl.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/e4/82d0eb9699b08841c0a6f0dc95b9fe53543c562d.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<div class="we"><div id="IMSLP353458" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353458"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b5/PMLP212562-Diana_pno.pdf" class="internal" title="PMLP212562-Diana pno.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_pno.pdf" title="File:PMLP212562-Diana pno.pdf">#353458</a> - 0.24MB, 13 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353458' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353458'>
+	<a href='javascript:void(0)' id='353458' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353458' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353458' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353458' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353458' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353458'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353458/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353458/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 53"><a href="/wiki/Special:GetFCtrStats/@353458" title="Special:GetFCtrStats/@353458">53</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2017/2/1" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP353459" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/353459"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Contemporized Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bc/PMLP212562-Diana_npno.pdf" class="internal" title="PMLP212562-Diana npno.pdf">*</a></span><a href="/wiki/File:PMLP212562-Diana_npno.pdf" title="File:PMLP212562-Diana npno.pdf">#353459</a> - 0.24MB, 13 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-353459' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-353459'>
+	<a href='javascript:void(0)' id='353459' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='353459' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='353459' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='353459' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='353459' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-353459'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/353459/Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)" title="Special:IMSLPEditCTag/353459/Recitative and Aria from 'Diana e Endimione', G.80 (Gerson, Georg)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 46"><a href="/wiki/Special:GetFCtrStats/@353459" title="Special:GetFCtrStats/@353459">46</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (<span title="Updated: 2017/12/23" class="hovertext">2014/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Mondrup,_Christian" title="Category:Mondrup, Christian">Christian Mondrup</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Christian Mondrup
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=353458/353459">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=353458/353459">del</a>/<span id="fmrglnk" data-pdfstr="353458//353459/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="353458">Javascript is required for this feature.</div><script>JGINITsearchbars['353458']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP212562-Diana_pno.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b5/2236ac91ea0ff143a068ce47d915958ae8a5f68c.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Vocal Scores" data-tabid="tabScore3"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Recitative and Aria from Diana e Endimione
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Recitat. e Duetto
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Gerson,_Georg" title="Category:Gerson, Georg">Gerson, Georg</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>G.80
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IGG 143
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1813-11-03
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Vestris,_Stefano" title="Category:Vestris, Stefano">Stefano Vestris</a> (fl.1809-1817)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Italian
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Voices:</i> soprano, tenor<br /><i>Orchestra:</i> flute, 2 oboes, 2 bassoons, 2 horns (G), strings
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>At the end of the manuscript score Georg Gerson describes the circumstances around the piece. It was composed for an Italian tenor singer, <i>Giovanni Piantanida</i> (Gaetano Piantanida 1768-1836) visiting Copenhagen 1813 for a concert at <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.kb.dk/da/nb/tema/musikteater/Musikalsk_byvandring/Odd_Fellow_Palaeet">The Odd Fellow Palace</a></span>. On the planned program was an aria, <i>Sento mancarmi l'anima</i> which Gerson ascribed to <a href="/wiki/Category:Mayr,_Giovanni_Simone" title="Category:Mayr, Giovanni Simone">Giovanni Simone Mayr</a>. This aria was most likely written by <a href="/wiki/Category:Crescentini,_Girolamo" title="Category:Crescentini, Girolamo">Girolamo Crescentini</a> (1762-1846) as an addition to Mayr's opera <i>Alonso e Cora</i>. Gerson used a motive from the aria in the music to follow, the present recitativo and aria with text by <a href="/wiki/Category:Vestris,_Stefano" title="Category:Vestris, Stefano">Stefano Vestris</a> taken from a cantata, <i><a href="/wiki/Diana_e_Endimione_(Pa%C3%ABr,_Ferdinando)" title="Diana e Endimione (Paër, Ferdinando)">Diana e Endimione</a></i> by <a href="/wiki/Category:Pa%C3%ABr,_Ferdinando" title="Category:Paër, Ferdinando">Ferdinando Paër</a>. In the end the concert was dropped and the planned composition was not completed. Instead Gerson wrote a sketch to a short coda to be used for a stand alone performance of the recitativo and aria.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 1035/1000000
+Post-expand include size: 95538/2097152 bytes
+Template argument size: 508/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:212562-0!*!0!!en!2!* and timestamp 20180417092126 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)&amp;oldid=2509606">http://imslp.org/index.php?title=Recitative_and_Aria_from_%27Diana_e_Endimione%27,_G.80_(Gerson,_Georg)&amp;oldid=2509606</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Scores_from_Det_Kongelige_Bibliotek" title="Category:Scores from Det Kongelige Bibliotek">Scores from Det Kongelige Bibliotek</a></li><li><a href="/wiki/Category:Manuscripts_from_the_1800s" title="Category:Manuscripts from the 1800s">Manuscripts from the 1800s</a></li><li><a href="/wiki/Category:Composers%27_holographs_from_the_1800s" title="Category:Composers' holographs from the 1800s">Composers' holographs from the 1800s</a></li><li><a href="/wiki/Category:Mondrup,_Christian/Editor" title="Category:Mondrup, Christian/Editor">Mondrup, Christian/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Gerson,_Georg" title="Category:Gerson, Georg">Gerson, Georg</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Recitatives" title="Category:Recitatives">Recitatives</a></li><li><a href="/wiki/Category:Arias" title="Category:Arias">Arias</a></li><li><a href="/wiki/Category:Duets" title="Category:Duets">Duets</a></li><li><a href="/wiki/Category:For_2_voices,_orchestra" title="Category:For 2 voices, orchestra">For 2 voices, orchestra</a></li><li><a href="/wiki/Category:For_voices_with_orchestra" title="Category:For voices with orchestra">For voices with orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_soprano_voice" title="Category:Scores featuring the soprano voice">Scores featuring the soprano voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_tenor_voice" title="Category:Scores featuring the tenor voice">Scores featuring the tenor voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_2_voices,_piano" title="Category:For 2 voices, piano">For 2 voices, piano</a></li><li><a href="/wiki/Category:For_voices_with_keyboard" title="Category:For voices with keyboard">For voices with keyboard</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:Italian_language" title="Category:Italian language">Italian language</a></li><li><a href="/wiki/Category:Vestris,_Stefano/Librettist" title="Category:Vestris, Stefano/Librettist">Vestris, Stefano/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Recitative_and_Aria_from_%27Diana_e_Endimione%27%2C_G.80_%28Gerson%2C_Georg%29">795 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Recitative%20and%20Aria%20from%20%27Diana%20e%20Endimione%27%2C%20G.80%20%28Gerson%2C%20Georg%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.402 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180417092126 -->
+</html>
+		

@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Larghetto (Chabrier, Emmanuel) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Larghetto_(Chabrier,_Emmanuel)", "wgTitle": "Larghetto (Chabrier, Emmanuel)", "wgCurRevisionId": 2361596, "wgArticleId": 41036, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with First Editions", "Scores published by Costallat", "Works reprinted by Edwin F. Kalmus", "Anderson, Jay/Editor", "Labey, Marcel/Arranger", "Sibley Mirroring Project", "Scores", "Chabrier, Emmanuel", "Romantic style", "Romantic", "Larghettos", "For horn, orchestra", "Scores featuring the horn", "Scores featuring the orchestra", "For orchestra with soloists", "For horn, piano (arr)", "Scores featuring the piano", "For 2 players", "Pages with arrangements", "Works first published in 1913", "Works first published in the 20th century", "Pages with parts for purchase", "Pages with accompaniments for purchase"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Larghetto_Chabrier_Emmanuel action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Larghetto_(Chabrier,_Emmanuel)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Larghetto+%28Chabrier%2C+Emmanuel%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Larghetto_(Chabrier,_Emmanuel)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Larghetto_(Chabrier,_Emmanuel)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Larghetto_(Chabrier,_Emmanuel)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Larghetto_(Chabrier,_Emmanuel)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Larghetto_(Chabrier,_Emmanuel)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Larghetto_(Chabrier,_Emmanuel)&amp;oldid=2361596" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Larghetto%20%28Chabrier%2C%20Emmanuel%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Larghetto (Chabrier, Emmanuel)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1875
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Larghettos&amp;transclude=Template:Catintro">Larghettos</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_horn%2C_orchestra&amp;transclude=Template:Catintro">For horn, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_horn&amp;transclude=Template:Catintro">Scores featuring the horn</a></span>; <span class="expandline" title="5 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra_with_soloists&amp;transclude=Template:Catintro">For orchestra with soloists</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_horn%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For horn, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Larghetto","composer":"Chabrier, Emmanuel","comphref":"\/wiki\/Category:Chabrier,_Emmanuel"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"larghetto","itunes":"larghetto","composer":"chabrier","scorekeywords":"larghetto","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=18;JGBSAccompnum=1;JGNaxosSearch={"numres":28,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MM2066.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MM2066.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMM2066","desc":"Horn Recital: Matsuzaki, Hiroshi - BELLINI, V. \/ HINDEMITH, P. \/ ROSETTI, A. \/ CHABRIER, E. (Larghetto)","label":"Meister Music","category":"Chamber Music - Classical Music","composer":"Hindemith, Paul -- Chabrier, Emmanuel -- Bellini, Vincenzo -- Rosetti, Antonio","artist":"Matsuzaki, Hiroshi -- Hiroumi, Shigeko","country":"Czech Republic France Germany Italy","catid":"MM2066","cdinfo":[[["Bellini, Vincenzo",[["Horn Concerto in F Major (arr. E. Leloir)","mediaplayer\/player.asp?br=128&tl=916504",[]]]],["Hindemith, Paul",[["Horn Sonata in F Major","mediaplayer\/player.asp?br=128&tl=916505|916506|916507",["I. Massig bewegt","II. Ruhig bewegt","III. Lebhaft"]]]],["Rosetti, Antonio",[["Horn Concerto in E-Flat Major, C. 49\/K.III:36","mediaplayer\/player.asp?br=128&tl=916508|916509|916510",["I. Allegro moderato","II. Romance: Andante","III. Allegretto non troppo"]]]],["Chabrier, Emmanuel",[["Larghetto (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=916511",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0094636509358.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0094636509358.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0094636509358","desc":"CHABRIER, E.: Vocal and Orchestral Music (Plasson)","label":"Warner Classics - Parlophone","category":"Choral - Secular - Classical Music","composer":"Martin, Frank -- Chabrier, Emmanuel","artist":"Mentzer, Susanne -- Plasson, Michel -- Toulouse Capitol Orchestra -- Hendricks, Barbara","country":"Algeria France Switzerland","catid":"0094636509358","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0077775400458.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0077775400458.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0077775400458","desc":"CHABRIER, E.: Vocal and Chamber Music (Hendricks, Mentzer, Toulouse Capitol Orchestra, Plasson)","label":"Warner Classics - Parlophone","category":"Choral - Secular - Classical Music","composer":"Chabrier, Emmanuel","artist":"Mentzer, Susanne -- Plasson, Michel -- Toulouse Capitol Orchestra -- Hendricks, Barbara","country":"Algeria France","catid":"0077775400458","cdinfo":[[["Chabrier, Emmanuel",[["Gwendoline (excerpts)","mediaplayer\/player.asp?br=128&tl=2475535|2475536",["Overture","Neriezpas"]]]],["Chabrier, Emmanuel",[["Ode a la musique","mediaplayer\/player.asp?br=128&tl=2475537",[]]]],["Chabrier, Emmanuel",[["Larghetto","mediaplayer\/player.asp?br=128&tl=2475538",[]],["Habanera (version for orchestra)","mediaplayer\/player.asp?br=128&tl=2475539",[]]]],["Chabrier, Emmanuel",[["3 Valses romantiques (arr. for orchestra)","mediaplayer\/player.asp?br=128&tl=2475540|2475541|2475542",["Tres vite et impetueusement","Mouvement modere de valse","Anime"]]]],["Chabrier, Emmanuel",[["La sulamite","mediaplayer\/player.asp?br=128&tl=2475543",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ARC2014-2B.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ARC2014-2B.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DARC2014-2B","desc":"Horn Recital: Lee, Young Chil - CHABRIER, E. \/ HINDEMITH, P. \/ STRAUSS, F. \/ SCHMID, H.K. \/ GLIERE, R. \/ KOETSER, J. \/ SCHUMANN, R. (The Soul of Horn)","label":"Arcadia","category":"Chamber Music - Classical Music","composer":"Strauss, Franz Joseph -- Koetsier, Jan -- Hindemith, Paul -- Schumann, Robert -- Chabrier, Emmanuel -- Gliere, Reinhold -- Schmid, Heinrich Kaspar","artist":"Lee, Young-Chil -- Angelov, Mario","country":"France Germany Russia","catid":"ARC2014-2B","cdinfo":[[["Chabrier, Emmanuel",[["Larghetto (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=1135490",[]]]],["Hindemith, Paul",[["Horn Sonata","mediaplayer\/player.asp?br=128&tl=1135491|1135492|1135493",["I. Massig bewegt","II. Ruhig bewegt","III. Lebhaft"]]]],["Strauss, Franz Joseph",[["Fantasy on Schubert's Sehnsuchtswalzer, Op. 2","mediaplayer\/player.asp?br=128&tl=1135494",[]]]],["Schmid, Heinrich Kaspar",[["Im tiefsten Walde, Op. 34, No. 4","mediaplayer\/player.asp?br=128&tl=1135495",[]]]],["Gliere, Reinhold",[["Pieces, Op. 35: No. 10. Nocturne","mediaplayer\/player.asp?br=128&tl=1135496",[]]]],["Koetsier, Jan",[["Concertino, Op. 74 (version for horn and piano)","mediaplayer\/player.asp?br=128&tl=1135497|1135498|1135499",["I. Allegro molto","II. Intermezzo","III. Rondo"]]]],["Schumann, Robert",[["Adagio and Allegro, Op. 70","mediaplayer\/player.asp?br=128&tl=1135500",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NV5983.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NV5983.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNV5983","desc":"Chamber Music - BIZET, G. \/ CHABRIER, E. \/ GABEL, F. \/ FRANCK, C. \/ DEBUSSY, C. (Belle nuite) (Goodson, Hawes, McAllister, Sinta, G. Williams)","label":"Navona","category":"Chamber Music - Classical Music","composer":"Ravel, Maurice -- Honegger, Arthur -- Duparc, Henri -- Massenet, Jules -- Messiaen, Olivier -- Offenbach, Jacques -- Chabrier, Emmanuel -- Bizet, Georges -- Faur\u00e9, Gabriel -- Debussy, Claude -- Franck, C\u00e9sar -- Singelee, Jean-Baptiste -- Gabel, Fabien","artist":"Williams, Gail -- Hawes, Randall -- Goodson, Kathryn -- McAllister, Timothy -- Sinta, Donald","country":"France","catid":"NV5983","cdinfo":[[["Debussy, Claude",[["Rapsodie","mediaplayer\/player.asp?br=128&tl=2097019",[]]]],["Chabrier, Emmanuel",[["Larghetto (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=2097020",[]]]],["Gabel, Fabien",[["Fantaisie dans le style de Richard Strauss","mediaplayer\/player.asp?br=128&tl=2097021",[]]]],["Franck, C&#233;sar",[["Violin Sonata in A Major, M. 8 (arr. for alto saxophone and piano)","mediaplayer\/player.asp?br=128&tl=2097022|2097023|2097024|2097025",["I. Allegretto","II. Allegro","III. Recitativo-Fantasia. Moderato","IV. Allegretto poco mosso"]]]]],[["Duparc, Henri",[["Melodies, Op. 2: No. 6. La fuite (arr. for bass trombone, horn and piano)","mediaplayer\/player.asp?br=128&tl=2114300",[]],["Phidyle","mediaplayer\/player.asp?br=128&tl=2114301",[]],["Melodies, Op. 2: No. 1. Soupir (arr. for bass trombone, horn and piano)","mediaplayer\/player.asp?br=128&tl=2114302",[]],["Le manoir de Rosemonde","mediaplayer\/player.asp?br=128&tl=2114303",[]],["Melodies, Op. 2: No. 4. Chanson Triste (arr. for bass trombone, horn and piano)","mediaplayer\/player.asp?br=128&tl=2114304",[]]]],["Singelee, Jean-Baptiste",[["Duo Concertant, Op. 55: II. Andante","mediaplayer\/player.asp?br=128&tl=2097031",[]]]],["Debussy, Claude",[["Beau soir (arr. for alto saxophone and piano)","mediaplayer\/player.asp?br=128&tl=2097032",[]]]],["Ravel, Maurice",[["Piece en forme de habanera (arr. for alto saxophone and piano)","mediaplayer\/player.asp?br=128&tl=2097033",[]]]],["Honegger, Arthur",[["Mimaamaquim, H. 192 (arr. for bass trombone and piano)","mediaplayer\/player.asp?br=128&tl=2097034",[]]]],["Messiaen, Olivier",[["Vocalise-Etude (arr. for alto saxophone and piano)","mediaplayer\/player.asp?br=128&tl=2097035",[]]]],["Faur&#233;, Gabriel",[["Poeme d'un jour, Op. 21: No. 2. Toujours (arr. for bass trombone and piano)","mediaplayer\/player.asp?br=128&tl=2097036",[]],["Lydia, Op. 4, No. 2 (arr. for bass trombone and piano)","mediaplayer\/player.asp?br=128&tl=2097037",[]],["Fleur jetee, Op. 39, No. 2 (arr. for bass trombone and piano)","mediaplayer\/player.asp?br=128&tl=2097038",[]]]],["Bizet, Georges",[["Les pecheurs de perles (The Pearl Fishers), Act I: Au fond du temple saint (arr. for bass trombone, horn and piano)","mediaplayer\/player.asp?br=128&tl=2097039",[]]]],["Massenet, Jules",[["Thais, Act III: Baigne d'eau tes mains et tes levres (arr. for 2 alto saxophones and piano)","mediaplayer\/player.asp?br=128&tl=2097040",[]]]],["Offenbach, Jacques",[["Les contes d'Hoffmann (The Tales of Hoffmann): Belle nuit (arr. for bass trombone, horn and piano)","mediaplayer\/player.asp?br=128&tl=2097041",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CrystalCD377.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CrystalCD377.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCrystalCD377","desc":"Horn Recital: Wekre, Froydis Ree - CHABRIER, E. \/ CHERUBINI, L. \/ SCHUMANN, R. \/ TOMASI, H. \/ SAINT-SAENS, C. \/ SINIGAGLIA, L.","label":"Crystal Records","category":"Chamber Music - Classical Music","composer":"Saint-Sa\u00ebns, Camille -- Cherubini, Luigi -- Tomasi, Henri -- Schumann, Robert -- Chabrier, Emmanuel -- Cui, Cesar -- Sinigaglia, Leone","artist":"Sequoia String Quartet -- Carno, Zita","country":"France Germany Italy Norway Russia","catid":"CrystalCD377","cdinfo":[[["Chabrier, Emmanuel",[["Larghetto (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=1394036",[]]]],["Cherubini, Luigi",[["Sonata for Horn and Orchestra No. 2 (version for horn and string quartet)","mediaplayer\/player.asp?br=128&tl=1394062|1394063",["I. Largo","II. Allegro moderato"]]]],["Schumann, Robert",[["Adagio and Allegro, Op. 70","mediaplayer\/player.asp?br=128&tl=1394066|1394067",["Adagio","Allegro"]]]],["Tomasi, Henri",[["Chant Corse (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=1394085",[]]]],["Tomasi, Henri",[["5 Danses profanes et sacrees: II. Danse profane (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=1394090",[]]]],["Saint-Sa&#235;ns, Camille",[["Morceau de concert, Op. 94 (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=1394093",[]]]],["Sinigaglia, Leone",[["2 pezzi, Op. 28","mediaplayer\/player.asp?br=128&tl=1394097|1394098",["No. 1. Lied","No. 2. Humoreske"]]]],["Cui, Cesar",[["Kaleidoscope, Op. 50: No. 12. Perpetuum Mobile (arr. F.R. Wekre)","mediaplayer\/player.asp?br=128&tl=1394104",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CAvi8553011.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CAvi8553011.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCAvi8553011","desc":"Horn Recital: Schneider, Bruno - SAINT-SAENS, C. \/ FRANCAIX, J. \/ CHABRIER, E. \/ DUKAS, P. \/ POULENC, F. \/ VIGNERY, J.E.V.","label":"CAvi-music","category":"Chamber Music - Classical Music","composer":"Poulenc, Francis -- Saint-Sa\u00ebns, Camille -- Fran\u00e7aix, Jean -- Chabrier, Emmanuel -- Dukas, Paul -- Vignery, Jeanne Emilie Virginie","artist":"Schneider, Bruno -- Le Sage, Eric","country":"Belgium France","catid":"CAvi8553011","cdinfo":[[["Saint-Sa&#235;ns, Camille",[["Romance in F Major, Op. 36 (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=866772",[]]]],["Fran&#231;aix, Jean",[["Divertimento (version for horn and piano)","mediaplayer\/player.asp?br=128&tl=866773|866774|866775",["I. Introduzione","II. Aria di cantabile","III. Canzonetta"]]]],["Chabrier, Emmanuel",[["Larghetto","mediaplayer\/player.asp?br=128&tl=866776",[]]]],["Dukas, Paul",[["Villanelle in F Major","mediaplayer\/player.asp?br=128&tl=866777",[]]]],["Saint-Sa&#235;ns, Camille",[["Romance in E Major, Op. 67 (arr. for horn and piano)","mediaplayer\/player.asp?br=128&tl=866778",[]]]],["Poulenc, Francis",[["Elegie for Horn and Piano","mediaplayer\/player.asp?br=128&tl=866779",[]]]],["Vignery, Jeanne Emilie Virginie",[["Sonate, Op. 7","mediaplayer\/player.asp?br=128&tl=866780|866781|866782",["I. Allegro","II. Lento ma non troppo","III. Allegro ben moderato"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ARS38027.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ARS38027.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DARS38027","desc":"Horn Recital: Hubner, Ulrich - SAINT-SAENS, C. \/ RADOUX, J.-T. \/ PESSARD, E. \/ JEANJEAN, P. \/ KUNC, A. \/ GUILLEMYN, R. \/ STRONG, G.T. \/ CHABRIER, E.","label":"Ars Produktion","category":"Concertos - Classical Music","composer":"Pessard, Emile -- Blanc, Adolphe -- Saint-Sa\u00ebns, Camille -- Strong, George Templeton -- Massenet, Jules -- Chabrier, Emmanuel -- Dubois, Theodore -- Jeanjean, Paul -- Radoux, Jean-Toussaint -- Kunc, Ayme -- Guillemyn, Robert","artist":"H\u00fcbner, Ulrich -- K\u00f6lner Akademie -- Willens, Michael Alexander","country":"France United States","catid":"ARS38027","cdinfo":[[["Saint-Sa&#235;ns, Camille",[["Morceau de concert, Op. 94","mediaplayer\/player.asp?br=128&tl=542905",[]],["Romance in F Major, Op. 36","mediaplayer\/player.asp?br=128&tl=542906",[]]]],["Radoux, Jean-Toussaint",[["Meditation","mediaplayer\/player.asp?br=128&tl=542907",[]]]],["Pessard, Emile",[["Dans la Foret, Op. 130","mediaplayer\/player.asp?br=128&tl=542908",[]]]],["Jeanjean, Paul",[["Nocturne","mediaplayer\/player.asp?br=128&tl=542909",[]]]],["Kunc, Ayme",[["Nocturne","mediaplayer\/player.asp?br=128&tl=542918",[]]]],["Jeanjean, Paul",[["Romance","mediaplayer\/player.asp?br=128&tl=542910",[]]]],["Guillemyn, Robert",[["Chant d'Automne","mediaplayer\/player.asp?br=128&tl=542911",[]]]],["Strong, George Templeton",[["Hallali","mediaplayer\/player.asp?br=128&tl=542912",[]]]],["Chabrier, Emmanuel",[["Larghetto","mediaplayer\/player.asp?br=128&tl=542913",[]]]],["Dubois, Theodore",[["Cavatine","mediaplayer\/player.asp?br=128&tl=542914",[]]]],["Massenet, Jules",[["Schubert - La mer","mediaplayer\/player.asp?br=128&tl=542915",[]]]],["Blanc, Adolphe",[["Romance, Op. 43bis","mediaplayer\/player.asp?br=128&tl=542916",[]]]],["Saint-Sa&#235;ns, Camille",[["Romance in E Major, Op. 67","mediaplayer\/player.asp?br=128&tl=542917",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=9.80320.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=9.80320.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D9.80320","desc":"Pieces for Soloists and Orchestra - HANDEL, G.F. \/ BEETHOVEN, L. \/ WEBER, C.M. \/ CHABRIER, E. (Principals of Philadelphia Orchestra, Ormandy) (1952)","label":"Naxos Classical Archives","category":"Concertos - Classical Music","composer":"Purcell, Henry -- Weber, Carl Maria von -- Griffes, Charles Tomlinson -- Handel, George Frideric -- Chabrier, Emmanuel -- Beethoven, Ludwig van -- Phillips, Burrill","artist":"Ormandy, Eugene -- Philadelphia Orchestra -- Krachmalnick, Jacob -- Jones, Mason -- Tabuteau, Marcel -- Kincaid, William -- Gigliotti, Anthony -- Schoenbach, Sol -- Krauss, Samuel -- Monroe, Lorne","country":"France Germany Ukraine United Kingdom United States","catid":"9.80320","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028944775129.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028944775129.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028944775129","desc":"CHABRIER, E.: Espa\u00f1a \/ Suite pastorale \/ Habanera \/ Joyeuse marche (Vienna Philharmonic, Gardiner)","label":"Deutsche Grammophon","category":"Orchestral - Classical Music","composer":"Chabrier, Emmanuel","artist":"Gardiner, John Eliot -- Vienna Philharmonic Orchestra -- Janezic, Ronald","country":"France","catid":"00028944775129","cdinfo":[[["Chabrier, Emmanuel",[["Suite pastorale","mediaplayer\/player.asp?br=128&tl=2860965|2860966|2860967|2860968",["I. Idylle","II. Danse villageoise","III. Sous-bois","IV. Scherzo-valse"]],["Habanera (version for orchestra)","mediaplayer\/player.asp?br=128&tl=2860969",[]],["Espana","mediaplayer\/player.asp?br=128&tl=2860970",[]],["Larghetto","mediaplayer\/player.asp?br=128&tl=2860971",[]],["Gwendoline: Overture","mediaplayer\/player.asp?br=128&tl=2860972",[]],["Prelude pastoral","mediaplayer\/player.asp?br=128&tl=2860973",[]],["Joyeuse marche","mediaplayer\/player.asp?br=128&tl=2860974",[]],["Le roi malgre lui (The King in Spite of Himself): Le roi malgre lui (The King in Spite of Himself): Fete polonaise","mediaplayer\/player.asp?br=128&tl=2860975",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/chabrier%20larghetto"};IMSLPNaxosSearch="chabrier larghetto";JGaskdonation=0;JGFileTools={"17236":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=17236"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP17236"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=17236","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/17236"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/17236"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Larghetto+%28Chabrier%2C+Emmanuel%29&frmTitle=IMSLP+%2317236"}},"18657":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18657"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18657"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18657"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Larghetto+%28Chabrier%2C+Emmanuel%29&frmTitle=IMSLP+%2318657"}},"478437":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=478437"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/478437\/478438\/b796"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP478437"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/478437"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/478437"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Larghetto+%28Chabrier%2C+Emmanuel%29&frmTitle=IMSLP+%23478437"}},"478438":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=478438"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/478437\/478438\/b796"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP478438"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/478438"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/478438"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Larghetto+%28Chabrier%2C+Emmanuel%29&frmTitle=IMSLP+%23478438"}}};JGFileOpts={"17236":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5XGWlyCEZV1aYSYMJAEJ\/tgVMzNPWwtrO\/D2KoWpvD3wWaEyBhpgcHXEw3v5MpyszIxsc7CGaO3kuO6mn0TKm2DRZ+J6KutR\/5h8ZEiGuiwO2MKfQeGVC9ibWlvzoNoc="},"18657":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biEmrQSI+UjTUeAk4tlV6g2cc1vpHcH4PvgY6h8brV2W1H8CiDGzpHHUhYsReROvpK6k7yz16YJU6ng+loOAgn\/Z9KcyQnaU0Nrs6DjLKVrjA=="},"478437":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjYK6BoGPZ4jb9gp6Px2yDMprbMsxE+1twl+1aCUCB5w\/7nLkxySZl2v4DcG9t72PXsBTxRsxUpD3GiRfcn0DTgcm2kEMH1tSvpAepCrZEq51h1+5GtX96AqIhYUPWbLshvwFE51QJ\/i5Qq0p83TNry"},"478438":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjqr+Sh57mQTWAxtjBMGr98aQY\/8Sn+JZtFciqwHzmWrppVbj7jWkROkiHWfZvdrFs4e1mJXOA2yasm7p5nXtsXRtoxTpUTf4but9V5NqufU48+L0mAhGHQ+Y8sqj1AvTAfQGXrQ7jNnwGPyLd9pvOW"}};JGPageUntagged=false;JGPageTags=["larghettos","hn orch"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"17236":[3.8,"5"],"18657":[8.5,"4"],"478437":[0,0],"478438":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.3</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Horn_and_Piano_.28Labey.29"><span class="tocnumber">2.3.1</span> <span class="toctext">For Horn and Piano (Labey)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">1</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">2</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<div class="we"><div id="IMSLP17236" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/17236"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f6/Chabrier_-_Larghetto_for_Horn_and_Orchestra_%28orch._score%29.pdf" class="internal" title="Chabrier - Larghetto for Horn and Orchestra (orch. score).pdf">*</a></span><a href="/wiki/File:Chabrier_-_Larghetto_for_Horn_and_Orchestra_(orch._score).pdf" title="File:Chabrier - Larghetto for Horn and Orchestra (orch. score).pdf">#17236</a> - 1.76MB, 21 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-17236' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-17236'>
+	<a href='javascript:void(0)' id='17236' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='17236' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='17236' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='17236' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='17236' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-17236'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/17236/Larghetto_(Chabrier,_Emmanuel)" title="Special:IMSLPEditCTag/17236/Larghetto (Chabrier, Emmanuel)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4499"><a href="/wiki/Special:GetFCtrStats/@17236" title="Special:GetFCtrStats/@17236">4499</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Daphnis" title="User:Daphnis">Daphnis</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Daphnis" title="User:Daphnis">Daphnis</a> (2008/6/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition (reprint)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Costallat" title="Costallat">Costallat et Cie.</a><!--ASL0-->, 1913.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Boca Raton: <a href="/wiki/Edwin_F._Kalmus" title="Edwin F. Kalmus">Edwin F. Kalmus</a>, n.d.(after 1989).Catalog A6750.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=17236">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=17236">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="17236">Javascript is required for this feature.</div><script>JGINITsearchbars['17236']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=17236&type=Complete%20Score&pgcount=21&signature=6a3ec5626818534aaeb60499f00246d816d64283"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Chabrier_-_Larghetto_for_Horn_and_Orchestra_(orch._score).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f6/98c7c1753a849f60b755f21dbc353c9276267a28.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP18657" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18657"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn solo (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8b/Emmanuel_Chabrier_-_Larghetto_%28pno_red%29.pdf" class="internal" title="Emmanuel Chabrier - Larghetto (pno red).pdf">*</a></span><a href="/wiki/File:Emmanuel_Chabrier_-_Larghetto_(pno_red).pdf" title="File:Emmanuel Chabrier - Larghetto (pno red).pdf">#18657</a> - 0.13MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18657' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18657'>
+	<a href='javascript:void(0)' id='18657' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18657' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18657' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18657' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18657' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18657'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18657/Larghetto_(Chabrier,_Emmanuel)" title="Special:IMSLPEditCTag/18657/Larghetto (Chabrier, Emmanuel)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 6430"><a href="/wiki/Special:GetFCtrStats/@18657" title="Special:GetFCtrStats/@18657">6430</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rmatosinhos" title="User:Rmatosinhos">Rmatosinhos</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Rmatosinhos" title="User:Rmatosinhos">Rmatosinhos</a> (2008/7/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Anderson,_Jay" title="Category:Anderson, Jay">Jay Anderson</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.mutopiaproject.org/">Mutopia Project, 2007</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=18657">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=18657">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="18657">Javascript is required for this feature.</div><script>JGINITsearchbars['18657']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Emmanuel_Chabrier_-_Larghetto_(pno_red).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8b/18858472803c9f7f501edfe760e0a583071045f6.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Horn_and_Piano_.28Labey.29">For Horn and Piano (Labey)</span></h5>
+<div class="we"><div id="IMSLP478437" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/478437"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/38/PMLP41036-PMLUS00376-Larghetto_pour_cor_et_orchestre_-_Chabrier%2C_Emmanuel-pnscore.pdf" class="internal" title="PMLP41036-PMLUS00376-Larghetto pour cor et orchestre - Chabrier, Emmanuel-pnscore.pdf">*</a></span><a href="/wiki/File:PMLP41036-PMLUS00376-Larghetto_pour_cor_et_orchestre_-_Chabrier,_Emmanuel-pnscore.pdf" title="File:PMLP41036-PMLUS00376-Larghetto pour cor et orchestre - Chabrier, Emmanuel-pnscore.pdf">#478437</a> - 0.66MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-478437' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-478437'>
+	<a href='javascript:void(0)' id='478437' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='478437' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='478437' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='478437' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='478437' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-478437'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/478437/Larghetto_(Chabrier,_Emmanuel)" title="Special:IMSLPEditCTag/478437/Larghetto (Chabrier, Emmanuel)"><span style="color:red"><b>19</b></span>/<span style="color:green">V</span>/<span style="color:red"><b>39</b></span></a> </span>- <span title="Total number of downloads: 32"><a href="/wiki/Special:GetFCtrStats/@478437" title="Special:GetFCtrStats/@478437">32</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Puzzi22" title="User:Puzzi22">Puzzi22</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/7357"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Puzzi22" title="User:Puzzi22">Puzzi22</a> (2017/6/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP478438" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/478438"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7d/PMLP41036-PMLUS00377-Larghetto_pour_cor_et_orchestre_-_Chabrier%2C_Emmanuel_hnpt.pdf" class="internal" title="PMLP41036-PMLUS00377-Larghetto pour cor et orchestre - Chabrier, Emmanuel hnpt.pdf">*</a></span><a href="/wiki/File:PMLP41036-PMLUS00377-Larghetto_pour_cor_et_orchestre_-_Chabrier,_Emmanuel_hnpt.pdf" title="File:PMLP41036-PMLUS00377-Larghetto pour cor et orchestre - Chabrier, Emmanuel hnpt.pdf">#478438</a> - 0.35MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-478438' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-478438'>
+	<a href='javascript:void(0)' id='478438' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='478438' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='478438' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='478438' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='478438' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-478438'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/478438/Larghetto_(Chabrier,_Emmanuel)" title="Special:IMSLPEditCTag/478438/Larghetto (Chabrier, Emmanuel)"><span style="color:red"><b>19</b></span>/<span style="color:green">V</span>/<span style="color:red"><b>39</b></span></a> </span>- <span title="Total number of downloads: 19"><a href="/wiki/Special:GetFCtrStats/@478438" title="Special:GetFCtrStats/@478438">19</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Puzzi22" title="User:Puzzi22">Puzzi22</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/7357"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Puzzi22" title="User:Puzzi22">Puzzi22</a> (2017/6/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Labey,_Marcel" title="Category:Labey, Marcel">Marcel Labey</a>&#160;(1875-1968)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Costallat" title="Costallat">Costallat et Cie.</a><!--ASL1-->, 1913.  Plate 1824.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a>&#160;- <b><span style="color:red">Non-PD Canada, Non-PD EU</span></b><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=478437/478438">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=478437/478438">del</a>/<span id="fmrglnk" data-pdfstr="478437//478438/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="478437">Javascript is required for this feature.</div><script>JGINITsearchbars['478437']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP41036-PMLUS00376-Larghetto_pour_cor_et_orchestre_-_Chabrier,_Emmanuel-pnscore.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/38/e39370283ca7634b4978474ca4a943bad43c8dbf.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Larghetto
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Chabrier,_Emmanuel" title="Category:Chabrier, Emmanuel">Chabrier, Emmanuel</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IEC 22
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1875
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1878
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1913 –Paris: <a href="/wiki/Costallat" title="Costallat">Costallat et Cie.</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>9 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Solo</i>: horn (F)<br /><i>Orchestra</i>: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons + timpani + harp + strings
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>First performed in 1878 but published in 1913. Reduction for horn &amp; piano by Marcel Labey (1875-1968) public domain in the U.S. but under copyright in Canada until 2019.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 471/1000000
+Post-expand include size: 28170/2097152 bytes
+Template argument size: 332/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:41036-0!*!0!!en!2!* and timestamp 20180415080805 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Larghetto_(Chabrier,_Emmanuel)&amp;oldid=2361596">http://imslp.org/index.php?title=Larghetto_(Chabrier,_Emmanuel)&amp;oldid=2361596</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_Costallat" title="Category:Scores published by Costallat">Scores published by Costallat</a></li><li><a href="/wiki/Category:Works_reprinted_by_Edwin_F._Kalmus" title="Category:Works reprinted by Edwin F. Kalmus">Works reprinted by Edwin F. Kalmus</a></li><li><a href="/wiki/Category:Anderson,_Jay/Editor" title="Category:Anderson, Jay/Editor">Anderson, Jay/Editor</a></li><li><a href="/wiki/Category:Labey,_Marcel/Arranger" title="Category:Labey, Marcel/Arranger">Labey, Marcel/Arranger</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Chabrier,_Emmanuel" title="Category:Chabrier, Emmanuel">Chabrier, Emmanuel</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Larghettos" title="Category:Larghettos">Larghettos</a></li><li><a href="/wiki/Category:For_horn,_orchestra" title="Category:For horn, orchestra">For horn, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_horn" title="Category:Scores featuring the horn">Scores featuring the horn</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_orchestra_with_soloists" title="Category:For orchestra with soloists">For orchestra with soloists</a></li><li><a href="/wiki/Category:For_horn,_piano_(arr)" title="Category:For horn, piano (arr)">For horn, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1913" title="Category:Works first published in 1913">Works first published in 1913</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:Pages_with_accompaniments_for_purchase" title="Category:Pages with accompaniments for purchase">Pages with accompaniments for purchase</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Larghetto_%28Chabrier%2C_Emmanuel%29">4,385 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Larghetto%20%28Chabrier%2C%20Emmanuel%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.392 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415080805 -->
+</html>
+		

@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Brigg Fair (Delius, Frederick) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Brigg_Fair_(Delius,_Frederick)", "wgTitle": "Brigg Fair (Delius, Frederick)", "wgCurRevisionId": 2142856, "wgArticleId": 46368, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the New York Philharmonic Orchestra Digital Archives", "Pages with First Editions", "Scores published by F.E.C. Leuckart", "Scores published by Universal Edition", "OM Parts", "Juhl, Dagmar/Arranger", "Scores", "Delius, Frederick", "Romantic style", "Early 20th century", "Rhapsodies", "For orchestra", "Scores featuring the orchestra", "For 2 pianos (arr)", "Scores featuring the piano", "For 2 players", "Pages with arrangements", "Works first published in 1910", "Works first published in the 20th century", "Pages with parts for purchase"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Brigg_Fair_Delius_Frederick action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Brigg_Fair_(Delius,_Frederick)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Brigg_Fair_(Delius,_Frederick)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Brigg_Fair_(Delius,_Frederick)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Brigg_Fair_(Delius,_Frederick)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Brigg_Fair_(Delius,_Frederick)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Brigg_Fair_(Delius,_Frederick)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Brigg_Fair_(Delius,_Frederick)&amp;oldid=2142856" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Brigg%20Fair%20%28Delius%2C%20Frederick%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Brigg Fair (Delius, Frederick)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1907
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Rhapsodies&amp;transclude=Template:Catintro">Rhapsodies</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra&amp;transclude=Template:Catintro">For orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="expandline" title="3 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_pianos_%28arr%29&amp;transclude=Template:Catintro">For 2 pianos (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Brigg Fair","composer":"Delius, Frederick","comphref":"\/wiki\/Category:Delius,_Frederick"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"brigg fair","itunes":"brigg fair","composer":"delius","scorekeywords":"brigg fair","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=37;JGBSAccompnum=0;JGNaxosSearch={"numres":30,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099909465350.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099909465350.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099909465350","desc":"DELIUS, F.: Brigg Fair \/ Florida Suite \/ Songs of Sunset  (Forrester, Cameron, Royal Philharmonic, Beecham)","label":"Warner Classics - Parlophone","category":"Choral - Secular - Classical Music","composer":"Delius, Frederick","artist":"Forrester, Maureen -- Royal Philharmonic Orchestra -- Cameron, John","country":"United Kingdom","catid":"5099909465350","cdinfo":[[["Delius, Frederick",[["Over the Hills and Far Away","mediaplayer\/player.asp?br=128&tl=1265411",[]],["3 Small Tone Poems: No. 2. Winter Night (Sleigh Ride)","mediaplayer\/player.asp?br=128&tl=1265412",[]],["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1265413|1265414|1265415|1265416|1265417|1265418|1265419|1265420|1265421|1265422|1265423|1265424|1265425|1265426|1265427|1265428|1265429|1265430|1265431|1265432|1265433|1265434|1265435",["Introduction","Theme","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Interlude: Slow and very quietly","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12","Transition","Variation 13","Variation 14","Variation 15","Variation 16","Transition (Rather quicker)","Variation 17","Coda"]],["Florida Suite","mediaplayer\/player.asp?br=128&tl=1265467|1265468|1265469|1265470",["I. Daybreak - Dance","II. By the River","III. Sunset - Near the Plantation","IV. At Night"]],["Marche caprice","mediaplayer\/player.asp?br=128&tl=1265471",[]]]]],[["Delius, Frederick",[["A Dance Rhapsody No. 2","mediaplayer\/player.asp?br=128&tl=1265472",[]],["3 Small Tone Poems: No. 1. Summer Evening","mediaplayer\/player.asp?br=128&tl=1265473",[]],["2 Pieces for Small Orchestra: No. 1. On Hearing the First Cuckoo in Spring","mediaplayer\/player.asp?br=128&tl=1265474",[]],["Summer Night on the River","mediaplayer\/player.asp?br=128&tl=1265475",[]],["A Song Before Sunrise","mediaplayer\/player.asp?br=128&tl=1265476",[]],["Fennimore and Gerda: Intermezzo","mediaplayer\/player.asp?br=128&tl=1265477",[]],["Irmelin: Prelude","mediaplayer\/player.asp?br=128&tl=1265478",[]]]],["Delius, Frederick",[["Songs of Sunset","mediaplayer\/player.asp?br=128&tl=1265479|1265480|1265481|1265482|1265483|1265484|1265485|1265486",["No. 1. A song of the setting sun! (Chorus)","No. 2. Cease smiling, Dear! a little while be sad (Mezzo-Soprano, Baritone)","No. 3. Pale amber sunlight fails (Chorus)","No. 4. Exceeding sorrow consumeth my sad heart! (Mezzo-Soprano)","No. 5. By the sad waters of separation (Baritone)","No. 6. See how the trees and osiers lithe (Chorus)","No. 7. I was not sorrowful, I could not weep (Baritone)","No. 8. They are not long, the weeping and the laughter (Mezzo-Soprano, Baritone, Chorus)"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0094637056554.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0094637056554.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0094637056554","desc":"DELIUS, F.: Paris \/ Florida Suite \/ Brigg Fair (Bournemouth Symphony, Hickox)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Delius, Frederick","artist":"Hickox, Richard -- Bournemouth Symphony Orchestra","country":"United Kingdom","catid":"0094637056554","cdinfo":[[["Delius, Frederick",[["Florida Suite (arr. T. Beecham)","mediaplayer\/player.asp?br=128&tl=1100595|1100596|1100597|1100598",["I. Daybreak: Andante moderato - Allegretto","II. By the River: Andantino","III. Sunset: Moderato - Danza: Allegretto","IV. At Night: Andante moderato"]]]],["Delius, Frederick",[["Paris: The Song of a Great City","mediaplayer\/player.asp?br=128&tl=1100599",[]],["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1100642|1100643|1100644|1100645|1100646|1100647",["Introduction","Theme - Variations 1-6","Interlude: Slow and very quietly","Variations 7-12 - Transition","Variations 13-17","Coda"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.553001.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.553001.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.553001","desc":"DELIUS: Paris \/ Brigg Fair \/ Eventyr \/ Irmelin \/ La Calinda","label":"Naxos","category":"Orchestral - Classical Music","composer":"Delius, Frederick","artist":"Fredman, Myer -- New Zealand Symphony Orchestra","country":"United Kingdom","catid":"8.553001","cdinfo":[[["Delius, Frederick",[["Paris: The Song of a Great City","mediaplayer\/player.asp?br=128&tl=8777",[]],["Brigg Fair (An English Rhapsody)","mediaplayer\/player.asp?br=128&tl=8773",[]],["Eventyr (Once upon a time)","mediaplayer\/player.asp?br=128&tl=8774",[]],["Irmelin: Prelude","mediaplayer\/player.asp?br=128&tl=8775",[]]]],["Delius, Frederick",[["Koanga, Act II: La Calinda (arr. E. Fenby)","mediaplayer\/player.asp?br=128&tl=8776",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356755352.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356755352.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356755352","desc":"DELIUS, F.: Brigg Fair \/ A Dance Rhapsody No. 2 \/ Summer Night on the River \/ A Song before Sunrise \/ 3 Small Tone Poems (Beecham)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Delius, Frederick","artist":"Royal Philharmonic Orchestra","country":"United Kingdom","catid":"0724356755352","cdinfo":[[["Delius, Frederick",[["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1114510",[]],["A Dance Rhapsody No. 2","mediaplayer\/player.asp?br=128&tl=1114511",[]],["2 Pieces for Small Orchestra: No. 1. On Hearing the First Cuckoo in Spring","mediaplayer\/player.asp?br=128&tl=1114512",[]],["Summer Night on the River","mediaplayer\/player.asp?br=128&tl=1114520",[]],["A Song Before Sunrise","mediaplayer\/player.asp?br=128&tl=1114513",[]],["Fennimore and Gerda: Intermezzo","mediaplayer\/player.asp?br=128&tl=1114514",[]],["Irmelin: Prelude","mediaplayer\/player.asp?br=128&tl=1114515",[]],["3 Small Tone Poems (excerpts)","mediaplayer\/player.asp?br=128&tl=1114516|1114517",["No. 2. Winter Night (Sleigh Ride)","No. 1. Summer Evening"]],["Florida Suite: I. Daybreak - Dance","mediaplayer\/player.asp?br=128&tl=1114518",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356755253.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356755253.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356755253","desc":"DELIUS, F.: Brigg Fair \/ A Dance Rhapsody No. 2 \/ Summer Night on the River \/ A Song before Sunrise \/ 3 Small Tone Poems (Beecham)","label":"Warner Classics - Parlophone","category":"Orchestral - Classical Music","composer":"Delius, Frederick","artist":"Royal Philharmonic Orchestra","country":"United Kingdom","catid":"0724356755253","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099926431352.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099926431352.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099926431352","desc":"DELIUS, F.: Orchestral Works (Barbirolli, Handley, Groves)","label":"Warner Classics - Parlophone","category":"Choral - Secular - Classical Music","composer":"Delius, Frederick","artist":"Tear, Robert -- Barbirolli, John -- Weldon, George -- Hickox, Richard -- Handley, Vernon -- London Symphony Orchestra -- Northern Sinfonia -- Royal Liverpool Philharmonic Orchestra -- Shirley-Quirk, John -- London Philharmonic Orchestra -- Philharmonia Orchestra -- Royal Philharmonic Orchestra -- Halle Orchestra -- Ledger, Philip -- Groves, Charles","country":"United Kingdom","catid":"5099926431352","cdinfo":[[["Delius, Frederick",[["2 Pieces for Small Orchestra: No. 1. On Hearing the First Cuckoo in Spring","mediaplayer\/player.asp?br=128&tl=1615450",[]]]],["Delius, Frederick",[["A Village Romeo and Juliet: The Walk to the Paradise Garden (arr. T. Beecham for orchestra)","mediaplayer\/player.asp?br=128&tl=1615451",[]]]],["Delius, Frederick",[["Koanga: La Calinda (arr. E. Fenby for orchestra)","mediaplayer\/player.asp?br=128&tl=1615452",[]]]],["Delius, Frederick",[["3 Small Tone Poems: No. 2. Winter Night (Sleigh Ride)","mediaplayer\/player.asp?br=128&tl=1615453",[]],["Irmelin: Prelude","mediaplayer\/player.asp?br=128&tl=1615454",[]]]],["Delius, Frederick",[["Fennimore and Gerda: Intermezzo (arr. E. Fenby for orchestra)","mediaplayer\/player.asp?br=128&tl=1615455",[]]]],["Delius, Frederick",[["A Song Before Sunrise","mediaplayer\/player.asp?br=128&tl=1615456",[]],["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1615457|1615458|1615459|1615460|1615461|1615462|1615463|1615464|1615465|1615466|1615467|1615468|1615469|1615470|1615471|1615472|1615473|1615474|1615475|1615476|1615477|1615478|1615479",["Introduction","Theme","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Interlude: Slow and very quietly","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12","Transition","Variation 13","Variation 14","Variation 15","Variation 16","Transition (Rather quicker)","Variation 17","Coda"]],["In a Summer Garden","mediaplayer\/player.asp?br=128&tl=1615480",[]]]]],[["Delius, Frederick",[["3 Small Tone Poems: No. 1. Summer Evening (arr. T. Beecham for orchestra)","mediaplayer\/player.asp?br=128&tl=1615481",[]]]],["Delius, Frederick",[["Summer Night on the River","mediaplayer\/player.asp?br=128&tl=1615484",[]],["A Song of Summer","mediaplayer\/player.asp?br=128&tl=1615485",[]],["North Country Sketches","mediaplayer\/player.asp?br=128&tl=1615486|1615487|1615488|1615489",["No. 1. Autumn, the Wind Soughs in the Trees","No. 2. Winter Landscape","No. 3. Dance","No. 4. The March of the Spring"]],["Lebenstanz (Life's Dance)","mediaplayer\/player.asp?br=128&tl=1615490",[]]]],["Delius, Frederick",[["Cynara","mediaplayer\/player.asp?br=128&tl=1615491",[]]]],["Delius, Frederick",[["To be sung of a Summer Night on the Water","mediaplayer\/player.asp?br=128&tl=1615492|1615493",["I. Slow, but not dragging","II. Gaily, but not quick"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CC-1336.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CC-1336.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCC-1336","desc":"DELIUS, F.: Walk to the Paradise Garden (The) \/ Brigg Fair \/ 2 Pieces for Small Orchestra \/ In a Summer Garden (London Symphony, Wordsworth)","label":"Collins Classics","category":"Orchestral - Classical Music","composer":"Delius, Frederick","artist":"Wordsworth, Barry -- London Symphony Orchestra","country":"United Kingdom","catid":"CC-1336","cdinfo":[[["Delius, Frederick",[["A Village Romeo and Juliet: The Walk to the Paradise Garden","mediaplayer\/player.asp?br=128&tl=1336845",[]],["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1336846",[]],["2 Pieces for Small Orchestra","mediaplayer\/player.asp?br=128&tl=1336847|1336848",["No. 1. On Hearing the First Cuckoo in Spring","No. 2. Summer Night on the River"]],["A Song Before Sunrise","mediaplayer\/player.asp?br=128&tl=1336849",[]],["Koanga: La Calinda","mediaplayer\/player.asp?br=128&tl=1336850",[]],["3 Small Tone Poems: No. 1. Summer Evening","mediaplayer\/player.asp?br=128&tl=1336851",[]],["In a Summer Garden","mediaplayer\/player.asp?br=128&tl=1336852",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724356511958.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724356511958.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724356511958","desc":"DELIUS, F.: Brigg Fair \/ Appalachia \/ In a Summer Garden \/ A Song of Summer (Barbirolli)","label":"Warner Classics - Parlophone","category":"Choral - Secular - Classical Music","composer":"Delius, Frederick","artist":"Tear, Robert -- Barbirolli, John -- London Symphony Orchestra -- Halle Orchestra -- Jenkins, Alun","country":"United Kingdom","catid":"0724356511958","cdinfo":[[["Delius, Frederick",[["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1264379|1264381|1264382|1264383|1264384|1264385|1264386|1264387|1264388|1264389|1264390|1264391|1264392|1264393|1264394|1264395|1264396|1264397|1264398|1264399|1264400|1264401|1264380",["Introduction","Theme","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Interlude: Slow and very quietly","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12","Transition","Variation 13","Variation 14","Variation 15","Variation 16","Transition (Rather quicker)","Variation 17","Coda"]],["In a Summer Garden","mediaplayer\/player.asp?br=128&tl=1264402",[]],["Appalachia: Variations on an Old Slave Song (rehearsal exerpts)","mediaplayer\/player.asp?br=128&tl=1264403",[]]]],["Delius, Frederick",[["Appalachia: Variations on an Old Slave Song (arr. T. Beecham for orchestra)","mediaplayer\/player.asp?br=128&tl=1264404|1264405|1264406|1264407|1264408|1264409|1264410|1264411|1264412|1264413|1264414|1264415|1264416|1264417|1264418|1264419|1264420",["Introduction: Molto moderato - Tranquillo - Poco pi&#249;","Theme: Andante","Variation 1: Un poco pi&#249;","Variation 2: Moderato","Variation 3: Pi&#249; vivo","Variation 4: Molto moderato","Variation 5: Con moto","Variation 6: Giocoso, allegro moderato","Variation 7: Lento e molto tranquillo","Variation 8: Misterioso","Variation 9: Andante con grazia","Variation 10: Lento sostenuto e tranquillo","Variation 11: Allegro alla marcia","Variation 12: Marcia - Molto lento maestoso","Variation 13: L'istesso tempo","Variation 14: Misterioso lento","Finale: Lento - Pi&#249; mosso"]]]]],[["Delius, Frederick",[["2 Pieces for Small Orchestra","mediaplayer\/player.asp?br=128&tl=1264423|1264424",["No. 1. On Hearing the First Cuckoo in Spring","No. 2. Summer Night on the River"]],["A Song Before Sunrise","mediaplayer\/player.asp?br=128&tl=1264425",[]]]],["Delius, Frederick",[["Hassan, Act I: Interlude","mediaplayer\/player.asp?br=128&tl=1264426",[]],["Hassan, Act I: Serenade","mediaplayer\/player.asp?br=128&tl=1264427",[]]]],["Delius, Frederick",[["Koanga: La Calinda","mediaplayer\/player.asp?br=128&tl=1264428",[]]]],["Delius, Frederick",[["String Quartet: III. Late Swallows (arr. E. Fenby for orchestra)","mediaplayer\/player.asp?br=128&tl=1264429",[]]]],["Delius, Frederick",[["Fennimore and Gerda: Intermezzo","mediaplayer\/player.asp?br=128&tl=1264430",[]],["A Village Romeo and Juliet: The Walk to the Paradise Garden","mediaplayer\/player.asp?br=128&tl=1264431",[]],["Irmelin: Prelude","mediaplayer\/player.asp?br=128&tl=1264432",[]],["A Song of Summer","mediaplayer\/player.asp?br=128&tl=1264433",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SOMM-BEECHAM10.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SOMM-BEECHAM10.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSOMM-BEECHAM10","desc":"DELIUS, F.: Brigg Fair \/ Sea Drift \/ On Hearing the First Cuckoo in Spring \/ A Song before Sunrise (Beecham) (1927-1929, 1945)","label":"SOMM Recordings","category":"Choral - Secular - Classical Music","composer":"Delius, Frederick","artist":"Noble, Dennis -- London Symphony Orchestra -- London Philharmonic Orchestra -- Royal Philharmonic Orchestra -- Symphony Orchestra","country":"United Kingdom United States","catid":"SOMM-BEECHAM10","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CHAN10742.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CHAN10742.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCHAN10742","desc":"DELIUS, F.: Piano Concerto (original version) \/ Paris \/ Idylle Printemps \/ Brigg Fair (Shelley, Royal Scottish National Orchestra, A. Davis)","label":"Chandos","category":"Concertos - Classical Music","composer":"Delius, Frederick","artist":"Davis, Andrew -- Royal Scottish National Orchestra -- Shelley, Howard","country":"United Kingdom","catid":"CHAN10742","cdinfo":[[["Delius, Frederick",[["Brigg Fair: An English Rhapsody","mediaplayer\/player.asp?br=128&tl=1527007|1527008|1527009|1527010",["Theme - Variations 1-6 -","Interlude - Variations 7-10 -","Variations 11-12 - Transition -","Variations 13-17 - Coda"]],["Piano Concerto in C Minor","mediaplayer\/player.asp?br=128&tl=1527011|1527012|1527013",["I. Allegro non troppo","II. Largo","III. Tempo primo"]],["Idylle Printemps","mediaplayer\/player.asp?br=128&tl=1527014",[]],["Paris: The Song of a Great City","mediaplayer\/player.asp?br=128&tl=1527015|1527016|1527017|1527018",["Adagio &#8211;","Vivace &#8211; Adagio con espressione &#8211; Con grazia &#8211;","Molto adagio &#8211; Allegretto grazioso &#8211; Tempo di marcia &#8211;","Adagio molto &#8211; Vivace grazioso &#8211; Molto tranquillo &#8211; Tempo I"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/delius%20brigg%20fair"};IMSLPNaxosSearch="delius brigg fair";JGaskdonation=0;JGFileTools={"396451":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=396451"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/396451\/396450\/eb1f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP396451"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=396451","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/396451"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/396451"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%23396451"}},"396450":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=396450"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/396451\/396450\/eb1f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP396450"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=396450","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/396450"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/396450"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%23396450"}},"53312":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53312"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53312"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53312"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353312"}},"53313":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53313"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53313"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53313"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353313"}},"53314":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53314"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53314"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53314"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353314"}},"53315":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53315"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53315"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53315"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353315"}},"53316":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53316"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53316"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53316"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353316"}},"53317":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53317"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53317"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53317"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353317"}},"53318":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53318"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53318"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53318"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353318"}},"19794":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP19794"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/19794"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/19794"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/19794"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2319794"}},"53319":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53319"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53319"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53319"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353319"}},"53320":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53320"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53320"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53320"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353320"}},"53321":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53321"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53321"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53321"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353321"}},"53322":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53322"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53322"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53322"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353322"}},"27937":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP27937"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/27937"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/27937"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2327937"}},"53323":{"015-ZIPFILE":{"icon":52,"label":"Download 14 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53312\/53313\/53314\/53315\/53316\/53317\/53318\/19794\/53319\/53320\/53321\/53322\/27937\/53323\/fb40"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53323"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53323"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53323"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%2353323"}},"435053":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=435053"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP435053"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=435053","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/435053"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/435053"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Brigg+Fair+%28Delius%2C+Frederick%29&frmTitle=IMSLP+%23435053"}}};JGFileOpts={"396451":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6U4768gb4BnH7H0CEbd7lUSG1xzxxZMiPtfn8vnQmPD1dtsAtf6whjJ4k1PaY+\/ly4KHKlm+Dm7GCY2hkRN8i"},"396450":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6Ir0KO3r8dRFjIT93wgzXtYJeN28+vd4KixZyLqLQnz6DwRM0OQXArNOmYkbUkjLMH50rBPdO58CvbMaDEfGE"},"53312":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5n00RmaUgxwM7QtnNxm4dsCDC6CybNTaWCDdztxNrgOOs19E\/1HebJgumIfzjpgD66ZHLCAiM44YbQ8LUgK4U"},"53313":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjMGIYkYzjIDAXOTdAYOsnocA\/UN27n+snx2J4PV4i+rqRKjo68apCEk85x5F70RVpOimNj\/j\/6yjlCNCIEDkNM"},"53314":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqZHsCAS4va9gsN0cZb6+UmgasAJQnZhcYzuYloU41qtMeBaNdxHoPBSRKUihAJotgwine6ISUBS9kLKoGZ7Wq"},"53315":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biIrxLaEuAfcE8dJ3DwXW0cdj\/8gKqZMi+9TPldFfbZC\/+skiNU60mFBvV7pUtC8CS6UDcpp5x5d2L3dz1fC0LU"},"53316":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biNagzWDR\/nKrXoksXMq5Gs5rfuRGpRnjKlyP1j6Tkw+zB8nT+KHJLR8\/xRrxgCQNhpF8Wwm0XUXEDnv+Wr6Ivw"},"53317":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhfbNVLh2Vcn7BWjvknvoJoo\/qN7vT5eb9+51bJAUgSd8bZudT6LGLSOMRwD2VJ+T+Ojtt3D4o\/NrwBa5ITOjDs"},"53318":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhjSoUwDqNZutTsN0chMx\/ckMMVIp2Y\/FJeljtJ4DlSKun25ygbQ91kC0sW8iSBlm676dc9ddiumWDMn3PSzwwq"},"19794":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjFFVWrlya3g3uuP36ddoT\/jECXK5gBgUK2LN9G5yuuwHCv3pNn1sPboZkc2jwAv5JWSFiQy3wCcaiN+JVkJq\/9"},"53319":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biL2ev2lkgT8Dyn+FS3nKM2JBiwa7usUtCNp6EZ7YsMpk+bLsX60FyLIGX3HUk5Tt4UQ+ohgIQJjq7lLxADzcTN"},"53320":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh3qkTv7OOzrIEknr099DgO4rvh4F\/zhiIFT6L6rgfQWswJJOveTW32OLeMifuVnQ4VXiiZQtHVmAoi8u2LfgNr"},"53321":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biypks4Mg3104+wzJ39mpUcLrN\/SpRqojYNwELvVfZsMqFmVGMGztsFrjfUmM0TP1xdME7MSdK90bmTbHpATH2w"},"53322":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bijc54Mvuctg\/6oIvz4q5IEbnMoPoGGKXPe3aoVnxkSLnQl9IO7\/jApqnWwJQUFCDFJiiNsjrWqlm5f+8ktL\/tn"},"27937":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgiX02z1vnNs2ZKPoJQbdYhl5EaOslYeecyX7UOaxXXMZ0UhMXqKtu1r1XLaageTkTHzof3SuCJ7rBIJanf2hy1"},"53323":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biyJI0N32dRO21ICrOTD5zXA6WHndRcKOIVHU6WVwj02biC0e8pj58VxdrYu7tSp1lqXI7wNDWCuutXxqS1ZC0s"},"435053":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjcnbTiHpOmB0H8HIxOGSuO82Vt+kuAm6VV4MH3nQ2ndeNzgkO6AGQSglEHFLL9t5sHUgxa6VGjtrqJGzNTzkaLWBydqGw2aCRNhzBqJJb3pw=="}};JGPageUntagged=false;JGPageTags=["rhapsodies","orch"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"19794":[10,"1"],"53312":[9.5,"2"],"53313":[10,"1"],"53314":[6.5,"4"],"53315":[7.3333333333333,"3"],"53316":[10,"1"],"53317":[10,"1"],"53318":[8,"2"],"53319":[9.5,"2"],"53320":[7,"5"],"53321":[10,"1"],"53322":[7.5,"2"],"396451":[8,"2"],"396450":[0,0],"27937":[0,0],"53323":[0,0],"435053":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.3</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_2_Pianos"><span class="tocnumber">2.3.1</span> <span class="toctext">For 2 Pianos</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">2</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">14</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">1</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<div class="we"><div id="IMSLP396451" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/396451"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f5/PMLP46368-Delius_Brigg_Fair.pdf" class="internal" title="PMLP46368-Delius Brigg Fair.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius_Brigg_Fair.pdf" title="File:PMLP46368-Delius Brigg Fair.pdf">#396451</a> - 2.59MB, 38 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-396451' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-396451'>
+	<a href='javascript:void(0)' id='396451' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='396451' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='396451' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='396451' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='396451' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-396451'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/396451/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/396451/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 449"><a href="/wiki/Special:GetFCtrStats/@396451" title="Special:GetFCtrStats/@396451">449</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Geniusboy98" title="User:Geniusboy98">Geniusboy98</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://archives.nyphil.org/index.php/artifact/cee7724b-5d20-48ea-8cf8-47a909be92d0"><span style="border-bottom:1px dotted black" title="New York Philharmonic Orchestra Digital Archives">NYPO Dig.Arch</span></a></span><br />
+<a href="/wiki/User:Geniusboy98" title="User:Geniusboy98">Geniusboy98</a> (<span title="Updated: 2015/10/13" class="hovertext">2015/10/12</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP396450" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/396450"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Color cover</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8a/PMLP46368-Delius_Brigg_Fair_cover.pdf" class="internal" title="PMLP46368-Delius Brigg Fair cover.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius_Brigg_Fair_cover.pdf" title="File:PMLP46368-Delius Brigg Fair cover.pdf">#396450</a> - 1.90MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-396450' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-396450'>
+	<a href='javascript:void(0)' id='396450' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='396450' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='396450' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='396450' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='396450' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-396450'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/396450/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/396450/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 49"><a href="/wiki/Special:GetFCtrStats/@396450" title="Special:GetFCtrStats/@396450">49</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Geniusboy98" title="User:Geniusboy98">Geniusboy98</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://archives.nyphil.org/index.php/artifact/cee7724b-5d20-48ea-8cf8-47a909be92d0"><span style="border-bottom:1px dotted black" title="New York Philharmonic Orchestra Digital Archives">NYPO Dig.Arch</span></a></span><br />
+<a href="/wiki/User:Geniusboy98" title="User:Geniusboy98">Geniusboy98</a> (<span title="Updated: 2015/10/13" class="hovertext">2015/10/12</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/F.E.C._Leuckart" title="F.E.C. Leuckart">F.E.C. Leuckart</a><!--ASL0-->, 1910.  Plate 6511.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=396451/396450">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=396451/396450">del</a>/<span id="fmrglnk" data-pdfstr="396451//396450/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Converted to 600dpi monochrome, cropped, deskewed, cleaned of marks
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="396451">Javascript is required for this feature.</div><script>JGINITsearchbars['396451']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=396451|396450&type=Complete%20score%7CColor%20cover&pgcount=38|1&signature=104f998a5fceb96b27df5490401062465ee021c8"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP46368-Delius_Brigg_Fair.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f5/d44b6255f3484f1c492d2b8c6eaf387bd993da43.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<div class="we"><div id="IMSLP53312" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53312"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1, 2, 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1f/PMLP46368-Delius-BriggFair.Flute.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Flute.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Flute.pdf" title="File:PMLP46368-Delius-BriggFair.Flute.pdf">#53312</a> - 1.18MB, 4, 4, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53312' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53312'>
+	<a href='javascript:void(0)' id='53312' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53312' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53312' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53312' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53312' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53312'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53312/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53312/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1002"><a href="/wiki/Special:GetFCtrStats/@53312" title="Special:GetFCtrStats/@53312">1002</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>13 more</u>:</b> Oboe 1, 2, English Horn • Clarinet 1, 2, 3, Bass Clarinet (B&#x266d;) • Bassoon 1, 2, 3, Contrabassoon • Horn 1, 2, 3, 4, 5, 6 (F) • Trumpet 1, 2, 3 (C) • Trombone 1, 2, 3, Tuba • Timpani, Chimes, Bass Drum and Triangle • Harp • Violins I • Violins II • Violas • Cellos • Basses
+</p>
+</div><div id="IMSLP53313" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53313"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1, 2, English Horn</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f1/PMLP46368-Delius-BriggFair.Oboe.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Oboe.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Oboe.pdf" title="File:PMLP46368-Delius-BriggFair.Oboe.pdf">#53313</a> - 0.90MB, 3, 3, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53313' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53313'>
+	<a href='javascript:void(0)' id='53313' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53313' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53313' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53313' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53313' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53313'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53313/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53313/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 499"><a href="/wiki/Special:GetFCtrStats/@53313" title="Special:GetFCtrStats/@53313">499</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53314" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53314"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1, 2, 3, Bass Clarinet (B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/12/PMLP46368-Delius-BriggFair.Clarinet.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Clarinet.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Clarinet.pdf" title="File:PMLP46368-Delius-BriggFair.Clarinet.pdf">#53314</a> - 1.43MB, 4, 4, 3, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53314' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53314'>
+	<a href='javascript:void(0)' id='53314' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53314' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53314' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53314' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53314' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53314'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53314/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53314/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 574"><a href="/wiki/Special:GetFCtrStats/@53314" title="Special:GetFCtrStats/@53314">574</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53315" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53315"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1, 2, 3, Contrabassoon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/71/PMLP46368-Delius-BriggFair.Bassoon.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Bassoon.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Bassoon.pdf" title="File:PMLP46368-Delius-BriggFair.Bassoon.pdf">#53315</a> - 1.14MB, 3, 3, 3, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53315' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53315'>
+	<a href='javascript:void(0)' id='53315' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53315' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53315' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53315' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53315' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53315'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53315/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53315/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 380"><a href="/wiki/Special:GetFCtrStats/@53315" title="Special:GetFCtrStats/@53315">380</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53316" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53316"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1, 2, 3, 4, 5, 6 (F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/87/PMLP46368-Delius-BriggFair.Horn.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Horn.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Horn.pdf" title="File:PMLP46368-Delius-BriggFair.Horn.pdf">#53316</a> - 1.70MB, 3, 3, 3, 3, 3, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53316' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53316'>
+	<a href='javascript:void(0)' id='53316' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53316' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53316' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53316' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53316' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53316'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53316/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53316/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 573"><a href="/wiki/Special:GetFCtrStats/@53316" title="Special:GetFCtrStats/@53316">573</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53317" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53317"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1, 2, 3 (C)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/47/PMLP46368-Delius-BriggFair.Trumpet.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Trumpet.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Trumpet.pdf" title="File:PMLP46368-Delius-BriggFair.Trumpet.pdf">#53317</a> - 0.72MB, 3, 3, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53317' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53317'>
+	<a href='javascript:void(0)' id='53317' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53317' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53317' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53317' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53317' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53317'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53317/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53317/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 440"><a href="/wiki/Special:GetFCtrStats/@53317" title="Special:GetFCtrStats/@53317">440</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53318" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53318"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1, 2, 3, Tuba</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/03/PMLP46368-Delius-BriggFair.LowBrass.pdf" class="internal" title="PMLP46368-Delius-BriggFair.LowBrass.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.LowBrass.pdf" title="File:PMLP46368-Delius-BriggFair.LowBrass.pdf">#53318</a> - 0.81MB, 2, 2, 2, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53318' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53318'>
+	<a href='javascript:void(0)' id='53318' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53318' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53318' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53318' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53318' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53318'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53318/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53318/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 588"><a href="/wiki/Special:GetFCtrStats/@53318" title="Special:GetFCtrStats/@53318">588</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP19794" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/19794"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani, Chimes, Bass Drum and Triangle</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/02/PMLP46368-Delius_Brigg_Perc.pdf" class="internal" title="PMLP46368-Delius Brigg Perc.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius_Brigg_Perc.pdf" title="File:PMLP46368-Delius Brigg Perc.pdf">#19794</a> - 2.21MB, 3, 2, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-19794' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-19794'>
+	<a href='javascript:void(0)' id='19794' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='19794' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='19794' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='19794' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='19794' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-19794'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/19794/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/19794/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 367"><a href="/wiki/Special:GetFCtrStats/@19794" title="Special:GetFCtrStats/@19794">367</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Romanov76110" title="User:Romanov76110">Romanov76110</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Romanov76110" title="User:Romanov76110">Romanov76110</a> (2008/7/28)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53319" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53319"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Harp</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4b/PMLP46368-Delius-BriggFair.Harp.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Harp.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Harp.pdf" title="File:PMLP46368-Delius-BriggFair.Harp.pdf">#53319</a> - 0.41MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53319' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53319'>
+	<a href='javascript:void(0)' id='53319' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53319' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53319' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53319' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53319' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53319'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53319/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53319/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 365"><a href="/wiki/Special:GetFCtrStats/@53319" title="Special:GetFCtrStats/@53319">365</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53320" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53320"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d7/PMLP46368-Delius-BriggFair.Violin1.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Violin1.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Violin1.pdf" title="File:PMLP46368-Delius-BriggFair.Violin1.pdf">#53320</a> - 0.63MB, 6 (#2-7) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53320' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53320'>
+	<a href='javascript:void(0)' id='53320' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53320' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53320' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53320' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53320' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53320'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53320/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53320/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 905"><a href="/wiki/Special:GetFCtrStats/@53320" title="Special:GetFCtrStats/@53320">905</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53321" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53321"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2c/PMLP46368-Delius-BriggFair.Violin2.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Violin2.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Violin2.pdf" title="File:PMLP46368-Delius-BriggFair.Violin2.pdf">#53321</a> - 0.58MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53321' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53321'>
+	<a href='javascript:void(0)' id='53321' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53321' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53321' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53321' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53321' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53321'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53321/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53321/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 370"><a href="/wiki/Special:GetFCtrStats/@53321" title="Special:GetFCtrStats/@53321">370</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53322" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53322"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e9/PMLP46368-Delius-BriggFair.Viola.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Viola.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Viola.pdf" title="File:PMLP46368-Delius-BriggFair.Viola.pdf">#53322</a> - 0.58MB, 6 (#2-7) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53322' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53322'>
+	<a href='javascript:void(0)' id='53322' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53322' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53322' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53322' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53322' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53322'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53322/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53322/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 359"><a href="/wiki/Special:GetFCtrStats/@53322" title="Special:GetFCtrStats/@53322">359</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP27937" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/27937"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/06/PMLP46368-Delius_Brigg_Fair_cello.pdf" class="internal" title="PMLP46368-Delius Brigg Fair cello.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius_Brigg_Fair_cello.pdf" title="File:PMLP46368-Delius Brigg Fair cello.pdf">#27937</a> - 0.58MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-27937' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-27937'>
+	<a href='javascript:void(0)' id='27937' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='27937' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='27937' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='27937' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='27937' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-27937'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/27937/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/27937/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 392"><a href="/wiki/Special:GetFCtrStats/@27937" title="Special:GetFCtrStats/@27937">392</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (<span title="Updated: 2009/2/7" class="hovertext">2009/2/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53323" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53323"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0d/PMLP46368-Delius-BriggFair.Bass.pdf" class="internal" title="PMLP46368-Delius-BriggFair.Bass.pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius-BriggFair.Bass.pdf" title="File:PMLP46368-Delius-BriggFair.Bass.pdf">#53323</a> - 0.30MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53323' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53323'>
+	<a href='javascript:void(0)' id='53323' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53323' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53323' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53323' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53323' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53323'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53323/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/53323/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 317"><a href="/wiki/Special:GetFCtrStats/@53323" title="Special:GetFCtrStats/@53323">317</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Ottaviano</a> (<span title="Updated: 2010/1/18" class="hovertext">2010/1/17</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Vienna: <a href="/wiki/Universal_Edition" title="Universal Edition">Universal Edition</a><!--ASL1-->, 1910.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=53312/53313/53314/53315/53316/53317/53318/19794/53319/53320/53321/53322/27937/53323">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=53312/53313/53314/53315/53316/53317/53318/19794/53319/53320/53321/53322/27937/53323">del</a>/<span id="fmrglnk" data-pdfstr="53312//53313//53314//53315//53316//53317//53318//19794//53319//53320//53321//53322//27937//53323/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These files are part of the <a href="/wiki/IMSLP:Community_Projects/Orchestra_Parts_Project" title="IMSLP:Community Projects/Orchestra Parts Project">Orchestra Parts Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="53312">Javascript is required for this feature.</div><script>JGINITsearchbars['53312']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=53312|53313|53314|53315|53316|53317|53318|19794|53319|53320|53321|53322|27937|53323&type=Flute%201%2C%202%2C%203%7COboe%201%2C%202%2C%20English%20Horn%7CClarinet%201%2C%202%2C%203%2C%20Bass%20Clarinet%20%28B%26%23x266d%3B%29%7CBassoon%201%2C%202%2C%203%2C%20Contrabassoon%7CHorn%201%2C%202%2C%203%2C%204%2C%205%2C%206%20%28F%29%7CTrumpet%201%2C%202%2C%203%20%28C%29%7CTrombone%201%2C%202%2C%203%2C%20Tuba%7CTimpani%2C%20Chimes%2C%20Bass%20Drum%20and%20Triangle%7CHarp%7CViolins%20I%7CViolins%20II%7CViolas%7CCellos%7CBasses&pgcount=11|9|14|12|18|8|8|6|4|6|6|6|6|3&signature=41bb1580fc98e48aec2b5d7bd9bcd5ba9fcf1d0c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP46368-Delius-BriggFair.Flute.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/1f/d107eb969f346d49e0d432b06c3de2ed751c0768.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_2_Pianos">For 2 Pianos</span></h5>
+<div class="we"><div id="IMSLP435053" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/435053"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1a/PMLP46368-Delius_-_Brigg_Fair_%282_pianos_-_UE_1911%29.pdf" class="internal" title="PMLP46368-Delius - Brigg Fair (2 pianos - UE 1911).pdf">*</a></span><a href="/wiki/File:PMLP46368-Delius_-_Brigg_Fair_(2_pianos_-_UE_1911).pdf" title="File:PMLP46368-Delius - Brigg Fair (2 pianos - UE 1911).pdf">#435053</a> - 3.21MB, 19 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-435053' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-435053'>
+	<a href='javascript:void(0)' id='435053' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='435053' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='435053' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='435053' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='435053' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-435053'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/435053/Brigg_Fair_(Delius,_Frederick)" title="Special:IMSLPEditCTag/435053/Brigg Fair (Delius, Frederick)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 46"><a href="/wiki/Special:GetFCtrStats/@435053" title="Special:GetFCtrStats/@435053">46</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Brnd&amp;action=edit&amp;redlink=1" class="new" title="User:Brnd (page does not exist)">Brnd</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Brnd&amp;action=edit&amp;redlink=1" class="new" title="User:Brnd (page does not exist)">Brnd</a> (<span title="Updated: 2016/8/14" class="hovertext">2016/8/13</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/index.php?title=Category:Juhl,_Dagmar&amp;action=edit&amp;redlink=1" class="new" title="Category:Juhl, Dagmar (page does not exist)">Dagmar Juhl</a> (fl.1910–1919)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/F.E.C._Leuckart" title="F.E.C. Leuckart">F.E.C. Leuckart</a><!--ASL2-->, 1911.  Plate 6905.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Vienna: <a href="/wiki/Universal_Edition" title="Universal Edition">Universal Edition</a><!--ASL3-->, n.d.  Plate U.E. 6905.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=435053">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=435053">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Threlfall's 1977 catalogue names the arranger, who is not credited in the publication. Publication by Leuckart with Juhl credited as arranger noted in <span class="plainlinks"><a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001911&amp;teil=0203&amp;seite=00000112&amp;zoom=1">Hofmeister's <i>Monatsbericht</i> (1911), p.112</a></span>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="435053">Javascript is required for this feature.</div><script>JGINITsearchbars['435053']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=435053&type=Complete%20Score&pgcount=19&signature=e2395fbc09bd3cbad61b5045b71717a8cc2db166"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP46368-Delius_-_Brigg_Fair_(2_pianos_-_UE_1911).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/1a/b62c1569f2299ae1c026517ec4574754e458e78a.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Brigg Fair
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">An English Rhapsody
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Delius,_Frederick" title="Category:Delius, Frederick">Delius, Frederick</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>RT VI/16
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IFD 5
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1907
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1908-02-18
+<dl><dd>Granville Bantock, conducting
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1910 – Leipzig: <a href="/wiki/F.E.C._Leuckart" title="F.E.C. Leuckart">F.E.C. Leuckart</a>
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td><a href="/wiki/Category:Grainger,_Percy" title="Category:Grainger, Percy">Percy Grainger</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Orchestra</i>: 3 flutes, 2 oboes, English horn, 3 clarinets, bass clarinet, 3 bassoons, contrabassoon + 6 horns, 3 trumpets, 3 trombones, bass tuba + timpani, chimes, bass drum, triangle + harp + strings
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Brigg_Fair" class="extiw" title="wikipedia:Brigg Fair">Wikipedia article</a>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 874/1000000
+Post-expand include size: 64620/2097152 bytes
+Template argument size: 728/2097152 bytes
+Expensive parser function count: 4/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:46368-0!*!0!!en!2!* and timestamp 20180415121434 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Brigg_Fair_(Delius,_Frederick)&amp;oldid=2142856">http://imslp.org/index.php?title=Brigg_Fair_(Delius,_Frederick)&amp;oldid=2142856</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_New_York_Philharmonic_Orchestra_Digital_Archives" title="Category:Scores from the New York Philharmonic Orchestra Digital Archives">Scores from the New York Philharmonic Orchestra Digital Archives</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_F.E.C._Leuckart" title="Category:Scores published by F.E.C. Leuckart">Scores published by F.E.C. Leuckart</a></li><li><a href="/wiki/Category:Scores_published_by_Universal_Edition" title="Category:Scores published by Universal Edition">Scores published by Universal Edition</a></li><li><a href="/wiki/Category:OM_Parts" title="Category:OM Parts">OM Parts</a></li><li><a href="/wiki/Category:Juhl,_Dagmar/Arranger" title="Category:Juhl, Dagmar/Arranger">Juhl, Dagmar/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Delius,_Frederick" title="Category:Delius, Frederick">Delius, Frederick</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Early_20th_century" title="Category:Early 20th century">Early 20th century</a></li><li><a href="/wiki/Category:Rhapsodies" title="Category:Rhapsodies">Rhapsodies</a></li><li><a href="/wiki/Category:For_orchestra" title="Category:For orchestra">For orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_2_pianos_(arr)" title="Category:For 2 pianos (arr)">For 2 pianos (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1910" title="Category:Works first published in 1910">Works first published in 1910</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Brigg_Fair_%28Delius%2C_Frederick%29">4,228 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Brigg%20Fair%20%28Delius%2C%20Frederick%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.417 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415121434 -->
+</html>
+		

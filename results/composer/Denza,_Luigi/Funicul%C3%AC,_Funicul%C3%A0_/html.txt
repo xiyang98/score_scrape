@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Funiculì, Funiculà (Denza, Luigi) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Funiculì,_Funiculà_(Denza,_Luigi)", "wgTitle": "Funiculì, Funiculà (Denza, Luigi)", "wgCurRevisionId": 1805270, "wgArticleId": 111512, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with First Editions", "Scores published by Ricordi", "Sibley Mirroring Project", "Baker, Theodore/Translator", "Van Duffel, Jan/Arranger", "Porsche997SBS/Arranger", "Scores", "Denza, Luigi", "Romantic style", "Romantic", "For voice, piano", "For voices with keyboard", "Scores featuring the voice", "Scores featuring the piano", "Neapolitan language", "For 3 clarinets, 3 bass clarinets (arr)", "Scores featuring the clarinet", "Scores featuring the bass clarinet", "For 6 players", "For voice, wind band (arr)", "For voices with orchestra", "Scores featuring wind band", "For violin, cello, piano (arr)", "Scores featuring the violin", "Scores featuring the cello", "For 3 players", "For piano (arr)", "For 1 player", "Pages with arrangements", "Works first published in 1880", "Works first published in the 19th century", "Pages with parts for purchase", "F major", "Turco, Giuseppe/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Funiculì_Funiculà_Denza_Luigi action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)&amp;oldid=1805270" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Funicul%C3%AC%2C%20Funicul%C3%A0%20%28Denza%2C%20Luigi%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Funiculì, Funiculà (Denza, Luigi)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1880
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voice%2C_piano&amp;transclude=Template:Catintro">For voice, piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_keyboard&amp;transclude=Template:Catintro">For voices with keyboard</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="expandline" title="15 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Neapolitan_language&amp;transclude=Template:Catintro">Neapolitan language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_clarinets%2C_3_bass_clarinets_%28arr%29&amp;transclude=Template:Catintro">For 3 clarinets, 3 bass clarinets (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_clarinet&amp;transclude=Template:Catintro">Scores featuring the clarinet</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_bass_clarinet&amp;transclude=Template:Catintro">Scores featuring the bass clarinet</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_6_players&amp;transclude=Template:Catintro">For 6 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voice%2C_wind_band_%28arr%29&amp;transclude=Template:Catintro">For voice, wind band (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_orchestra&amp;transclude=Template:Catintro">For voices with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_wind_band&amp;transclude=Template:Catintro">Scores featuring wind band</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_violin%2C_cello%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For violin, cello, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_players&amp;transclude=Template:Catintro">For 3 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Funicul\u00ec, Funicul\u00e0","composer":"Denza, Luigi","comphref":"\/wiki\/Category:Denza,_Luigi"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"funiculi","itunes":"funiculi","composer":"denza","scorekeywords":"funiculi","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=40;JGBSAccompnum=0;JGNaxosSearch={"numres":88,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028948216246.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028948216246.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028948216246","desc":"Vocal Recital: Pavarotti, Luciano - BIXIO, C.A. \/ CAPUA, E. di \/ DE CURTIS, E. \/ DENZA, L. (La voz de Luciano Pavarotti)","label":"Decca","category":"Vocal - Classical Music","composer":"Valente, Nicola -- Anonymous -- Tagliaferri, Ernesto -- Cardillo, Salvatore -- Leoncavallo, Ruggero -- Capua, Eduardo di -- Sibella, Gabriele -- Crescenzo, Vincenzo de -- Bixio, Cesare Andrea -- Traditional -- Gastaldon, Stanislao -- Mascagni, Pietro -- Falvo, Rodolfo -- De Curtis, Ernesto -- Denza, Luigi -- Modugno, Domenico -- Ferilli, Guido Maria -- Innocenzi, Carlo","artist":"Pavarotti, Luciano -- Bologna Teatro Comunale Orchestra -- Philharmonia Orchestra -- Gamba, Pierino -- National Philharmonic Orchestra -- Guadagno, Anton -- Griminelli, Andrea -- Tonini, Adalberto","country":"Italy Russia United Kingdom United States","catid":"00028948216246","cdinfo":[[["De Curtis, Ernesto",[["Torna a Surriento (Come Back to Sorrento)","mediaplayer\/player.asp?br=128&tl=3107404",[]]]],["Capua, Eduardo di",[["O sole mio","mediaplayer\/player.asp?br=128&tl=3107405",[]]]],["Denza, Luigi",[["Funiculi, funicula","mediaplayer\/player.asp?br=128&tl=3107406",[]]]],["Leoncavallo, Ruggero",[["Mattinata (arr. A. Faris for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107407",[]]]],["De Curtis, Ernesto",[["Non ti scordar di me (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107408",[]]]],["Gastaldon, Stanislao",[["Musica proibita, Op. 5 (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107409",[]]]],["Bixio, Cesare Andrea",[["Vivere! (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107410",[]]]],["Bixio, Cesare Andrea",[["Parlami d'amore Mariu (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107411",[]]]],["Innocenzi, Carlo",[["Addio, signore di gloria","mediaplayer\/player.asp?br=128&tl=3107414",[]]]],["Crescenzo, Vincenzo de",[["Rondine al nido (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107412",[]]]],["Traditional",[["Vieni sul mar","mediaplayer\/player.asp?br=128&tl=3107413",[]]]],["Modugno, Domenico",[["Nel blu dipinto di blu, \"Volare\" (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107415",[]]]],["Denza, Luigi",[["Occhi di fata (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107416",[]]]],["Sibella, Gabriele",[["La Girometta (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107417",[]]]],["De Curtis, Ernesto",[["Ti voglio tanto bene (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107418",[]]]],["Mascagni, Pietro",[["Serenata (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107419",[]]]],["Ferilli, Guido Maria",[["Un amore cosi grande (arr. H. Mancini for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3107420",[]]]],["Valente, Nicola",[["Passione","mediaplayer\/player.asp?br=128&tl=3107421",[]]]],["Anonymous",[["Fenesta che lucive","mediaplayer\/player.asp?br=128&tl=3107422",[]]]],["Falvo, Rodolfo",[["Dicitencello vuie","mediaplayer\/player.asp?br=128&tl=3107423",[]]]],["Capua, Eduardo di",[["I'te vurria vasa!","mediaplayer\/player.asp?br=128&tl=3107424",[]]]],["Cardillo, Salvatore",[["Core 'ngrato","mediaplayer\/player.asp?br=128&tl=3107425",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=AM137.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=AM137.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DAM137","desc":"Chamber Music (20th Century) - STRAUSS II, J. \/ WAGNER, R. \/ SCHUBERT, F. \/ DENZA, L. \/ BUSONI, F. (A nos amours) (Diabolicus, Henschel)","label":"Ambroisie","category":"Chamber Music - Classical Music","composer":"Schubert, Franz -- Busoni, Ferruccio -- Wagner, Richard -- Strauss II, Johann -- Denza, Luigi","artist":"Henschel, Dietrich -- Diabolicus","country":"Austria Germany Italy","catid":"AM137","cdinfo":[[["Strauss II, Johann",[["Rosen aus dem Suden, Op. 388 (arr. A. Schoenberg)","mediaplayer\/player.asp?br=128&tl=882112",[]]]],["Wagner, Richard",[["Siegfried Idyll","mediaplayer\/player.asp?br=128&tl=882113",[]]]],["Strauss II, Johann",[["Wein, Weib und Gesang! (Wine, Woman and Song!), Op. 333 (arr. A. Berg)","mediaplayer\/player.asp?br=128&tl=882114",[]]]],["Schubert, Franz",[["Standchen, D. 889, \"Hark, hark, the lark\" (\"Horch, horch! die Lerch\") (arr. A. Schoenberg)","mediaplayer\/player.asp?br=128&tl=882115",[]]]],["Strauss II, Johann",[["Kaiser (Emperor), Op. 437 (arr. A. Schoenberg)","mediaplayer\/player.asp?br=128&tl=882116",[]]]],["Denza, Luigi",[["Funiculi - Funicula (arr. A. Schoenberg)","mediaplayer\/player.asp?br=128&tl=882117",[]]]],["Busoni, Ferruccio",[["Berseuse elegiaque, Op. 42 (arr. E. Stein)","mediaplayer\/player.asp?br=128&tl=882118",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SLT33208.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SLT33208.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSLT33208","desc":"Vocal Ensemble Arrangements - KOSMA, J. \/ SJ\u00d6BERG, C.L. \/ DENZA, L. \/ ROSSINI, G. \/ PESTALOZZA, A. (Bj\u00f6rling Quartet, Lind)","label":"Swedish Society","category":"Opera - Classical Music","composer":"Almqvist, Carl Jonas Love -- Sjoberg, Carl Leopold -- Taube, Evert -- Pestalozza, Alberto -- Peterson-Berger, Wilhelm -- Kosma, Joseph -- Traditional -- Rossini, Gioachino -- Denza, Luigi -- Gershwin, George -- Meyer, Robert -- Simonetti, Enrico -- Anderson, L.","artist":"Bjorling Quartet","country":"Hungary Italy Sweden United States","catid":"SLT33208","cdinfo":[[["Sjoberg, Carl Leopold",[["Tonerna (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131523",[]]]],["Peterson-Berger, Wilhelm",[["Aspakerspolska (Polska of Aspaker) (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131524",[]]]],["Taube, Evert",[["Ronnerdahls Polka (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131525",[]]]],["Traditional",[["Ut spatsera de sma duvorna (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131526",[]]]],["Kosma, Joseph",[["En stjarna foll (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131527",[]]]],["Pestalozza, Alberto",[["Ciribiribin (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131528",[]]]],["Meyer, Robert",[["En ballad om for lange sen (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131529",[]]]],["Almqvist, Carl Jonas Love",[["Den lyssnande Maria (The listening Maria) (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131544",[]]]],["Simonetti, Enrico",[["Madrigale (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131545",[]]]],["Rossini, Gioachino",[["Les soirees musicales: No. 8. La danza, \"Tarantella napoletana\" (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131546",[]]]],["Gershwin, George",[["Porgy and Bess, Act I: Summertime (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131547",[]]]],["Traditional",[["Li'l Liza Jane - Skip to My Lou (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131548",[]]]],["Denza, Luigi",[["Funiculi, funicula (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131549",[]]]],["Anderson, L.",[["Glomda drommar (arr. W. Lind for vocal ensemble)","mediaplayer\/player.asp?br=128&tl=2131550",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=4250527405505.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=4250527405505.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D4250527405505","desc":"SINGER PORTRAIT: De Lucia, Fernando, Vol. 1 - BUONGIOVANNI, F. \/ COSTA, M.A.A. \/ COTTRAU, T. \/ CAPUA, E. di \/ DE CURTIS, E. \/ DENZA, L. (1909-1921)","label":"The Art of Singing","category":"Vocal - Classical Music","composer":"Gambardella, Salvatore -- Cottrau, Teodoro -- Leoncavallo, Ruggero -- Capua, Eduardo di -- Tosti, Francesco Paolo -- Nutile, Emanuele -- Ricciardi, Vincenzo -- Valente, Antonio -- De Curtis, Ernesto -- Denza, Luigi -- De Leva, Enrico -- Labriola, Pietro -- Fonzo, -- Buongiovanni, Francesco -- Costa, Michele Andrea Agniello","artist":"Sabajno, Carlo -- De Lucia, Fernando","country":"Italy","catid":"4250527405505","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=C075201A.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=C075201A.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DC075201A","desc":"Vocal Recital: Bonisolli, Franco - CANNIO, E. \/ FALVO, R. \/ CAPUA, E. di \/ OLIVIERI, D. \/ DENZA, L. \/ ROSSINI, G. (O sole mio, Vol. 2)","label":"Orfeo","category":"Vocal - Classical Music","composer":"Anonymous -- Olivieri, Dino -- Cottrau, Teodoro -- Capua, Eduardo di -- Cannio, Enrico -- Traditional -- Tosti, Francesco Paolo -- Costa, Pasquale Mario -- Falvo, Rodolfo -- Rossini, Gioachino -- De Curtis, Ernesto -- Denza, Luigi","artist":"Bonisolli, Franco -- Mandolini Napoletani di Gino del Vescovo, I -- Orchestra dell'Unione Musiciste di Roma -- Monti, Elvio","country":"Italy Russia","catid":"C075201A","cdinfo":[[["Cannio, Enrico",[["O surdato 'nnamurato (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820889",[]]]],["Traditional",[["Vieni sul mar (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820890",[]]]],["Anonymous",[["Fenesta che lucive (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820891",[]]]],["Falvo, Rodolfo",[["Dicitencello vuie (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820892",[]]]],["Capua, Eduardo di",[["I'te vurria vasa! (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820893",[]]]],["Olivieri, Dino",[["Inno di Garibaldi (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820894",[]]]],["Denza, Luigi",[["Funiculi, funicula (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820895",[]]]],["Rossini, Gioachino",[["Les soirees musicales: No. 8. La danza (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820896",[]]]],["Tosti, Francesco Paolo",[["Malia (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820897",[]]]],["Cottrau, Teodoro",[["Addio mia bella Napoli (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820898",[]]]],["Costa, Pasquale Mario",[["Sei morta nella vita mia (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820899",[]]]],["Tosti, Francesco Paolo",[["L'alba separa dalla luce l'ombra (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820900",[]]]],["De Curtis, Ernesto",[["Tu ca nun chiagne (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820901",[]]]],["Tosti, Francesco Paolo",[["Addio (arr. E. Monti for voice, mandolin ensemble and orchestra)","mediaplayer\/player.asp?br=128&tl=2820902",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=884977032680.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=884977032680.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D884977032680","desc":"Vocal Recital: Franchi, Sergio - TOSTI, F.P. \/ LEONCAVALLO, R. \/ DENZA, L. \/ CANNIO, E. (Romantic Italian Songs)","label":"RCA Records","category":"Choral - Secular - Classical Music","composer":"Gambardella, Salvatore -- Luboff, Norman -- Cottrau, Teodoro -- Cardillo, Salvatore -- Leoncavallo, Ruggero -- Capua, Eduardo di -- Cannio, Enrico -- Tosti, Francesco Paolo -- Nutile, Emanuele -- De Curtis, Ernesto -- Denza, Luigi -- Franchi, Sergio","artist":"Wally Stott Orchestra -- Stott, Wally -- Franchi, Sergio","country":"Italy United States","catid":"884977032680","cdinfo":[[["Cardillo, Salvatore",[["Core 'ngrato (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883431",[]]]],["Denza, Luigi",[["Funiculi, funicula (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1883432",[]]]],["Capua, Eduardo di",[["O sole mio (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883433",[]]]],["Leoncavallo, Ruggero",[["Mattinata (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883434",[]]]],["Nutile, Emanuele",[["Mamma mia, che vo' sape? (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883435",[]]]],["Luboff, Norman",[["La vilanella (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1883436",[]]]],["Tosti, Francesco Paolo",[["Marechiare (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883437",[]]]],["Tosti, Francesco Paolo",[["A vucchella, \"Arietta di Posillipo\" (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883438",[]]]],["Gambardella, Salvatore",[["Comme facette mammeta? (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1883439",[]]]],["Cottrau, Teodoro",[["Fenesta che lucive (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1883440",[]]]],["De Curtis, Ernesto",[["Torna a Surriento (Come back to Sorrento) (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1883441",[]]]],["Cannio, Enrico",[["O surdato 'nnamurato (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1883442",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=090266890224.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=090266890224.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D090266890224","desc":"Vocal Recital: Franchi, Sergio - TOSTI, F.P. \/ LEONCAVALLO, R. \/ DENZA, L. \/ CANNIO, E. (Romantic Italian Songs)","label":"RCA Records","category":"Choral - Secular - Classical Music","composer":"Gambardella, Salvatore -- Luboff, Norman -- Cottrau, Teodoro -- Cardillo, Salvatore -- Leoncavallo, Ruggero -- Capua, Eduardo di -- Cannio, Enrico -- Tosti, Francesco Paolo -- Nutile, Emanuele -- De Curtis, Ernesto -- Denza, Luigi -- Franchi, Sergio","artist":"Wally Stott Orchestra -- Stott, Wally -- Franchi, Sergio","country":"Italy United States","catid":"090266890224","cdinfo":[[["Cardillo, Salvatore",[["Core 'ngrato (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991779",[]]]],["Denza, Luigi",[["Funiculi, funicula (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1991780",[]]]],["Capua, Eduardo di",[["O sole mio (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991781",[]]]],["Leoncavallo, Ruggero",[["Mattinata (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991782",[]]]],["Nutile, Emanuele",[["Mamma mia, che vo' sape? (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991783",[]]]],["Luboff, Norman",[["La vilanella (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1991784",[]]]],["Tosti, Francesco Paolo",[["Marechiare (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991785",[]]]],["Tosti, Francesco Paolo",[["A vucchella, \"Arietta di Posillipo\" (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991786",[]]]],["Gambardella, Salvatore",[["Comme facette mammeta? (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1991787",[]]]],["Cottrau, Teodoro",[["Fenesta che lucive (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=1991788",[]]]],["De Curtis, Ernesto",[["Torna a Surriento (Come back to Sorrento) (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1991789",[]]]],["Cannio, Enrico",[["O surdato 'nnamurato (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=1991790",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=888880749222.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=888880749222.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D888880749222","desc":"Vocal Recital: Franchi, Sergio - TOSTI, F.P. \/ LEONCAVALLO, R. \/ DENZA, L. \/ CANNIO, E. (Romantic Italian Songs)","label":"RCA Records","category":"Choral - Secular - Classical Music","composer":"Gambardella, Salvatore -- Luboff, Norman -- Cottrau, Teodoro -- Cardillo, Salvatore -- Leoncavallo, Ruggero -- Capua, Eduardo di -- Cannio, Enrico -- Tosti, Francesco Paolo -- Nutile, Emanuele -- De Curtis, Ernesto -- Denza, Luigi -- Franchi, Sergio","artist":"Wally Stott Orchestra -- Stott, Wally -- Franchi, Sergio","country":"Italy United States","catid":"888880749222","cdinfo":[[["Cardillo, Salvatore",[["Core 'ngrato (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120037",[]]]],["Denza, Luigi",[["Funiculi, funicula (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=2120038",[]]]],["Capua, Eduardo di",[["O sole mio (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120039",[]]]],["Leoncavallo, Ruggero",[["Mattinata (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120040",[]]]],["Nutile, Emanuele",[["Mamma mia, che vo' sape? (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120041",[]]]],["Luboff, Norman",[["La vilanella (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=2120042",[]]]],["Tosti, Francesco Paolo",[["Marechiare (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120043",[]]]],["Tosti, Francesco Paolo",[["A vucchella, \"Arietta di Posillipo\" (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120044",[]]]],["Gambardella, Salvatore",[["Comme facette mammeta? (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=2120045",[]]]],["Cottrau, Teodoro",[["Fenesta che lucive (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120046",[]]]],["De Curtis, Ernesto",[["Torna a Surriento (Come back to Sorrento) (arr. W. Stott for tenor, choir and orchestra)","mediaplayer\/player.asp?br=128&tl=2120047",[]]]],["Cannio, Enrico",[["O surdato 'nnamurato (arr. W. Stott for tenor and orchestra)","mediaplayer\/player.asp?br=128&tl=2120048",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028940001529.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028940001529.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028940001529","desc":"Vocal Recital: Carreras, Jos\u00e9 - CAPUA, E. di \/ MARIO, E.A. \/ DENZA, L. \/ DE CURTIS, E. \/ CARDILLO, S. (O Sole Mio - Neapolitan Folk Songs)","label":"Decca","category":"Vocal - Classical Music","composer":"Valente, Nicola -- Tagliaferri, Ernesto -- Cardillo, Salvatore -- Capua, Eduardo di -- Cannio, Enrico -- Cioffi, Giuseppe -- Mario, E.A. -- Falvo, Rodolfo -- De Curtis, Ernesto -- Denza, Luigi -- Lama, Gaetano -- D'Annibale, Vincenzo","artist":"Carreras, Jos\u00e9 -- English Chamber Orchestra -- Muller, Edoardo","country":"Italy Russia United Kingdom","catid":"00028940001529","cdinfo":[[["Denza, Luigi",[["Funiculi, funicula","mediaplayer\/player.asp?br=128&tl=2968020",[]]]],["Cardillo, Salvatore",[["Core 'ngrato","mediaplayer\/player.asp?br=128&tl=2968021",[]]]],["D'Annibale, Vincenzo",[["O paese d' 'o sole","mediaplayer\/player.asp?br=128&tl=2968022",[]]]],["Falvo, Rodolfo",[["Dicitencello vuie","mediaplayer\/player.asp?br=128&tl=2968023",[]]]],["Lama, Gaetano",[["Silenzio cantatore","mediaplayer\/player.asp?br=128&tl=2968024",[]]]],["Mario, E.A.",[["Santa Lucia luntana","mediaplayer\/player.asp?br=128&tl=2968025",[]]]],["De Curtis, Ernesto",[["Tu, ca nun chiagne!","mediaplayer\/player.asp?br=128&tl=2968026",[]]]],["Capua, Eduardo di",[["O sole mio","mediaplayer\/player.asp?br=128&tl=2968027",[]]]],["Capua, Eduardo di",[["I'te vurria vasa!","mediaplayer\/player.asp?br=128&tl=2968028",[]]]],["Valente, Nicola",[["Passione","mediaplayer\/player.asp?br=128&tl=2968029",[]]]],["Cioffi, Giuseppe",[["Na sera 'e maggio","mediaplayer\/player.asp?br=128&tl=2968030",[]]]],["Cannio, Enrico",[["O surdato 'nnamurato","mediaplayer\/player.asp?br=128&tl=2968031",[]]]],["De Curtis, Ernesto",[["Torna a Surriento (arr. P. Hope for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2968032",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=090266142026.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=090266142026.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D090266142026","desc":"Vocal Recital: Lanza, Mario - DENZA, L. \/ VERDI, G. \/ ROMBERG, S. \/ ROSSINI, G. \/ COWARD, N. (Don't Forget Me)","label":"RCA Records","category":"Musicals - Classical Music","composer":"Friml, Rudolph -- Rapee, Erno -- Stillman, Al -- Cottrau, Teodoro -- Evans, Tolchard -- Rodgers, Richard -- Verdi, Giuseppe -- Cardillo, Salvatore -- Blaufuss, Walter -- Kern, Jerome -- Cioffi, Giuseppe -- Mascagni, Pietro -- Meyerbeer, Giacomo -- Mario, E.A. -- Romberg, Sigmund -- Rossini, Gioachino -- Coward, Noel -- De Curtis, Ernesto -- Denza, Luigi -- Pollack, Lew -- Neri, Ennio","artist":"Lanza, Mario -- Callinicos, Constantine -- Sinatra, Ray","country":"Czech Republic France Germany Hungary Italy United Kingdom United States","catid":"090266142026","cdinfo":[[["Denza, Luigi",[["Funiculi, funicula","mediaplayer\/player.asp?br=128&tl=2137294",[]]]],["Verdi, Giuseppe",[["Rigoletto, Act III: Parmi veder le lagrime","mediaplayer\/player.asp?br=128&tl=2137295",[]]]],["Evans, Tolchard",[["If (They Made Me a King)","mediaplayer\/player.asp?br=128&tl=2137296",[]]]],["Cardillo, Salvatore",[["Core 'ngrato","mediaplayer\/player.asp?br=128&tl=2137297",[]]]],["Romberg, Sigmund",[["The Student Prince, Act I: Serenade","mediaplayer\/player.asp?br=128&tl=2137298",[]]]],["Rossini, Gioachino",[["Les soirees musicales: No. 8. La danza, \"Tarantella napoletana\"","mediaplayer\/player.asp?br=128&tl=2137299",[]]]],["Blaufuss, Walter",[["Your Eyes Have Told Me So","mediaplayer\/player.asp?br=128&tl=2137300",[]]]],["Mascagni, Pietro",[["Cavalleria rusticana: Addio alla madre","mediaplayer\/player.asp?br=128&tl=2137301",[]]]],["Coward, Noel",[["Private Lives: Someday I'll Find You","mediaplayer\/player.asp?br=128&tl=2137302",[]]]],["Cottrau, Teodoro",[["Santa Lucia (Saint Lucy)","mediaplayer\/player.asp?br=128&tl=2137303",[]]]],["Pollack, Lew",[["Diane","mediaplayer\/player.asp?br=128&tl=2137304",[]]]],["Mario, E.A.",[["Santa Lucia luntana","mediaplayer\/player.asp?br=128&tl=2137305",[]]]],["Friml, Rudolph",[["The Firefly: The Donkey Serenade","mediaplayer\/player.asp?br=128&tl=2137306",[]]]],["Meyerbeer, Giacomo",[["L' Africaine (The African Maid), Act IV: O paradiso (Sung in Italian)","mediaplayer\/player.asp?br=128&tl=2137307",[]]]],["Neri, Ennio",[["Tell Me that You Love Me Tonight","mediaplayer\/player.asp?br=128&tl=2137308",[]]]],["Verdi, Giuseppe",[["La forza del destino, Act III: O tu che in seno agli angeli","mediaplayer\/player.asp?br=128&tl=2137309",[]]]],["Romberg, Sigmund",[["The Student Prince, Act I: Deep In My Heart, Dear","mediaplayer\/player.asp?br=128&tl=2137310",[]]]],["De Curtis, Ernesto",[["Canta pe' me","mediaplayer\/player.asp?br=128&tl=2137311",["Canta pe'me"]]]],["Verdi, Giuseppe",[["Rigoletto, Act III: La donna e mobile","mediaplayer\/player.asp?br=128&tl=2137312",[]]]],["Cioffi, Giuseppe",[["'Na sera 'e maggio","mediaplayer\/player.asp?br=128&tl=2137313",[]]]],["Kern, Jerome",[["Show Boat, Act I: You Are Love","mediaplayer\/player.asp?br=128&tl=2137314",[]]]],["De Curtis, Ernesto",[["Tu ca nun chiagne (Com'e bell muntagna 'sta notte)","mediaplayer\/player.asp?br=128&tl=2137315",[]]]],["Rodgers, Richard",[["Carousel: You'll Never Walk Alone","mediaplayer\/player.asp?br=128&tl=2137316",[]]]],["De Curtis, Ernesto",[["Non ti scordar di me","mediaplayer\/player.asp?br=128&tl=2137317",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/denza%20funiculi"};IMSLPNaxosSearch="denza funiculi";JGaskdonation=0;JGFileTools={"148203":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=148203"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP148203"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=148203","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/148203"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/148203"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%23148203"}},"100943":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=100943"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP100943"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=100943","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/100943"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/100943"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%23100943"}},"91574":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91574"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91574"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91574"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91574"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391574"}},"91575":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91575"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91575"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91575"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91575"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391575"}},"91576":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91576"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91576"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91576"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91576"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391576"}},"91577":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91577"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91577"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91577"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91577"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391577"}},"91578":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91578"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91578"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91578"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91578"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391578"}},"91579":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91579"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91579"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91579"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91579"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391579"}},"91580":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91580"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91580"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91580"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91580"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391580"}},"91581":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91581"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91581"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91581"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91581"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391581"}},"91582":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91582"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91582"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91582"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91582"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391582"}},"91583":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91583"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91583"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91583"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91583"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391583"}},"91584":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91584"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91584"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91584"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91584"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391584"}},"91585":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=91585"},"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/91574\/91575\/91576\/91577\/91578\/91579\/91580\/91581\/91582\/91583\/91584\/91585\/4b3f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP91585"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/91585"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/91585"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2391585"}},"53973":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53973"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53973"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53973"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53973"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353973"}},"53974":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53974"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53974"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53974"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53974"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353974"}},"53975":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53975"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53975"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53975"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53975"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353975"}},"53976":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53976"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53976"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53976"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53976"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353976"}},"53977":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53977"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53977"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53977"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53977"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353977"}},"53978":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53978"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53978"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53978"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53978"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353978"}},"53979":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53979"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53979"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53979"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53979"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353979"}},"53980":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=53980"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/53974\/53975\/53976\/53977\/53978\/53979\/53980\/af8c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP53980"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/53980"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/53980"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2353980"}},"55032":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=55032"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP55032"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/55032"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/55032"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/55032"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Funicul%C3%AC%2C+Funicul%C3%A0+%28Denza%2C+Luigi%29&frmTitle=IMSLP+%2355032"}}};JGFileOpts={"148203":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0EdwkhkRlOksgkbqXIkh5j6GrF1d5TMtF571qstLAmuuEG7eCzCab4T49DuPIE8olIpRKMw3Fa4ZWESjq9ey5hhca4N5Sra69MYDQ\/w66ZyQ1cvVt2Lz8q+9kEU4Zdvs="},"100943":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgiX02z1vnNs2ZKPoJQbdYh\/sccfrff6Hs5NQtiaZ6Yt11BfldPRAbEJi6foTTg9HifDc0HMfDok\/acTjzWhGGeLdYCO0E4dYpJQ\/r58pCWMQ=="},"91574":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bibbyxwcwNbnIG8hxGQ7VSpjczCzJHLr2mXV5kz4lVgNczKMmaBk1CgoHfLIGNZlvO3rLQvktYxzSd5f5Dlzzmb"},"91575":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgOsUCLrPsn+YGdK+wbOBtWR7EGEReElZlcqdNcCwOoAOE7RWWcQ9XvOed3Uc5kwdwO9v2nzhJkast+LkSzlueJ7K\/0syXmdC1MkcoCI8W1qg=="},"91576":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhHbD7rCRAHeRLLZXNMAVTerNS8Njl05w+24B6STOmRcyMbpDJuNFW4CP8F6lSKcfGGFFj6GcFqaiDkvUkKRh1MhmMrKDkQrGw5yk56+BA\/Ug=="},"91577":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bijc54Mvuctg\/6oIvz4q5IErqIsZR9vR6cst6Ggp\/KASrVus\/eTpAXORJqwMuqQNEZJUVkygQKKRjjbdjt\/HadVnxFOvgaXhtktWPAGtA7qqA=="},"91578":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh70GrlLb1mPR2ov55ML9kkmxUYkjW7GHSN9kIyG6htadRsDXbfoL\/gAfBp\/rtbRJH2hSJZgAV0MjToR5AYk1IRBlGiVd5nrUdY9ew21y7HuQ=="},"91579":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg8e33FMShc9VIkZxh0Q5Me5ldFhqZuGE4k0pYVooFOu4y2kje6yhxxHg1tKA7gjc7qS2ZEH0V3VGObFohrMPpa"},"91580":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgwfxiauvRily7rORhgdLwLK2akY0zpSYbTXh3gQ2qc8wmHmszl+uC4vCJSOp1e\/6Q0qWH2dNJB4JUxMUMDof3ZyBy56UgAR8oGVpRTRqCT0A=="},"91581":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhzmdIsgmj839yK\/Hr6I8VzPTncoeCXwthFkrKiCNW5QGViFm15sgo0RUiJ6HRy\/mDKraHMdgL1nvvoQM8Md8lSHc+bWFBAvrauDsVTtUUEQA=="},"91582":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh2PrN7TWH6LqGqNgBfwlvJCK8lPd6AHzvp7nj6UUVPqOyXeNvwbE5OWZKrUDxChLlAWjgIC4S6LlfwmsYeoHmEhtbH1LhnTVt0SNp9jbxOow=="},"91583":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biV92\/6Lc+1\/Qiqf2hhBENaItsOefU5FLqkZN0KeWjsV3knCJlI53+1qthp1BheKW9lfdZajALCnYYPbIzeRrw3LWDe8MAbuNFS37fohebqxg=="},"91584":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjfznQBGhdiOHCdXB5jyDTw3\/\/EQLFmKD8D9+n5DXVMGnoZT2bKSc1JnHIgwlch3Tqjyj0y5DEDOKSG0bwZnm0C"},"91585":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhwYWwR1LbxLpGDGL5yIiSP91aU9\/J9rWEA+b0oj+sIVkMJy+RuBmB+9ekrGo\/MCWarEHCw5qNuq+TCaK3zkQa2zjCF+HGl2ZURMmgyuMYY\/Q=="},"53973":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh5CStJVzRvrBKvWQ9213YLcQMMmjneMZvFc4Ihhyc+6x2AeD9xEZNLXgBZOr4G9C\/6S2ZKM4nZ855vhSLQiKM2xpjKJyZkC3TUjm\/HjSi0Rg=="},"53974":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgANutHyJqVrajma12DfomgLQLwsumCURq3gPnOtqMeemeYioyBbRbazGH7NsUQr1S4416iHGjsKiZUFO1Q5X6T4wR8\/kgFrz1YTpEDikzDLA=="},"53975":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bieY+jSs2j5MpSU0Z1v27tRfykRuV6GQGh4vF5seH3V3FqTJYse012WfzU5XvcfyWWGSfY8F76OKrIBL24wxikFvQ5V7xaQaN9ARdFAuX6YbA=="},"53976":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bik732\/JygjZb17363RYzYVuy2VYjGjoVQDi35nzaYr27FN\/lvqPNGDYXMWNem\/LiyND+IfqElFGQhj2voiPCYoIjBFVcdqs0lieJufPOM6Ig=="},"53977":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhz\/8yZJmbRE+NrYM0U4UN5CJCFCAiUWzOM0UMvXsTFyE1I6ngp15sbHNlMQlj80Who2HQmZERdQ\/NixyLbwYLbSfulb3gc8OTs0LZYwXuiJA=="},"53978":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6Ir0KO3r8dRFjIT93wgzXfo4MG\/VfyEZ6Xx3DTqLB2e5b7pluLjdNdkdQVE7pkEjKnJVSkfSKXZPknoAiJEJLAGeVNd0dzvOqgVKdzaoiXgzmSXeNlFAZ1rc2xpka2Ak="},"53979":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biyJI0N32dRO21ICrOTD5zXTWNBdxr5swGXXdw\/lKNlQBMFu6swr3BLoY8cmo19Zr4Pwjn473aPrniODYMa80afGXPClKd2tu3foHZf1U6Fow=="},"53980":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biNagzWDR\/nKrXoksXMq5Gs7CG7SdH8Zyotd7T36t93beWWBw\/eof7GOAp\/Q+oVTU6K0q2\/7nV8MIEYCq1RFE26+Umt3R7r25Kq8Vu+luRymA=="},"55032":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjfznQBGhdiOHCdXB5jyDTw1VTaLYqrRwA6JxwvoGd1KiIxPIL2Mi0KR9plKCABdLCdiS9byv\/Yy\/6Tk3Mksi2jGbc41zdUIiTVfX6TVBMD41sG+0++Nx+8PsbL1bh3AL4="}};JGPageUntagged=false;JGPageTags=["v pf","nap"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"53973":[2,"1"],"53974":[6,"1"],"53979":[10,"1"],"55032":[7.3333333333333,"3"],"91574":[5.1111111111111,"9"],"91575":[7.3333333333333,"3"],"91580":[2,"1"],"91582":[10,"1"],"100943":[5.875,"16"],"148203":[6,"19"],"91576":[0,0],"91577":[0,0],"91578":[0,0],"91579":[0,0],"91581":[0,0],"91583":[0,0],"91584":[0,0],"91585":[0,0],"53975":[0,0],"53976":[0,0],"53977":[0,0],"53978":[0,0],"53980":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Voice_and_Wind_Band_.28Van_Duffel.29"><span class="tocnumber">2.2.1</span> <span class="toctext">For Voice and Wind Band (Van Duffel)</span></a></li>
+<li class="toclevel-3"><a href="#For_6_Clarinets_.28Porsche997SBS.29"><span class="tocnumber">2.2.2</span> <span class="toctext">For 6 Clarinets (Porsche997SBS)</span></a></li>
+<li class="toclevel-3"><a href="#For_Piano_Trio_.28Rissland.29"><span class="tocnumber">2.2.3</span> <span class="toctext">For Piano Trio (Rissland)</span></a></li>
+<li class="toclevel-3"><a href="#For_Piano_solo"><span class="tocnumber">2.2.4</span> <span class="toctext">For Piano solo</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">2</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">21</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP148203" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/148203"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span> major)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cd/PMLP111512-Denza_-_Funiculi_Funicula_VS_Sibley.1802.8869.pdf" class="internal" title="PMLP111512-Denza - Funiculi Funicula VS Sibley.1802.8869.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_-_Funiculi_Funicula_VS_Sibley.1802.8869.pdf" title="File:PMLP111512-Denza - Funiculi Funicula VS Sibley.1802.8869.pdf">#148203</a> - 1.06MB, 15 (i, 14) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-148203' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-148203'>
+	<a href='javascript:void(0)' id='148203' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='148203' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='148203' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='148203' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='148203' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-148203'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/148203/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/148203/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 15033"><a href="/wiki/Special:GetFCtrStats/@148203" title="Special:GetFCtrStats/@148203">15033</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/8869"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2011/11/9)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Neapolitan
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Milan: <a href="/wiki/Ricordi" title="Ricordi">G. Ricordi &amp; C.</a><!--ASL0-->, 1880.  Plate 47127.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=148203">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=148203">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="148203">Javascript is required for this feature.</div><script>JGINITsearchbars['148203']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=148203&type=Complete%20Score%20%28E%26%23x266d%3B%20major%29&pgcount=15&signature=97310c050095e2d6409ecc47b83dd37a4517d994"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP111512-Denza_-_Funiculi_Funicula_VS_Sibley.1802.8869.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/cd/a690c75529d9f1b3e772ba3acfa0f6ff344b8c28.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP100943" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/100943"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (F major)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/06/PMLP111512-funiculiFunicula_Schirmer_17481.pdf" class="internal" title="PMLP111512-funiculiFunicula Schirmer 17481.pdf">*</a></span><a href="/wiki/File:PMLP111512-funiculiFunicula_Schirmer_17481.pdf" title="File:PMLP111512-funiculiFunicula Schirmer 17481.pdf">#100943</a> - 0.63MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-100943' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-100943'>
+	<a href='javascript:void(0)' id='100943' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='100943' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='100943' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='100943' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='100943' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-100943'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/100943/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/100943/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 11162"><a href="/wiki/Special:GetFCtrStats/@100943" title="Special:GetFCtrStats/@100943">11162</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Haydenmuhl" title="User:Haydenmuhl">Haydenmuhl</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Haydenmuhl<br />
+<a href="/wiki/User:Haydenmuhl" title="User:Haydenmuhl">Haydenmuhl</a> (2011/5/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Language
+</th>
+<td>Neapolitan / English
+</td></tr>
+<tr>
+<th>Translator
+</th>
+<td><a href="/wiki/Category:Baker,_Theodore" title="Category:Baker, Theodore">Theodore Baker</a> (1851-1934), English text
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/G._Schirmer" title="G. Schirmer" class="mw-redirect">G. Schirmer</a>, n.d.[1904].  Plate 17481.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=100943">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=100943">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="100943">Javascript is required for this feature.</div><script>JGINITsearchbars['100943']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=100943&type=Complete%20Score%20%28F%20major%29&pgcount=5&signature=0c906d13685d63b9e57b2ae6187e2a7adf6948cf"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP111512-funiculiFunicula_Schirmer_17481.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/06/fce5a881fbc84b970ebe247cbb6cde08769813d6.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Voice_and_Wind_Band_.28Van_Duffel.29">For Voice and Wind Band (Van Duffel)</span></h5>
+<div class="we"><div id="IMSLP91574" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91574"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b2/PMLP111512-Denza_Funiculi_Funicula.pdf" class="internal" title="PMLP111512-Denza Funiculi Funicula.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_Funicula.pdf" title="File:PMLP111512-Denza Funiculi Funicula.pdf">#91574</a> - 0.20MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91574' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91574'>
+	<a href='javascript:void(0)' id='91574' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91574' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91574' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91574' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91574' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91574'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91574/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91574/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 6452"><a href="/wiki/Special:GetFCtrStats/@91574" title="Special:GetFCtrStats/@91574">6452</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>11 more</u>:</b> Piccolo; Flute 1, 2 • Oboe 1, 2; Bassoon 1, 2 • Clarinet (in E&#x266d;); Clarinet 1, 2, 3 (in B&#x266d;) • Alto Clarinet (in E&#x266d;); Bass Clarinet (in B&#x266d;) • Alto Sax 1, 2 (in E&#x266d;); Tenor Sax (in B&#x266d;); Baritone Sax (in E&#x266d;) • Trumpet 1, 2, 3 (in B&#x266d;) • Horn 1, 2, 3, 4 (in F) • Trombone 1, 2 (in C); Bass Trombone (in C) • Euphonium 1, 2 (in C); Euphonium 1, 2 (in B&#x266d;) • Tuba (in C); Tuba (in E&#x266d;); Tuba (in B&#x266d;) • Timpani; Percussion 1, 2, 3
+</p>
+</div><div id="IMSLP91575" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91575"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piccolo; Flute 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b4/PMLP111512-Denza_Funiculi_-_01_Picc-Fl_1%2C2.pdf" class="internal" title="PMLP111512-Denza Funiculi - 01 Picc-Fl 1,2.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_01_Picc-Fl_1,2.pdf" title="File:PMLP111512-Denza Funiculi - 01 Picc-Fl 1,2.pdf">#91575</a> - 0.05MB, 3 (1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91575' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91575'>
+	<a href='javascript:void(0)' id='91575' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91575' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91575' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91575' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91575' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91575'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91575/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91575/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1874"><a href="/wiki/Special:GetFCtrStats/@91575" title="Special:GetFCtrStats/@91575">1874</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91576" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91576"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1, 2; Bassoon 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d9/PMLP111512-Denza_Funiculi_-_02_Ob-Fg.pdf" class="internal" title="PMLP111512-Denza Funiculi - 02 Ob-Fg.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_02_Ob-Fg.pdf" title="File:PMLP111512-Denza Funiculi - 02 Ob-Fg.pdf">#91576</a> - 0.06MB, 4 (1,1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91576' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91576'>
+	<a href='javascript:void(0)' id='91576' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91576' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91576' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91576' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91576' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91576'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91576/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91576/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1357"><a href="/wiki/Special:GetFCtrStats/@91576" title="Special:GetFCtrStats/@91576">1357</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91577" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91577"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet (in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>); Clarinet 1, 2, 3 (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e9/PMLP111512-Denza_Funiculi_-_03_Cl_Eb%2C_Cl_1%2C2%2C3.pdf" class="internal" title="PMLP111512-Denza Funiculi - 03 Cl Eb, Cl 1,2,3.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_03_Cl_Eb,_Cl_1,2,3.pdf" title="File:PMLP111512-Denza Funiculi - 03 Cl Eb, Cl 1,2,3.pdf">#91577</a> - 0.07MB, 5 (1,2,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91577' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91577'>
+	<a href='javascript:void(0)' id='91577' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91577' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91577' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91577' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91577' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91577'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91577/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91577/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1622"><a href="/wiki/Special:GetFCtrStats/@91577" title="Special:GetFCtrStats/@91577">1622</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91578" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91578"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Alto Clarinet (in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>); Bass Clarinet (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f0/PMLP111512-Denza_Funiculi_-_04_A_Clar%2C_B_Clar.pdf" class="internal" title="PMLP111512-Denza Funiculi - 04 A Clar, B Clar.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_04_A_Clar,_B_Clar.pdf" title="File:PMLP111512-Denza Funiculi - 04 A Clar, B Clar.pdf">#91578</a> - 0.04MB, 2 (1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91578' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91578'>
+	<a href='javascript:void(0)' id='91578' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91578' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91578' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91578' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91578' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91578'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91578/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91578/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1190"><a href="/wiki/Special:GetFCtrStats/@91578" title="Special:GetFCtrStats/@91578">1190</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91579" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91579"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Alto Sax 1, 2 (in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>); Tenor Sax (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>); Baritone Sax (in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/58/PMLP111512-Denza_Funiculi_-_05_Sax.pdf" class="internal" title="PMLP111512-Denza Funiculi - 05 Sax.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_05_Sax.pdf" title="File:PMLP111512-Denza Funiculi - 05 Sax.pdf">#91579</a> - 0.06MB, 4 (1,1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91579' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91579'>
+	<a href='javascript:void(0)' id='91579' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91579' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91579' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91579' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91579' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91579'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91579/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91579/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1333"><a href="/wiki/Special:GetFCtrStats/@91579" title="Special:GetFCtrStats/@91579">1333</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91580" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91580"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1, 2, 3 (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ac/PMLP111512-Denza_Funiculi_-_06_Tpt_1%2C2%2C3.pdf" class="internal" title="PMLP111512-Denza Funiculi - 06 Tpt 1,2,3.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_06_Tpt_1,2,3.pdf" title="File:PMLP111512-Denza Funiculi - 06 Tpt 1,2,3.pdf">#91580</a> - 0.05MB, 3 (1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91580' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91580'>
+	<a href='javascript:void(0)' id='91580' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91580' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91580' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91580' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91580' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91580'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91580/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91580/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1490"><a href="/wiki/Special:GetFCtrStats/@91580" title="Special:GetFCtrStats/@91580">1490</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91581" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91581"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1, 2, 3, 4 (in F)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ae/PMLP111512-Denza_Funiculi_-_07_Horn_in_F_1-4.pdf" class="internal" title="PMLP111512-Denza Funiculi - 07 Horn in F 1-4.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_07_Horn_in_F_1-4.pdf" title="File:PMLP111512-Denza Funiculi - 07 Horn in F 1-4.pdf">#91581</a> - 0.06MB, 4 (1,1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91581' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91581'>
+	<a href='javascript:void(0)' id='91581' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91581' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91581' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91581' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91581' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91581'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91581/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91581/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1204"><a href="/wiki/Special:GetFCtrStats/@91581" title="Special:GetFCtrStats/@91581">1204</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91582" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91582"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1, 2 (in C); Bass Trombone (in C)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6c/PMLP111512-Denza_Funiculi_-_08_Trombone_1-3.pdf" class="internal" title="PMLP111512-Denza Funiculi - 08 Trombone 1-3.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_08_Trombone_1-3.pdf" title="File:PMLP111512-Denza Funiculi - 08 Trombone 1-3.pdf">#91582</a> - 0.05MB, 3 (1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91582' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91582'>
+	<a href='javascript:void(0)' id='91582' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91582' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91582' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91582' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91582' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91582'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91582/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91582/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1229"><a href="/wiki/Special:GetFCtrStats/@91582" title="Special:GetFCtrStats/@91582">1229</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91583" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91583"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Euphonium 1, 2 (in C); Euphonium 1, 2 (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ca/PMLP111512-Denza_Funiculi_-_09_Euphonium.pdf" class="internal" title="PMLP111512-Denza Funiculi - 09 Euphonium.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_09_Euphonium.pdf" title="File:PMLP111512-Denza Funiculi - 09 Euphonium.pdf">#91583</a> - 0.06MB, 4 (1,1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91583' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91583'>
+	<a href='javascript:void(0)' id='91583' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91583' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91583' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91583' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91583' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91583'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91583/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91583/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1168"><a href="/wiki/Special:GetFCtrStats/@91583" title="Special:GetFCtrStats/@91583">1168</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91584" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91584"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tuba (in C); Tuba (in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>); Tuba (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/28/PMLP111512-Denza_Funiculi_-_10_Tuba.pdf" class="internal" title="PMLP111512-Denza Funiculi - 10 Tuba.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_10_Tuba.pdf" title="File:PMLP111512-Denza Funiculi - 10 Tuba.pdf">#91584</a> - 0.05MB, 3 (1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91584' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91584'>
+	<a href='javascript:void(0)' id='91584' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91584' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91584' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91584' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91584' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91584'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91584/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91584/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1209"><a href="/wiki/Special:GetFCtrStats/@91584" title="Special:GetFCtrStats/@91584">1209</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP91585" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/91585"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani; Percussion 1, 2, 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cb/PMLP111512-Denza_Funiculi_-_11_Timp-perc.pdf" class="internal" title="PMLP111512-Denza Funiculi - 11 Timp-perc.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza_Funiculi_-_11_Timp-perc.pdf" title="File:PMLP111512-Denza Funiculi - 11 Timp-perc.pdf">#91585</a> - 0.06MB, 4 (1,1,1,1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-91585' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-91585'>
+	<a href='javascript:void(0)' id='91585' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='91585' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='91585' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='91585' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='91585' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-91585'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/91585/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/91585/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1285"><a href="/wiki/Special:GetFCtrStats/@91585" title="Special:GetFCtrStats/@91585">1285</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Corjanbib" title="User:Corjanbib">Jan Van Duffel</a> (2011/1/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Van_Duffel,_Jan" title="Category:Van Duffel, Jan">Jan Van Duffel</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Jan Van Duffel
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=91574/91575/91576/91577/91578/91579/91580/91581/91582/91583/91584/91585">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=91574/91575/91576/91577/91578/91579/91580/91581/91582/91583/91584/91585">del</a>/<span id="fmrglnk" data-pdfstr="91574//91575//91576//91577//91578//91579//91580//91581//91582//91583//91584//91585/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="91574">Javascript is required for this feature.</div><script>JGINITsearchbars['91574']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP111512-Denza_Funiculi_Funicula.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b2/d4fd65b845b1f2f355e1c31d943bf68ff2f7441d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_6_Clarinets_.28Porsche997SBS.29">For 6 Clarinets (Porsche997SBS)</span></h5>
+<div class="we"><div id="IMSLP53973" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53973"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/37/PMLP111512-Funiculi-Funicula_%28Clar._Choir_Score%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir Score).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir_Score).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir Score).pdf">#53973</a> - 0.07MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53973' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53973'>
+	<a href='javascript:void(0)' id='53973' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53973' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53973' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53973' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53973' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53973'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53973/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53973/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2150"><a href="/wiki/Special:GetFCtrStats/@53973" title="Special:GetFCtrStats/@53973">2150</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Porsche997SBS" title="Category:Porsche997SBS" class="mw-redirect">Porsche997SBS</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Porsche997SBS
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=53973">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=53973">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="53973">Javascript is required for this feature.</div><script>JGINITsearchbars['53973']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir_Score).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/37/ed0109105516a253f68aeb3d4451c5e5a443269d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP53974" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53974"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1 (Solo)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bb/PMLP111512-Funiculi-Funicula_%28Clar._Choir-Clar._1%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 1).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-Clar._1).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 1).pdf">#53974</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53974' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53974'>
+	<a href='javascript:void(0)' id='53974' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53974' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53974' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53974' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53974' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53974'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53974/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53974/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1183"><a href="/wiki/Special:GetFCtrStats/@53974" title="Special:GetFCtrStats/@53974">1183</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_5" data-block="5">
+<p><b>⇒ <u>6 more</u>:</b> Clarinet 2 • Clarinet 3 • Clarinet 4 • Bass Clarinet 1/2 (combined) • Bass Clarinet 1 (separate) • Bass Clarinet 2 (separate)
+</p>
+</div><div id="IMSLP53975" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53975"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/90/PMLP111512-Funiculi-Funicula_%28Clar._Choir-Clar._2%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 2).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-Clar._2).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 2).pdf">#53975</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53975' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53975'>
+	<a href='javascript:void(0)' id='53975' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53975' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53975' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53975' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53975' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53975'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53975/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53975/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 636"><a href="/wiki/Special:GetFCtrStats/@53975" title="Special:GetFCtrStats/@53975">636</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53976" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53976"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b8/PMLP111512-Funiculi-Funicula_%28Clar._Choir-Clar._3%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 3).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-Clar._3).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 3).pdf">#53976</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53976' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53976'>
+	<a href='javascript:void(0)' id='53976' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53976' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53976' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53976' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53976' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53976'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53976/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53976/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 559"><a href="/wiki/Special:GetFCtrStats/@53976" title="Special:GetFCtrStats/@53976">559</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53977" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53977"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 4</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a0/PMLP111512-Funiculi-Funicula_%28Clar._Choir-Clar._4%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 4).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-Clar._4).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-Clar. 4).pdf">#53977</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53977' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53977'>
+	<a href='javascript:void(0)' id='53977' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53977' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53977' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53977' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53977' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53977'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53977/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53977/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 560"><a href="/wiki/Special:GetFCtrStats/@53977" title="Special:GetFCtrStats/@53977">560</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53978" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53978"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass Clarinet 1/2 (combined)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8a/PMLP111512-Funiculi-Funicula_%28Clar._Choir-B.Cl._1%262%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-B.Cl. 1&amp;2).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-B.Cl._1%262).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-B.Cl. 1&amp;2).pdf">#53978</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53978' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53978'>
+	<a href='javascript:void(0)' id='53978' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53978' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53978' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53978' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53978' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53978'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53978/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53978/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 588"><a href="/wiki/Special:GetFCtrStats/@53978" title="Special:GetFCtrStats/@53978">588</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53979" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53979"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass Clarinet 1 (separate)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0d/PMLP111512-Funiculi-Funicula_%28Clar._Choir-B.Cl._1%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-B.Cl. 1).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-B.Cl._1).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-B.Cl. 1).pdf">#53979</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53979' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53979'>
+	<a href='javascript:void(0)' id='53979' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53979' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53979' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53979' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53979' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53979'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53979/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53979/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 575"><a href="/wiki/Special:GetFCtrStats/@53979" title="Special:GetFCtrStats/@53979">575</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP53980" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/53980"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass Clarinet 2 (separate)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/87/PMLP111512-Funiculi-Funicula_%28Clar._Choir-B.Cl._2%29.pdf" class="internal" title="PMLP111512-Funiculi-Funicula (Clar. Choir-B.Cl. 2).pdf">*</a></span><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-B.Cl._2).pdf" title="File:PMLP111512-Funiculi-Funicula (Clar. Choir-B.Cl. 2).pdf">#53980</a> - 0.02MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-53980' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-53980'>
+	<a href='javascript:void(0)' id='53980' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='53980' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='53980' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='53980' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='53980' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-53980'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/53980/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/53980/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 506"><a href="/wiki/Special:GetFCtrStats/@53980" title="Special:GetFCtrStats/@53980">506</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Porsche997SBS" title="User:Porsche997SBS">Porsche997SBS</a> (2010/1/24)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Porsche997SBS" title="Category:Porsche997SBS" class="mw-redirect">Porsche997SBS</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Porsche997SBS
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=53974/53975/53976/53977/53978/53979/53980">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=53974/53975/53976/53977/53978/53979/53980">del</a>/<span id="fmrglnk" data-pdfstr="53974//53975//53976//53977//53978//53979//53980/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="53974">Javascript is required for this feature.</div><script>JGINITsearchbars['53974']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP111512-Funiculi-Funicula_(Clar._Choir-Clar._1).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/bb/27172c49ac6b1ae7da4abf6466d857040f476b72.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Piano_Trio_.28Rissland.29">For Piano Trio (Rissland)</span></h5>
+<dl><dd> <i>See:</i> <a href="/wiki/The_Ditson_Easy_Trio_Album_(Rissland,_Karl)" title="The Ditson Easy Trio Album (Rissland, Karl)">The Ditson Easy Trio Album</a>
+</dd></dl>
+<p><br />
+</p>
+<h5> <span class="mw-headline" id="For_Piano_solo">For Piano solo</span></h5>
+<div class="we"><div id="IMSLP55032" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/55032"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/28/PMLP111512-Denza%2C_Luigi_-_Funiculi%27_Funicola%27_-piano-.pdf" class="internal" title="PMLP111512-Denza, Luigi - Funiculi&#39; Funicola&#39; -piano-.pdf">*</a></span><a href="/wiki/File:PMLP111512-Denza,_Luigi_-_Funiculi%27_Funicola%27_-piano-.pdf" title="File:PMLP111512-Denza, Luigi - Funiculi' Funicola' -piano-.pdf">#55032</a> - 0.55MB, 2 (#40-41) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-55032' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-55032'>
+	<a href='javascript:void(0)' id='55032' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='55032' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='55032' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='55032' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='55032' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-55032'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/55032/Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)" title="Special:IMSLPEditCTag/55032/Funiculì, Funiculà (Denza, Luigi)"><span style="color:green">V</span>/<span style="color:gray">C</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3966"><a href="/wiki/Special:GetFCtrStats/@55032" title="Special:GetFCtrStats/@55032">3966</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ctesibius" title="User:Ctesibius">ctesibius</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by ctesibius<br />
+<a href="/wiki/User:Ctesibius" title="User:Ctesibius">ctesibius</a> (2010/2/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Milano: <a href="/wiki/Ricordi" title="Ricordi">Ricordi</a>, n.d.(1957). Plate 127450.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=55032">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=55032">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="55032">Javascript is required for this feature.</div><script>JGINITsearchbars['55032']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP111512-Denza,_Luigi_-_Funiculi%27_Funicola%27_-piano-.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/28/5fa485cf801f795d43be7325510904db1fc3f8b6.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Funiculì, Funiculà
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Canzone popolare di Piedigrotta
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Denza,_Luigi" title="Category:Denza, Luigi">Denza, Luigi</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ILD 17
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>F major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1880
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1880 - Milan: <a href="/wiki/Ricordi" title="Ricordi">Ricordi</a>, Plates 47126, 47127
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Turco,_Giuseppe" title="Category:Turco, Giuseppe">Giuseppe Turco</a> (1846–1907)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Neapolitan
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Voice, Piano
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Funicul%C3%AC,_Funicul%C3%A0" class="extiw" title="wikipedia:Funiculì, Funiculà">Wikipedia article</a>
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>Originally issued in 2 keys, F&#160;major and E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1016/1000000
+Post-expand include size: 91403/2097152 bytes
+Template argument size: 393/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:111512-0!*!0!!en!2!* and timestamp 20180414211721 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)&amp;oldid=1805270">http://imslp.org/index.php?title=Funicul%C3%AC,_Funicul%C3%A0_(Denza,_Luigi)&amp;oldid=1805270</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_Ricordi" title="Category:Scores published by Ricordi">Scores published by Ricordi</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Baker,_Theodore/Translator" title="Category:Baker, Theodore/Translator">Baker, Theodore/Translator</a></li><li><a href="/wiki/Category:Van_Duffel,_Jan/Arranger" title="Category:Van Duffel, Jan/Arranger">Van Duffel, Jan/Arranger</a></li><li><a href="/wiki/Category:Porsche997SBS/Arranger" title="Category:Porsche997SBS/Arranger">Porsche997SBS/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Denza,_Luigi" title="Category:Denza, Luigi">Denza, Luigi</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:For_voice,_piano" title="Category:For voice, piano">For voice, piano</a></li><li><a href="/wiki/Category:For_voices_with_keyboard" title="Category:For voices with keyboard">For voices with keyboard</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:Neapolitan_language" title="Category:Neapolitan language">Neapolitan language</a></li><li><a href="/wiki/Category:For_3_clarinets,_3_bass_clarinets_(arr)" title="Category:For 3 clarinets, 3 bass clarinets (arr)">For 3 clarinets, 3 bass clarinets (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_clarinet" title="Category:Scores featuring the clarinet">Scores featuring the clarinet</a></li><li><a href="/wiki/Category:Scores_featuring_the_bass_clarinet" title="Category:Scores featuring the bass clarinet">Scores featuring the bass clarinet</a></li><li><a href="/wiki/Category:For_6_players" title="Category:For 6 players">For 6 players</a></li><li><a href="/wiki/Category:For_voice,_wind_band_(arr)" title="Category:For voice, wind band (arr)">For voice, wind band (arr)</a></li><li><a href="/wiki/Category:For_voices_with_orchestra" title="Category:For voices with orchestra">For voices with orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_wind_band" title="Category:Scores featuring wind band">Scores featuring wind band</a></li><li><a href="/wiki/Category:For_violin,_cello,_piano_(arr)" title="Category:For violin, cello, piano (arr)">For violin, cello, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:For_3_players" title="Category:For 3 players">For 3 players</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1880" title="Category:Works first published in 1880">Works first published in 1880</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:F_major" title="Category:F major">F major</a></li><li><a href="/wiki/Category:Turco,_Giuseppe/Librettist" title="Category:Turco, Giuseppe/Librettist">Turco, Giuseppe/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Funicul%C3%AC%2C_Funicul%C3%A0_%28Denza%2C_Luigi%29">18,559 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Funicul%C3%AC%2C%20Funicul%C3%A0%20%28Denza%2C%20Luigi%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.498 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414211721 -->
+</html>
+		

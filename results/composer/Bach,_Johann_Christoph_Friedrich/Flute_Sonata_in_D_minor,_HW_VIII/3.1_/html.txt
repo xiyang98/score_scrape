@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)", "wgTitle": "Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)", "wgCurRevisionId": 1518012, "wgArticleId": 347774, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Rondeau, Michel/Performer", "WIMA files", "Recordings", "Rondeau, Michel/Arranger", "Scores", "Bach, Johann Christoph Friedrich", "Baroque style", "Classical", "Sonatas", "For flute, continuo", "Scores featuring the flute", "Scores with basso continuo", "For 1 player with continuo", "For trumpet, cello, harpsichord (arr)", "Scores featuring the trumpet", "Scores featuring the harpsichord", "Scores featuring the cello", "For 3 players", "Pages with arrangements", "Works first published in 1777", "Works first published in the 18th century", "D minor"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Flute_Sonata_in_D_minor_HW_VIII_3_1_Bach_Johann_Christoph_Friedrich action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)&amp;oldid=1518012" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Flute%20Sonata%20in%20D%20minor%2C%20HW%20VIII%2F3.1%20%28Bach%2C%20Johann%20Christoph%20Friedrich%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 movements
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1777 in <i>Sechs Sonaten</i>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Sonatas&amp;transclude=Template:Catintro">Sonatas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_flute%2C_continuo&amp;transclude=Template:Catintro">For flute, continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_flute&amp;transclude=Template:Catintro">Scores featuring the flute</a></span>; <span class="expandline" title="7 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_with_basso_continuo&amp;transclude=Template:Catintro">Scores with basso continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player_with_continuo&amp;transclude=Template:Catintro">For 1 player with continuo</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_trumpet%2C_cello%2C_harpsichord_%28arr%29&amp;transclude=Template:Catintro">For trumpet, cello, harpsichord (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_trumpet&amp;transclude=Template:Catintro">Scores featuring the trumpet</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_players&amp;transclude=Template:Catintro">For 3 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Flute Sonata in D minor, HW VIII\/3.1","composer":"Bach, Johann Christoph Friedrich","comphref":"\/wiki\/Category:Bach,_Johann_Christoph_Friedrich"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"flute sonata in d minor","itunes":"flute sonata in d minor","composer":"bach","scorekeywords":"flute sonata in d minor","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947165620.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947165620.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947165620","desc":"BACH, J.S.: Brandenburg Concertos Nos. 1-6 \/ Overtures (Suites) Nos. 1-4 \/ Flute Sonatas \/ Violin Sonatas (Cologne Musica Antiqua, Goebel)","label":"Decca","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian","artist":"Hill, Robert -- Linden, Jaap ter -- Hazelzet, Wilbert -- Cologne Musica Antiqua -- Bouman, Henk -- Goebel, Reinhard -- Staier, Andreas","country":"Germany","catid":"00028947165620","cdinfo":[[["Bach, Johann Sebastian",[["Brandenburg Concerto No. 1 in F Major, BWV 1046","mediaplayer\/player.asp?br=128&tl=3170799|3170800|3170801|3170802",["I. &#8212;","II. Adagio","III. Allegro","IV. Minuet"]],["Brandenburg Concerto No. 2 in F Major, BWV 1047","mediaplayer\/player.asp?br=128&tl=3170803|3170804|3170805",["I. (Allegro)","II. Andante","III. Allegro assai"]],["Brandenburg Concerto No. 3 in G Major, BWV 1048","mediaplayer\/player.asp?br=128&tl=3170806|3170807",["I. (Allegro)","II. Adagio"]],["Brandenburg Concerto No. 4 in G Major, BWV 1049","mediaplayer\/player.asp?br=128&tl=3170815|3170816|3170817",["I. Allegro","II. Andante","III. Presto"]],["Brandenburg Concerto No. 5 in D Major, BWV 1050","mediaplayer\/player.asp?br=128&tl=3170818|3170819|3170820",["I. Allegro","II. Affettuoso","III. Allegro"]],["Brandenburg Concerto No. 6 in B-Flat Major, BWV 1051","mediaplayer\/player.asp?br=128&tl=3170821|3170822|3170823",["I. &#8212;","II. Adagio ma non tanto","III. Allegro"]],["Concerto for Flute, Violin and Harpsichord in A Minor, BWV 1044","mediaplayer\/player.asp?br=128&tl=3170836|3170837|3170838",["I. Allegro","II. Adagio ma non tanto e dolce","III. Alla breve"]],["Overture (Suite) No. 1 in C Major, BWV 1066","mediaplayer\/player.asp?br=128&tl=3170808|3170809|3170810|3170811|3170812|3170813|3170814",["I. Overture","II. Courante","III. Gavotte I-II","IV. Forlane","V. Menuet I-II","VI. Bourree I-II","VII. Passepied I-II"]],["Overture (Suite) No. 2 in B Minor, BWV 1067","mediaplayer\/player.asp?br=128&tl=3170829|3170830|3170831|3170832|3170833|3170834|3170835",["I. Ouverture","II. Rondeau","III. Sarabande","IV. Bourree I-II","V. Polonaise - Double","VI. Menuet","VII. Badinerie"]],["Overture (Suite) No. 3 in D Major, BWV 1068","mediaplayer\/player.asp?br=128&tl=3170936|3170937|3170938|3170939|3170940",["I. Ouverture","II. Air, \"Air on a G String\"","III. Gavotte I-II","IV. Bourr&#233;e","V. Gigue"]],["Overture (Suite) No. 4 in D Major, BWV 1069","mediaplayer\/player.asp?br=128&tl=3170824|3170825|3170826|3170827|3170828",["I. Overture","II. Bourree I-II","III. Gavotte","IV. Menuet I-II","V. Rejouissance"]],["Suite (Overture) No. 5 in G Minor, BWV 1070","mediaplayer\/player.asp?br=128&tl=3170941|3170942|3170943|3170944|3170945",["I. Larghetto. Un poco allegro","II. Torneo","III. Aria","IV. Menuetto alternativo","V. Capriccio"]],["Sonata No. 1 for Violin and Harpsichord in B Minor, BWV 1014","mediaplayer\/player.asp?br=128&tl=3170839|3170840|3170841|3170842",["I. Adagio","II. Allegro","III. Andante","IV. Allegro"]],["Sonata No. 2 for Violin and Harpsichord in A Major, BWV 1015","mediaplayer\/player.asp?br=128&tl=3170843|3170844|3170845|3170846",["I. Dolce","II. Allegro","III. Andante un poco","IV. Presto"]],["Sonata No. 3 for Violin and Keyboard in E Major, BWV 1016","mediaplayer\/player.asp?br=128&tl=3170847|3170848|3170849|3170850",["I. Adagio","II. Allegro","III. Adagio ma non tanto","IV. Allegro"]],["Sonata No. 4 for Violin and Harpsichord in C minor, BWV 1017","mediaplayer\/player.asp?br=128&tl=3170851|3170852|3170853|3170854",["I. Siciliano: Largo","II. Allegro","III. Adagio","IV. Allegro"]],["Sonata No. 5 for Violin and Harpsichord in F Minor, BWV 1018","mediaplayer\/player.asp?br=128&tl=3170855|3170856|3170857|3170858",["I. (Adagio)","II. Allegro","III. Adagio","IV. Vivace"]],["Sonata No. 6 for Violin and Harpsichord in G Major, BWV 1019","mediaplayer\/player.asp?br=128&tl=3170859|3170860|3170861|3170862|3170863",["I. Allegro","II. Largo","III. Allegro (Cembalo Solo)","IV. Adagio","V. Allegro"]],["Violin Sonata in G Minor, BWV 1020 (attrib. to C.P.E. Bach, H. 542.5)","mediaplayer\/player.asp?br=128&tl=3170864|3170865|3170866",["I. Allegro","II. Adagio","III. Allegro"]],["Violin Sonata in F Major, BWV 1022","mediaplayer\/player.asp?br=128&tl=3170867|3170868|3170869|3170870",["I. Largo","II. Allegro e presto","III. Adagio","IV. Presto"]],["Fugue in G Minor, BWV 1026","mediaplayer\/player.asp?br=128&tl=3170871",[]],["Suite for Violin and Harpischord in A Major, BWV 1025","mediaplayer\/player.asp?br=128&tl=3170872|3170873|3170874|3170875|3170876|3170877|3170878",["I. Fantasia","II. Courante","III. Entree","IV. Rondeau","V. Sarabande","VI. Menuet","VII. Allegro"]],["Violin Sonata in G Major, BWV 1021","mediaplayer\/player.asp?br=128&tl=3170879|3170880|3170881|3170882",["I. Adagio","II. Vivace","III. Largo","IV. Presto"]],["Violin Sonata in E Minor, BWV 1023","mediaplayer\/player.asp?br=128&tl=3170883|3170884|3170885",["I. &#8212; - II. Adagio ma non tanto","III. Allemanda","IV. Gigue"]],["Violin Sonata in C Minor, BWV 1024","mediaplayer\/player.asp?br=128&tl=3170886|3170887|3170888|3170889",["I. Adagio","II. Presto","III. Affetuoso","IV. Vivace"]],["Violin Sonata in A Major, BWV Anh. II 153","mediaplayer\/player.asp?br=128&tl=3170890|3170891|3170892|3170893|3170894",["I. Andante","II. Allegro","III. Adagio","IV. Allegro","V. Fuga"]],["Viola da Gamba Sonata in G Major, BWV 1027","mediaplayer\/player.asp?br=128&tl=3170895|3170896|3170897|3170898",["I. Adagio","II. Allegro ma non tanto","III. Andante","IV. Allegro moderato"]],["Viola da Gamba Sonata in D Major, BWV 1028","mediaplayer\/player.asp?br=128&tl=3170899|3170900|3170901|3170902",["I. Adagio","II. Allegro","III. Andante","IV. Allegro"]],["Viola da Gamba Sonata in G Minor, BWV 1029","mediaplayer\/player.asp?br=128&tl=3170903|3170904|3170905",["I. Vivace","II. Adagio","III. Allegro"]],["Sonata No. 6 for Violin and Harpsichord in G Major, BWV 1019a","mediaplayer\/player.asp?br=128&tl=3170906|3170907|3170908|3170909|3170910",["I. Presto","II. Largo","III. Cantabile, ma un poco adagio","IV. Adagio","V. Presto"]],["Flute Sonata in C Major, BWV 1033","mediaplayer\/player.asp?br=128&tl=3170911|3170912|3170913|3170914",["I. Andante - Presto","II. Allegro","III. Adagio","IV. Menuet I-II"]],["Flute Sonata in E Minor, BWV 1034","mediaplayer\/player.asp?br=128&tl=3170915|3170916|3170917|3170918",["I. Adagio ma non tanto","II. Allegro","III. Andante","IV. Allegro"]],["Flute Sonata in E Major, BWV 1035","mediaplayer\/player.asp?br=128&tl=3170919|3170920|3170921|3170922",["I. Adagio ma non tanto","II. Allegro","III. Siciliana","IV. Allegro assai"]],["Partita in A Minor, BWV 1013","mediaplayer\/player.asp?br=128&tl=3170923|3170924|3170925|3170926",["I. Allemande","II. Corrente","III. Sarabande","IV. Bouree anglaise"]],["Flute Sonata in B Minor, BWV 1030","mediaplayer\/player.asp?br=128&tl=3170927|3170928|3170929",["I. Andante","II. Largo e dolce","III. Presto"]],["Flute Sonata in E-Flat Major, BWV 1031","mediaplayer\/player.asp?br=128&tl=3170930|3170931|3170932",["I. Allegro moderato","II. Siciliano","III. Allegro"]],["Flute Sonata in A Major, BWV 1032","mediaplayer\/player.asp?br=128&tl=3170933|3170934|3170935",["I. Vivace","II. Largo e dolce","III. Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ROP6107.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ROP6107.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DROP6107","desc":"Recorder Recital: Schwanda, Elisabeth - TELEMANN, G.P. \/ BACH, J.S. \/ GOLDBERG, J.G. \/ HANDEL, G.F. \/ HASSE, J.A. (Baroque Passion)","label":"Rondeau Production","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian -- Telemann, Georg Philipp -- Hasse, Johann Adolf -- Handel, George Frideric -- Goldberg, Johann Gottlieb","artist":"Lohr, Bernward -- Schwanda, Elisabeth","country":"Germany","catid":"ROP6107","cdinfo":[[["Telemann, Georg Philipp",[["Essercizii musici: Recorder Sonata in C Major, TWV 41:C5","mediaplayer\/player.asp?br=128&tl=3091223|3091224|3091225",["I. Adagio - Allegro","II. Larghetto","III. Vivace"]]]],["Bach, Johann Sebastian",[["Flute Sonata in E Minor, BWV 1034","mediaplayer\/player.asp?br=128&tl=3091226|3091227|3091228|3091229",["I. Adagio ma non tanto","II. Allegro","III. Andante","IV. Allegro"]]]],["Goldberg, Johann Gottlieb",[["Prelude in C Major","mediaplayer\/player.asp?br=128&tl=3091230",[]]]],["Handel, George Frideric",[["Recorder Sonata in D Minor, HWV 367a","mediaplayer\/player.asp?br=128&tl=3091231|3091232|3091233|3091234|3091235|3091236|3091237",["I. Largo","II. Vivace","III. Furioso","IV. Adagio","V. Alla breve","VI. [Andante]","VII. A tempo di menuet"]]]],["Hasse, Johann Adolf",[["Keyboard Sonata No. 3 in F Major, \"Fatte per la Real Delfina di Francia\"","mediaplayer\/player.asp?br=128&tl=3091238|3091239|3091240",["I. Allegro moderato","II. Allegretto","III. Allegro"]]]],["Telemann, Georg Philipp",[["6 Sonate metodiche: Sonata No. 3 in E Minor, TWV 41:e2","mediaplayer\/player.asp?br=128&tl=3091241|3091242|3091243|3091244",["I. Grave","II. Vivace","III. Cunando","IV. Vivace"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724355711151.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724355711151.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724355711151","desc":"BACH, J.S.: Brandenburg Concerto No. 5 \/ Flute Sonata in G Major, BWV 1038 \/ Partita in A Minor, BWV 1013 \/ Overture (Suite) No. 2 (Pahud)","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian","artist":"Pahud, Emmanuel -- Schornsheim, Christine -- Kussmaul, Rainer -- Faust, Georg -- Berlin Baroque Soloists","country":"Germany","catid":"0724355711151","cdinfo":[[["Bach, Johann Sebastian",[["Brandenburg Concerto No. 5 in D Major, BWV 1050","mediaplayer\/player.asp?br=128&tl=1170381|1170382|1170383",["I. Allegro","II. Affettuoso","III. Allegro"]],["Flute Sonata in G Major, BWV 1038","mediaplayer\/player.asp?br=128&tl=1170384|1170385|1170386|1170387",["I. Largo","II. Vivace","III. Adagio","IV. Presto"]],["Partita in A Minor, BWV 1013","mediaplayer\/player.asp?br=128&tl=1170388|1170389|1170390|1170391",["I. Allemande","II. Corrente","III. Sarabande","IV. Bouree anglaise"]],["Overture (Suite) No. 2 in B Minor, BWV 1067","mediaplayer\/player.asp?br=128&tl=1170392|1170393|1170394|1170395|1170396|1170397|1170398",["I. Overture","II. Rondeau","III. Sarabande","IV. Bourree I-II-I","V. Polonaise - Double - Polonaise","VI. Menuet","VII. Badinerie"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0724354557552.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0724354557552.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0724354557552","desc":"BACH, J.S. \/ BEETHOVEN, L. van \/ MOZART, W.A. \/ SCARLATTI, D.: Sonatas and Encores","label":"Warner Classics - Parlophone","category":"Instrumental - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Scarlatti, Domenico -- Beethoven, Ludwig van","artist":"Duchable, Francois-Rene","country":"Austria France Germany Italy","catid":"0724354557552","cdinfo":[[["Bach, Johann Sebastian",[["Das Orgelbuchlein, BWV 599-644: Ich ruf' zu dir, Herr Jesu Christ, BWV 639 (arr. F. Busoni)","mediaplayer\/player.asp?br=128&tl=1099754",[]]]],["Beethoven, Ludwig van",[["Piano Sonata No. 8 in C Minor, Op. 13, \"Pathetique\"","mediaplayer\/player.asp?br=128&tl=1099758|1099759|1099760",["I. Grave - Allegro di molto e con brio","II. Adagio cantabile","III. Rondo: Allegro"]]]],["Bach, Johann Sebastian",[["Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. F.-R. Duchable)","mediaplayer\/player.asp?br=128&tl=1099765",[]]]],["Scarlatti, Domenico",[["Keyboard Sonata in D Minor, K.141\/L.422\/P.271","mediaplayer\/player.asp?br=128&tl=1099768",[]],["Keyboard Sonata in C Major, K.132\/L.457\/P.295","mediaplayer\/player.asp?br=128&tl=1099769",["Keyboard Sonata in C Major, K. 132\/L.457\/P.295"]],["Keyboard Sonata in G Major, K.13\/L.486\/P.69","mediaplayer\/player.asp?br=128&tl=1099770",[]]]],["Mozart, Wolfgang Amadeus",[["Fantasia in D Minor, K. 397","mediaplayer\/player.asp?br=128&tl=1099771",[]]]],["Bach, Johann Sebastian",[["Toccata, Adagio and Fugue in C Major, BWV 564: Adagio (arr. F.-R. Duchable)","mediaplayer\/player.asp?br=128&tl=1099796",[]]]],["Beethoven, Ludwig van",[["Bagatelle in A Minor, WoO 59, \"Fur Elise\"","mediaplayer\/player.asp?br=128&tl=1099798",[]],["Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\"","mediaplayer\/player.asp?br=128&tl=1099799|1099800|1099801",["I. Adagio sostenuto","II. Allegretto","III. Presto agitato"]]]],["Bach, Johann Sebastian",[["Herz und Mund und Tat und Leben, BWV 147: Chorale: Jesus bleibt meine Freude (arr. F.-R. Duchable)","mediaplayer\/player.asp?br=128&tl=1099802",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=INDEDIGI038.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=INDEDIGI038.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DINDEDIGI038","desc":"BACH, J.S.: Overture (Suite) No. 3 \/ Flute Sonata, BWV 1020 (Bach Premium Edition, Vol. 25) (Gm\u00fcr, Griffiths, Pitamic)","label":"Indesens","category":"Chamber Music - Classical Music","composer":"Bach, Johann Sebastian","artist":"Gmur, Hanspeter -- Griffiths, Howard -- Camerata Salzburg -- Vetter, Gerhard -- Schneider, Hermann -- Pitamic, Alexander von -- Abbuhl, Emanuel -- Zurich String Soloists -- Camerata Rhenania -- Kienzl, Hermann -- Musici dal Medico","country":"Germany","catid":"INDEDIGI038","cdinfo":[[["Bach, Johann Sebastian",[["Overture (Suite) No. 3 in D Major, BWV 1068","mediaplayer\/player.asp?br=128&tl=2244079|2244080|2244081|2244082|2244083",["I. Overture","II. Air, \"Air on a G String\"","III. Gavotte I-II","IV. Bourree","V. Gigue"]],["Oboe d'amore Concerto in A Major, BWV 1055","mediaplayer\/player.asp?br=128&tl=2244084|2244085|2244086",["I. Allegro","II. Larghetto","III. Allegro ma non tanto"]]]],["Bach, Johann Sebastian",[["Flute Sonata in G Minor, BWV 1020 (attrib. to C.P.E. Bach, H. 542.5)","mediaplayer\/player.asp?br=128&tl=2244087|2244088|2244089",["I. Allegro","II. Adagio","III. Allegro"]]]],["Bach, Johann Sebastian",[["Fugue in G Minor, BWV 1026","mediaplayer\/player.asp?br=128&tl=2244090",[]],["Oboe Concerto in D Minor, BWV 1059","mediaplayer\/player.asp?br=128&tl=2244091|2244092|2244093",["I. Allegro","II. Adagio","III. Allegro"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CDSAR68.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CDSAR68.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCDSAR68","desc":"Baroque Music - SCARLATTI, A. \/ TARTINI, G. \/ SCARLATTI, D. \/ VIVALDI, A. \/ LOCATELLI, P.A. \/ BOISMORTIER, J.B. \/ CORRETTE, M. \/ BACH, J.S.","label":"Amon Ra","category":"Chamber Music - Classical Music","composer":"Arne, Thomas Augustine -- Bach, Carl Philipp Emanuel -- Bach, Johann Sebastian -- Sanz, Gaspar -- Quantz, Johann Joachim -- Seixas, Carlos de -- Scarlatti, Alessandro -- Scarlatti, Domenico -- Vivaldi, Antonio -- Locatelli, Pietro Antonio -- Tartini, Giuseppe -- Telemann, Georg Philipp -- Handel, George Frideric -- Corrette, Michel -- Boismortier, Joseph Bodin de","artist":"North, Nigel -- Burnett, Richard -- Beznosiuk, Lisa -- McLaren, Neil -- Woolley, Robert -- Watts, Andrew -- Cole, Maggie -- Cambridge Baroque Camerata -- Hacker, Alan -- Nouveau Quatuor -- Masson, Barry -- Eustace, Frances -- Preston's Pocket -- Nouveau Quatuor, members","country":"France Germany Italy Portugal Spain United Kingdom","catid":"CDSAR68","cdinfo":[[["Scarlatti, Alessandro",[["Su le sponde del Tebro: Sinfonia","mediaplayer\/player.asp?br=128&tl=529871",[]]]],["Tartini, Giuseppe",[["Flute Concerto in G Major","mediaplayer\/player.asp?br=128&tl=529872|529873|529874",[]]]],["Scarlatti, Domenico",[["Keyboard Sonata in D Minor, K.417\/L.462\/P.40","mediaplayer\/player.asp?br=128&tl=529875",[]]]],["Vivaldi, Antonio",[["Chamber Concerto in F Major, RV 100: I. Allegro","mediaplayer\/player.asp?br=128&tl=529876",[]]]],["Locatelli, Pietro Antonio",[["Flute Sonata in G Minor, Op. 2, No. 3","mediaplayer\/player.asp?br=128&tl=529877|529878|529879",[]]]],["Boismortier, Joseph Bodin de",[["Sonata No. 5 for 2 Bassoons","mediaplayer\/player.asp?br=128&tl=529880|529881|529882|529883",[]]]],["Corrette, Michel",[["Cello Sonata in D Major: I. Allegro moderato","mediaplayer\/player.asp?br=128&tl=529884",[]]]],["Bach, Johann Sebastian",[["Trio Sonata in G Major, BWV 1039","mediaplayer\/player.asp?br=128&tl=529885|529886|529887|529888",[]]]],["Telemann, Georg Philipp",[["Der getreue Music-Meister: L'hiver in D Minor, TWV 41:d1","mediaplayer\/player.asp?br=128&tl=529889",[]]]],["Quantz, Johann Joachim",[["Flute Concerto in E Minor: I. Allegro ma non tanto","mediaplayer\/player.asp?br=128&tl=529890",[]]]],["Bach, Carl Philipp Emanuel",[["Flute Sonata A Minor, Wq. 128, H. 555: III. Vivace","mediaplayer\/player.asp?br=128&tl=529891",[]]]],["Sanz, Gaspar",[["Clarines y Trompetas","mediaplayer\/player.asp?br=128&tl=529892",[]]]],["Seixas, Carlos de",[["Keyboard Sonata No. 50 in G Minor","mediaplayer\/player.asp?br=128&tl=529893",[]]]],["Handel, George Frideric",[["Trio Sonata in G Minor, Op. 2, No. 5, HWV 390a: I. Larghetto","mediaplayer\/player.asp?br=128&tl=529894",[]]]],["Arne, Thomas Augustine",[["Trio Sonata No. 2 in G: II. Con spirito","mediaplayer\/player.asp?br=128&tl=529895",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=EMCCD-7762.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=EMCCD-7762.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DEMCCD-7762","desc":"Chamber Music (17th-18th Centuries) - BACH, J.S. \/ BACH, C.P.E. \/ BACH, J.C.F. \/ BACH, J.C. \/ MOZART, W.A. (De Bach A Mozart (Guimond)","label":"early-music.com","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Carl Philipp Emanuel -- Bach, Johann Christian -- Bach, Johann Sebastian -- Bach, Johann Christoph Friedrich","artist":"Cooper, Gary -- Linden, Jaap ter -- Guimond, Claire","country":"Austria Germany","catid":"EMCCD-7762","cdinfo":[[["Bach, Johann Sebastian",[["Flute Sonata in B Minor, BWV 1030","mediaplayer\/player.asp?br=128&tl=801441|801442|801443",["I. Andante","II. Largo e dolce","III. Presto"]]]],["Bach, Johann Sebastian",[["Trio Sonata No. 3 in D Minor, BWV 527","mediaplayer\/player.asp?br=128&tl=801444|801445|801446",["I. Andante","II. Adagio e dolce","III. Vivace"]]]],["Bach, Carl Philipp Emanuel",[["Flute Sonata in D Major, Wq. 83, H. 505","mediaplayer\/player.asp?br=128&tl=801447|801448|801449",["I. Allegro un poco","II. Largo","III. Allegro"]]]],["Bach, Johann Christoph Friedrich",[["Flute Sonata in F Major, W. VIII\/1, B. 25","mediaplayer\/player.asp?br=128&tl=801450|801451",["I. Allegro","II. Tempo di minuetto"]]]],["Bach, Johann Christian",[["Sonata in G Major, Op. 2, No. 2, B. 44","mediaplayer\/player.asp?br=128&tl=801452|801453",["I. Allegretto","II. Allegro"]]]],["Mozart, Wolfgang Amadeus",[["Violin Sonata No. 8 in F Major, K. 13 (version for flute and keyboard)","mediaplayer\/player.asp?br=128&tl=801454|801455|801456",["I. Allegro","II. Andante","III. Minuet"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=232921.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=232921.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D232921","desc":"Flute Recital: Rampal, Jean-Pierre - BACH, J.S. \/ BENDA, F. \/ HAYDN, F.J. \/ MOZART, W.A. \/ ROSETTI, A. \/ HINDEMITH, P. \/ MILHAUD, D. (1946-1956)","label":"Documents","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Leclair, Jean-Marie -- Prokofiev, Sergey -- Hindemith, Paul -- Benda, Franz -- Roussel, Albert -- Haydn, Franz Joseph -- Milhaud, Darius -- Stamitz, Carl -- Dukas, Paul -- Rosetti, Antonio","artist":"Rampal, Jean-Pierre -- Turnovsky, Martin -- Prague Chamber Orchestra -- Neumann, Vaclav -- Veyron-Lacroix, Robert -- Pasquier Trio, The -- Huchot, Jean -- Munclinger, Milan -- Svihlikova, Victorie -- Holecek, Alfred","country":"Austria Czech Republic France Germany Russia","catid":"232921","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=886443571792.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=886443571792.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D886443571792","desc":"Flute Music - BACH, J.S. \/ BACH, C.P.E. \/ C. STAMITZ \/ J. STAMITZ \/ GLUCK, C.W. (B. Kuijken, Br\u00fcggen, Tafelmusik Baroque Orchestra, Lamon)","label":"Sony Classical","category":"Chamber Music - Classical Music","composer":"Graun, Carl Heinrich -- Bach, Carl Philipp Emanuel -- Bach, Johann Sebastian -- Quantz, Johann Joachim -- Richter, Franz Xaver -- Hofmann, Leopold -- Benda, Franz -- Stamitz, Carl -- Stamitz, Johann -- Gluck, Christoph Willibald -- Kirnberger, Johann Philipp -- Graun, Johann Gottlieb -- Br\u00fcggen, Frans -- M\u00fcthel, Johann Gottfried -- Frederick II (King of Prussia)","artist":"Dael, Lucy van -- Asperen, Bob van -- Bylsma, Anner -- Lamon, Jeanne -- Kuijken, Sigiswald -- Kuijken, Barthold -- Leonhardt, Gustav -- Br\u00fcggen, Frans -- Tafelmusik Baroque Orchestra -- Kuijken, Wieland -- Woodrow, Anthony -- Glatt, Adelheid","country":"Austria Czech Republic Germany Netherlands United Kingdom","catid":"886443571792","cdinfo":[[["Stamitz, Carl",[["Flute Concerto in G Major, Op. 29","mediaplayer\/player.asp?br=128&tl=2259551|2259552|2259553",["I. Allegro","II. Andante non troppo moderato","III. Rondo: Allegro"]]]],["Richter, Franz Xaver",[["Concerto in E minor for Flute, Strings, and Basso Continuo","mediaplayer\/player.asp?br=128&tl=2259554|2259555|2259556",["I. Allegro moderato","II. Andantino","III. Allegro, non troppo presto"]]]],["Stamitz, Johann",[["Flute Concerto in G Major","mediaplayer\/player.asp?br=128&tl=2259557|2259558|2259559",["I. Allegro","II. Adagio","III. Presto"]]]],["Hofmann, Leopold",[["Flute Concerto in D Major, Badley D1","mediaplayer\/player.asp?br=128&tl=2259560|2259561|2259562",["I. Allegro moderato","II. Adagio","III. Allegro molto"]]]],["Gluck, Christoph Willibald",[["Orfeo ed Euridice: Act II: Dance of the Blessed Spirits","mediaplayer\/player.asp?br=128&tl=2259563",[]]]]],[["Bach, Carl Philipp Emanuel",[["Flute Sonata in E-Flat Major, BWV 1031, H. 545","mediaplayer\/player.asp?br=128&tl=2255073|2255074|2255075",["I. Allegro moderato","II. Siciliano","III. Allegro"]],["Flute Sonata in G Major, Wq. 86, H. 509","mediaplayer\/player.asp?br=128&tl=2255076|2255077|2255078",["I. Andante","II. Allegretto","III. Allegro"]],["Flute Sonata in C Major, Wq. 87, H. 515","mediaplayer\/player.asp?br=128&tl=2255079|2255080|2255081",["I. Allegretto","II. Andantino","III. Allegro"]],["Flute Sonata in B-Flat Major, Wq. 161\/2, H. 578","mediaplayer\/player.asp?br=128&tl=2255082|2255083|2255084",["I. Allegro","II. Adagio ma non troppo","III. Allegretto"]],["Flute Sonata in D Major, Wq. 83, H. 505","mediaplayer\/player.asp?br=128&tl=2255085|2255086|2255087",["I. Allegro un poco","II. Largo","III. Allegro"]]]]],[["Bach, Carl Philipp Emanuel",[["Flute Sonata in G Minor, BWV 1020 (attrib. to C.P.E. Bach, H. 542.5)","mediaplayer\/player.asp?br=128&tl=2255610|2255611|2255612",["I. Allegro","II. Adagio","III. Allegro"]],["Flute Sonata in B-Flat Major, Wq. 159\/2, H. 543","mediaplayer\/player.asp?br=128&tl=2255613|2255614|2255615",["I. Un poco andante","II. Allegretto","III. Allegro"]],["Flute Sonata in C Major, Wq. 73, H. 504","mediaplayer\/player.asp?br=128&tl=2255616|2255617|2255618",["I. Allegro di molto","II. Andante","III. Allegretto"]],["Flute Sonata in G Major, Wq. 85, H. 508","mediaplayer\/player.asp?br=128&tl=2255619|2255620|2255621",["I. Allegretto","II. Andantino","III. Allegro"]],["Flute Sonata in E Major, Wq. 84, H. 506","mediaplayer\/player.asp?br=128&tl=2255622|2255623|2255624",["I. Allegretto","II. Adagio di molto","III. Allegro Assai"]]]]],[["Benda, Franz",[["Flute Sonata in E Minor","mediaplayer\/player.asp?br=128&tl=2256873|2256874|2256875",["I. Largo, ma un poco andante","II. Arioso, un poco allegro","III. Presto"]]]],["Graun, Johann Gottlieb",[["Flute Sonata in C Major","mediaplayer\/player.asp?br=128&tl=2256876|2256877|2256878",["I. Largo","II. Allegro","III. Allegro"]]]],["Kirnberger, Johann Philipp",[["Flute Sonata in G Major","mediaplayer\/player.asp?br=128&tl=2256879|2256880|2256881",["I. Adagio","II. Allegro","III. Allegro"]]]],["Frederick II (King of Prussia)",[["Flute Sonata in E Minor","mediaplayer\/player.asp?br=128&tl=2256885|2256886|2256887",["I. Grave","II. Allegro assai","III. Presto"]]]],["Graun, Carl Heinrich",[["Flute Sonata in G Major","mediaplayer\/player.asp?br=128&tl=2256888|2256889|2256890",["I. Largo","II. Poco allegro","III. Allegretto"]]]],["Quantz, Johann Joachim",[["Flute Sonata in B-Flat Major","mediaplayer\/player.asp?br=128&tl=2256891|2256892|2256893",["I. Cantabile","II. Allegretto","III. Vivace"]]]],["M&#252;thel, Johann Gottfried",[["Flute Sonata in D Major","mediaplayer\/player.asp?br=128&tl=2256894|2256895|2256896",["I. Adagio","II. Allegro ma non troppo","III. Cantabile"]]]]],[["Bach, Johann Sebastian",[["Flute Sonata in B Minor, BWV 1030","mediaplayer\/player.asp?br=128&tl=2259564|2259565|2259566",["I. Andante","II. Largo e dolce","III. Presto"]],["Flute Sonata in E Major, BWV 1035","mediaplayer\/player.asp?br=128&tl=2259567|2259568|2259569|2259570",["I. Adagio ma non tanto","II. Allegro","III. Siciliana","IV. Allegro assai"]],["Flute Sonata in A Major, BWV 1032","mediaplayer\/player.asp?br=128&tl=2259571|2259572|2259573",["I. Vivace","II. Largo e dolce","III. Allegro"]]]]],[["Bach, Johann Sebastian",[["Flute Sonata in E Minor, BWV 1034","mediaplayer\/player.asp?br=128&tl=2260343|2260344|2260345|2260346",["I. Adagio ma non tanto","II. Allegro","III. Andante","IV. Allegro"]],["Partita in A Minor, BWV 1013","mediaplayer\/player.asp?br=128&tl=2260347|2260348|2260349|2260350",["I. Allemande","II. Corrente","III. Sarabande","IV. Bouree anglaise"]]]],["Bach, Johann Sebastian",[["Partita in A Minor, BWV 1013: I. Allemande (arr. for viola)","mediaplayer\/player.asp?br=128&tl=2260351",[]]]],["Bach, Johann Sebastian",[["Partita in A Minor, BWV 1013: II. Allemande (arr. for harpsichord)","mediaplayer\/player.asp?br=128&tl=2260352",[]],["Partita in A Minor, BWV 1013: III. Corrente (arr. for cello piccolo)","mediaplayer\/player.asp?br=128&tl=2260353",[]],["Partita in A Minor, BWV 1013: IV. Sarabande","mediaplayer\/player.asp?br=128&tl=2260354",[]]]],["Bach, Johann Sebastian",[["Partita in A Minor, BWV 1013: IV. Bourree Anglaise (arr. for violin)","mediaplayer\/player.asp?br=128&tl=2260355",[]]]],["Br&#252;ggen, Frans",[["Cello Concerto in D Minor (after J.S. Bach's Flute Sonata in B Minor, BWV 1030: I. Andante)","mediaplayer\/player.asp?br=128&tl=2260356",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=M56910.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=M56910.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DM56910","desc":"Chamber Music (Baroque) - FREDERICK II \/ BENDA, F. \/ BACH, C.P.E. \/ SCHAFFRATH, C. \/ QUANTZ, J.J. (Musical Delight)","label":"Musicaphon","category":"Chamber Music - Classical Music","composer":"Bach, Carl Philipp Emanuel -- Quantz, Johann Joachim -- Benda, Franz -- Schaffrath, Christoph -- Frederick II (King of Prussia)","artist":"Musical Delight","country":"Czech Republic Germany","catid":"M56910","cdinfo":[[["Frederick II (King of Prussia)",[["Flute Sonata in E Minor","mediaplayer\/player.asp?br=128&tl=760765|760766|760767",["I. Grave","II. Allegro assai","III. Presto"]]]],["Benda, Franz",[["Flute Sonata in E Minor","mediaplayer\/player.asp?br=128&tl=760768|760769|760770",["I. Largo, ma un poco andante","II. Arioso, un poco allegro","III. Presto"]]]],["Bach, Carl Philipp Emanuel",[["Flute Sonata in G Major, Wq. 133, H. 564","mediaplayer\/player.asp?br=128&tl=760771|760772",["I. Allegretto","II. Rondo: Presto"]]]],["Schaffrath, Christoph",[["Flute Sonata in D Minor","mediaplayer\/player.asp?br=128&tl=760773|760774|760775",["I. Adagio","II. Allegro","III. Allegro"]]]],["Quantz, Johann Joachim",[["Flute Sonata in B-Flat Major","mediaplayer\/player.asp?br=128&tl=760776|760777|760778",["I. Cantabile","II. Allegretto","III. Vivace"]]]],["Benda, Franz",[["Flute Sonata in F Major","mediaplayer\/player.asp?br=128&tl=760779|760780|760781",["I. Adagio","II. Allegro","III. Vivace"]]]],["Bach, Carl Philipp Emanuel",[["Flute Sonata in D Major, Wq. 131, H. 561","mediaplayer\/player.asp?br=128&tl=760782|760783|760784",["I. Andante","II. Allegretto","III. Allegro"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/bach%20flute%20sonata%20in%20d%20minor"};IMSLPNaxosSearch="bach flute sonata in d minor";JGaskdonation=0;JGFileTools={"206577":{"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206577\/206578\/206579\/0212"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206577"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206577"}},"206578":{"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206577\/206578\/206579\/0212"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206578"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206578"}},"206579":{"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206577\/206578\/206579\/0212"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206579"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206579"}},"206564":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206564"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206564\/206565\/206566\/206567\/e946"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206564"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206564"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206564"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206564"}},"206565":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206565"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206564\/206565\/206566\/206567\/e946"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206565"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206565"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206565"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206565"}},"206566":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206566"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206564\/206565\/206566\/206567\/e946"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206566"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206566"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206566"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206566"}},"206567":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206567"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206564\/206565\/206566\/206567\/e946"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206567"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206567"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206567"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206567"}},"206568":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206568"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206568\/206569\/206570\/206571\/420c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206568"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206568"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206568"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206568"}},"206569":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206569"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206568\/206569\/206570\/206571\/420c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206569"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206569"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206569"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206569"}},"206570":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206570"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206568\/206569\/206570\/206571\/420c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206570"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206570"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206570"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206570"}},"206571":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206571"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206568\/206569\/206570\/206571\/420c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206571"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206571"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206571"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206571"}},"206572":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206572"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206572\/206573\/206574\/206575\/206576\/df93"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206572"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206572"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206572"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206572"}},"206573":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206573"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206572\/206573\/206574\/206575\/206576\/df93"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206573"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206573"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206573"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206573"}},"206574":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206574"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206572\/206573\/206574\/206575\/206576\/df93"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206574"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206574"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206574"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206574"}},"206575":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=206575"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206572\/206573\/206574\/206575\/206576\/df93"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206575"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/206575"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206575"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206575"}},"206576":{"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/206572\/206573\/206574\/206575\/206576\/df93"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206576"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206576"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23206576"}},"291906":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=291906"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/291906\/291907\/bf53"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP291906"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/291906"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/291906"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23291906"}},"291907":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/291906\/291907\/bf53"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP291907"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/291907"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Flute+Sonata+in+D+minor%2C+HW+VIII%2F3.1+%28Bach%2C+Johann+Christoph+Friedrich%29&frmTitle=IMSLP+%23291907"}}};JGFileOpts={"206577":[],"206578":[],"206579":[],"206564":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlhoOMk11XHY+VGsQzns4g46\/PFtlfNaA2Fet7mf8smuAOXcrLSA4i5rtrFe8Igu8="},"206565":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6i35p4yi6WfN+\/52Iu8FC7AQR3WtWnFOKageKSU\/xWogaQkL+YqhdH9C4xkNckKM="},"206566":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhV6QDm2UZrtPpwtHxUhXalbr9r6ul+TtTrmmPgS119oRyeo7g6wTgonkSfpGzknLI="},"206567":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjXV4Q+xBO4rjQ6oP9iZueR3SVuNcUUmrBUIVsqhokZzKRY1biG4j4BgUV+bSwz2b8="},"206568":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjtHSN1Ynf5TDS5xdJRdIkubsCcT+954FJ10\/6Ote98oIkwGKaZMbzCV1QNmZT+PVI="},"206569":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlSlHYD0MssNo8GpLidcfD6QO3RUDYeEpkWqV32z9bqBNpfyBaJRf8GEuoqKbny+4="},"206570":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bizEApgts\/PnvkWLIZmqHZ3P2yKbKw803cYfCMlLVUjniHednaKZ77eDdlD9+xAHSE="},"206571":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjMGIYkYzjIDAXOTdAYOsnomFiIYhp\/4vUW+R6KWefn9gDsrO35Kxsb\/oE\/8SGxmjc="},"206572":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkGk8P49yN8bZfwynJUFuzzPV23uQBqgaSEV6aaPPDoozzfdqrMOMYDHPkScXw4RiYPiSg0r81IEsWFfbejCmy"},"206573":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjKj\/pfmhQgqme+j1aOZ0UpgqALov0I0\/X3Tu0\/kB\/UptnQ\/BjHjD7SebxNVWh9RvzRKnvAPnXYjHq2FNAE+7lX"},"206574":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqtfyxpqgrJPLAROZKtqzFuZCNhCb70dbv3svFko+5MKEifP9xkF8Iizm2vijdbFg="},"206575":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj51YXlzkiYih+0nXNmklltVqWu0Dkf\/kdB5JGMx0aIiNqJf2JyRUZf137weQciKiI="},"206576":[],"291906":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biWM32p6hdMPBX+jW7ljCtHxaedB1Y7LR6Ia\/mVpS9tTYuBDxvcyp06CdBw\/DEzGF1WJycd0DcgFhs\/JMvbPtWf"},"291907":[]};JGPageUntagged=false;JGPageTags=["sonatas","fl bc"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore2":true,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"206564":[4,"1"],"206568":[4,"1"],"206577":[8,"1"],"206578":[2,"1"],"206579":[6,"1"],"206565":[0,0],"206566":[0,0],"206567":[0,0],"206569":[0,0],"206570":[0,0],"206571":[0,0],"206572":[0,0],"206573":[0,0],"206574":[0,0],"206575":[0,0],"206576":[0,0],"291906":[0,0],"291907":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Trumpet.2C_Cello_and_Harpsichord_.28Rondeau.29"><span class="tocnumber">1.1.1</span> <span class="toctext">For Trumpet, Cello and Harpsichord (Rondeau)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.1</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Trumpet.2C_Cello_and_Harpsichord_.28Rondeau.29_2"><span class="tocnumber">2.1.1</span> <span class="toctext">For Trumpet, Cello and Harpsichord (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">3</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<h5> <span class="mw-headline" id="For_Trumpet.2C_Cello_and_Harpsichord_.28Rondeau.29">For Trumpet, Cello and Harpsichord (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP206577" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206577"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Allegretto non troppo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a0/WIMA.499f-B%28I%29Sco.mp3" class="internal" title="WIMA.499f-B(I)Sco.mp3">*</a></span><a href="/wiki/File:WIMA.499f-B(I)Sco.mp3" title="File:WIMA.499f-B(I)Sco.mp3">#206577</a> - 4.88MB - 3:44<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206577' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206577'>
+	<a href='javascript:void(0)' id='206577' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206577' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206577' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206577' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206577' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206577'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/206577/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206577/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@206577" title="Special:GetFCtrStats/@206577">1523</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_206577'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"206577":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/a\/a0\/IMSLP206577-WIMA.499f-B(I)Sco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":206578}});</script>
+</p>
+</div><div id="IMSLP206578" class="we_file we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206578"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Andante</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7f/WIMA.53a0-B%28II%29Sco.mp3" class="internal" title="WIMA.53a0-B(II)Sco.mp3">*</a></span><a href="/wiki/File:WIMA.53a0-B(II)Sco.mp3" title="File:WIMA.53a0-B(II)Sco.mp3">#206578</a> - 9.55MB - 7:32<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206578' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206578'>
+	<a href='javascript:void(0)' id='206578' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206578' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206578' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206578' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206578' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206578'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/206578/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206578/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@206578" title="Special:GetFCtrStats/@206578">605</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_206578'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"206578":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/7\/7f\/IMSLP206578-WIMA.53a0-B(II)Sco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":206579}});</script>
+</p>
+</div><div id="IMSLP206579" class="we_file we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206579"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Allegro</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/28/WIMA.317b-B%28III%29Sco.mp3" class="internal" title="WIMA.317b-B(III)Sco.mp3">*</a></span><a href="/wiki/File:WIMA.317b-B(III)Sco.mp3" title="File:WIMA.317b-B(III)Sco.mp3">#206579</a> - 5.58MB - 4:13<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206579' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206579'>
+	<a href='javascript:void(0)' id='206579' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206579' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206579' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206579' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206579' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206579'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/206579/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206579/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@206579" title="Special:GetFCtrStats/@206579">438</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_206579'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"206579":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/2\/28\/IMSLP206579-WIMA.317b-B(III)Sco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a> (Trumpet)
+</td></tr>
+<tr>
+<th>Performers
+</th>
+<td>Sonja Deunsch, harpsichord<br />Laura Backstrom, cello
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=206577/206578/206579">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=206577/206578/206579">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="206577">Javascript is required for this feature.</div><script>JGINITsearchbars['206577']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Scores (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">15</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Scores" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Trumpet.2C_Cello_and_Harpsichord_.28Rondeau.29_2">For Trumpet, Cello and Harpsichord (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP206564" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206564"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Allegretto non troppo - complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/16/WIMA.f1e4-B%28I%29Sco.pdf" class="internal" title="WIMA.f1e4-B(I)Sco.pdf">*</a></span><a href="/wiki/File:WIMA.f1e4-B(I)Sco.pdf" title="File:WIMA.f1e4-B(I)Sco.pdf">#206564</a> - 0.23MB, 9 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206564' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206564'>
+	<a href='javascript:void(0)' id='206564' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206564' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206564' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206564' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206564' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206564'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206564/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206564/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1238"><a href="/wiki/Special:GetFCtrStats/@206564" title="Special:GetFCtrStats/@206564">1238</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206565" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206565"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/da/WIMA.f16d-B%28I%29Trp.pdf" class="internal" title="WIMA.f16d-B(I)Trp.pdf">*</a></span><a href="/wiki/File:WIMA.f16d-B(I)Trp.pdf" title="File:WIMA.f16d-B(I)Trp.pdf">#206565</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206565' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206565'>
+	<a href='javascript:void(0)' id='206565' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206565' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206565' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206565' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206565' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206565'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206565/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206565/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 474"><a href="/wiki/Special:GetFCtrStats/@206565" title="Special:GetFCtrStats/@206565">474</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206566" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206566"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Harpsichord</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/93/WIMA.7d86-B%28I%29Ha.pdf" class="internal" title="WIMA.7d86-B(I)Ha.pdf">*</a></span><a href="/wiki/File:WIMA.7d86-B(I)Ha.pdf" title="File:WIMA.7d86-B(I)Ha.pdf">#206566</a> - 0.16MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206566' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206566'>
+	<a href='javascript:void(0)' id='206566' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206566' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206566' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206566' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206566' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206566'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206566/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206566/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 248"><a href="/wiki/Special:GetFCtrStats/@206566" title="Special:GetFCtrStats/@206566">248</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206567" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206567"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/26/WIMA.dc93-B%28I%29Vc.pdf" class="internal" title="WIMA.dc93-B(I)Vc.pdf">*</a></span><a href="/wiki/File:WIMA.dc93-B(I)Vc.pdf" title="File:WIMA.dc93-B(I)Vc.pdf">#206567</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206567' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206567'>
+	<a href='javascript:void(0)' id='206567' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206567' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206567' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206567' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206567' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206567'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206567/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206567/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 198"><a href="/wiki/Special:GetFCtrStats/@206567" title="Special:GetFCtrStats/@206567">198</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=206564/206565/206566/206567">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=206564/206565/206566/206567">del</a>/<span id="fmrglnk" data-pdfstr="206564//206565//206566//206567/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="206564">Javascript is required for this feature.</div><script>JGINITsearchbars['206564']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.f1e4-B(I)Sco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/16/ca4df15f3c798b1076b6ae40bef0d86c16154a3d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP206568" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206568"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Andante - complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/04/WIMA.2a52-B%28II%29Sco.pdf" class="internal" title="WIMA.2a52-B(II)Sco.pdf">*</a></span><a href="/wiki/File:WIMA.2a52-B(II)Sco.pdf" title="File:WIMA.2a52-B(II)Sco.pdf">#206568</a> - 0.21MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206568' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206568'>
+	<a href='javascript:void(0)' id='206568' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206568' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206568' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206568' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206568' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206568'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206568/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206568/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 436"><a href="/wiki/Special:GetFCtrStats/@206568" title="Special:GetFCtrStats/@206568">436</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206569" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206569"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/11/WIMA.70b3-B%28II%29Trp.pdf" class="internal" title="WIMA.70b3-B(II)Trp.pdf">*</a></span><a href="/wiki/File:WIMA.70b3-B(II)Trp.pdf" title="File:WIMA.70b3-B(II)Trp.pdf">#206569</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206569' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206569'>
+	<a href='javascript:void(0)' id='206569' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206569' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206569' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206569' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206569' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206569'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206569/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206569/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 268"><a href="/wiki/Special:GetFCtrStats/@206569" title="Special:GetFCtrStats/@206569">268</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206570" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206570"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Harpsichord</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9f/WIMA.e4b8-B%28II%29Ha.pdf" class="internal" title="WIMA.e4b8-B(II)Ha.pdf">*</a></span><a href="/wiki/File:WIMA.e4b8-B(II)Ha.pdf" title="File:WIMA.e4b8-B(II)Ha.pdf">#206570</a> - 0.16MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206570' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206570'>
+	<a href='javascript:void(0)' id='206570' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206570' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206570' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206570' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206570' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206570'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206570/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206570/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 164"><a href="/wiki/Special:GetFCtrStats/@206570" title="Special:GetFCtrStats/@206570">164</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206571" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206571"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f1/WIMA.e4b2-B%28II%29Vc.pdf" class="internal" title="WIMA.e4b2-B(II)Vc.pdf">*</a></span><a href="/wiki/File:WIMA.e4b2-B(II)Vc.pdf" title="File:WIMA.e4b2-B(II)Vc.pdf">#206571</a> - 0.04MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206571' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206571'>
+	<a href='javascript:void(0)' id='206571' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206571' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206571' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206571' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206571' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206571'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206571/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206571/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 146"><a href="/wiki/Special:GetFCtrStats/@206571" title="Special:GetFCtrStats/@206571">146</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=206568/206569/206570/206571">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=206568/206569/206570/206571">del</a>/<span id="fmrglnk" data-pdfstr="206568//206569//206570//206571/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>. Given as "Andante - Recitativo" in track listing to 2009 recording.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="206568">Javascript is required for this feature.</div><script>JGINITsearchbars['206568']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.2a52-B(II)Sco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/04/8fbf176f6b8ec259c552549d4596d8fde2d7b8a6.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP206572" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206572"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Allegro - complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4f/WIMA.aba8-B%28III%29Sco.pdf" class="internal" title="WIMA.aba8-B(III)Sco.pdf">*</a></span><a href="/wiki/File:WIMA.aba8-B(III)Sco.pdf" title="File:WIMA.aba8-B(III)Sco.pdf">#206572</a> - 0.26MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206572' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206572'>
+	<a href='javascript:void(0)' id='206572' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206572' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206572' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206572' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206572' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206572'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206572/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206572/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 400"><a href="/wiki/Special:GetFCtrStats/@206572" title="Special:GetFCtrStats/@206572">400</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>4 more</u>:</b> Trumpet • Harpsichord • Cello • Engraving files (Finale)
+</p>
+</div><div id="IMSLP206573" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206573"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/27/WIMA.78fb-B%28III%29Trp.pdf" class="internal" title="WIMA.78fb-B(III)Trp.pdf">*</a></span><a href="/wiki/File:WIMA.78fb-B(III)Trp.pdf" title="File:WIMA.78fb-B(III)Trp.pdf">#206573</a> - 0.08MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206573' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206573'>
+	<a href='javascript:void(0)' id='206573' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206573' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206573' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206573' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206573' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206573'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206573/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206573/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 217"><a href="/wiki/Special:GetFCtrStats/@206573" title="Special:GetFCtrStats/@206573">217</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206574" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206574"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Harpsichord</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a9/WIMA.e742-B%28III%29Ha.pdf" class="internal" title="WIMA.e742-B(III)Ha.pdf">*</a></span><a href="/wiki/File:WIMA.e742-B(III)Ha.pdf" title="File:WIMA.e742-B(III)Ha.pdf">#206574</a> - 0.17MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206574' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206574'>
+	<a href='javascript:void(0)' id='206574' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206574' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206574' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206574' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206574' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206574'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206574/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206574/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 152"><a href="/wiki/Special:GetFCtrStats/@206574" title="Special:GetFCtrStats/@206574">152</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206575" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206575"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9e/WIMA.817c-B%28III%29Vc.pdf" class="internal" title="WIMA.817c-B(III)Vc.pdf">*</a></span><a href="/wiki/File:WIMA.817c-B(III)Vc.pdf" title="File:WIMA.817c-B(III)Vc.pdf">#206575</a> - 0.08MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206575' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206575'>
+	<a href='javascript:void(0)' id='206575' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206575' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206575' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206575' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206575' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206575'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206575/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206575/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 143"><a href="/wiki/Special:GetFCtrStats/@206575" title="Special:GetFCtrStats/@206575">143</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP206576" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206576"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a0/WIMA.41fb-B.zip" class="internal" title="WIMA.41fb-B.zip">*</a></span><a href="/wiki/File:WIMA.41fb-B.zip" title="File:WIMA.41fb-B.zip">#206576</a> - 0.92MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206576' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206576'>
+	<a href='javascript:void(0)' id='206576' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206576' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206576' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206576' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206576' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206576'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206576/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/206576/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 176"><a href="/wiki/Special:GetFCtrStats/@206576" title="Special:GetFCtrStats/@206576">176</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2012/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=206572/206573/206574/206575/206576">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=206572/206573/206574/206575/206576">del</a>/<span id="fmrglnk" data-pdfstr="206572//206573//206574//206575/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="206572">Javascript is required for this feature.</div><script>JGINITsearchbars['206572']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.aba8-B(III)Sco.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4f/fdec37ef32c6082e2a31239e4c0c5c20a7a19112.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP291906" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/291906"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete A Trumpet part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2b/PMLP347774-BacAtrp123.pdf" class="internal" title="PMLP347774-BacAtrp123.pdf">*</a></span><a href="/wiki/File:PMLP347774-BacAtrp123.pdf" title="File:PMLP347774-BacAtrp123.pdf">#291906</a> - 0.10MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-291906' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-291906'>
+	<a href='javascript:void(0)' id='291906' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='291906' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='291906' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='291906' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='291906' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-291906'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/291906/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/291906/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 165"><a href="/wiki/Special:GetFCtrStats/@291906" title="Special:GetFCtrStats/@291906">165</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2013/8/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP291907" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/291907"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dc/PMLP347774-HWVIII3No1EF.zip" class="internal" title="PMLP347774-HWVIII3No1EF.zip">*</a></span><a href="/wiki/File:PMLP347774-HWVIII3No1EF.zip" title="File:PMLP347774-HWVIII3No1EF.zip">#291907</a> - 0.13MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-291907' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-291907'>
+	<a href='javascript:void(0)' id='291907' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='291907' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='291907' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='291907' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='291907' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-291907'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/291907/Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)" title="Special:IMSLPEditCTag/291907/Flute Sonata in D minor, HW VIII/3.1 (Bach, Johann Christoph Friedrich)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 118"><a href="/wiki/Special:GetFCtrStats/@291907" title="Special:GetFCtrStats/@291907">118</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2013/8/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=291906/291907">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=291906/291907">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="291906">Javascript is required for this feature.</div><script>JGINITsearchbars['291906']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP347774-BacAtrp123.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2b/7dc3b176a11ce189016b41d562ff98e1e5b6b346.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Flute Sonata in D minor
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Bach,_Johann_Christoph_Friedrich" title="Category:Bach, Johann Christoph Friedrich">Bach, Johann Christoph Friedrich</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>HW VIII/3.1
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IJB 11
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>D minor
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 movements
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1777 in <i>Sechs Sonaten</i>
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>24 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Flute, continuo (cello, harpsichord or piano)
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>Recorded on the 2009 Barthold Kuijken/Demeyere CD (on Accent) <i>Flute Sonatas by the Bach Sons</i> (first movement given as "Allegretto" which, even though Mendelssohn among others also use "Allegretto non troppo", makes more sense than that... ("Not too fast, not too slow, but not too much so. O-kay. Whatever you say, JCF Bach. Just this -one- thing. Which way? 2nd movement as "Andante - Recitativo".)
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 729/1000000
+Post-expand include size: 68695/2097152 bytes
+Template argument size: 133/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:347774-0!*!0!!en!2!* and timestamp 20180415185459 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)&amp;oldid=1518012">http://imslp.org/index.php?title=Flute_Sonata_in_D_minor,_HW_VIII/3.1_(Bach,_Johann_Christoph_Friedrich)&amp;oldid=1518012</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Rondeau,_Michel/Performer" title="Category:Rondeau, Michel/Performer">Rondeau, Michel/Performer</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Rondeau,_Michel/Arranger" title="Category:Rondeau, Michel/Arranger">Rondeau, Michel/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Bach,_Johann_Christoph_Friedrich" title="Category:Bach, Johann Christoph Friedrich">Bach, Johann Christoph Friedrich</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a></li><li><a href="/wiki/Category:Sonatas" title="Category:Sonatas">Sonatas</a></li><li><a href="/wiki/Category:For_flute,_continuo" title="Category:For flute, continuo">For flute, continuo</a></li><li><a href="/wiki/Category:Scores_featuring_the_flute" title="Category:Scores featuring the flute">Scores featuring the flute</a></li><li><a href="/wiki/Category:Scores_with_basso_continuo" title="Category:Scores with basso continuo">Scores with basso continuo</a></li><li><a href="/wiki/Category:For_1_player_with_continuo" title="Category:For 1 player with continuo">For 1 player with continuo</a></li><li><a href="/wiki/Category:For_trumpet,_cello,_harpsichord_(arr)" title="Category:For trumpet, cello, harpsichord (arr)">For trumpet, cello, harpsichord (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_trumpet" title="Category:Scores featuring the trumpet">Scores featuring the trumpet</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:For_3_players" title="Category:For 3 players">For 3 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1777" title="Category:Works first published in 1777">Works first published in 1777</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:D_minor" title="Category:D minor">D minor</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Flute_Sonata_in_D_minor%2C_HW_VIII%2F3.1_%28Bach%2C_Johann_Christoph_Friedrich%29">2,351 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Flute%20Sonata%20in%20D%20minor%2C%20HW%20VIII%2F3.1%20%28Bach%2C%20Johann%20Christoph%20Friedrich%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.531 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415185459 -->
+</html>
+		

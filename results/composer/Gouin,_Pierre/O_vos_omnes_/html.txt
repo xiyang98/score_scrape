@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>O vos omnes (Victoria, Tomás Luis de) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "O_vos_omnes_(Victoria,_Tomás_Luis_de)", "wgTitle": "O vos omnes (Victoria, Tomás Luis de)", "wgCurRevisionId": 2455148, "wgArticleId": 84918, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from Łódź University Library", "Pedrell, Felipe/Editor", "Scores published by Breitkopf und Härtel", "Alvarez, Nancho/Editor", "Silversmith, Rob/Editor", "Gouin, Pierre/Editor", "WIMA files", "Folop, Albert/Arranger", "Folop Viol Music Collection", "Scores", "Victoria, Tomás Luis de", "Renaissance style", "Renaissance", "Motets", "For 4 voices", "For unaccompanied voices", "Scores featuring the voice", "Scores featuring the soprano voice", "Scores featuring the alto voice", "Scores featuring the tenor voice", "Scores featuring the bass voice", "Latin language", "For 4 viols (arr)", "Scores featuring the viol", "For 4 players", "Pages with arrangements", "Works first published in 1572", "Works first published in the 16th century"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-O_vos_omnes_Victoria_Tomás_Luis_de action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)&amp;oldid=2455148" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=O%20vos%20omnes%20%28Victoria%2C%20Tom%C3%A1s%20Luis%20de%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					O vos omnes (Victoria, Tomás Luis de)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>Composition Year
+</th>
+<td>1572 or before
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Motets&amp;transclude=Template:Catintro">Motets</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_voices&amp;transclude=Template:Catintro">For 4 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_voices&amp;transclude=Template:Catintro">For unaccompanied voices</a></span>; <span class="expandline" title="9 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_soprano_voice&amp;transclude=Template:Catintro">Scores featuring the soprano voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_alto_voice&amp;transclude=Template:Catintro">Scores featuring the alto voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_tenor_voice&amp;transclude=Template:Catintro">Scores featuring the tenor voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_bass_voice&amp;transclude=Template:Catintro">Scores featuring the bass voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Latin_language&amp;transclude=Template:Catintro">Latin language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_viols_%28arr%29&amp;transclude=Template:Catintro">For 4 viols (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viol&amp;transclude=Template:Catintro">Scores featuring the viol</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_players&amp;transclude=Template:Catintro">For 4 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"O vos omnes","composer":"Victoria, Tom\u00e1s Luis de","comphref":"\/wiki\/Category:Victoria,_Tom%C3%A1s_Luis_de"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"o vos omnes","itunes":"o vos omnes","composer":"victoria","scorekeywords":"o vos omnes","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":51,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ACD22631.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ACD22631.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DACD22631","desc":"Choral Concert: Ensemble Vocal Ganymede - VICTORIA, T.L. de \/ SCHUBERT, F. \/ MILLIKEN, S. \/ IBERT, J. \/ VIGNEAULT, G. \/ DALEY, E. (O vos omnes)","label":"ATMA Classique","category":"Choral - Sacred - Classical Music","composer":"Daley, Eleanor -- Vigneault, Gilles -- Handl, Jacobus -- Casals, Pablo -- Victoria, Tom\u00e1s Luis de -- Schubert, Franz -- Papineau-Couture, Jean -- Ibert, Jacques -- Lauridsen, Morten -- Telfer, Nancy -- Ingegneri, Marc'Antonio -- Enns, Leonard -- Milliken, Sandra -- Schmidt, Brian A. -- Bottazzo, Luigi -- Kendrick, Donald M.","artist":"Sabourin, Yvan","country":"Australia Austria Canada France Italy Slovenia Spain United States","catid":"ACD22631","cdinfo":[[["Casals, Pablo",[["O vos omnes","mediaplayer\/player.asp?br=128&tl=1034798",[]]]],["Schmidt, Brian A.",[["Lux Aeterna","mediaplayer\/player.asp?br=128&tl=1034791",[]]]],["Telfer, Nancy",[["What Then, My Love","mediaplayer\/player.asp?br=128&tl=1034789",[]]]],["Milliken, Sandra",[["Panis Dei","mediaplayer\/player.asp?br=128&tl=1034785",[]]]],["Daley, Eleanor",[["Requiem: In Remembrance","mediaplayer\/player.asp?br=128&tl=1034788",[]],["Ave Maria","mediaplayer\/player.asp?br=128&tl=1034796",[]]]],["Enns, Leonard",[["Music When Soft Voices Die","mediaplayer\/player.asp?br=128&tl=1034792",[]]]],["Schubert, Franz",[["Die Nacht, Op. 17, No. 4, D. 983c","mediaplayer\/player.asp?br=128&tl=1034802",[]]]],["Kendrick, Donald M.",[["Magnificat","mediaplayer\/player.asp?br=128&tl=1034799",[]]]],["Papineau-Couture, Jean",[["Te mater","mediaplayer\/player.asp?br=128&tl=1034793",[]]]],["Victoria, Tom&#225;s Luis de",[["Natus est nobis","mediaplayer\/player.asp?br=128&tl=1034801",[]]]],["Lauridsen, Morten",[["O Magnum Mysterium","mediaplayer\/player.asp?br=128&tl=1034794",[]]]],["Vigneault, Gilles",[["Quand vous mourrez de nos amours (arr. Y. Sabourin)","mediaplayer\/player.asp?br=128&tl=1034787",[]]]],["Ingegneri, Marc'Antonio",[["Tenebrae factae sunt","mediaplayer\/player.asp?br=128&tl=1034795",[]]]],["Bottazzo, Luigi",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=1034797",[]]]],["Handl, Jacobus",[["Regnum mundi","mediaplayer\/player.asp?br=128&tl=1034790",[]]]],["Ibert, Jacques",[["La berceuse du petit Zebu, \"Les fleurs des champs \"","mediaplayer\/player.asp?br=128&tl=1034786",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HMU807555.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HMU807555.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHMU807555","desc":"Choral Music - GIBBONS, O. \/ TALLIS, T. \/ LASSO, O. di \/ MORALES, C. de \/ VICTORIA, T.L. de \/ MCCABE, J. (Passion and Resurrection) (Stile Antico)","label":"Harmonia Mundi","category":"Choral - Sacred - Classical Music","composer":"Crecquillon, Thomas -- McCabe, John -- Victoria, Tom\u00e1s Luis de -- Lheritier, Jean -- Morales, Cristobal de -- Tallis, Thomas -- Taverner, John -- Guerrero, Francisco -- Byrd, William -- Cornysh (II), William -- Gibbons, Orlando -- Lasso, Orlando di","artist":"","country":"Belgium France Spain United Kingdom","catid":"HMU807555","cdinfo":[[["Cornysh (II), William",[["Woefully Arrayed","mediaplayer\/player.asp?br=128&tl=1613518",[]]]],["Gibbons, Orlando",[["Hosanna to the Son of David","mediaplayer\/player.asp?br=128&tl=1613519",[]]]],["Tallis, Thomas",[["O sacrum convivium","mediaplayer\/player.asp?br=128&tl=1613528",[]]]],["Lasso, Orlando di",[["In monte Oliveti","mediaplayer\/player.asp?br=128&tl=1613529",[]]]],["Morales, Cristobal de",[["O crux, ave, spes unica","mediaplayer\/player.asp?br=128&tl=1613530",[]]]],["Victoria, Tom&#225;s Luis de",[["O vos omnes","mediaplayer\/player.asp?br=128&tl=1613531",[]]]],["McCabe, John",[["Woefully Arrayed","mediaplayer\/player.asp?br=128&tl=1613532",[]]]],["Taverner, John",[["Dum transisset sabbatum I","mediaplayer\/player.asp?br=128&tl=1613533",[]]]],["Guerrero, Francisco",[["Maria Magdalena","mediaplayer\/player.asp?br=128&tl=1613534",[]]]],["Byrd, William",[["In resurrectione tua","mediaplayer\/player.asp?br=128&tl=1613535",[]]]],["Lheritier, Jean",[["Surrexit pastor bonus","mediaplayer\/player.asp?br=128&tl=1613536",[]]]],["Gibbons, Orlando",[["I am the resurrection","mediaplayer\/player.asp?br=128&tl=1613537",[]]]],["Crecquillon, Thomas",[["Congratulamini mihi omnes","mediaplayer\/player.asp?br=128&tl=1613538",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SIGCD344.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SIGCD344.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSIGCD344","desc":"VICTORIA, T.L. de: Officium Hebdomadae Sanctae: Tenebrae Responsories (Tenebrae, Short)","label":"Signum Classics","category":"Vocal Ensemble - Classical Music","composer":"Victoria, Tom\u00e1s Luis de","artist":"Short, Nigel","country":"Spain","catid":"SIGCD344","cdinfo":[[["Victoria, Tom&#225;s Luis de",[["Officium Hebdomadae Sanctae: Tenebrae Responsories","mediaplayer\/player.asp?br=128&tl=1796444|1796445|1796446|1796447|1796448|1796449|1796450|1796451|1796452|1796453|1796454|1796455|1796456|1796457|1796458|1796459|1796460|1796461",["Amicus meus - Infelix - Bonum erat ei","Judas mercator - Denariorum - Melius","Unus ex discipulis - Melius - Qui intingit","Eram quasi agnus - Venite - Omnes","Una hora - Vel ludam - quid dormitis","Seniores populi - Ut lesum - Collegerunt","Tamquam ad latronem - Quotide - Cumque","Tenebrae factae sunt - Et inclinato capite - Exclamans","Animam meam - Quia non est - Insurrexerunt","Tradiderunt me - Et sicut gigantes - Alieni","Iesum tradidit impius - Petrus autem - Adduxerunt","Caligaverunt oculi mei - Si est dolor - O vos omnes","Recessit pastor noster - Nam et ille - Destruxit","O vos omnes - Si est dolor - attendite","Ecce quomodo moritur - Et erit - Tanquam agnus","Astiterunt reges - Adversus Dominum - Quare","Aestimatus sum - Factus sum - Posuerunt me","Sepulto Domino - Ponentes milites - Accedentes"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099902942957.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099902942957.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099902942957","desc":"VICTORIA, T.L. de: Tenebrae Responsories (The Sixteen, Christophers)","label":"Erato - Parlophone","category":"Vocal Ensemble - Classical Music","composer":"Victoria, Tom\u00e1s Luis de","artist":"Christophers, Harry","country":"Spain","catid":"5099902942957","cdinfo":[[["Victoria, Tom&#225;s Luis de",[["Officium Hebdomadae Sanctae: Tenebrae Responsories","mediaplayer\/player.asp?br=128&tl=1148288|1148289|1148290|1148291|1148292|1148293|1148294|1148295|1148296|1148297|1148298|1148299|1148300|1148301|1148302|1148303|1148304|1148305",["Amicus meus - Infelix - Bonum erat ei","Judas mercator - Denariorum - Melius","Unus ex discipulis - Melius - Qui intingit","Eram quasi agnus - Venite - Omnes","Una hora - Vel ludam - quid dormitis","Seniores populi - Ut lesum - Collegerunt","Tamquam ad latronem - Quotide - Cumque","Tenebrae factae sunt - Et inclinato capite - Exclamans","Animam meam - Quia non est - Insurrexerunt","Tradiderunt me - Et sicut gigantes - Alieni","Iesum tradidit impius - Petrus autem - Adduxerunt","Caligaverunt oculi mei - Si est dolor - O vos omnes","Recessit pastor noster - Nam et ille - Destruxit","O vos omnes - Si est dolor - Attendite","Ecce quomodo moritur - Et erit - Tanquam agnus","Astiterunt reges - Adversus Dominum - Quare","Aestimatus sum - Factus sum - Posuerunt me","Sepulto Domino - Ponentes milites - Accedentes"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=AAECD1001.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=AAECD1001.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DAAECD1001","desc":"VICTORIA, T.L. de: 15 Motets \/ Missa pro defunctis (Sacred Jewels) (Amor Artis Chorus, Somary)","label":"Amor Artis Edition","category":"Choral - Sacred - Classical Music","composer":"Victoria, Tom\u00e1s Luis de","artist":"Somary, Johannes","country":"Spain","catid":"AAECD1001","cdinfo":[[["Victoria, Tom&#225;s Luis de",[["O quam gloriosum est regnum","mediaplayer\/player.asp?br=128&tl=1167750",[]],["Lauda Sion","mediaplayer\/player.asp?br=128&tl=1167751",[]],["Quam pulchri sunt gressus tui","mediaplayer\/player.asp?br=128&tl=1167752",[]]]],["Victoria, Tom&#225;s Luis de",[["Ave maris stella","mediaplayer\/player.asp?br=128&tl=1167753",[]]]],["Victoria, Tom&#225;s Luis de",[["O magnum mysterium","mediaplayer\/player.asp?br=128&tl=1167754",[]],["Magi viderunt stellam","mediaplayer\/player.asp?br=128&tl=1167755",[]],["Pueri hebraeorum","mediaplayer\/player.asp?br=128&tl=1167756",[]],["Una hora","mediaplayer\/player.asp?br=128&tl=1167757",[]],["Popule meus","mediaplayer\/player.asp?br=128&tl=1167758",[]],["O vos omnes","mediaplayer\/player.asp?br=128&tl=1167759",[]],["Victimae paschali laudes","mediaplayer\/player.asp?br=128&tl=1167760",[]],["Veni Creator Spiritus a 4","mediaplayer\/player.asp?br=128&tl=1167761",[]],["Domine non sum dignus","mediaplayer\/player.asp?br=128&tl=1167762",[]],["O Sacrum convivium","mediaplayer\/player.asp?br=128&tl=1167763",[]]]],["Victoria, Tom&#225;s Luis de",[["Magnificat Primi toni","mediaplayer\/player.asp?br=128&tl=1167764",[]]]],["Victoria, Tom&#225;s Luis de",[["Missa pro defunctis a 6","mediaplayer\/player.asp?br=128&tl=1167765",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TC552902.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TC552902.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTC552902","desc":"VICTORIA, T.L. de: Vocal and Choral Music (Missa O quam gloriosum, Mottetti e Inni) (Il Convitto Armonico)","label":"Tactus","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Victoria, Tom\u00e1s Luis de","artist":"Baldi, Stefano -- Mori, Mario -- Mettifogo, Paolo -- Buschini, Stefano -- Coppa, Lorella -- Bruschi, Alessia -- Maggi, Chiara -- Bernardini, Caterina -- Baroncelli, Eleonora -- Gnani, Donatella -- Nardelli, Alessandra -- Maggi, Laura -- Borghetti, Enzo -- La Rocca, Pino -- Canepa, Gaetano -- Cecchi, Daniele -- Canese, Federico","country":"Spain","catid":"TC552902","cdinfo":[[["Anonymous",[["O quam gloriosum est regnum","mediaplayer\/player.asp?br=128&tl=1678741",[]]]],["Victoria, Tom&#225;s Luis de",[["Missa O quam gloriosum (excerpts)","mediaplayer\/player.asp?br=128&tl=1678743|1678744|1678745|1678746|1678747",["Kyrie","Gloria","Credo","Sanctus - Benedictus","Agnus Dei"]]]],["Victoria, Tom&#225;s Luis de",[["Iste sanctus pro lege","mediaplayer\/player.asp?br=128&tl=1678748",[]],["Gaudent in coelis animae Sanctorum","mediaplayer\/player.asp?br=128&tl=1678749",[]],["Sancta Maria, succurre miseris","mediaplayer\/player.asp?br=128&tl=1678750",[]],["Senex puerum portabat","mediaplayer\/player.asp?br=128&tl=1678751",[]],["O magnum mysterium","mediaplayer\/player.asp?br=128&tl=1678752",[]],["O sacrum convivium","mediaplayer\/player.asp?br=128&tl=1678753",[]],["Vere languores nostros","mediaplayer\/player.asp?br=128&tl=1678754",[]],["O vos omnes","mediaplayer\/player.asp?br=128&tl=1678755",[]],["Tristes erant apostoli","mediaplayer\/player.asp?br=128&tl=1678756",[]],["Te Deum","mediaplayer\/player.asp?br=128&tl=1678757",[]],["Veni Creator Spiritus a 4","mediaplayer\/player.asp?br=128&tl=1678758",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028943391429.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028943391429.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028943391429","desc":"VICTORIA, T.L. de: Sacred Choral Music (G. Guest, Malcolm, Cleobury)","label":"Decca","category":"Choral - Sacred - Classical Music","composer":"Victoria, Tom\u00e1s Luis de","artist":"Guest, George -- Malcolm, George","country":"Spain","catid":"00028943391429","cdinfo":[[["Victoria, Tom&#225;s Luis de",[["Missa Pro defunctis a 6 (1605), \"Requiem\"","mediaplayer\/player.asp?br=128&tl=3037694|3037695|3037696|3037697|3037698|3037699|3037700|3037701",["Introitus: Requiem aeternam","Kyrie","Graduale: Requiem aeternam","Offertorium: Domine, Iesu Christe","Sanctus - Benedictus","Agnus Dei I - III","Communio: Lux aeterna","Responsory: Libera me, Domine"]]]],["Victoria, Tom&#225;s Luis de",[["Gaudent in coelis animae Sanctorum","mediaplayer\/player.asp?br=128&tl=3037702",[]],["O magnum mysterium","mediaplayer\/player.asp?br=128&tl=3037703",[]]]],["Victoria, Tom&#225;s Luis de",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=3037704",[]]]],["Victoria, Tom&#225;s Luis de",[["Ascendens Christus in altum","mediaplayer\/player.asp?br=128&tl=3037705",[]]]],["Victoria, Tom&#225;s Luis de",[["Magnificat Primi toni a 8","mediaplayer\/player.asp?br=128&tl=3037706",[]]]],["Victoria, Tom&#225;s Luis de",[["Litaniae de Beata Virgine a 8","mediaplayer\/player.asp?br=128&tl=3037707",[]],["Tenebrae Responsories","mediaplayer\/player.asp?br=128&tl=3037708|3037709|3037710|3037711|3037712|3037713|3037714|3037715|3037716|3037717|3037718|3037719|3037720|3037721|3037722|3037723|3037724|3037725",["Amicus meus","Iudas mercator pessimus","Unus ex discipulis meis","Eram quasi agnus","Una hora","Seniores populi","Tamquam ad latronem","Tenebrae factae sunt","Animam meam dilectam","Tradiderunt me","Iesum tradidit impius","Caligaverunt oculi me","Recessit pastor noster","O vos omnes","Ecce quomodo moritur","Astiterunt reges","Aestimatus sum","Sepulto Domino"]],["O quam gloriosum est regnum","mediaplayer\/player.asp?br=128&tl=3037687",[]]]],["Victoria, Tom&#225;s Luis de",[["Missa O quam gloriosum","mediaplayer\/player.asp?br=128&tl=3037688|3037689|3037690|3037691|3037692|3037693",["Kyrie","Gloria","Credo","Sanctus - Hosanna","Benedictus - Hosanna","Agnus Dei"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=COLCD134.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=COLCD134.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCOLCD134","desc":"Choral Concert: Cambridge Singers - GABRIELI, G. \/ MONTEVERDI, C. \/ PALESTRINA, G.P. da \/ LASSO, O. di \/ SWEELINCK, J.P. (The Sacred Flame)","label":"Collegium","category":"Choral - Sacred - Classical Music","composer":"Bach, Johann Sebastian -- Victoria, Tom\u00e1s Luis de -- Josquin des Prez, -- Sweelinck, Jan Pieterszoon -- Joao IV (King of Portugal), -- Monteverdi, Claudio -- Sch\u00fctz, Heinrich -- Palestrina, Giovanni Pierluigi da -- Hassler, Hans Leo -- Buxtehude, Dieterich -- Gabrieli, Giovanni -- Gesualdo, Carlo -- Lasso, Orlando di -- Anerio, Felice","artist":"Williams, Mark -- Nuova Musica, La","country":"Belgium France Germany Italy Netherlands Portugal Spain","catid":"COLCD134","cdinfo":[[["Gabrieli, Giovanni",[["Jubilate Deo","mediaplayer\/player.asp?br=128&tl=707301",[]]]],["Monteverdi, Claudio",[["Beatus vir","mediaplayer\/player.asp?br=128&tl=707302",[]]]],["Monteverdi, Claudio",[["Christe adoramus te","mediaplayer\/player.asp?br=128&tl=707303",[]]]],["Monteverdi, Claudio",[["Cantate Domino canticum novum","mediaplayer\/player.asp?br=128&tl=707753",[]]]],["Palestrina, Giovanni Pierluigi da",[["Sicut cervus","mediaplayer\/player.asp?br=128&tl=707305",[]],["Exsultate Deo","mediaplayer\/player.asp?br=128&tl=707306",[]]]],["Anerio, Felice",[["Christus factus est","mediaplayer\/player.asp?br=128&tl=707307",[]]]],["Gesualdo, Carlo",[["O vos omnes","mediaplayer\/player.asp?br=128&tl=707308",[]]]],["Lasso, Orlando di",[["Timor et tremor","mediaplayer\/player.asp?br=128&tl=707309",[]]]],["Lasso, Orlando di",[["Ave verum corpus","mediaplayer\/player.asp?br=128&tl=707310",[]]]],["Sweelinck, Jan Pieterszoon",[["Laudate Dominum omnes gentes","mediaplayer\/player.asp?br=128&tl=707311",[]]]],["Buxtehude, Dieterich",[["Magnificat, BuxWV Anh. 1","mediaplayer\/player.asp?br=128&tl=707312",[]]]],["Victoria, Tom&#225;s Luis de",[["Jesu dulcis memoria","mediaplayer\/player.asp?br=128&tl=707313",[]],["O vos omnes, qui transitis per viam","mediaplayer\/player.asp?br=128&tl=707314",[]]]],["Joao IV (King of Portugal),",[["Crux fidelis","mediaplayer\/player.asp?br=128&tl=707315",[]]]],["Prez, Josquin des",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=707316",[]]]],["Hassler, Hans Leo",[["Dixit Maria ad angelum","mediaplayer\/player.asp?br=128&tl=707317",[]]]],["Sch&#252;tz, Heinrich",[["Psalmen Davids sampt etlichen Moteten und Concerten, Op. 2: Jauchzet dem Herren, alle Welt, SWV 36, \"Psalm 100\"","mediaplayer\/player.asp?br=128&tl=707318",[]]]],["Sch&#252;tz, Heinrich",[["Selig sind die Toten, SWV 281","mediaplayer\/player.asp?br=128&tl=707319",[]]]],["Bach, Johann Sebastian",[["O Jesu Christ, mein Lebens Licht, BWV 118","mediaplayer\/player.asp?br=128&tl=707320",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GDCD037.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GDCD037.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGDCD037","desc":"Choral Concert: Gloriae Dei Cantores - MORALES, C. de \/ VIVANCO, S. de \/ GUERRERO, F. \/ VICTORIA, T.L. de (Esperanza - A Gift of Spanish Song)","label":"Paraclete Recordings","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Casals, Pablo -- Victoria, Tom\u00e1s Luis de -- Villa-Lobos, Heitor -- Morales, Cristobal de -- Guerrero, Francisco -- Chavez, Carlos -- Rodrigo, Joaqu\u00edn -- Vivanco, Sebastian de -- Zumaya, Manuel de -- Aguiar, Ernani -- Castellanos, Joaquin Nin y","artist":"Patterson, Elizabeth C. -- Pfeiffer, SharonRose -- Pugsley, Richard -- Enrique, Jacqueline","country":"Brazil Mexico Spain","catid":"GDCD037","cdinfo":[[["Morales, Cristobal de",[["Manus tuae Domine","mediaplayer\/player.asp?br=128&tl=2048663",[]]]],["Vivanco, Sebastian de",[["Missa Beata Virgine in Sabbato","mediaplayer\/player.asp?br=128&tl=2048665|2048666|2048667|2048668|2048669",["Kyrie","Gloria","Sanctus","Benedictus","Agnus Dei"]]]],["Guerrero, Francisco",[["Canciones y villanescas espirituales (excerpts)","mediaplayer\/player.asp?br=128&tl=2048670|2048671|2048672",["Ojd, ojd, una cosa divina","Virgen sancta","A un nino llorando"]]]],["Victoria, Tom&#225;s Luis de",[["O Sacrum convivium","mediaplayer\/player.asp?br=128&tl=2048673",[]]]],["Zumaya, Manuel de",[["Miserere mei","mediaplayer\/player.asp?br=128&tl=2048674",[]]]],["Chavez, Carlos",[["Arbolucu, te sequeste (Tree of Sorrow)","mediaplayer\/player.asp?br=128&tl=2048675",[]]]],["Castellanos, Joaquin Nin y",[["10 Villancicos Espanoles (excerpts)","mediaplayer\/player.asp?br=128&tl=2048676|2048677|2048678|2048679",["Villancico Gallego","Villancico Asturiano","Villancico Castellano","Villancico Andaluz"]]]],["Rodrigo, Joaqu&#237;n",[["Retablo de Navidad: Duermete, Nino","mediaplayer\/player.asp?br=128&tl=2048680",[]]]],["Casals, Pablo",[["O vos omnes","mediaplayer\/player.asp?br=128&tl=2048681",[]]]],["Anonymous",[["Psalm 150 [Gregorian Chant]","mediaplayer\/player.asp?br=128&tl=2048682",[]]]],["Aguiar, Ernani",[["Salmo 150 (Psalm 150)","mediaplayer\/player.asp?br=128&tl=2048683",[]]]],["Villa-Lobos, Heitor",[["Magnificat alleluia","mediaplayer\/player.asp?br=128&tl=2048684",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SDG710.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SDG710.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSDG710","desc":"Choral Concert: Monteverdi Choir - GUERRERO, F. \/ LOBO, A. \/ JOAO IV \/ VICTORIA, T.L. de \/ CARDOSO, M. \/ ROGIER, P. (Santiago a cappella)","label":"SDG","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Lobo, Alonso -- Victoria, Tom\u00e1s Luis de -- Rogier, Philippe -- Joao IV (King of Portugal), -- Guerrero, Francisco -- Cardoso, Manuel","artist":"Gardiner, John Eliot","country":"France Portugal Spain","catid":"SDG710","cdinfo":[[["Anonymous",[["Mariam matrem virginem","mediaplayer\/player.asp?br=128&tl=936928",[]]]],["Guerrero, Francisco",[["Ave virgo sanctissima","mediaplayer\/player.asp?br=128&tl=936929",[]]]],["Lobo, Alonso",[["Lamentationes Ieremiae Prophetae","mediaplayer\/player.asp?br=128&tl=936930",[]]]],["Joao IV (King of Portugal),",[["Crux fidelis","mediaplayer\/player.asp?br=128&tl=936931",[]]]],["Victoria, Tom&#225;s Luis de",[["O lux et decus Hispaniae","mediaplayer\/player.asp?br=128&tl=936932",[]],["O vos omnes","mediaplayer\/player.asp?br=128&tl=936933",[]]]],["Guerrero, Francisco",[["Duo Seraphim","mediaplayer\/player.asp?br=128&tl=936934",[]]]],["Lobo, Alonso",[["Versa est in luctum","mediaplayer\/player.asp?br=128&tl=936935",[]]]],["Cardoso, Manuel",[["Non mortui","mediaplayer\/player.asp?br=128&tl=936936",[]]]],["Rogier, Philippe",[["Salva nos, Domie","mediaplayer\/player.asp?br=128&tl=936937",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/victoria%20o%20vos%20omnes"};IMSLPNaxosSearch="victoria o vos omnes";JGaskdonation=0;JGFileTools={"412847":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=412847"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP412847"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=412847"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/412847"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/412847"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23412847"}},"19717":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=19717"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP19717"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/19717"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/19717"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%2319717"}},"21405":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=21405"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP21405"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/21405"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/21405"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%2321405"}},"133880":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=133880"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP133880"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/133880"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/133880"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23133880"}},"451493":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=451493"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP451493"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/451493"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/451493"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23451493"}},"137381":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137381"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137381"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137381"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137381"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137381"}},"206469":{"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP206469"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/206469"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23206469"}},"137382":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137382"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137382"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137382"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137382"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137382"}},"137383":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137383"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137383"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137383"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137383"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137383"}},"137384":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137384"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137384"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137384"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137384"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137384"}},"137385":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137385"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137385"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137385"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137385"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137385"}},"137386":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137386"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137386"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137386"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137386"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137386"}},"137387":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137387"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137387"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137387"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137387"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137387"}},"137388":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137388"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137388"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137388"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137388"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137388"}},"137389":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137389"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137389"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137389"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137389"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137389"}},"137390":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=137390"},"015-ZIPFILE":{"icon":52,"label":"Download 11 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/137381\/206469\/137382\/137383\/137384\/137385\/137386\/137387\/137388\/137389\/137390\/6ddb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP137390"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/137390"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/137390"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=O+vos+omnes+%28Victoria%2C+Tom%C3%A1s+Luis+de%29&frmTitle=IMSLP+%23137390"}}};JGFileOpts={"412847":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjWBgEXI9Ozf8UoND3DrrNuXYV19WSDZL1pa8gQ\/ZNWeNfX0EtMbpF3zMmkLb9R\/m5gGi1HuRLU8m1NMz\/wWzSZbZYqrVgMdVxm78fyZlGTfA=="},"19717":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg0FECXVJkJgS9b5BeLXAFs35ACUAiFJdiBpOedZTuTdZpWPpsM2M0ezJ1iMP+hdqpT2Rk\/RSpdpD7WqpfIihLQ"},"21405":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgpm0I614Y+ppCxmlRS\/uwY8m27+y8sJlG2MF\/auAAs1g6\/t2OowmPtIiQkhuAFz9Mc2l1\/id4Wrry8cPuYw86s"},"133880":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgMlAeWpYmWTwSywfTdOIcLYj6RP1u14\/i67kHluFYNjY+oMmMKx5blHy4gMzy8W1QrjEpV25gUu1sFTuM1RuAC"},"451493":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhT\/\/JZnDayMWPWrC9KYRRPmszLQwUar3BUhyGKnZlbNqNrwD7kHCE4MgXPY7ojgKiGKBpqgtZQYYNDXvESp+mA"},"137381":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biV92\/6Lc+1\/Qiqf2hhBENacoVBFTWES6IqZ+Fvu8Lgp7EQg2lx5+Jns\/e0qQzylAQ="},"206469":[],"137382":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjr5WvqlpGCxZoYI8AozgzCCncXqAfJhQ8Y4c7r4I\/tEilu8RHElELg24THnrvfUnY="},"137383":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh5CStJVzRvrBKvWQ9213YLYRkZ+r4d5rbNgm9E\/r0gbS1im5ycCh7P8p2axNZlf1Q="},"137384":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhT\/\/JZnDayMWPWrC9KYRRPhTgDWq2sCWN1IiFiKAEfdzQFbJXIf+Ln6y6S6WJM6q4="},"137385":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgiX02z1vnNs2ZKPoJQbdYhGYl7USU47uC10mXce04laj+8R9vGtmZk5UuWUYBf6oA="},"137386":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgphB+oqAtEpGSzFJXvR7PQMuvqA745OKjly7EKoO9DlGYuhzsbIzvxUPJKhRLLntI="},"137387":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCSG7bhXpeJpP8jiUMU6cKDrU+zePeUqnfGAW8BCcbxNk7Eb6eDWPmDmIXtUnkvhY="},"137388":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi2LAsxC4\/oMY\/b5E3kbX1CN5PlTwojbQrM9ALJjM3ZAE1xzl\/9kl+JDXhyhXItr5w="},"137389":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhoJrU0Rr6fN6nVSSbqH9Aews9q6lz7IByoK3UU2ptfaKApgfbCTXvOkDTW9OjgVjs="},"137390":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgey+EIHUv635cXAZhe5C25v+tCicZ\/Q5v9MlHVBUcux+psLR6AgcLxTwVbWNun9SU="}};JGPageUntagged=false;JGPageTags=["motets","sop alt ten bass","la"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"137384":[10,"1"],"137387":[6,"1"],"451493":[10,"1"],"412847":[0,0],"19717":[0,0],"21405":[0,0],"133880":[0,0],"137381":[0,0],"206469":[0,0],"137382":[0,0],"137383":[0,0],"137385":[0,0],"137386":[0,0],"137388":[0,0],"137389":[0,0],"137390":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_4_Viols_.28Folop.29"><span class="tocnumber">2.2.1</span> <span class="toctext">For 4 Viols (Folop)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">5</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">11</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP412847" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/412847"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d6/PMLP84918-Victoria%2C_1572_12_O_vos_omnes_ed.Pedrell.pdf" class="internal" title="PMLP84918-Victoria, 1572 12 O vos omnes ed.Pedrell.pdf">*</a></span><a href="/wiki/File:PMLP84918-Victoria,_1572_12_O_vos_omnes_ed.Pedrell.pdf" title="File:PMLP84918-Victoria, 1572 12 O vos omnes ed.Pedrell.pdf">#412847</a> - 1.25MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-412847' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-412847'>
+	<a href='javascript:void(0)' id='412847' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='412847' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='412847' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='412847' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='412847' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-412847'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/412847/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/412847/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 144"><a href="/wiki/Special:GetFCtrStats/@412847" title="Special:GetFCtrStats/@412847">144</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Pml" title="User:Pml">PML</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://bcul.lib.uni.lodz.pl/dlibra/collectiondescription?dirids=11"><span style="border-bottom:1px dotted black" title="Łódź University Library">PL-LZu</span></a></span><br />
+<a href="/wiki/User:Pml" title="User:Pml">PML</a> (<span title="Updated: 2016/2/26" class="hovertext">2016/2/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Pedrell,_Felipe" title="Category:Pedrell, Felipe">Felipe Pedrell</a> (1841–1922)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i><a href="/wiki/Opera_Omnia_(Victoria,_Tom%C3%A1s_Luis_de)" title="Opera Omnia (Victoria, Tomás Luis de)">Opera Omnia</a></i>, <i>Vol.1</i> (pp.27–29)<br />Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf und Härtel</a><!--ASL0-->, 1902.  Plate V.W.I.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=412847">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=412847">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="412847">Javascript is required for this feature.</div><script>JGINITsearchbars['412847']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=412847&type=Complete%20Score&pgcount=3&signature=33e04b89575af8e51b108cbd11342962d8a36ab2"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP84918-Victoria,_1572_12_O_vos_omnes_ed.Pedrell.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d6/b39a2fe7aebd9931cc8e345977105a808b3a84bf.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP19717" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/19717"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (revised edition)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b5/PMLP46232-O_Vos_Omnes.pdf" class="internal" title="PMLP46232-O Vos Omnes.pdf">*</a></span><a href="/wiki/File:PMLP46232-O_Vos_Omnes.pdf" title="File:PMLP46232-O Vos Omnes.pdf">#19717</a> - 0.11MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-19717' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-19717'>
+	<a href='javascript:void(0)' id='19717' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='19717' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='19717' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='19717' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='19717' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-19717'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/19717/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/19717/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span><small>*</small>/<span style="color:green">!<b>N</b></span><small>*</small>/<span style="color:green">!<b>N</b></span><small>*</small></a> </span>- <span title="Total number of downloads: 4616"><a href="/wiki/Special:GetFCtrStats/@19717" title="Special:GetFCtrStats/@19717">4616</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Hopper&amp;action=edit&amp;redlink=1" class="new" title="User:Hopper (page does not exist)">Hopper</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:Hopper&amp;action=edit&amp;redlink=1" class="new" title="User:Hopper (page does not exist)">Hopper</a> (<span title="Updated: 2016/2/26" class="hovertext">2008/7/27</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Alvarez,_Nancho" title="Category:Alvarez, Nancho">Nancho Alvarez</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.uma.es/victoria/partituras.html">Nancho Alvarez</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=19717">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=19717">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Transposed down by a perfect fourth.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="19717">Javascript is required for this feature.</div><script>JGINITsearchbars['19717']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP46232-O_Vos_Omnes.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b5/09cccc9994013e61a893e67dfcac4dbfa7c455b4.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP21405" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/21405"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b9/PMLP46232-Victoria_O_Vos_Omnes.pdf" class="internal" title="PMLP46232-Victoria O Vos Omnes.pdf">*</a></span><a href="/wiki/File:PMLP46232-Victoria_O_Vos_Omnes.pdf" title="File:PMLP46232-Victoria O Vos Omnes.pdf">#21405</a> - 0.32MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-21405' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-21405'>
+	<a href='javascript:void(0)' id='21405' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='21405' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='21405' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='21405' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='21405' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-21405'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/21405/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/21405/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2537"><a href="/wiki/Special:GetFCtrStats/@21405" title="Special:GetFCtrStats/@21405">2537</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ras1" title="User:Ras1">ras1</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Ras1" title="User:Ras1">ras1</a> (2008/8/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/index.php?title=Category:Silversmith,_Rob&amp;action=edit&amp;redlink=1" class="new" title="Category:Silversmith, Rob (page does not exist)">Rob Silversmith</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Rob Silversmith
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=21405">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=21405">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Transposed down by a minor third.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="21405">Javascript is required for this feature.</div><script>JGINITsearchbars['21405']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP46232-Victoria_O_Vos_Omnes.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b9/6d88218307058efe3086d05587440729b2ac04e8.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP133880" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/133880"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score (C minor)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d0/WIMA.44e8-Victoria_O_vos_omnes.pdf" class="internal" title="WIMA.44e8-Victoria O vos omnes.pdf">*</a></span><a href="/wiki/File:WIMA.44e8-Victoria_O_vos_omnes.pdf" title="File:WIMA.44e8-Victoria O vos omnes.pdf">#133880</a> - 0.09MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-133880' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-133880'>
+	<a href='javascript:void(0)' id='133880' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='133880' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='133880' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='133880' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='133880' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-133880'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/133880/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/133880/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2176"><a href="/wiki/Special:GetFCtrStats/@133880" title="Special:GetFCtrStats/@133880">2176</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2017/10/12" class="hovertext">2011/10/7</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2008
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=133880">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=133880">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="133880">Javascript is required for this feature.</div><script>JGINITsearchbars['133880']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.44e8-Victoria_O_vos_omnes.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d0/98f705de8db046538fc56fcf171b1a2f91fd3e01.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP451493" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/451493"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/91/PMLP84918-O_vos_omnes.pdf" class="internal" title="PMLP84918-O vos omnes.pdf">*</a></span><a href="/wiki/File:PMLP84918-O_vos_omnes.pdf" title="File:PMLP84918-O vos omnes.pdf">#451493</a> - 0.25MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-451493' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-451493'>
+	<a href='javascript:void(0)' id='451493' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='451493' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='451493' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='451493' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='451493' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-451493'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/451493/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/451493/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 424"><a href="/wiki/Special:GetFCtrStats/@451493" title="Special:GetFCtrStats/@451493">424</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:CEV" title="User:CEV">TLVRC</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:CEV" title="User:CEV">TLVRC</a> (2016/12/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>Tomás Luis de Victoria Research Center
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.tomasluisvictoria.es">Tomás Luis de Victoria Research Center</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=451493">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=451493">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="451493">Javascript is required for this feature.</div><script>JGINITsearchbars['451493']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP84918-O_vos_omnes.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/91/65982fce054529b2f9380a9088061cff5e122d93.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_4_Viols_.28Folop.29">For 4 Viols (Folop)</span></h5>
+<div class="we"><div id="IMSLP137381" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137381"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score (Tr Tr T B)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ca/WIMA.c067-1252.pdf" class="internal" title="WIMA.c067-1252.pdf">*</a></span><a href="/wiki/File:WIMA.c067-1252.pdf" title="File:WIMA.c067-1252.pdf">#137381</a> - 0.09MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137381' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137381'>
+	<a href='javascript:void(0)' id='137381' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137381' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137381' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137381' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137381' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137381'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137381/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137381/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 292"><a href="/wiki/Special:GetFCtrStats/@137381" title="Special:GetFCtrStats/@137381">292</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_6" data-block="6">
+<p><b>⇒ <u>10 more</u>:</b> Engraving files (Personal composer) • Treble viol 1 • Treble viol 2, treble clef • Treble viol 2, alto clef • Treble viol 2, octave treble clef • Tenor viol, alto clef • Tenor viol, octave treble clef • Bass viol, alto clef • Bass viol, octave treble clef • Bass viol, bass clef
+</p>
+</div><div id="IMSLP206469" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/206469"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Personal composer)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/22/PMLP84918-1252.zip" class="internal" title="PMLP84918-1252.zip">*</a></span><a href="/wiki/File:PMLP84918-1252.zip" title="File:PMLP84918-1252.zip">#206469</a> - 0.00MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-206469' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-206469'>
+	<a href='javascript:void(0)' id='206469' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='206469' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='206469' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='206469' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='206469' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-206469'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/206469/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/206469/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 81"><a href="/wiki/Special:GetFCtrStats/@206469" title="Special:GetFCtrStats/@206469">81</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (<span title="Updated: 2012/4/18" class="hovertext">2011/10/15</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137382" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137382"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Treble viol 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f4/WIMA.9928-1252-1.pdf" class="internal" title="WIMA.9928-1252-1.pdf">*</a></span><a href="/wiki/File:WIMA.9928-1252-1.pdf" title="File:WIMA.9928-1252-1.pdf">#137382</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137382' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137382'>
+	<a href='javascript:void(0)' id='137382' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137382' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137382' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137382' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137382' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137382'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137382/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137382/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 118"><a href="/wiki/Special:GetFCtrStats/@137382" title="Special:GetFCtrStats/@137382">118</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137383" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137383"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Treble viol 2, treble clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/37/WIMA.fd73-1252-2g.pdf" class="internal" title="WIMA.fd73-1252-2g.pdf">*</a></span><a href="/wiki/File:WIMA.fd73-1252-2g.pdf" title="File:WIMA.fd73-1252-2g.pdf">#137383</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137383' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137383'>
+	<a href='javascript:void(0)' id='137383' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137383' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137383' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137383' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137383' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137383'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137383/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137383/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 100"><a href="/wiki/Special:GetFCtrStats/@137383" title="Special:GetFCtrStats/@137383">100</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137384" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137384"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Treble viol 2, alto clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/91/WIMA.4f84-1252-2a.pdf" class="internal" title="WIMA.4f84-1252-2a.pdf">*</a></span><a href="/wiki/File:WIMA.4f84-1252-2a.pdf" title="File:WIMA.4f84-1252-2a.pdf">#137384</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137384' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137384'>
+	<a href='javascript:void(0)' id='137384' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137384' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137384' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137384' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137384' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137384'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137384/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137384/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 77"><a href="/wiki/Special:GetFCtrStats/@137384" title="Special:GetFCtrStats/@137384">77</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137385" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137385"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Treble viol 2, octave treble clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/06/WIMA.5b46-1252-2g8.pdf" class="internal" title="WIMA.5b46-1252-2g8.pdf">*</a></span><a href="/wiki/File:WIMA.5b46-1252-2g8.pdf" title="File:WIMA.5b46-1252-2g8.pdf">#137385</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137385' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137385'>
+	<a href='javascript:void(0)' id='137385' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137385' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137385' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137385' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137385' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137385'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137385/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137385/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 72"><a href="/wiki/Special:GetFCtrStats/@137385" title="Special:GetFCtrStats/@137385">72</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137386" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137386"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor viol, alto clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/20/WIMA.cb8f-1252-3.pdf" class="internal" title="WIMA.cb8f-1252-3.pdf">*</a></span><a href="/wiki/File:WIMA.cb8f-1252-3.pdf" title="File:WIMA.cb8f-1252-3.pdf">#137386</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137386' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137386'>
+	<a href='javascript:void(0)' id='137386' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137386' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137386' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137386' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137386' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137386'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137386/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137386/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 100"><a href="/wiki/Special:GetFCtrStats/@137386" title="Special:GetFCtrStats/@137386">100</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137387" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137387"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Tenor viol, octave treble clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/WIMA.3fab-1252-3g8.pdf" class="internal" title="WIMA.3fab-1252-3g8.pdf">*</a></span><a href="/wiki/File:WIMA.3fab-1252-3g8.pdf" title="File:WIMA.3fab-1252-3g8.pdf">#137387</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137387' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137387'>
+	<a href='javascript:void(0)' id='137387' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137387' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137387' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137387' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137387' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137387'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137387/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137387/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 82"><a href="/wiki/Special:GetFCtrStats/@137387" title="Special:GetFCtrStats/@137387">82</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137388" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137388"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass viol, alto clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/34/WIMA.5290-1252-4a.pdf" class="internal" title="WIMA.5290-1252-4a.pdf">*</a></span><a href="/wiki/File:WIMA.5290-1252-4a.pdf" title="File:WIMA.5290-1252-4a.pdf">#137388</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137388' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137388'>
+	<a href='javascript:void(0)' id='137388' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137388' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137388' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137388' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137388' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137388'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137388/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137388/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 74"><a href="/wiki/Special:GetFCtrStats/@137388" title="Special:GetFCtrStats/@137388">74</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137389" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137389"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass viol, octave treble clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ad/WIMA.0f0e-1252-4g8.pdf" class="internal" title="WIMA.0f0e-1252-4g8.pdf">*</a></span><a href="/wiki/File:WIMA.0f0e-1252-4g8.pdf" title="File:WIMA.0f0e-1252-4g8.pdf">#137389</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137389' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137389'>
+	<a href='javascript:void(0)' id='137389' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137389' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137389' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137389' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137389' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137389'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137389/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137389/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 76"><a href="/wiki/Special:GetFCtrStats/@137389" title="Special:GetFCtrStats/@137389">76</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP137390" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/137390"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bass viol, bass clef</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/85/WIMA.ad33-1252-4.pdf" class="internal" title="WIMA.ad33-1252-4.pdf">*</a></span><a href="/wiki/File:WIMA.ad33-1252-4.pdf" title="File:WIMA.ad33-1252-4.pdf">#137390</a> - 0.01MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-137390' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-137390'>
+	<a href='javascript:void(0)' id='137390' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='137390' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='137390' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='137390' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='137390' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-137390'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/137390/O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Special:IMSLPEditCTag/137390/O vos omnes (Victoria, Tomás Luis de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 104"><a href="/wiki/Special:GetFCtrStats/@137390" title="Special:GetFCtrStats/@137390">104</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Afolop" title="User:Afolop">Afolop</a> (2011/10/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Folop,_Albert" title="Category:Folop, Albert">Albert Folop</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Albert Folop
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=137381/206469/137382/137383/137384/137385/137386/137387/137388/137389/137390">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=137381/206469/137382/137383/137384/137385/137386/137387/137388/137389/137390">del</a>/<span id="fmrglnk" data-pdfstr="137381//137382//137383//137384//137385//137386//137387//137388//137389//137390/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>, and are also included in the <a href="/wiki/Category:Folop_Viol_Music_Collection" title="Category:Folop Viol Music Collection">Folop Viol Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="137381">Javascript is required for this feature.</div><script>JGINITsearchbars['137381']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.c067-1252.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ca/5885ce3a176783b53a614c7e975c0411e323bba3.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">O vos omnes, qui transitis per viam
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Feria Sexta in Parasceve
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Victoria,_Tom%C3%A1s_Luis_de" title="Category:Victoria, Tomás Luis de">Victoria, Tomás Luis de</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ITV 162
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1572 or before
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1572  in <i><a href="/wiki/Motecta,_Libro_1_(Victoria,_Tom%C3%A1s_Luis_de)" title="Motecta, Libro 1 (Victoria, Tomás Luis de)">Motecta</a></i> (No.12)
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td>Biblia Vulgata, paraphrase after Lamentations 1, verse 12
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Latin
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>4 voices (SATB, high clefs: G2, C2, C3, C4)
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://viaf.org/177460172">VIAF</a></span><br /><a href="http://www.cpdl.org/wiki/index.php/O_vos_omnes_(Feria_Sexta_in_Parasceve)_(Tom%C3%A1s_Luis_de_Victoria)" class="extiw" title="cpdl:O vos omnes (Feria Sexta in Parasceve) (Tomás Luis de Victoria)">CPDL page</a>
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>Not to be confused with the 1585 setting <i><a href="/wiki/O_vos_omnes,_Tenebr%C3%A6_Responsory_(Victoria,_Tom%C3%A1s_Luis_de)" title="O vos omnes, Tenebræ Responsory (Victoria, Tomás Luis de)">O vos omnes, Tenebræ Responsory</a></i>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<table class="wikitable collapsible collapsed" width="80%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="2" align="center" style="background-color:rgb(250,190,135)"><b>Motet collections by <a href="/wiki/Category:Victoria,_Tom%C3%A1s_Luis_de" title="Category:Victoria, Tomás Luis de">Tomás Luis de Victoria</a></b>
+</th></tr>
+<tr>
+<td valign="top" align="center" width="50%" style="background-color:rgb(250,190,135)"><b>Motecta quæ partim 4, 5, 6, 8, 12vv</b> (1583b)
+</td>
+<td valign="top" align="center" width="50%" style="background-color:rgb(250,190,135)"><b><a href="/wiki/Motecta_Festorum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Motecta Festorum (Victoria, Tomás Luis de)">Motecta festorum totius anni</a> 4, 5, 6, 8vv</b> (1585b)
+</td></tr>
+<tr>
+<td rowspan="5" valign="top" width="50%" style="background-color:rgb(250,220,180)">
+<dl><dd><dl><dd>Motets for 4 voices
+</dd></dl>
+</dd></dl>
+<ol><li><a href="/wiki/O_quam_gloriosum_est_regnum_(Victoria,_Tom%C3%A1s_Luis_de)" title="O quam gloriosum est regnum (Victoria, Tomás Luis de)">O quam gloriosum est regnum</a>
+</li><li><a href="/wiki/Doctor_bonus_amicus_Dei_(Victoria,_Tom%C3%A1s_Luis_de)" title="Doctor bonus amicus Dei (Victoria, Tomás Luis de)">Doctor bonus amicus Dei</a>
+</li><li><a href="/wiki/Quam_pulchri_sunt_gressus_tui_(Victoria,_Tom%C3%A1s_Luis_de)" title="Quam pulchri sunt gressus tui (Victoria, Tomás Luis de)">Quam pulchri sunt gressus tui</a>
+</li><li><a href="/wiki/O_decus_apostolicum_(Victoria,_Tom%C3%A1s_Luis_de)" title="O decus apostolicum (Victoria, Tomás Luis de)">O decus apostolicum</a>
+</li><li><a href="/wiki/O_magnum_mysterium_(Victoria,_Tom%C3%A1s_Luis_de)" title="O magnum mysterium (Victoria, Tomás Luis de)">O magnum mysterium</a>
+</li><li><a href="/wiki/Magi_viderunt_stellam_(Victoria,_Tom%C3%A1s_Luis_de)" title="Magi viderunt stellam (Victoria, Tomás Luis de)">Magi viderunt stellam</a>
+</li><li><a href="/wiki/Senex_puerum_portabat_(Victoria,_Tom%C3%A1s_Luis_de)" title="Senex puerum portabat (Victoria, Tomás Luis de)">Senex puerum portabat</a>
+</li><li><a href="/wiki/Sancta_Maria_succurre_miseris_(Victoria,_Tom%C3%A1s_Luis_de)" title="Sancta Maria succurre miseris (Victoria, Tomás Luis de)">Sancta Maria succurre miseris</a>
+</li><li><a href="/wiki/Ne_timeas_Maria_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ne timeas Maria (Victoria, Tomás Luis de)">Ne timeas Maria</a>
+</li><li><a href="/wiki/Pueri_Hebraeorum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Pueri Hebraeorum (Victoria, Tomás Luis de)">Pueri Hebræorum</a>
+</li><li><a href="/wiki/Vere_languores_nostros_(Victoria,_Tom%C3%A1s_Luis_de)" title="Vere languores nostros (Victoria, Tomás Luis de)">Vere languores nostros</a>
+</li><li><strong class="selflink">O vos omnes</strong>
+</li><li><a href="/wiki/Duo_Seraphim_clamabant_(Victoria,_Tom%C3%A1s_Luis_de)" title="Duo Seraphim clamabant (Victoria, Tomás Luis de)">Duo Seraphim clamabant / Tres sunt</a>
+</li><li><a href="/wiki/O_sacrum_convivium_%C3%A0_4_(Victoria,_Tom%C3%A1s_Luis_de)" title="O sacrum convivium à 4 (Victoria, Tomás Luis de)">O sacrum convivium / Mens impletur gratia</a>
+</li><li><a href="/wiki/Domine,_non_sum_dignus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Domine, non sum dignus (Victoria, Tomás Luis de)">Domine non sum dignus / Miserere mei</a>
+</li><li><a href="/wiki/O_Regem_coeli_(Victoria,_Tom%C3%A1s_Luis_de)" title="O Regem coeli (Victoria, Tomás Luis de)">O regem cæli / Natus est nobis</a>
+<dl><dd>Motets for 5 voices
+</dd></dl>
+</li><li><a href="/wiki/Ascendens_Christus_in_altum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ascendens Christus in altum (Victoria, Tomás Luis de)">Ascendens Christus in altum / Ascendit Deus</a>
+</li><li><a href="/wiki/Dum_complerentur_(Victoria,_Tom%C3%A1s_Luis_de)" title="Dum complerentur (Victoria, Tomás Luis de)">Dum complerentur / Dum ergo essent</a>
+</li><li><a href="/wiki/O_lux,_et_decus_Hispaniae_(Victoria,_Tom%C3%A1s_Luis_de)" title="O lux, et decus Hispaniae (Victoria, Tomás Luis de)">O lux et decus</a>
+</li><li><a href="/wiki/Gaude_Maria_Virgo_(Victoria,_Tom%C3%A1s_Luis_de)" title="Gaude Maria Virgo (Victoria, Tomás Luis de)">Gaude Maria virgo</a>
+</li><li><a href="/wiki/Ecce_Dominus_veniet_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ecce Dominus veniet (Victoria, Tomás Luis de)">Ecce Dominus veniet / Ecce apparebit Dominus</a>
+</li><li><a href="/wiki/Alma_Redemptoris_Mater_for_5_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Alma Redemptoris Mater for 5 voices (Victoria, Tomás Luis de)">Alma redemptoris mater / Tu quæ genuisti</a> (antiphon)
+</li><li><a href="/wiki/Ave_Regina_Caelorum_for_5_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ave Regina Caelorum for 5 voices (Victoria, Tomás Luis de)">Ave Regina cælorum / Gaude gloriosa</a> (antiphon)
+</li><li><a href="/wiki/Regina_caeli_laetare_for_5_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Regina caeli laetare for 5 voices (Victoria, Tomás Luis de)"> Regina cæli lætare / Resurrexit sicut dixit</a> (antiphon)
+</li><li><a href="/wiki/Salve_Regina_II_for_5_Voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Salve Regina II for 5 Voices (Victoria, Tomás Luis de)">Salve Regina II / Et Jesum</a> (antiphon)
+</li><li><a href="/wiki/Cum_beatus_Ignatius_(Victoria,_Tom%C3%A1s_Luis_de)" title="Cum beatus Ignatius (Victoria, Tomás Luis de)">Cum beatus Ignatius / Ignis, crux</a>
+</li><li><a href="/wiki/Descendit_angelus_Domini_(Victoria,_Tom%C3%A1s_Luis_de)" title="Descendit angelus Domini (Victoria, Tomás Luis de)">Descendit angelus Domini / Ne timeas</a>
+</li><li><a href="/wiki/Tantum_ergo_Sacramentum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Tantum ergo Sacramentum (Victoria, Tomás Luis de)">Tantum ergo Sacramentum</a> (hymn verse)
+<dl><dd>Motets for 6 voices
+</dd></dl>
+</li><li><a href="/wiki/Quem_vidistis,_pastores%3F_(Victoria,_Tom%C3%A1s_Luis_de)" title="Quem vidistis, pastores? (Victoria, Tomás Luis de)">Quem vidistis pastores / Dicite, quidnam vidistis?</a>
+</li><li><a href="/wiki/Nigra_sum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Nigra sum (Victoria, Tomás Luis de)">Nigra sum sed formosa</a>
+</li><li><a href="/wiki/Ardens_est_cor_meum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ardens est cor meum (Victoria, Tomás Luis de)">Ardens est cor meum</a>
+</li><li><a href="/wiki/Surrexit_pastor_bonus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Surrexit pastor bonus (Victoria, Tomás Luis de)">Surrexit pastor bonus</a>
+</li><li><a href="/wiki/Congratulamini_mihi_(Victoria,_Tom%C3%A1s_Luis_de)" title="Congratulamini mihi (Victoria, Tomás Luis de)">Congratulamini mihi</a>
+</li><li><a href="/wiki/Vidi_speciosam_(Victoria,_Tom%C3%A1s_Luis_de)" title="Vidi speciosam (Victoria, Tomás Luis de)">Vidi speciosam / Quæ est ista</a>
+</li><li><a href="/wiki/O_Domine_Jesu_Christe_(Victoria,_Tom%C3%A1s_Luis_de)" title="O Domine Jesu Christe (Victoria, Tomás Luis de)">O Domine Jesu Christe</a>
+</li><li><a href="/wiki/Trahe_me_post_te_(Victoria,_Tom%C3%A1s_Luis_de)" title="Trahe me post te (Victoria, Tomás Luis de)">Trahe me post te</a>
+</li><li><a href="/wiki/Benedicta_sit_sancta_Trinitas_(Victoria,_Tom%C3%A1s_Luis_de)" title="Benedicta sit sancta Trinitas (Victoria, Tomás Luis de)">Benedicta sit sancta Trinitas</a>
+</li><li><a href="/wiki/O_sacrum_convivium_%C3%A0_6_(Victoria,_Tom%C3%A1s_Luis_de)" title="O sacrum convivium à 6 (Victoria, Tomás Luis de)">O sacrum convivium</a>
+</li><li><a href="/wiki/Tu_es_Petrus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Tu es Petrus (Victoria, Tomás Luis de)">Tu es Petrus / Quodcumque ligaveris</a>
+</li><li><a href="/wiki/Vadam_et_circuibo_(Victoria,_Tom%C3%A1s_Luis_de)" title="Vadam et circuibo (Victoria, Tomás Luis de)">Vadam et circuibo civitatem / Qualis est</a>
+</li><li><a href="/wiki/Salve_Regina_for_6_Voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Salve Regina for 6 Voices (Victoria, Tomás Luis de)">Salve Regina / Ad te / Et Jesum / O clemens</a> (antiphon)
+<dl><dd>Motets for 8 voices
+</dd></dl>
+</li><li><a href="/wiki/Litani%C3%A6_de_Beata_Virgine_(Victoria,_Tom%C3%A1s_Luis_de)" title="Litaniæ de Beata Virgine (Victoria, Tomás Luis de)">Litaniæ de Beata Virgine</a> (litany)
+</li><li><a href="/wiki/Ave_Maria_for_8_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ave Maria for 8 voices (Victoria, Tomás Luis de)">Ave Maria</a>
+</li><li><a href="/wiki/Alma_Redemptoris_Mater_for_8_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Alma Redemptoris Mater for 8 voices (Victoria, Tomás Luis de)">Alma redemptoris mater / Tu quæ genuisti</a> (antiphon)
+</li><li><a href="/wiki/Ave_Regina_Caelorum_for_8_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ave Regina Caelorum for 8 voices (Victoria, Tomás Luis de)">Ave Regina cælorum / Gaude gloriosa</a> (antiphon)
+</li><li><a href="/wiki/Regina_caeli_laetare_for_8_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Regina caeli laetare for 8 voices (Victoria, Tomás Luis de)"> Regina cæli lætare / Resurrexit sicut dixit</a> (antiphon)
+</li><li><a href="/wiki/Salve_Regina_for_8_Voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Salve Regina for 8 Voices (Victoria, Tomás Luis de)">Salve Regina</a> (antiphon; in 7 sections)
+</li><li><a href="/wiki/Dixit_Dominus_for_8_Voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Dixit Dominus for 8 Voices (Victoria, Tomás Luis de)">Dixit Dominus</a> (psalm)
+</li><li><a href="/wiki/Laudate_pueri_Dominum_for_8_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Laudate pueri Dominum for 8 voices (Victoria, Tomás Luis de)">Laudate pueri Dominum</a> (psalm)
+</li><li><a href="/wiki/Nisi_Dominus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Nisi Dominus (Victoria, Tomás Luis de)">Nisi Dominus</a> (psalm)
+</li><li><a href="/wiki/Laudate_Dominum_omnes_gentes_(Victoria,_Tom%C3%A1s_Luis_de)" title="Laudate Dominum omnes gentes (Victoria, Tomás Luis de)">Laudate Dominum omnes gentes</a> (psalm)
+</li><li><a href="/wiki/Super_flumina_Babylonis_(Victoria,_Tom%C3%A1s_Luis_de)" title="Super flumina Babylonis (Victoria, Tomás Luis de)">Super flumina Babylonis</a> (psalm)
+<dl><dd>Psalm for 12 voices
+</dd></dl>
+</li><li><a href="/wiki/L%C3%A6tatus_sum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Lætatus sum (Victoria, Tomás Luis de)">Lætatus sum</a> (psalm)
+</li></ol>
+</td>
+<td valign="top" width="50%" style="background-color:rgb(250,220,180)">
+<ol><li><a href="/wiki/Quem_vidistis,_pastores%3F_(Victoria,_Tom%C3%A1s_Luis_de)" title="Quem vidistis, pastores? (Victoria, Tomás Luis de)">Quem vidistis pastores / Dicite, quidnam vidistis?</a> 6vv
+</li><li><a href="/wiki/Pastores_loquebantur_ad_invicem_(Guerrero,_Francisco)" title="Pastores loquebantur ad invicem (Guerrero, Francisco)">Pastores loquebantur</a> 6vv — by <a href="/wiki/Category:Guerrero,_Francisco" title="Category:Guerrero, Francisco">Francisco Guerrero</a>
+</li><li><a href="/wiki/Nigra_sum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Nigra sum (Victoria, Tomás Luis de)">Nigra sum sed formosa</a> 6vv
+</li><li><a href="/wiki/Ardens_est_cor_meum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ardens est cor meum (Victoria, Tomás Luis de)">Ardens est cor meum</a> 6vv
+</li><li><a href="/wiki/Surrexit_pastor_bonus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Surrexit pastor bonus (Victoria, Tomás Luis de)">Surrexit pastor bonus</a> 6vv
+</li><li><a href="/wiki/Congratulamini_mihi_(Victoria,_Tom%C3%A1s_Luis_de)" title="Congratulamini mihi (Victoria, Tomás Luis de)">Congratulamini mihi</a> 6vv
+</li><li><a href="/wiki/Benedicta_sit_sancta_Trinitas_(Victoria,_Tom%C3%A1s_Luis_de)" title="Benedicta sit sancta Trinitas (Victoria, Tomás Luis de)">Benedicta sit sancta Trinitas</a> 6vv
+</li><li><a href="/wiki/O_sacrum_convivium_%C3%A0_6_(Victoria,_Tom%C3%A1s_Luis_de)" title="O sacrum convivium à 6 (Victoria, Tomás Luis de)">O sacrum convivium</a> 6vv
+</li><li><a href="/wiki/Tu_es_Petrus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Tu es Petrus (Victoria, Tomás Luis de)">Tu es Petrus / Quodcumque ligaveris</a> 6vv
+</li><li><a href="/wiki/Vidi_speciosam_(Victoria,_Tom%C3%A1s_Luis_de)" title="Vidi speciosam (Victoria, Tomás Luis de)">Vidi speciosam / Quæ est ista</a> 6vv
+</li><li><a href="/wiki/Beata_Dei_genitrix_(Guerrero,_Francisco)" title="Beata Dei genitrix (Guerrero, Francisco)">Beata Dei genitrix</a> 6vv — by <a href="/wiki/Category:Guerrero,_Francisco" title="Category:Guerrero, Francisco">Francisco Guerrero</a>
+</li><li><a href="/wiki/Trahe_me_post_te_(Victoria,_Tom%C3%A1s_Luis_de)" title="Trahe me post te (Victoria, Tomás Luis de)">Trahe me post te</a> 6vv
+</li><li><a href="/wiki/O_Domine_Jesu_Christe_(Victoria,_Tom%C3%A1s_Luis_de)" title="O Domine Jesu Christe (Victoria, Tomás Luis de)">O Domine Jesu Christe</a> 6vv
+</li><li><a href="/wiki/Ascendens_Christus_in_altum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ascendens Christus in altum (Victoria, Tomás Luis de)">Ascendens Christus in altum / Ascendit Deus</a> 5vv
+</li><li><a href="/wiki/Dum_complerentur_(Victoria,_Tom%C3%A1s_Luis_de)" title="Dum complerentur (Victoria, Tomás Luis de)">Dum complerentur / Dum ergo essent</a> 5vv
+</li><li><a href="/wiki/Tantum_ergo_Sacramentum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Tantum ergo Sacramentum (Victoria, Tomás Luis de)">Tantum ergo Sacramentum</a> 5vv (hymn verse)
+</li><li><a href="/wiki/Descendit_angelus_Domini_(Victoria,_Tom%C3%A1s_Luis_de)" title="Descendit angelus Domini (Victoria, Tomás Luis de)">Descendit angelus Domini / Ne timeas</a> 5vv
+</li><li><a href="/wiki/O_lux,_et_decus_Hispaniae_(Victoria,_Tom%C3%A1s_Luis_de)" title="O lux, et decus Hispaniae (Victoria, Tomás Luis de)">O lux et decus</a> 5vv
+</li><li><a href="/wiki/Gaude_Maria_Virgo_(Victoria,_Tom%C3%A1s_Luis_de)" title="Gaude Maria Virgo (Victoria, Tomás Luis de)">Gaude Maria virgo</a> 5vv
+</li><li><a href="/wiki/Resplenduit_facies_ejus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Resplenduit facies ejus (Victoria, Tomás Luis de)">Resplenduit facies ejus</a> 5vv
+</li><li><a href="/wiki/Ecce_Dominus_veniet_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ecce Dominus veniet (Victoria, Tomás Luis de)">Ecce Dominus veniet / Ecce apparebit Dominus</a> 5vv
+</li><li><a href="/wiki/O_quam_gloriosum_est_regnum_(Victoria,_Tom%C3%A1s_Luis_de)" title="O quam gloriosum est regnum (Victoria, Tomás Luis de)">O quam gloriosum est regnum</a> 4vv
+</li><li><a href="/wiki/Doctor_bonus_amicus_Dei_(Victoria,_Tom%C3%A1s_Luis_de)" title="Doctor bonus amicus Dei (Victoria, Tomás Luis de)">Doctor bonus amicus Dei</a> 4vv
+</li><li><a href="/wiki/Magi_viderunt_stellam_(Victoria,_Tom%C3%A1s_Luis_de)" title="Magi viderunt stellam (Victoria, Tomás Luis de)">Magi viderunt stellam</a> 4vv
+</li><li><a href="/wiki/O_sacrum_convivium_%C3%A0_4_(Victoria,_Tom%C3%A1s_Luis_de)" title="O sacrum convivium à 4 (Victoria, Tomás Luis de)">O sacrum convivium / Mens impletur gratia</a> 4vv
+</li><li><a href="/wiki/Duo_Seraphim_clamabant_(Victoria,_Tom%C3%A1s_Luis_de)" title="Duo Seraphim clamabant (Victoria, Tomás Luis de)">Duo Seraphim clamabant / Tres sunt</a> 4vv
+</li><li><a href="/wiki/Estote_fortes_in_bello_(Victoria,_Tom%C3%A1s_Luis_de)" title="Estote fortes in bello (Victoria, Tomás Luis de)">Estote fortes in bello</a> 4vv
+</li><li><a href="/wiki/Iste_Sanctus_pro_lege_Dei_sui_(Victoria,_Tom%C3%A1s_Luis_de)" title="Iste Sanctus pro lege Dei sui (Victoria, Tomás Luis de)">Iste sanctus pro lege Dei</a> 4vv
+</li><li><a href="/wiki/Gaudent_in_coelis_animae_Sanctorum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Gaudent in coelis animae Sanctorum (Victoria, Tomás Luis de)">Gaudent in cælis</a> 4vv
+</li><li><a href="/wiki/Ecce_sacerdos_magnus_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ecce sacerdos magnus (Victoria, Tomás Luis de)">Ecce sacerdos magnus</a> 4vv
+</li><li><a href="/wiki/Hic_vir_despiciens_mundum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Hic vir despiciens mundum (Victoria, Tomás Luis de)">Hic vir, despiciens mundum</a> 4vv
+</li><li><a href="/wiki/Veni_sponsa_Christi_(Victoria,_Tom%C3%A1s_Luis_de)" title="Veni sponsa Christi (Victoria, Tomás Luis de)">Veni sponsa Christi</a> 4vv
+</li><li><a href="/wiki/O_quam_metuendus_est_(Victoria,_Tom%C3%A1s_Luis_de)" title="O quam metuendus est (Victoria, Tomás Luis de)">O quam metuendus est</a> 4vv
+</li><li><a href="/wiki/Ave_Maria_for_8_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ave Maria for 8 voices (Victoria, Tomás Luis de)">Ave Maria</a> 8vv
+</li><li><a href="/wiki/Lauda_Sion_Salvatorem_(Victoria,_Tom%C3%A1s_Luis_de)" title="Lauda Sion Salvatorem (Victoria, Tomás Luis de)">Lauda Sion Salvatorem</a> 8vv (sequence)
+</li><li><a href="/wiki/In_illo_tempore_(Soriano,_Francesco)" title="In illo tempore (Soriano, Francesco)">In illo tempore</a> 8vv — by <a href="/wiki/Category:Soriano,_Francesco" title="Category:Soriano, Francesco">Francesco Soriano</a>
+</li><li><a href="/wiki/Super_flumina_Babylonis_(Victoria,_Tom%C3%A1s_Luis_de)" title="Super flumina Babylonis (Victoria, Tomás Luis de)">Super flumina Babylonis</a> 8vv (psalm)
+</li></ol>
+</td></tr>
+<tr>
+<td valign="top" align="center" width="50%" style="background-color:rgb(250,190,135)"><b>Motets in other collections</b>
+</td></tr>
+<tr>
+<td valign="top" width="50%" style="background-color:rgb(250,220,180)">
+<ul><li><a href="/wiki/O_Ildephonse_(Victoria,_Tom%C3%A1s_Luis_de)" title="O Ildephonse (Victoria, Tomás Luis de)">O Ildephonse</a> 8vv (in 1600a)
+</li><li><a href="/wiki/Salve_Regina_I_for_5_Voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Salve Regina I for 5 Voices (Victoria, Tomás Luis de)">Salve Regina I / Ad te / Et Jesum / O pia</a> 5vv (antiphon; in 1576)
+</li><li><a href="/wiki/Officium_defunctorum_(Victoria,_Tom%C3%A1s_Luis_de)" title="Officium defunctorum (Victoria, Tomás Luis de)">Versa est in luctum</a> 6vv (in 1605)
+</li></ul>
+</td></tr>
+<tr>
+<td valign="top" align="center" width="50%" style="background-color:rgb(250,190,135)"><b>Doubtful or spurious works</b>
+</td></tr>
+<tr>
+<td valign="top" width="50%" style="background-color:rgb(250,220,180)">
+<ul><li><a href="/wiki/Ave_Maria_for_4_voices_(Victoria,_Tom%C3%A1s_Luis_de)" title="Ave Maria for 4 voices (Victoria, Tomás Luis de)">Ave Maria</a> 4vv (doubtful)
+</li><li>Ave verum corpus 5vv (doubtful)
+</li><li>Beata es Virgo Maria 6vv (doubtful)
+</li><li>Beati immaculati 4vv (doubtful)
+</li><li><a href="/wiki/Benedicam_Dominum_in_omni_tempore_(Victoria,_Tom%C3%A1s_Luis_de)" title="Benedicam Dominum in omni tempore (Victoria, Tomás Luis de)">Benedicam Dominum in omni tempore</a> 4vv (doubtful)
+</li><li>Date ei de fructu 4vv (doubtful)
+</li><li>Domine in virtute tua 8vv (doubtful)
+</li><li>Ego sum panis vivus 4vv (doubtful)
+</li><li><a href="/wiki/Jesu,_dulcis_memoria_(Victoria,_Tom%C3%A1s_Luis_de)" title="Jesu, dulcis memoria (Victoria, Tomás Luis de)">Jesu, dulcis memoria</a> 4vv (hymn verse; spurious)
+</li><li>O doctor optime 4vv (doubtful)
+</li><li>Vidi speciosam 8vv (doubtful)
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1277/1000000
+Post-expand include size: 91220/2097152 bytes
+Template argument size: 3898/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:84918-0!*!0!!en!2!* and timestamp 20180414112423 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)&amp;oldid=2455148">http://imslp.org/index.php?title=O_vos_omnes_(Victoria,_Tom%C3%A1s_Luis_de)&amp;oldid=2455148</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_%C5%81%C3%B3d%C5%BA_University_Library" title="Category:Scores from Łódź University Library">Scores from Łódź University Library</a></li><li><a href="/wiki/Category:Pedrell,_Felipe/Editor" title="Category:Pedrell, Felipe/Editor">Pedrell, Felipe/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Breitkopf_und_H%C3%A4rtel" title="Category:Scores published by Breitkopf und Härtel">Scores published by Breitkopf und Härtel</a></li><li><a href="/wiki/Category:Alvarez,_Nancho/Editor" title="Category:Alvarez, Nancho/Editor">Alvarez, Nancho/Editor</a></li><li><a href="/wiki/Category:Silversmith,_Rob/Editor" title="Category:Silversmith, Rob/Editor">Silversmith, Rob/Editor</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Folop,_Albert/Arranger" title="Category:Folop, Albert/Arranger">Folop, Albert/Arranger</a></li><li><a href="/wiki/Category:Folop_Viol_Music_Collection" title="Category:Folop Viol Music Collection">Folop Viol Music Collection</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Victoria,_Tom%C3%A1s_Luis_de" title="Category:Victoria, Tomás Luis de">Victoria, Tomás Luis de</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a></li><li><a href="/wiki/Category:Motets" title="Category:Motets">Motets</a></li><li><a href="/wiki/Category:For_4_voices" title="Category:For 4 voices">For 4 voices</a></li><li><a href="/wiki/Category:For_unaccompanied_voices" title="Category:For unaccompanied voices">For unaccompanied voices</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_soprano_voice" title="Category:Scores featuring the soprano voice">Scores featuring the soprano voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_alto_voice" title="Category:Scores featuring the alto voice">Scores featuring the alto voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_tenor_voice" title="Category:Scores featuring the tenor voice">Scores featuring the tenor voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_bass_voice" title="Category:Scores featuring the bass voice">Scores featuring the bass voice</a></li><li><a href="/wiki/Category:Latin_language" title="Category:Latin language">Latin language</a></li><li><a href="/wiki/Category:For_4_viols_(arr)" title="Category:For 4 viols (arr)">For 4 viols (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_viol" title="Category:Scores featuring the viol">Scores featuring the viol</a></li><li><a href="/wiki/Category:For_4_players" title="Category:For 4 players">For 4 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1572" title="Category:Works first published in 1572">Works first published in 1572</a></li><li><a href="/wiki/Category:Works_first_published_in_the_16th_century" title="Category:Works first published in the 16th century">Works first published in the 16th century</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=O_vos_omnes_%28Victoria%2C_Tom%C3%A1s_Luis_de%29">7,076 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/O%20vos%20omnes%20%28Victoria%2C%20Tom%C3%A1s%20Luis%20de%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.019 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415014745 -->
+</html>
+		

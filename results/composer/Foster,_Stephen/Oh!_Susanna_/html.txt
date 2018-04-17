@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Oh! Susanna (Foster, Stephen) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Oh!_Susanna_(Foster,_Stephen)", "wgTitle": "Oh! Susanna (Foster, Stephen)", "wgCurRevisionId": 2531040, "wgArticleId": 307941, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WIMA files", "Hudson, Robert A./Editor", "Knuth, Jürgen/Arranger", "Ludenhoff, Martin/Arranger", "Scores", "Foster, Stephen", "Romantic style", "Romantic", "Songs", "For voice, mixed chorus, piano", "For voices and chorus with keyboard", "Scores featuring the voice", "Scores featuring mixed chorus", "Scores featuring the piano", "English language", "For voice, mixed chorus (arr)", "For unaccompanied voices and chorus", "For guitar (arr)", "Scores featuring the guitar", "For 1 player", "Pages with arrangements", "Works first published in 1848", "Works first published in the 19th century", "Pages with parts for purchase", "G major"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Oh_Susanna_Foster_Stephen action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Oh!_Susanna_(Foster,_Stephen)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Oh!_Susanna_(Foster,_Stephen)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Oh!_Susanna_(Foster,_Stephen)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Oh!_Susanna_(Foster,_Stephen)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Oh!_Susanna_(Foster,_Stephen)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Oh!_Susanna_(Foster,_Stephen)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Oh!_Susanna_(Foster,_Stephen)&amp;oldid=2531040" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Oh%21%20Susanna%20%28Foster%2C%20Stephen%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Oh! Susanna (Foster, Stephen)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1 song
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1848
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Songs&amp;transclude=Template:Catintro">Songs</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voice%2C_mixed_chorus%2C_piano&amp;transclude=Template:Catintro">For voice, mixed chorus, piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_keyboard&amp;transclude=Template:Catintro">For voices and chorus with keyboard</a></span>; <span class="expandline" title="9 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:English_language&amp;transclude=Template:Catintro">English language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voice%2C_mixed_chorus_%28arr%29&amp;transclude=Template:Catintro">For voice, mixed chorus (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_voices_and_chorus&amp;transclude=Template:Catintro">For unaccompanied voices and chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_guitar_%28arr%29&amp;transclude=Template:Catintro">For guitar (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Oh! Susanna","composer":"Foster, Stephen","comphref":"\/wiki\/Category:Foster,_Stephen"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"oh! susanna","itunes":"oh! susanna","composer":"foster","scorekeywords":"oh! susanna","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=4;JGBSAccompnum=0;JGNaxosSearch={"numres":23,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=074644829723.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=074644829723.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D074644829723","desc":"Choral Concert: Mormon Tabernacle Choir - ROOT, G.F. \/ POULTON, G. \/ STEFFE, W. \/ FOSTER, S. (Songs of the Civil War and Stephen Foster Favorites)","label":"Sony Classical","category":"Choral - Secular - Classical Music","composer":"Root, George Frederick -- Webster, Joseph Philbrick -- Steffe, William -- Crouch, Frederick Nicolls -- Emmett, Daniel Decatur -- Foster, Stephen C. -- Traditional -- Gilmore, Patrick Sarsfield -- Kittredge, Walter -- Poulton, George","artist":"Asper, Frank Wilson -- Condie, Richard P.","country":"Germany United Kingdom United States","catid":"074644829723","cdinfo":[[["Root, George Frederick",[["Tramp! Tramp! Tramp! (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150849",[]]]],["Poulton, George",[["Aura Lee (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150850",[]]]],["Traditional",[["The Bonnie Blue Flag (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150851",[]]]],["Traditional",[["He's Gone Away (arr. K. Davis for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150852",[]]]],["Root, George Frederick",[["The Battle Cry of Freedom","mediaplayer\/player.asp?br=128&tl=2150853",[]]]],["Webster, Joseph Philbrick",[["Lorena (arr. A. Schreiner for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150854",[]]]],["Steffe, William",[["Battle Hymn of the Republic (arr. P.J. Wilhousky for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150855",[]]]],["Kittredge, Walter",[["Tenting on the Old Camp Ground (arr. N. Lockwood)","mediaplayer\/player.asp?br=128&tl=2150856",[]]]],["Traditional",[["Sweet Evelina (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150857",[]]]],["Emmett, Daniel Decatur",[["Dixie (arr. J. Welch for choir and chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2150858",[]]]],["Crouch, Frederick Nicolls",[["Kathleen Mavourneen (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150859",[]]]],["Traditional",[["Sometimes I Feel Like A Motherless Child (arr. R. Ringwald for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150866",[]]]],["Gilmore, Patrick Sarsfield",[["When Johnny comes Marching Home (arr. P.J. Wilhousky for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150867",[]]]],["Foster, Stephen C.",[["Ring, ring de banjo! (arr. R. De Cormier)","mediaplayer\/player.asp?br=128&tl=2150868",[]]]],["Foster, Stephen C.",[["Susanna (Oh! Susanna) (arr. R. Shaw and A. Parker)","mediaplayer\/player.asp?br=128&tl=2150869",[]]]],["Foster, Stephen C.",[["Old Folks at Home \"Way Down Upon the Swanee River\" (arr. A. Schreiner)","mediaplayer\/player.asp?br=128&tl=2150870",[]]]],["Foster, Stephen C.",[["The Glendy Burk (arr. R. De Cormier)","mediaplayer\/player.asp?br=128&tl=2150871",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150872",[]]]],["Foster, Stephen C.",[["Jeanie with the Light Brown Hair (arr. R.P. Condie)","mediaplayer\/player.asp?br=128&tl=2150873",[]]]],["Foster, Stephen C.",[["De Camptown Races (arr. R. De Cormier)","mediaplayer\/player.asp?br=128&tl=2150874",[]]]],["Foster, Stephen C.",[["My Old Kentucky Home (arr. R. Cundick for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150875",[]]]],["Foster, Stephen C.",[["Nelly Bly (arr. L. Robertson for choir and 2 organs)","mediaplayer\/player.asp?br=128&tl=2150876",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DSL-92124.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DSL-92124.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDSL-92124","desc":"Choral Concert: Washington Children's Chorus - FOSTER, S. \/ REED, O.B. \/ WYATT, L. \/ BAYES, S.C. \/ AMIRAN, E. (The Great American Folksong)","label":"Dorian Sono Luminus","category":"Choral - Secular - Classical Music","composer":"Foster, Stephen C. -- Traditional -- Feldman, Al -- Amiran, Emanuel -- Reed, Ola Belle -- Wyatt, Lorre -- Fink, Cathy -- Bayes, Sarah Carter -- Carawan, Guy","artist":"Gregoryk, Joan -- Cathy Fink and Marcy Marxer -- Kim and Reggie Harris","country":"United States","catid":"DSL-92124","cdinfo":[[["Foster, Stephen C.",[["Susanna (Oh! Susanna)","mediaplayer\/player.asp?br=128&tl=1033733",[]]]],["Reed, Ola Belle",[["High on a Mountain","mediaplayer\/player.asp?br=128&tl=1033734",[]]]],["Wyatt, Lorre",[["Somos el barco (We are the Boat)","mediaplayer\/player.asp?br=128&tl=1033735",[]]]],["Traditional",[["Trampin'","mediaplayer\/player.asp?br=128&tl=1033736",[]]]],["Bayes, Sarah Carter",[["Railroading on the Great Divide","mediaplayer\/player.asp?br=128&tl=1033737",[]]]],["Traditional",[["Colinda","mediaplayer\/player.asp?br=128&tl=1033738",[]],["I Ride an Old Paint","mediaplayer\/player.asp?br=128&tl=1033739",[]]]],["Amiran, Emanuel",[["Mayim, Mayim","mediaplayer\/player.asp?br=128&tl=1033740",[]]]],["Feldman, Al",[["A Tisket, a Tasket","mediaplayer\/player.asp?br=128&tl=1033741",[]]]],["Fink, Cathy",[["One Little Step","mediaplayer\/player.asp?br=128&tl=1033742",[]]]],["Traditional",[["Bowling Green","mediaplayer\/player.asp?br=128&tl=1033743",[]],["Row de Boat","mediaplayer\/player.asp?br=128&tl=1033744",[]],["De Colores (Of Colors)","mediaplayer\/player.asp?br=128&tl=1033745",[]],["The Cuckoo","mediaplayer\/player.asp?br=128&tl=1033746",[]],["Up Over My Head","mediaplayer\/player.asp?br=128&tl=1033747",[]],["Psalm of Life","mediaplayer\/player.asp?br=128&tl=1033748",[]],["I'm Gonna Live So God Can Use Me","mediaplayer\/player.asp?br=128&tl=1033749",[]],["Ride On, King Jesus","mediaplayer\/player.asp?br=128&tl=1033750",[]]]],["Carawan, Guy",[["Ain't You Got a Right","mediaplayer\/player.asp?br=128&tl=1033751",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TROY119.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TROY119.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTROY119","desc":"FOSTER, S.: Songs (Baird, Russell, Urrey)","label":"Albany","category":"Chamber Music - Classical Music","composer":"Foster, Stephen C.","artist":"Baird, Julianne -- Urrey, Frederick -- Van Buskirk, John -- Russell, Linda -- Enslow, Ridley -- Schneider, Steve","country":"United Kingdom United States","catid":"TROY119","cdinfo":[[["Foster, Stephen C.",[["The Glendy Burk","mediaplayer\/player.asp?br=128&tl=455163",[]],["Nelly was a lady","mediaplayer\/player.asp?br=128&tl=455164",[]],["Melinda May","mediaplayer\/player.asp?br=128&tl=455165",[]],["Soiree Polka","mediaplayer\/player.asp?br=128&tl=455166",[]],["The Moustache Song","mediaplayer\/player.asp?br=128&tl=455167",[]],["O Willie, Is It You, Dear?","mediaplayer\/player.asp?br=128&tl=455168",[]]]],["Foster, Stephen C.",[["Mr. and Mrs. Brown","mediaplayer\/player.asp?br=128&tl=455169",[]]]],["Foster, Stephen C.",[["Gem from Lucia No. 1","mediaplayer\/player.asp?br=128&tl=455170",[]]]],["Foster, Stephen C.",[["Wilt thou be gone, love?","mediaplayer\/player.asp?br=128&tl=455171",[]]]],["Foster, Stephen C.",[["The Voices that are Gone","mediaplayer\/player.asp?br=128&tl=455188",[]],["Old Black Joe (Poor Old Joe)","mediaplayer\/player.asp?br=128&tl=455189",[]],["Maggie By My Side","mediaplayer\/player.asp?br=128&tl=455172",[]],["Camptown Ladies","mediaplayer\/player.asp?br=128&tl=455173",[]],["Hard times come again no more","mediaplayer\/player.asp?br=128&tl=455174",[]],["Gems from Lucia No. 2, No. 3","mediaplayer\/player.asp?br=128&tl=455175",[]],["The Shanghai Chicken","mediaplayer\/player.asp?br=128&tl=455176",[]],["Beautiful Dreamer","mediaplayer\/player.asp?br=128&tl=455177",[]],["Ah! May the red rose live alway!","mediaplayer\/player.asp?br=128&tl=455179",[]],["Nelly Bly","mediaplayer\/player.asp?br=128&tl=455185",[]],["I Dream of Jeannie","mediaplayer\/player.asp?br=128&tl=455187",[]],["Susanna (Oh! Susanna) and Some Folks","mediaplayer\/player.asp?br=128&tl=455186",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI7888.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI7888.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI7888","desc":"Vocal Recital: Crooks, Richard - FOSTER, S. \/ MOYA, A.-P. \/ DVORAK, A. \/ SCHUBERT, F. \/ GRIEG, E. \/ TOURS, F.E. (1926-1941)","label":"Prima Voce","category":"Vocal - Classical Music","composer":"Pessard, Emile -- Geehl, Henry -- Moya, Antoni-Perez -- Riego, Theresa del -- Schubert, Franz -- Lang, Margaret Ruthven -- Foster, Stephen C. -- Traditional -- Dvo\u0159\u00e1k, Anton\u00edn -- Grieg, Edvard -- Bartlett, James Carroll -- Tours, Frank Edward -- Cowles, Eugene -- Metcalfe, John T.","artist":"Crooks, Richard","country":"Austria Czech Republic France Germany India Norway Spain United Kingdom United States","catid":"NI7888","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CRC3418.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CRC3418.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCRC3418","desc":"Vocal and Fortepiano Recital: Dellal, Pamela \/ Montgomery, Vivian - FERGUSSON, R. \/ REINAGLE, A. (Brilliant Variations on Sentimental Songs)","label":"Centaur","category":"Instrumental - Classical Music","composer":"Hunter, James -- Anonymous -- Stevenson, John -- Gottschalk, Louis Moreau -- Foster, Stephen C. -- Traditional -- Haynes Bayley, Thomas -- Heinrich, Anthony Philip -- Reinagle, Alexander -- Phile, Philip -- Gilles, Peter -- Bellak, Jason","artist":"Montgomery, Vivian -- Dellal, Pamela","country":"Irish Republic United Kingdom United States","catid":"CRC3418","cdinfo":[[["Traditional",[["The Ley-Rigg","mediaplayer\/player.asp?br=128&tl=3017616",[]]]],["Reinagle, Alexander",[["Variations on Lee Rigg","mediaplayer\/player.asp?br=128&tl=3017630",[]]]],["Haynes Bayley, Thomas",[["O No We Never Mention Her","mediaplayer\/player.asp?br=128&tl=3017701",[]]]],["Gilles, Peter",[["Introduction and Variations on O No We Never Mention Her","mediaplayer\/player.asp?br=128&tl=3017798",[]]]],["Traditional",[["Come Christians, Join to Sing (arr. B. Carr for voice and fortepiano)","mediaplayer\/player.asp?br=128&tl=3017885",[]]]],["Heinrich, Anthony Philip",[["The Spanish Hymn with Variations","mediaplayer\/player.asp?br=128&tl=3017892",[]]]],["Stevenson, John",[["Oft In the Stilly Night with Variations","mediaplayer\/player.asp?br=128&tl=3017948",[]]]],["Phile, Philip",[["Hail, Columbia","mediaplayer\/player.asp?br=128&tl=3017971",[]]]],["Anonymous",[["Hail, Columbia [ca. 1798]","mediaplayer\/player.asp?br=128&tl=3017972",[]]]],["Stevenson, John",[["The Last Rose of Summer","mediaplayer\/player.asp?br=128&tl=3018145",[]]]],["Bellak, Jason",[["Impromtu Brillant (after The Last Rose of Summer)","mediaplayer\/player.asp?br=128&tl=3018215",[]]]],["Foster, Stephen C.",[["Susanna (Oh! Susanna)","mediaplayer\/player.asp?br=128&tl=3018330",[]]]],["Hunter, James",[["Oh! Susanna, an Ethiopian Melody with Variations","mediaplayer\/player.asp?br=128&tl=3018406",[]]]],["Gottschalk, Louis Moreau",[["Home, Sweet Home (Charme du foyer), Op. 51","mediaplayer\/player.asp?br=128&tl=3018506",[]]]],["Anonymous",[["Home Sweet Home Polka [ca. 1856]","mediaplayer\/player.asp?br=128&tl=3018508",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=75442255832.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=75442255832.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D75442255832","desc":"SMITH, J.S.: Star Spangled Banner (The) \/ THOMPSON, R.: The Testament of Freedom (A Musical Journey, Vol. 2) (United States Army Chorus)","label":"Altissimo","category":"Choral - Secular - Classical Music","composer":"Smith, John Stafford -- Gould, Morton -- Foster, Stephen C. -- Williams, John -- Traditional -- Ward, Samuel A. -- Copland, Aaron -- Thompson, Randall -- Jenkins, Joseph Willcox -- Gruber, Edmund L.","artist":"United States Army Band","country":"United States","catid":"75442255832","cdinfo":[[["Smith, John Stafford",[["The Star Spangled Banner (arr. B. Smith and R. Kirby)","mediaplayer\/player.asp?br=128&tl=751136",[]]]],["Thompson, Randall",[["The Testament of Freedom","mediaplayer\/player.asp?br=128&tl=751137",[]]]],["Traditional",[["Shenandoah (arr. A. Smith)","mediaplayer\/player.asp?br=128&tl=751138",[]]]],["Jenkins, Joseph Willcox",[["American Overture","mediaplayer\/player.asp?br=128&tl=751139",[]]]],["Foster, Stephen C.",[["Susanna (Oh! Susanna) (arr. J.W. Jenkins)","mediaplayer\/player.asp?br=128&tl=751140",[]]]],["Williams, John",[["The Cowboys (arr. J. Curnow)","mediaplayer\/player.asp?br=128&tl=751141",[]]]],["Foster, Stephen C.",[["Gwine to run all night (De Camptown Races) (arr. J.W. Jenkins)","mediaplayer\/player.asp?br=128&tl=751142",[]]]],["Ward, Samuel A.",[["America, the Beautiful (arr. C. Dragon)","mediaplayer\/player.asp?br=128&tl=751143",[]]]],["Copland, Aaron",[["Lincoln Portrait (arr. W. Beeler)","mediaplayer\/player.asp?br=128&tl=751144",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. J.W. Jenkins)","mediaplayer\/player.asp?br=128&tl=751145",[]]]],["Gould, Morton",[["American Salute (arr. M. Gould)","mediaplayer\/player.asp?br=128&tl=751146",[]]]],["Gruber, Edmund L.",[["The Army Goes Rolling Along (arr. R. Kirby)","mediaplayer\/player.asp?br=128&tl=751147",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CLCD-932.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CLCD-932.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCLCD-932","desc":"Choral Concert: VocalEssence Ensemble Singers - FOSTER, S. \/ GILMORE, P.S. \/ BERGMAN, M. \/ NOLAN, B. (The Songs We Sang: Favorite American Folk Songs)","label":"Clarion","category":"Choral - Sacred - Classical Music","composer":"Anonymous -- Jones, Stan -- Foster, Stephen C. -- Traditional -- Bergman, Marilyn -- Gilmore, Patrick Sarsfield -- Nolan, Bob","artist":"Brunelle, Philip -- Griffith, Joan -- Hagedorn, David -- Kemper, Charles -- Hoover, Clint -- Stanton, Bobby -- Vicic, Silvester -- Hippen, Greg","country":"United Kingdom United States","catid":"CLCD-932","cdinfo":[[["Traditional",[["Oh Dear! What Can the Matter Be? (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922131",[]],["Down in the Valley (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922132",[]],["Black is the Color (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922133",[]],["Skip to My Lou (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922134",[]]]],["Anonymous",[["I Wish I Was in Dixie's Land, \"Dixie\" (attrib. to D.D. Emmett) (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922135",[]]]],["Foster, Stephen C.",[["Camptown Races (arr. J. Halloran)","mediaplayer\/player.asp?br=128&tl=922136",[]]]],["Foster, Stephen C.",[["Laura Lee (arr. E. Fissinger)","mediaplayer\/player.asp?br=128&tl=922137",[]],["Oh! Susanna (arr. E. Fissinger)","mediaplayer\/player.asp?br=128&tl=922138",[]],["Gentle Annie (arr. E. Fissinger)","mediaplayer\/player.asp?br=128&tl=922139",[]]]],["Traditional",[["Goin' to Boston (arr. A. Parker)","mediaplayer\/player.asp?br=128&tl=922140",[]]]],["Foster, Stephen C.",[["My Old Kentucky Home (arr. A. Parker and R. Shaw)","mediaplayer\/player.asp?br=128&tl=922141",[]]]],["Gilmore, Patrick Sarsfield",[["Seeing Nellie Home (arr. A. Parker and R. Shaw)","mediaplayer\/player.asp?br=128&tl=922142",[]]]],["Traditional",[["The Lonesome Valley (arr. A. Parker and R. Shaw)","mediaplayer\/player.asp?br=128&tl=922143",[]]]],["Traditional",[["Shenandoah (arr. J. Erb)","mediaplayer\/player.asp?br=128&tl=922144",[]]]],["Bergman, Marilyn",[["Hooray for the Cowboys (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922145",[]]]],["Traditional",[["Red River Valley (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922147",[]]]],["Nolan, Bob",[["Tumbling Tumbleweeds (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922148",[]]]],["Jones, Stan",[["Riders in the Sky (arr. for choir)","mediaplayer\/player.asp?br=128&tl=922149",[]]]],["Nolan, Bob",[["Cool Water (arr. N. Luboff)","mediaplayer\/player.asp?br=128&tl=922150",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=75442270252.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=75442270252.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D75442270252","desc":"UNITED STATES ARMY CHORUS: A Cappella and Otherwise","label":"Altissimo","category":"Choral - Sacred - Classical Music","composer":"John, Elton -- Steffe, William -- Foster, Stephen C. -- Traditional -- Holst, Gustav -- Berlin, Irving -- Carissimi, Giacomo -- Schoenberg, Claude-Michel -- Simon, Paul -- Hassler, Hans Leo -- Thompson, Randall -- Harris, Ron","artist":"Tucker, Gene -- Patterson, Andrew -- McDonald, Robert -- Augustin, Timothy","country":"France Germany Irish Republic Italy United Kingdom United States","catid":"75442270252","cdinfo":[[["Thompson, Randall",[["The Last Words of David","mediaplayer\/player.asp?br=128&tl=825722",[]]]],["Hassler, Hans Leo",[["Cantate Domino canticum novum","mediaplayer\/player.asp?br=128&tl=825723",[]]]],["Carissimi, Giacomo",[["Jephte: XVIII. Coro a 6: Weep, you children of Israel","mediaplayer\/player.asp?br=128&tl=825763",[]]]],["Traditional",[["Scarborough Fair","mediaplayer\/player.asp?br=128&tl=825764",[]]]],["Traditional",[["Down by the Sally Gardens","mediaplayer\/player.asp?br=128&tl=825765",[]]]],["Traditional",[["Miller of Dee","mediaplayer\/player.asp?br=128&tl=825766",[]]]],["Traditional",[["Plenty Good Room","mediaplayer\/player.asp?br=128&tl=825767",[]],["Deep River","mediaplayer\/player.asp?br=128&tl=825768",[]],["Jacob's Ladder","mediaplayer\/player.asp?br=128&tl=825781",[]]]],["Foster, Stephen C.",[["Susanna (Oh! Susanna) (arr. J.W. Jenkins)","mediaplayer\/player.asp?br=128&tl=825782",[]],["Beautiful Dreamer (arr. J.W. Jenkins)","mediaplayer\/player.asp?br=128&tl=825805",[]],["Gwine to run all night (De Camptown Races) (arr. J.W. Jenkins)","mediaplayer\/player.asp?br=128&tl=825806",[]]]],["Schoenberg, Claude-Michel",[["Les miserables: Stars - Do You Hear the People Sing? (arr. R. Hickey)","mediaplayer\/player.asp?br=128&tl=825807",[]]]],["John, Elton",[["The Lion King: Can You Feel the Love Tonight (arr. R. Nelson)","mediaplayer\/player.asp?br=128&tl=825808",[]]]],["Berlin, Irving",[["Salute to Irving Berlin (arr. D. Milburn)","mediaplayer\/player.asp?br=128&tl=825809",[]]]],["Holst, Gustav",[["A Dirge for Two Veterans","mediaplayer\/player.asp?br=128&tl=825810",[]]]],["Harris, Ron",[["Do Not Stand at My Grave and Weep","mediaplayer\/player.asp?br=128&tl=825811",[]]]],["Steffe, William",[["Battle Hymn of the Republic (arr. P. Wilhousky)","mediaplayer\/player.asp?br=128&tl=825812",[]]]],["Simon, Paul",[["Bridge over Troubled Water (arr. R. Harris)","mediaplayer\/player.asp?br=128&tl=825813",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=FC-005.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=FC-005.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DFC-005","desc":"Orchestral Music - FOSTER, S. \/ BOYER, P. \/ POULTON, G. \/ ROOT, G.F. (American Originals) (Cincinnati Pops Orchestra, J.M. Russell)","label":"Fanfare Cincinnati","category":"Orchestral - Classical Music","composer":"Root, George Frederick -- Boyer, Peter -- Foster, Stephen C. -- Traditional -- Poulton, George","artist":"Cincinnati Pops Orchestra -- Henry, Joe -- Over the Rhine -- Russell, John Morris -- O'Donovan, Aoife -- Cash, Rosanne -- Flemons, Dom -- Bergquist, Karin -- Comet Bluegrass All-Stars -- Cunningham, Ed","country":"Canada United Kingdom United States","catid":"FC-005","cdinfo":[[["Foster, Stephen C.",[["Oh! Susanna (arr. C. Walden for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381802",[]]]],["Foster, Stephen C.",[["Jeanie with the Light Brown Hair (arr. R. Mounsey for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381803",[]]]],["Foster, Stephen C.",[["My old Kentucky home, good night (arr. R. Pellett for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381804",[]]]],["Traditional",[["Amazing Grace (arr. R. Pellett)","mediaplayer\/player.asp?br=128&tl=2381805",[]]]],["Boyer, Peter",[["Rolling River (Sketches on \"Shenandoah\")","mediaplayer\/player.asp?br=128&tl=2381806",[]]]],["Foster, Stephen C.",[["Why, No One to Love? (arr. R. Pellett for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381807",[]]]],["Foster, Stephen C.",[["Old folks at Home (arr. T. Berens for vocals and orchestra)","mediaplayer\/player.asp?br=128&tl=2381808",[]]]],["Traditional",[["Kumbaya (arr. T. Berens)","mediaplayer\/player.asp?br=128&tl=2381809",[]]]],["Foster, Stephen C.",[["Slumber My Darling (arr. C. Walden for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381810",[]]]],["Poulton, George",[["Aura Lee  (arr. R. Pellett for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381811",[]]]],["Foster, Stephen C.",[["Foster's Folly (arr. T. Berens for orchestra)","mediaplayer\/player.asp?br=128&tl=2381812",[]]]],["Foster, Stephen C.",[["Ring, ring de banjo! (arr. C. Walden for orchestra)","mediaplayer\/player.asp?br=128&tl=2381830",[]]]],["Traditional",[["Red River Valley (arr. T. Berens)","mediaplayer\/player.asp?br=128&tl=2381831",[]]]],["Root, George Frederick",[["The Battle Cry of Freedom (arr. T. Berens for orchestra)","mediaplayer\/player.asp?br=128&tl=2381832",[]]]],["Foster, Stephen C.",[["Beautiful Dreamer (arr. R. Mounsey for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381833",[]]]],["Foster, Stephen C.",[["Hard times come again no more (arr. T. Berens for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=2381834",[]]]],["Foster, Stephen C.",[["De Camptown Races (arr. R. Mounsey)","mediaplayer\/player.asp?br=128&tl=2381835",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.559005.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.559005.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.559005","desc":"GOULD, M.: American Ballads \/ Foster Gallery \/ American Salute (Ukraine National Symphony, Kuchar)","label":"Naxos","category":"Orchestral - Classical Music","composer":"Gould, Morton","artist":"Kuchar, Theodore -- Ukraine National Symphony Orchestra","country":"United States","catid":"8.559005","cdinfo":[[["Gould, Morton",[["American Ballads","mediaplayer\/player.asp?br=128&tl=43721|43722|43723|43724|43725|43726",["I. Star-Spangled Overture","II. Amber Waves","III. Jubilo","IV. Memorials","V. Saratoga Quickstep","VI. Hymnal"]],["Foster Gallery","mediaplayer\/player.asp?br=128&tl=43727|43728|43729|43730|43731|43732|43733|43734|43735|43736|43737|43738|43739",[]]]],["Gould, Morton",[["American Salute","mediaplayer\/player.asp?br=128&tl=43740",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/foster%20oh%21%20susanna"};IMSLPNaxosSearch="foster oh! susanna";JGaskdonation=0;JGFileTools={"174603":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/174603"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23174603"}},"231238":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/231238"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23231238"}},"174585":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=174585"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP174585"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/174585"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/174585"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23174585"}},"231231":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=231231"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/231231\/231232\/231234\/cbb3"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP231231"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/231231"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/231231"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23231231"}},"231232":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=231232"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/231231\/231232\/231234\/cbb3"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP231232"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/231232"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/231232"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23231232"}},"231234":{"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/231231\/231232\/231234\/cbb3"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP231234"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/231234"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23231234"}},"509826":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=509826"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP509826"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/509826"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Oh%21+Susanna+%28Foster%2C+Stephen%29&frmTitle=IMSLP+%23509826"}}};JGFileOpts={"174603":[],"231238":[],"174585":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjXa0Aec8NPEDnfMkCy4d79ZD7qD5oB8eS\/r3hjeyfK\/lz81CCSr4pQwy6dNeGmigGc055kgxYfVddZkDJ6Jw2a"},"231231":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjFFVWrlya3g3uuP36ddoT\/S90YoYv4hk2bADhUIxYBfhrRGjel1nROFwlqnist83TDv4n7Xn9o9dHZWidGwCU7"},"231232":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj6s4B8RldgnuMCZb4unnc+fRcsiXxfpKz6X+hgVo0ymVC3ZG4ZS7\/m1y7QWTHOtoLxOkNe3caJiF8X4S2dS\/bl"},"231234":[],"509826":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bieUVro5Anq7ShMvKXCl3JM1xNJ7lP96rD0+FJGrwFCVv+zg9bsg+Ep6J1bJ2Oat1g="}};JGPageUntagged=false;JGPageTags=["songs","v ch pf","en"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"174603":[8,"1"],"231238":[10,"1"],"174585":[0,0],"231231":[0,0],"231232":[0,0],"231234":[0,0],"509826":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Voice_and_Mixed_Chorus_.28Knuth.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For Voice and Mixed Chorus (Knuth)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_Voice_and_Mixed_Chorus_.28Knuth.29_2"><span class="tocnumber">2.2.1</span> <span class="toctext">For Voice and Mixed Chorus (Knuth)</span></a></li>
+<li class="toclevel-3"><a href="#For_Guitar_.28Ludenhoff.29"><span class="tocnumber">2.2.2</span> <span class="toctext">For Guitar (Ludenhoff)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">2</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP174603" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/174603"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/99/PMLP307941-Oh_Susanna.mid" class="internal" title="PMLP307941-Oh Susanna.mid">*</a></span><a href="/wiki/File:PMLP307941-Oh_Susanna.mid" title="File:PMLP307941-Oh Susanna.mid">#174603</a> - 0.01MB - 0:54<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-174603' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-174603'>
+	<a href='javascript:void(0)' id='174603' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='174603' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='174603' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='174603' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='174603' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-174603'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/174603/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/174603/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@174603" title="Special:GetFCtrStats/@174603">270</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a><span class="mh555"> (2012/1/31)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=174603">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=174603">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="174603">Javascript is required for this feature.</div><script>JGINITsearchbars['174603']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h5> <span class="mw-headline" id="For_Voice_and_Mixed_Chorus_.28Knuth.29">For Voice and Mixed Chorus (Knuth)</span></h5>
+<div class="we"><div id="IMSLP231238" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/231238"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>MIDI performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/31/WIMA.c314-Oh-Susanna_part.mp3" class="internal" title="WIMA.c314-Oh-Susanna part.mp3">*</a></span><a href="/wiki/File:WIMA.c314-Oh-Susanna_part.mp3" title="File:WIMA.c314-Oh-Susanna part.mp3">#231238</a> - 0.88MB - 0:57<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-231238' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-231238'>
+	<a href='javascript:void(0)' id='231238' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='231238' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='231238' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='231238' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='231238' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-231238'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/231238/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/231238/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@231238" title="Special:GetFCtrStats/@231238">260</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a><span class="mh555"> (2012/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_231238'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"231238":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/3\/31\/IMSLP231238-WIMA.c314-Oh-Susanna_part.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Jürgen Knuth
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td><span class="plainlinks">Altena: <a rel="nofollow" class="external text" href="http://www.jk-klassik.de">Jürgen Knuth</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=231238">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=231238">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="231238">Javascript is required for this feature.</div><script>JGINITsearchbars['231238']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">4</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP174585" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/174585"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cf/PMLP307941-Oh_Susanna.pdf" class="internal" title="PMLP307941-Oh Susanna.pdf">*</a></span><a href="/wiki/File:PMLP307941-Oh_Susanna.pdf" title="File:PMLP307941-Oh Susanna.pdf">#174585</a> - 0.03MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-174585' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-174585'>
+	<a href='javascript:void(0)' id='174585' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='174585' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='174585' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='174585' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='174585' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-174585'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/174585/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/174585/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 4411"><a href="/wiki/Special:GetFCtrStats/@174585" title="Special:GetFCtrStats/@174585">4411</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Rah9639" title="User:Rah9639">Robert A. Hudson</a> (2012/1/31)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Hudson,_Robert_A." title="Category:Hudson, Robert A.">Robert A. Hudson</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Robert A. Hudson
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=174585">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=174585">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Typeset contains the (possibly unauthorized by the composer) 4th verse (which at least doesn't occur in the W.C. Peters first edition of 1848.)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="174585">Javascript is required for this feature.</div><script>JGINITsearchbars['174585']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP307941-Oh_Susanna.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/cf/7aae9e44ce8610dee0f3be7997baf07afaaa0476.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h5> <span class="mw-headline" id="For_Voice_and_Mixed_Chorus_.28Knuth.29_2">For Voice and Mixed Chorus (Knuth)</span></h5>
+<div class="we"><div id="IMSLP231231" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/231231"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/02/WIMA.d699-Oh-Susanna_part.pdf" class="internal" title="WIMA.d699-Oh-Susanna part.pdf">*</a></span><a href="/wiki/File:WIMA.d699-Oh-Susanna_part.pdf" title="File:WIMA.d699-Oh-Susanna part.pdf">#231231</a> - 0.04MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-231231' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-231231'>
+	<a href='javascript:void(0)' id='231231' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='231231' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='231231' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='231231' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='231231' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-231231'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/231231/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/231231/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 879"><a href="/wiki/Special:GetFCtrStats/@231231" title="Special:GetFCtrStats/@231231">879</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (2012/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP231232" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/231232"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Vocal part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dc/WIMA.b5a9-Oh-Susanna_Soli-Chor.pdf" class="internal" title="WIMA.b5a9-Oh-Susanna Soli-Chor.pdf">*</a></span><a href="/wiki/File:WIMA.b5a9-Oh-Susanna_Soli-Chor.pdf" title="File:WIMA.b5a9-Oh-Susanna Soli-Chor.pdf">#231232</a> - 0.29MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-231232' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-231232'>
+	<a href='javascript:void(0)' id='231232' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='231232' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='231232' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='231232' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='231232' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-231232'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/231232/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/231232/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 458"><a href="/wiki/Special:GetFCtrStats/@231232" title="Special:GetFCtrStats/@231232">458</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (2012/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP231234" class="we_file we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/231234"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Capella)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/af/WIMA.a56f-Oh-Susanna.zip" class="internal" title="WIMA.a56f-Oh-Susanna.zip">*</a></span><a href="/wiki/File:WIMA.a56f-Oh-Susanna.zip" title="File:WIMA.a56f-Oh-Susanna.zip">#231234</a> - 0.01MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-231234' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-231234'>
+	<a href='javascript:void(0)' id='231234' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='231234' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='231234' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='231234' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='231234' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-231234'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/231234/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/231234/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 287"><a href="/wiki/Special:GetFCtrStats/@231234" title="Special:GetFCtrStats/@231234">287</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (2012/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Knuth,_J%C3%BCrgen" title="Category:Knuth, Jürgen">Jürgen Knuth</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><span class="plainlinks">Altena: <a rel="nofollow" class="external text" href="http://www.jk-klassik.de">Jürgen Knuth</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=231231/231232/231234">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=231231/231232/231234">del</a>/<span id="fmrglnk" data-pdfstr="231231//231232/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="231231">Javascript is required for this feature.</div><script>JGINITsearchbars['231231']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.d699-Oh-Susanna_part.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/02/1b4f91d9b095f144686648daf307047e56a883da.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Guitar_.28Ludenhoff.29">For Guitar (Ludenhoff)</span></h5>
+<div class="we"><div id="IMSLP509826" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/509826"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/89/PMLP307941-Susanna.pdf" class="internal" title="PMLP307941-Susanna.pdf">*</a></span><a href="/wiki/File:PMLP307941-Susanna.pdf" title="File:PMLP307941-Susanna.pdf">#509826</a> - 0.05MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-509826' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-509826'>
+	<a href='javascript:void(0)' id='509826' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='509826' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='509826' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='509826' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='509826' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-509826'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/509826/Oh!_Susanna_(Foster,_Stephen)" title="Special:IMSLPEditCTag/509826/Oh! Susanna (Foster, Stephen)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 13"><a href="/wiki/Special:GetFCtrStats/@509826" title="Special:GetFCtrStats/@509826">13</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Martin_Ludenhoff" title="User:Martin Ludenhoff">Martin Ludenhoff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Martin_Ludenhoff" title="User:Martin Ludenhoff">Martin Ludenhoff</a> (2018/1/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Ludenhoff,_Martin" title="Category:Ludenhoff, Martin">Martin Ludenhoff</a>&#160;(b. 1970)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Martin Ludenhoff
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-ShareAlike 4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=509826">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=509826">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Recordings
+</th>
+<td><span class="plainlinks">YouTube: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=-y6ghT3UvzU">M. Ludenhoff (guitar)</a></span></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="509826">Javascript is required for this feature.</div><script>JGINITsearchbars['509826']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP307941-Susanna.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/89/bed2af32de7c5788cb308509d47623c0d88cde02.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Oh! Susanna
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Foster,_Stephen" title="Category:Foster, Stephen">Foster, Stephen</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ISF 102
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>G major
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1 song
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1847-9-11
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1848
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td>Composer
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>English
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>3 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>voice, mixed chorus, piano
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Oh!_Susanna" class="extiw" title="wikipedia:Oh! Susanna">Wikipedia article</a><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.music/sm1848.450780">First Edition</a></span>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 495/1000000
+Post-expand include size: 37963/2097152 bytes
+Template argument size: 200/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:307941-0!*!0!!en!2!* and timestamp 20180414155048 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Oh!_Susanna_(Foster,_Stephen)&amp;oldid=2531040">http://imslp.org/index.php?title=Oh!_Susanna_(Foster,_Stephen)&amp;oldid=2531040</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Hudson,_Robert_A./Editor" title="Category:Hudson, Robert A./Editor">Hudson, Robert A./Editor</a></li><li><a href="/wiki/Category:Knuth,_J%C3%BCrgen/Arranger" title="Category:Knuth, Jürgen/Arranger">Knuth, Jürgen/Arranger</a></li><li><a href="/wiki/Category:Ludenhoff,_Martin/Arranger" title="Category:Ludenhoff, Martin/Arranger">Ludenhoff, Martin/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Foster,_Stephen" title="Category:Foster, Stephen">Foster, Stephen</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Songs" title="Category:Songs">Songs</a></li><li><a href="/wiki/Category:For_voice,_mixed_chorus,_piano" title="Category:For voice, mixed chorus, piano">For voice, mixed chorus, piano</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_keyboard" title="Category:For voices and chorus with keyboard">For voices and chorus with keyboard</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:English_language" title="Category:English language">English language</a></li><li><a href="/wiki/Category:For_voice,_mixed_chorus_(arr)" title="Category:For voice, mixed chorus (arr)">For voice, mixed chorus (arr)</a></li><li><a href="/wiki/Category:For_unaccompanied_voices_and_chorus" title="Category:For unaccompanied voices and chorus">For unaccompanied voices and chorus</a></li><li><a href="/wiki/Category:For_guitar_(arr)" title="Category:For guitar (arr)">For guitar (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1848" title="Category:Works first published in 1848">Works first published in 1848</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:G_major" title="Category:G major">G major</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Oh%21_Susanna_%28Foster%2C_Stephen%29">5,299 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Oh%21%20Susanna%20%28Foster%2C%20Stephen%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 1.212 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414155048 -->
+</html>
+		

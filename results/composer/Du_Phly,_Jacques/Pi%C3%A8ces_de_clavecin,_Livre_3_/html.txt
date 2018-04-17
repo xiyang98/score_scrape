@@ -1,0 +1,1406 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Pièces de clavecin, Livre 3 (Du Phly, Jacques) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Pièces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)", "wgTitle": "Pièces de clavecin, Livre 3 (Du Phly, Jacques)", "wgCurRevisionId": 2140273, "wgArticleId": 703788, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with RISM citations", "Pages with First Editions", "Gouin, Pierre/Editor", "Scores", "Du Phly, Jacques/Collections", "Baroque style", "Classical", "Pieces", "For harpsichord", "Scores featuring the harpsichord", "For 1 player", "For violin, harpsichord", "Scores featuring the violin", "For 2 players", "Works first published in 1756", "Works first published in the 18th century"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pièces_de_clavecin_Livre_3_Du_Phly_Jacques action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)&amp;oldid=2140273" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Pi%C3%A8ces%20de%20clavecin%2C%20Livre%203%20%28Du%20Phly%2C%20Jacques%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Pièces de clavecin, Livre 3 (Du Phly, Jacques)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>17
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1756 - <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990015553&amp;db=251&amp;View=rism&amp;Language=en">Paris: L'auteur; Bayard; Le Clerc; Mlle Castagnery</a></span>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_harpsichord&amp;transclude=Template:Catintro">For harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span>; <span class="expandline" title="4 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_violin%2C_harpsichord&amp;transclude=Template:Catintro">For violin, harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Pi\u00e8ces de clavecin, Livre 3","composer":"Du Phly, Jacques","comphref":"\/wiki\/Category:Du_Phly,_Jacques"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"pieces de clavecin","itunes":"pieces de clavecin","composer":"du phly","scorekeywords":"pieces de clavecin","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="du phly pieces de clavecin";JGaskdonation=0;JGFileTools={"139706":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139706"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139706"}},"139707":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139707"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139707"}},"139708":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139708"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139708"}},"139709":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139709"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139709"}},"139710":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139710"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139710"}},"139711":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139711"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139711"}},"139712":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139712"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139712"}},"139713":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139713"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139713"}},"139714":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139714"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139714"}},"139726":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139726"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139726"}},"139727":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139727"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139727"}},"139728":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139728"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139728"}},"139729":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139729"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139729"}},"139730":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139730"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139730"}},"139731":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139731"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139731"}},"139732":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139732"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139732"}},"139733":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/139733"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23139733"}},"432974":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=432974"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/432974\/432975\/76555\/8500"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP432974"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=432974"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/432974"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/432974"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23432974"}},"432975":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=432975"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/432974\/432975\/76555\/8500"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP432975"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=432975"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/432975"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/432975"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23432975"}},"76555":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=76555"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/432974\/432975\/76555\/8500"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP76555"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=76555"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/76555"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/76555"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%2376555"}},"379543":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=379543"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/379543\/379544\/cd0f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP379543"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/379543"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/379543"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23379543"}},"379544":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=379544"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/379543\/379544\/cd0f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP379544"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/379544"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/379544"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23379544"}},"127316":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127316"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127316"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127316"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127316"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127316"}},"127317":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127317"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127317"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127317"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127317"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127317"}},"127318":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127318"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127318"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127318"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127318"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127318"}},"127319":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127319"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127319"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127319"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127319"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127319"}},"127320":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127320"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127320"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127320"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127320"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127320"}},"127321":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127321"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127321"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127321"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127321"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127321"}},"127322":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127322"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127322"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127322"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127322"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127322"}},"127323":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127323"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127323"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127323"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127323"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127323"}},"127324":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127324"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127324"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127324"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127324"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127324"}},"127325":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127325"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127325"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127325"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127325"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127325"}},"127326":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127326"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127326"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127326"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127326"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127326"}},"127327":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127327"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127327"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127327"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127327"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127327"}},"127328":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127328"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127328"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127328"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127328"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127328"}},"127329":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127329"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127329"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127329"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127329"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127329"}},"127330":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127330"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127330"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127330"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127330"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127330"}},"127331":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127331"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127331"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127331"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127331"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127331"}},"127332":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127332"},"015-ZIPFILE":{"icon":52,"label":"Download 17 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127316\/127317\/127318\/127319\/127320\/127321\/127322\/127323\/127324\/127325\/127326\/127327\/127328\/127329\/127330\/127331\/127332\/bbfb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127332"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127332"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127332"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127332"}},"127333":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127333"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127333\/127334\/127335\/127336\/127337\/127338\/4cef"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127333"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127333"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127333"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127333"}},"127334":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127334"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127333\/127334\/127335\/127336\/127337\/127338\/4cef"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127334"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127334"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127334"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127334"}},"127335":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127335"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127333\/127334\/127335\/127336\/127337\/127338\/4cef"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127335"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127335"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127335"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127335"}},"127336":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127336"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127333\/127334\/127335\/127336\/127337\/127338\/4cef"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127336"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127336"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127336"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127336"}},"127337":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127337"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127333\/127334\/127335\/127336\/127337\/127338\/4cef"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127337"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127337"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127337"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127337"}},"127338":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=127338"},"015-ZIPFILE":{"icon":52,"label":"Download 6 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/127333\/127334\/127335\/127336\/127337\/127338\/4cef"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP127338"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/127338"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/127338"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Pi%C3%A8ces+de+clavecin%2C+Livre+3+%28Du+Phly%2C+Jacques%29&frmTitle=IMSLP+%23127338"}}};JGFileOpts={"139706":[],"139707":[],"139708":[],"139709":[],"139710":[],"139711":[],"139712":[],"139713":[],"139714":[],"139726":[],"139727":[],"139728":[],"139729":[],"139730":[],"139731":[],"139732":[],"139733":[],"432974":[],"432975":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biRK9WrmoKiw0jYjVo6vdUrPAXexByc4WQwZbLby6DX0cAZfsm+iuK710jyAUDgKzA2yJBaiBQ+hpl0om2s5I0ld+C63Q47xFMCnsr10+B45g=="},"76555":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCSG7bhXpeJpP8jiUMU6cK8YHAu2\/kQ9dVMqn61+usxdMW3UDxEaHdJOUppnahjblAPTfrlKysjyyZnKBV\/php"},"379543":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgXyKRrZaCRAGM88GfVuPpMf6U6p9ftL77BtUTR6exS6psqyGi2pgrt6VJTutRdxOeAnQSHnMRwQ56UdK9HYnUd"},"379544":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgsWTvqPbHdneO3oijr7X\/QF1F89Ob0HQCGN+68SV\/AOqGVAjCquHn09rKJzLC9l5W7rhLgz\/P3LtNgFMpP9wxq"},"127316":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi5MS7eYTw98KBhHHPzXPpebc9cthbUnRzwo9HaP6PSHEr3RgOAE95wrZ5uICaG77o39XniH5qxkcck4IlXs\/N4"},"127317":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgztAdierpKSGFGer+jP61E4GFE7pFNlDNUURv3VXHPgXgfHBZwfnnSOiumSDzkwwUUJXsAhRwmRUVcjQa\/EbNS"},"127318":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5XGWlyCEZV1aYSYMJAEJ\/0bWTyua73B1l1qLfHLjDfptMdfkW2dznxXObgpo4T5uj3SPSm1GL9LvhK9K1OELV"},"127319":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhlcSazf016teilzGZSJ+0HKQiGVQKl7ZJVtl5zQRLWQbLY1TU5eaxNjOPWUkQPnf7WhIXiBEp3fkTNm3Fa6Jh9Pi\/B2\/DYPQz8zSUHyvCaJg=="},"127320":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg4Jgh6CC\/cLHVhysLmvbWouawPsMZn6mxTAAOt3a6b5cRshBY3\/2z9T81J\/nD1Fob6C6cKvXogqJh1MUqHh1Ec"},"127321":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgsWTvqPbHdneO3oijr7X\/QehcwjIy8kBJGlwPqy0hBZU4hZvdqOb8AuYmI4HI6jTRj9OWncqsslvh04wr48djZ"},"127322":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biCZD\/3SrI\/2W25x2bo+3WxdaxqhpRtj99m5SFrgOpHnZ9RUSgvvcr4zQ1tqmMMkCFN6QGMZQlbjopW+AQZZUBv"},"127323":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhxwJnBXNK6ANGuF5YjdKe\/8NBoVwUKCa7cP1IsiqITzyahbwlN\/ex34spa\/zVrxE2i2fJHn0jAPHpNj6uPM1uuXUNnwcukBBKz9AYbLIbEPw=="},"127324":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjzjWXRp0dhSE02ZY\/pXt13oNq6LjLumin0nn16f4ciU8hAknvbaCY45RjmMb65hFjIfM1VG1NtbfP90hrKtL2r"},"127325":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biV58NncPLLfUnORP0ZASYKUjZ4FxVz3W80FQM+RcDaOy8VBcaRMKF9V5xNCptQxlxO494B5SZmRP1UULwpqxVFav0zHylX5hOvY1eGxA2Hrw=="},"127326":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgY2mMX1TRqVCnWG\/q3T+GSF7KwktjswLX23\/mVjFe0t8BoWiDAf2AG9EMCxxhydQJvM54k+x9XVUsFirGKxc73PwMj5Dj9FHy1EkZYsgW2Dg=="},"127327":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi\/Q6zVDpw2z6WHxG9cJjbM8vQAy3UN1WrNbGHR+uZkU+nbSTfM7hSqSPvb0ZISTf6gJnz9aRR9M5Uggh4xwtUQmefMjeLCubbT7s9IuVdK\/Q=="},"127328":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhY2MCwznp2DTdWR\/w3YwVC3mq9gsM1qG8+DFhlFQOoAAJsXxkVxNxSXvJbi0M8b6SePpq74gPH3anQyZjhI10p1PRqRQBcbLd8lT55joCSig=="},"127329":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlX\/9npY3vsTMfVb7W+KRMMUsQ+kCCQqmJyLVxNJqTrw0OO6G4pnOaMx6NLRhQW1e6vY67+EiF7lJJDSNssHl9vjx4xOzAT0iARoYsWuT\/MQ=="},"127330":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjsJ5wlLpD1HhWUNhTfVabsQphJXrLA96u9uKv6gcpAx122aoBCCXWuhGQPbo2PCQZZYqVLj9lbeZOO\/bUx6mjV"},"127331":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg0dNTNNm1PWnpFucNEJllUtZwdwpmPMfBDC7zziJOeH6NkEk8JpPyQOW9\/PwXnp4E46vFyWx64JxhzQt3MUzC+KZKHSnt5GFQoN0K\/OkG0YA=="},"127332":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh0ZX0M2CiWptcc56y9EXSkmFXqSOoI5fp6PR9dKxQylrL\/1e1jgjhKMHbm9AuuhlsqN3dqfHtbZ833ECCJyNiHHMxm9mkJBkn4z4eiew46qw=="},"127333":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjKgleF7KCYbnDJlCChcQecHQke5m\/G9mqbUmNTO9n7dinBFgWNP5JkjZMxfso9RNqoROppCPorsyynsuNH54bvQVxBg67LM0WA2BxERTuBpw=="},"127334":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhcfDqcDaCOvu4ODNonJCXPgFRqrm\/EmY95wPEOjJU0lDP5euIcI5HFWOpjAANGk+LU1cpoPX+vQYIZiRLp\/Wl7YWrPvtC1wzPCGlKaEjEzwA=="},"127335":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgit\/\/0l+SnnyAXKD6r2Wjc1l+Ql9OLRH9Is3idRBS+2mVIKFBqu8nkGgMvXOiNzvXJlEi1hmX0AWxuuSA3A7Cj4yNrgYq9Bc11oMiLQW\/ERw=="},"127336":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biQih2N0XW\/rLfTlI\/irCBkAQ9x2pUOp2LberC4qh5z5+OQdUrffWZX+EpADYBz5ctyw3QptkVF92XaXmR5hOdH4SQxX0eGJLjjKEob6IZw3A=="},"127337":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjns0VP7q4V1wlVlw+MAVUYSGjiPlJ1xq51mjDT21BjGkMvBIPuqIJa2cV\/oxKPmPsLj6lSDol+nid6MhIDYAnWmp6qV8gzSVc1EXxbigbAxw=="},"127338":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjo5aGu0JJMijQujLlvndsyAMJZFKtH9\/XAKEUfp3ONnE7WMEXDLuThUK6K0q2atKR1OTmNcnQk2P+EtiYoSU1g+n1nUjyUD26Wb9H4Y1vkng=="}};JGPageUntagged=false;JGPageTags=["pieces","hpd","vn hpd"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":0},"scores":{"tabScore1":false,"tabArrTrans":true,"tabScore3":true,"tabScore4":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores and Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"76555":[6.5,"4"],"127318":[10,"2"],"127319":[9,"2"],"127320":[10,"1"],"127321":[8,"5"],"127322":[10,"1"],"127324":[8,"1"],"127326":[8,"1"],"139711":[4,"1"],"379543":[6,"2"],"379544":[10,"1"],"139706":[0,0],"139707":[0,0],"139708":[0,0],"139709":[0,0],"139710":[0,0],"139712":[0,0],"139713":[0,0],"139714":[0,0],"139726":[0,0],"139727":[0,0],"139728":[0,0],"139729":[0,0],"139730":[0,0],"139731":[0,0],"139732":[0,0],"139733":[0,0],"432974":[0,0],"432975":[0,0],"127316":[0,0],"127317":[0,0],"127323":[0,0],"127325":[0,0],"127327":[0,0],"127328":[0,0],"127329":[0,0],"127330":[0,0],"127331":[0,0],"127332":[0,0],"127333":[0,0],"127334":[0,0],"127335":[0,0],"127336":[0,0],"127337":[0,0],"127338":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores_and_Parts"><span class="tocnumber">2.1</span> <span class="toctext">Scores and Parts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">17</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<p><span id="naa-nofilesnote"><i>No files submitted.</i><br /></span><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP139706" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139706"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Ouverture</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/51/PMLP49630-Duphly_PiecesDeClavecin_3-01_Ouverture.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-01 Ouverture.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-01_Ouverture.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-01 Ouverture.mp3">#139706</a> - 10.31MB - 11:15<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139706' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139706'>
+	<a href='javascript:void(0)' id='139706' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139706' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139706' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139706' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139706' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139706'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139706/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139706/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139706" title="Special:GetFCtrStats/@139706">108</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139706'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139706":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/5\/51\/IMSLP139706-PMLP49630-Duphly_PiecesDeClavecin_3-01_Ouverture.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139707}});</script>
+</p>
+</div><div class="we_file_more we_audio_top" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>16 more</u>:</b> La de May • La Madin • La Forqueray • Chaconne • Médée • Les Graces • La de Belombre • Menuets • La de Casaubon • La de Tailly • La de Valmallette • La de la Tour • La de Guyon • Menuets • La de Chamlay • La de Villeneuve
+</p>
+</div><div id="IMSLP139707" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139707"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de May</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/93/PMLP49630-Duphly_PiecesDeClavecin_3-02_LaDeMay.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-02 LaDeMay.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-02_LaDeMay.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-02 LaDeMay.mp3">#139707</a> - 5.78MB - 6:18<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139707' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139707'>
+	<a href='javascript:void(0)' id='139707' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139707' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139707' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139707' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139707' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139707'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139707/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139707/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139707" title="Special:GetFCtrStats/@139707">70</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139707'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139707":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/9\/93\/IMSLP139707-PMLP49630-Duphly_PiecesDeClavecin_3-02_LaDeMay.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139708}});</script>
+</p>
+</div><div id="IMSLP139708" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139708"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La Madin</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b7/PMLP49630-Duphly_PiecesDeClavecin_3-03_LaMadin.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-03 LaMadin.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-03_LaMadin.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-03 LaMadin.mp3">#139708</a> - 11.21MB - 12:14<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139708' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139708'>
+	<a href='javascript:void(0)' id='139708' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139708' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139708' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139708' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139708' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139708'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139708/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139708/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139708" title="Special:GetFCtrStats/@139708">68</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139708'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139708":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/b\/b7\/IMSLP139708-PMLP49630-Duphly_PiecesDeClavecin_3-03_LaMadin.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139709}});</script>
+</p>
+</div><div id="IMSLP139709" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139709"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La Forqueray</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/de/PMLP49630-Duphly_PiecesDeClavecin_3-04_LaForqueray.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-04 LaForqueray.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-04_LaForqueray.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-04 LaForqueray.mp3">#139709</a> - 9.89MB - 10:48<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139709' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139709'>
+	<a href='javascript:void(0)' id='139709' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139709' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139709' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139709' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139709' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139709'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139709/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139709/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139709" title="Special:GetFCtrStats/@139709">143</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139709'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139709":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/d\/de\/IMSLP139709-PMLP49630-Duphly_PiecesDeClavecin_3-04_LaForqueray.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139710}});</script>
+</p>
+</div><div id="IMSLP139710" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139710"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Chaconne</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f1/PMLP49630-Duphly_PiecesDeClavecin_3-05_Chaconne.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-05 Chaconne.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-05_Chaconne.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-05 Chaconne.mp3">#139710</a> - 15.69MB - 17:08<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139710' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139710'>
+	<a href='javascript:void(0)' id='139710' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139710' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139710' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139710' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139710' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139710'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139710/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139710/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139710" title="Special:GetFCtrStats/@139710">122</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139710'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139710":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/f\/f1\/IMSLP139710-PMLP49630-Duphly_PiecesDeClavecin_3-05_Chaconne.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139711}});</script>
+</p>
+</div><div id="IMSLP139711" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139711"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Médée</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3d/PMLP49630-Duphly_PiecesDeClavecin_3-06_Medee.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-06 Medee.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-06_Medee.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-06 Medee.mp3">#139711</a> - 10.02MB - 10:56<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139711' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139711'>
+	<a href='javascript:void(0)' id='139711' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139711' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139711' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139711' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139711' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139711'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139711/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139711/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139711" title="Special:GetFCtrStats/@139711">119</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139711'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139711":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/3\/3d\/IMSLP139711-PMLP49630-Duphly_PiecesDeClavecin_3-06_Medee.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139712}});</script>
+</p>
+</div><div id="IMSLP139712" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139712"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Les Graces</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9a/PMLP49630-Duphly_PiecesDeClavecin_3-07_LesGraces.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-07 LesGraces.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-07_LesGraces.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-07 LesGraces.mp3">#139712</a> - 8.41MB - 9:11<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139712' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139712'>
+	<a href='javascript:void(0)' id='139712' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139712' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139712' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139712' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139712' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139712'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139712/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139712/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139712" title="Special:GetFCtrStats/@139712">89</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139712'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139712":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/petrucci.mus.auth.gr\/imglnks\/usimg\/9\/9a\/IMSLP139712-PMLP49630-Duphly_PiecesDeClavecin_3-07_LesGraces.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139713}});</script>
+</p>
+</div><div id="IMSLP139713" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139713"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Belombre</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/80/PMLP49630-Duphly_PiecesDeClavecin_3-08_LaDeBelombre.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-08 LaDeBelombre.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-08_LaDeBelombre.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-08 LaDeBelombre.mp3">#139713</a> - 11.75MB - 12:50<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139713' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139713'>
+	<a href='javascript:void(0)' id='139713' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139713' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139713' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139713' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139713' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139713'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139713/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139713/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139713" title="Special:GetFCtrStats/@139713">75</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139713'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139713":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/conquest.imslp.info\/files\/imglnks\/usimg\/8\/80\/IMSLP139713-PMLP49630-Duphly_PiecesDeClavecin_3-08_LaDeBelombre.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139714}});</script>
+</p>
+</div><div id="IMSLP139714" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139714"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Menuets</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4b/PMLP49630-Duphly_PiecesDeClavecin_3-09_Menuets.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-09 Menuets.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-09_Menuets.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-09 Menuets.mp3">#139714</a> - 7.51MB - 8:12<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139714' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139714'>
+	<a href='javascript:void(0)' id='139714' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139714' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139714' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139714' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139714' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139714'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139714/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139714/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139714" title="Special:GetFCtrStats/@139714">62</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139714'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139714":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.imslp.info\/files\/imglnks\/usimg\/4\/4b\/IMSLP139714-PMLP49630-Duphly_PiecesDeClavecin_3-09_Menuets.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139726}});</script>
+</p>
+</div><div id="IMSLP139726" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139726"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Casaubon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/78/PMLP49630-Duphly_PiecesDeClavecin_3-10_LaDeCasaubon.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-10 LaDeCasaubon.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-10_LaDeCasaubon.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-10 LaDeCasaubon.mp3">#139726</a> - 11.35MB - 12:23<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139726' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139726'>
+	<a href='javascript:void(0)' id='139726' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139726' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139726' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139726' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139726' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139726'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139726/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139726/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139726" title="Special:GetFCtrStats/@139726">80</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139726'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139726":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/7\/78\/IMSLP139726-PMLP49630-Duphly_PiecesDeClavecin_3-10_LaDeCasaubon.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139727}});</script>
+</p>
+</div><div id="IMSLP139727" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139727"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Tailly</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/44/PMLP49630-Duphly_PiecesDeClavecin_3-11_LaDeTailly.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-11 LaDeTailly.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-11_LaDeTailly.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-11 LaDeTailly.mp3">#139727</a> - 10.72MB - 11:42<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139727' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139727'>
+	<a href='javascript:void(0)' id='139727' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139727' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139727' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139727' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139727' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139727'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139727/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139727/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139727" title="Special:GetFCtrStats/@139727">65</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139727'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139727":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/4\/44\/IMSLP139727-PMLP49630-Duphly_PiecesDeClavecin_3-11_LaDeTailly.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139728}});</script>
+</p>
+</div><div id="IMSLP139728" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139728"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Valmallette</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5f/PMLP49630-Duphly_PiecesDeClavecin_3-12_LaDeValmallette.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-12 LaDeValmallette.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-12_LaDeValmallette.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-12 LaDeValmallette.mp3">#139728</a> - 10.17MB - 11:06<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139728' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139728'>
+	<a href='javascript:void(0)' id='139728' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139728' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139728' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139728' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139728' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139728'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139728/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139728/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139728" title="Special:GetFCtrStats/@139728">65</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139728'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139728":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/5\/5f\/IMSLP139728-PMLP49630-Duphly_PiecesDeClavecin_3-12_LaDeValmallette.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139729}});</script>
+</p>
+</div><div id="IMSLP139729" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139729"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de la Tour</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b3/PMLP49630-Duphly_PiecesDeClavecin_3-13_LaDeLaTour.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-13 LaDeLaTour.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-13_LaDeLaTour.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-13 LaDeLaTour.mp3">#139729</a> - 7.79MB - 8:30<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139729' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139729'>
+	<a href='javascript:void(0)' id='139729' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139729' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139729' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139729' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139729' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139729'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139729/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139729/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139729" title="Special:GetFCtrStats/@139729">55</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139729'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139729":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/b\/b3\/IMSLP139729-PMLP49630-Duphly_PiecesDeClavecin_3-13_LaDeLaTour.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139730}});</script>
+</p>
+</div><div id="IMSLP139730" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139730"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Guyon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/51/PMLP49630-Duphly_PiecesDeClavecin_3-14_LaDeGuyon.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-14 LaDeGuyon.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-14_LaDeGuyon.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-14 LaDeGuyon.mp3">#139730</a> - 6.85MB - 7:29<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139730' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139730'>
+	<a href='javascript:void(0)' id='139730' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139730' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139730' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139730' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139730' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139730'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139730/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139730/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139730" title="Special:GetFCtrStats/@139730">46</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139730'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139730":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/5\/51\/IMSLP139730-PMLP49630-Duphly_PiecesDeClavecin_3-14_LaDeGuyon.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139731}});</script>
+</p>
+</div><div id="IMSLP139731" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139731"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Menuets</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/07/PMLP49630-Duphly_PiecesDeClavecin_3-15_Menuets.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-15 Menuets.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-15_Menuets.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-15 Menuets.mp3">#139731</a> - 7.47MB - 8:09<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139731' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139731'>
+	<a href='javascript:void(0)' id='139731' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139731' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139731' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139731' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139731' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139731'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139731/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139731/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139731" title="Special:GetFCtrStats/@139731">51</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139731'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139731":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/0\/07\/IMSLP139731-PMLP49630-Duphly_PiecesDeClavecin_3-15_Menuets.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139732}});</script>
+</p>
+</div><div id="IMSLP139732" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139732"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Chamlay</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f8/PMLP49630-Duphly_PiecesDeClavecin_3-16_LaDeChamlay.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-16 LaDeChamlay.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-16_LaDeChamlay.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-16 LaDeChamlay.mp3">#139732</a> - 4.68MB - 5:06<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139732' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139732'>
+	<a href='javascript:void(0)' id='139732' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139732' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139732' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139732' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139732' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139732'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139732/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139732/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139732" title="Special:GetFCtrStats/@139732">55</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139732'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139732":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/imslp.nl\/imglnks\/usimg\/f\/f8\/IMSLP139732-PMLP49630-Duphly_PiecesDeClavecin_3-16_LaDeChamlay.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":139733}});</script>
+</p>
+</div><div id="IMSLP139733" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/139733"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>La de Villeneuve</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/43/PMLP49630-Duphly_PiecesDeClavecin_3-17_LaDeVilleneuve.mp3" class="internal" title="PMLP49630-Duphly PiecesDeClavecin 3-17 LaDeVilleneuve.mp3">*</a></span><a href="/wiki/File:PMLP49630-Duphly_PiecesDeClavecin_3-17_LaDeVilleneuve.mp3" title="File:PMLP49630-Duphly PiecesDeClavecin 3-17 LaDeVilleneuve.mp3">#139733</a> - 6.87MB - 7:30<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-139733' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-139733'>
+	<a href='javascript:void(0)' id='139733' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='139733' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='139733' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='139733' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='139733' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-139733'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/139733/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/139733/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@139733" title="Special:GetFCtrStats/@139733">53</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/index.php?title=User:Nakamira&amp;action=edit&amp;redlink=1" class="new" title="User:Nakamira (page does not exist)">Nakamira</a><span class="mh555"> (2011/10/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_139733'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"139733":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/4\/43\/IMSLP139733-PMLP49630-Duphly_PiecesDeClavecin_3-17_LaDeVilleneuve.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Nakamira
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Nakamira
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=139706/139707/139708/139709/139710/139711/139712/139713/139714/139726/139727/139728/139729/139730/139731/139732/139733">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=139706/139707/139708/139709/139710/139711/139712/139713/139714/139726/139727/139728/139729/139730/139731/139732/139733">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="139706">Javascript is required for this feature.</div><script>JGINITsearchbars['139706']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores and Parts (<span id="tabScore1_ct">28</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Other (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Source Files (<span id="tabScore4_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores_and_Parts">Scores and Parts</span></h3>
+<div class="we"><div id="IMSLP432974" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/432974"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score [colour</a></span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/18/PMLP49630-Duphly_-_Troisieme_Livre_-Lyon%2C_colour-.pdf" class="internal" title="PMLP49630-Duphly - Troisieme Livre -Lyon, colour-.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_-_Troisieme_Livre_-Lyon,_colour-.pdf" title="File:PMLP49630-Duphly - Troisieme Livre -Lyon, colour-.pdf">#432974</a> - <span style="color:red"><b>68.77</b></span>MB, 45 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-432974' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-432974'>
+	<a href='javascript:void(0)' id='432974' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='432974' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='432974' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='432974' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='432974' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-432974'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/432974/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/432974/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 30"><a href="/wiki/Special:GetFCtrStats/@432974" title="Special:GetFCtrStats/@432974">30</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by F-LYc<br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2016/8/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP432975" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/432975"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score [mono</a></span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/29/PMLP49630-Duphly_-_Troisieme_Livre_-Lyon%2C_BW-.pdf" class="internal" title="PMLP49630-Duphly - Troisieme Livre -Lyon, BW-.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_-_Troisieme_Livre_-Lyon,_BW-.pdf" title="File:PMLP49630-Duphly - Troisieme Livre -Lyon, BW-.pdf">#432975</a> - 2.78MB, 36 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-432975' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-432975'>
+	<a href='javascript:void(0)' id='432975' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='432975' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='432975' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='432975' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='432975' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-432975'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/432975/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/432975/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 46"><a href="/wiki/Special:GetFCtrStats/@432975" title="Special:GetFCtrStats/@432975">46</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by F-LYc<br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2016/8/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP76555" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/76555"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/PMLP49630-Duphly_-_Troisieme_Livre.pdf" class="internal" title="PMLP49630-Duphly - Troisieme Livre.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_-_Troisieme_Livre.pdf" title="File:PMLP49630-Duphly - Troisieme Livre.pdf">#76555</a> - 4.97MB, 36 (34) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-76555' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-76555'>
+	<a href='javascript:void(0)' id='76555' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='76555' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='76555' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='76555' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='76555' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-76555'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/76555/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/76555/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2711"><a href="/wiki/Special:GetFCtrStats/@76555" title="Special:GetFCtrStats/@76555">2711</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2010/8/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Engraver
+</th>
+<td>Marie-Charlotte Vendôme
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Chez l'Auteur, Bayard, Le Clerc, Mlle Castagnerie, n.d.[1756]
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=432974/432975/76555">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=432974/432975/76555">del</a>/<span id="fmrglnk" data-pdfstr="432974//432975//76555/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990015553&amp;db=251&amp;View=rism&amp;Language=en">RISM A/I: D 3840</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="432974">Javascript is required for this feature.</div><script>JGINITsearchbars['432974']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=432974|432975|76555&type=Complete%20Score%20%5Bcolour%5D%7CComplete%20Score%20%5Bmono%5D%7CComplete%20Score&pgcount=45|36|36&signature=fb2226c13387f1431d83aff6810b5cae66ce57db"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP49630-Duphly_-_Troisieme_Livre_-Lyon,_colour-.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/18/6599f9fe097bc2003807d1a47ee36e4999db6b4a.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP379543" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/379543"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/64/PMLP49630-Duphly_Livre_III.pdf" class="internal" title="PMLP49630-Duphly Livre III.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_Livre_III.pdf" title="File:PMLP49630-Duphly Livre III.pdf">#379543</a> - 1.78MB, 62 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-379543' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-379543'>
+	<a href='javascript:void(0)' id='379543' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='379543' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='379543' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='379543' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='379543' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-379543'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/379543/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/379543/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 800"><a href="/wiki/Special:GetFCtrStats/@379543" title="Special:GetFCtrStats/@379543">800</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2015/5/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP379544" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/379544"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/ba/PMLP49630-Duphly_Livre_III_Violon.pdf" class="internal" title="PMLP49630-Duphly Livre III Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_Livre_III_Violon.pdf" title="File:PMLP49630-Duphly Livre III Violon.pdf">#379544</a> - 0.35MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-379544' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-379544'>
+	<a href='javascript:void(0)' id='379544' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='379544' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='379544' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='379544' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='379544' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-379544'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/379544/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/379544/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 206"><a href="/wiki/Special:GetFCtrStats/@379544" title="Special:GetFCtrStats/@379544">206</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2015/5/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2010
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=379543/379544">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=379543/379544">del</a>/<span id="fmrglnk" data-pdfstr="379543//379544/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="379543">Javascript is required for this feature.</div><script>JGINITsearchbars['379543']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP49630-Duphly_Livre_III.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/64/ab218763415d7a79720d913104b9865141dc4829.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP127316" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127316"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Ouverture (avec violon)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9b/PMLP49630-Duphly_L_3.01a_Ouverture.pdf" class="internal" title="PMLP49630-Duphly L 3.01a Ouverture.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.01a_Ouverture.pdf" title="File:PMLP49630-Duphly L 3.01a Ouverture.pdf">#127316</a> - 0.14MB, 4 (#104-07) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127316' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127316'>
+	<a href='javascript:void(0)' id='127316' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127316' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127316' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127316' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127316' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127316'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127316/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127316/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 707"><a href="/wiki/Special:GetFCtrStats/@127316" title="Special:GetFCtrStats/@127316">707</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>16 more</u>:</b> 2. La de May (avec violon) • 3. La Madin (avec violon) • 4. La Forqueray • 5. Chaconne • 6. Médée • 7. Les Grâces • 8. La de Belombre • 9. Menuets • 10. La de Casaubon (avec violon) • 11. La du Tailly (avec violon) • 12. La de Valmallette (avec violon) • 13. La de la Tour • 14. La de Guyon • 15. Menuets • 16. La de Chamlay • 17. La de Villeneuve
+</p>
+</div><div id="IMSLP127317" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127317"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. La de May (avec violon)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/17/PMLP49630-Duphly_L_3.02a_La_de_May.pdf" class="internal" title="PMLP49630-Duphly L 3.02a La de May.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.02a_La_de_May.pdf" title="File:PMLP49630-Duphly L 3.02a La de May.pdf">#127317</a> - 0.09MB, 2 (#108-09) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127317' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127317'>
+	<a href='javascript:void(0)' id='127317' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127317' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127317' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127317' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127317' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127317'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127317/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127317/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 472"><a href="/wiki/Special:GetFCtrStats/@127317" title="Special:GetFCtrStats/@127317">472</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127318" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127318"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. La Madin (avec violon)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f6/PMLP49630-Duphly_L_3.03a_La_Madin.pdf" class="internal" title="PMLP49630-Duphly L 3.03a La Madin.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.03a_La_Madin.pdf" title="File:PMLP49630-Duphly L 3.03a La Madin.pdf">#127318</a> - 0.12MB, 4 (#110-13) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127318' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127318'>
+	<a href='javascript:void(0)' id='127318' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127318' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127318' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127318' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127318' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127318'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127318/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127318/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 449"><a href="/wiki/Special:GetFCtrStats/@127318" title="Special:GetFCtrStats/@127318">449</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127319" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127319"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. La Forqueray</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/15/PMLP49630-Duphly_L_3.04_La_Forqueray.pdf" class="internal" title="PMLP49630-Duphly L 3.04 La Forqueray.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.04_La_Forqueray.pdf" title="File:PMLP49630-Duphly L 3.04 La Forqueray.pdf">#127319</a> - 0.10MB, 4 (#114-17) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127319' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127319'>
+	<a href='javascript:void(0)' id='127319' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127319' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127319' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127319' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127319' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127319'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127319/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127319/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1869"><a href="/wiki/Special:GetFCtrStats/@127319" title="Special:GetFCtrStats/@127319">1869</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2014/11/28" class="hovertext">2011/9/21</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127320" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127320"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Chaconne</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/01/PMLP49630-Duphly_L_3.05_Chaconne.pdf" class="internal" title="PMLP49630-Duphly L 3.05 Chaconne.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.05_Chaconne.pdf" title="File:PMLP49630-Duphly L 3.05 Chaconne.pdf">#127320</a> - 0.21MB, 10 (#118-27) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127320' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127320'>
+	<a href='javascript:void(0)' id='127320' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127320' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127320' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127320' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127320' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127320'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127320/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127320/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1459"><a href="/wiki/Special:GetFCtrStats/@127320" title="Special:GetFCtrStats/@127320">1459</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127321" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127321"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Médée</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/ba/PMLP49630-Duphly_L_3.06_Medee.pdf" class="internal" title="PMLP49630-Duphly L 3.06 Medee.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.06_Medee.pdf" title="File:PMLP49630-Duphly L 3.06 Medee.pdf">#127321</a> - 0.13MB, 5 (#128-32) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127321' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127321'>
+	<a href='javascript:void(0)' id='127321' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127321' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127321' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127321' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127321' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127321'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127321/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127321/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1189"><a href="/wiki/Special:GetFCtrStats/@127321" title="Special:GetFCtrStats/@127321">1189</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127322" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127322"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Les Grâces</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1d/PMLP49630-Duphly_L_3.07_Les_Graces.pdf" class="internal" title="PMLP49630-Duphly L 3.07 Les Graces.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.07_Les_Graces.pdf" title="File:PMLP49630-Duphly L 3.07 Les Graces.pdf">#127322</a> - 0.11MB, 3 (#133-35) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127322' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127322'>
+	<a href='javascript:void(0)' id='127322' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127322' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127322' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127322' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127322' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127322'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127322/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127322/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 901"><a href="/wiki/Special:GetFCtrStats/@127322" title="Special:GetFCtrStats/@127322">901</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127323" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127323"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>8. La de Belombre</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/62/PMLP49630-Duphly_L_3.08_La_de_Belombre.pdf" class="internal" title="PMLP49630-Duphly L 3.08 La de Belombre.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.08_La_de_Belombre.pdf" title="File:PMLP49630-Duphly L 3.08 La de Belombre.pdf">#127323</a> - 0.10MB, 4 (#136-39) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127323' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127323'>
+	<a href='javascript:void(0)' id='127323' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127323' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127323' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127323' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127323' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127323'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127323/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127323/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 762"><a href="/wiki/Special:GetFCtrStats/@127323" title="Special:GetFCtrStats/@127323">762</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127324" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127324"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>9. Menuets</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/67/PMLP49630-Duphly_L_3.09_Menuets_1.pdf" class="internal" title="PMLP49630-Duphly L 3.09 Menuets 1.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.09_Menuets_1.pdf" title="File:PMLP49630-Duphly L 3.09 Menuets 1.pdf">#127324</a> - 0.07MB, 2 (#140-41) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127324' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127324'>
+	<a href='javascript:void(0)' id='127324' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127324' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127324' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127324' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127324' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127324'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127324/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127324/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 430"><a href="/wiki/Special:GetFCtrStats/@127324" title="Special:GetFCtrStats/@127324">430</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127325" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127325"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>10. La de Casaubon (avec violon)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c9/PMLP49630-Duphly_L_3.10a_La_de_Casaubon.pdf" class="internal" title="PMLP49630-Duphly L 3.10a La de Casaubon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.10a_La_de_Casaubon.pdf" title="File:PMLP49630-Duphly L 3.10a La de Casaubon.pdf">#127325</a> - 0.13MB, 6 (#142-47) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127325' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127325'>
+	<a href='javascript:void(0)' id='127325' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127325' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127325' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127325' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127325' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127325'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127325/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127325/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 437"><a href="/wiki/Special:GetFCtrStats/@127325" title="Special:GetFCtrStats/@127325">437</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127326" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127326"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>11. La du Tailly (avec violon)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b0/PMLP49630-Duphly_L_3.11a_La_Du_Tailly.pdf" class="internal" title="PMLP49630-Duphly L 3.11a La Du Tailly.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.11a_La_Du_Tailly.pdf" title="File:PMLP49630-Duphly L 3.11a La Du Tailly.pdf">#127326</a> - 0.11MB, 4 (#148-51) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127326' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127326'>
+	<a href='javascript:void(0)' id='127326' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127326' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127326' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127326' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127326' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127326'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127326/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127326/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 422"><a href="/wiki/Special:GetFCtrStats/@127326" title="Special:GetFCtrStats/@127326">422</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127327" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127327"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>12. La de Valmallette (avec violon)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/76/PMLP49630-Duphly_L_3.12a_La_de_Valmallette.pdf" class="internal" title="PMLP49630-Duphly L 3.12a La de Valmallette.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.12a_La_de_Valmallette.pdf" title="File:PMLP49630-Duphly L 3.12a La de Valmallette.pdf">#127327</a> - 0.11MB, 4 (#152-55) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127327' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127327'>
+	<a href='javascript:void(0)' id='127327' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127327' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127327' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127327' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127327' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127327'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127327/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127327/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 385"><a href="/wiki/Special:GetFCtrStats/@127327" title="Special:GetFCtrStats/@127327">385</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127328" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127328"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>13. La de la Tour</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0b/PMLP49630-Duphly_L_3.13_La_de_La_Tour.pdf" class="internal" title="PMLP49630-Duphly L 3.13 La de La Tour.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.13_La_de_La_Tour.pdf" title="File:PMLP49630-Duphly L 3.13 La de La Tour.pdf">#127328</a> - 0.09MB, 2 (#156-57) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127328' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127328'>
+	<a href='javascript:void(0)' id='127328' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127328' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127328' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127328' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127328' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127328'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127328/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127328/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 454"><a href="/wiki/Special:GetFCtrStats/@127328" title="Special:GetFCtrStats/@127328">454</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127329" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127329"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>14. La de Guyon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5d/PMLP49630-Duphly_L_3.14_La_de_Guyon.pdf" class="internal" title="PMLP49630-Duphly L 3.14 La de Guyon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.14_La_de_Guyon.pdf" title="File:PMLP49630-Duphly L 3.14 La de Guyon.pdf">#127329</a> - 0.09MB, 2 (#158-59) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127329' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127329'>
+	<a href='javascript:void(0)' id='127329' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127329' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127329' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127329' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127329' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127329'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127329/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127329/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 403"><a href="/wiki/Special:GetFCtrStats/@127329" title="Special:GetFCtrStats/@127329">403</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127330" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127330"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>15. Menuets</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e2/PMLP49630-Duphly_L_3.15_Menuets_2.pdf" class="internal" title="PMLP49630-Duphly L 3.15 Menuets 2.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.15_Menuets_2.pdf" title="File:PMLP49630-Duphly L 3.15 Menuets 2.pdf">#127330</a> - 0.09MB, 2 (#160-61) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127330' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127330'>
+	<a href='javascript:void(0)' id='127330' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127330' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127330' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127330' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127330' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127330'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127330/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127330/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 377"><a href="/wiki/Special:GetFCtrStats/@127330" title="Special:GetFCtrStats/@127330">377</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127331" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127331"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>16. La de Chamlay</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/43/PMLP49630-Duphly_L_3.16_La_de_Chamlay.pdf" class="internal" title="PMLP49630-Duphly L 3.16 La de Chamlay.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.16_La_de_Chamlay.pdf" title="File:PMLP49630-Duphly L 3.16 La de Chamlay.pdf">#127331</a> - 0.08MB, 2 (#162-63) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127331' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127331'>
+	<a href='javascript:void(0)' id='127331' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127331' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127331' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127331' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127331' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127331'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127331/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127331/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 443"><a href="/wiki/Special:GetFCtrStats/@127331" title="Special:GetFCtrStats/@127331">443</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127332" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127332"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>17. La de Villeneuve</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/PMLP49630-Duphly_L_3.17_La_de_Villeneuve.pdf" class="internal" title="PMLP49630-Duphly L 3.17 La de Villeneuve.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.17_La_de_Villeneuve.pdf" title="File:PMLP49630-Duphly L 3.17 La de Villeneuve.pdf">#127332</a> - 0.09MB, 2 (#164-65) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127332' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127332'>
+	<a href='javascript:void(0)' id='127332' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127332' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127332' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127332' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127332' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127332'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127332/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127332/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 435"><a href="/wiki/Special:GetFCtrStats/@127332" title="Special:GetFCtrStats/@127332">435</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2010.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=127316/127317/127318/127319/127320/127321/127322/127323/127324/127325/127326/127327/127328/127329/127330/127331/127332">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=127316/127317/127318/127319/127320/127321/127322/127323/127324/127325/127326/127327/127328/127329/127330/127331/127332">del</a>/<span id="fmrglnk" data-pdfstr="127316//127317//127318//127319//127320//127321//127322//127323//127324//127325//127326//127327//127328//127329//127330//127331//127332/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Revised urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="127316">Javascript is required for this feature.</div><script>JGINITsearchbars['127316']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP49630-Duphly_L_3.01a_Ouverture.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/9b/45fa5ebf03809999444ee1412e3df5963acf8adf.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP127333" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127333"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1b. Ouverture - Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8d/PMLP49630-Duphly_L_3.01b_Ouverture_Violon.pdf" class="internal" title="PMLP49630-Duphly L 3.01b Ouverture Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.01b_Ouverture_Violon.pdf" title="File:PMLP49630-Duphly L 3.01b Ouverture Violon.pdf">#127333</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127333' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127333'>
+	<a href='javascript:void(0)' id='127333' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127333' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127333' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127333' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127333' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127333'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127333/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127333/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 182"><a href="/wiki/Special:GetFCtrStats/@127333" title="Special:GetFCtrStats/@127333">182</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_5" data-block="5">
+<p><b>⇒ <u>5 more</u>:</b> 2b. La de May - Violin part • 3b. La Madin - Violin part • 10b. La de Casaubon - Violin part • 11b. La du Tailly - Violin part • 12b. La de Valmallette - Violin part
+</p>
+</div><div id="IMSLP127334" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127334"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2b. La de May - Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c4/PMLP49630-Duphly_L_3.02b_La_de_May_Violon.pdf" class="internal" title="PMLP49630-Duphly L 3.02b La de May Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.02b_La_de_May_Violon.pdf" title="File:PMLP49630-Duphly L 3.02b La de May Violon.pdf">#127334</a> - 0.06MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127334' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127334'>
+	<a href='javascript:void(0)' id='127334' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127334' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127334' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127334' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127334' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127334'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127334/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127334/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 131"><a href="/wiki/Special:GetFCtrStats/@127334" title="Special:GetFCtrStats/@127334">131</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127335" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127335"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3b. La Madin - Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6a/PMLP49630-Duphly_L_3.03b_La_Madin_Violon.pdf" class="internal" title="PMLP49630-Duphly L 3.03b La Madin Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.03b_La_Madin_Violon.pdf" title="File:PMLP49630-Duphly L 3.03b La Madin Violon.pdf">#127335</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127335' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127335'>
+	<a href='javascript:void(0)' id='127335' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127335' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127335' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127335' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127335' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127335'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127335/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127335/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 127"><a href="/wiki/Special:GetFCtrStats/@127335" title="Special:GetFCtrStats/@127335">127</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127336" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127336"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>10b. La de Casaubon - Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0f/PMLP49630-Duphly_L_3.10b_La_de_Casaubon_Violon.pdf" class="internal" title="PMLP49630-Duphly L 3.10b La de Casaubon Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.10b_La_de_Casaubon_Violon.pdf" title="File:PMLP49630-Duphly L 3.10b La de Casaubon Violon.pdf">#127336</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127336' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127336'>
+	<a href='javascript:void(0)' id='127336' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127336' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127336' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127336' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127336' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127336'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127336/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127336/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 127"><a href="/wiki/Special:GetFCtrStats/@127336" title="Special:GetFCtrStats/@127336">127</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127337" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127337"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>11b. La du Tailly - Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dd/PMLP49630-Duphly_L_3.11b_La_Du_Tailly_Violon.pdf" class="internal" title="PMLP49630-Duphly L 3.11b La Du Tailly Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.11b_La_Du_Tailly_Violon.pdf" title="File:PMLP49630-Duphly L 3.11b La Du Tailly Violon.pdf">#127337</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127337' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127337'>
+	<a href='javascript:void(0)' id='127337' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127337' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127337' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127337' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127337' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127337'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127337/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127337/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 122"><a href="/wiki/Special:GetFCtrStats/@127337" title="Special:GetFCtrStats/@127337">122</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP127338" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/127338"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>12b. La de Valmallette - Violin part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/73/PMLP49630-Duphly_L_3.12b_La_de_Valmallette_Violon.pdf" class="internal" title="PMLP49630-Duphly L 3.12b La de Valmallette Violon.pdf">*</a></span><a href="/wiki/File:PMLP49630-Duphly_L_3.12b_La_de_Valmallette_Violon.pdf" title="File:PMLP49630-Duphly L 3.12b La de Valmallette Violon.pdf">#127338</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-127338' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-127338'>
+	<a href='javascript:void(0)' id='127338' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='127338' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='127338' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='127338' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='127338' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-127338'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/127338/Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)" title="Special:IMSLPEditCTag/127338/Pièces de clavecin, Livre 3 (Du Phly, Jacques)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 127"><a href="/wiki/Special:GetFCtrStats/@127338" title="Special:GetFCtrStats/@127338">127</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2011/9/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2010.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=127333/127334/127335/127336/127337/127338">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=127333/127334/127335/127336/127337/127338">del</a>/<span id="fmrglnk" data-pdfstr="127333//127334//127335//127336//127337//127338/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Revised urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="127333">Javascript is required for this feature.</div><script>JGINITsearchbars['127333']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP49630-Duphly_L_3.01b_Ouverture_Violon.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8d/2e09eb74f2c437b3b8822e5a0322fac8fcc89c07.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores and Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Other" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="source" data-name="Source Files" data-tabid="tabScore4"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Pièces de clavecin, Livre 3
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Troisième livre de pièces de clavecin
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Du_Phly,_Jacques" title="Category:Du Phly, Jacques">Du Phly, Jacques</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>RISM A/I: D 3840
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>17 pieces
+<dl><dd>1. Ouverture (avec violon)
+</dd><dd>2. La de May (avec violon)
+</dd><dd>3. La Madin (avec violon)
+</dd><dd>4. La Forqueray
+</dd><dd>5. Chaconne
+</dd><dd>6. Médée
+</dd><dd>7. Les Grâces
+</dd><dd>8. La de Belombre
+</dd><dd>9. Menuets
+</dd><dd>10. La de Casaubon (avec violon)
+</dd><dd>11. La du Tailly (avec violon)
+</dd><dd>12. La de Valmallette (avec violon)
+</dd><dd>13. La de la Tour
+</dd><dd>14. La de Guyon
+</dd><dd>15. Menuets
+</dd><dd>16. La de Chamlay
+</dd><dd>17. La de Villeneuve
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1756 - <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990015553&amp;db=251&amp;View=rism&amp;Language=en">Paris: L'auteur; Bayard; Le Clerc; Mlle Castagnery</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>harpsichord; harpsichord and violin (6 pieces)
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1267/1000000
+Post-expand include size: 137989/2097152 bytes
+Template argument size: 241/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:703788-0!*!0!!en!2!* and timestamp 20180415011420 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)&amp;oldid=2140273">http://imslp.org/index.php?title=Pi%C3%A8ces_de_clavecin,_Livre_3_(Du_Phly,_Jacques)&amp;oldid=2140273</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_RISM_citations" title="Category:Pages with RISM citations">Pages with RISM citations</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Du_Phly,_Jacques/Collections" title="Category:Du Phly, Jacques/Collections">Du Phly, Jacques/Collections</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_harpsichord" title="Category:For harpsichord">For harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_violin,_harpsichord" title="Category:For violin, harpsichord">For violin, harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Works_first_published_in_1756" title="Category:Works first published in 1756">Works first published in 1756</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Pi%C3%A8ces_de_clavecin%2C_Livre_3_%28Du_Phly%2C_Jacques%29">2,984 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Pi%C3%A8ces%20de%20clavecin%2C%20Livre%203%20%28Du%20Phly%2C%20Jacques%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.749 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415011420 -->
+</html>
+		

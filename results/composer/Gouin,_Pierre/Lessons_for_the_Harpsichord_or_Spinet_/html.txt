@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Lessons for the Harpsichord or Spinet (Loeillet, John) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)", "wgTitle": "Lessons for the Harpsichord or Spinet (Loeillet, John)", "wgCurRevisionId": 2460655, "wgArticleId": 11599, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Oesterle, Louis/Editor", "Scores published by Chappell", "Scores published by Schirmer", "Roose, Patrick/Editor", "Ellis, Shane/Editor", "Gouin, Pierre/Editor", "WIMA files", "Ludenhoff, Martin/Arranger", "Work pages with links to recordings", "Scores", "Loeillet, John/Collections", "Baroque style", "Baroque", "Lessons", "For harpsichord", "Scores featuring the harpsichord", "For 1 player", "For 2 guitars (arr)", "For 2 players", "Scores featuring the guitar", "Pages with arrangements", "Works first published in 1712", "Works first published in the 18th century", "Misattributed works"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lessons_for_the_Harpsichord_or_Spinet_Loeillet_John action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)&amp;oldid=2460655" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Lessons%20for%20the%20Harpsichord%20or%20Spinet%20%28Loeillet%2C%20John%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Lessons for the Harpsichord or Spinet (Loeillet, John)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div><table style="padding:0.25em; margin-left:auto; margin-right:auto; background-color:rgb(238,232,170); width:65%; border:1px solid #a3bfb1"><tr><td align="center"><b>Authorship Note</b><br />Some of these works were formerly attributed to <b><a href="/wiki/Category:Lully,_Jean-Baptiste" title="Category:Lully, Jean-Baptiste">Jean-Baptiste Lully</a></b> (1632–1687)</td></tr></table></div>
+<div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>13 pieces in 3 lessons
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1712 (?)
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Lessons&amp;transclude=Template:Catintro">Lessons</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_harpsichord&amp;transclude=Template:Catintro">For harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span>; <span class="expandline" title="4 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_guitars_%28arr%29&amp;transclude=Template:Catintro">For 2 guitars (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Lessons for the Harpsichord or Spinet","composer":"Loeillet, John","comphref":"\/wiki\/Category:Loeillet,_John"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":false,"amarec":"lessons for the harpsichord or spinet","itunes":"lessons for the harpsichord or spinet","composer":"loeillet","scorekeywords":"lessons for the harpsichord or spinet","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="";JGaskdonation=0;JGFileTools={"10345":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=10345"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP10345"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/10345"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/10345"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2310345"}},"4717":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4717"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4717\/4718\/4719\/4720\/4721\/27cb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04717"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4717"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4717"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304717"}},"4718":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4718"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4717\/4718\/4719\/4720\/4721\/27cb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04718"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4718"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4718"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304718"}},"4719":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4719"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4717\/4718\/4719\/4720\/4721\/27cb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04719"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4719"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4719"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304719"}},"4720":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4720"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4717\/4718\/4719\/4720\/4721\/27cb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04720"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4720"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4720"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304720"}},"4721":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4721"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4717\/4718\/4719\/4720\/4721\/27cb"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04721"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4721"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4721"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304721"}},"312964":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=312964"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP312964"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/312964"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/312964"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%23312964"}},"4722":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4722"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4722\/4723\/4724\/4725\/4726\/b5c8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04722"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4722"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4722"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304722"}},"4723":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4723"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4722\/4723\/4724\/4725\/4726\/b5c8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04723"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4723"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4723"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304723"}},"4724":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4724"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4722\/4723\/4724\/4725\/4726\/b5c8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04724"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4724"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4724"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304724"}},"4725":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4725"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4722\/4723\/4724\/4725\/4726\/b5c8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04725"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4725"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4725"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304725"}},"4726":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4726"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4722\/4723\/4724\/4725\/4726\/b5c8"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04726"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4726"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4726"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304726"}},"142046":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=142046"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP142046"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/142046"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/142046"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%23142046"}},"4727":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4727"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4727\/4728\/4729\/152d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04727"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4727"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4727"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304727"}},"4728":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4728"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4727\/4728\/4729\/152d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04728"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4728"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4728"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304728"}},"4729":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=4729"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/4727\/4728\/4729\/152d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP04729"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/4729"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/4729"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%2304729"}},"178267":{"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP178267"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/178267"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%23178267"}},"259415":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=259415"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP259415"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/259415"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/259415"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Lessons+for+the+Harpsichord+or+Spinet+%28Loeillet%2C+John%29&frmTitle=IMSLP+%23259415"}}};JGFileOpts={"10345":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg3k3O5Fhd5kGXhzS+4JQICEaPU2q16UZ7fQoQ4WlSaWMlTbH0ZktLmLaxdPAsb4Iyu4stcnN2646s2bC3wm526GHmq5xGJLRqyJy6DS099Lg=="},"4717":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biEmrQSI+UjTUeAk4tlV6g2ztpxFPZb\/6p9nBLmMGYIvZ8fNxtMHMyh0U3QHyOxh88="},"4718":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bia4g6ekz4POwbXX0l17dRjcQEWQDth4BpW+N7YkoC0hXtc48yGIszraI+AqnTmPHg="},"4719":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg3JAKBXeSU8NKjnePBmFyRU+d71MFuks48mEqRI2lBvm8evwy+jKmhOAhQ4jPDnBk="},"4720":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi2LAsxC4\/oMY\/b5E3kbX1CKdMyJgT7Wvu7o4KrcKS5KhimOPV67b1wJT94Mvn10yk="},"4721":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhfyzxWpz0ZklQIC+ou3h1d587kNZ1y6pQ7L2wGWJvSgIbDVGoB72YsnP6Z2vZ\/QO8="},"312964":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bia4g6ekz4POwbXX0l17dRjN6kdLH2ypuaIdh3CBWIIV1geTnhTPeg2JhBkHy\/devKJ\/U2\/zIDE0BTG8kfPesLK"},"4722":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj+8wl5aKhhkHE2JqkCLzeIb\/jt7Q67zpqaYwKr1WJiE5oyaxxtUHVMcDnRUJkm+vY="},"4723":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhcfDqcDaCOvu4ODNonJCXPq4eZ8aRZiTITkW+XteeFHN+f+2S9U3zhIQOkq0xOp7M="},"4724":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhz\/8yZJmbRE+NrYM0U4UN5xS8VvMMLrKjMwWBfYoONO7w19SumKyvYjNT7sqsaa14="},"4725":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh\/yjRjR7xH+WBb58j5doVaxEiR58iOzsIaBYEEnqaMbe3nQWCndqX8G9Xu1KZe8As="},"4726":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnY+rygu7Aorp6bVgTnGakCY3hg5a9LJOSxT2LSaRVyN2vT8Cav2eoA3jhQTqu\/d0="},"142046":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhwYWwR1LbxLpGDGL5yIiSPOarQKDy1aYJ8J7R\/ar7mhelgaMr0qV67LdoalDpGU6zzYHZI6cuO9EJfddsH2eo2"},"4727":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh2PrN7TWH6LqGqNgBfwlvJ0J6tadM6CnN+fsixPwXB7vG9Dr6uJCzt535uOjP8fGU="},"4728":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi8DVUk\/M\/rapDyYvDhpBxaSwiF9pHMoK8OW5NwOsz7VoAKTfipGS7jSGq7KJmfyM8="},"4729":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgajqSAY02MwdUDMGJ4qPVHYdXoZsd1TxIpIy8wMiMKeghliNs4+IMNm+sHIPwRm+8="},"178267":[],"259415":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biXitqN++0BAARYotnyr+L7N1jF9ns0RZL9+Chl1pQGy6JMyw\/lfW\/eMQrfycyN\/Ap8u9y\/Pzdx0UMazLgxm0Nx"}};JGPageUntagged=false;JGPageTags=["lessons","hpd"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"4717":[10,"1"],"4718":[8,"3"],"4719":[7,"2"],"4720":[10,"2"],"4721":[10,"1"],"4722":[10,"2"],"4723":[9,"2"],"4724":[10,"1"],"4725":[10,"1"],"4726":[10,"1"],"4727":[10,"1"],"4728":[10,"2"],"4729":[10,"2"],"10345":[6,"2"],"312964":[0,0],"142046":[0,0],"178267":[0,0],"259415":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Selections"><span class="tocnumber">2.1.1</span> <span class="toctext">Selections</span></a></li>
+<li class="toclevel-3"><a href="#Lesson_I_in_E_minor"><span class="tocnumber">2.1.2</span> <span class="toctext">Lesson I in E minor</span></a></li>
+<li class="toclevel-3"><a href="#Lesson_II_in_D_major"><span class="tocnumber">2.1.3</span> <span class="toctext">Lesson II in D major</span></a></li>
+<li class="toclevel-3"><a href="#Lesson_III_in_G_minor"><span class="tocnumber">2.1.4</span> <span class="toctext">Lesson III in G minor</span></a></li>
+<li class="toclevel-3"><a href="#Engraving_Files_Lessons_I_-_III_.28Roose.29"><span class="tocnumber">2.1.5</span> <span class="toctext">Engraving Files Lessons I - III (Roose)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Lesson_I_in_E_minor_2"><span class="tocnumber">2.2.1</span> <span class="toctext">Lesson I in E minor</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Guitars_.28Ludenhoff.29"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For 2 Guitars (Ludenhoff)</span></a></li>
+<li class="toclevel-4"><a href="#For_Piano_solo_.28Godowsky.29"><span class="tocnumber">2.2.1.2</span> <span class="toctext">For Piano solo (Godowsky)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Free_Recordings"><span class="tocnumber">3</span> <span class="toctext">Free Recordings</span></a></li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">4</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">17</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">1</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<h4> <span class="mw-headline" id="Selections">Selections</span></h4>
+<div class="we"><div id="IMSLP10345" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/10345"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5 Pieces from Lessons I and II (Misattributed to Lully)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a3/Lully_-_Miscellaneous_Keyboard_Works.pdf" class="internal" title="Lully - Miscellaneous Keyboard Works.pdf">*</a></span><a href="/wiki/File:Lully_-_Miscellaneous_Keyboard_Works.pdf" title="File:Lully - Miscellaneous Keyboard Works.pdf">#10345</a> - 0.55MB, 12 (#95-106) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-10345' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-10345'>
+	<a href='javascript:void(0)' id='10345' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='10345' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='10345' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='10345' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='10345' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-10345'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/10345/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/10345/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 3067"><a href="/wiki/Special:GetFCtrStats/@10345" title="Special:GetFCtrStats/@10345">3067</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Jujimufu" title="User:Jujimufu">Jujimufu</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Jujimufu" title="User:Jujimufu">Jujimufu</a> (<span title="Updated: 2007/7/20" class="hovertext">2007/7/19</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Oesterle,_Louis" title="Category:Oesterle, Louis">Louis Oesterle</a> (1854–1932)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i><a href="/wiki/Early_Keyboard_Music_(Oesterle,_Louis)" title="Early Keyboard Music (Oesterle, Louis)">Early Keyboard Music</a></i>, Vol.1<br />London: <a href="/wiki/Chappell" title="Chappell">Chappell</a><!--ASL0-->, n.d.  <br />New York: <a href="/wiki/Schirmer" title="Schirmer">G. Schirmer</a><!--ASL1-->, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=10345">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=10345">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Air tendre (Lesson I: 2. Slow Aire)<br />Courante (Lesson I: 3. Corant)<br />Allemande (Lesson I: 1. Almand)<br />Sarabande (Lesson II: 3. Sarabande. Transposed from D major to C major)<br />Gigue (Lesson I: 5. Jigg)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="10345">Javascript is required for this feature.</div><script>JGINITsearchbars['10345']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Lully_-_Miscellaneous_Keyboard_Works.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a3/efe99f62e1056e15bbe0ad883b8a5e2c9fe4dd76.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Lesson_I_in_E_minor">Lesson I in E minor</span></h4>
+<div class="we"><div id="IMSLP04717" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04717"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Almand</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8b/Loealle.pdf" class="internal" title="Loealle.pdf">*</a></span><a href="/wiki/File:Loealle.pdf" title="File:Loealle.pdf">#04717</a> - 0.19MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4717' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4717'>
+	<a href='javascript:void(0)' id='4717' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4717' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4717' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4717' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4717' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4717'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04717/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04717/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1726"><a href="/wiki/Special:GetFCtrStats/@4717" title="Special:GetFCtrStats/@4717">1726</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>4 more</u>:</b> 2. Slow Aire • 3. Corant • 4. Minuet • 5. Jigg
+</p>
+</div><div id="IMSLP04718" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04718"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Slow Aire</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6f/Loeslow.pdf" class="internal" title="Loeslow.pdf">*</a></span><a href="/wiki/File:Loeslow.pdf" title="File:Loeslow.pdf">#04718</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4718' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4718'>
+	<a href='javascript:void(0)' id='4718' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4718' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4718' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4718' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4718' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4718'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04718/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04718/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1059"><a href="/wiki/Special:GetFCtrStats/@4718" title="Special:GetFCtrStats/@4718">1059</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04719" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04719"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Corant</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2a/Loecour.pdf" class="internal" title="Loecour.pdf">*</a></span><a href="/wiki/File:Loecour.pdf" title="File:Loecour.pdf">#04719</a> - 0.10MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4719' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4719'>
+	<a href='javascript:void(0)' id='4719' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4719' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4719' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4719' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4719' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4719'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04719/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04719/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1053"><a href="/wiki/Special:GetFCtrStats/@4719" title="Special:GetFCtrStats/@4719">1053</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04720" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04720"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Minuet</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/34/Loemenu.pdf" class="internal" title="Loemenu.pdf">*</a></span><a href="/wiki/File:Loemenu.pdf" title="File:Loemenu.pdf">#04720</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4720' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4720'>
+	<a href='javascript:void(0)' id='4720' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4720' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4720' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4720' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4720' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4720'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04720/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04720/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 819"><a href="/wiki/Special:GetFCtrStats/@4720" title="Special:GetFCtrStats/@4720">819</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04721" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04721"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Jigg</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fa/Loegigu.pdf" class="internal" title="Loegigu.pdf">*</a></span><a href="/wiki/File:Loegigu.pdf" title="File:Loegigu.pdf">#04721</a> - 0.15MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4721' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4721'>
+	<a href='javascript:void(0)' id='4721' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4721' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4721' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4721' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4721' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4721'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04721/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04721/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 812"><a href="/wiki/Special:GetFCtrStats/@4721" title="Special:GetFCtrStats/@4721">812</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Roose,_Patrick" title="Category:Roose, Patrick">Patrick Roose</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=4717/4718/4719/4720/4721">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=4717/4718/4719/4720/4721">del</a>/<span id="fmrglnk" data-pdfstr="4717//4718//4719//4720//4721/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Edited from the original printing kept at the Conservatoriumbibliotheek Brussels (catalogue B-Bc 14337)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="4717">Javascript is required for this feature.</div><script>JGINITsearchbars['4717']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Loealle.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8b/6416f926efcbca47430486064b231cb8eed865bc.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP312964" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/312964"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Gigue (Misattributed to Lully)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6f/PMLP505316-J_B_Lully_Gigue.pdf" class="internal" title="PMLP505316-J B Lully Gigue.pdf">*</a></span><a href="/wiki/File:PMLP505316-J_B_Lully_Gigue.pdf" title="File:PMLP505316-J B Lully Gigue.pdf">#312964</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-312964' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-312964'>
+	<a href='javascript:void(0)' id='312964' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='312964' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='312964' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='312964' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='312964' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-312964'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/312964/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/312964/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 620"><a href="/wiki/Special:GetFCtrStats/@312964" title="Special:GetFCtrStats/@312964">620</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Ssellis&amp;action=edit&amp;redlink=1" class="new" title="User:Ssellis (page does not exist)">Ssellis</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/index.php?title=User:Ssellis&amp;action=edit&amp;redlink=1" class="new" title="User:Ssellis (page does not exist)">Ssellis</a> (2014/1/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/index.php?title=Category:Ellis,_Shane&amp;action=edit&amp;redlink=1" class="new" title="Category:Ellis, Shane (page does not exist)">Shane Ellis</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Shane Ellis
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-ShareAlike_4.0" title="IMSLP:Creative Commons Attribution-ShareAlike 4.0">Creative Commons Attribution-ShareAlike 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=312964">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=312964">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Created with Sibelius 7.2
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="312964">Javascript is required for this feature.</div><script>JGINITsearchbars['312964']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP505316-J_B_Lully_Gigue.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6f/c5873677839639f9afbe0b80fc4b1c6dbb0fec7e.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Lesson_II_in_D_major">Lesson II in D major</span></h4>
+<div class="we"><div id="IMSLP04722" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04722"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Almand</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/57/Loealle2.pdf" class="internal" title="Loealle2.pdf">*</a></span><a href="/wiki/File:Loealle2.pdf" title="File:Loealle2.pdf">#04722</a> - 0.11MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4722' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4722'>
+	<a href='javascript:void(0)' id='4722' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4722' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4722' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4722' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4722' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4722'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04722/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04722/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 648"><a href="/wiki/Special:GetFCtrStats/@4722" title="Special:GetFCtrStats/@4722">648</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>4 more</u>:</b> 2. Corant • 3. Sarabande • 4. Gavotte • 5. Minuet Roundo
+</p>
+</div><div id="IMSLP04723" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04723"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Corant</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c4/Loecour2.pdf" class="internal" title="Loecour2.pdf">*</a></span><a href="/wiki/File:Loecour2.pdf" title="File:Loecour2.pdf">#04723</a> - 0.09MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4723' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4723'>
+	<a href='javascript:void(0)' id='4723' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4723' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4723' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4723' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4723' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4723'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04723/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04723/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 505"><a href="/wiki/Special:GetFCtrStats/@4723" title="Special:GetFCtrStats/@4723">505</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04724" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04724"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Sarabande</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a0/Loesara.pdf" class="internal" title="Loesara.pdf">*</a></span><a href="/wiki/File:Loesara.pdf" title="File:Loesara.pdf">#04724</a> - 0.06MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4724' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4724'>
+	<a href='javascript:void(0)' id='4724' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4724' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4724' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4724' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4724' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4724'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04724/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04724/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 552"><a href="/wiki/Special:GetFCtrStats/@4724" title="Special:GetFCtrStats/@4724">552</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04725" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04725"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Gavotte</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b6/Loegavo.pdf" class="internal" title="Loegavo.pdf">*</a></span><a href="/wiki/File:Loegavo.pdf" title="File:Loegavo.pdf">#04725</a> - 0.06MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4725' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4725'>
+	<a href='javascript:void(0)' id='4725' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4725' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4725' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4725' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4725' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4725'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04725/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04725/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 513"><a href="/wiki/Special:GetFCtrStats/@4725" title="Special:GetFCtrStats/@4725">513</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04726" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04726"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Minuet Roundo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/ff/Loemenurond.pdf" class="internal" title="Loemenurond.pdf">*</a></span><a href="/wiki/File:Loemenurond.pdf" title="File:Loemenurond.pdf">#04726</a> - 0.09MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4726' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4726'>
+	<a href='javascript:void(0)' id='4726' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4726' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4726' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4726' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4726' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4726'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04726/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04726/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 498"><a href="/wiki/Special:GetFCtrStats/@4726" title="Special:GetFCtrStats/@4726">498</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Roose,_Patrick" title="Category:Roose, Patrick">Patrick Roose</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=4722/4723/4724/4725/4726">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=4722/4723/4724/4725/4726">del</a>/<span id="fmrglnk" data-pdfstr="4722//4723//4724//4725//4726/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Edited from the original printing kept at the Conservatoriumbibliotheek Brussels (catalogue B-Bc 14337)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="4722">Javascript is required for this feature.</div><script>JGINITsearchbars['4722']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Loealle2.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/57/8edfc1d0a392814929c9deea245e1cb9854ce56d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP142046" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/142046"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Minuet Roundo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cb/PMLP267941-MM_03_Lully_Minuets.pdf" class="internal" title="PMLP267941-MM 03 Lully Minuets.pdf">*</a></span><a href="/wiki/File:PMLP267941-MM_03_Lully_Minuets.pdf" title="File:PMLP267941-MM 03 Lully Minuets.pdf">#142046</a> - 0.08MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-142046' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-142046'>
+	<a href='javascript:void(0)' id='142046' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='142046' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='142046' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='142046' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='142046' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-142046'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/142046/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/142046/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 809"><a href="/wiki/Special:GetFCtrStats/@142046" title="Special:GetFCtrStats/@142046">809</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">Pierre Gouin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Pierre Gouin</a> (<span title="Updated: 2015/6/15" class="hovertext">2011/10/28</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2005
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=142046">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=142046">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>From <i>The Modern Musick-Master</i>, VI. <i>The Harpsichord Illustrated and Improv’d</i> (1731).
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="142046">Javascript is required for this feature.</div><script>JGINITsearchbars['142046']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP267941-MM_03_Lully_Minuets.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/cb/a38c9c113979558ed78726eaf84f58c8711a12a4.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Lesson_III_in_G_minor">Lesson III in G minor</span></h4>
+<div class="we"><div id="IMSLP04727" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04727"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Aire</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6c/Loeair.pdf" class="internal" title="Loeair.pdf">*</a></span><a href="/wiki/File:Loeair.pdf" title="File:Loeair.pdf">#04727</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4727' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4727'>
+	<a href='javascript:void(0)' id='4727' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4727' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4727' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4727' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4727' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4727'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04727/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04727/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 666"><a href="/wiki/Special:GetFCtrStats/@4727" title="Special:GetFCtrStats/@4727">666</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04728" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04728"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Hornpipe</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/70/Loehorn.pdf" class="internal" title="Loehorn.pdf">*</a></span><a href="/wiki/File:Loehorn.pdf" title="File:Loehorn.pdf">#04728</a> - 0.05MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4728' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4728'>
+	<a href='javascript:void(0)' id='4728' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4728' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4728' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4728' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4728' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4728'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04728/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04728/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 541"><a href="/wiki/Special:GetFCtrStats/@4728" title="Special:GetFCtrStats/@4728">541</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP04729" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/04729"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Cibel</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/40/Loecibe.pdf" class="internal" title="Loecibe.pdf">*</a></span><a href="/wiki/File:Loecibe.pdf" title="File:Loecibe.pdf">#04729</a> - 0.08MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-4729' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-4729'>
+	<a href='javascript:void(0)' id='4729' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='4729' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='4729' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='4729' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='4729' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-4729'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/04729/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/04729/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 599"><a href="/wiki/Special:GetFCtrStats/@4729" title="Special:GetFCtrStats/@4729">599</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Mikimanson" title="User:Mikimanson">mikimanson</a> (<span title="Updated: 2007/3/31" class="hovertext">2007/3/30</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Roose,_Patrick" title="Category:Roose, Patrick">Patrick Roose</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=4727/4728/4729">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=4727/4728/4729">del</a>/<span id="fmrglnk" data-pdfstr="4727//4728//4729/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Edited from the original printing kept at the Conservatoriumbibliotheek Brussels (catalogue B-Bc 14337)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="4727">Javascript is required for this feature.</div><script>JGINITsearchbars['4727']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Loeair.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6c/dbe7f93d77fecb95d204a098888e77cc60dacbe9.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Engraving_Files_Lessons_I_-_III_.28Roose.29">Engraving Files Lessons I - III (Roose)</span></h4>
+<div class="we"><div id="IMSLP178267" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/178267"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/11/WIMA.59a3-Lessons.zip" class="internal" title="WIMA.59a3-Lessons.zip">*</a></span><a href="/wiki/File:WIMA.59a3-Lessons.zip" title="File:WIMA.59a3-Lessons.zip">#178267</a> - 0.64MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-178267' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-178267'>
+	<a href='javascript:void(0)' id='178267' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='178267' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='178267' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='178267' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='178267' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-178267'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/178267/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/178267/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 358"><a href="/wiki/Special:GetFCtrStats/@178267" title="Special:GetFCtrStats/@178267">358</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by Patrick Roose<br />
+<a href="/wiki/User:Wrshannon" title="User:Wrshannon">wrshannon</a> (<span title="Updated: 2012/2/13" class="hovertext">2012/2/12</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Roose,_Patrick" title="Category:Roose, Patrick">Patrick Roose</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Patrick Roose
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=178267">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=178267">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="178267">Javascript is required for this feature.</div><script>JGINITsearchbars['178267']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Lesson_I_in_E_minor_2">Lesson I in E minor</span></h4>
+<h5> <span class="mw-headline" id="For_2_Guitars_.28Ludenhoff.29">For 2 Guitars (Ludenhoff)</span></h5>
+<div class="we"><div id="IMSLP259415" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/259415"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Courante</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/80/PMLP420712-courante.pdf" class="internal" title="PMLP420712-courante.pdf">*</a></span><a href="/wiki/File:PMLP420712-courante.pdf" title="File:PMLP420712-courante.pdf">#259415</a> - 0.04MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-259415' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-259415'>
+	<a href='javascript:void(0)' id='259415' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='259415' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='259415' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='259415' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='259415' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-259415'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/259415/Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)" title="Special:IMSLPEditCTag/259415/Lessons for the Harpsichord or Spinet (Loeillet, John)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 259"><a href="/wiki/Special:GetFCtrStats/@259415" title="Special:GetFCtrStats/@259415">259</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Martin_Ludenhoff" title="User:Martin Ludenhoff">Martin Ludenhoff</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Martin_Ludenhoff" title="User:Martin Ludenhoff">Martin Ludenhoff</a> (2012/11/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Ludenhoff,_Martin" title="Category:Ludenhoff, Martin">Martin Ludenhoff</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Martin Ludenhoff
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=259415">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=259415">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="259415">Javascript is required for this feature.</div><script>JGINITsearchbars['259415']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP420712-courante.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/80/476074574dbad6bfe6822aac24dbb481d643cc8f.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Godowsky.29">For Piano solo (Godowsky)</span></h5>
+<dl><dd> <i>See:</i>  <i><a href="/wiki/Renaissance_(Godowsky,_Leopold)" title="Renaissance (Godowsky, Leopold)">Renaissance</a></i> by <a href="/wiki/Category:Godowsky,_Leopold" title="Category:Godowsky, Leopold">Leopold Godowsky</a> (No.9. Sarabande and No.10. Courante)<span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</dd></dl>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span>
+<h2> <span class="mw-headline" id="Free_Recordings">Free Recordings</span></h2>
+<dl><dt>Lesson I. Courante (arr. Ludenhoff)
+</dt></dl>
+<ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=xK0_8PpbN7Y">Martin Ludenhoff, Valentina Gavrikova, Lyubov Bubnova, guitars (YouTube)</a></span> 
+</li></ul>
+<dl><dd>("Guitar 2" is performed in unison, duplicated)
+</dd></dl>
+<p><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+</p>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">various pieces for harpsichord
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Loeillet,_John" title="Category:Loeillet, John">Loeillet, John</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>13 pieces in 3 lessons
+<ul><li> <b>Lesson I</b> (E&#160;minor)
+</li></ul>
+<ol><li> Almand *
+</li><li> Slow Aire *
+</li><li> Corant *
+</li><li> Minuet
+</li><li> Jigg *
+</li></ol>
+<ul><li> <b>Lesson II</b> (D&#160;major)
+</li></ul>
+<ol><li> Almand
+</li><li> Corant
+</li><li> Sarabande *
+</li><li> Gavotte
+</li><li> Minuet Roundo
+</li></ol>
+<ul><li> <b>Lesson III</b> (G&#160;minor)
+</li></ul>
+<ol><li> Aire
+</li><li> Hornpipe
+</li><li> Cibel
+</li></ol>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1712 (?)
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>harpsichord, spinet
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>* formerly attributed to <a href="/wiki/Category:Lully,_Jean-Baptiste" title="Category:Lully, Jean-Baptiste">Jean-Baptiste Lully</a> as the <i>Keyboard Suite in E minor</i>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1178/1000000
+Post-expand include size: 78625/2097152 bytes
+Template argument size: 935/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:11599-0!*!0!!en!2!* and timestamp 20180416042748 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)&amp;oldid=2460655">http://imslp.org/index.php?title=Lessons_for_the_Harpsichord_or_Spinet_(Loeillet,_John)&amp;oldid=2460655</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Oesterle,_Louis/Editor" title="Category:Oesterle, Louis/Editor">Oesterle, Louis/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Chappell" title="Category:Scores published by Chappell">Scores published by Chappell</a></li><li><a href="/wiki/Category:Scores_published_by_Schirmer" title="Category:Scores published by Schirmer">Scores published by Schirmer</a></li><li><a href="/wiki/Category:Roose,_Patrick/Editor" title="Category:Roose, Patrick/Editor">Roose, Patrick/Editor</a></li><li><a href="/wiki/Category:Ellis,_Shane/Editor" title="Category:Ellis, Shane/Editor">Ellis, Shane/Editor</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Ludenhoff,_Martin/Arranger" title="Category:Ludenhoff, Martin/Arranger">Ludenhoff, Martin/Arranger</a></li><li><a href="/wiki/Category:Work_pages_with_links_to_recordings" title="Category:Work pages with links to recordings">Work pages with links to recordings</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Loeillet,_John/Collections" title="Category:Loeillet, John/Collections">Loeillet, John/Collections</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Lessons" title="Category:Lessons">Lessons</a></li><li><a href="/wiki/Category:For_harpsichord" title="Category:For harpsichord">For harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_2_guitars_(arr)" title="Category:For 2 guitars (arr)">For 2 guitars (arr)</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1712" title="Category:Works first published in 1712">Works first published in 1712</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:Misattributed_works" title="Category:Misattributed works">Misattributed works</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Lessons_for_the_Harpsichord_or_Spinet_%28Loeillet%2C_John%29">4,324 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Lessons%20for%20the%20Harpsichord%20or%20Spinet%20%28Loeillet%2C%20John%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.450 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416042748 -->
+</html>
+		

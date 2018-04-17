@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Livre d'orgue (Du Mage, Pierre) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Livre_d\'orgue_(Du_Mage,_Pierre)", "wgTitle": "Livre d\'orgue (Du Mage, Pierre)", "wgCurRevisionId": 2517485, "wgArticleId": 9461, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from Bibliothèque nationale de France", "Guilmant, Alexandre/Editor", "Pirro, André/Editor", "Sibley Mirroring Project", "Gouin, Pierre/Editor", "WIMA files", "Coulon, Jean-Pierre/Arranger", "Coulon, Jean-Pierre/Editor", "Scores", "Du Mage, Pierre", "Baroque style", "Baroque", "Pieces", "For organ", "Scores featuring the organ", "For 1 player", "For viola, organ (arr)", "Scores featuring the viola", "For 2 players", "Pages with arrangements", "Works first published in 1708", "Works first published in the 18th century", "D minor"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Livre_d_orgue_Du_Mage_Pierre action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Livre_d%27orgue_(Du_Mage,_Pierre)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Livre_d%27orgue_(Du_Mage,_Pierre)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Livre_d%27orgue_(Du_Mage,_Pierre)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Livre_d%27orgue_(Du_Mage,_Pierre)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Livre_d%27orgue_(Du_Mage,_Pierre)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Livre_d%27orgue_(Du_Mage,_Pierre)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Livre_d%27orgue_(Du_Mage,_Pierre)&amp;oldid=2517485" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Livre%20d%27orgue%20%28Du%20Mage%2C%20Pierre%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Livre d'orgue (Du Mage, Pierre)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>8 pieces
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1708
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="expandline" title="4 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_viola%2C_organ_%28arr%29&amp;transclude=Template:Catintro">For viola, organ (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viola&amp;transclude=Template:Catintro">Scores featuring the viola</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Livre d'orgue","composer":"Du Mage, Pierre","comphref":"\/wiki\/Category:Du_Mage,_Pierre"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"livre d'orgue","itunes":"livre d'orgue","composer":"du mage","scorekeywords":"livre d'orgue","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":5,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TRI331162.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TRI331162.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTRI331162","desc":"Organ Recital: Rouet, Pascale - CL\u00c9REMBAULT, L.-N. \/ DANDRIEU, J.-F. \/ CORRETTE, M. \/ MAGE, P. du \/ MARCHAND, C. \/ BOEDEC, M. (Hier et Aujourd'hui)","label":"Triton (France)","category":"Instrumental - Classical Music","composer":"Mage, Pierre du -- Clerambault, Louis-Nicolas -- Corrette, Michel -- Dandrieu, Jean-Francois -- Mather, Bruce -- Leguay, Jean-Pierre -- Marchand, Christophe -- Etienne, Jean-Luc -- Boedec, Michel -- Mabit, Alain","artist":"Rouet, Pascale","country":"Canada France","catid":"TRI331162","cdinfo":[[["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=1951380|1951381|1951382|1951383|1951384|1951385|1951386",["I. Grand plein jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et dessus de trompette ou de cornet separe, en dialogue","VI. Recit de cromorne et de cornet separe, en dialogue","VII. Dialogue are les grands jeux"]]]],["Corrette, Michel",[["Une jeune pucelle","mediaplayer\/player.asp?br=128&tl=1951387",[]]]],["Dandrieu, Jean-Francois",[["Magnificat","mediaplayer\/player.asp?br=128&tl=1951388|1951389|1951390|1951391|1951392|1951393",["I. Plein Jeu","II. Duo","III. Trio","IV. Basse de cromorne","V. Recit de Nazard","VI. Dialogue"]]]],["Corrette, Michel",[["Bon Joseph ecoute-moy","mediaplayer\/player.asp?br=128&tl=1951394",[]],["Noel provencal","mediaplayer\/player.asp?br=128&tl=1951395",[]]]],["Mage, Pierre du",[["Livre d'orgue contenant une suite du permier ton","mediaplayer\/player.asp?br=128&tl=1951396|1951397|1951398|1951399|1951400|1951401|1951402|1951403",["I. Plein Jeu","II. Fugue","III. Trio","IV. Tierce en Taille","V. Basse de Trompette","VI. Recit","VII. Duo","VIII. Grand jeu"]]]]],[["Etienne, Jean-Luc",[["Jeu","mediaplayer\/player.asp?br=128&tl=1951404",[]]]],["Leguay, Jean-Pierre",[["Et puis, et puis encore?","mediaplayer\/player.asp?br=128&tl=1951405|1951406|1951407|1951408|1951409",["I. Choeur a choeur","II. Double I","III. Tiento","IV. Double II","V. Molto Lento"]]]],["Marchand, Christophe",[["3 Orchesographie","mediaplayer\/player.asp?br=128&tl=1951410|1951411|1951412",["No. 1. Estampie","No. 2. Basse danse","No. 3. Saltarello"]]]],["Boedec, Michel",[["Sans titre","mediaplayer\/player.asp?br=128&tl=1951413",[]]]],["Mather, Bruce",[["Pour l'orgue de Mouzon","mediaplayer\/player.asp?br=128&tl=1951414",[]]]],["Mabit, Alain",[["Rien, presque &#8230;","mediaplayer\/player.asp?br=128&tl=1951415",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=FYCD043.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=FYCD043.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DFYCD043","desc":"CLERAMBAULT, L.-N. \/ MAGE, P. du: Organ Music (Baker)","label":"Solstice","category":"Instrumental - Classical Music","composer":"Mage, Pierre du -- Clerambault, Louis-Nicolas","artist":"Baker, George C.","country":"France","catid":"FYCD043","cdinfo":[[["Mage, Pierre du",[["Livre d'orgue contenant une suite du permier ton","mediaplayer\/player.asp?br=128&tl=1286371|1286372|1286373|1286374|1286375|1286376|1286377|1286378",["I. Plein Jeu","II. Fugue","III. Trio","IV. Tierce en Taille","V. Basse de Trompette","VI. Recit","VII. Duo","VIII. Grand jeu"]]]],["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=1286387|1286388|1286389|1286390|1286391|1286392|1286393",["I. Grand plein jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et dessus de trompette ou de cornet separe, en dialogue","VI. Recit de cromorne et de cornet separe, en dialogue","VII. Dialogue sur les grands jeux"]],["Suite du deuxieme ton","mediaplayer\/player.asp?br=128&tl=1286423|1286424|1286425|1286426|1286427|1286428|1286429",["I. Plein jeu","II. Duo","III. Trio","IV. Basse de Cromorne","V. Flutes","VI. Recit de Nazard","VII. Caprice sur les grands jeux"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI6213.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI6213.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI6213","desc":"Organ Recital: Ponsford, David - COUPERIN, F. \/ MAGE, P. du (French Organ Music form the Golden Age, Vol. 1)","label":"Nimbus Alliance","category":"Instrumental - Classical Music","composer":"Mage, Pierre du -- Couperin, Francois","artist":"Ponsford, David","country":"France","catid":"NI6213","cdinfo":[[["Couperin, Fran&#231;ois",[["Messe propre pour les convents de religieux et religieuses (Mass for the Convents)","mediaplayer\/player.asp?br=128&tl=1614563|1614564|1614565|1614566|1614567|1614568|1614569|1614570|1614571|1614572|1614573|1614574|1614575|1614576|1614577|1614578|1614579|1614580|1614581|1614582|1614583",["Kyrie: Plein jeu","Kyrie: Fugue sur la trompette","Kyrie: Recit de chromhorne","Kyrie: Trio a dessus de chromhorne et la basse de tierce","Kyrie: Dialogue sur la trompette du grand clavier, et sur la montre, le bourdon et le nazard du positif","Gloria: Plein jeu","Gloria: Petite fugue sur le chromhorne","Gloria: Duo sur les tierces","Gloria: Basse de trompette","Gloria: Chromhorne sur la taille","Gloria: Dialogue sur la voix humaine","Gloria: Trio. Les dessus sur la tierce et la basse sur la trompette","Gloria: Recit de tierce","Gloria: Dialogue sur les grands jeux","Offertoire sur les grands jeux","Sanctus: Premier couplet du Sanctus","Sanctus: Recit de cornet","Elevation: Tierce en taille","Agnus Dei","Agnus Dei: Dialogue sur les grands jeux","Deo Gratias"]]]],["Mage, Pierre du",[["Livre d'orgue contenant une suite du permier ton","mediaplayer\/player.asp?br=128&tl=1614584|1614585|1614586|1614587|1614588|1614589|1614590|1614591",["I. Plein Jeu","II. Fugue","III. Trio","IV. Tierce en Taille","V. Basse de Trompette","VI. Recit","VII. Duo","VIII. Grand jeu"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CTH2250.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CTH2250.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCTH2250","desc":"Organ Recital: Brandstetter, Manfred - MAGE, P. du \/ BACH, J.S. \/ FRANCK, C. \/ WIDOR, C.-M.","label":"Thorofon","category":"Instrumental - Classical Music","composer":"Mage, Pierre du -- Bach, Johann Sebastian -- Widor, Charles-Marie -- Franck, C\u00e9sar","artist":"Brandstetter, Manfred","country":"France Germany","catid":"CTH2250","cdinfo":[[["Mage, Pierre du",[["Livre d'orgue contenant une suite du permier ton","mediaplayer\/player.asp?br=128&tl=593372|593373|593374|593375|593376|593377|593378|593379",[]]]],["Bach, Johann Sebastian",[["Prelude and Fugue in B Minor, BWV 544","mediaplayer\/player.asp?br=128&tl=593380|593381",[]],["18 Chorales, BWV 651-668, \"Leipziger Chorale\": Allein Gott in der Hoh sei Ehr, BWV 662","mediaplayer\/player.asp?br=128&tl=593382",[]]]],["Franck, C&#233;sar",[["3 Chorales for Organ: No. 3 in A Minor, M. 40","mediaplayer\/player.asp?br=128&tl=599699",[]]]],["Widor, Charles-Marie",[["Symphonie romane, Op. 73: II. Choral","mediaplayer\/player.asp?br=128&tl=593384",[]],["Organ Symphony No. 6 in G Minor, Op. 42, No. 2: I. Allegro","mediaplayer\/player.asp?br=128&tl=593385",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SCD1059.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SCD1059.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSCD1059","desc":"GRIGNY: Veni Creator \/ MAGE: Suite du premier ton \/ CLERAMBAULT: Suite du premier ton and deuxieme ton","label":"Swedish Society","category":"Choral - Sacred - Classical Music","composer":"Mage, Pierre du -- Grigny, Nicolas de -- Clerambault, Louis-Nicolas","artist":"Gustafsson, Ralph -- Alf, Fredrik -- Freden, Lars -- Froberg, Bengt-Erik -- Nyberg, Erik -- Lundblad, David","country":"France","catid":"SCD1059","cdinfo":[[["Grigny, Nicolas de",[["Veni creator","mediaplayer\/player.asp?br=128&tl=165257|165258|165259|165260|165261",[]]]],["Mage, Pierre du",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=165275|165276|165277|165278|165279|165280|165281|165282",[]]]],["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=165287|165288|165289|165290|165291|165292|165293",[]],["Suite du deuxieme ton","mediaplayer\/player.asp?br=128&tl=165294|165295|165296|165297|165298|165299|165300",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="du mage livre d'orgue";JGaskdonation=0;JGFileTools={"383995":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/383995"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23383995"}},"383996":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/383996"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23383996"}},"383997":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/383997"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23383997"}},"383998":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/383998"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23383998"}},"383999":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/383999"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23383999"}},"384000":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384000"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23384000"}},"384001":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384001"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23384001"}},"384002":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/383995\/383996\/383997\/383998\/383999\/384000\/384001\/384002\/fcd4"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384002"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23384002"}},"412120":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=412120"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP412120"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=412120"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/412120"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/412120"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23412120"}},"3817":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=3817"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/3817\/334012\/eb9f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP03817"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=3817"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/3817"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/3817"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%2303817"}},"334012":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=334012"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/3817\/334012\/eb9f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP334012"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=334012"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/334012"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/334012"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23334012"}},"383994":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=383994"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP383994"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/383994"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/383994"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23383994"}},"129909":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129909"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129909"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129909"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129909"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129909"}},"129910":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129910"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129910"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129910"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129910"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129910"}},"129911":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129911"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129911"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129911"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129911"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129911"}},"129912":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129912"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129912"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129912"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129912"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129912"}},"129913":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129913"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129913"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129913"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129913"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129913"}},"129914":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129914"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129914"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129914"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129914"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129914"}},"129915":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129915"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129915"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129915"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129915"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129915"}},"129916":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129916"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129909\/129910\/129911\/129912\/129913\/129914\/129915\/129916\/045b"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129916"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129916"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129916"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23129916"}},"117371":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=117371"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/117371\/212387\/a644"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP117371"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/117371"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/117371"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23117371"}},"212387":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/117371\/212387\/a644"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP212387"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/212387"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Du+Mage%2C+Pierre%29&frmTitle=IMSLP+%23212387"}}};JGFileOpts={"383995":[],"383996":[],"383997":[],"383998":[],"383999":[],"384000":[],"384001":[],"384002":[],"412120":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDXwBMMkaeJ6grRRPTlWmCXHeoFxZ0Tt3EvpLFXGF582DCFnhXXFw6Q++9mK8l+TYoA8U\/uF6B1dN64i07s6nT"},"3817":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biwCtkErmtEf15L1lvGLQ9g5zzEtGM07nla80xVryRw5CRgh5yRdmyinJhXK56CNdM="},"334012":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biV92\/6Lc+1\/Qiqf2hhBENawN2rPm9Qyay2PYlTuZ5Z0Fdka6ex\/TWDFw3y6dtfk4ikCD9zdVoclu9cwktb9EHi1XK+njY+6xMFyOfpH2W6RA=="},"383994":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bibbyxwcwNbnIG8hxGQ7VSpW+rulz+FBwZkqIg54pplCOxm3ARsym5gJTyt4ZslNk2PJ3DmtQNFHMk6HBDYc\/nf"},"129909":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg3JAKBXeSU8NKjnePBmFyRytykm4FPic7VREa3TO8j3\/tB1I3eg1cAK94OaxIvTL8zbiEo2HFjE1D4\/B6kdRhM"},"129910":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9u2QdGtTOGrpdi36oUEl6ERykDNN0s3wNoJ0U0WaTblKCyuKHz85FzP4ZNWP7h2ouC67\/sQQ7Zm93tNKxGmuZ"},"129911":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh9RNQjSHaA7W14vLAc6LKCNE3JoUFmtKAlkvCES+BH29c6ortXuiabrdbmb1Dlm2CD95Bp3cQYlVHWGfPGzQnA"},"129912":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCSG7bhXpeJpP8jiUMU6cKzq6DIlgI0EPRB4pP3dU889\/3fViejPvJOk0xwEVWk\/l4OgVvm69cvcZt3Uz83h1dWGRcuTpgC8SI65U3bY+YZw=="},"129913":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjU\/ZpOQMUbPv+bXaUR7BcFze2KMIHRMnw3NnJRH3GET6EsOmmxhwHhrplWwNIxw8nzBSlGK91vYKYzQ5yOKPtN4ZlBAA6OnHnaOU+AJ\/zA1g=="},"129914":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi\/Q6zVDpw2z6WHxG9cJjbM1D22m38MbCSzEqTqy0MlBzXW20zgdCW9wl3+cNPfB0rThXhgNCtbbZJwSv\/Hs7jD"},"129915":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bipyeYnjW655vEvZ9t5CgOTjAyGWYuAoOkbbvNA\/ZJP37aHtK5BnoRPixYcFnv5rCfdR9Mxc0kA1kHIAprXWDDE"},"129916":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biyJI0N32dRO21ICrOTD5zXc3kR92Ch3CO1rAR9a1x8PB5Jf+fvudxQqKFNbyAlcHYm1LIhhkzXrRTFh8Whbs1h"},"117371":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi2LAsxC4\/oMY\/b5E3kbX1C0sIaco63J9B17uK3PicR56CqQt6xkQXDpmSkbUPpWbk="},"212387":[]};JGPageUntagged=false;JGPageTags=["pieces","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"3817":[6.8333333333333,"6"],"117371":[9,"2"],"129911":[10,"1"],"129912":[10,"1"],"212387":[2,"1"],"334012":[2,"1"],"383995":[0,0],"383996":[0,0],"383997":[0,0],"383998":[0,0],"383999":[0,0],"384000":[0,0],"384001":[0,0],"384002":[0,0],"412120":[0,0],"383994":[0,0],"129909":[0,0],"129910":[0,0],"129913":[0,0],"129914":[0,0],"129915":[0,0],"129916":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#4._Tierce_en_taille"><span class="tocnumber">2.2.1</span> <span class="toctext">4. Tierce en taille</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Viola_and_Chamber_Organ_.28Coulon.29"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For Viola and Chamber Organ (Coulon)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">8</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP383995" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/383995"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Plein Jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c5/PMLP09461-DuMage_Suite_1_PleinJeu.mid" class="internal" title="PMLP09461-DuMage Suite 1 PleinJeu.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_1_PleinJeu.mid" title="File:PMLP09461-DuMage Suite 1 PleinJeu.mid">#383995</a> - 0.01MB - 2:12<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-383995' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-383995'>
+	<a href='javascript:void(0)' id='383995' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='383995' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='383995' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='383995' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='383995' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-383995'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/383995/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/383995/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@383995" title="Special:GetFCtrStats/@383995">59</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more we_audio_top" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>7 more</u>:</b> 2. Fugue • 3. Trio • 4. Tierce en taille • 5. Basse de Trompette • 6. Récit • 7. Duo • 8. Grand Jeu (dialogue)
+</p>
+</div><div id="IMSLP383996" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/383996"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Fugue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/15/PMLP09461-DuMage_Suite_2_Fugue.mid" class="internal" title="PMLP09461-DuMage Suite 2 Fugue.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_2_Fugue.mid" title="File:PMLP09461-DuMage Suite 2 Fugue.mid">#383996</a> - 0.00MB - 1:48<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-383996' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-383996'>
+	<a href='javascript:void(0)' id='383996' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='383996' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='383996' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='383996' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='383996' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-383996'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/383996/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/383996/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@383996" title="Special:GetFCtrStats/@383996">34</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP383997" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/383997"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/PMLP09461-DuMage_Suite_3_Trio.mid" class="internal" title="PMLP09461-DuMage Suite 3 Trio.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_3_Trio.mid" title="File:PMLP09461-DuMage Suite 3 Trio.mid">#383997</a> - 0.01MB - 1:47<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-383997' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-383997'>
+	<a href='javascript:void(0)' id='383997' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='383997' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='383997' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='383997' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='383997' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-383997'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/383997/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/383997/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@383997" title="Special:GetFCtrStats/@383997">24</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP383998" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/383998"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Tierce en taille</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/86/PMLP09461-DuMage_Suite_4_Tierce_taille.mid" class="internal" title="PMLP09461-DuMage Suite 4 Tierce taille.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_4_Tierce_taille.mid" title="File:PMLP09461-DuMage Suite 4 Tierce taille.mid">#383998</a> - 0.01MB - 2:49<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-383998' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-383998'>
+	<a href='javascript:void(0)' id='383998' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='383998' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='383998' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='383998' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='383998' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-383998'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/383998/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/383998/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@383998" title="Special:GetFCtrStats/@383998">36</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP383999" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/383999"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Basse de Trompette</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e8/PMLP09461-DuMage_Suite_5_Trompette.mid" class="internal" title="PMLP09461-DuMage Suite 5 Trompette.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_5_Trompette.mid" title="File:PMLP09461-DuMage Suite 5 Trompette.mid">#383999</a> - 0.01MB - 2:29<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-383999' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-383999'>
+	<a href='javascript:void(0)' id='383999' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='383999' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='383999' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='383999' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='383999' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-383999'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/383999/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/383999/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@383999" title="Special:GetFCtrStats/@383999">28</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384000" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384000"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Récit</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1d/PMLP09461-DuMage_Suite_6_Recit.mid" class="internal" title="PMLP09461-DuMage Suite 6 Recit.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_6_Recit.mid" title="File:PMLP09461-DuMage Suite 6 Recit.mid">#384000</a> - 0.01MB - 2:20<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384000' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384000'>
+	<a href='javascript:void(0)' id='384000' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384000' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384000' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384000' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384000' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384000'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384000/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/384000/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384000" title="Special:GetFCtrStats/@384000">26</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384001" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384001"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Duo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/40/PMLP09461-DuMage_Suite_7_Duo.mid" class="internal" title="PMLP09461-DuMage Suite 7 Duo.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_7_Duo.mid" title="File:PMLP09461-DuMage Suite 7 Duo.mid">#384001</a> - 0.01MB - 1:55<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384001' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384001'>
+	<a href='javascript:void(0)' id='384001' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384001' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384001' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384001' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384001' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384001'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384001/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/384001/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384001" title="Special:GetFCtrStats/@384001">24</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384002" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384002"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>8. Grand Jeu (dialogue)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/89/PMLP09461-DuMage_Suite_8_GrandJeu.mid" class="internal" title="PMLP09461-DuMage Suite 8 GrandJeu.mid">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_8_GrandJeu.mid" title="File:PMLP09461-DuMage Suite 8 GrandJeu.mid">#384002</a> - 0.02MB - 3:22<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384002' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384002'>
+	<a href='javascript:void(0)' id='384002' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384002' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384002' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384002' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384002' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384002'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384002/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/384002/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384002" title="Special:GetFCtrStats/@384002">39</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/6/29)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI file by Pierre Gouin
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2015
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=383995/383996/383997/383998/383999/384000/384001/384002">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=383995/383996/383997/383998/383999/384000/384001/384002">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="383995">Javascript is required for this feature.</div><script>JGINITsearchbars['383995']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">12</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">2</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP412120" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/412120"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4c/PMLP09461-dumage_orgue_bnf.pdf" class="internal" title="PMLP09461-dumage orgue bnf.pdf">*</a></span><a href="/wiki/File:PMLP09461-dumage_orgue_bnf.pdf" title="File:PMLP09461-dumage orgue bnf.pdf">#412120</a> - 1.31MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-412120' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-412120'>
+	<a href='javascript:void(0)' id='412120' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='412120' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='412120' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='412120' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='412120' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-412120'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/412120/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/412120/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 108"><a href="/wiki/Special:GetFCtrStats/@412120" title="Special:GetFCtrStats/@412120">108</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/btv1b90099392"><span style="border-bottom:1px dotted black" title="Bibliothèque Nationale de France">F-Pn</span></a></span><br />
+<a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a> (2016/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Engraver
+</th>
+<td>Roussel
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Saint Quentin: composer, 1708
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=412120">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=412120">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Cleaned, de-skewed, converted to monochrome, margins reduced.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="412120">Javascript is required for this feature.</div><script>JGINITsearchbars['412120']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=412120&type=Complete%20Score&pgcount=11&signature=7f7fedcd9cfcdcaee09f33cec588eb65f99187d2"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP09461-dumage_orgue_bnf.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4c/fcacfade9dbb0089429e2cd9c6c4e61cf1ac5119.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP03817" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/03817"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8e/Dumageorge.pdf" class="internal" title="Dumageorge.pdf">*</a></span><a href="/wiki/File:Dumageorge.pdf" title="File:Dumageorge.pdf">#03817</a> - 0.90MB, 19 (#137–152) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-3817' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-3817'>
+	<a href='javascript:void(0)' id='3817' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='3817' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='3817' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='3817' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='3817' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-3817'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/03817/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/03817/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4315"><a href="/wiki/Special:GetFCtrStats/@3817" title="Special:GetFCtrStats/@3817">4315</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:NachoBA" title="User:NachoBA">NachoBA</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:NachoBA" title="User:NachoBA">NachoBA</a> (2007/2/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP334012" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/334012"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ca/SIBLEY1802.25670.a437-39087013469558livre_du_mage.pdf" class="internal" title="SIBLEY1802.25670.a437-39087013469558livre du mage.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.25670.a437-39087013469558livre_du_mage.pdf" title="File:SIBLEY1802.25670.a437-39087013469558livre du mage.pdf">#334012</a> - 1.16MB, 24 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-334012' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-334012'>
+	<a href='javascript:void(0)' id='334012' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='334012' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='334012' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='334012' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='334012' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-334012'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/334012/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/334012/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 701"><a href="/wiki/Special:GetFCtrStats/@334012" title="Special:GetFCtrStats/@334012">701</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/25670"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/7/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Guilmant,_Alexandre" title="Category:Guilmant, Alexandre">Alexandre Guilmant</a> (1837–1911)<br /><a href="/wiki/Category:Pirro,_Andr%C3%A9" title="Category:Pirro, André">André Pirro</a> (1869–1943)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i><a href="/wiki/Archives_des_Ma%C3%AEtres_de_l%27orgue" title="Archives des Maîtres de l'orgue">Archives des Maîtres de l'orgue</a>, Vol.3</i> <br />Paris: <a href="/wiki/Durand" title="Durand">A. Durand &amp; Fils</a>,  1901. Plate A.G. 104
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=3817/334012">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=3817/334012">del</a>/<span id="fmrglnk" data-pdfstr="3817//334012/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>334012 This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="3817">Javascript is required for this feature.</div><script>JGINITsearchbars['3817']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=3817|334012&type=Complete%20Score%7CComplete%20Score&pgcount=19|24&signature=fa49488c8dd5ca430af6eefd1efefd96aced47ee"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Dumageorge.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8e/08ffbe4b460ac91cb1b1a3cef8b974d30ddd978b.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP383994" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/383994"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b2/PMLP09461-DuMage_Suite_complete.pdf" class="internal" title="PMLP09461-DuMage Suite complete.pdf">*</a></span><a href="/wiki/File:PMLP09461-DuMage_Suite_complete.pdf" title="File:PMLP09461-DuMage Suite complete.pdf">#383994</a> - 0.57MB, 22 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-383994' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-383994'>
+	<a href='javascript:void(0)' id='383994' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='383994' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='383994' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='383994' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='383994' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-383994'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/383994/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/383994/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1225"><a href="/wiki/Special:GetFCtrStats/@383994" title="Special:GetFCtrStats/@383994">1225</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2018/1/3" class="hovertext">2015/6/29</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2008
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=383994">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=383994">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="383994">Javascript is required for this feature.</div><script>JGINITsearchbars['383994']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP09461-DuMage_Suite_complete.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b2/75fc32ebe60fd15703a352a0a4ddb8e3ca76cb36.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP129909" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129909"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Plein Jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2a/WIMA.1473-DuMage_Suite_01_PleinJeu.pdf" class="internal" title="WIMA.1473-DuMage Suite 01 PleinJeu.pdf">*</a></span><a href="/wiki/File:WIMA.1473-DuMage_Suite_01_PleinJeu.pdf" title="File:WIMA.1473-DuMage Suite 01 PleinJeu.pdf">#129909</a> - 0.08MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129909' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129909'>
+	<a href='javascript:void(0)' id='129909' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129909' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129909' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129909' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129909' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129909'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129909/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129909/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2232"><a href="/wiki/Special:GetFCtrStats/@129909" title="Special:GetFCtrStats/@129909">2232</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2018/1/3" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_5" data-block="5">
+<p><b>⇒ <u>7 more</u>:</b> 2. Fugue • 3. Trio • 4. Tierce en Taille • 5. Basse de Trompette • 6. Récit • 7. Duo • 8. Grand Jeu
+</p>
+</div><div id="IMSLP129910" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129910"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Fugue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0a/WIMA.0237-DuMage_Suite_02_Fugue.pdf" class="internal" title="WIMA.0237-DuMage Suite 02 Fugue.pdf">*</a></span><a href="/wiki/File:WIMA.0237-DuMage_Suite_02_Fugue.pdf" title="File:WIMA.0237-DuMage Suite 02 Fugue.pdf">#129910</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129910' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129910'>
+	<a href='javascript:void(0)' id='129910' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129910' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129910' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129910' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129910' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129910'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129910/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129910/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 983"><a href="/wiki/Special:GetFCtrStats/@129910" title="Special:GetFCtrStats/@129910">983</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2018/1/3" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129911" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129911"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/aa/WIMA.54b1-DuMage_Suite_03_Trio.pdf" class="internal" title="WIMA.54b1-DuMage Suite 03 Trio.pdf">*</a></span><a href="/wiki/File:WIMA.54b1-DuMage_Suite_03_Trio.pdf" title="File:WIMA.54b1-DuMage Suite 03 Trio.pdf">#129911</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129911' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129911'>
+	<a href='javascript:void(0)' id='129911' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129911' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129911' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129911' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129911' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129911'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129911/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129911/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 715"><a href="/wiki/Special:GetFCtrStats/@129911" title="Special:GetFCtrStats/@129911">715</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2012/2/13" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129912" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129912"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Tierce en Taille</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/WIMA.1026-DuMage_Suite_04_Tierce_taille.pdf" class="internal" title="WIMA.1026-DuMage Suite 04 Tierce taille.pdf">*</a></span><a href="/wiki/File:WIMA.1026-DuMage_Suite_04_Tierce_taille.pdf" title="File:WIMA.1026-DuMage Suite 04 Tierce taille.pdf">#129912</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129912' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129912'>
+	<a href='javascript:void(0)' id='129912' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129912' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129912' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129912' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129912' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129912'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129912/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129912/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1426"><a href="/wiki/Special:GetFCtrStats/@129912" title="Special:GetFCtrStats/@129912">1426</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/6/29" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129913" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129913"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Basse de Trompette</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ab/WIMA.ed4c-DuMage_Suite_05_Trompette.pdf" class="internal" title="WIMA.ed4c-DuMage Suite 05 Trompette.pdf">*</a></span><a href="/wiki/File:WIMA.ed4c-DuMage_Suite_05_Trompette.pdf" title="File:WIMA.ed4c-DuMage Suite 05 Trompette.pdf">#129913</a> - 0.08MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129913' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129913'>
+	<a href='javascript:void(0)' id='129913' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129913' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129913' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129913' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129913' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129913'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129913/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129913/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 984"><a href="/wiki/Special:GetFCtrStats/@129913" title="Special:GetFCtrStats/@129913">984</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2012/2/13" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129914" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129914"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Récit</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/76/WIMA.92e4-DuMage_Suite_06_Recit.pdf" class="internal" title="WIMA.92e4-DuMage Suite 06 Recit.pdf">*</a></span><a href="/wiki/File:WIMA.92e4-DuMage_Suite_06_Recit.pdf" title="File:WIMA.92e4-DuMage Suite 06 Recit.pdf">#129914</a> - 0.06MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129914' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129914'>
+	<a href='javascript:void(0)' id='129914' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129914' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129914' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129914' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129914' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129914'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129914/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129914/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 922"><a href="/wiki/Special:GetFCtrStats/@129914" title="Special:GetFCtrStats/@129914">922</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2012/2/13" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129915" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129915"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Duo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/39/WIMA.abb5-DuMage_Suite_07_Duo.pdf" class="internal" title="WIMA.abb5-DuMage Suite 07 Duo.pdf">*</a></span><a href="/wiki/File:WIMA.abb5-DuMage_Suite_07_Duo.pdf" title="File:WIMA.abb5-DuMage Suite 07 Duo.pdf">#129915</a> - 0.07MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129915' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129915'>
+	<a href='javascript:void(0)' id='129915' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129915' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129915' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129915' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129915' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129915'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129915/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129915/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 686"><a href="/wiki/Special:GetFCtrStats/@129915" title="Special:GetFCtrStats/@129915">686</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2012/2/13" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129916" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129916"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>8. Grand Jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0d/WIMA.9f7b-DuMage_Suite_08_GrandJeu.pdf" class="internal" title="WIMA.9f7b-DuMage Suite 08 GrandJeu.pdf">*</a></span><a href="/wiki/File:WIMA.9f7b-DuMage_Suite_08_GrandJeu.pdf" title="File:WIMA.9f7b-DuMage Suite 08 GrandJeu.pdf">#129916</a> - 0.09MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129916' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129916'>
+	<a href='javascript:void(0)' id='129916' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129916' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129916' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129916' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129916' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129916'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129916/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/129916/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1632"><a href="/wiki/Special:GetFCtrStats/@129916" title="Special:GetFCtrStats/@129916">1632</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2012/2/13" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2008 - Révision 2012
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=129909/129910/129911/129912/129913/129914/129915/129916">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=129909/129910/129911/129912/129913/129914/129915/129916">del</a>/<span id="fmrglnk" data-pdfstr="129909//129910//129911//129912//129913//129914//129915//129916/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>. <br />Urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="129909">Javascript is required for this feature.</div><script>JGINITsearchbars['129909']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.1473-DuMage_Suite_01_PleinJeu.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/2a/629ca7cff8a1a930c3142ff37c48bee56600f3bf.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="4._Tierce_en_taille">4. Tierce en taille</span></h4>
+<h5> <span class="mw-headline" id="For_Viola_and_Chamber_Organ_.28Coulon.29">For Viola and Chamber Organ (Coulon)</span></h5>
+<div class="we"><div id="IMSLP117371" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/117371"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score and Viola part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/34/WIMA.c399-dumage.pdf" class="internal" title="WIMA.c399-dumage.pdf">*</a></span><a href="/wiki/File:WIMA.c399-dumage.pdf" title="File:WIMA.c399-dumage.pdf">#117371</a> - 0.10MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-117371' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-117371'>
+	<a href='javascript:void(0)' id='117371' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='117371' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='117371' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='117371' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='117371' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-117371'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/117371/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/117371/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1086"><a href="/wiki/Special:GetFCtrStats/@117371" title="Special:GetFCtrStats/@117371">1086</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a> (<span title="Updated: 2011/9/26" class="hovertext">2011/9/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP212387" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/212387"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (MusiXTeX)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f3/PMLP09461-dumage.zip" class="internal" title="PMLP09461-dumage.zip">*</a></span><a href="/wiki/File:PMLP09461-dumage.zip" title="File:PMLP09461-dumage.zip">#212387</a> - 0.00MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-212387' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-212387'>
+	<a href='javascript:void(0)' id='212387' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='212387' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='212387' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='212387' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='212387' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-212387'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/212387/Livre_d%27orgue_(Du_Mage,_Pierre)" title="Special:IMSLPEditCTag/212387/Livre d'orgue (Du Mage, Pierre)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 182"><a href="/wiki/Special:GetFCtrStats/@212387" title="Special:GetFCtrStats/@212387">182</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a> (2012/4/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Coulon,_Jean-Pierre" title="Category:Coulon, Jean-Pierre">Jean-Pierre Coulon</a>
+</td></tr>
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Coulon,_Jean-Pierre" title="Category:Coulon, Jean-Pierre">Jean-Pierre Coulon</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Jean-Pierre Coulon
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=117371/212387">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=117371/212387">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="117371">Javascript is required for this feature.</div><script>JGINITsearchbars['117371']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.c399-dumage.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/34/27c32d07b7c5b9fed38491154de49e7e3e4bb742.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Livre d’Orgue
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Livre d’Orgue contenant une Suite du Premier Ton
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Du_Mage,_Pierre" title="Category:Du Mage, Pierre">Du Mage, Pierre</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IPD 1
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>D minor
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>8 pieces
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1708
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>organ
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 952/1000000
+Post-expand include size: 79582/2097152 bytes
+Template argument size: 321/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:9461-0!*!0!!en!2!* and timestamp 20180414184441 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Livre_d%27orgue_(Du_Mage,_Pierre)&amp;oldid=2517485">http://imslp.org/index.php?title=Livre_d%27orgue_(Du_Mage,_Pierre)&amp;oldid=2517485</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_Biblioth%C3%A8que_nationale_de_France" title="Category:Scores from Bibliothèque nationale de France">Scores from Bibliothèque nationale de France</a></li><li><a href="/wiki/Category:Guilmant,_Alexandre/Editor" title="Category:Guilmant, Alexandre/Editor">Guilmant, Alexandre/Editor</a></li><li><a href="/wiki/Category:Pirro,_Andr%C3%A9/Editor" title="Category:Pirro, André/Editor">Pirro, André/Editor</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Coulon,_Jean-Pierre/Arranger" title="Category:Coulon, Jean-Pierre/Arranger">Coulon, Jean-Pierre/Arranger</a></li><li><a href="/wiki/Category:Coulon,_Jean-Pierre/Editor" title="Category:Coulon, Jean-Pierre/Editor">Coulon, Jean-Pierre/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Du_Mage,_Pierre" title="Category:Du Mage, Pierre">Du Mage, Pierre</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_viola,_organ_(arr)" title="Category:For viola, organ (arr)">For viola, organ (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_viola" title="Category:Scores featuring the viola">Scores featuring the viola</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1708" title="Category:Works first published in 1708">Works first published in 1708</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:D_minor" title="Category:D minor">D minor</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Livre_d%27orgue_%28Du_Mage%2C_Pierre%29">5,069 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Livre%20d%27orgue%20%28Du%20Mage%2C%20Pierre%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.042 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414195803 -->
+</html>
+		

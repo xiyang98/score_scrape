@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Le chalet (Adam, Adolphe) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Le_chalet_(Adam,_Adolphe)", "wgTitle": "Le chalet (Adam, Adolphe)", "wgCurRevisionId": 2542719, "wgArticleId": 78487, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Internet Archive", "Scores published by Schonenberger", "Scores with citations from the Bibliographie de la France", "Pages with First Editions", "Wolff, Oscar Ludwig Bernhard/Translator", "Scores published by Breitkopf und Härtel", "Moreau, Raoul/Arranger", "Lemoine, Léon/Arranger", "UNL Mirroring Project", "Scores", "Adam, Adolphe", "Romantic style", "Romantic", "Operas comiques", "Theatrical Works", "Operas", "For voices, mixed chorus, orchestra", "Scores featuring the voice", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For voices and chorus with orchestra", "French language", "For piano (arr)", "For 1 player", "Scores featuring the piano", "For voices, guitar (arr)", "Scores featuring the guitar", "For voices with solo instruments", "Pages with arrangements", "Works first published in 1834", "Works first published in the 19th century", "Scribe, Eugène/Librettist", "Duveyrier, Anne-Honoré-Joseph/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Le_chalet_Adam_Adolphe action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Le_chalet_(Adam,_Adolphe)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Le+chalet+%28Adam%2C+Adolphe%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Le_chalet_(Adam,_Adolphe)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Le_chalet_(Adam,_Adolphe)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Le_chalet_(Adam,_Adolphe)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Le_chalet_(Adam,_Adolphe)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Le_chalet_(Adam,_Adolphe)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Le_chalet_(Adam,_Adolphe)&amp;oldid=2542719" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Le%20chalet%20%28Adam%2C%20Adolphe%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Le chalet (Adam, Adolphe)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1 act
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1834
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas_comiques&amp;transclude=Template:Catintro">Operas comiques</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas&amp;transclude=Template:Catintro">Operas</a></span>; <span class="expandline" title="12 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For voices, mixed chorus, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:French_language&amp;transclude=Template:Catintro">French language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_guitar_%28arr%29&amp;transclude=Template:Catintro">For voices, guitar (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_solo_instruments&amp;transclude=Template:Catintro">For voices with solo instruments</a></span></span>
+</td></tr>
+<tr>
+<th>Related Works
+</th>
+<td><a href="/wiki/Category:Pieces_based_on_Adam%27s_%27Le_chalet%27" title="Category:Pieces based on Adam's 'Le chalet'"><i>Pieces based on 'Le chalet'</i></a>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Le chalet","composer":"Adam, Adolphe","comphref":"\/wiki\/Category:Adam,_Adolphe"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"le chalet","itunes":"le chalet","composer":"adam","scorekeywords":"le chalet","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":8,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI7894.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI7894.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI7894","desc":"Opera Arias (Bass): Journet, Marcel - MASSENET, J. \/ ADAM, A. \/ MEYERBEER, G. \/ OFFENBACH, J. \/ WAGNER, R. (1905-1924)","label":"Prima Voce","category":"Opera - Classical Music","composer":"Adam, Adolphe -- Reyer, Ernest -- Puccini, Giacomo -- Verdi, Giuseppe -- Saint-Sa\u00ebns, Camille -- Wagner, Richard -- Weber, Carl Maria von -- Massenet, Jules -- Meyerbeer, Giacomo -- Offenbach, Jacques -- Bellini, Vincenzo -- Gounod, Charles-Francois -- Rossini, Gioachino -- Boito, Arrigo -- F\u00e9vrier, Henry","artist":"Amato, Pasquale -- Journet, Marcel","country":"Belgium France Germany Italy","catid":"NI7894","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SYMP1360.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SYMP1360.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSYMP1360","desc":"Opera Arias - MEYERBEER, G. \/ HALEVY, J. \/ THOMAS, A. \/ ROSSINI, G. \/ GOUNOD, C.-F. (The Golden Age of Opera in France, Vol. 2) (1901-1908)","label":"Symposium Records","category":"Opera - Classical Music","composer":"Adam, Adolphe -- Thomas, Ambroise -- Reyer, Ernest -- Verdi, Giuseppe -- Lalo, \u00c9douard -- Massenet, Jules -- Meyerbeer, Giacomo -- Bellini, Vincenzo -- Bizet, Georges -- Dubois, Theodore -- Gounod, Charles-Francois -- Rossini, Gioachino -- Halevy, Fromental -- Delibes, L\u00e9o","artist":"Journet, Marcel -- Payan, Paul -- Studio pianist -- Studio ensemble -- Tanesy, Leonie -- Imbert, Elie -- Agussol, Pauline -- Affre, Agustarello -- Marechal, Adolphe -- Gibert, Etienne","country":"Brazil France Germany Italy","catid":"SYMP1360","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SYMP1331.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SYMP1331.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSYMP1331","desc":"Opera Arias - MEYERBEER, G. \/ THOMAS, A. \/ VERDI, G. \/ DELIBES, L. \/ HALEVY, F. \/ MASSENET, J. (The Golden Age of Opera in France) (1905-1913)","label":"Symposium Records","category":"Opera - Classical Music","composer":"Adam, Adolphe -- Auber, Daniel-Fran\u00e7ois -- Thomas, Ambroise -- Reyer, Ernest -- Verdi, Giuseppe -- Massenet, Jules -- Meyerbeer, Giacomo -- Gounod, Charles-Francois -- Halevy, Fromental -- David, Felicien -- Delibes, L\u00e9o -- Isouard, Nicolo -- Grisar, Albert","artist":"Dufranne, Hector -- Verlet, Alice -- Creus, Eugene de -- Montalant, Berthe Auguez de -- Vallier, Jean -- Guillamat, Paul -- Beyle, Leon -- Korsoff, Lucette","country":"Belgium France Germany Italy","catid":"SYMP1331","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=82001-2.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=82001-2.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D82001-2","desc":"PLANCON, Pol: Complete Victor Recordings 1903-1908","label":"Romophone","category":"Choral - Sacred - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Adam, Adolphe -- Niedermeyer, Abraham Louis -- Thomas, Ambroise -- Georges, Alexandre -- Faure, Jean-Baptiste -- Bemberg, Herman -- Verdi, Giuseppe -- Haydn, Franz Joseph -- Massenet, Jules -- Meyerbeer, Giacomo -- Schumann, Robert -- Bellini, Vincenzo -- Berlioz, Hector -- Godard, Benjamin -- Gounod, Charles-Francois -- Rossini, Gioachino -- Flotow, Friedrich von -- Ferrari, Benedetto -- Fl\u00e9gier, Ange","artist":"Studio pianist -- Eames, Emma -- Plancon, Pol -- Damores, Charles -- Studio orchestra","country":"Austria France Germany Italy","catid":"82001-2","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SYMP1264.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SYMP1264.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSYMP1264","desc":"Opera Arias (Bass): Plancon, Pol - HAYDN, F.J. \/ MOZART, W.A. \/ MEYERBEER, G. \/ BELLINI, V. (The Symposium Opera Collection, Vol. 5) (1902-1908)","label":"Symposium Records","category":"Opera - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Adam, Adolphe -- Thomas, Ambroise -- Georges, Alexandre -- Verdi, Giuseppe -- Haydn, Franz Joseph -- Meyerbeer, Giacomo -- Bellini, Vincenzo -- Berlioz, Hector -- Bizet, Georges -- Gounod, Charles-Francois -- Rossini, Gioachino -- Flotow, Friedrich von -- Ferrari, Benedetto -- Fl\u00e9gier, Ange","artist":"Eames, Emma -- Plancon, Pol","country":"Austria France Germany Italy","catid":"SYMP1264","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SYMP1252.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SYMP1252.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSYMP1252","desc":"Opera Arias - MEYERBEER, G. \/ DONIZETTI, G. \/ HALEVY, F. \/ THOMAS, A. (The Harold Wayne Collection, Vol. 40: The French Operatic Tradition)","label":"Symposium Records","category":"Opera - Classical Music","composer":"Adam, Adolphe -- Thomas, Ambroise -- Reyer, Ernest -- Verdi, Giuseppe -- Saint-Sa\u00ebns, Camille -- Gr\u00e9try, Andr\u00e9-Ernest-Modeste -- Messager, Andre -- Massenet, Jules -- Meyerbeer, Giacomo -- Bizet, Georges -- Donizetti, Gaetano -- Gounod, Charles-Francois -- Halevy, Fromental","artist":"Studio pianist -- Cotreuil, Edouard -- Gilly, Dinh -- Vezzani, Cesar -- Studio orchestra -- Affre, Agustarello -- Soulacroix, Gabriel -- Bourdon, Jeanne -- Aumonier, Paul -- Laute-Brun, Antoinette -- Belhomme, Hippolyte -- Raveau, Alice -- Francell, Fernand","country":"Belgium Brazil France Germany Italy Martinique","catid":"SYMP1252","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=5099920626754.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=5099920626754.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D5099920626754","desc":"Urnes De L'opera (Les) (1907-1912)","label":"Warner Classics - Parlophone","category":"Chamber Music - Classical Music","composer":"Kreisler, Fritz -- Pugno, Raoul -- Mozart, Wolfgang Amadeus -- Arditi, Luigi -- Bazzini, Antonio -- Adam, Adolphe -- Dell'Acqua, Eva -- Thomas, Ambroise -- Puccini, Giacomo -- Verdi, Giuseppe -- Saint-Sa\u00ebns, Camille -- Sarasate, Pablo de -- Lalo, \u00c9douard -- Hahn, Reynaldo -- Wagner, Richard -- Massenet, Jules -- Meyerbeer, Giacomo -- Chabrier, Emmanuel -- Chopin, Fryderyk -- Beethoven, Ludwig van -- Berlioz, Hector -- Bizet, Georges -- Donizetti, Gaetano -- Gounod, Charles-Francois -- Rossini, Gioachino -- Franck, C\u00e9sar -- Not Applicable, na -- Thome, Francis -- Isouard, Nicolo -- Masse, Victor -- Koenemann, Feodor Feodorovich","artist":"Kreisler, Fritz -- Abott, Bessie -- Homer, Louise -- Melba, Nellie -- Sembrich, Marcella -- Severina, Gina -- Daddi, Francesco -- Scotti, Antonio -- Falkenstein, George -- Tetrazzini, Luisa -- Amato, Pasquale -- Schumann-Heink, Ernestine -- Journet, Marcel -- Ronald, Landon -- Pugno, Raoul -- Farrar, Geraldine -- Kubelik, Jan -- Calve, Emma -- Plancon, Pol -- Battistini, Mattia -- Franz, Paul -- Caruso, Enrico -- Sabajno, Carlo -- Band of the Coldstream Guards -- De Lucia, Fernando -- Huguet, Giuseppina -- Tamagno, Francesco -- Boninsegna, Celestina -- Galvany, Maria -- Patti, Adelina -- Renaud, Maurice -- Kurz, Selma -- Dufranne, Hector -- Affre, Agustarello -- Viafora, Gina -- Brohly, Suzanne -- Montalant, Berthe Auguez de -- Beyle, Leon -- Korsoff, Lucette -- Musique de la Garde Republicaine -- Note, Jean -- Chaliapine, Feodor -- Carmagnola, Leon -- Vigneau, David -- Gemier, Firmin -- Merentie, Marguerite -- Lindsay, Julia -- Delacroix, Auguste -- Debruyne, Henry -- Liegeois, Cornelis","country":"Austria Belgium Brazil France Germany Italy Martinique Poland Russia Spain United States Venezuela","catid":"5099920626754","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI7840-41.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI7840-41.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI7840-41","desc":"Vocal Recital: Patti, Adelina - VERDI, G. \/ TOSTI, F.P. \/ RAMEAU, J.-P. \/ GLUCK, C.W. \/ YRADIER, S. \/ MEYERBEER, G. \/ MASSENET, J. (1905-1928)","label":"Prima Voce","category":"Opera - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Adam, Adolphe -- Thomas, Ambroise -- Rameau, Jean-Philippe -- Verdi, Giuseppe -- Wagner, Richard -- Traditional -- Tosti, Francesco Paolo -- Bishop, Henry -- Massenet, Jules -- Meyerbeer, Giacomo -- Iradier, Sebastian de -- Gomes, Carlos -- Bellini, Vincenzo -- Bizet, Georges -- Donizetti, Gaetano -- Erkel, Ferenc -- Gluck, Christoph Willibald -- Gounod, Charles-Francois -- Strauss, Richard -- Rossini, Gioachino -- Flotow, Friedrich von -- Hatton, John Liptrot","artist":"Ancona, Mario -- Melba, Nellie -- Sembrich, Marcella -- Ronald, Landon -- Calve, Emma -- Eames, Emma -- Reszke, Edouard de -- Plancon, Pol -- Battistini, Mattia -- De Lucia, Fernando -- Tamagno, Francesco -- Maurel, Victor -- Hesch, Wilhelm -- Patti, Adelina -- Barili, Alfredo -- Renaud, Maurice -- Vignas, Francesco -- Lehmann, Lilli -- Nordica, Lillian -- Santley, Charles -- Huguet, Josefina -- Fugere, Lucien","country":"Austria Belgium Brazil France Germany Hungary Italy Spain United Kingdom United States","catid":"NI7840-41","cdinfo":false}],"moreres":false};IMSLPNaxosSearch="adam le chalet";JGaskdonation=0;JGFileTools={"295178":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=295178"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/295178\/467740\/1008"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP295178"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=295178"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/295178"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/295178"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/295178"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23295178"}},"467740":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=467740"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/295178\/467740\/1008"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP467740"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=467740"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/467740"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/467740"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23467740"}},"445442":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445442"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445442"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445442"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445442"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445442"}},"445443":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445443"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445443"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445443"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445443"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445443"}},"445444":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445444"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445444"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445444"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445444"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445444"}},"445445":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445445"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445445"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445445"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445445"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445445"}},"445446":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445446"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445446"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445446"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445446"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445446"}},"445447":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445447"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445447"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445447"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445447"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445447"}},"445448":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445448"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445448"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445448"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445448"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445448"}},"445449":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445449"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445449"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445449"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445449"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445449"}},"445450":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445450"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445450"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445450"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445450"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445450"}},"445451":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445451"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445451"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445451"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445451"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445451"}},"445452":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445452"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445452"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445452"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445452"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445452"}},"445453":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445453"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445453"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445453"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445453"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445453"}},"445454":{"015-ZIPFILE":{"icon":52,"label":"Download 13 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/445442\/445443\/445444\/445445\/445446\/445447\/445448\/445449\/445450\/445451\/445452\/445453\/445454\/10d5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP445454"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=445454"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/445454"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/445454"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23445454"}},"295176":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=295176"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/295176\/295177\/71148\/583f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP295176"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=295176"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/295176"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/295176"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23295176"}},"295177":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=295177"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/295176\/295177\/71148\/583f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP295177"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=295177"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/295177"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/295177"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23295177"}},"71148":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=71148"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/295176\/295177\/71148\/583f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP71148"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=71148"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/71148"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/71148"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%2371148"}},"105432":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=105432"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP105432"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=105432"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/105432"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/105432"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23105432"}},"249890":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=249890"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP249890"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=249890"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/249890"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/249890"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23249890"}},"34867":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=34867"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP34867"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=34867"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/34867"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/34867"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%2334867"}},"97640":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=97640"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP97640"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/97640"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/97640"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%2397640"}},"442539":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=442539"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP442539"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=442539"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/442539"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/442539"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23442539"}},"442540":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=442540"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP442540"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=442540"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/442540"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/442540"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23442540"}},"107777":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=107777"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP107777"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=107777"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/107777"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+chalet+%28Adam%2C+Adolphe%29&frmTitle=IMSLP+%23107777"}}};JGFileOpts={"295178":[],"467740":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCSG7bhXpeJpP8jiUMU6cKfLR80UPhEo5H7JmMRox8Ci28JOobSZi05VGXhx9AXkXcdVI9fdsC5+e4Dl0BL9Cs"},"445442":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biaYHyrUXkB3NrL0exPnqF9ToPq94QygRMUFArWtuymZwMr0uOwwiN0wzOffAYrXJnEi8SaJvL8DRFePvIdfHAIxStjhh4Xeol9drgXyqdyjA=="},"445443":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhxwJnBXNK6ANGuF5YjdKe\/0DmqRHIhGVguvR0rRVYIurMDYBzmqXF3M3+2TOsmj4WFKlhhtJzPKoTI3Y7OdqwUnE5hZHc2IQ6SkBNUipWGMA=="},"445444":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biQih2N0XW\/rLfTlI\/irCBkWjLBD1OFh5UDAW3Xo74JmOOg1x7TIVoeSw2Q+xbwzq+xVtqcDVnlG3dZOkbTk7\/B5jshh92sMPWodtk5oyO8YQ=="},"445445":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bidVU5m2wKV1dowmGrYCOq3SzLZLOOPqTccgiz1OE8FekRWTCIsNPeP1vBrN3+xYKfiwTwHpa6f+hDGoA+XLj\/0RKDnORybbFlI043cAp9DAQ=="},"445446":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg0FECXVJkJgS9b5BeLXAFszhW2kmXNXlkQT53cG2ehEeNnuJnvhfWSiaBCZ019eeQUG8MBbspIKiuxjY\/c4e9u"},"445447":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDXwBMMkaeJ6grRRPTlWmCl2mdbsBHiGY16z\/CagXDuBfhG7p9dczeQ\/MfKA\/ixt07S9hWoq4s5Z30Jrrj9OV4RytPFmyDk8N6OpAWDLLV+A=="},"445448":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6QjESDsEqy90IBPEP0J14CdsGCT8VZzq5D6bDV9Y0kCBJG+C2\/65+fK21a2fhgPmDF\/uxLg9WzdtNPdltniUxvISfSgrT1eAL2H+wTUe5Cg=="},"445449":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkGk8P49yN8bZfwynJUFuzl55ZlzXiftFn2nry7SPte1r76RtG9xWoUPf8XzfHNDA0AbgRjoJ+BkwYVV3Ofi6SJfzVDIjbQmQET0iqB8MvIQ=="},"445450":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjkuHqBx2vhgZcAsm4+\/P6LBYBaAWKLOwiz4FUNsBAIAJleqiWNPHFchK+OEz8S7O2ytpJLCLbofNQyjL\/5TG7Jq4kMkBKxFR53\/5W2wFXw6g=="},"445451":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi5iAP0g0iYtVAry0tiJasnbwpuAIKDAd7UoaSiNH6u81f6EEj0M7JENxskck5Rezb4KwLRpNx06NUfAqLwicTskV2ncMjF\/9OZu3S0QQu+bg=="},"445452":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgY2mMX1TRqVCnWG\/q3T+GSD2gytBYPtuDfGxqGxnDbsBNHQbwhKjLMdxse5yzQtBMcN63arVzzVLkRHWGVN4G7oYpNbU3ARJEiJipA4IEJfw=="},"445453":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj\/2k6uZK9ttBBaEhalSbdeEpMQ624B7UR+06mm7Se\/HEdi3r+LBOdA\/NZE1OJvrqBLF7XMbVWFLaqmjJAcVoGf"},"445454":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9qUK4HTB+BNC\/XGMNB6T69klzVWK5QHRoNEkZcFEgl0HEZOlWE6\/MYnJ5RCcFxjL0fZOYDlrUI9BBAToJA83qL+hmaprzrttk1lxkDdWGfA=="},"295176":[],"295177":[],"71148":[],"105432":[],"249890":[],"34867":[],"97640":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biNagzWDR\/nKrXoksXMq5Gsb6obozky4rtBdRA1VjoKxqFFit+zg0SH9DR6lY2j81GJW8zSmNlbD4X02cc+6\/4E"},"442539":[],"442540":[],"107777":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh70GrlLb1mPR2ov55ML9kkmGCG1eRVuL77PHpivZ\/VOQ2OgCzSLorMu7rni1K5DK+vgE0UpnLG1FJT+921t7DRw+mYnmhx4aru8z+1IwqFqxMsnPAYcRgtm1FoD0B5JQU="}};JGPageUntagged=false;JGPageTags=["operas comiques","vv ch orch","fr"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabScore3":false,"tabArrTrans":false,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"105432":[2,"1"],"295178":[0,0],"467740":[0,0],"445442":[0,0],"445443":[0,0],"445444":[0,0],"445445":[0,0],"445446":[0,0],"445447":[0,0],"445448":[0,0],"445449":[0,0],"445450":[0,0],"445451":[0,0],"445452":[0,0],"445453":[0,0],"445454":[0,0],"295176":[0,0],"295177":[0,0],"71148":[0,0],"249890":[0,0],"34867":[0,0],"97640":[0,0],"442539":[0,0],"442540":[0,0],"107777":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Overture"><span class="tocnumber">2.2.1</span> <span class="toctext">Overture</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.3</span> <span class="toctext">Vocal Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.4</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Complete"><span class="tocnumber">2.4.1</span> <span class="toctext">Complete</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Piano_solo_.28Lemoine.29"><span class="tocnumber">2.4.1.1</span> <span class="toctext">For Piano solo (Lemoine)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Duo:_.27Il_faut_me_c.C3.A9der_ta_ma.C3.AEtresse.27"><span class="tocnumber">2.4.2</span> <span class="toctext">Duo: 'Il faut me céder ta maîtresse'</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Voices_and_Guitar"><span class="tocnumber">2.4.2.1</span> <span class="toctext">For Voices and Guitar</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">2</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">13</span>)</a></b></li><li id="tabScore3_tab"><b><a href="#tabScore3">Vocal Scores (<span id="tabScore3_ct">7</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">3</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<div class="we"><div id="IMSLP295178" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/295178"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (color)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/22/PMLP78487-lechaletopracomi34adam.pdf" class="internal" title="PMLP78487-lechaletopracomi34adam.pdf">*</a></span><a href="/wiki/File:PMLP78487-lechaletopracomi34adam.pdf" title="File:PMLP78487-lechaletopracomi34adam.pdf">#295178</a> - <span style="color:red"><b>44.35</b></span>MB, 262 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-295178' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-295178'>
+	<a href='javascript:void(0)' id='295178' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='295178' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='295178' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='295178' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='295178' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-295178'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/295178/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/295178/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 353"><a href="/wiki/Special:GetFCtrStats/@295178" title="Special:GetFCtrStats/@295178">353</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechaletopracomi34adam#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University in collaboration with Royal Conservatory Antwerp">archive.org</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/9/8" class="hovertext">2013/9/7</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP467740" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/467740"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Overture (color)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/PMLP78487-Adam_Le_Chalet.pdf" class="internal" title="PMLP78487-Adam Le Chalet.pdf">*</a></span><a href="/wiki/File:PMLP78487-Adam_Le_Chalet.pdf" title="File:PMLP78487-Adam Le Chalet.pdf">#467740</a> - 7.07MB, 36 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-467740' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-467740'>
+	<a href='javascript:void(0)' id='467740' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='467740' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='467740' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='467740' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='467740' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-467740'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/467740/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/467740/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 13"><a href="/wiki/Special:GetFCtrStats/@467740" title="Special:GetFCtrStats/@467740">13</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Dandeutsch&amp;action=edit&amp;redlink=1" class="new" title="User:Dandeutsch (page does not exist)">Dandeutsch</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechaletopracomi34adam#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University in collaboration with Royal Conservatory Antwerp">archive.org</span></a></span><br />
+<a href="/index.php?title=User:Dandeutsch&amp;action=edit&amp;redlink=1" class="new" title="User:Dandeutsch (page does not exist)">Dandeutsch</a> (2017/4/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Schonenberger" title="Schonenberger">Schonenberger</a><!--ASL0-->, n.d.[1834].  Plate 240 S.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=295178/467740">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=295178/467740">del</a>/<span id="fmrglnk" data-pdfstr="295178//467740/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Publication noted in the <i><a href="/wiki/Bibliographie_de_la_France" title="Bibliographie de la France">Bibliographie de la France</a></i>&#160;1e série, 24e année (38e (?) de la collection), Nº 9, 28 février 1835, p.143, r.81. - rather early 1835 so probably? 1834. This score includes measure numbers.<br />Part of the research project <span class="plainlinks"><a rel="nofollow" class="external text" href="http://individual.utoronto.ca/svdm/index.html">Romantic Overtures, 1820-1850</a></span> (#467740)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="295178">Javascript is required for this feature.</div><script>JGINITsearchbars['295178']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=295178|467740&type=Complete%20Score%20%28color%29%7COverture%20%28color%29&pgcount=262|36&signature=39f7abf40acfc5debdc3d0f2062a29785ffcd6aa"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<h4> <span class="mw-headline" id="Overture">Overture</span></h4>
+<div class="we"><div id="IMSLP445442" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445442"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1/Piccolo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e7/PMLP78487-1a-Adam-LeChalet-01-Flutes.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-01-Flutes.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-01-Flutes.pdf" title="File:PMLP78487-1a-Adam-LeChalet-01-Flutes.pdf">#445442</a> - 0.53MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445442' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445442'>
+	<a href='javascript:void(0)' id='445442' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445442' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445442' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445442' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445442' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445442'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445442/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445442/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 8"><a href="/wiki/Special:GetFCtrStats/@445442" title="Special:GetFCtrStats/@445442">8</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>12 more</u>:</b> Oboe 1/2 • Clarinet 1/2 (A) • Bassoon 1/2 • Horn 1/2 (D), 3/4 (A/G) • Trumpet 1/2 (D), Cornet (A) • Trombone 1/2, 3 • Timpani • Snare Drum, Bass Drum/Triangle • Violins I • Violins II • Violas • Cellos/Basses
+</p>
+</div><div id="IMSLP445443" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445443"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/62/PMLP78487-1a-Adam-LeChalet-02-Hautbois.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-02-Hautbois.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-02-Hautbois.pdf" title="File:PMLP78487-1a-Adam-LeChalet-02-Hautbois.pdf">#445443</a> - 0.50MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445443' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445443'>
+	<a href='javascript:void(0)' id='445443' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445443' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445443' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445443' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445443' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445443'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445443/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445443/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@445443" title="Special:GetFCtrStats/@445443">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445444" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445444"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1/2 (A)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0f/PMLP78487-1a-Adam-LeChalet-03-Clarinettes.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-03-Clarinettes.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-03-Clarinettes.pdf" title="File:PMLP78487-1a-Adam-LeChalet-03-Clarinettes.pdf">#445444</a> - 0.68MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445444' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445444'>
+	<a href='javascript:void(0)' id='445444' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445444' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445444' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445444' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445444' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445444'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445444/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445444/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@445444" title="Special:GetFCtrStats/@445444">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445445" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445445"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1/2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/48/PMLP78487-1a-Adam-LeChalet-04-Bassons.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-04-Bassons.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-04-Bassons.pdf" title="File:PMLP78487-1a-Adam-LeChalet-04-Bassons.pdf">#445445</a> - 0.63MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445445' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445445'>
+	<a href='javascript:void(0)' id='445445' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445445' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445445' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445445' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445445' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445445'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445445/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445445/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5"><a href="/wiki/Special:GetFCtrStats/@445445" title="Special:GetFCtrStats/@445445">5</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445446" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445446"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1/2 (D), 3/4 (A/G)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b5/PMLP78487-1a-Adam-LeChalet-05-Cors.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-05-Cors.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-05-Cors.pdf" title="File:PMLP78487-1a-Adam-LeChalet-05-Cors.pdf">#445446</a> - 0.92MB, 6 (3, 3) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445446' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445446'>
+	<a href='javascript:void(0)' id='445446' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445446' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445446' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445446' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445446' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445446'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445446/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445446/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@445446" title="Special:GetFCtrStats/@445446">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445447" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445447"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1/2 (D), Cornet (A)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4c/PMLP78487-1a-Adam-LeChalet-06-Trompettes-Cornet.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-06-Trompettes-Cornet.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-06-Trompettes-Cornet.pdf" title="File:PMLP78487-1a-Adam-LeChalet-06-Trompettes-Cornet.pdf">#445447</a> - 0.39MB, 3 (2, 1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445447' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445447'>
+	<a href='javascript:void(0)' id='445447' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445447' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445447' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445447' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445447' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445447'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445447/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445447/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@445447" title="Special:GetFCtrStats/@445447">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445448" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445448"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1/2, 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6e/PMLP78487-1a-Adam-LeChalet-07-Trombones.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-07-Trombones.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-07-Trombones.pdf" title="File:PMLP78487-1a-Adam-LeChalet-07-Trombones.pdf">#445448</a> - 0.62MB, 4 (2, 2) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445448' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445448'>
+	<a href='javascript:void(0)' id='445448' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445448' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445448' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445448' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445448' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445448'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445448/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445448/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5"><a href="/wiki/Special:GetFCtrStats/@445448" title="Special:GetFCtrStats/@445448">5</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445449" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445449"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4f/PMLP78487-1a-Adam-LeChalet-08-Timbales.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-08-Timbales.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-08-Timbales.pdf" title="File:PMLP78487-1a-Adam-LeChalet-08-Timbales.pdf">#445449</a> - 0.09MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445449' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445449'>
+	<a href='javascript:void(0)' id='445449' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445449' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445449' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445449' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445449' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445449'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445449/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445449/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@445449" title="Special:GetFCtrStats/@445449">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445450" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445450"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Snare Drum, Bass Drum/Triangle</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0c/PMLP78487-1a-Adam-LeChalet-09-Percussions.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-09-Percussions.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-09-Percussions.pdf" title="File:PMLP78487-1a-Adam-LeChalet-09-Percussions.pdf">#445450</a> - 0.33MB, 2 (1, 1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445450' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445450'>
+	<a href='javascript:void(0)' id='445450' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445450' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445450' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445450' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445450' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445450'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445450/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445450/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@445450" title="Special:GetFCtrStats/@445450">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445451" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445451"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/19/PMLP78487-1a-Adam-LeChalet-10-Violon1.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-10-Violon1.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-10-Violon1.pdf" title="File:PMLP78487-1a-Adam-LeChalet-10-Violon1.pdf">#445451</a> - 0.43MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445451' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445451'>
+	<a href='javascript:void(0)' id='445451' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445451' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445451' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445451' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445451' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445451'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445451/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445451/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@445451" title="Special:GetFCtrStats/@445451">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445452" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445452"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b0/PMLP78487-1a-Adam-LeChalet-11-Violon2.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-11-Violon2.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-11-Violon2.pdf" title="File:PMLP78487-1a-Adam-LeChalet-11-Violon2.pdf">#445452</a> - 0.31MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445452' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445452'>
+	<a href='javascript:void(0)' id='445452' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445452' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445452' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445452' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445452' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445452'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445452/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445452/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5"><a href="/wiki/Special:GetFCtrStats/@445452" title="Special:GetFCtrStats/@445452">5</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445453" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445453"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP78487-1a-Adam-LeChalet-12-Alto.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-12-Alto.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-12-Alto.pdf" title="File:PMLP78487-1a-Adam-LeChalet-12-Alto.pdf">#445453</a> - 0.30MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445453' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445453'>
+	<a href='javascript:void(0)' id='445453' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445453' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445453' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445453' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445453' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445453'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445453/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445453/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@445453" title="Special:GetFCtrStats/@445453">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP445454" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/445454"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos/Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/50/PMLP78487-1a-Adam-LeChalet-13-Basses.pdf" class="internal" title="PMLP78487-1a-Adam-LeChalet-13-Basses.pdf">*</a></span><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-13-Basses.pdf" title="File:PMLP78487-1a-Adam-LeChalet-13-Basses.pdf">#445454</a> - 0.42MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-445454' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-445454'>
+	<a href='javascript:void(0)' id='445454' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='445454' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='445454' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='445454' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='445454' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-445454'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/445454/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/445454/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5"><a href="/wiki/Special:GetFCtrStats/@445454" title="Special:GetFCtrStats/@445454">5</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Philhar<br />
+<a href="/wiki/User:Philhar" title="User:Philhar">Philhar</a> (2016/10/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Schonenberger" title="Schonenberger">Schonenberger</a><!--ASL1-->, 1834.  Plate 241 S. (13260 H.).
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=445442/445443/445444/445445/445446/445447/445448/445449/445450/445451/445452/445453/445454">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=445442/445443/445444/445445/445446/445447/445448/445449/445450/445451/445452/445453/445454">del</a>/<span id="fmrglnk" data-pdfstr="445442//445443//445444//445445//445446//445447//445448//445449//445450//445451//445452//445453//445454/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="445442">Javascript is required for this feature.</div><script>JGINITsearchbars['445442']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=445442|445443|445444|445445|445446|445447|445448|445449|445450|445451|445452|445453|445454&type=Flute%201%2FPiccolo%7COboe%201%2F2%7CClarinet%201%2F2%20%28A%29%7CBassoon%201%2F2%7CHorn%201%2F2%20%28D%29%2C%203%2F4%20%28A%2FG%29%7CTrumpet%201%2F2%20%28D%29%2C%20Cornet%20%28A%29%7CTrombone%201%2F2%2C%203%7CTimpani%7CSnare%20Drum%2C%20Bass%20Drum%2FTriangle%7CViolins%20I%7CViolins%20II%7CViolas%7CCellos%2FBasses&pgcount=3|3|4|4|6|3|4|1|2|3|2|2|3&signature=630a23fb83c862ad63021c4972d2dbf0f089c0e2"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP78487-1a-Adam-LeChalet-01-Flutes.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/e7/40558c5a8f711e04cde814affcf8fb16349277c6.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<div class="we"><div id="IMSLP295176" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/295176"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (color)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f2/PMLP78487-lechletoprac00adam.pdf" class="internal" title="PMLP78487-lechletoprac00adam.pdf">*</a></span><a href="/wiki/File:PMLP78487-lechletoprac00adam.pdf" title="File:PMLP78487-lechletoprac00adam.pdf">#295176</a> - 18.54MB, 156 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-295176' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-295176'>
+	<a href='javascript:void(0)' id='295176' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='295176' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='295176' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='295176' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='295176' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-295176'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/295176/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/295176/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 143"><a href="/wiki/Special:GetFCtrStats/@295176" title="Special:GetFCtrStats/@295176">143</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechletoprac00adam#page/n5#page/CDN-Tu/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/9/8" class="hovertext">2013/9/7</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP295177" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/295177"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (mono)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3e/PMLP78487-lechletoprac00adam_bw.pdf" class="internal" title="PMLP78487-lechletoprac00adam bw.pdf">*</a></span><a href="/wiki/File:PMLP78487-lechletoprac00adam_bw.pdf" title="File:PMLP78487-lechletoprac00adam bw.pdf">#295177</a> - 14.84MB, 156 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-295177' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-295177'>
+	<a href='javascript:void(0)' id='295177' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='295177' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='295177' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='295177' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='295177' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-295177'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/295177/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/295177/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 121"><a href="/wiki/Special:GetFCtrStats/@295177" title="Special:GetFCtrStats/@295177">121</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechletoprac00adam#page/n5#page/CDN-Tu/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/9/8" class="hovertext">2013/9/7</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP71148" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/71148"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (mono)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/60/PMLP78487-Adam_-_Le_chalet_VS.pdf" class="internal" title="PMLP78487-Adam - Le chalet VS.pdf">*</a></span><a href="/wiki/File:PMLP78487-Adam_-_Le_chalet_VS.pdf" title="File:PMLP78487-Adam - Le chalet VS.pdf">#71148</a> - 14.56MB, 141 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-71148' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-71148'>
+	<a href='javascript:void(0)' id='71148' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='71148' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='71148' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='71148' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='71148' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-71148'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/71148/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/71148/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 913"><a href="/wiki/Special:GetFCtrStats/@71148" title="Special:GetFCtrStats/@71148">913</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechaletopraco00adam#page/n5#page/CDN-Tu/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2010/7/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Schonenberger, n.d.[1834]. Plate S. 1049.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=295176/295177/71148">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=295176/295177/71148">del</a>/<span id="fmrglnk" data-pdfstr="295176//295177//71148/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>2 different scores. The 2010 upload appears to have less music.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="295176">Javascript is required for this feature.</div><script>JGINITsearchbars['295176']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=295176|295177|71148&type=Complete%20Score%20%28color%29%7CComplete%20Score%20%28mono%29%7CComplete%20Score%20%28mono%29&pgcount=156|156|141&signature=3e194cdf6cd7a33a027b0f722640d47137c41b54"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP105432" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/105432"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5e/PMLP78487-Adam_-_Le_chalet_%28german_vs_BH%29.pdf" class="internal" title="PMLP78487-Adam - Le chalet (german vs BH).pdf">*</a></span><a href="/wiki/File:PMLP78487-Adam_-_Le_chalet_(german_vs_BH).pdf" title="File:PMLP78487-Adam - Le chalet (german vs BH).pdf">#105432</a> - 14.48MB, 107 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-105432' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-105432'>
+	<a href='javascript:void(0)' id='105432' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='105432' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='105432' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='105432' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='105432' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-105432'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/105432/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/105432/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 365"><a href="/wiki/Special:GetFCtrStats/@105432" title="Special:GetFCtrStats/@105432">365</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://elibrary.rsl.ru/?lang=en"><span style="border-bottom:1px dotted black" title="Russian State Library">RUS-Mrg</span></a></span><br />
+<a href="/wiki/User:Caprotti" title="User:Caprotti">Caprotti</a> (2011/6/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Language
+</th>
+<td>German / French
+</td></tr>
+<tr>
+<th>Translator
+</th>
+<td><a href="/wiki/Category:Wolff,_Oscar_Ludwig_Bernhard" title="Category:Wolff, Oscar Ludwig Bernhard">Oscar Ludwig Bernhard Wolff</a> (1799-1851), German text
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf und Härtel</a><!--ASL2-->, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001835&amp;teil=0203&amp;seite=00000045&amp;zoom=1">[1835]</a></span>.  Plate 5588.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=105432">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=105432">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Received by HMB in May 1835.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="105432">Javascript is required for this feature.</div><script>JGINITsearchbars['105432']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=105432&type=Complete%20Score&pgcount=107&signature=be5b3f965536e9379a4ceac2b6ebf53c8a7bc239"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP78487-Adam_-_Le_chalet_(german_vs_BH).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/5e/85774fe1d12c7a21da583fbd8f9a20e32eebe3ec.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP249890" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/249890"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6b/PMLP78487-Adam_-_Chalet_LemoineVS.pdf" class="internal" title="PMLP78487-Adam - Chalet LemoineVS.pdf">*</a></span><a href="/wiki/File:PMLP78487-Adam_-_Chalet_LemoineVS.pdf" title="File:PMLP78487-Adam - Chalet LemoineVS.pdf">#249890</a> - 17.61MB, 158 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-249890' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-249890'>
+	<a href='javascript:void(0)' id='249890' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='249890' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='249890' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='249890' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='249890' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-249890'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/249890/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/249890/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 148"><a href="/wiki/Special:GetFCtrStats/@249890" title="Special:GetFCtrStats/@249890">148</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechaletopracomi00adam#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (<span title="Updated: 2012/9/10" class="hovertext">2012/9/9</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Lemoine" title="Lemoine">Henry Lemoine</a>, n.d.[1881].  Plate 8412.HL.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=249890">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=249890">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="249890">Javascript is required for this feature.</div><script>JGINITsearchbars['249890']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=249890&type=Complete%20Score&pgcount=158&signature=0d2b4adb035ed85340dbc70d648b727b2ea2b895"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP34867" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/34867"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/db/PMLP78487-Adam-ChaletVS.pdf" class="internal" title="PMLP78487-Adam-ChaletVS.pdf">*</a></span><a href="/wiki/File:PMLP78487-Adam-ChaletVS.pdf" title="File:PMLP78487-Adam-ChaletVS.pdf">#34867</a> - 10.69MB, 254 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-34867' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-34867'>
+	<a href='javascript:void(0)' id='34867' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='34867' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='34867' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='34867' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='34867' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-34867'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/34867/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/34867/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 432"><a href="/wiki/Special:GetFCtrStats/@34867" title="Special:GetFCtrStats/@34867">432</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Alaric" title="User:Alaric">Alaric</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Alaric" title="User:Alaric">Alaric</a> (2009/7/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Jules Tallendier, n.d.(ca.1900).<br /> "with authorization from <a href="/wiki/Lemoine" title="Lemoine">Henry Lemoine &amp; Cie.</a>"
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=34867">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=34867">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.archive.org/stream/blechletoprac00adam#page/n0">View Univ. Toronto scan at archive.org</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="34867">Javascript is required for this feature.</div><script>JGINITsearchbars['34867']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=34867&type=Complete%20score&pgcount=254&signature=cfcfd7a9498c02d05a04bb8952785ea7f670ccee"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP78487-Adam-ChaletVS.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/db/b76e118d87ccd8c538764121a48d11da677cbb69.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP97640" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/97640"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/87/PMLP78487-Adam_-_Le_chalet_VS_UNC.pdf" class="internal" title="PMLP78487-Adam - Le chalet VS UNC.pdf">*</a></span><a href="/wiki/File:PMLP78487-Adam_-_Le_chalet_VS_UNC.pdf" title="File:PMLP78487-Adam - Le chalet VS UNC.pdf">#97640</a> - 8.09MB, 161 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-97640' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-97640'>
+	<a href='javascript:void(0)' id='97640' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='97640' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='97640' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='97640' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='97640' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-97640'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/97640/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/97640/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 366"><a href="/wiki/Special:GetFCtrStats/@97640" title="Special:GetFCtrStats/@97640">366</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/lechaletopracoadam#page/n7#page/UNC-CH/mode/2up"><span style="border-bottom:1px dotted black" title="University of North Carolina at Chapel Hill">US-CHH</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2011/3/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/index.php?title=Category:Moreau,_Raoul&amp;action=edit&amp;redlink=1" class="new" title="Category:Moreau, Raoul (page does not exist)">Raoul Moreau</a>, piano reduction
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Choudens" title="Choudens">Choudens</a>, n.d.(ca.1915).  Plate A.C. 15385.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=97640">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=97640">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="97640">Javascript is required for this feature.</div><script>JGINITsearchbars['97640']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP78487-Adam_-_Le_chalet_VS_UNC.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/87/84e3dfa2bdb9878a30e3f47c57d24ff3c5d35907.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Vocal Scores" data-tabid="tabScore3"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Complete">Complete</span></h4>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Lemoine.29">For Piano solo (Lemoine)</span></h5>
+<div class="we"><div id="IMSLP442539" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/442539"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Segment 1 (pp.1-35)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/da/PMLP78487-EL-unl-1851.pdf" class="internal" title="PMLP78487-EL-unl-1851.pdf">*</a></span><a href="/wiki/File:PMLP78487-EL-unl-1851.pdf" title="File:PMLP78487-EL-unl-1851.pdf">#442539</a> - <span style="color:red"><b>42.92</b></span>MB, 35 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-442539' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-442539'>
+	<a href='javascript:void(0)' id='442539' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='442539' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='442539' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='442539' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='442539' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-442539'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/442539/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/442539/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 12"><a href="/wiki/Special:GetFCtrStats/@442539" title="Special:GetFCtrStats/@442539">12</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Unl&amp;action=edit&amp;redlink=1" class="new" title="User:Unl (page does not exist)">Unl</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://contentdm.unl.edu/cdm/compoundobject/collection/opera/id/1798"><span style="border-bottom:1px dotted black" title="University of Nebraska-Lincoln">US-LIu</span></a></span><br />
+<a href="/index.php?title=User:Unl&amp;action=edit&amp;redlink=1" class="new" title="User:Unl (page does not exist)">Unl</a> (2016/10/10)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP442540" class="we_file we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/442540"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Segment 2 (pp.36-84)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/12/PMLP78487-EL-unl-1852.pdf" class="internal" title="PMLP78487-EL-unl-1852.pdf">*</a></span><a href="/wiki/File:PMLP78487-EL-unl-1852.pdf" title="File:PMLP78487-EL-unl-1852.pdf">#442540</a> - <span style="color:red"><b>59.77</b></span>MB, 49 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-442540' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-442540'>
+	<a href='javascript:void(0)' id='442540' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='442540' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='442540' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='442540' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='442540' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-442540'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/442540/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/442540/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 12"><a href="/wiki/Special:GetFCtrStats/@442540" title="Special:GetFCtrStats/@442540">12</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Unl&amp;action=edit&amp;redlink=1" class="new" title="User:Unl (page does not exist)">Unl</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://contentdm.unl.edu/cdm/compoundobject/collection/opera/id/1798"><span style="border-bottom:1px dotted black" title="University of Nebraska-Lincoln">US-LIu</span></a></span><br />
+<a href="/index.php?title=User:Unl&amp;action=edit&amp;redlink=1" class="new" title="User:Unl (page does not exist)">Unl</a> (2016/10/10)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Lemoine,_L%C3%A9on" title="Category:Lemoine, Léon">Léon Lemoine</a> (1855-1916)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: H. Lemoine, n.d. Plate 8334 P. 551 H 8552. HL.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=442539/442540">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=442539/442540">del</a>/<span id="fmrglnk" data-pdfstr="442539//442540/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the University of Nebraska-Lincoln<br />Rokahr Family Archive Mirroring Project.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="442539">Javascript is required for this feature.</div><script>JGINITsearchbars['442539']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=442539|442540&type=Segment%201%20%28pp.1-35%29%7CSegment%202%20%28pp.36-84%29&pgcount=35|49&signature=2a0c6ff1c1707696b5c2bbd23487e078962ed2e4"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP78487-EL-unl-1851.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/da/a10a917e815a5711c91014e84fc9585e91e8ea9a.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Duo:_.27Il_faut_me_c.C3.A9der_ta_ma.C3.AEtresse.27">Duo: 'Il faut me céder ta maîtresse'</span></h4>
+<h5> <span class="mw-headline" id="For_Voices_and_Guitar">For Voices and Guitar</span></h5>
+<div class="we"><div id="IMSLP107777" class="we_file_first we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/107777"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f0/PMLP78487-ADAM_-_Le_Chalet_-_Duo_t%C3%A9nor-baryton_-_Chant_et_Guitare.pdf" class="internal" title="PMLP78487-ADAM - Le Chalet - Duo ténor-baryton - Chant et Guitare.pdf">*</a></span><a href="/wiki/File:PMLP78487-ADAM_-_Le_Chalet_-_Duo_t%C3%A9nor-baryton_-_Chant_et_Guitare.pdf" title="File:PMLP78487-ADAM - Le Chalet - Duo ténor-baryton - Chant et Guitare.pdf">#107777</a> - 3.47MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-107777' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-107777'>
+	<a href='javascript:void(0)' id='107777' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='107777' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='107777' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='107777' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='107777' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-107777'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/107777/Le_chalet_(Adam,_Adolphe)" title="Special:IMSLPEditCTag/107777/Le chalet (Adam, Adolphe)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 219"><a href="/wiki/Special:GetFCtrStats/@107777" title="Special:GetFCtrStats/@107777">219</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:PascalPACBO&amp;action=edit&amp;redlink=1" class="new" title="User:PascalPACBO (page does not exist)">PascalPACBO</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:PascalPACBO&amp;action=edit&amp;redlink=1" class="new" title="User:PascalPACBO (page does not exist)">PascalPACBO</a> (2011/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Schonenberger, n.d.  Plate S.N. 843 (?).
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=107777">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=107777">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="107777">Javascript is required for this feature.</div><script>JGINITsearchbars['107777']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=107777&type=Complete%20Score&pgcount=12&signature=147661609078dc2b60c1eb87d9479929f27dc168"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP78487-ADAM_-_Le_Chalet_-_Duo_t%C3%A9nor-baryton_-_Chant_et_Guitare.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f0/c832ef284d3aa0bd8d760c283666246a5cf82e61.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Le chalet
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Opéra comique en un acte
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Adam,_Adolphe" title="Category:Adam, Adolphe">Adam, Adolphe</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IAA 7
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>1 act
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1834
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1834-09-25 in Paris, Opéra-Comique
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1834 – Paris: Schonenberger
+<ul><li><i>Vocal score</i> – Plate S. 1049, 141 pages.
+</li></ul>
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Scribe,_Eug%C3%A8ne" title="Category:Scribe, Eugène">Eugène Scribe</a> (1791-1861)<br /><a href="/wiki/Category:Duveyrier,_Anne-Honor%C3%A9-Joseph" title="Category:Duveyrier, Anne-Honoré-Joseph">Anne-Honoré-Joseph Duveyrier</a> (1787-1865)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>voices, mixed chorus, orchestra
+</td></tr>
+<tr>
+<th>Related Works
+</th>
+<td><a href="/wiki/Category:Pieces_based_on_Adam%27s_%27Le_chalet%27" title="Category:Pieces based on Adam's 'Le chalet'"><i>Pieces based on 'Le chalet'</i></a>
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Le_chalet" class="extiw" title="wikipedia:Le chalet">Wikipedia article</a>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<table width="95%" align="center" style="font-size: 95%">
+
+<tr>
+<th colspan="3" align="center" style="background-color:rgb(250,190,135)"><b>Operas by <a href="/wiki/Category:Adam,_Adolphe" title="Category:Adam, Adolphe">Adolphe Adam</a></b>
+</th></tr>
+<tr>
+<td valign="top" width="33%" style="background-color:rgb(250,220,180)">
+<ul><li><i>Pierre et Marie, ou Le soldat ménétrier</i> (1824)
+</li><li><i>Le baiser au porteur</i> (1824)
+</li><li><i>Le bal champêtre</i> (1824)
+</li><li><i>La haine d'une femme</i> (1824)
+</li><li><i>L'exilé</i> (1825)
+</li><li><i>La dame jaune</i> (1826)
+</li><li><i>L'oncle d'Amérique</i> (1826)
+</li><li><i>L'anonyme</i> (1826)
+</li><li><i>Le hussard de Felsheim</i> (1827)
+</li><li><i>L'héritière et l'orpheline</i> (1827)
+</li><li><i>Perkins Warbeck</i> (1827)
+</li><li><i>Mon ami Pierre</i> (1827)
+</li><li><i>Monsieur Botte</i> (1827)
+</li><li><i>Le caleb de Walter Scott</i> (1827)
+</li><li><i>Le mal du pays, ou La batelière de Brientz</i> (1827)
+</li><li><i>Lidda, ou La jeune servante</i> (1828)
+</li><li><i>La reine de seize ans</i> (1828)
+</li><li><i>Le barbier chatelain, ou La loterie de Francfort</i> (1828)
+</li><li><i>Les comédiens par testament</i> (1828)
+</li><li><i>Les trois cantons, ou La Confédération suisse</i> (1828)
+</li><li><i>Valentine, ou La chute des feuilles</i> (1828)
+</li><li><i>Le clé</i> (1828)
+</li><li><i>Le jeune propriétaire et le vieux fermier</i> (1829)
+</li></ul>
+</td>
+<td valign="top" width="34%" style="background-color:rgb(250,220,180)">
+<ul><li><i><a href="/wiki/Pierre_et_Catherine_(Adam,_Adolphe)" title="Pierre et Catherine (Adam, Adolphe)">Pierre et Catherine</a></i> (1829)
+</li><li><i>Isaure</i> (1829)
+</li><li><i>Henri V et ses compagnons</i> (1830)
+</li><li><i>Danilowa</i> (1830)
+</li><li><i>Rafaël</i> (1830)
+</li><li><i>Trois jours en une heure</i> (1830), collab. <a href="/wiki/Category:Romagnesi,_Antoine" title="Category:Romagnesi, Antoine">Antoine Romagnesi</a>
+</li><li><i>Les trois Catherine</i> (1830), collab. <a href="/wiki/Category:Gide,_Casimir" title="Category:Gide, Casimir">Casimir Gide</a>
+</li><li><i>Joséphine, ou Le retour de Wagram</i> (1830)
+</li><li><i><a href="/wiki/Le_morceau_d%27ensemble_(Adam,_Adolphe)" title="Le morceau d'ensemble (Adam, Adolphe)">Le morceau d'ensemble</a></i> (1831)
+</li><li><i>Le grand prix, ou Le voyage à frais communs</i> (1831)
+</li><li><i>Casimir, ou Le premier tête-à-tête</i> (1831)
+</li><li><i>His First Campaign</i> (1832)
+</li><li><i>The Dark Diamond</i> (1832)
+</li><li><i>Le proscrit, ou Le tribunal invisible</i> (1833)
+</li><li><i><a href="/wiki/Une_bonne_fortune_(Adam,_Adolphe)" title="Une bonne fortune (Adam, Adolphe)">Une bonne fortune</a></i> (1834)
+</li><li><i><strong class="selflink">Le chalet</strong></i> (1834)
+</li><li><i>La marquise</i> (1835)
+</li><li><i>Micheline, ou L'heure d'esprit</i> (1835)
+</li><li><i><a href="/wiki/Le_postillon_de_Lonjumeau_(Adam,_Adolphe)" title="Le postillon de Lonjumeau (Adam, Adolphe)">Le postillon de Lonjumeau</a></i> (1836)
+</li><li><i><a href="/wiki/Le_fid%C3%A8le_berger_(Adam,_Adolphe)" title="Le fidèle berger (Adam, Adolphe)">Le fidèle berger</a></i> (1838)
+</li><li><i><a href="/wiki/Le_brasseur_de_Preston_(Adam,_Adolphe)" title="Le brasseur de Preston (Adam, Adolphe)">Le brasseur de Preston</a></i> (1838)
+</li><li><i>Régine, ou Les deux nuits</i> (1839)
+</li><li><i>La reine d'un jour</i> (1839)
+</li><li><i>La rose de Péronne</i> (1840)
+</li></ul>
+</td>
+<td valign="top" width="33%" style="background-color:rgb(250,220,180)">
+<ul><li><i>La main de fer, ou Le mariage secret</i> (1841)
+</li><li><i>Le roi d'Yvetot</i> (1842)
+</li><li><i>Lambert Simnel</i> (1843)
+</li><li><i><a href="/wiki/Cagliostro_(Adam,_Adolphe)" title="Cagliostro (Adam, Adolphe)">Cagliostro</a></i> (1844)
+</li><li><i>Richard en Palestine</i> (1844)
+</li><li><i>La bouquetière</i> (1847)
+</li><li><i>Les premiers pas</i> (1847), collab. <a href="/wiki/Category:Auber,_Daniel_Fran%C3%A7ois_Esprit" title="Category:Auber, Daniel François Esprit">Daniel François Esprit Auber</a>, <a href="/wiki/Category:Carafa,_Michele" title="Category:Carafa, Michele">Michele Carafa</a>, <a href="/wiki/Category:Hal%C3%A9vy,_Fromental" title="Category:Halévy, Fromental">Fromental Halévy</a>
+</li><li><i><a href="/wiki/Le_tor%C3%A9ador,_ou_L%27accord_parfait_(Adam,_Adolphe)" title="Le toréador, ou L'accord parfait (Adam, Adolphe)" class="mw-redirect">Le toréador, ou L'accord parfait</a></i> (1849)
+</li><li><i><a href="/wiki/Le_fanal_(Adam,_Adolphe)" title="Le fanal (Adam, Adolphe)">Le fanal</a></i> (1849)
+</li><li><i><a href="/wiki/Giralda,_ou_La_nouvelle_psych%C3%A9_(Adam,_Adolphe)" title="Giralda, ou La nouvelle psyché (Adam, Adolphe)" class="mw-redirect">Giralda, ou La nouvelle psyché</a></i> (1850)
+</li><li><i><a href="/wiki/La_poup%C3%A9e_de_Nuremberg_(Adam,_Adolphe)" title="La poupée de Nuremberg (Adam, Adolphe)">La poupée de Nuremberg</a></i> (1852)
+</li><li><i><a href="/wiki/Le_farfadet_(Adam,_Adolphe)" title="Le farfadet (Adam, Adolphe)">Le farfadet</a></i> (1852)
+</li><li><i><a href="/wiki/Si_j%27%C3%A9tais_roi_(Adam,_Adolphe)" title="Si j'étais roi (Adam, Adolphe)">Si j'étais roi</a></i> (1852)
+</li><li><i>La faridondaine</i> (1852), collab. <a href="/index.php?title=Category:Groot,_Adolphe_de&amp;action=edit&amp;redlink=1" class="new" title="Category:Groot, Adolphe de (page does not exist)">Adolphe de Groot</a>
+</li><li><i>Le sourd, ou L'auberge pleine</i> (1853)
+</li><li><i>Le roi des halles</i> (1853)
+</li><li><i><a href="/wiki/Le_bijou_perdu_(Adam,_Adolphe)" title="Le bijou perdu (Adam, Adolphe)">Le bijou perdu</a></i> (1853)
+</li><li><i>Le muletier de Tolède</i> (1854)
+</li><li><i>À Clichy</i> (1854)
+</li><li><i><a href="/wiki/Le_houzard_de_Berchini_(Adam,_Adolphe)" title="Le houzard de Berchini (Adam, Adolphe)">Le houzard de Berchini</a></i> (1855)
+</li><li><i>Falstaff</i> (1856)
+</li><li><i>Mam'zelle Geneviève</i> (1856)
+</li><li><i><a href="/wiki/Les_pantins_de_Violette_(Adam,_Adolphe)" title="Les pantins de Violette (Adam, Adolphe)">Les pantins de Violette</a></i> (1856)
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1942/1000000
+Post-expand include size: 115421/2097152 bytes
+Template argument size: 3554/2097152 bytes
+Expensive parser function count: 3/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:78487-0!*!0!!en!2!* and timestamp 20180417055345 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Le_chalet_(Adam,_Adolphe)&amp;oldid=2542719">http://imslp.org/index.php?title=Le_chalet_(Adam,_Adolphe)&amp;oldid=2542719</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Scores_published_by_Schonenberger" title="Category:Scores published by Schonenberger">Scores published by Schonenberger</a></li><li><a href="/wiki/Category:Scores_with_citations_from_the_Bibliographie_de_la_France" title="Category:Scores with citations from the Bibliographie de la France">Scores with citations from the Bibliographie de la France</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Wolff,_Oscar_Ludwig_Bernhard/Translator" title="Category:Wolff, Oscar Ludwig Bernhard/Translator">Wolff, Oscar Ludwig Bernhard/Translator</a></li><li><a href="/wiki/Category:Scores_published_by_Breitkopf_und_H%C3%A4rtel" title="Category:Scores published by Breitkopf und Härtel">Scores published by Breitkopf und Härtel</a></li><li><a href="/wiki/Category:Moreau,_Raoul/Arranger" title="Category:Moreau, Raoul/Arranger">Moreau, Raoul/Arranger</a></li><li><a href="/wiki/Category:Lemoine,_L%C3%A9on/Arranger" title="Category:Lemoine, Léon/Arranger">Lemoine, Léon/Arranger</a></li><li><a href="/wiki/Category:UNL_Mirroring_Project" title="Category:UNL Mirroring Project">UNL Mirroring Project</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Adam,_Adolphe" title="Category:Adam, Adolphe">Adam, Adolphe</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Operas_comiques" title="Category:Operas comiques">Operas comiques</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:Operas" title="Category:Operas">Operas</a></li><li><a href="/wiki/Category:For_voices,_mixed_chorus,_orchestra" title="Category:For voices, mixed chorus, orchestra">For voices, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:French_language" title="Category:French language">French language</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_voices,_guitar_(arr)" title="Category:For voices, guitar (arr)">For voices, guitar (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:For_voices_with_solo_instruments" title="Category:For voices with solo instruments">For voices with solo instruments</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1834" title="Category:Works first published in 1834">Works first published in 1834</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Scribe,_Eug%C3%A8ne/Librettist" title="Category:Scribe, Eugène/Librettist">Scribe, Eugène/Librettist</a></li><li><a href="/wiki/Category:Duveyrier,_Anne-Honor%C3%A9-Joseph/Librettist" title="Category:Duveyrier, Anne-Honoré-Joseph/Librettist">Duveyrier, Anne-Honoré-Joseph/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Le_chalet_%28Adam%2C_Adolphe%29">2,845 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Le%20chalet%20%28Adam%2C%20Adolphe%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.604 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180417055345 -->
+</html>
+		

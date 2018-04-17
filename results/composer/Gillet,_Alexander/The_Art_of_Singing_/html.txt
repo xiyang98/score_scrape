@@ -1,0 +1,1263 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>The Art of Singing (Law, Andrew) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "The_Art_of_Singing_(Law,_Andrew)", "wgTitle": "The Art of Singing (Law, Andrew)", "wgCurRevisionId": 1565348, "wgArticleId": 426158, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Internet Archive", "Sibley Mirroring Project", "Scores", "Law, Andrew/Collections", "Classical style", "Classical", "Methods", "Psalms", "Religious works", "Sacred hymns", "Hymns", "Anthems", "For 3 voices", "For unaccompanied voices", "Scores featuring the voice", "For 4 voices", "For mixed chorus", "Scores featuring mixed chorus", "For unaccompanied chorus", "English language", "Works first published in 1792", "Works first published in the 18th century", "Hymnals and Psalters", "4-shape notation", "7-shape notation", "Gillet, Alexander/Collections", "Collections", "Lyon I, James/Collections", "Chandler, Solomon/Collections", "Olmsted, Timothy/Collections", "Madan, Martin/Collections"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Art_of_Singing_Law_Andrew action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/The_Art_of_Singing_(Law,_Andrew)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=The_Art_of_Singing_(Law,_Andrew)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=The_Art_of_Singing_(Law,_Andrew)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/The_Art_of_Singing_(Law,_Andrew)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/The_Art_of_Singing_(Law,_Andrew)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=The_Art_of_Singing_(Law,_Andrew)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=The_Art_of_Singing_(Law,_Andrew)&amp;oldid=1565348" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=The%20Art%20of%20Singing%20%28Law%2C%20Andrew%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					The Art of Singing (Law, Andrew)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 sections
+<dl><dd>I. The Musical Primer
+</dd><dd>II. The Christian Harmony
+</dd><dd>III. The Musical Magazine
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1792-94
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Methods&amp;transclude=Template:Catintro">Methods</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Psalms&amp;transclude=Template:Catintro">Psalms</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Religious_works&amp;transclude=Template:Catintro">Religious works</a></span>; <span class="expandline" title="11 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Sacred_hymns&amp;transclude=Template:Catintro">Sacred hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Hymns&amp;transclude=Template:Catintro">Hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Anthems&amp;transclude=Template:Catintro">Anthems</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_3_voices&amp;transclude=Template:Catintro">For 3 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_voices&amp;transclude=Template:Catintro">For unaccompanied voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_voices&amp;transclude=Template:Catintro">For 4 voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_mixed_chorus&amp;transclude=Template:Catintro">For mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_chorus&amp;transclude=Template:Catintro">For unaccompanied chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:English_language&amp;transclude=Template:Catintro">English language</a></span></span>
+</td></tr>
+<tr>
+<th>Related Works
+</th>
+<td><a href="/wiki/Harmonic_Companion_(Law,_Andrew)" title="Harmonic Companion (Law, Andrew)"><i>Harmonic Companion</i></a> - in later editions, the Harmonic Companion was appended to The Art of Singing.
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"The Art of Singing","composer":"Law, Andrew","comphref":"\/wiki\/Category:Law,_Andrew"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"the art of singing","itunes":"the art of singing","composer":"law","scorekeywords":"the art of singing","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":2,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ABC4765844.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ABC4765844.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DABC4765844","desc":"RAMEAU: Dardanus","label":"ABC Classics","category":"Opera - Classical Music","composer":"Rameau, Jean-Philippe","artist":"Agnew, Paul -- Bennett, Stephen -- Whelan, Paul -- Allan, Miriam -- Whiteley, Damian -- Mills, Penelope -- Fraser, Anna -- Walker, Antony -- Orchestra of the Antipodes -- Walker, Dan -- Bone, Corin -- McCusker, Kathryn -- Greco, David","country":"France","catid":"ABC4765844","cdinfo":[[["Rameau, Jean-Philippe",[["Dardanus","mediaplayer\/player.asp?br=128&tl=298281|298280|298278|298277|298279|298275|298276|298274|298273|298252|298251|298250|298256|298257|298255|298254|298253|298258|298259|298260|298261|298262|298263|298265|298264",[]]]]],[["Rameau, Jean-Philippe",[["Dardanus","mediaplayer\/player.asp?br=128&tl=298272|298271|298270|298269|298267|298266|298268|298302|298301|298300|298303|298304|298305|298298|298299|298294|298295|298297|298296|298288|298289|298293|298292|298291|298290|298282|298284|298283|298287|298286|298285",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028946347621.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028946347621.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028946347621","desc":"RAMEAU, J.-P.: Dardanus [Opera] (J.M. Ainsley, V. Gens, Naouri, Delunsch, Courtis, Les Musiciens du Louvre, Minkowski)","label":"Deutsche Grammophon","category":"Opera - Classical Music","composer":"Rameau, Jean-Philippe","artist":"Delunsch, Mireille -- Naouri, Laurent -- Ko\u017een\u00e1, Magdalena -- Courtis, Jean-Philippe -- Gens, V\u00e9ronique -- Ainsley, John Mark -- Smythe, Russell -- Lombard, Jean-Francois -- Minkowski, Marc -- Musiciens du Louvre, Les -- Masset, Francoise -- Bindi, Jean-Louis -- Pujol, Marcos","country":"France","catid":"00028946347621","cdinfo":[[["Rameau, Jean-Philippe",[["Dardanus","mediaplayer\/player.asp?br=128&tl=3135568|3135569|3135570|3135571|3135572|3135573|3135574|3135575|3135576|3135577|3135578|3135579|3135580|3135581|3135582|3135583|3135584|3135585|3135586|3135587|3135588|3135589|3135590|3135591|3135592|3135593|3135594|3135595|3135596|3135597|3135598|3135599|3135600|3135601|3135602|3135603|3135604|3135605|3135606|3135607|3135608|3135609|3135610|3135611|3135612|3135613|3135614|3135615|3135616|3135617|3135618|3135619|3135620|3135621|3135622|3135623|3135624|3135625|3135626|3135627|3135628|3135629|3135630|3135631|3135632|3135633|3135634|3135635|3135636|3135637|3135638|3135639|3135640|3135641|3135642|3135643|3135644|3135645|3135646",["Overture","Prologue Scene 1: Regnez, plaisirs, regnez (Venus)","Prologue Scene 1: Air gay et gracieux - Air pour la Jalousie et sa suite","Prologue Scene 1: Je veux que sous mes lois - Plaisirs, enchainez-les (Cupid, Venus)","Prologue Scene 1: Air vif pour les Plaisirs","Prologue Scene 1: Quel calme! (Venus)","Prologue Scene 1: Brisez vos fers (Venus)","Prologue Scene 1: Nos mains forgent les traits (Chorus of Jealousy's Retinue)","Prologue Scene 1: C'en est trop! Gardez-vous d'empoisonner vos traits (Venus)","Prologue Scene 1: Troubles cruels, soupcons injurieux (Venus)","Prologue Scene 1: Quand l'Aquilon fougueux (Venus)","Prologue Scene 2: Par tes bienfaits, signale ta puissance (Chorus of Pleasures and Nations)","Prologue Scene 2: L'Amour, le seul Amour","Prologue Scene 2: Menuet tendre en rondeau","Prologue Scene 2: Tambourin I-II","Prologue Scene 2: Pour c&#233;l&#233;brer ce jour heureux","Prologue Scene 2: Reprise de l'Ouverture","Act I Scene 1: Cesse, cruel Amour, de regner sur mon ame (Cruel love, rule my soul no longer) (Iphise)","Act I Scene 2: Ma fille, enfin le ciel seconde mon courroux. (My daughter, at last heaven comes to the aid of my wrath.) (Teucer, Iphise)","Act I Scene 3: Princesse, apres l'espoir dont j'ose me flatter (Princess, led by the hope with which I dare flatter myself) (Antenor, Iphise)","Act I Scene 3: Par des noeuds solemnels (By solemn ties) (Teucer, Antenor)","Act I Scene 3: Par des jeux eclatans, consacrez la memoire (With brilliant games, consecrate the memory) (Antenor, Teucer, Chorus of Phrygian People and Warriors)","Act I Scene 3: Entree pour les Guerriers (Dance of the Warriors)","Act I Scene 3: Air: Allez jeune guerrier, courez a la victoire (Go, young warrior, run to victory) (A Phrygian Woman)","Act I Scene 3: Rigaudon I","Act I Scene 3: Rigaudon II","Act I Scene 3: Mars, Bellone, guidez nos coups (Mars, Bellona, guide our arms as they strike) (Antenor, Teucer, Chorus)","Act I Scene 4: Je cede au trouble affreux qui devore mon coeur (I cannot resist the dreadful upheaval devouring my heart) (Iphise)","Act II Scene 1: Tour l'avenir est present a mes yeux (The whole future lies open to my eyes) (Ismenor)","Act II Scene 2: On vient &#8230; c'est Dardanus. (Someone is coming &#8230; It's Dardanus!) (Ismenor, Dardanus)","Act II Scene 3: Entendez me voix souveraine (Hear my sovereign voice) (Ismenor, Chorus of the Servants of Ismenor)","Act II Scene 3: Air (Grave)","Act II Scene 3: Suspends ta brillante carriere (Star for a moment your shining path, O Sun) (Ismenor)","Act II Scene 3: Air","Act II Scene 3: Nos cris ont penetre jusqu au sombre sejour (Our cries have penetrated to the dark abode) (Ismenor)","Act II Scene 3: C'en est fait (Ismenor)","Act II Scene 3: Obeis aux lois des enfers (Obey the law of hell) (Chorus of the Servants of Ismenor)","Act II Scene 5: Je la vois. (There she is!) (Dardanus, Iphise)","Act II Scene 5: Par l'effort de votre art terrible (By the power of your terrible art) (Iphise, Dardanus)","Act II Scene 5: D'un penchant si fatal rien n'a pu me guerir. (Nothing has been able to cure me to such a fatal fondness) (Iphise, Dardanus)","Act II Scene 5: Dieux! qu'exigez-vous de mon zele?","Act II Scene 6: Elle fuit! &#8230; Mais j'ai vu sa tendresse (She gas fled! &#8230; But I have seen that she cares) (Dardanus)","Act II Scene 6: Entracte: Bruit de guerre (Interlude: The sounds of war)","Act III Scene 1: O jour affreux! (O terrible da!) (Iphise)","Act III Scene 2: Princesse, enfin la paix va combler mon attente (Princess, at last peace rewards my long wait) (Antenor, Iphise, Chorus of","Act III Scene 3: Que l'on chante, que l'on s'empresse (Le there be singing ! Make haste!) (Chorus)","Act III Scene 3: Paix favorable (Kindly peace) (A Phrygian man and Woman, Chorus)","Act III Scene 3: Minuetts I - II: Volez, Plaisirs, volez. (Fly, Pleasures, fly.) (A Phrygian Woman)","Act III Scene 3: Tambourins I and II","Act III Scene 4: Cessez vos jeux (Stop your games) (Teucer, Antenor)","Act III Scene 4: Allez, et remportez une illustre victoire (Go, and bring back an illustrious victory) (Chorus of Phrygians)","Act IV Scene 1: Lieux funestes, ou tout respire (O dread abode, where all breathes) (Dardanus)","Act IV Scene 1: Ritournelle","Act IV Scene 1: Malgre le dieu des mers, et son pouvoir supreme (Despite the god of the seas and his supreme power) (Venus)","Act IV Scene 1: Venez Songes flatteurs, venez calmer sa peine (Come, flattering Dreams, come ans ease his pain) (Venus)","Act IV Scene 1: Sommeil","Act IV Scene 2: Par un sommeil agreable (Let blissful slumber) (Trio and Chorus of Dreams)","Act IV Scene 2: Air","Act IV Scene 2: Un monstre furieux desole ce rivahe (A raging monster is devastating this shore) (A Dream, Ismenor)","Act IV Scene 2: Ah! que votre sort est charmant (Ah! how delightful is your fate!) (A Dream)","Act IV Scene 2: Calme des sens","Act IV Scene 2: Gavotte vive","Act IV Scene 2: Il est temps de courir aus armes (It is time to hasten to arms) (Trio of Dreams and Chorus)","Act IV Scene 3: Ou suis-je! (Where am I?) (Dardanus)","Act IV Scene 3: Hatons-nous; courons a la glore (I must make hasts; I must run to glory)","Act IV Scene 4: Voici les tristes lieux que le monstre ravage. (Here are the sad lands ravaged by the monster) (Antenor)","Act IV Scene 4: Monstre affreux, monstre redoutable (Dread monster, fearsome monster) (Antenor)","Act IV Scene 4: Quel bruit! (What a noise!) - Scene 5: Mon rival va perir (My rival is about to perish) (Antenor)","Act IV Scene 5: Que! est donc le heros qui conserve me jours? (Who then is the hero who has preserved my life?) (Antenor, Dardanus)","Act V Scene 1: Antenor est victorieux (Antenor is victorious) (Teucer, Antenor, Chorus of Phrygians)","Act V Scene 2: N'en doute point (Have no doubt) (Dardanus, Antenor)","Act V Scene 3: Mais un nouvel (Teucer)","Act V Scene 3: Teucer, bannissez pour jamais la vengeance et la haine (Teucer, banish for ever vengeance and hatred) (Venus, Teucer)","Act V Scene 3: Des biens que Venus nous dispense (What incense, what altars could repay the price) (Iphise, Dardanus)","Act V Scene 3: Nous quittons des Plaisirs la demeure cherie (We have abandoned the beloved dwelling of the Pleasures) (Chorus of Cupids)","Act V Scene 3: C'est la constance","Act V Scene 3: Pour la fete ou I'on vous appelle (For the festival to which you are called) (Venus)","Act V Scene 3: Gigue","Act V Scene 3: Chaconne"]]]]]]}],"moreres":false};IMSLPNaxosSearch="law the art of singing";JGaskdonation=0;JGFileTools={"262790":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=262790"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/262790\/262791\/262792\/262793\/f12d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP262790"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=262790"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/262790"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/262790"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23262790"}},"262791":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=262791"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/262790\/262791\/262792\/262793\/f12d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP262791"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=262791"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/262791"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/262791"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23262791"}},"262792":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=262792"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/262790\/262791\/262792\/262793\/f12d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP262792"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=262792"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/262792"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/262792"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23262792"}},"262793":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=262793"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/262790\/262791\/262792\/262793\/f12d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP262793"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=262793"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/262793"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/262793"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23262793"}},"317704":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=317704"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/317704\/317705\/317706\/317707\/4d47"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP317704"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=317704"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/317704"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/317704"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23317704"}},"317705":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=317705"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/317704\/317705\/317706\/317707\/4d47"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP317705"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=317705"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/317705"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/317705"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23317705"}},"317706":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=317706"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/317704\/317705\/317706\/317707\/4d47"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP317706"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=317706"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/317706"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/317706"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23317706"}},"317707":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=317707"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/317704\/317705\/317706\/317707\/4d47"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP317707"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=317707"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/317707"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/317707"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23317707"}},"317562":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=317562"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP317562"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=317562"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/317562"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/317562"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23317562"}},"325276":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=325276"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP325276"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=325276"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/325276"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/325276"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23325276"}},"299646":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=299646"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP299646"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=299646"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/299646"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/299646"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/299646"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23299646"}},"299647":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=299647"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP299647"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=299647"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/299647"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/299647"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/299647"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23299647"}},"299648":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=299648"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP299648"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=299648"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/299648"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/299648"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/299648"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23299648"}},"299649":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=299649"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP299649"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=299649"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/299649"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/299649"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/299649"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23299649"}},"313932":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=313932"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/313932\/313933\/313934\/f3e5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP313932"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=313932"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/313932"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/313932"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23313932"}},"313933":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=313933"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/313932\/313933\/313934\/f3e5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP313933"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=313933"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/313933"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/313933"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23313933"}},"313934":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=313934"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/313932\/313933\/313934\/f3e5"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP313934"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=313934"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/313934"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/313934"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23313934"}},"325656":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=325656"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/325656\/325657\/325658\/325659\/cdd4"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP325656"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=325656"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/325656"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/325656"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23325656"}},"325657":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=325657"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/325656\/325657\/325658\/325659\/cdd4"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP325657"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=325657"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/325657"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/325657"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23325657"}},"325658":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=325658"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/325656\/325657\/325658\/325659\/cdd4"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP325658"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=325658"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/325658"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/325658"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23325658"}},"325659":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=325659"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/325656\/325657\/325658\/325659\/cdd4"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP325659"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=325659"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/325659"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/325659"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23325659"}},"265031":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265031"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265031\/265032\/265033\/d59d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265031"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265031"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265031"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265031"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265031"}},"265032":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265032"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265031\/265032\/265033\/d59d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265032"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265032"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265032"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265032"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265032"}},"265033":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265033"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265031\/265032\/265033\/d59d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265033"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265033"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265033"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265033"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265033"}},"313935":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=313935"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/313935\/313936\/313937\/d009"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP313935"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=313935"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/313935"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/313935"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23313935"}},"313936":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=313936"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/313935\/313936\/313937\/d009"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP313936"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=313936"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/313936"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/313936"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23313936"}},"313937":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=313937"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/313935\/313936\/313937\/d009"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP313937"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=313937"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/313937"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/313937"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23313937"}},"265039":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265039"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265039\/265040\/265041\/265042\/1274"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265039"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265039"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265039"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265039"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265039"}},"265040":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265040"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265039\/265040\/265041\/265042\/1274"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265040"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265040"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265040"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265040"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265040"}},"265041":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265041"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265039\/265040\/265041\/265042\/1274"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265041"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265041"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265041"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265041"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265041"}},"265042":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265042"},"015-ZIPFILE":{"icon":52,"label":"Download 4 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265039\/265040\/265041\/265042\/1274"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265042"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265042"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265042"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265042"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265042"}},"265725":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265725"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265725\/265726\/c51e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265725"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265725"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265725"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265725"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265725"}},"265726":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=265726"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/265725\/265726\/c51e"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP265726"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=265726"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/265726"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/265726"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=The+Art+of+Singing+%28Law%2C+Andrew%29&frmTitle=IMSLP+%23265726"}}};JGFileOpts={"262790":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj+8wl5aKhhkHE2JqkCLzeIX00ZL\/ne+jFFmuzsrc6gKBpSTj1hacSADzRUy5GNYubkGDoRK0NPNh1ZJPX\/9PcNrQSaU0LAyRo0V6yT9uewXA=="},"262791":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgCkVaE6wY+tC3W8TmGYcqRxqmwmww1j1ExTqEwaWsPYuWt7le2GgbVm2yVHUzacRDFyq8BvWgB125ubD2uDWdSh5RP+1sn5nVH94VIRFPYyg=="},"262792":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi5MS7eYTw98KBhHHPzXPpebP8kK0aYURsO2I0h7MwMV2kT+OxiteqmKWGUo1VhDAG5ywenhWhcXYBnd4uZIZcw33krMHJ6p8lSsiCVh2+IiQ=="},"262793":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgDCGz5\/sWROx0Y0gfkTejFWS0yAdlPVgMR5ERFu0rusfmmv5Qs\/4iQ3iWW3ojohKv6I4g5fjhcWTclRlVJZK7NFBAkUBZvtERt89frXh\/P3g=="},"317704":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5XGWlyCEZV1aYSYMJAEJ\/vCixHxv42OijfpgCsmLOcAW8KUAZAI0EWQhzDAVqUfywcKo+\/Em0eqoBnnZUPVZ0MWRA5eomIxGs\/XeguOA3Kp6HxyHAb6jElnpRjsvLI+0="},"317705":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj5vr7RMXQZaxSWXjxKaU5IizIu1oO\/G201w1K1LzTKoSI+yEqiCOXfDoX25XVgSd0bZFuQxYMDq+XKmI\/bfQJOGi5qt8OxekwzdQY2dzl\/Kl1p6UlI7Dt2yYGcZC7AqFI="},"317706":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgBRWsxJsRd+zb5ro+ed9dowjTOkSE7OH7xgBQnoq4YQsKhuvFa5lZGZYQcmojHWKDO9AuvGNXWdD5o905PcqDcF+Dsfl93qkByCKz+Ucvwww=="},"317707":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bidVU5m2wKV1dowmGrYCOq3WnXoxl7ApaBhmoB9xzgiODPl2Ezs0NSLbYwfHlgH4JSTdno2lSvdOhnCmipOZo8t1i5N8lzSR7B35Y3ZivraTw=="},"317562":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnz7TJy8fmPyKQ36mJi7oh6tt\/rIgeSKudY6t+D7Tz1tgVzRUpUsZayb92588CPOWUi6xlo3GvDEXsEf2e0Wkh"},"325276":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkol3vTF+uG57mN4PAKizD1J+RFkyG\/Zv4aKkZxXlr4JidPNeK+R48\/QsB8CmZcsCbIvTyqonEUVswr7MJMlANfWHIt9pKaEgDpd3bS8\/oIA=="},"299646":[],"299647":[],"299648":[],"299649":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjKgleF7KCYbnDJlCChcQecjOqUr\/2z1VxNHNoBPJATJHl05v3X4dQ2ojWC6\/fGNGlEN0KwINaLR8R0KGIEySmgYFRMntXDRW9jF6aBBvS5booEXvbBj\/\/WB3HRryel5NA="},"313932":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgANutHyJqVrajma12Dfomg9Fv6mOdHEzz\/hIHZlRoUvGBi36VXuh\/DlFH6k8z7prBnj2GyTDmh2QR+CL+IxttqSXySNG9Xi9xJZkb6EI0cIQ=="},"313933":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjfZW5Lh698dtxJCBzVEnJz67sb3T60jvxB0HCABj\/4hSTLGYgzG5XBImvYOJ2hhiSAFWC2CKZFc9Rzw7CI\/5FTNad56HNyHG3F9LEvWIcd0Q=="},"313934":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh9RNQjSHaA7W14vLAc6LKCn+I3UtqaHgp1pBmrZD6Ec8S7O71I91HYN9WD+X7pSecGIlp\/s\/+aQmC7d786JjVZxekwfEG+Wh\/N8GFu2F1U7A=="},"325656":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgpm0I614Y+ppCxmlRS\/uwY4RuryycLJlXYKToZTLAwFbJaP4bJwX\/sbN2vlyNxU0E0LwA1aeOsdkDxD5MlRkp2xNn9SW\/RKkB+fIyC4ab55w=="},"325657":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj51YXlzkiYih+0nXNmklltF4B35PYr3lLhMN0sz8X2Z9K3izz51lLNaHKy4OjiTQ4Lsmo4QWYiXJGBlYFtsL01cS60ODLYJsuHDv\/paf+nw7sKLH58exoj4BDlMiwlLQ4="},"325658":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhfczthn9iwFn5fpVkNVje7pNxP90CEwvZ8DXku96ul6uB4jcx8DnRcK6IwwjjYaSMfbLqTz\/5AZC6VGhLqaoLDagtXT11Lxs3lFUWFxvMm35YIskv+NXMTFRuMy3cXspM="},"325659":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjArv\/4+ymepsaUfqB\/smNLsnzKeXABOqDKqBon6MopL7Dydg2OwLt+O2h5CElc2SWWgGTtlBUShHFfR2wV1O63ty92J4FBI2+16GAOdjlahQ=="},"265031":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkol3vTF+uG57mN4PAKizDdFAPbxTeuJx7T6IRhEzxREpZvgqirFBow\/Ol9viiVYzPfU8yEjSKsF6Pap8\/JekI2ofRQBPbOCMfbtBibd\/4zg=="},"265032":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjeTnCH0lj2cBVzuXlyFzx\/Fx1RKwZr\/WUvMgJX8ioCslNtlnk5zXhjmwQbhIFkLWN9r1LrB50s1q90af1SOvbvGKpz14jieYj8lCoBIlVi3w=="},"265033":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhUXrsEoqEQtLWNgO9BjAxO4DMsr1362L7xNMkPtMt4V2pY+AYQFtJU9OSDcS+qTB9VPsZ6E2vNRRXywku7hXRZUtOFljArJbgQXB2OZbyuEg=="},"313935":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biQih2N0XW\/rLfTlI\/irCBkIqDpK2SkMx6x0Fc7YHLz67A3U9LTZiZencE7gGDRNBWkXyi9QQOXCFUqJhicVenEPJihj55ihzJdrqBCpU8K0g=="},"313936":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh\/0Pk8bdNOF9xlCPfQtj8d7Dk3cWY+JXwS0v6ZHe2A261txFFQ39RS6IRa\/iL7L7ad0rIZMgWxHOI9XzQ4rBxjNV8KcXg5RjrpyYEKRqIJyjQnwHJf6TntI+va+HpuJCU="},"313937":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDO26OLuZ+x8qlwHPffKXec4iqCDAxjZZFOUIDxYjMhrpGfbzckOgznqWNk8fFoUwfdIsfrxjzixTJObpHY\/v+F9NiCpFIO7mFAhD8rBQy2g=="},"265039":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgiX02z1vnNs2ZKPoJQbdYhbSd\/J\/aG0FO2KbN+jwC8ufYjwDeU6QPbX6PVLFT7RXeKUch7NhivHl66hoBe7bsul68XLM3aLHfO+7vmBV6OuA=="},"265040":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjCoaUreAVZlT9OhK0a1iEbVjI46DkMRAlzeAy3ahNmD9NwWoqaLBnxqS1cECv1w0cdRBMP84SGuwlfGKsOenQnK7DHN8T+6Qu7sgQzC7Zm0w=="},"265041":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDwqlntEQVUT+qYgVWRRNAyvTBqbQiORtkvIosSkU61\/L3SEF5dCtvuCU1Q8bHf2vZDhXoJoqLv3ouMJOMbNh0M59iN9GWqH6TUx3Jzb2AWh1YyzSlU53iGTUpyt0m9\/Y="},"265042":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDO26OLuZ+x8qlwHPffKXehz7QcDe+CauULhxQzY3HRj59x8pahz9+uj1u6AH97AFIPVJ3QK46O4ZqI\/p0dEgR"},"265725":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhpOazvUpmgkdScuNuemGm4GWH4OVjIoyVRdDmfdl+oTDsSH+07rOreIu99i1wB7JwgnRnyWx45DtKIsz4ydOHzC1ZmrYge0D4acBKlGUH1lw=="},"265726":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhvfj666XUGnmMf6yXaoGH3qy6SC3vdKPROVhh4qAsdWnwZBCxzR3dYfjHzO2CXK03JIx1lj6FxGccIfhpOYLtc1F542d+eJ3C\/5aAMjS5LVA=="}};JGPageUntagged=false;JGPageTags=["methods","psalms","hymns","anthems","3vv","4vv","ch","en"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"262790":[6,"1"],"262791":[6,"1"],"262792":[8,"1"],"262793":[8,"1"],"313932":[10,"1"],"317704":[8,"1"],"317705":[8,"1"],"317706":[8,"1"],"317707":[8,"1"],"317562":[0,0],"325276":[0,0],"299646":[0,0],"299647":[0,0],"299648":[0,0],"299649":[0,0],"313933":[0,0],"313934":[0,0],"325656":[0,0],"325657":[0,0],"325658":[0,0],"325659":[0,0],"265031":[0,0],"265032":[0,0],"265033":[0,0],"313935":[0,0],"313936":[0,0],"313937":[0,0],"265039":[0,0],"265040":[0,0],"265041":[0,0],"265042":[0,0],"265725":[0,0],"265726":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Standard_notation_edition"><span class="tocnumber">2.1.1</span> <span class="toctext">Standard notation edition</span></a></li>
+<li class="toclevel-3"><a href="#Law.27s_4-shape_notation_edition"><span class="tocnumber">2.1.2</span> <span class="toctext">Law's 4-shape notation edition</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">33</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<h4> <span class="mw-headline" id="Standard_notation_edition">Standard notation edition</span></h4>
+<div class="we"><div id="IMSLP262790" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/262790"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Primer</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/57/PMLP426158-artofsing00lawa_1_musical_primer.pdf" class="internal" title="PMLP426158-artofsing00lawa 1 musical primer.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsing00lawa_1_musical_primer.pdf" title="File:PMLP426158-artofsing00lawa 1 musical primer.pdf">#262790</a> - 2.32MB, 40 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-262790' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-262790'>
+	<a href='javascript:void(0)' id='262790' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='262790' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='262790' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='262790' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='262790' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-262790'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/262790/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/262790/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7716"><a href="/wiki/Special:GetFCtrStats/@262790" title="Special:GetFCtrStats/@262790">7716</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsing00lawa#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2012/12/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP262791" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/262791"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Christian Harmony, Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3d/PMLP426158-artofsing00lawa_2.1_christian_harmony.pdf" class="internal" title="PMLP426158-artofsing00lawa 2.1 christian harmony.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsing00lawa_2.1_christian_harmony.pdf" title="File:PMLP426158-artofsing00lawa 2.1 christian harmony.pdf">#262791</a> - 4.08MB, 64 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-262791' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-262791'>
+	<a href='javascript:void(0)' id='262791' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='262791' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='262791' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='262791' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='262791' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-262791'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/262791/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/262791/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 468"><a href="/wiki/Special:GetFCtrStats/@262791" title="Special:GetFCtrStats/@262791">468</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsing00lawa#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2012/12/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP262792" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/262792"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Christian Harmony, Vol.2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9b/PMLP426158-artofsing00lawa_2.2_christian_harmony.pdf" class="internal" title="PMLP426158-artofsing00lawa 2.2 christian harmony.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsing00lawa_2.2_christian_harmony.pdf" title="File:PMLP426158-artofsing00lawa 2.2 christian harmony.pdf">#262792</a> - 3.25MB, 56 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-262792' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-262792'>
+	<a href='javascript:void(0)' id='262792' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='262792' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='262792' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='262792' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='262792' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-262792'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/262792/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/262792/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 305"><a href="/wiki/Special:GetFCtrStats/@262792" title="Special:GetFCtrStats/@262792">305</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsing00lawa#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2012/12/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP262793" class="we_file we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/262793"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/72/PMLP426158-artofsing00lawa_3_musical_magazine.pdf" class="internal" title="PMLP426158-artofsing00lawa 3 musical magazine.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsing00lawa_3_musical_magazine.pdf" title="File:PMLP426158-artofsing00lawa 3 musical magazine.pdf">#262793</a> - 3.00MB, 54 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-262793' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-262793'>
+	<a href='javascript:void(0)' id='262793' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='262793' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='262793' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='262793' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='262793' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-262793'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/262793/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/262793/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 344"><a href="/wiki/Special:GetFCtrStats/@262793" title="Special:GetFCtrStats/@262793">344</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsing00lawa#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2012/12/22)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>2nd edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cheshire, CT: William Law, 1792-1794.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=262790/262791/262792/262793">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=262790/262791/262792/262793">del</a>/<span id="fmrglnk" data-pdfstr="262790//262791//262792//262793/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="262790">Javascript is required for this feature.</div><script>JGINITsearchbars['262790']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=262790|262791|262792|262793&type=The%20Musical%20Primer%7CThe%20Christian%20Harmony%2C%20Vol.1%7CThe%20Christian%20Harmony%2C%20Vol.2%7CThe%20Musical%20Magazine%2C%20No.1&pgcount=40|64|56|54&signature=daca235ad952974d07663233adcec3a1586648ce"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP426158-artofsing00lawa_1_musical_primer.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/57/0703ef6fdad9fd950ed3de0b5b6bcaf8ed0d7af4.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP317704" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/317704"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Primer</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f6/PMLP426158-artofsinginginth00lawa_0_1_musical_primer.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa 0 1 musical primer.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_0_1_musical_primer.pdf" title="File:PMLP426158-artofsinginginth00lawa 0 1 musical primer.pdf">#317704</a> - 1.89MB, 32 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-317704' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-317704'>
+	<a href='javascript:void(0)' id='317704' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='317704' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='317704' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='317704' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='317704' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-317704'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/317704/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/317704/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 71"><a href="/wiki/Special:GetFCtrStats/@317704" title="Special:GetFCtrStats/@317704">71</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/3/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP317705" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/317705"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Christian Harmony, Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/09/PMLP426158-artofsinginginth00lawa_0_2_christian_harmony_1.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa 0 2 christian harmony 1.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_0_2_christian_harmony_1.pdf" title="File:PMLP426158-artofsinginginth00lawa 0 2 christian harmony 1.pdf">#317705</a> - 4.11MB, 64 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-317705' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-317705'>
+	<a href='javascript:void(0)' id='317705' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='317705' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='317705' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='317705' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='317705' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-317705'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/317705/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/317705/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 61"><a href="/wiki/Special:GetFCtrStats/@317705" title="Special:GetFCtrStats/@317705">61</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/3/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP317706" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/317706"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine, No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8f/PMLP426158-artofsinginginth00lawa_0_mus_mag_1.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa 0 mus mag 1.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_0_mus_mag_1.pdf" title="File:PMLP426158-artofsinginginth00lawa 0 mus mag 1.pdf">#317706</a> - 1.34MB, 26 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-317706' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-317706'>
+	<a href='javascript:void(0)' id='317706' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='317706' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='317706' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='317706' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='317706' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-317706'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/317706/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/317706/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 44"><a href="/wiki/Special:GetFCtrStats/@317706" title="Special:GetFCtrStats/@317706">44</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/3/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP317707" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/317707"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine, No.2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/48/PMLP426158-artofsinginginth00lawa_0_mus_mag_2.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa 0 mus mag 2.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_0_mus_mag_2.pdf" title="File:PMLP426158-artofsinginginth00lawa 0 mus mag 2.pdf">#317707</a> - 2.98MB, 53 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-317707' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-317707'>
+	<a href='javascript:void(0)' id='317707' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='317707' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='317707' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='317707' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='317707' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-317707'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/317707/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/317707/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 54"><a href="/wiki/Special:GetFCtrStats/@317707" title="Special:GetFCtrStats/@317707">54</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/3/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cheshire, CT: William Law, 1792-94.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=317704/317705/317706/317707">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=317704/317705/317706/317707">del</a>/<span id="fmrglnk" data-pdfstr="317704//317705//317706//317707/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="317704">Javascript is required for this feature.</div><script>JGINITsearchbars['317704']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=317704|317705|317706|317707&type=Musical%20Primer%7CChristian%20Harmony%2C%20Vol.1%7CMusical%20Magazine%2C%20No.1%7CMusical%20Magazine%2C%20No.2&pgcount=32|64|26|53&signature=931d044f93fdf1506e2521524a430db10b9cafce"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP317562" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/317562"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Christian Harmony, Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ec/PMLP426158-christianharmony00lawa.pdf" class="internal" title="PMLP426158-christianharmony00lawa.pdf">*</a></span><a href="/wiki/File:PMLP426158-christianharmony00lawa.pdf" title="File:PMLP426158-christianharmony00lawa.pdf">#317562</a> - 4.00MB, 66 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-317562' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-317562'>
+	<a href='javascript:void(0)' id='317562' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='317562' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='317562' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='317562' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='317562' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-317562'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/317562/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/317562/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 56"><a href="/wiki/Special:GetFCtrStats/@317562" title="Special:GetFCtrStats/@317562">56</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/christianharmony00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/3/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cheshire, CT: William Law, 1794.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=317562">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=317562">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="317562">Javascript is required for this feature.</div><script>JGINITsearchbars['317562']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=317562&type=The%20Christian%20Harmony%2C%20Vol.1&pgcount=66&signature=1791b1af34eeec52a740fa52e66db9c4b5724236"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP426158-christianharmony00lawa.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ec/79f8e1309acf3ff196f4d622b6b96be8324d4326.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP325276" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/325276"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine, No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c0/PMLP426158-musicalmagazinec00lawa_1792_no1.pdf" class="internal" title="PMLP426158-musicalmagazinec00lawa 1792 no1.pdf">*</a></span><a href="/wiki/File:PMLP426158-musicalmagazinec00lawa_1792_no1.pdf" title="File:PMLP426158-musicalmagazinec00lawa 1792 no1.pdf">#325276</a> - 1.23MB, 32 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-325276' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-325276'>
+	<a href='javascript:void(0)' id='325276' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='325276' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='325276' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='325276' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='325276' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-325276'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/325276/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/325276/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 40"><a href="/wiki/Special:GetFCtrStats/@325276" title="Special:GetFCtrStats/@325276">40</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalmagazinec00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/5/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cheshire, CT: William Law, 1792.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=325276">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=325276">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="325276">Javascript is required for this feature.</div><script>JGINITsearchbars['325276']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=325276&type=Musical%20Magazine%2C%20No.1&pgcount=32&signature=26fbb99998511fc191e51060e29c1d066a91f15d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP426158-musicalmagazinec00lawa_1792_no1.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/c0/383c89398039d3f19bc4b3e091490ca575889e5d.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP299646" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/299646"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Part I (The Musical Primer)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/04/PMLP426158-Law_Art_of_Singing_1800_1_Musical_Primer.pdf" class="internal" title="PMLP426158-Law Art of Singing 1800 1 Musical Primer.pdf">*</a></span><a href="/wiki/File:PMLP426158-Law_Art_of_Singing_1800_1_Musical_Primer.pdf" title="File:PMLP426158-Law Art of Singing 1800 1 Musical Primer.pdf">#299646</a> - 19.33MB, 48 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-299646' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-299646'>
+	<a href='javascript:void(0)' id='299646' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='299646' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='299646' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='299646' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='299646' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-299646'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/299646/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/299646/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 98"><a href="/wiki/Special:GetFCtrStats/@299646" title="Special:GetFCtrStats/@299646">98</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/27844"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/10/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP299647" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/299647"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Part II (The Christian Harmony)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e5/PMLP426158-Law_Art_of_Singing_1800_2_Christian_Harmony_1%262.pdf" class="internal" title="PMLP426158-Law Art of Singing 1800 2 Christian Harmony 1&amp;2.pdf">*</a></span><a href="/wiki/File:PMLP426158-Law_Art_of_Singing_1800_2_Christian_Harmony_1%262.pdf" title="File:PMLP426158-Law Art of Singing 1800 2 Christian Harmony 1&amp;2.pdf">#299647</a> - <span style="color:red"><b>55.70</b></span>MB, 120 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-299647' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-299647'>
+	<a href='javascript:void(0)' id='299647' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='299647' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='299647' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='299647' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='299647' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-299647'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/299647/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/299647/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 74"><a href="/wiki/Special:GetFCtrStats/@299647" title="Special:GetFCtrStats/@299647">74</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/27844"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/10/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP299648" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/299648"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Part III (The Musical Magazine)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/68/PMLP426158-Law_Art_of_Singing_1800_Musical_Magazine_1.pdf" class="internal" title="PMLP426158-Law Art of Singing 1800 Musical Magazine 1.pdf">*</a></span><a href="/wiki/File:PMLP426158-Law_Art_of_Singing_1800_Musical_Magazine_1.pdf" title="File:PMLP426158-Law Art of Singing 1800 Musical Magazine 1.pdf">#299648</a> - 17.10MB, 40 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-299648' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-299648'>
+	<a href='javascript:void(0)' id='299648' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='299648' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='299648' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='299648' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='299648' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-299648'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/299648/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/299648/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 69"><a href="/wiki/Special:GetFCtrStats/@299648" title="Special:GetFCtrStats/@299648">69</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/27844"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/10/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP299649" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/299649"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.6 (1801)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8d/PMLP426158-Law_Art_of_Singing_1800_Musical_Magazine_6_1801.pdf" class="internal" title="PMLP426158-Law Art of Singing 1800 Musical Magazine 6 1801.pdf">*</a></span><a href="/wiki/File:PMLP426158-Law_Art_of_Singing_1800_Musical_Magazine_6_1801.pdf" title="File:PMLP426158-Law Art of Singing 1800 Musical Magazine 6 1801.pdf">#299649</a> - 8.73MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-299649' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-299649'>
+	<a href='javascript:void(0)' id='299649' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='299649' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='299649' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='299649' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='299649' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-299649'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/299649/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/299649/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 91"><a href="/wiki/Special:GetFCtrStats/@299649" title="Special:GetFCtrStats/@299649">91</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/27844"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/10/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>3rd edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cheshire, CT: [Andrew Law], 1800 <br />Number 6th of Musical Magazine dated November 1801.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=299646/299647/299648/299649">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=299646/299647/299648/299649">del</a>/<span id="fmrglnk" data-pdfstr="299646//299647//299648//299649/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>In the 3rd standard notation edition, Law got rid of the different titles dividing this work. The Advertisement states: <i>The divisions of the following work were firstly published in detached parts. They have since been collected ... to form a consistent whole. The second part, or the Christian Harmony, has been heretofore subdivided into two Volumes; but that division, ceasing to be necessary, is discontinued. Additional numbers of the Magazine may be hereafter be published as occasion may require.</i><br /> This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="299646">Javascript is required for this feature.</div><script>JGINITsearchbars['299646']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=299646|299647|299648|299649&type=Part%20I%20%28The%20Musical%20Primer%29%7CPart%20II%20%28The%20Christian%20Harmony%29%7CPart%20III%20%28The%20Musical%20Magazine%29%7CThe%20Musical%20Magazine%2C%20No.6%20%281801%29&pgcount=48|120|40|16&signature=aa6e4c097481eb4fdc43c7b10028774fb66b5689"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP426158-Law_Art_of_Singing_1800_1_Musical_Primer.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/04/b28ad3fb537c8168bf5253034c171d146ec912c1.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Law.27s_4-shape_notation_edition">Law's 4-shape notation edition</span></h4>
+<div class="we"><div id="IMSLP313932" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/313932"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Primer (+ Supplement)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bb/PMLP426158-AoS_musicalprimercon00lawa_ed3_inc-p64.pdf" class="internal" title="PMLP426158-AoS musicalprimercon00lawa ed3 inc-p64.pdf">*</a></span><a href="/wiki/File:PMLP426158-AoS_musicalprimercon00lawa_ed3_inc-p64.pdf" title="File:PMLP426158-AoS musicalprimercon00lawa ed3 inc-p64.pdf">#313932</a> - 3.43MB, 64 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-313932' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-313932'>
+	<a href='javascript:void(0)' id='313932' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='313932' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='313932' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='313932' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='313932' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-313932'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/313932/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/313932/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 66"><a href="/wiki/Special:GetFCtrStats/@313932" title="Special:GetFCtrStats/@313932">66</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/2/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP313933" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/313933"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/65/PMLP426158-AoS_musmag1_musicalprimercon00lawa.pdf" class="internal" title="PMLP426158-AoS musmag1 musicalprimercon00lawa.pdf">*</a></span><a href="/wiki/File:PMLP426158-AoS_musmag1_musicalprimercon00lawa.pdf" title="File:PMLP426158-AoS musmag1 musicalprimercon00lawa.pdf">#313933</a> - 4.92MB, 96 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-313933' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-313933'>
+	<a href='javascript:void(0)' id='313933' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='313933' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='313933' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='313933' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='313933' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-313933'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/313933/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/313933/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 46"><a href="/wiki/Special:GetFCtrStats/@313933" title="Special:GetFCtrStats/@313933">46</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/2/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP313934" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/313934"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine No.2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/aa/PMLP426158-AoS_musmag2_musicalprimercon00lawa.pdf" class="internal" title="PMLP426158-AoS musmag2 musicalprimercon00lawa.pdf">*</a></span><a href="/wiki/File:PMLP426158-AoS_musmag2_musicalprimercon00lawa.pdf" title="File:PMLP426158-AoS musmag2 musicalprimercon00lawa.pdf">#313934</a> - 1.66MB, 33 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-313934' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-313934'>
+	<a href='javascript:void(0)' id='313934' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='313934' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='313934' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='313934' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='313934' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-313934'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/313934/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/313934/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 44"><a href="/wiki/Special:GetFCtrStats/@313934" title="Special:GetFCtrStats/@313934">44</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/2/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>3rd edition of Musical Primer<br />5th edition of Musical Magazine
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Philadelphia: Anderson &amp; Meehan, for the author, n.d. <br />Philadelphia: Robert &amp; William Carr, for the author, n.d. (ca.1811) <br />Philadelphia: Jane Aitken, n.d. (ca.1810)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=313932/313933/313934">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=313932/313933/313934">del</a>/<span id="fmrglnk" data-pdfstr="313932//313933//313934/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="313932">Javascript is required for this feature.</div><script>JGINITsearchbars['313932']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=313932|313933|313934&type=Musical%20Primer%20%28%2B%20Supplement%29%7CMusical%20Magazine%20No.1%7CMusical%20Magazine%20No.2&pgcount=64|96|33&signature=f10fae66eaf01d684d7fa2bd24bd4004a5e1eb1c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP325656" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/325656"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Primer</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b9/PMLP426158-musicalprimercon00lawa_0_musprim_1_ed3.pdf" class="internal" title="PMLP426158-musicalprimercon00lawa 0 musprim 1 ed3.pdf">*</a></span><a href="/wiki/File:PMLP426158-musicalprimercon00lawa_0_musprim_1_ed3.pdf" title="File:PMLP426158-musicalprimercon00lawa 0 musprim 1 ed3.pdf">#325656</a> - 0.73MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-325656' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-325656'>
+	<a href='javascript:void(0)' id='325656' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='325656' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='325656' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='325656' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='325656' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-325656'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/325656/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/325656/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@325656" title="Special:GetFCtrStats/@325656">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP325657" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/325657"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Supplement to Musical Primer</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9e/PMLP426158-musicalprimercon00lawa_0_musprim_2_suppl.pdf" class="internal" title="PMLP426158-musicalprimercon00lawa 0 musprim 2 suppl.pdf">*</a></span><a href="/wiki/File:PMLP426158-musicalprimercon00lawa_0_musprim_2_suppl.pdf" title="File:PMLP426158-musicalprimercon00lawa 0 musprim 2 suppl.pdf">#325657</a> - 2.38MB, 48 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-325657' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-325657'>
+	<a href='javascript:void(0)' id='325657' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='325657' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='325657' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='325657' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='325657' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-325657'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/325657/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/325657/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 40"><a href="/wiki/Special:GetFCtrStats/@325657" title="Special:GetFCtrStats/@325657">40</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP325658" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/325658"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f7/PMLP426158-musicalprimercon00lawa_0_4_musmag_no1_ed5.pdf" class="internal" title="PMLP426158-musicalprimercon00lawa 0 4 musmag no1 ed5.pdf">*</a></span><a href="/wiki/File:PMLP426158-musicalprimercon00lawa_0_4_musmag_no1_ed5.pdf" title="File:PMLP426158-musicalprimercon00lawa 0 4 musmag no1 ed5.pdf">#325658</a> - 4.50MB, 96 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-325658' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-325658'>
+	<a href='javascript:void(0)' id='325658' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='325658' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='325658' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='325658' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='325658' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-325658'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/325658/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/325658/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 31"><a href="/wiki/Special:GetFCtrStats/@325658" title="Special:GetFCtrStats/@325658">31</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP325659" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/325659"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine, No.2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/db/PMLP426158-musicalprimercon00lawa_0_5_musmag_no2.pdf" class="internal" title="PMLP426158-musicalprimercon00lawa 0 5 musmag no2.pdf">*</a></span><a href="/wiki/File:PMLP426158-musicalprimercon00lawa_0_5_musmag_no2.pdf" title="File:PMLP426158-musicalprimercon00lawa 0 5 musmag no2.pdf">#325659</a> - 1.50MB, 33 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-325659' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-325659'>
+	<a href='javascript:void(0)' id='325659' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='325659' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='325659' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='325659' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='325659' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-325659'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/325659/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/325659/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@325659" title="Special:GetFCtrStats/@325659">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/musicalprimercon00lawa_0#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/5/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>3rd edition of Musical Primer<br />5th edition of Musical Magazine
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Philadelphia: Anderson &amp; Meehan, for the author, n.d. <br />Philadelphia: Robert &amp; William Carr, for the author, n.d. (ca.1811) <br />Philadelphia: Jane Aitken, n.d. (ca.1810)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=325656/325657/325658/325659">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=325656/325657/325658/325659">del</a>/<span id="fmrglnk" data-pdfstr="325656//325657//325658//325659/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Originally bound with a copy of <a href="/wiki/Harmonic_Companion_(Law,_Andrew)" title="Harmonic Companion (Law, Andrew)">Law's <i>Harmonic Companion</i></a>, split from files here.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="325656">Javascript is required for this feature.</div><script>JGINITsearchbars['325656']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=325656|325657|325658|325659&type=Musical%20Primer%7CSupplement%20to%20Musical%20Primer%7CMusical%20Magazine%20No.1%7CMusical%20Magazine%2C%20No.2&pgcount=16|48|96|33&signature=7fa71f938ec361fb1707f57ca2d55db8aa7e0371"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP265031" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265031"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Primer</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c0/PMLP426158-artofsinth00lawa_1_musical_primer.pdf" class="internal" title="PMLP426158-artofsinth00lawa 1 musical primer.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinth00lawa_1_musical_primer.pdf" title="File:PMLP426158-artofsinth00lawa 1 musical primer.pdf">#265031</a> - 4.99MB, 94 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265031' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265031'>
+	<a href='javascript:void(0)' id='265031' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265031' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265031' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265031' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265031' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265031'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265031/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265031/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 151"><a href="/wiki/Special:GetFCtrStats/@265031" title="Special:GetFCtrStats/@265031">151</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP265032" class="we_file we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265032"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Christian Harmony, Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1c/PMLP426158-artofsinth00lawa_2_christian_harmony.pdf" class="internal" title="PMLP426158-artofsinth00lawa 2 christian harmony.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinth00lawa_2_christian_harmony.pdf" title="File:PMLP426158-artofsinth00lawa 2 christian harmony.pdf">#265032</a> - 3.77MB, 62 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265032' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265032'>
+	<a href='javascript:void(0)' id='265032' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265032' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265032' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265032' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265032' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265032'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265032/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265032/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 119"><a href="/wiki/Special:GetFCtrStats/@265032" title="Special:GetFCtrStats/@265032">119</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP265033" class="we_file we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265033"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cc/PMLP426158-artofsinth00lawa_3_musical_magazine.pdf" class="internal" title="PMLP426158-artofsinth00lawa 3 musical magazine.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinth00lawa_3_musical_magazine.pdf" title="File:PMLP426158-artofsinth00lawa 3 musical magazine.pdf">#265033</a> - 4.88MB, 96 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265033' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265033'>
+	<a href='javascript:void(0)' id='265033' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265033' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265033' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265033' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265033' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265033'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265033/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265033/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 117"><a href="/wiki/Special:GetFCtrStats/@265033" title="Special:GetFCtrStats/@265033">117</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>4th edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cambridge, MA?: W. Hilliard, 1803. <br />Boston: E. Lincoln, for the author, 1805.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=265031/265032/265033">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=265031/265032/265033">del</a>/<span id="fmrglnk" data-pdfstr="265031//265032//265033/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>#265032 - the additional stanzas have been cut out of the corner of p.129, removing some music from p.130. <br />#265033 - different contents to the standard notation 2nd edtion (#262793). <br />Originally 25 pages from <a href="/wiki/Harmonic_Companion_(Law,_Andrew)" title="Harmonic Companion (Law, Andrew)">Law's <i>Harmonic Companion</i></a> were bound in with this - file has been split and moved to that page.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="265031">Javascript is required for this feature.</div><script>JGINITsearchbars['265031']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=265031|265032|265033&type=The%20Musical%20Primer%7CThe%20Christian%20Harmony%2C%20Vol.1%7CThe%20Musical%20Magazine%2C%20No.1&pgcount=94|62|96&signature=a6bc4542ebff8e4db2be9dfa581db0bf4a03d4f2"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP426158-artofsinth00lawa_1_musical_primer.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/c0/c69fe3a64f9ce4943b6d5314299edeb409a45096.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP313935" class="we_file_first we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/313935"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Primer</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0f/PMLP426158-artofsinginginth00lawa_1_mus_prim_ed4.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa 1 mus prim ed4.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_1_mus_prim_ed4.pdf" title="File:PMLP426158-artofsinginginth00lawa 1 mus prim ed4.pdf">#313935</a> - 5.41MB, 107 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-313935' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-313935'>
+	<a href='javascript:void(0)' id='313935' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='313935' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='313935' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='313935' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='313935' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-313935'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/313935/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/313935/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@313935" title="Special:GetFCtrStats/@313935">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/2/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP313936" class="we_file we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/313936"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Christian Harmony Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c1/PMLP426158-artofsinginginth00lawa_2_christian_harmony_ed4.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa 2 christian harmony ed4.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_2_christian_harmony_ed4.pdf" title="File:PMLP426158-artofsinginginth00lawa 2 christian harmony ed4.pdf">#313936</a> - 3.81MB, 64 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-313936' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-313936'>
+	<a href='javascript:void(0)' id='313936' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='313936' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='313936' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='313936' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='313936' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-313936'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/313936/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/313936/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@313936" title="Special:GetFCtrStats/@313936">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/2/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP313937" class="we_file we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/313937"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Musical Magazine No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a7/PMLP426158-artofsinginginth00lawa_musmag_ed4.pdf" class="internal" title="PMLP426158-artofsinginginth00lawa musmag ed4.pdf">*</a></span><a href="/wiki/File:PMLP426158-artofsinginginth00lawa_musmag_ed4.pdf" title="File:PMLP426158-artofsinginginth00lawa musmag ed4.pdf">#313937</a> - 4.89MB, 96 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-313937' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-313937'>
+	<a href='javascript:void(0)' id='313937' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='313937' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='313937' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='313937' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='313937' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-313937'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/313937/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/313937/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 33"><a href="/wiki/Special:GetFCtrStats/@313937" title="Special:GetFCtrStats/@313937">33</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artofsinginginth00lawa#page/n3#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2014/2/1)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>4th edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Cambridge, MA?: W. Hilliard, 1803. <br />Windsor, VT: Nahum Mower, 1805. <br />Boston: E. Lincoln, for the author, 1805.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=313935/313936/313937">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=313935/313936/313937">del</a>/<span id="fmrglnk" data-pdfstr="313935//313936//313937/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="313935">Javascript is required for this feature.</div><script>JGINITsearchbars['313935']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=313935|313936|313937&type=Musical%20Primer%7CChristian%20Harmony%20Vol.1%7CMusical%20Magazine%20No.1&pgcount=107|64|96&signature=8a19731aa7b7ef8f64c0a7f91a7415f57da3ddda"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP265039" class="we_file_first we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265039"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Primer [incomplete</a></span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/06/PMLP426158-arth00lawa_1_musical_primer_inc_rud.pdf" class="internal" title="PMLP426158-arth00lawa 1 musical primer inc rud.pdf">*</a></span><a href="/wiki/File:PMLP426158-arth00lawa_1_musical_primer_inc_rud.pdf" title="File:PMLP426158-arth00lawa 1 musical primer inc rud.pdf">#265039</a> - 5.12MB, 90 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265039' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265039'>
+	<a href='javascript:void(0)' id='265039' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265039' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265039' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265039' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265039' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265039'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265039/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265039/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 92"><a href="/wiki/Special:GetFCtrStats/@265039" title="Special:GetFCtrStats/@265039">92</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/arth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP265040" class="we_file we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265040"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Christian Harmony, Vol.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7a/PMLP426158-arth00lawa_2_christian_harmony.pdf" class="internal" title="PMLP426158-arth00lawa 2 christian harmony.pdf">*</a></span><a href="/wiki/File:PMLP426158-arth00lawa_2_christian_harmony.pdf" title="File:PMLP426158-arth00lawa 2 christian harmony.pdf">#265040</a> - 4.02MB, 62 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265040' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265040'>
+	<a href='javascript:void(0)' id='265040' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265040' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265040' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265040' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265040' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265040'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265040/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265040/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 110"><a href="/wiki/Special:GetFCtrStats/@265040" title="Special:GetFCtrStats/@265040">110</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/arth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP265041" class="we_file we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265041"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.1 [incomplete</a></span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9c/PMLP426158-arth00lawa_3_musical_magazine_inc_-81-88.pdf" class="internal" title="PMLP426158-arth00lawa 3 musical magazine inc -81-88.pdf">*</a></span><a href="/wiki/File:PMLP426158-arth00lawa_3_musical_magazine_inc_-81-88.pdf" title="File:PMLP426158-arth00lawa 3 musical magazine inc -81-88.pdf">#265041</a> - 4.70MB, 88 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265041' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265041'>
+	<a href='javascript:void(0)' id='265041' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265041' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265041' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265041' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265041' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265041'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265041/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265041/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 83"><a href="/wiki/Special:GetFCtrStats/@265041" title="Special:GetFCtrStats/@265041">83</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/arth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP265042" class="we_file we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265042"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.2 [incomplete</a></span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a7/PMLP426158-arth00lawa_4_part_inc.pdf" class="internal" title="PMLP426158-arth00lawa 4 part inc.pdf">*</a></span><a href="/wiki/File:PMLP426158-arth00lawa_4_part_inc.pdf" title="File:PMLP426158-arth00lawa 4 part inc.pdf">#265042</a> - 1.04MB, 20 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265042' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265042'>
+	<a href='javascript:void(0)' id='265042' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265042' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265042' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265042' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265042' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265042'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265042/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265042/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 95"><a href="/wiki/Special:GetFCtrStats/@265042" title="Special:GetFCtrStats/@265042">95</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/arth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>4th edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Windsor, VT: Nahum Mower, 1805. <br />Boston: E. Lincoln, for the author, 1805.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=265039/265040/265041/265042">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=265039/265040/265041/265042">del</a>/<span id="fmrglnk" data-pdfstr="265039//265040//265041//265042/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>#265039 - missing pp.27-30 from the Rudiments; music is otherwise complete. <br />#265040 - same contents as #265032. <br />#265041 - missing pp.81-88. <br />#265042 - Title-page missing, first piece incomplete. The final piece is also incomplete, 2 pages are missing. Pages numbered 103-126.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="265039">Javascript is required for this feature.</div><script>JGINITsearchbars['265039']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=265039|265040|265041|265042&type=The%20Musical%20Primer%20%5Bincomplete%5D%7CThe%20Christian%20Harmony%2C%20Vol.1%7CThe%20Musical%20Magazine%2C%20No.1%20%5Bincomplete%5D%7CThe%20Musical%20Magazine%2C%20No.2%20%5Bincomplete%5D&pgcount=90|62|88|20&signature=cff9e90dbaafe5bc70d6662de3d4e57dfd5aa84c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP265725" class="we_file_first we_fileblock_11">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265725"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/61/PMLP426158-artprimth00lawa_3_musmag1.pdf" class="internal" title="PMLP426158-artprimth00lawa 3 musmag1.pdf">*</a></span><a href="/wiki/File:PMLP426158-artprimth00lawa_3_musmag1.pdf" title="File:PMLP426158-artprimth00lawa 3 musmag1.pdf">#265725</a> - 4.72MB, 94 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265725' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265725'>
+	<a href='javascript:void(0)' id='265725' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265725' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265725' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265725' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265725' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265725'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265725/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265725/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 114"><a href="/wiki/Special:GetFCtrStats/@265725" title="Special:GetFCtrStats/@265725">114</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artprimth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP265726" class="we_file we_fileblock_11">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/265726"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>The Musical Magazine, No.2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c3/PMLP426158-artprimth00lawa_3_musmag2.pdf" class="internal" title="PMLP426158-artprimth00lawa 3 musmag2.pdf">*</a></span><a href="/wiki/File:PMLP426158-artprimth00lawa_3_musmag2.pdf" title="File:PMLP426158-artprimth00lawa 3 musmag2.pdf">#265726</a> - 1.61MB, 33 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-265726' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-265726'>
+	<a href='javascript:void(0)' id='265726' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='265726' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='265726' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='265726' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='265726' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-265726'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/265726/The_Art_of_Singing_(Law,_Andrew)" title="Special:IMSLPEditCTag/265726/The Art of Singing (Law, Andrew)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 103"><a href="/wiki/Special:GetFCtrStats/@265726" title="Special:GetFCtrStats/@265726">103</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/artprimth00lawa#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Princeton Theological Seminary Library">archive.org</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/1/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>5th edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Philadelphia: Robert &amp; William Carr, for the author, n.d. <br />Philadelphia: Jane Aitken, 1810.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=265725/265726">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=265725/265726">del</a>/<span id="fmrglnk" data-pdfstr="265725//265726/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>#265726 - Pages numbered from 101-128.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="265725">Javascript is required for this feature.</div><script>JGINITsearchbars['265725']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=265725|265726&type=The%20Musical%20Magazine%2C%20No.1%7CThe%20Musical%20Magazine%2C%20No.2&pgcount=94|33&signature=876f671a1591f6580beba7d5816ebd76dd305696"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP426158-artprimth00lawa_3_musmag1.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/61/49dbd18a906d15822497046b10fc28bee38599bf.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">The Art of Singing
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">The Art of Singing; In three Parts: viz. I. The Musical Primer, II. The Christian Harmony, III. The Musical Magazine. By Andrew Law, A. M.  Author of the Select Harmony, Rudiments of Music, &amp;c.
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Law,_Andrew" title="Category:Law, Andrew">Law, Andrew</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 sections
+<dl><dd>I. The Musical Primer
+</dd><dd>II. The Christian Harmony
+</dd><dd>III. The Musical Magazine
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1792-94
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>English
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>3-4 voices / choir
+</td></tr>
+<tr>
+<th>Related Works
+</th>
+<td><a href="/wiki/Harmonic_Companion_(Law,_Andrew)" title="Harmonic Companion (Law, Andrew)"><i>Harmonic Companion</i></a> - in later editions, the Harmonic Companion was appended to The Art of Singing.
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p><b>N.B.</b> The 4-shape notation here is Law's own invention - in addition to being printed without staff lines, it differs from the more common 4-shape system that is still in use today (first used in <i><a href="/wiki/The_Easy_Instructor_(Various)" title="The Easy Instructor (Various)">The Easy Instructor</a></i>) in that the rectangle notehead denotes <b>faw</b>, and the triangle <b>law</b>. He later revised this so that 7 syllables could be used, by distinguishing three shapes with a dot (looking like a staccato dot), in effect a sort of 7-shape notation.
+<br />
+</p>
+<ul><li>Full titles (2nd edition):
+</li></ul>
+<ol><li> The Musical Primer; or the First Part of the Art of Singing: Containing the Rules of Psalmody, Newly Revised and Improved; Together with a number of Practical Lessons and Plain Tunes: Designed expressly for the use of Learners. 
+</li><li> The Christian Harmony; or the Second Part of the Art of Singing: Comprising a Select Variety of Psalm and Hymn Tunes; together with a number of Airs and Anthems: Calculated for Schools and Churches. In Two Volumes. 
+</li><li> The Musical Magazine; containing a variety of favorite pieces. A Periodical Publication.
+</li></ol>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1324/1000000
+Post-expand include size: 136483/2097152 bytes
+Template argument size: 628/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:426158-0!*!0!!en!2!* and timestamp 20180415150517 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=The_Art_of_Singing_(Law,_Andrew)&amp;oldid=1565348">http://imslp.org/index.php?title=The_Art_of_Singing_(Law,_Andrew)&amp;oldid=1565348</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Law,_Andrew/Collections" title="Category:Law, Andrew/Collections">Law, Andrew/Collections</a></li><li><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical style</a></li><li><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a></li><li><a href="/wiki/Category:Methods" title="Category:Methods">Methods</a></li><li><a href="/wiki/Category:Psalms" title="Category:Psalms">Psalms</a></li><li><a href="/wiki/Category:Religious_works" title="Category:Religious works">Religious works</a></li><li><a href="/wiki/Category:Sacred_hymns" title="Category:Sacred hymns">Sacred hymns</a></li><li><a href="/wiki/Category:Hymns" title="Category:Hymns">Hymns</a></li><li><a href="/wiki/Category:Anthems" title="Category:Anthems">Anthems</a></li><li><a href="/wiki/Category:For_3_voices" title="Category:For 3 voices">For 3 voices</a></li><li><a href="/wiki/Category:For_unaccompanied_voices" title="Category:For unaccompanied voices">For unaccompanied voices</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:For_4_voices" title="Category:For 4 voices">For 4 voices</a></li><li><a href="/wiki/Category:For_mixed_chorus" title="Category:For mixed chorus">For mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:For_unaccompanied_chorus" title="Category:For unaccompanied chorus">For unaccompanied chorus</a></li><li><a href="/wiki/Category:English_language" title="Category:English language">English language</a></li><li><a href="/wiki/Category:Works_first_published_in_1792" title="Category:Works first published in 1792">Works first published in 1792</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:Hymnals_and_Psalters" title="Category:Hymnals and Psalters">Hymnals and Psalters</a></li><li><a href="/wiki/Category:4-shape_notation" title="Category:4-shape notation">4-shape notation</a></li><li><a href="/wiki/Category:7-shape_notation" title="Category:7-shape notation">7-shape notation</a></li><li><a href="/wiki/Category:Gillet,_Alexander/Collections" title="Category:Gillet, Alexander/Collections">Gillet, Alexander/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:Lyon_I,_James/Collections" title="Category:Lyon I, James/Collections">Lyon I, James/Collections</a></li><li><a href="/wiki/Category:Chandler,_Solomon/Collections" title="Category:Chandler, Solomon/Collections">Chandler, Solomon/Collections</a></li><li><a href="/wiki/Category:Olmsted,_Timothy/Collections" title="Category:Olmsted, Timothy/Collections">Olmsted, Timothy/Collections</a></li><li><a href="/wiki/Category:Madan,_Martin/Collections" title="Category:Madan, Martin/Collections">Madan, Martin/Collections</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=The_Art_of_Singing_%28Law%2C_Andrew%29">1,862 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/The%20Art%20of%20Singing%20%28Law%2C%20Andrew%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 1.056 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415150517 -->
+</html>
+		

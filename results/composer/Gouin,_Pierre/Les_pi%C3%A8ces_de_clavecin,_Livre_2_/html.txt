@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Les_pièces_de_clavecin,_Livre_2_(Chambonnières,_Jacques_Champion_de)", "wgTitle": "Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)", "wgCurRevisionId": 2271951, "wgArticleId": 43748, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from Bibliothèque nationale de France", "Pages with First Editions", "Wiberg, Steve/Editor", "Gouin, Pierre/Editor", "Scores", "Chambonnières, Jacques Champion de/Collections", "Baroque style", "Baroque", "Pieces", "For harpsichord", "Scores featuring the harpsichord", "For 1 player", "Works first published in 1670", "Works first published in the 17th century"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Les_pièces_de_clavecin_Livre_2_Chambonnières_Jacques_Champion_de action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Les+pi%C3%A8ces+de+clavecin%2C+Livre+2+%28Chambonni%C3%A8res%2C+Jacques+Champion+de%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)&amp;oldid=2271951" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Les%20pi%C3%A8ces%20de%20clavecin%2C%20Livre%202%20%28Chambonni%C3%A8res%2C%20Jacques%20Champion%20de%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>30
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1670
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_harpsichord&amp;transclude=Template:Catintro">For harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Les pi\u00e8ces de clavecin, Livre 2","composer":"Chambonni\u00e8res, Jacques Champion de","comphref":"\/wiki\/Category:Chambonni%C3%A8res,_Jacques_Champion_de"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"les pieces de clavecin","itunes":"les pieces de clavecin","composer":"chambonnieres","scorekeywords":"les pieces de clavecin","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":7,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SAR7701.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SAR7701.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSAR7701","desc":"Piano Recital: Chapelin, Anne-Francoise - CHAMBONNIERES, J.C. \/ DUPHLY, J. \/ SCARLATTI, D. (verite du clavecin)","label":"Sarastro","category":"Instrumental - Classical Music","composer":"Scarlatti, Domenico -- Chambonni\u00e8res, Jacques Champion -- Duphly, Jacques","artist":"Chapelin, Anne-Francoise","country":"France Italy","catid":"SAR7701","cdinfo":[[["Chambonni&#232;res, Jacques Champion",[["Les pieces de clavessin, Book 1: Suite No. 3 in D Minor (excerpts)","mediaplayer\/player.asp?br=128&tl=1714978|1714979|1714980|1714981|1714982",["I. Allemande: La loureuse","III. Courante: De Madame","V. Sarabande","VI. Les baricades","VIII. Gigue"]]]],["Duphly, Jacques",[["Pieces de clavecin, Book 1: Rondeau","mediaplayer\/player.asp?br=128&tl=1714983",[]],["Pieces de clavecin, Book 3 (excerpts)","mediaplayer\/player.asp?br=128&tl=1714984|1714985",["Medee","La forqueray"]]]],["Scarlatti, Domenico",[["Keyboard Sonata in C Major, K.421\/L.252\/P.459","mediaplayer\/player.asp?br=128&tl=1714986",[]],["Keyboard Sonata in D Major, K.490\/L.206\/P.476","mediaplayer\/player.asp?br=128&tl=1714987",[]],["Keyboard Sonata in C Major, K.460\/L.324\/P.378","mediaplayer\/player.asp?br=128&tl=1714988",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PC10223.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PC10223.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPC10223","desc":"Harpsichord Recital: Markl, Markus - COUPERIN, F. \/ MARCHAND, L. \/ D'ANGLEBERT, J.H. \/ BACH, J.S.","label":"Pan Classics","category":"Instrumental - Classical Music","composer":"Anglebert, Jean Henri d' -- Bach, Johann Sebastian -- Marchand, Louis -- Couperin, Francois","artist":"Markl, Markus","country":"France Germany","catid":"PC10223","cdinfo":[[["Couperin, Fran&#231;ois",[["Pieces de clavecin, Book 2: 6th Ordre in B-Flat Major (excerpts)","mediaplayer\/player.asp?br=128&tl=559183|559184|559185|559186",["Les Moissonneurs","Les Langueurs","Les Baricades misterieuses","Les Bergeries"]]]],["Marchand, Louis",[["Pieces de clavecin, Book 1","mediaplayer\/player.asp?br=128&tl=559187|559188|559189|559190|559191|559192|559193",["Prelude","Allemande","Courante I","Sarabande","Gigue","Chaconne","Menuet"]]]],["Anglebert, Jean Henri d'",[["Pieces de Clavecin (excerpts)","mediaplayer\/player.asp?br=128&tl=559194|559195",["Prelude","Tombeau de Mr. de Chambonnieres"]]]],["Bach, Johann Sebastian",[["Overture (Partita) in the French Style in B Minor, BWV 831","mediaplayer\/player.asp?br=128&tl=559196|559197|559198|559199|559200|559201|559202|559203",["I. Overture","II. Courante","III. Gavotte I - IV. Gavotte II","V. Passepied I - VI. Passepied II","VII. Sarabande","VIII. Bourree I - IX. Bourree II","X. Gigue","XI. Echo"]]]],["Couperin, Fran&#231;ois",[["Pieces de clavecin, Book 2: 6th Ordre in B-Flat Major: Le Gazouillement","mediaplayer\/player.asp?br=128&tl=559204",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PA0012.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PA0012.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPA0012","desc":"MEMORANDUM XXI - Essays and Interviews on Music and Performance","label":"Paradizo","category":"Ballet - Classical Music","composer":"Cabez\u00f3n, Antonio de -- Anglebert, Jean Henri d' -- Anonymous -- Arcadelt, Jacques -- Bach, Johann Sebastian -- Muffat, Georg -- Praetorius, Michael -- Purcell, Henry -- Rameau, Jean-Philippe -- Scarlatti, Domenico -- Marenzio, Luca -- Rore, Cipriano de -- Scheidt, Samuel -- Josquin des Prez, -- Lully, Jean-Baptiste -- Marais, Marin -- Farina, Carlo -- Philips, Peter -- Telemann, Georg Philipp -- Holborne, Antony -- Sandrin, Pierre -- Campra, Andr\u00e9 -- Chambonni\u00e8res, Jacques Champion -- Duphly, Jacques -- Monteverdi, Claudio -- Caccini, Giulio -- Palestrina, Giovanni Pierluigi da -- Cabezon, Hernando de -- Cavalieri, Emilio de' -- Bennet, John -- Dowland, John -- Marini, Biagio -- Brade, William -- Bull, John -- Buxtehude, Dieterich -- Byrd, William -- Couperin, Francois -- Couperin, Louis -- Forqueray, Antoine -- Gabrieli, Giovanni -- Sainte-Colombe, Augustin Dautrecourt dit -- La Barre, Michel de -- Malvezzi, Cristofano -- Bardi, Giovanni de' -- Fogliano, Giacomo -- Archilei, Antonio","artist":"Gauvin, Karina -- Gent, Sophie -- Cheatham, Josh -- Fortin, Olivier -- Laurens, Guillemette -- Valetti, Pablo -- Hantai, Pierre -- Sempe, Skip -- Capriccio Stravagante -- Leonard, Julien -- Capriccio Stravagante Consort Voices -- Capriccio Stravagante Les 24 Violons -- Martin, Julien -- Capriccio Stravagante Renaissance Orchestra","country":"Belgium France Germany Italy Spain United Kingdom","catid":"PA0012","cdinfo":[[["Praetorius, Michael",[["Passamezzo","mediaplayer\/player.asp?br=128&tl=2347806",[]]]],["Dowland, John",[["Paduan","mediaplayer\/player.asp?br=128&tl=2347807",[]]]],["Holborne, Antony",[["Paradizo - The Sighes","mediaplayer\/player.asp?br=128&tl=2347808",[]]]],["Palestrina, Giovanni Pierluigi da",[["Pulchra es amica mea (arr. F. Rognoni for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2347809",[]]]],["Prez, Josquin des",[["In te Domine speravi","mediaplayer\/player.asp?br=128&tl=2347810",[]]]],["Bennet, John",[["Venus' Birds","mediaplayer\/player.asp?br=128&tl=2347811",[]]]],["Rore, Cipriano de",[["Ancor che col partire (arr. D. Sherwin for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2347812",[]]]],["Scheidt, Samuel",[["Courant dolorosa No. 9","mediaplayer\/player.asp?br=128&tl=2347813",[]]]],["Dowland, John",[["Paduana Lachrymae, P. 15 (arr. W. Randall)","mediaplayer\/player.asp?br=128&tl=2347814",[]]]],["Byrd, William",[["Praeludium","mediaplayer\/player.asp?br=128&tl=2347815",[]],["Pavan and Galliard No. 2 in G Minor, \"Sir William Petre\"","mediaplayer\/player.asp?br=128&tl=2347816",[]],["The Queen's Alman","mediaplayer\/player.asp?br=128&tl=2347817",[]]]],["Bull, John",[["Chromatic Pavan (Queen Elizabeth's)","mediaplayer\/player.asp?br=128&tl=2347818",[]]]],["Byrd, William",[["Fantasia a 6 No. 2 in G Minor","mediaplayer\/player.asp?br=128&tl=2347819",[]]]],["Philips, Peter",[["Pavana Philipi","mediaplayer\/player.asp?br=128&tl=2347820",[]]]],["Dowland, John",[["Captain Digorie Piper's Galliard, P. 19","mediaplayer\/player.asp?br=128&tl=2349707",["Captain Digorie Piper's Galliard"]]]],["Fogliano, Giacomo",[["L'amor, dona ch'io te porto","mediaplayer\/player.asp?br=128&tl=2349708",[]]]],["Rore, Cipriano de",[["Ancor che col partire","mediaplayer\/player.asp?br=128&tl=2349709",[]]]],["Anonymous",[["When Daphne from Fair Phoebus did Fly","mediaplayer\/player.asp?br=128&tl=2349710",[]]]],["Brade, William",[["Paduana","mediaplayer\/player.asp?br=128&tl=2349711",[]]]],["Praetorius, Michael",[["Terpsichore: Bransle de la Torche (XV)","mediaplayer\/player.asp?br=128&tl=2349712",[]]]],["Sandrin, Pierre",[["Doulce memoire","mediaplayer\/player.asp?br=128&tl=2349713",[]]]]],[["Gabrieli, Giovanni",[["Canzon II","mediaplayer\/player.asp?br=128&tl=2350176",[]]]],["Archilei, Antonio",[["La pellegrina (excerpts)","mediaplayer\/player.asp?br=128&tl=2350177|2350178|2350179",["Intermedio VI: O fortunato giorno","Intermedio I: Sinfonia a 6","Intermedio I: Dolcissime sirene"]]]],["Purcell, Henry",[["Pavan in B-Flat Major, Z. 750","mediaplayer\/player.asp?br=128&tl=2350180",[]]]],["Monteverdi, Claudio",[["Lamento d'Arianna, SV 22","mediaplayer\/player.asp?br=128&tl=2350181",[]]]],["Monteverdi, Claudio",[["Madrigals, Book 6 (Il sesto libro de madrigali): Zefiro torna e'l bel tempo rimena, SV 108","mediaplayer\/player.asp?br=128&tl=2350182",[]]]],["Marini, Biagio",[["Sonata terza, \"La variata\"","mediaplayer\/player.asp?br=128&tl=2350183",["Sonata terza, \"Tanto se fare\""]]]],["Cabez&#243;n, Antonio de",[["Pavana con su glosa (arr. for instrumental ensemble)","mediaplayer\/player.asp?br=128&tl=2350184",[]]]],["Cabezon, Hernando de",[["Dulce memoria","mediaplayer\/player.asp?br=128&tl=2350185",[]]]],["Cabez&#243;n, Antonio de",[["Obras de Musica: Diferencias sobre las Vacas","mediaplayer\/player.asp?br=128&tl=2350186",[]]]],["Arcadelt, Jacques",[["Il bianco e dolce cigno (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=2350187",[]]]],["Holborne, Antony",[["Pavane, \"The Funerals\"","mediaplayer\/player.asp?br=128&tl=2350188",[]]]],["Purcell, Henry",[["Air for the flute","mediaplayer\/player.asp?br=128&tl=2350189",[]]]],["Cabez&#243;n, Antonio de",[["Obras de Musica: Differencias sobre el canto llano del Cavallero","mediaplayer\/player.asp?br=128&tl=2350190",[]]]],["Archilei, Antonio",[["La pellegrina (excerpts)","mediaplayer\/player.asp?br=128&tl=2350191|2350192|2350193",["Intermedio II: O figlie di Piero","Intermedio VI: Dal vago e bel sereno","Intermedio VI: O che nuovo miracolo"]]]]],[["Bach, Johann Sebastian",[["Prelude and Fugue in C Major, BWV 545","mediaplayer\/player.asp?br=128&tl=2350740",[]],["Trio Sonata No. 5 in C Major, BWV 529: II. Largo","mediaplayer\/player.asp?br=128&tl=2350741",[]]]],["Telemann, Georg Philipp",[["Overture (Suite) in A Minor for Recorder and Strings, TWV 55:a2: VII. Polonaise","mediaplayer\/player.asp?br=128&tl=2350742",[]]]],["Bach, Johann Sebastian",[["English Suite No. 2 in A Minor, BWV 807: IV. Sarabande","mediaplayer\/player.asp?br=128&tl=2350743",[]]]],["Telemann, Georg Philipp",[["Overture (Suite) in A Minor for Recorder and Strings, TWV 55:a2: V. Rejouissance","mediaplayer\/player.asp?br=128&tl=2350744",[]]]],["Scarlatti, Domenico",[["Keyboard Sonata in D Major, K.443\/L.418\/P.376","mediaplayer\/player.asp?br=128&tl=2350788",[]]]],["Purcell, Henry",[["3 Parts upon a Ground in F Major, Z. 731","mediaplayer\/player.asp?br=128&tl=2350789",[]]]],["Bach, Johann Sebastian",[["Keyboard Concerto in D Major, BWV 1054: II. Adagio e sempre piano","mediaplayer\/player.asp?br=128&tl=2350793",[]],["Violin Partita No. 2 in D Minor, BWV 1004: V. Ciaccona","mediaplayer\/player.asp?br=128&tl=2350790",[]]]],["Buxtehude, Dieterich",[["Sonata in D Minor, Op. 1, No. 6, BuxWV 257","mediaplayer\/player.asp?br=128&tl=2350791",[]]]],["Scarlatti, Domenico",[["Keyboard Sonata in E Major, K.206\/L.257\/P.307","mediaplayer\/player.asp?br=128&tl=2350792",[]]]],["Purcell, Henry",[["In Nomine a 6 in G Minor, Z. 746","mediaplayer\/player.asp?br=128&tl=2350803",[]],["In Nomine a 7 in G Minor, Z. 747, \"Dorian\"","mediaplayer\/player.asp?br=128&tl=2350804",[]]]],["Farina, Carlo",[["Capriccio stravagante: Kurtzweilig Quitlibet","mediaplayer\/player.asp?br=128&tl=2350805",[]]]]],[["Chambonni&#232;res, Jacques Champion",[["Allemande in C Major [Parville Manuscript]","mediaplayer\/player.asp?br=128&tl=2349408",[]]]],["Couperin, Louis",[["Passacaille in C Major","mediaplayer\/player.asp?br=128&tl=2349409",[]],["Suite in A Minor: Prelude a l'imitation de Monsieur Froberger","mediaplayer\/player.asp?br=128&tl=2349410",[]]]],["Couperin, Fran&#231;ois",[["L'art de toucher le clavecin: Prelude No. 5 in A Major","mediaplayer\/player.asp?br=128&tl=2349411",[]],["Pieces de clavecin, Book 1: 5th Ordre in A Major-minor: Sarabande: La Dangereuse","mediaplayer\/player.asp?br=128&tl=2349412",[]],["Pieces de clavecin, Book 2: 9th Ordre in A Major-minor: Allemande a 2 clavecins","mediaplayer\/player.asp?br=128&tl=2349413",[]]]],["Duphly, Jacques",[["Pieces de clavecin, Book 3: La de Belhombre","mediaplayer\/player.asp?br=128&tl=2349414",[]]]],["Forqueray, Antoine",[["Harpsichord Suite No. 1 in D Minor: III. La Cottin: Galamment sans lenteur","mediaplayer\/player.asp?br=128&tl=2349415",[]]]],["Duphly, Jacques",[["Pieces de clavecin, Book 1: Rondeau","mediaplayer\/player.asp?br=128&tl=2349416",[]]]],["Anglebert, Jean Henri d'",[["Pieces de clavecin: Tombeau de Mr. de Chambonnieres","mediaplayer\/player.asp?br=128&tl=2349417",[]]]],["Couperin, Fran&#231;ois",[["L'art de toucher le clavecin: Prelude No. 7 in B-Flat Major","mediaplayer\/player.asp?br=128&tl=2349418",[]]]],["Chambonni&#232;res, Jacques Champion",[["Prelude: Imitatio Froberger","mediaplayer\/player.asp?br=128&tl=2349462",[]],["Les pieces de clavessin, Book 1: Suite No. 5 in G Minor: I. Pavanne: L'entreiten des muses","mediaplayer\/player.asp?br=128&tl=2349463",[]]]],["Forqueray, Antoine",[["Harpsichord Suite No. 4 in G Minor: III. Sarabande: La D' Aubonne","mediaplayer\/player.asp?br=128&tl=2349464",[]]]],["Lully, Jean-Baptiste",[["Armide: Passacaille a'Armide (arr. J.H. d'Anglebert for harpsichord)","mediaplayer\/player.asp?br=128&tl=2349465",[]]]],["Rameau, Jean-Philippe",[["La Dauphine","mediaplayer\/player.asp?br=128&tl=2349505",[]],["Nouvelles suites de Pieces de clavecin: Suite in A Minor - Major: L'Enharmonique","mediaplayer\/player.asp?br=128&tl=2349506",[]]]],["Forqueray, Antoine",[["Harpsichord Suite No. 5 in C Minor: I. La Rameau: Majestueusement","mediaplayer\/player.asp?br=128&tl=2349507",[]]]],["Rameau, Jean-Philippe",[["Pieces de clavecin en concerts: Concert No. 1 in C Minor: II. La Livri","mediaplayer\/player.asp?br=128&tl=2349509",[]]]],["Couperin, Fran&#231;ois",[["Pieces de clavecin, Book 1: 3rd Ordre in C Major-Minor: La favorite","mediaplayer\/player.asp?br=128&tl=2349508",[]]]]],[["Couperin, Fran&#231;ois",[["Concert dans le Gout Theatral: Divertissement II: La Carte du Tendre: Sarabande: Grave et tendre","mediaplayer\/player.asp?br=128&tl=2349714",[]],["Airs de cour: Zephir modere en ces lieux","mediaplayer\/player.asp?br=128&tl=2349715",[]]]],["Lully, Jean-Baptiste",[["Le bourgeois gentilhomme: XI: Marche pour la Ceremonie des Turcs","mediaplayer\/player.asp?br=128&tl=2349716",[]]]],["Marais, Marin",[["Pieces de viole, Book 5: Suite in G Minor: I. Prelude","mediaplayer\/player.asp?br=128&tl=2349717",[]]]],["Couperin, Fran&#231;ois",[["Concert dans le Gout Theatral: Divertissement I: Zephire modere: Loure: Pesamment","mediaplayer\/player.asp?br=128&tl=2349718",[]]]],["Couperin, Fran&#231;ois",[["Peices de viole, Book 5: Le Jeu de Volant","mediaplayer\/player.asp?br=128&tl=2349719",[]],["Pieces de clavecin, Book 4: 24th Ordre in A Minor: L'amphibie, mouvement de passacaille","mediaplayer\/player.asp?br=128&tl=2349720",[]]]],["Lully, Jean-Baptiste",[["Atys: Overture","mediaplayer\/player.asp?br=128&tl=2349721",[]]]],["Sainte-Colombe, Augustin Dautrecourt dit",[["Chaconne rapportee","mediaplayer\/player.asp?br=128&tl=2351126",[]]]],["Campra, Andr&#233;",[["L'Europe galante, Act V Scene 1: Aria: Mes yeux, ne pourrez-vous jamais","mediaplayer\/player.asp?br=128&tl=2351127",[]]]],["Marais, Marin",[["Alcyone Suite: Prologue: Air pour les Faunes et les Driades","mediaplayer\/player.asp?br=128&tl=2351128",[]]]],["Lully, Jean-Baptiste",[["Le triomphe de l'amour: Prelude pour la Nuit","mediaplayer\/player.asp?br=128&tl=2351129",[]]]],["La Barre, Michel de",[["Le triomphe des arts: Qu'un Coeur est prevenu","mediaplayer\/player.asp?br=128&tl=2351130",[]]]],["Lully, Jean-Baptiste",[["Les plaisirs: Scene de Satyre et Moron","mediaplayer\/player.asp?br=128&tl=2351131",[]]]],["Lully, Jean-Baptiste",[["Armide: Passacaille","mediaplayer\/player.asp?br=128&tl=2351132",[]]]],["Muffat, Georg",[["Florilegium primum: Fasciculus IV, \"Impatientia\": I. Symphonie","mediaplayer\/player.asp?br=128&tl=2351133",[]]]],["Marais, Marin",[["Pieces de viole, Book 3: Suite in G Major: VIII. Sarabande grave","mediaplayer\/player.asp?br=128&tl=2351134",[]],["Pieces de viole, Book 5: Suite in G Major: X. Chaconne","mediaplayer\/player.asp?br=128&tl=2351135",[]]]],["Lully, Jean-Baptiste",[["Le bourgeois gentilhomme: Marche pour La Ceremonie des Turcs","mediaplayer\/player.asp?br=128&tl=2351136",[]],["Psyche: Ouverture","mediaplayer\/player.asp?br=128&tl=2351137",[]]]],["Campra, Andr&#233;",[["L'Europe galante, Act III Scene 1: Sommeil","mediaplayer\/player.asp?br=128&tl=2351138",[]]]],["Marais, Marin",[["Pieces de viole, Book 3: Suite in G Major: Fantasie - Double","mediaplayer\/player.asp?br=128&tl=2351139",[]]]],["Lully, Jean-Baptiste",[["Scene des trois Magiciens: Premiere Entree: Les Magiciens","mediaplayer\/player.asp?br=128&tl=2351140",[]]]],["Muffat, Georg",[["Florilegium primum: Fasciculus IV, \"Impatientia\": VII. Chaconne","mediaplayer\/player.asp?br=128&tl=2351141",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=EMCCD-7759.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=EMCCD-7759.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DEMCCD-7759","desc":"D'ANGLEBERT, J.H.: Pieces de clavecin (Knox)","label":"early-music.com","category":"Instrumental - Classical Music","composer":"Anglebert, Jean Henri d'","artist":"Knox, Hank","country":"France","catid":"EMCCD-7759","cdinfo":[[["Anglebert, Jean Henri d'",[["Pieces de clavecin: Suite No. 3 in D Minor (excerpts)","mediaplayer\/player.asp?br=128&tl=801755|801756|801757|801758|801759|801760",["Prelude","Allemande","Courante","Sarabande","Gigue","Gavotte"]],["Tombeau de Mr. de Chambonnieres","mediaplayer\/player.asp?br=128&tl=801761",[]],["Pieces de clavecin: Suite No. 2 in G Minor (excerpts)","mediaplayer\/player.asp?br=128&tl=801762|801763|801764|801765|801766|801767|801768|801769|801770|801771|801772",["Prelude","Allemande","Courante","Courante, Mr. de Lully","Double de la Courante","Dieu des Enfers, Sarabande","Gigue","Le Jeune Iris, Menuet (Trio pour le coucher de Roi)","Overture de la Mascarade","Les Songes agreabkes","Air d'Apollon"]],["Pieces de clavecin: Suite No. 1 in G Major (excerpts)","mediaplayer\/player.asp?br=128&tl=801773|801774|801775|801776|801777|801778|801779|801780|801781|801782",["Prelude","Allemande","Courante","Double de la Courante","Sarabande","Gigue","Galliarde","Chaconne Rondeau","Ritournelle des Fees","Chaconne, Mr. de Lully"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DCD34109.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DCD34109.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDCD34109","desc":"Harpsichord Recital: Kitchen, John - MARCHAND, L. \/ COUPERIN, L. \/ JACQUET DE LA GUERRE, E.-C. \/ LULLY, J.-B. (Music from the age of Louis XIV)","label":"Delphian","category":"Instrumental - Classical Music","composer":"Anglebert, Jean Henri d' -- Lully, Jean-Baptiste -- Marchand, Louis -- Jacquet de La Guerre, Elisabeth-Claude -- Couperin, Francois -- Couperin, Louis","artist":"Kitchen, John","country":"France","catid":"DCD34109","cdinfo":[[["Marchand, Louis",[["Suite No. 1 in D Minor","mediaplayer\/player.asp?br=128&tl=1762584|1762585|1762586|1762587|1762588|1762589|1762590|1762591|1762592",["I. Prelude","II. Allemande","III. Courante I","IV. Courante II","V. Sarabande","VI. Gigue","VII. Chaconne","VIII. Gavotte","IX. Menuet"]]]],["Couperin, Louis",[["Pavane in F-Sharp Minor","mediaplayer\/player.asp?br=128&tl=1762593",[]]]],["Jacquet de La Guerre, Elisabeth-Claude",[["Harpsichord Suite No. 4 in F Major","mediaplayer\/player.asp?br=128&tl=1762594|1762595|1762596|1762597|1762598|1762599|1762600|1762601",["I. Tocade","II. Allemande","III. Courante I","IV. Courante II","V. Sarabande","VI. Gigue","VII. Cannaris","VIII. Menuet"]]]],["Anglebert, Jean Henri d'",[["Pieces de clavecin: Tombeau de Mr. de Chambonnieres","mediaplayer\/player.asp?br=128&tl=1762602",[]]]],["Lully, Jean-Baptiste",[["Trios pour le coucher du roi, LWV 35 (excerpts) (arr. J.H. D'Anglebert for harpsichord)","mediaplayer\/player.asp?br=128&tl=1762603|1762604",["Dans nos bois Silvandre","La jeune Iris"]],["Atys, Act III: Les songes agreables (arr. J.H. D'Anglebert for harpsichord)","mediaplayer\/player.asp?br=128&tl=1762605",[]],["Phaeton, Act II: Chaconne (arr. J.H. D'Anglebert for harpsichord)","mediaplayer\/player.asp?br=128&tl=1762606",[]]]],["Couperin, Fran&#231;ois",[["Pieces de clavecin, Book 1: 3rd Ordre in C Major-Minor (excerpts)","mediaplayer\/player.asp?br=128&tl=1762607|1762608|1762609|1762610|1762611",["Allemande: La tenebreuse","Seconde courante","Sarabande: La lugubre","Les laurentines","La lutine"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CHAN0545.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CHAN0545.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCHAN0545","desc":"FRENCH BAROQUE HARPSICHORD","label":"Chandos","category":"Instrumental - Classical Music","composer":"Anglebert, Jean Henri d' -- Rameau, Jean-Philippe -- Couperin, Francois -- Forqueray, Antoine","artist":"Yates, Sophie","country":"France","catid":"CHAN0545","cdinfo":[[["Anglebert, Jean Henri d'",[["Suite in G Minor","mediaplayer\/player.asp?br=128&tl=266703|266704|266705|266706|266707|266708|266709|266710",["Prelude","Allemande","Courante No. 1","Courante No. 2","Sarabande","Gigue","Gaillarde","Passacaille"]]]],["Rameau, Jean-Philippe",[["Nouvelles suites de pieces de clavecin (excerpts)","mediaplayer\/player.asp?br=128&tl=266711|266712|266713",["L'Enharmonique","L'Egyptienne","La Dauphine"]]]],["Couperin, Fran&#231;ois",[["L'Art de toucher le clavecin: Prelude No. 2 in D Minor","mediaplayer\/player.asp?br=128&tl=266714",[]],["Pieces de clavecin, Book 1: 2nd Ordre (excerpts)","mediaplayer\/player.asp?br=128&tl=266715|266716|266717|266718",["Seconde courante","Sarabande La prude","Les idees heureuses","La voluptueuse"]]]],["Forqueray, Antoine",[["Pieces de viole: Suite No. 5 (excerpts) (arr. for harpsichord)","mediaplayer\/player.asp?br=128&tl=266719|266720|266721|266722",["I. La Rameau: Majestueusement","IV. La Boisson: Vivement, les pinces bien soutenus","VI. La Silva: Tres tendrement","VII. Jupiter: Moderement"]]]],["Anglebert, Jean Henri d'",[["Tombeau de Monsieur de Chambonnieres","mediaplayer\/player.asp?br=128&tl=266745",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CRC3477.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CRC3477.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCRC3477","desc":"Piano Recital: Schlosberg, Daniel - D'ANGLEBERT, J.H. \/ ROYER, J.N.P. \/ RAMEAU, J.-P. \/ MARAIS, M. \/ COUPERIN, F. \/ BACH, J.S. (Gaul Me Maybe)","label":"Centaur","category":"Instrumental - Classical Music","composer":"Anglebert, Jean Henri d' -- Bach, Johann Sebastian -- Royer, Joseph Nicolas Pancrace -- Rameau, Jean-Philippe -- Marais, Marin -- Couperin, Francois","artist":"Schlosberg, Daniel","country":"France Germany","catid":"CRC3477","cdinfo":[[["Anglebert, Jean Henri d'",[["Suite No. 3 in D Minor: Prelude","mediaplayer\/player.asp?br=128&tl=2867147",[]]]],["Royer, Joseph Nicolas Pancrace",[["Pieces de clavecin, Book 1: La Majestueuse, Courante","mediaplayer\/player.asp?br=128&tl=2867148",[]]]],["Rameau, Jean-Philippe",[["Pieces de clavecin: Suite in E Minor: Mussette en rondeau","mediaplayer\/player.asp?br=128&tl=2867149",[]]]],["Marais, Marin",[["Pieces de viole, Book 4: Le Badinage (arr. D. Schlosberg for piano left hand)","mediaplayer\/player.asp?br=128&tl=2867150",[]]]],["Couperin, Fran&#231;ois",[["Pieces de clavecin, Book 4: 20th Ordre in G Major-minor: Les Tambourins","mediaplayer\/player.asp?br=128&tl=2867151",[]]]],["Bach, Johann Sebastian",[["Overture (Partita) in the French Style in B Minor, BWV 831","mediaplayer\/player.asp?br=128&tl=2867152|2867153|2867154|2867155|2867156|2867157|2867158|2867159",["I. Prelude","II. Courante","III. Gavotte I-II","IV. Passepied I-II","V. Sarabande","VI. Bouree I-II","VII. Gigue","VIII. Echo"]]]],["Anglebert, Jean Henri d'",[["Suite No. 4 in D Major: Tombeau de Monsieur de Chambonnieres","mediaplayer\/player.asp?br=128&tl=2867160",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="chambonnieres les pieces de clavecin";JGaskdonation=0;JGFileTools={"425386":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/425386"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Les+pi%C3%A8ces+de+clavecin%2C+Livre+2+%28Chambonni%C3%A8res%2C+Jacques+Champion+de%29&frmTitle=IMSLP+%23425386"}},"99079":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=99079"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP99079"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=99079"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/99079"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/99079"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Les+pi%C3%A8ces+de+clavecin%2C+Livre+2+%28Chambonni%C3%A8res%2C+Jacques+Champion+de%29&frmTitle=IMSLP+%2399079"}},"300679":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=300679"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP300679"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=300679"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/300679"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/300679"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Les+pi%C3%A8ces+de+clavecin%2C+Livre+2+%28Chambonni%C3%A8res%2C+Jacques+Champion+de%29&frmTitle=IMSLP+%23300679"}},"25887":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=25887"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP25887"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/25887"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/25887"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Les+pi%C3%A8ces+de+clavecin%2C+Livre+2+%28Chambonni%C3%A8res%2C+Jacques+Champion+de%29&frmTitle=IMSLP+%2325887"}},"425385":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=425385"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP425385"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/425385"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/425385"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Les+pi%C3%A8ces+de+clavecin%2C+Livre+2+%28Chambonni%C3%A8res%2C+Jacques+Champion+de%29&frmTitle=IMSLP+%23425385"}}};JGFileOpts={"425386":[],"99079":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjEKlbR5l8Kc9337urzwgLV\/nqnuWjwy4rL3auX6kuvcJFoVl3kTijagbjHUwdj\/sh+FC1NFIeNeacns8TjiwyX"},"300679":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjFFVWrlya3g3uuP36ddoT\/CmhdcMtFuPkw02Ee0VLuhsXqEwQZmIPI6D6v6O4aLjpbS3IdLICp6jBIacebKO7Gxjeb4tY4W+zGxjiVSMPfqCkjlr2+kfmMA6Copu+zyblNHZfhb\/jeonvllsdGPUrW"},"25887":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgY2mMX1TRqVCnWG\/q3T+GS258hV99vZ36vJWWadOpU2gblMeMOP1ksCPw5xpFvG4ke7WKcQEMKfIBL0zcIw8soPi\/AeXfiFXpzq\/jfPuRq2w=="},"425385":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi\/Q6zVDpw2z6WHxG9cJjbMp22O8yqQfuVFrDJFhhhB6t\/x8m\/qApdTdxbP5zjn1uenZttL8WCznVp8ngRnqMcE1Rp6jYXLR1tLpVa86VSjGw=="}};JGPageUntagged=false;JGPageTags=["pieces","hpd"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"25887":[7,"4"],"425386":[0,0],"99079":[0,0],"300679":[0,0],"425385":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">1</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP425386" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/425386"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Sarabande Les Zéphires</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c3/PMLP43748-3.Chambonni%C3%A8res_Sarabande.mid" class="internal" title="PMLP43748-3.Chambonnières Sarabande.mid">*</a></span><a href="/wiki/File:PMLP43748-3.Chambonni%C3%A8res_Sarabande.mid" title="File:PMLP43748-3.Chambonnières Sarabande.mid">#425386</a> - 0.01MB - 1:50<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-425386' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-425386'>
+	<a href='javascript:void(0)' id='425386' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='425386' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='425386' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='425386' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='425386' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-425386'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/425386/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" title="Special:IMSLPEditCTag/425386/Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@425386" title="Special:GetFCtrStats/@425386">16</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2016/6/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI file by Pierre Gouin
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2016
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=425386">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=425386">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="425386">Javascript is required for this feature.</div><script>JGINITsearchbars['425386']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">4</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP99079" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/99079"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/23/PMLP43748-Chambonnieres_-_2e_Livre.pdf" class="internal" title="PMLP43748-Chambonnieres - 2e Livre.pdf">*</a></span><a href="/wiki/File:PMLP43748-Chambonnieres_-_2e_Livre.pdf" title="File:PMLP43748-Chambonnieres - 2e Livre.pdf">#99079</a> - 2.41MB, 69 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-99079' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-99079'>
+	<a href='javascript:void(0)' id='99079' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='99079' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='99079' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='99079' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='99079' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-99079'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/99079/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" title="Special:IMSLPEditCTag/99079/Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1510"><a href="/wiki/Special:GetFCtrStats/@99079" title="Special:GetFCtrStats/@99079">1510</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/btv1b9010062p"><span style="border-bottom:1px dotted black" title="Bibliothèque Nationale de France">F-Pn</span></a></span><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (<span title="Updated: 2013/10/27" class="hovertext">2011/4/13</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition<br />
+</td></tr>
+<tr>
+<th>Engraver
+</th>
+<td>Gérard or/and François Jollain (son)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Chez Jollain, 1670.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=99079">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=99079">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Scans have been converted to Black and White
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="99079">Javascript is required for this feature.</div><script>JGINITsearchbars['99079']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=99079&type=Complete%20Score&pgcount=69&signature=3e602e2d4cc213cd629866b1de46b9cda9311892"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP43748-Chambonnieres_-_2e_Livre.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/23/9f2fb9d43ebe19ca2c708afa19c3650e63e05956.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP300679" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/300679"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/02/PMLP43748-Chambonnieres_-_Pieces_de_Clavecin%2C_Livre_Second_-2e_Tirage%3F-.pdf" class="internal" title="PMLP43748-Chambonnieres - Pieces de Clavecin, Livre Second -2e Tirage?-.pdf">*</a></span><a href="/wiki/File:PMLP43748-Chambonnieres_-_Pieces_de_Clavecin,_Livre_Second_-2e_Tirage%3F-.pdf" title="File:PMLP43748-Chambonnieres - Pieces de Clavecin, Livre Second -2e Tirage?-.pdf">#300679</a> - 2.45MB, 62 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-300679' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-300679'>
+	<a href='javascript:void(0)' id='300679' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='300679' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='300679' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='300679' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='300679' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-300679'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/300679/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" title="Special:IMSLPEditCTag/300679/Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 382"><a href="/wiki/Special:GetFCtrStats/@300679" title="Special:GetFCtrStats/@300679">382</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://gallica.bnf.fr"><span style="border-bottom:1px dotted black" title="Bibliothèque Nationale de France">F-Pn</span></a></span><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2013/10/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>Second edition?
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Chez Jollain, n.d. [1670]
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=300679">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=300679">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="300679">Javascript is required for this feature.</div><script>JGINITsearchbars['300679']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=300679&type=Complete%20Score&pgcount=62&signature=bd88353b6cd732d0762546481f73439aeab7eb35"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP43748-Chambonnieres_-_Pieces_de_Clavecin,_Livre_Second_-2e_Tirage%3F-.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/02/2cd45f8174dbdda44e53e7c8d8d147d3630196bf.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP25887" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/25887"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b0/PMLP43748-Chambonnieres_SecondLivre_Complete.pdf" class="internal" title="PMLP43748-Chambonnieres SecondLivre Complete.pdf">*</a></span><a href="/wiki/File:PMLP43748-Chambonnieres_SecondLivre_Complete.pdf" title="File:PMLP43748-Chambonnieres SecondLivre Complete.pdf">#25887</a> - 0.38MB, 33 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-25887' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-25887'>
+	<a href='javascript:void(0)' id='25887' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='25887' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='25887' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='25887' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='25887' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-25887'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/25887/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" title="Special:IMSLPEditCTag/25887/Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 3129"><a href="/wiki/Special:GetFCtrStats/@25887" title="Special:GetFCtrStats/@25887">3129</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:SteveBNA" title="User:SteveBNA">SteveBNA</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:SteveBNA" title="User:SteveBNA">SteveBNA</a> (<span title="Updated: 2009/1/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Wiberg,_Steve" title="Category:Wiberg, Steve">Steve Wiberg</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Due West Editions
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=25887">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=25887">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="25887">Javascript is required for this feature.</div><script>JGINITsearchbars['25887']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP43748-Chambonnieres_SecondLivre_Complete.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b0/38b58702ec549e61655707ccc875a35a8a07a2c9.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP425385" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/425385"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Sarabande Les Zéphires [M17</a></span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/76/PMLP43748-3.Chambonni%C3%A8res_Sarabande.pdf" class="internal" title="PMLP43748-3.Chambonnières Sarabande.pdf">*</a></span><a href="/wiki/File:PMLP43748-3.Chambonni%C3%A8res_Sarabande.pdf" title="File:PMLP43748-3.Chambonnières Sarabande.pdf">#425385</a> - 0.07MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-425385' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-425385'>
+	<a href='javascript:void(0)' id='425385' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='425385' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='425385' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='425385' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='425385' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-425385'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/425385/Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)" title="Special:IMSLPEditCTag/425385/Les pièces de clavecin, Livre 2 (Chambonnières, Jacques Champion de)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 90"><a href="/wiki/Special:GetFCtrStats/@425385" title="Special:GetFCtrStats/@425385">90</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2016/6/4)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2016
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=425385">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=425385">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Urtext edition after a facsimile of the original manuscript.<br />Version from <i>Livre de Tablature de Clavecin de Mr. de Druent par Couperin</i> (Marc-Roger Normand) – Turin, v. 1690.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="425385">Javascript is required for this feature.</div><script>JGINITsearchbars['425385']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP43748-3.Chambonni%C3%A8res_Sarabande.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/76/699b549cd69923fe76ca39cc7bb054ab259dd2fc.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Les Pièces de Clavessin, livre second
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Chambonni%C3%A8res,_Jacques_Champion_de" title="Category:Chambonnières, Jacques Champion de">Chambonnières, Jacques Champion de</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>30
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1670
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>harpsichord
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 394/1000000
+Post-expand include size: 32469/2097152 bytes
+Template argument size: 167/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:43748-0!*!0!!en!2!* and timestamp 20180416234233 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)&amp;oldid=2271951">http://imslp.org/index.php?title=Les_pi%C3%A8ces_de_clavecin,_Livre_2_(Chambonni%C3%A8res,_Jacques_Champion_de)&amp;oldid=2271951</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_Biblioth%C3%A8que_nationale_de_France" title="Category:Scores from Bibliothèque nationale de France">Scores from Bibliothèque nationale de France</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Wiberg,_Steve/Editor" title="Category:Wiberg, Steve/Editor">Wiberg, Steve/Editor</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Chambonni%C3%A8res,_Jacques_Champion_de/Collections" title="Category:Chambonnières, Jacques Champion de/Collections">Chambonnières, Jacques Champion de/Collections</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_harpsichord" title="Category:For harpsichord">For harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Works_first_published_in_1670" title="Category:Works first published in 1670">Works first published in 1670</a></li><li><a href="/wiki/Category:Works_first_published_in_the_17th_century" title="Category:Works first published in the 17th century">Works first published in the 17th century</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Les_pi%C3%A8ces_de_clavecin%2C_Livre_2_%28Chambonni%C3%A8res%2C_Jacques_Champion_de%29">2,092 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Les%20pi%C3%A8ces%20de%20clavecin%2C%20Livre%202%20%28Chambonni%C3%A8res%2C%20Jacques%20Champion%20de%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.438 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416234233 -->
+</html>
+		

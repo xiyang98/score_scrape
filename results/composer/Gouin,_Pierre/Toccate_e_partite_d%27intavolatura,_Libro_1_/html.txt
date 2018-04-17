@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Toccate_e_partite_d\'intavolatura,_Libro_1_(Frescobaldi,_Girolamo)", "wgTitle": "Toccate e partite d\'intavolatura, Libro 1 (Frescobaldi, Girolamo)", "wgCurRevisionId": 2245837, "wgArticleId": 347324, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with RISM citations", "WIMA files", "Scores from Bibliothèque nationale de France", "Pages with RISM references", "Scores from Bayerische Staatsbibliothek", "Pidoux, Pierre/Editor", "Scores published by Bärenreiter", "Urtext", "Scores with links to Amazon", "Gouin, Pierre/Editor", "Ward, Robin/Editor", "Scores", "Frescobaldi, Girolamo/Collections", "Baroque style", "Baroque", "Toccatas", "Partitas", "Courantes", "Capriccios", "For harpsichord", "Scores featuring the harpsichord", "For 1 player", "For organ", "Scores featuring the organ", "Works first published in 1615", "Works first published in the 17th century", "Pages with parts for purchase", "17th-century facsimiles"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Toccate_e_partite_d_intavolatura_Libro_1_Frescobaldi_Girolamo action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)&amp;oldid=2245837" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Toccate%20e%20partite%20d%27intavolatura%2C%20Libro%201%20%28Frescobaldi%2C%20Girolamo%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div><table style="padding:0.5em; margin-left:auto; margin-right:auto; background-color:rgb(245,245,245); width:70%; border:1px solid #a3bfb1"><tr><td width="42px" valign="top"><a href="/wiki/File:Ambox_notice.png" class="image"><img alt="Ambox notice.png" src="/images/c/c8/Ambox_notice.png" width="40" height="40" /></a></td><td align="center">
+This page is <b>only</b> for <b>complete</b> editions and <b>multiple selections</b> from the collection here. For arrangements, new editions, and the like see (or create) separate pages for individual works linked in the <b>General Information</b> section below.</td></tr></table></div>
+<div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>20 or 34
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1615 - <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019010&amp;db=251&amp;View=rism&amp;Language=en">Rome: Nicolò Borboni</a></span>; revised <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019011&amp;db=251&amp;View=rism&amp;Language=en">1616</a></span>, <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019013&amp;db=251&amp;View=rism&amp;Language=en">1637</a></span>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Toccatas&amp;transclude=Template:Catintro">Toccatas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Partitas&amp;transclude=Template:Catintro">Partitas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Courantes&amp;transclude=Template:Catintro">Courantes</a></span>; <span class="expandline" title="6 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Capriccios&amp;transclude=Template:Catintro">Capriccios</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_harpsichord&amp;transclude=Template:Catintro">For harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Toccate e partite d'intavolatura, Libro 1","composer":"Frescobaldi, Girolamo","comphref":"\/wiki\/Category:Frescobaldi,_Girolamo"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"toccate e partite d'intavolatura","itunes":"toccate e partite d'intavolatura","composer":"frescobaldi","scorekeywords":"toccate e partite d'intavolatura","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=3;JGBSAccompnum=0;JGNaxosSearch={"numres":62,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SISYPHE008.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SISYPHE008.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSISYPHE008","desc":"FRESCOBALDI, G.A.: Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts) (Schlime)","label":"Sisyphe","category":"Instrumental - Classical Music","composer":"Schlime, Francesco Tristano -- Frescobaldi, Girolamo Alessandro","artist":"","country":"Italy","catid":"SISYPHE008","cdinfo":[[["Schlime, Francesco Tristano",[["4 Improvisations","mediaplayer\/player.asp?br=128&tl=1321855",["No. 1. Improvisation"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1321856|1321857|1321858|1321859",["Toccata prima","Toccata seconda","Toccata terza","Toccata quarta"]]]],["Schlime, Francesco Tristano",[["4 Improvisations","mediaplayer\/player.asp?br=128&tl=1321860",["No. 2. Transition"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1321861|1321862|1321863",["Toccata quinta","Toccata sesta","Toccata settima"]]]],["Schlime, Francesco Tristano",[["4 Improvisations","mediaplayer\/player.asp?br=128&tl=1321864",["No. 3. Interlude"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1321865|1321866",["Toccata ottava","Toccata nona"]]]],["Schlime, Francesco Tristano",[["4 Improvisations","mediaplayer\/player.asp?br=128&tl=1321867",["No. 4. Ornements"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1321868|1321869|1321870",["Toccata decima","Toccata undecima","Toccata duodecima"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TC580680.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TC580680.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTC580680","desc":"FRESCOBALDI, G.A.: Toccate e partite d'intavolatura di cimbalo et organo, libro primo (Vartolo)","label":"Tactus","category":"Instrumental - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Vartolo, Sergio -- Studio vocals","country":"Italy","catid":"TC580680","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1722618|1722619|1722620|1722621|1722622|1722623|1722624|1722625",["Toccata prima","Toccata seconda","Toccata terza","Toccata quarta","Toccata quinta","Toccata sesta","Toccata settima","Toccata ottava"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1722626|1722627|1722628|1722629",["Toccata nona","Toccata decima","Toccata undecima","Toccata duodecima"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (arr. for voice and harpsichord) (excerpts)","mediaplayer\/player.asp?br=128&tl=1722672|1722673",["Partite sopra l'aria della Romanesca","Partita sopra l'aria di Monicha"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (arr. for voice and harpsichord) (excerpts)","mediaplayer\/player.asp?br=128&tl=1722674",["Partita sopra l'aria di Ruggiero"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1722630|1722631|1722682|1722632",["Partita sopra l'aria di folia","Corrente prima - Corrente seconda - Corrente terza - Corrente quarta","Capriccio sopra la Battaglia","Balletto I - Balletto II - Balletto III"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (arr. for voice and harpsichord) (excerpts)","mediaplayer\/player.asp?br=128&tl=1722683|1722684",["Partita sopra l'aria di Ruggiero","Capriccio Fra Jacopino sopra l'aria di Ruggiero"]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1722633|1722634",["Balleto e ciaccona","Capriccio fatto sopra la Pastorale"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TC580601.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TC580601.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTC580601","desc":"FRESCOBALDI, G.A.: Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts) (Vartolo)","label":"Tactus","category":"Instrumental - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Vartolo, Sergio","country":"Italy","catid":"TC580601","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1511835|1511836|1511837|1511838|1511839|1511840|1511841|1511842",["Toccata prima","Toccata seconda","Toccata terza","Toccata quarta","Toccata quinta","Toccata sesta","Toccata settima","Toccata ottava"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GCD921514.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GCD921514.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGCD921514","desc":"FRESCOBALDI, G.A.: Toccatas and Partitas (Bonizzoni)","label":"Glossa","category":"Instrumental - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Bonizzoni, Fabio","country":"Italy","catid":"GCD921514","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1530315|1530316|1530317|1530318|1530319|1530320|1530321|1530322|1530323|1530324|1530325|1530326|1530327",["Toccata prima","Toccata seconda","Toccata terza","Toccata quarta","Toccata quinta","Toccata sesta","Partita sopra l'aria di Monicha","Partite sopra l'aria della Romanesca","Partita sopra l'aria di Ruggiero","Toccata settima","Toccata ottava","Toccata nona","Toccata decima"]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti (excerpts)","mediaplayer\/player.asp?br=128&tl=1530329",["Aria detto Balletto"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti (excerpts)","mediaplayer\/player.asp?br=128&tl=1530330|1530331|1530332|1530333|1530334|1530335|1530336|1530337|1530338|1530339|1530340|1530341",["Toccata prima","Toccata seconda","Toccata settima","Toccata nona, \"Non senza fatiga si giunge al fine\"","Toccata decima","Toccata undecima","Toccata terza, \"per l'organo da sonarsi alla levatione\"","Toccata quarta, \"per l'organo da sonarsi alla levatione\"","Toccata quinta, \"sopra i pedali per l'organo e senza\"","Toccata sesta, \"sopra i pedali per l'organo e senza\"","Toccata ottava, \"di durezze e ligature\"","Canzona quinta"]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1530328",["Toccata undecima"]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti (excerpts)","mediaplayer\/player.asp?br=128&tl=1530342|1530343|1530344|1530345",["Canzona prima","Canzona terza","Aria detta la Frescobalda","Ancidetemi pur"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI5870.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI5870.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI5870","desc":"FRESCOBALDI, G.: Harpsichord Music, Vol. 3 (Lester)","label":"Nimbus","category":"Instrumental - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Lester, Richard","country":"Italy","catid":"NI5870","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo: Toccata seconda","mediaplayer\/player.asp?br=128&tl=1512564",[]],["Il primo libro di 12 capricci fatti sopra diversi soggetti et arie in partitura: Capriccio III sopra il Cucco","mediaplayer\/player.asp?br=128&tl=1512565",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1512566|1512567|1512568|1512569",["Toccata quarta","Balletto prima","Corrente del balletto","Passacagli"]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Aria detto Balletto","mediaplayer\/player.asp?br=128&tl=1512570",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1512571|1512572",["Balletto seconda","Corrente del balletto"]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti (excerpts)","mediaplayer\/player.asp?br=128&tl=1512573|1512574|1512575|1512576",["Toccata undecima","Canzona prima","Toccata decima","Canzona quinta"]],["Il primo libro di 12 capricci fatti sopra diversi soggetti et arie in partitura (excerpts)","mediaplayer\/player.asp?br=128&tl=1512577|1512578",["Capriccio IX di durezze","Capriccio XII sopra l'aria di Ruggiero"]],["Ricercar terzo","mediaplayer\/player.asp?br=128&tl=1512579",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=1512580|1512581|1512582|1512583",["Capriccio del soggetto scritto sopra l'aria di Ruggiero","Balletto terzo","Corrente del balletto","Passacagli"]],["Il primo libro di 12 capricci fatti sopra diversi soggetti et arie in partitura: Capriccio V sopra la Bassa Fiamenga","mediaplayer\/player.asp?br=128&tl=1512584",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo: Corrente Prima - Corrente Seconda - Corrente Terza - Corrente Quarta","mediaplayer\/player.asp?br=128&tl=1512585",[]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Aria detta la Frescobalda","mediaplayer\/player.asp?br=128&tl=1512586",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=E8839.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=E8839.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DE8839","desc":"FRESCOBALDI, G.A.: Harpsichord Music (Partitas and Toccatas) (Hantai)","label":"Naive","category":"Instrumental - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Hantai, Pierre","country":"Italy","catid":"E8839","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Toccata settima","mediaplayer\/player.asp?br=128&tl=711501",[]],["Il primo libro di 12 capricci fatti sopra diversi soggetti et arie in partitura: Capriccio di Durezze","mediaplayer\/player.asp?br=128&tl=711502",[]],["Toccate d'intavolatura di cimbalo et organo, libro primo: Cento partite sopra la passacagli","mediaplayer\/player.asp?br=128&tl=711503",[]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Toccata undecima","mediaplayer\/player.asp?br=128&tl=711504",[]],["Toccate e partite d'intavolatura di cimbalo, libro primo: Toccata ottava","mediaplayer\/player.asp?br=128&tl=711507",[]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti (excerpts)","mediaplayer\/player.asp?br=128&tl=711508|711509|711510|711511",["Toccata ottava, \"di durezze e ligature\"","Toccata nona, \"Non senza fatiga si giunge al fine\"","Toccata prima","Canzon terza"]],["Toccate d'intavolatura di cimbalo et organo, libro primo: Balleto e ciaccona","mediaplayer\/player.asp?br=128&tl=711505",[]],["Toccate e partite d'intavolatura di cimbalo, libro primo: Toccata prima","mediaplayer\/player.asp?br=128&tl=711506",[]],["Toccate d'intavolatura di cimbalo et organo, libro primo: Partite sopra ruggiero: Partite sopra ruggiero","mediaplayer\/player.asp?br=128&tl=711512",[]],["Toccate e partite d'intavolatura di cimbalo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=711513|711514",["Toccata settima","Partita sopra l'aria di follia"]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Toccata seconda","mediaplayer\/player.asp?br=128&tl=711515",[]],["Toccate e partite d'intavolatura di cimbalo, libro primo: Toccata terza","mediaplayer\/player.asp?br=128&tl=711516",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI5861.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI5861.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI5861","desc":"FRESCOBALDI, G.: Harpsichord Music, Vol. 2 (Lester)","label":"Nimbus","category":"Instrumental - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Lester, Richard","country":"Italy","catid":"NI5861","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Gagliarde 1-5","mediaplayer\/player.asp?br=128&tl=876854",[]],["Toccate e partite d'intavolatura di cimbalo, libro primo: Toccata settima","mediaplayer\/player.asp?br=128&tl=878314",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo: Partita sopra l'aria di Monicha","mediaplayer\/player.asp?br=128&tl=879078",[]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti (excerpts)","mediaplayer\/player.asp?br=128&tl=876857|876858|876859",["Partite sopra Ciaccona","Toccata nona","Partite sopra Passacaglia"]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=879103|879104|879105",["Toccata terza","Toccata quinta","Corrente e Ciaccona"]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Toccata settima","mediaplayer\/player.asp?br=128&tl=876863",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo: Balleto e ciaccona","mediaplayer\/player.asp?br=128&tl=879106",[]],["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti: Toccata seconda","mediaplayer\/player.asp?br=128&tl=876866",[]],["Toccate e partite d'intavolatura di cimbalo et organo, libro primo (excerpts)","mediaplayer\/player.asp?br=128&tl=879123|879124",["Toccata sesta","Partita sopra l'aria di Ruggiero"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=FB1305182.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=FB1305182.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DFB1305182","desc":"Organ Recital: Dragosits, Anne Marie - ROSSI, M. \/ RADINO, G.M. \/ FRESCOBALDI, G.A. \/ PICCHI, G. \/ FROBERGER, J.J. \/ STORACE, B. (Italia!)","label":"Fra Bernardo","category":"Instrumental - Classical Music","composer":"Anonymous -- Froberger, Johann Jacob -- Muffat, Georg -- Storace, Bernardo -- Rossi, Michelangelo -- Picchi, Giovanni -- Frescobaldi, Girolamo Alessandro -- Kerll, Johann Caspar -- Pasquini, Bernardo -- Radino, Giovanni Maria -- Kasperberger, Giovanni Girolamo","artist":"Dragosits, Anne Marie","country":"Germany Italy","catid":"FB1305182","cdinfo":[[["Rossi, Michelangelo",[["Toccate e correnti: Toccata No. 7","mediaplayer\/player.asp?br=128&tl=1769280",[]]]],["Radino, Giovanni Maria",[["Il primo libro d'intavolatura di balli d'arpicord: Gagliarda seconda","mediaplayer\/player.asp?br=128&tl=1769281",[]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, libro primo: Partite sopra passacagli","mediaplayer\/player.asp?br=128&tl=1769282",[]]]],["Picchi, Giovanni",[["Intavolatura di balli (excerpts)","mediaplayer\/player.asp?br=128&tl=1769283|1769284",["Todesca","Passamezzo"]]]],["Froberger, Johann Jacob",[["Libro di toccate, fantasie, canzone, allemande, courante, sarabande, gigue et altre partite, Book 2 (excerpts)","mediaplayer\/player.asp?br=128&tl=1769285|1769286|1769287|1769288",["Partita II: Allemanda","Partita II: Courant","Partita II: Sarabanda","Partita II: Gigue"]]]],["Radino, Giovanni Maria",[["Il primo libro d'intavolatura di balli d'arpicord: Gagliarda prima","mediaplayer\/player.asp?br=128&tl=1769289",[]]]],["Storace, Bernardo",[["Selva di varie compositioni d'intavolatura: Ciaccona","mediaplayer\/player.asp?br=128&tl=1769290",[]]]],["Kerll, Johann Caspar",[["Toccata prima [MS DD 53, Civico Museo Bibliografico Musicle Bologna]","mediaplayer\/player.asp?br=128&tl=1769292",[]],["Canzona prima [MS DD 53, Civico Museo Bibliografico Musicle Bologna]","mediaplayer\/player.asp?br=128&tl=1769291",[]]]],["Anonymous",[["Preludio arpeggio [MS DD 53, Civico Museo Bibliografico Musicle Bologna]","mediaplayer\/player.asp?br=128&tl=1769293",[]]]],["Pasquini, Bernardo",[["Sonate per gravecembalo: Partite sopra follia","mediaplayer\/player.asp?br=128&tl=1769294",[]]]],["Kasperberger, Giovanni Girolamo",[["Libo quinto di Villanelle: Giunto il sole in Occidente","mediaplayer\/player.asp?br=128&tl=1769295",[]]]],["Froberger, Johann Jacob",[["Libro di toccate, fantasie, canzone, allemande, courante, sarabande, gigue et altre partite, Book 2: Toccata","mediaplayer\/player.asp?br=128&tl=1769296",[]]]],["Muffat, Georg",[["Apparatus musico-organisticus: Passacaglia","mediaplayer\/player.asp?br=128&tl=1769297",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=BC94111.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=BC94111.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DBC94111","desc":"FRESCOBALDI, G.A.: Complete Edition","label":"Brilliant Classics","category":"Chamber Music - Classical Music","composer":"Frescobaldi, Girolamo Alessandro","artist":"Loreggian, Roberto -- Hoffmann, Bettina -- Modo Antiquo -- Ensemble ConSerto Musico -- Ruin, Fabiano -- Bellinazzo, Dom Nicola","country":"Italy","catid":"BC94111","cdinfo":[[["Frescobaldi, Girolamo Alessandro",[["In partitura, il primo libro delle 38 canzoni","mediaplayer\/player.asp?br=128&tl=1140068|1140069|1140070|1140071|1140072|1140073|1140074|1140075|1140076|1140077|1140078|1140079|1140080|1140081|1140082|1140083|1140084|1140085|1140086",["Canzona XXXII","Canzona XIII","Canzona XXIV","Canzona II","Canzona XXIII","Canzona VIII","Canzona XXXI","Canzona III","Canzona XXVII","Canzona X","Canzona XIX","Canzona XIV","Canzona XXXV","Canzona XXXIV","Canzona XV","Canzona XXVIII","Canzona VI","Canzona XXII","Canzona XI"]]]]],[["Frescobaldi, Girolamo Alessandro",[["In partitura, il primo libro delle 38 canzoni","mediaplayer\/player.asp?br=128&tl=1140087|1140088|1140089|1140090|1140091|1140092|1140093|1140094|1140095|1140096|1140097|1140098|1140099|1140100|1140101|1140102|1140103|1140104|1140105|1140106|1140107|1140108",["Canzona XXXVII","Canzona IX","Canzona XXIX","Canzona IV","Canzona XVIII","Canzona V","Canzona XXXIII","Canzona XVII","Canzona XX","Canzona XVI","Canzona XXXVI","Canzona XXVI","Canzona VII","Canzona XII","Canzona I","Toccata I","Toccata II","Canzona XXI","Canzona XXX","Canzona II","Canzona XXV","Canzon Ultima"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Missa sopra l'aria della monica","mediaplayer\/player.asp?br=128&tl=1140109|1140110|1140111|1140112|1140113|1140114|1140115|1140116",["Introitus Gaudeamus","Kyrie","Gloria","Credo","Offertorium Ave Maria","Sanctus","Agnus Dei","Antiphona Diffusa est"]],["Missa sopra l'aria di Fiorenza","mediaplayer\/player.asp?br=128&tl=1140117|1140118|1140119|1140120|1140121|1140122|1140123|1140124",["Antiphona ad introitum: De ventre matris meae","Kyrie","Gloria","Credo","Offertorium Iustus ut palma","Sanctus","Agnus Dei","Antiphona: Tu puer, propheta"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Messa della Domenica","mediaplayer\/player.asp?br=128&tl=1140669|1140670|1140671|1140672|1140673|1140674|1140675|1140676|1140677|1140678|1140679|1140680|1140681|1140682|1140683|1140684|1140685|1140686|1140687|1140688|1140689|1140690",["Toccata avanti la Messa della Domenica","Kyrie della Domenica","Kyrie gregoriano","Kyrie","Christe gregoriano","Christe","Christe gregoriano","Kyrie alio modo","Kyrie gregoriano","Kyrie alio modo","Kyrie gregoriano","Christe alio modo","Christe alio modo","Christe alio modo","Kyrie alio modo","Kyrie ultimo","Kyrie alio modo","Kyrie alio modo","Canzon dopo l'Epistola","Recercar dopo il Credo","Toccata cromaticha per le levatione","Canzon post il Comune"]],["Messa degli Apostoli","mediaplayer\/player.asp?br=128&tl=1140692|1140693|1140694|1140695|1140696|1140697|1140698|1140699|1140700|1140701|1140702|1140703|1140704|1140705|1140706|1140707|1140708|1140709|1140710|1140711|1140712",["Toccata avanti la Messa delli Apostoli","Kyrie delli Apostoli","Kyrie gregoriano","Kyrie","Christe gregoriano","Christe","Christe gregoriano","Kyrie","Kyrie gregoriano","Kyrie","Kyrie gregoriano","Kyrie","Christe","Kyrie","Canzon dopo l'Epistola","Toccata avanti il recercar","Recercar cromaticho post il Credo","Altro recercar","Toccata per le levatione","Recercar con l'obbligo del Basso come appare","Canzon quarti toni Dopo il Post Comune"]],["Messa della Madonna","mediaplayer\/player.asp?br=128&tl=1140713|1140714|1140715|1140716|1140717|1140718|1140719|1140720|1140721|1140722|1140723|1140724|1140725|1140726|1140727|1140728|1140729|1140730",["Toccata avanti la Messa della Madonna","Kyrie della Madonna","Kyrie gregoriano","Kyrie","Christe","Christe gregoriano","Christe","Kyrie","Kyrie gregoriano","Kyrie","Kyrie gregoriano","Canzon dopo l'Epistola","Recercar dopo il Credo","Toccata avanti il recercar","Recercar con obligo di cantar la quinta parte senza toccarla","Toccata per le levatione","Bergamasca","Capriccio sopra la Girolmeta"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti","mediaplayer\/player.asp?br=128&tl=1140749|1140750|1140751|1140752|1140753|1140754|1140755|1140756|1140757|1140758|1140759|1140760",["Toccata prima","Toccata seconda","Toccata terza, \"per l'organo da sonarsi alla levatione\"","Toccata quarta, \"per l'organo da sonarsi alla levatione\"","Toccata quinta, \"sopra i pedali per l'organo e senza\"","Toccata sesta, \"sopra i pedali per l'organo e senza\"","Toccata settima","Toccata ottava, \"di durezze e ligature\"","Toccata nona, \"Non senza fatiga si giunge al fine\"","Toccata decima","Toccata undecima","Ancidetemi pur d'Archadelt passagiato"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti","mediaplayer\/player.asp?br=128&tl=1140805|1140806|1140807|1140808|1140809|1140810",["Canzona prima","Canzon seconda","Canzona terza","Canzona quarta","Canzon quinta","Canzon sesta"]]]],["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti","mediaplayer\/player.asp?br=128&tl=1140844|1140845|1140846|1140847|1140848|1140849|1140850|1140851",["Inno della Domenica (alternatim)","Inno degli Apostoli (alternatim)","Inno Iste Confessor (alternatim)","Inno Ave Maris Stella (alternatim)","Magnificat primi toni (alternatim)","Magnificat secondi toni (alternatim)","Magnificat sexti toni (alternatim)","Aria detto Balletto"]]]],["Frescobaldi, Girolamo Alessandro",[["Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti","mediaplayer\/player.asp?br=128&tl=1140874|1140875|1140876|1140877|1140878",["Gagliarda prima - Gagliarda seconda - Gagliarda terza - Gagliarda quarta - Gagliarda quinta","Aria detta la Frescobalda","Corrente prima - Corrente seconda - Corrente seconda alio modo - Corrente quarta - Corrente quinta - Corrente sesta","Partite sopra Ciaccona","Partite sopra Passacagli"]]]]],[["Frescobaldi, Girolamo Alessandro",[["19 Madrigals, Book 1","mediaplayer\/player.asp?br=128&tl=1140932|1140933|1140934|1140935|1140936|1140937|1140938|1140939|1140940|1140941|1140942|1140943|1140944|1140945|1140946|1140947|1140948|1140949|1140950|1140951|1140952",["Fortunata per me, felice aurora","Ahi, bella si, ma cruda mia nemica","Se la doglia e'l martire","Da qual sfera del ciel fra noi discese","Perche spess'a verder la vostra luce","Amor ti chiama il mondo","Tu pur mi fuggi ancora","S'a la gelata mia timida lingua","Vezzosissima filli","Perche fuggi tra salci","1a parte: Giunt'e pur lidia il mio","2a parte: Ecco l'hora, ecco ch'io","3a parte: Lidia, ti lasso ahi lasso","S'io miro in te, m'uccidi","Amor mio, perche piangi","Lasso, io languisco e moro","Cor mio, chi mi t'invola","So ch'aveste in lasciarmi","Qui dunque, ohime, qui, dove","Se lontana voi sete","Come perder poss'io"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Arie musicali per cantarsi, Book 1","mediaplayer\/player.asp?br=128&tl=1140955|1140956|1140957|1140958|1140959|1140960|1140961|1140962|1140963|1140964|1140965|1140966|1140967|1140968|1140969|1140970|1140971|1140972|1140973|1140974|1140975|1140976|1140977",["Signor, c'hora fra gli ostri","Degnati, o gran Fernando","Ardo, e taccio il mio mal","Dove, Signor","Dopo si lungo error","A pie della gran croce","Dunque dovro","Se l'onde, ohime che da quest'occhi","Donna, siam rei di morte","Entro nave dorata","Troppo sotto due stele","Non mi negate ohime","Di Licori un guardo altero","Voi partite mio sole","Se l'Aura spira","Cosi mi disprezzate","Se m'amate io v'adoro","Begli occhi","Occhi che sete di voi pomposi","Dove ne vai pensiero","Eri gia tutta mia","Corilla danzando","Con dolcezza, e pietate"]],["Alla gloria, alli honori","mediaplayer\/player.asp?br=128&tl=1140994",[]],["O bell'occhi che guerrieri","mediaplayer\/player.asp?br=128&tl=1141013",[]],["Era l'anima mia","mediaplayer\/player.asp?br=128&tl=1141014",[]]]]],[["Frescobaldi, Girolamo Alessandro",[["Arie musicali per cantarsi, Book 2","mediaplayer\/player.asp?br=128&tl=1140458|1140459|1140460|1140461|1140462|1140463|1140464|1140465|1140466|1140467|1140468|1140469|1140470|1140471|1140472|1140473|1140474|1140475|1140476|1140477",["Vanne, o carta amorosa","Ben veggio, donna, homai","Oscure selve","Ohime, che fur","Dove, dove sparir","Ti lascio, anima mia","Voi partite mio sole","La mia pallida faccia","Ai miei pianti","O mio cor","Son ferito","Non vi partite","Gioite, oh Selve","Bella tiranna","Soffrir non posso","Deh, volate oh mie voci dolcenti","Quanto pi&#249; sorda sete","Deh, vien da me","Doloroso mio core","Oh dolore"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Il primo libro di 12 capricci fatti sopra diversi soggetti et arie in partitura","mediaplayer\/player.asp?br=128&tl=1140479|1140480|1140481|1140482|1140483|1140484|1140485|1140486|1140487|1140488|1140489|1140490",["Capriccio I sopra Ut, re, mi, fa, sol, la","Capriccio II sopra La, sol, fa, mi, re, ut","Capriccio III sopra il Cucco","Capriccio IV sopra La, sol, fa, re, mi","Capriccio V sopra la Bassa Fiamenga","Capriccio VI sopra la Spagnoletta","Capriccio VII sopra l'aria, \"Or che noi rimena\"","Capriccio VIII cromatico con ligature al contrario","Capriccio IX di durezze","Capriccio X sopra un soggetto","Capriccio XI con obligo di cantar la quinta parte","Capriccio XII sopra l'aria di Ruggiero"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Recercari, et canzoni franzese fatte sopra diverse oblighi in partitura, libro primo","mediaplayer\/player.asp?br=128&tl=1140492|1140493|1140494|1140495|1140496|1140497|1140498|1140499|1140500|1140501|1140502|1140503|1140504|1140505|1140506|1140507|1140508|1140509|1140510",["Toccata del Sig.r Frescobaldi in D","Recercar Primo","Toccata del Sig.r Frescobaldi in G","Recercar secondo","Toccata del Frescobaldi in A","Recercar terzo","Toccata del Sig.r Frescobaldi in F","Recercar quarto, sopra Mi, Re, Fa, Mi","Toccata di Frescobaldi in F","Recercar quinto","Toccata di Frescobaldi in F","Recercar sesto, sopra Fa, Fa, Sol, La, Fa","Toccata del Sig.r Frescobaldi in G","Recercar settimo, sopra Sol, Mi, Fa, La, Sol","Toccata del Sig.r Frescobaldi in G","Recercar ottavo, obligo di non uscir mai di grado","Toccata per l'organo col contrabbasso overo Pedale di Frescobaldi in D","Recercar nono con quattro soggetti","Recercar decimo, sopra La, Fa, Sol, La, Re"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Fantasie, Book 1","mediaplayer\/player.asp?br=128&tl=1141293|1141294|1141295|1141296|1141297|1141298|1141299|1141300|1141301|1141302|1141303|1141304|1141305|1141306|1141307|1141308|1141309|1141310|1141311|1141312",["Toccata","Canzona prima","Fantasia prima, sopra un soggietto","Fantasia seconda, sopra un soggietto solo","Canzona seconda","Fantasia terza, sopra un soggietto solo","Fantasia quarta, sopra due soggietti","Canzona terza","Fantasia quinta, sopra due soggietti","Fantasia sesta Sopra doi soggietti","Canzona quarta","Fantasia settima, sopra tre soggietti","Fantasia ottava, sopra tre soggietti","Canzona quinta","Fantasia nona, sopra tre soggietti","Fantasia decima, sopra quattro soggietti","Canzona sesta","Fantasia undecima, sopra quattro soggietti","Fantasia duodecima, sopra quattro soggietti","Canzona settima"]]]]],[["Frescobaldi, Girolamo Alessandro",[["Recercari, et canzoni franzese fatte sopra diverse oblighi in partitura, libro primo","mediaplayer\/player.asp?br=128&tl=1140536|1140537|1140538|1140539|1140540",["Canzona prima (Primo tuono)","Canzona seconda (Primo tuono)","Canzona terza (Secondo tuono)","Canzona quarta (Sesto tuono)","Canzona quinta (Nono tuono)"]],["Canzoni alla francese in partitura","mediaplayer\/player.asp?br=128&tl=1140541|1140542|1140543|1140544|1140545|1140546|1140547|1140548|1140549|1140550|1140551",["Canzon prima detta La Rovetta","Canzon seconda detta La Sabbatina","Canzon terza detta La Crivelli","Canzon quarta detta La Scacchi","Canzon quinta detta La Bellerofonte","Canzon sesta detta La Pesenti","Canzon settima detta La Tarditi","Canzon ottava detta La Vincenti","Canzon nona detta La Querina","Canzon decima detta La Paulini","Canzon undecima detta La Gardana"]],["Fioretti di Frescobaldi","mediaplayer\/player.asp?br=128&tl=1141320|1141321|1141322|1141323",["Canzon ottava","Canzon nona","Canzon decima","Canzon undecima"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=IIIMIL0291.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=IIIMIL0291.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DIIIMIL0291","desc":"Chamber Music - MALVEZZI, C. \/ ANCINA, G. \/ FRESCOBALDI, G. \/ FONTANA, G.B. \/ MONTEVERDI, C. \/ CAVALLI, F. (Audite Coeli) (La Rossignol)","label":"III Millennio","category":"Chamber Music - Classical Music","composer":"Anonymous -- Praetorius, Michael -- Ortiz, Diego -- Fontana, Giovanni Battista -- Cavalli, Francesco -- Monteverdi, Claudio -- Banchieri, Adriano -- Frescobaldi, Girolamo Alessandro -- Barbetta, Giulio Cesare -- Rossi, Salamone -- Malvezzi, Cristofano -- Razzi, Giovanni -- Calvi, Carlo -- Ancina, Giovenale -- Ballis, Oliviero -- Pfendner, Heinrich","artist":"Rossignol, La -- Aikawa, Emi","country":"Germany Italy Spain","catid":"IIIMIL0291","cdinfo":[[["Malvezzi, Cristofano",[["La pellegrina, Intermedio: I. Sinfonia","mediaplayer\/player.asp?br=128&tl=3079625",[]]]],["Ancina, Giovenale",[["Tempio armonico:  Laudate Dio","mediaplayer\/player.asp?br=128&tl=3079626",[]]]],["Ortiz, Diego",[["Trattado de glosas: Due recercadas (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079627",[]]]],["Razzi, Giovanni",[["Libro primo delle laudi spirituali: Vergine bella (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079628",[]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate e partite d'intavolatura di cimbalo et organo, Book 2: Toccata prima (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079629",[]]]],["Razzi, Giovanni",[["Libro primo delle laudi spirituali: O Maria Diana Stella (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079630",[]]]],["Fontana, Giovanni Battista",[["Sonata No. 3","mediaplayer\/player.asp?br=128&tl=3079631",[]]]],["Anonymous",[["Iucundare iugiter [Piae cantiones ecclesiasticae]","mediaplayer\/player.asp?br=128&tl=3079632",[]]]],["Calvi, Carlo",[["Intavolatura di chitarra: Aria di Fiorenza (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079633",[]]]],["Pfendner, Heinrich",[["Motectorum binis, ternis: Audite coeli (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079634",[]]]],["Monteverdi, Claudio",[["Vespro della Beata Vergine, \"composti sopra canti fermi\": Pulchra es (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079635",[]]]],["Rossi, Salamone",[["Il primo libro delle sinfonie e gagliarde: Sinfonia a 5","mediaplayer\/player.asp?br=128&tl=3079636",[]]]],["Monteverdi, Claudio",[["Selva morale e spirituale: Laudate Dominum","mediaplayer\/player.asp?br=128&tl=3079637",[]]]],["Frescobaldi, Girolamo Alessandro",[["Toccate d'intavolatura di cimbalo et organo, libro primo: Partita sopra l'aria di folia (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079638",[]]]],["Banchieri, Adriano",[["Nuovi pensieri ecclesiastici, Book 3, Op. 35: Concerto di dui Angioletti in Dialogo (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079639",[]]]],["Barbetta, Giulio Cesare",[["Intavolatura di liuto: Moresca detta la Bergamasca","mediaplayer\/player.asp?br=128&tl=3079640",[]]]],["Ballis, Oliviero",[["Canzonette amorose spirituali: Vergine sacra (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079641",[]]]],["Cavalli, Francesco",[["Cantate Domino (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079642",[]]]],["Praetorius, Michael",[["Musae Sioniae: Amen (arr. for chamber ensemble)","mediaplayer\/player.asp?br=128&tl=3079643",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/frescobaldi%20toccate%20e%20partite%20d%27intavolatura"};IMSLPNaxosSearch="frescobaldi toccate e partite d'intavolatura";JGaskdonation=0;JGFileTools={"218553":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218553"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218553"}},"218554":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218554"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218554"}},"218555":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218555"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218555"}},"218558":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218558"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218558"}},"218559":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218559"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218559"}},"218560":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218560"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218560"}},"218561":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218561"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218561"}},"218562":{"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218553\/218554\/218555\/218558\/218559\/218560\/218561\/218562\/6a5a"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218562"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218562"}},"108992":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=108992"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP108992"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=108992","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/108992"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/108992"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/108992"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23108992"}},"323533":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=323533"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP323533"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=323533","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/323533"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/323533"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/323533"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23323533"}},"323532":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=323532"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP323532"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=323532","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/323532"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/323532"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23323532"}},"388447":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=388447"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP388447"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=388447","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/388447"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/388447"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23388447"}},"39821":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=39821"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP39821"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/39821"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/39821"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%2339821"}},"129988":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129988"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129988\/129989\/ebcf"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129988"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129988"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129988"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23129988"}},"129989":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=129989"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/129988\/129989\/ebcf"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP129989"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/129989"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/129989"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23129989"}},"218539":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218539"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218539"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218539"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218539"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218539"}},"218540":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218540"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218540"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218540"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218540"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218540"}},"218541":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218541"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218541"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218541"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218541"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218541"}},"218544":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218544"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218544"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218544"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218544"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218544"}},"218545":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218545"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218545"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218545"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218545"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218545"}},"218547":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218547"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218547"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218547"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218547"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218547"}},"218548":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218548"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218548"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218548"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218548"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218548"}},"218549":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=218549"},"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218549"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/218549"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218549"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218549"}},"218542":{"015-ZIPFILE":{"icon":52,"label":"Download 9 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/218539\/218540\/218541\/218544\/218545\/218547\/218548\/218549\/218542\/ae92"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP218542"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/218542"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Toccate+e+partite+d%27intavolatura%2C+Libro+1+%28Frescobaldi%2C+Girolamo%29&frmTitle=IMSLP+%23218542"}}};JGFileOpts={"218553":[],"218554":[],"218555":[],"218558":[],"218559":[],"218560":[],"218561":[],"218562":[],"108992":[],"323533":[],"323532":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgztAdierpKSGFGer+jP61Eo7Jzik0w9TH30+coqatVvZtL451wbVp8MwSI4NjI4ynq5ge5oWqABb5YG\/1SfbGxosfYn6PmP05qa41VuzGvl3rHurBhR7qChzqEUzyYLGBNx+Yx5Eic6rgGWHLnuvVDm29noeF0EsMLFqf55vziUg=="},"388447":[],"39821":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjXa0Aec8NPEDnfMkCy4d79UbDQlihzF4Vm2fJZlzSmjDRlyKSS+y6BLXZ51Vh51yvsk2hJeKOsvFudhwbH3\/y4R\/UMoK1IeQdFk3l1InSuag=="},"129988":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi49Kq7ltDqlU3NljeVpW37TTY9ipa5NfDi+WVUkGWsRS8pGoqqm7SIYPNsa2M\/BASc8oB8vcMksYW1dtOMflSQ"},"129989":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjfsbVBFNsECvXP+UeR7KNOE09tkyZE7HQvMF5EnSoFsyZ24nKIsoFTXEbUij4W\/3eYpsPQpGORUyGDqKBP8qBt"},"218539":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhxwJnBXNK6ANGuF5YjdKe\/JHcof0B7xE2\/W3IAqVCwkZpnnZ8KcyyAjSM8WPGPBDQ="},"218540":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjKjNkUnr7JkftHsynmFIgIUf3qgg1sxWgO42IjoDUHiCjSedbmgd1pKHAAZtBhYH8="},"218541":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqZHsCAS4va9gsN0cZb6+UhQDfpmXVGJmyjVgW8IQcv7WmYAN7QyGGcJLGCpdYwkgEIX1L7DiIhn3koezsB9I4"},"218544":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biz14cDsD1E7docfbpUX1IhLFQ1h\/VNx+5ZuQ5KT9oDXBqWE+0PxEXd0lw6xZiIrq3XD2z6VqfCR0XJTrwSsqpd"},"218545":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh5CStJVzRvrBKvWQ9213YLOmVKKrdohsxra22\/Rbhdatp7KGz0q0jxbZ6586tbOdVM\/dOVte3xzm\/w5sKvZ8D\/"},"218547":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhUXrsEoqEQtLWNgO9BjAxOk44Jr6mTdfmb2\/diwwuTi8Bt0nlOrkLgri9pADEpX6ayQTNyzDolWF8pr4zLJshm"},"218548":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgYyJ4pHeIktQMBOsRZ48hwM28+vdtziyqqBZ40UgjRpTZuFr0IONj+DTt3Un\/YTBKPwDG5NUs3vXnywbOoRS8sHv\/Y5cJWvgOIoJ28WjSAIg=="},"218549":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhYpbIuyRBJOqYq2nl9zwgp8wyn+pTNQjOGGpfF85K5eoCBJ0+95+0e9CuEXs2d89dfaOjuQ+JgFKfOlkAzKCmrRK2xo2r\/XJhvVAUTKcWkLQ=="},"218542":[]};JGPageUntagged=false;JGPageTags=["toccatas","partitas","courantes","capriccios","hpd","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"39821":[6.7692307692308,"13"],"108992":[8.2,"5"],"129988":[5.5,"4"],"129989":[6.8,"5"],"218541":[2,"1"],"323532":[4,"1"],"323533":[4.5,"4"],"218553":[0,0],"218554":[0,0],"218555":[0,0],"218558":[0,0],"218559":[0,0],"218560":[0,0],"218561":[0,0],"218562":[0,0],"388447":[0,0],"218539":[0,0],"218540":[0,0],"218544":[0,0],"218545":[0,0],"218547":[0,0],"218548":[0,0],"218549":[0,0],"218542":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Selections"><span class="tocnumber">1.2.1</span> <span class="toctext">Selections</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#2nd_edition_.281616.29"><span class="tocnumber">2.1.1</span> <span class="toctext">2nd edition (1616)</span></a></li>
+<li class="toclevel-3"><a href="#3rd_edition_.281637.29"><span class="tocnumber">2.1.2</span> <span class="toctext">3rd edition (1637)</span></a></li>
+<li class="toclevel-3"><a href="#Selections_2"><span class="tocnumber">2.1.3</span> <span class="toctext">Selections</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">8</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h4> <span class="mw-headline" id="Selections">Selections</span></h4>
+<div class="we"><div id="IMSLP218553" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218553"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Balletto, F 2.21</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/28/WIMA.96f6-Balletto.mid" class="internal" title="WIMA.96f6-Balletto.mid">*</a></span><a href="/wiki/File:WIMA.96f6-Balletto.mid" title="File:WIMA.96f6-Balletto.mid">#218553</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218553' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218553'>
+	<a href='javascript:void(0)' id='218553' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218553' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218553' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218553' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218553' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218553'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218553/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218553/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218553" title="Special:GetFCtrStats/@218553">123</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more we_audio_top" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>7 more</u>:</b> Corrente del Balletto, F 2.22 • Passacagli del Balletto, F 2.23 • Balletto secondo, F 2.24 • Corrente del Balletto secondo, F 2.25 • Balletto [terzo], F 2.26 • Corrente del Balletto, F 2.27 • Passacagli del Balletto, F 2.28
+</p>
+</div><div id="IMSLP218554" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218554"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Corrente del Balletto, F 2.22</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d5/WIMA.02a7-Corrente.mid" class="internal" title="WIMA.02a7-Corrente.mid">*</a></span><a href="/wiki/File:WIMA.02a7-Corrente.mid" title="File:WIMA.02a7-Corrente.mid">#218554</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218554' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218554'>
+	<a href='javascript:void(0)' id='218554' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218554' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218554' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218554' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218554' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218554'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218554/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218554/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218554" title="Special:GetFCtrStats/@218554">70</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218555" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218555"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Passacagli del Balletto, F 2.23</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e7/WIMA.ee73-Passacagli.mid" class="internal" title="WIMA.ee73-Passacagli.mid">*</a></span><a href="/wiki/File:WIMA.ee73-Passacagli.mid" title="File:WIMA.ee73-Passacagli.mid">#218555</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218555' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218555'>
+	<a href='javascript:void(0)' id='218555' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218555' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218555' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218555' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218555' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218555'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218555/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218555/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218555" title="Special:GetFCtrStats/@218555">73</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218558" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218558"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Balletto secondo, F 2.24</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/40/WIMA.3ba1-Balletto2.mid" class="internal" title="WIMA.3ba1-Balletto2.mid">*</a></span><a href="/wiki/File:WIMA.3ba1-Balletto2.mid" title="File:WIMA.3ba1-Balletto2.mid">#218558</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218558' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218558'>
+	<a href='javascript:void(0)' id='218558' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218558' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218558' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218558' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218558' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218558'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218558/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218558/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218558" title="Special:GetFCtrStats/@218558">55</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218559" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218559"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Corrente del Balletto secondo, F 2.25</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/59/WIMA.8dc8-Corrente2.mid" class="internal" title="WIMA.8dc8-Corrente2.mid">*</a></span><a href="/wiki/File:WIMA.8dc8-Corrente2.mid" title="File:WIMA.8dc8-Corrente2.mid">#218559</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218559' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218559'>
+	<a href='javascript:void(0)' id='218559' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218559' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218559' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218559' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218559' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218559'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218559/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218559/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218559" title="Special:GetFCtrStats/@218559">48</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218560" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218560"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Balletto [terzo</a>, F 2.26</span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a4/WIMA.18c5-Frescobaldi_Balletto3.mid" class="internal" title="WIMA.18c5-Frescobaldi Balletto3.mid">*</a></span><a href="/wiki/File:WIMA.18c5-Frescobaldi_Balletto3.mid" title="File:WIMA.18c5-Frescobaldi Balletto3.mid">#218560</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218560' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218560'>
+	<a href='javascript:void(0)' id='218560' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218560' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218560' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218560' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218560' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218560'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218560/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218560/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218560" title="Special:GetFCtrStats/@218560">66</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218561" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218561"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Corrente del Balletto, F 2.27</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5d/WIMA.7f78-Frescobaldi_Corente_del_Balletto3.mid" class="internal" title="WIMA.7f78-Frescobaldi Corente del Balletto3.mid">*</a></span><a href="/wiki/File:WIMA.7f78-Frescobaldi_Corente_del_Balletto3.mid" title="File:WIMA.7f78-Frescobaldi Corente del Balletto3.mid">#218561</a> - 0.00MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218561' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218561'>
+	<a href='javascript:void(0)' id='218561' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218561' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218561' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218561' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218561' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218561'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218561/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218561/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218561" title="Special:GetFCtrStats/@218561">53</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218562" class="we_file we_fileblock_1 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218562"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Passacagli del Balletto, F 2.28</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dc/WIMA.f1b2-Frescobaldi_Passacagli_del_Balletto3.mid" class="internal" title="WIMA.f1b2-Frescobaldi Passacagli del Balletto3.mid">*</a></span><a href="/wiki/File:WIMA.f1b2-Frescobaldi_Passacagli_del_Balletto3.mid" title="File:WIMA.f1b2-Frescobaldi Passacagli del Balletto3.mid">#218562</a> - 0.01MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218562' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218562'>
+	<a href='javascript:void(0)' id='218562' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218562' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218562' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218562' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218562' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218562'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/218562/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218562/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@218562" title="Special:GetFCtrStats/@218562">67</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a><span class="mh555"> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Robin Ward
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td><a rel="nofollow" class="external text" href="mailto:robin_ward@slingshot.co.nz">Robin Ward</a>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=218553/218554/218555/218558/218559/218560/218561/218562">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=218553/218554/218555/218558/218559/218560/218561/218562">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="218553">Javascript is required for this feature.</div><script>JGINITsearchbars['218553']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">16</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<h4> <span class="mw-headline" id="2nd_edition_.281616.29">2nd edition (1616)</span></h4>
+<div class="we"><div id="IMSLP108992" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/108992"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a2/PMLP87285-Frescobaldi_-_Toccate_e_Partite%2C_Libro_1.pdf" class="internal" title="PMLP87285-Frescobaldi - Toccate e Partite, Libro 1.pdf">*</a></span><a href="/wiki/File:PMLP87285-Frescobaldi_-_Toccate_e_Partite,_Libro_1.pdf" title="File:PMLP87285-Frescobaldi - Toccate e Partite, Libro 1.pdf">#108992</a> - <span style="color:red"><b>27.76</b></span>MB, 74 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-108992' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-108992'>
+	<a href='javascript:void(0)' id='108992' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='108992' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='108992' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='108992' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='108992' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-108992'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/108992/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/108992/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 9357"><a href="/wiki/Special:GetFCtrStats/@108992" title="Special:GetFCtrStats/@108992">9357</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://gallica.bnf.fr"><span style="border-bottom:1px dotted black" title="Bibliothèque Nationale de France">F-Pn</span></a></span><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2011/7/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://frescobaldi.music.duke.edu/view_source.php?-action=browse&amp;-recid=343">2nd edition (enlarged)</a></span>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Rome: Niccolo Borbone, n.d.[1616].
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=108992">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=108992">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Bibliothèque nationale de France, Musique (F-Pn): <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/search?id=00000990019011&amp;Language=en">RISM A/I: F 1857</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="108992">Javascript is required for this feature.</div><script>JGINITsearchbars['108992']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=108992&type=Complete%20Score&pgcount=74&signature=b05a3d56644e777d0a89eeae3b4e4e0e3921056e"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP87285-Frescobaldi_-_Toccate_e_Partite,_Libro_1.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a2/dd02a9ebca72b9957b0568b83d57d78c19be7bb4.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="3rd_edition_.281637.29">3rd edition (1637)</span></h4>
+<div class="we"><div id="IMSLP323533" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/323533"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (colour)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/PMLP347324-Frescobaldi_-_Toccate_d%27intavolatura_di_cimbalo_et_organo%2C_Libro_Po_-Colour%2C_BSB-.pdf" class="internal" title="PMLP347324-Frescobaldi - Toccate d&#39;intavolatura di cimbalo et organo, Libro Po -Colour, BSB-.pdf">*</a></span><a href="/wiki/File:PMLP347324-Frescobaldi_-_Toccate_d%27intavolatura_di_cimbalo_et_organo,_Libro_Po_-Colour,_BSB-.pdf" title="File:PMLP347324-Frescobaldi - Toccate d'intavolatura di cimbalo et organo, Libro Po -Colour, BSB-.pdf">#323533</a> - <span style="color:red"><b>128.64</b></span>MB, 108 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-323533' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-323533'>
+	<a href='javascript:void(0)' id='323533' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='323533' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='323533' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='323533' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='323533' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-323533'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/323533/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/323533/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 694"><a href="/wiki/Special:GetFCtrStats/@323533" title="Special:GetFCtrStats/@323533">694</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2014/4/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP323532" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/323532"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (mono)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/17/PMLP347324-Frescobaldi_-_Toccate_d%27intavolatura_di_cimbalo_et_organo%2C_Libro_Po_-BSB-.pdf" class="internal" title="PMLP347324-Frescobaldi - Toccate d&#39;intavolatura di cimbalo et organo, Libro Po -BSB-.pdf">*</a></span><a href="/wiki/File:PMLP347324-Frescobaldi_-_Toccate_d%27intavolatura_di_cimbalo_et_organo,_Libro_Po_-BSB-.pdf" title="File:PMLP347324-Frescobaldi - Toccate d'intavolatura di cimbalo et organo, Libro Po -BSB-.pdf">#323532</a> - 3.88MB, 100 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-323532' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-323532'>
+	<a href='javascript:void(0)' id='323532' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='323532' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='323532' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='323532' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='323532' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-323532'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/323532/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/323532/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1290"><a href="/wiki/Special:GetFCtrStats/@323532" title="Special:GetFCtrStats/@323532">1290</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2014/4/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP388447" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/388447"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (reprint)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/86/PMLP628584-Frescobaldi_G_-_Partite_et_toccate%2C_libro_primo%2C_1637_%2805082015-1441%29.pdf" class="internal" title="PMLP628584-Frescobaldi G - Partite et toccate, libro primo, 1637 (05082015-1441).pdf">*</a></span><a href="/wiki/File:PMLP628584-Frescobaldi_G_-_Partite_et_toccate,_libro_primo,_1637_(05082015-1441).pdf" title="File:PMLP628584-Frescobaldi G - Partite et toccate, libro primo, 1637 (05082015-1441).pdf">#388447</a> - <span style="color:red"><b>38.70</b></span>MB, 127 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-388447' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-388447'>
+	<a href='javascript:void(0)' id='388447' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='388447' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='388447' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='388447' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='388447' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-388447'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/388447/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/388447/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 283"><a href="/wiki/Special:GetFCtrStats/@388447" title="Special:GetFCtrStats/@388447">283</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Vangi" title="User:Vangi">Vangi</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Daniel Van Gilst<br />
+<a href="/wiki/User:Vangi" title="User:Vangi">Vangi</a> (2015/8/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://frescobaldi.music.duke.edu/view_source.php?-action=browse&amp;-recid=239">3rd edition (expanded extensively)</a></span>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Rome: Nicolò Borbone, 1637.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Firenze: Edizioni Scelte, 1978 (#388447)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=323533/323532/388447">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=323533/323532/388447">del</a>/<span id="fmrglnk" data-pdfstr="323533//323532//388447/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Bayerische Staatsbibliothek, Munich (D-Mbs): <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/search?id=00000990019013&amp;Language=en">RISM A/I: F 1859</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="323533">Javascript is required for this feature.</div><script>JGINITsearchbars['323533']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=323533|323532|388447&type=Complete%20Score%20%28colour%29%7CComplete%20Score%20%28mono%29%7CComplete%20Score%20%28reprint%29&pgcount=108|100|127&signature=45f8c4cf7caadca3d29fba95f6db0a13b777d7cc"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP347324-Frescobaldi_-_Toccate_d%27intavolatura_di_cimbalo_et_organo,_Libro_Po_-Colour,_BSB-.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/69/ce779ce0846335a9e040c3b5282a16d5679208e4.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP39821" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/39821"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cf/PMLP87285-Frescobaldi_-_Organ_Works._Vol._3.pdf" class="internal" title="PMLP87285-Frescobaldi - Organ Works. Vol. 3.pdf">*</a></span><a href="/wiki/File:PMLP87285-Frescobaldi_-_Organ_Works._Vol._3.pdf" title="File:PMLP87285-Frescobaldi - Organ Works. Vol. 3.pdf">#39821</a> - 7.79MB, 99 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-39821' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-39821'>
+	<a href='javascript:void(0)' id='39821' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='39821' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='39821' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='39821' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='39821' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-39821'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/39821/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/39821/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:gray">C</span><small>*</small>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 14567"><a href="/wiki/Special:GetFCtrStats/@39821" title="Special:GetFCtrStats/@39821">14567</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Ctesibius" title="User:Ctesibius">ctesibius</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by ctesibius<br />
+<a href="/wiki/User:Ctesibius" title="User:Ctesibius">ctesibius</a> (<span title="Updated: 2009/10/31" class="hovertext">2009/9/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Pidoux,_Pierre" title="Category:Pidoux, Pierre">Pierre Pidoux</a> (1905-2001)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Kassel: <a href="/wiki/B%C3%A4renreiter" title="Bärenreiter">Bärenreiter</a><!--ASL0-->, 1949.  Plate BA 2203.<div style="border:1px gray solid; padding-top:4px; background: #FFFFFF; padding-bottom:4px; padding-left:8px; padding-right:8px; font-size:85%;"><center><b>URTEXT EDITION</b>&#160;<span class="expandline"><br />This "urtext" or "scholarly" (scientific) edition was published at least 25 years ago in the EU (or 20 years ago in Italy, before 1992 in the former USSR). Hence, the edition is <a href="/wiki/Public_domain" title="Public domain">public domain</a> in its country of origin or a government publication. Such editions are also <a href="/wiki/Public_domain" title="Public domain">public domain</a> in Canada because they fail to meet the minimum 'threshold of originality' to qualify for copyright as an 'adaptation'. They may not be <a href="/wiki/Public_domain" title="Public domain">public domain</a> elsewhere. More information about this can be found <a href="/wiki/Public_domain#Editions_of_Public_Domain_Works" title="Public domain">here</a>. <br /><span style="color:crimson"><b>Please obey the copyright laws of your country. IMSLP does not assume any sort of legal responsibility or liability for the consequences of downloading files that are not in the public domain in your country.</b></span></span></center></div>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=39821">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=39821">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="39821">Javascript is required for this feature.</div><script>JGINITsearchbars['39821']={"isbn":{"isbnarr":[{"text":"Kalmus\/Alfred (reprint)","isbn":"ASIN:0769242391"}]}};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP87285-Frescobaldi_-_Organ_Works._Vol._3.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/cf/0fd55ed8467c28aae8777649bd99b6f6b5480f1c.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Selections_2">Selections</span></h4>
+<div class="we"><div id="IMSLP129988" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129988"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Toccata quarta, F 2.04</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7e/WIMA.b8aa-Frescobaldi_04_Toccata.pdf" class="internal" title="WIMA.b8aa-Frescobaldi 04 Toccata.pdf">*</a></span><a href="/wiki/File:WIMA.b8aa-Frescobaldi_04_Toccata.pdf" title="File:WIMA.b8aa-Frescobaldi 04 Toccata.pdf">#129988</a> - 0.31MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129988' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129988'>
+	<a href='javascript:void(0)' id='129988' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129988' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129988' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129988' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129988' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129988'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129988/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/129988/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1885"><a href="/wiki/Special:GetFCtrStats/@129988" title="Special:GetFCtrStats/@129988">1885</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">Pierre Gouin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Pierre Gouin</a> (2011/9/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP129989" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/129989"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Toccata duodecima, F 2.12</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/07/WIMA.adea-Frescobaldi_12_Toccata.pdf" class="internal" title="WIMA.adea-Frescobaldi 12 Toccata.pdf">*</a></span><a href="/wiki/File:WIMA.adea-Frescobaldi_12_Toccata.pdf" title="File:WIMA.adea-Frescobaldi 12 Toccata.pdf">#129989</a> - 0.30MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-129989' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-129989'>
+	<a href='javascript:void(0)' id='129989' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='129989' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='129989' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='129989' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='129989' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-129989'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/129989/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/129989/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1180"><a href="/wiki/Special:GetFCtrStats/@129989" title="Special:GetFCtrStats/@129989">1180</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">Pierre Gouin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Pierre Gouin</a> (2011/9/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2009
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=129988/129989">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=129988/129989">del</a>/<span id="fmrglnk" data-pdfstr="129988//129989/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="129988">Javascript is required for this feature.</div><script>JGINITsearchbars['129988']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.b8aa-Frescobaldi_04_Toccata.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/7e/03361f6f6e0c706cb8aab4e1c20d0d736217b44c.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP218539" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218539"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Balletto, F 2.21</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/62/WIMA.d2f7-Balletto.pdf" class="internal" title="WIMA.d2f7-Balletto.pdf">*</a></span><a href="/wiki/File:WIMA.d2f7-Balletto.pdf" title="File:WIMA.d2f7-Balletto.pdf">#218539</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218539' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218539'>
+	<a href='javascript:void(0)' id='218539' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218539' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218539' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218539' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218539' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218539'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218539/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218539/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 857"><a href="/wiki/Special:GetFCtrStats/@218539" title="Special:GetFCtrStats/@218539">857</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_6" data-block="6">
+<p><b>⇒ <u>8 more</u>:</b> Corrente del Balletto, F 2.22 • Passacagli del Balletto, F 2.23 • Balletto secondo, F 2.24 • Corrente del Balletto secondo, F 2.25 • Balletto [terzo], F 2.26 • Corrente del Balletto, F 2.27 • Passacagli del Balletto, F 2.28 • Engraving files (Finale)
+</p>
+</div><div id="IMSLP218540" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218540"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Corrente del Balletto, F 2.22</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/35/WIMA.e3cd-Corrente.pdf" class="internal" title="WIMA.e3cd-Corrente.pdf">*</a></span><a href="/wiki/File:WIMA.e3cd-Corrente.pdf" title="File:WIMA.e3cd-Corrente.pdf">#218540</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218540' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218540'>
+	<a href='javascript:void(0)' id='218540' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218540' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218540' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218540' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218540' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218540'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218540/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218540/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 511"><a href="/wiki/Special:GetFCtrStats/@218540" title="Special:GetFCtrStats/@218540">511</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218541" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218541"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Passacagli del Balletto, F 2.23</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/12/WIMA.6cf9-Passacagli.pdf" class="internal" title="WIMA.6cf9-Passacagli.pdf">*</a></span><a href="/wiki/File:WIMA.6cf9-Passacagli.pdf" title="File:WIMA.6cf9-Passacagli.pdf">#218541</a> - 0.05MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218541' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218541'>
+	<a href='javascript:void(0)' id='218541' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218541' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218541' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218541' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218541' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218541'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218541/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218541/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 570"><a href="/wiki/Special:GetFCtrStats/@218541" title="Special:GetFCtrStats/@218541">570</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218544" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218544"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Balletto secondo, F 2.24</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7f/WIMA.03b4-Balletto2.pdf" class="internal" title="WIMA.03b4-Balletto2.pdf">*</a></span><a href="/wiki/File:WIMA.03b4-Balletto2.pdf" title="File:WIMA.03b4-Balletto2.pdf">#218544</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218544' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218544'>
+	<a href='javascript:void(0)' id='218544' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218544' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218544' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218544' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218544' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218544'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218544/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218544/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 339"><a href="/wiki/Special:GetFCtrStats/@218544" title="Special:GetFCtrStats/@218544">339</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218545" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218545"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Corrente del Balletto secondo, F 2.25</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/37/WIMA.6ced-Corrente2.pdf" class="internal" title="WIMA.6ced-Corrente2.pdf">*</a></span><a href="/wiki/File:WIMA.6ced-Corrente2.pdf" title="File:WIMA.6ced-Corrente2.pdf">#218545</a> - 0.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218545' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218545'>
+	<a href='javascript:void(0)' id='218545' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218545' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218545' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218545' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218545' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218545'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218545/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218545/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 292"><a href="/wiki/Special:GetFCtrStats/@218545" title="Special:GetFCtrStats/@218545">292</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218547" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218547"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Balletto [terzo</a>, F 2.26</span>]</b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cc/WIMA.1159-Frescobaldi_Balletto3.pdf" class="internal" title="WIMA.1159-Frescobaldi Balletto3.pdf">*</a></span><a href="/wiki/File:WIMA.1159-Frescobaldi_Balletto3.pdf" title="File:WIMA.1159-Frescobaldi Balletto3.pdf">#218547</a> - 0.05MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218547' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218547'>
+	<a href='javascript:void(0)' id='218547' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218547' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218547' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218547' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218547' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218547'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218547/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218547/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 410"><a href="/wiki/Special:GetFCtrStats/@218547" title="Special:GetFCtrStats/@218547">410</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218548" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218548"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Corrente del Balletto, F 2.27</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/21/WIMA.a488-Frescobaldi_Corente_del_Balletto3.pdf" class="internal" title="WIMA.a488-Frescobaldi Corente del Balletto3.pdf">*</a></span><a href="/wiki/File:WIMA.a488-Frescobaldi_Corente_del_Balletto3.pdf" title="File:WIMA.a488-Frescobaldi Corente del Balletto3.pdf">#218548</a> - 0.05MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218548' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218548'>
+	<a href='javascript:void(0)' id='218548' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218548' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218548' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218548' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218548' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218548'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218548/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218548/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 364"><a href="/wiki/Special:GetFCtrStats/@218548" title="Special:GetFCtrStats/@218548">364</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218549" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218549"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Passacagli del Balletto, F 2.28</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fc/WIMA.8de8-Frescobaldi_Passacagli_del_Balletto3.pdf" class="internal" title="WIMA.8de8-Frescobaldi Passacagli del Balletto3.pdf">*</a></span><a href="/wiki/File:WIMA.8de8-Frescobaldi_Passacagli_del_Balletto3.pdf" title="File:WIMA.8de8-Frescobaldi Passacagli del Balletto3.pdf">#218549</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218549' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218549'>
+	<a href='javascript:void(0)' id='218549' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218549' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218549' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218549' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218549' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218549'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218549/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218549/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 525"><a href="/wiki/Special:GetFCtrStats/@218549" title="Special:GetFCtrStats/@218549">525</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP218542" class="we_file we_fileblock_6 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/218542"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/55/WIMA.414d-Partite.zip" class="internal" title="WIMA.414d-Partite.zip">*</a></span><a href="/wiki/File:WIMA.414d-Partite.zip" title="File:WIMA.414d-Partite.zip">#218542</a> - 0.43MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-218542' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-218542'>
+	<a href='javascript:void(0)' id='218542' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='218542' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='218542' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='218542' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='218542' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-218542'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/218542/Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)" title="Special:IMSLPEditCTag/218542/Toccate e partite d'intavolatura, Libro 1 (Frescobaldi, Girolamo)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 244"><a href="/wiki/Special:GetFCtrStats/@218542" title="Special:GetFCtrStats/@218542">244</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by editor<br />
+<a href="/wiki/User:Marc_lanoiselee" title="User:Marc lanoiselee">Marc Lanoiselée</a> (2012/5/13)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Ward,_Robin" title="Category:Ward, Robin">Robin Ward</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a rel="nofollow" class="external text" href="mailto:robin_ward@slingshot.co.nz">Robin Ward</a>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=218539/218540/218541/218544/218545/218547/218548/218549/218542">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=218539/218540/218541/218544/218545/218547/218548/218549/218542">del</a>/<span id="fmrglnk" data-pdfstr="218539//218540//218541//218544//218545//218547//218548//218549/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="218539">Javascript is required for this feature.</div><script>JGINITsearchbars['218539']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.d2f7-Balletto.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/62/f979e637bc0ad3d26b316204f27a00fa5adf9723.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Toccate e partite d'intavolatura di cimbalo... Libro primo (1615)
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Il primo libro d'intavolatura di Toccate di cimbalo et organo... (1628)
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Frescobaldi,_Girolamo" title="Category:Frescobaldi, Girolamo">Frescobaldi, Girolamo</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>F 2
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>20 (1615, 1616) to 34 works (1637)
+<ul><li><b>First edition.</b> RISM A/I: F 1856 (1615)
+</li></ul>
+<dl><dd><span class="plainlinks"><a rel="nofollow" class="external text" href="http://frescobaldi.music.duke.edu/view_source.php?-action=browse&amp;-recid=344">Contents listing (FTCO)</a></span>
+</dd></dl>
+<ul><li><b>Second edition.</b> RISM A/I: F 1857 (1616, reprinted <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019012&amp;db=251&amp;View=rism&amp;Language=en">1628, RISM A/I: F 1858</a></span>)
+</li></ul>
+<dl><dd><span class="plainlinks"><a rel="nofollow" class="external text" href="http://frescobaldi.music.duke.edu/view_source.php?-action=browse&amp;-recid=343">Contents listing (FTCO)</a></span>
+</dd></dl>
+<ul><li><b>Third edition.</b> RISM A/I: F 1859 (1637)
+</li></ul>
+<dl><dd><span class="plainlinks"><a rel="nofollow" class="external text" href="http://frescobaldi.music.duke.edu/view_source.php?-action=browse&amp;-recid=239">Contents listing (FTCO)</a></span>
+</dd></dl>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1615 - <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019010&amp;db=251&amp;View=rism&amp;Language=en">Rome: Nicolò Borboni</a></span>; revised <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019011&amp;db=251&amp;View=rism&amp;Language=en">1616</a></span>, <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990019013&amp;db=251&amp;View=rism&amp;Language=en">1637</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Harpsichord, organ
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://frescobaldi.music.duke.edu/view_can_pub.php?-action=browse&amp;-recid=9">Frescobaldi Thematic Catalog</a></span>
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>The 1616 expansion (reissued in 1618 and 1628) was not as extensive as that of 1637 which contained numerous additions (Partite di diverse arie e corrente, balletti, ciaccone, passaghagli...)
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1196/1000000
+Post-expand include size: 101393/2097152 bytes
+Template argument size: 795/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:347324-0!*!0!!en!2!* and timestamp 20180416084302 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)&amp;oldid=2245837">http://imslp.org/index.php?title=Toccate_e_partite_d%27intavolatura,_Libro_1_(Frescobaldi,_Girolamo)&amp;oldid=2245837</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_RISM_citations" title="Category:Pages with RISM citations">Pages with RISM citations</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Scores_from_Biblioth%C3%A8que_nationale_de_France" title="Category:Scores from Bibliothèque nationale de France">Scores from Bibliothèque nationale de France</a></li><li><a href="/wiki/Category:Pages_with_RISM_references" title="Category:Pages with RISM references">Pages with RISM references</a></li><li><a href="/wiki/Category:Scores_from_Bayerische_Staatsbibliothek" title="Category:Scores from Bayerische Staatsbibliothek">Scores from Bayerische Staatsbibliothek</a></li><li><a href="/wiki/Category:Pidoux,_Pierre/Editor" title="Category:Pidoux, Pierre/Editor">Pidoux, Pierre/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_B%C3%A4renreiter" title="Category:Scores published by Bärenreiter">Scores published by Bärenreiter</a></li><li><a href="/wiki/Category:Urtext" title="Category:Urtext">Urtext</a></li><li><a href="/wiki/Category:Scores_with_links_to_Amazon" title="Category:Scores with links to Amazon">Scores with links to Amazon</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:Ward,_Robin/Editor" title="Category:Ward, Robin/Editor">Ward, Robin/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Frescobaldi,_Girolamo/Collections" title="Category:Frescobaldi, Girolamo/Collections">Frescobaldi, Girolamo/Collections</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Toccatas" title="Category:Toccatas">Toccatas</a></li><li><a href="/wiki/Category:Partitas" title="Category:Partitas">Partitas</a></li><li><a href="/wiki/Category:Courantes" title="Category:Courantes">Courantes</a></li><li><a href="/wiki/Category:Capriccios" title="Category:Capriccios">Capriccios</a></li><li><a href="/wiki/Category:For_harpsichord" title="Category:For harpsichord">For harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:Works_first_published_in_1615" title="Category:Works first published in 1615">Works first published in 1615</a></li><li><a href="/wiki/Category:Works_first_published_in_the_17th_century" title="Category:Works first published in the 17th century">Works first published in the 17th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:17th-century_facsimiles" title="Category:17th-century facsimiles">17th-century facsimiles</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Toccate_e_partite_d%27intavolatura%2C_Libro_1_%28Frescobaldi%2C_Girolamo%29">13,421 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Toccate%20e%20partite%20d%27intavolatura%2C%20Libro%201%20%28Frescobaldi%2C%20Girolamo%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.805 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416084303 -->
+</html>
+		

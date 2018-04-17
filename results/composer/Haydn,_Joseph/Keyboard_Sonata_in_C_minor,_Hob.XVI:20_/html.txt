@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)", "wgTitle": "Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)", "wgCurRevisionId": 2348153, "wgArticleId": 1676, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Gardner Museum Recordings", "Recordings", "Scores from the Internet Archive", "Scores published by Breitkopf und Härtel", "Scores from the Drs. Whitby Music Collection", "Roitzsch, Friedrich August/Editor", "Scores published by Edition Peters", "Päsler, Karl/Editor", "Martienssen, Carl Adolf/Editor", "Landon, Christa/Editor", "Urtext", "Work pages with links to recordings", "Scores", "Haydn, Joseph", "Classical style", "Classical", "Sonatas", "For piano", "Scores featuring the piano", "For 1 player", "For harpsichord", "Scores featuring the harpsichord", "Works first published in 1780", "Works first published in the 18th century", "C minor"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Keyboard_Sonata_in_C_minor_Hob_XVI_20_Haydn_Joseph action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)&amp;oldid=2348153" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Keyboard%20Sonata%20in%20C%20minor%2C%20Hob.XVI%3A20%20%28Haydn%2C%20Joseph%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 movements
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1771 ca
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Sonatas&amp;transclude=Template:Catintro">Sonatas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano&amp;transclude=Template:Catintro">For piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="expandline" title="3 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_harpsichord&amp;transclude=Template:Catintro">For harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Keyboard Sonata in C minor, Hob.XVI:20","composer":"Haydn, Joseph","comphref":"\/wiki\/Category:Haydn,_Joseph"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"keyboard sonata in c minor","itunes":"keyboard sonata in c minor","composer":"haydn","scorekeywords":"keyboard sonata in c minor","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":48,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.501203.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.501203.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.501203","desc":"HAYDN, J.: Virtual Haydn (The) - Complete Works for Solo Keyboard (Beghin) (12 CD + DVD edition)","label":"Naxos","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Beghin, Tom","country":"Austria","catid":"8.501203","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata No. 14 in C Major, Hob.XVI:3","mediaplayer\/player.asp?br=128&tl=1203233|1203234|1203235",["I. Allegretto","II. Andante","III. Menuet - Trio"]],["Capriccio in G Major, Hob.XVII:1, \"Acht Sauschneider mussen sein\"","mediaplayer\/player.asp?br=128&tl=1203236",[]],["Keyboard Sonata No. 9 in D Major, Hob.XVI:4","mediaplayer\/player.asp?br=128&tl=1203237|1203238",["I. &#8212;","II. Menuet - Trio"]],["Keyboard Sonata No. 11 in B-Flat Major, Hob.XVI:2","mediaplayer\/player.asp?br=128&tl=1203239|1203240|1203241",["I. Moderato","II. Largo","III. Menuet - Trio"]],["Keyboard Sonata No. 12 in A Major, Hob.XVI:12","mediaplayer\/player.asp?br=128&tl=1203242|1203243|1203244",["I. Andante","II. Menuet - Trio","III. Finale"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 31 in A-Flat Major, Hob.XVI:46","mediaplayer\/player.asp?br=128&tl=1203245|1203246|1203247",["I. Allegro moderato","II. Adagio (version with repeat)","III. Finale: Presto"]],["Keyboard Sonata No. 31 in A-Flat Major, Hob.XVI:46: II. Adagio (version without repeat)","mediaplayer\/player.asp?br=128&tl=1203248",[]],["Keyboard Sonata No. 10 in C Major, Hob.XVI:1","mediaplayer\/player.asp?br=128&tl=1203249|1203250|1203251",["I. Allegro","II. Adagio","III. Menuet - Trio"]],["Keyboard Sonata No. 13 in G Major, Hob.XVI:6","mediaplayer\/player.asp?br=128&tl=1203252|1203253|1203254|1203255",["I. Allegro","II. Menuet - Trio","III. Adagio","IV. Finale: Allegro molto"]],["Keyboard Sonata No. 7 in D Major, Hob.XVII:D1","mediaplayer\/player.asp?br=128&tl=1203256|1203257|1203258",["I. Tema with Variations","II. Menuet","III. Finale: Allegro"]],["Keyboard Sonata No. 15 in E Major, Hob.XVI:13","mediaplayer\/player.asp?br=128&tl=1204802|1204803|1204804",["I. Moderato","II. Menuet - Trio","III. Finale: Presto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 20 in B-Flat Major, Hob.XVI:18","mediaplayer\/player.asp?br=128&tl=1203259|1203260",["I. Allegro moderato","II. Moderato"]],["Keyboard Sonata No. 32 in G Minor, Hob.XVI:44","mediaplayer\/player.asp?br=128&tl=1203265|1203266",["I. Moderato","II. Allegretto"]],["Keyboard Sonata No. 2 in C Major, Hob.XVI:7","mediaplayer\/player.asp?br=128&tl=1203267|1203268|1203269",["I. Allegro moderato","II. Menuet - Trio","III. Finale: Allegro"]],["Keyboard Sonata No. 16 in D Major, Hob.XVI:14","mediaplayer\/player.asp?br=128&tl=1203270|1203271|1203272",["I. Allegro moderato","II. Menuet - Trio","III. [Finale]: Presto"]],["20 Variations in A Major, Hob.XVII:2","mediaplayer\/player.asp?br=128&tl=1203273",[]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 4 in G Major, Hob.XVI:G1","mediaplayer\/player.asp?br=128&tl=1203274|1203275|1203276",["I. Allegro","II. Menuetto - Trio","III. Finale: Presto"]],["Keyboard Sonata No. 19 in E Minor, Hob.XVI:47bis","mediaplayer\/player.asp?br=128&tl=1203277|1203278|1203279",["I. Adagio","II. Allegro","III. Finale: Tempo di menuet"]],["Keyboard Sonata No. 29 in E-Flat Major, Hob.XVI:45","mediaplayer\/player.asp?br=128&tl=1203280|1203281|1203282",["I. Moderato","II. Andante","III. Finale: Allegro di molto"]],["Keyboard Sonata No. 6 in C Major, Hob.XVI:10","mediaplayer\/player.asp?br=128&tl=1203283|1203284|1203285",["I. Moderato","II. Menuet - Trio","III. Finale: Presto"]],["Keyboard Sonata No. 30 in D Major, Hob.XVI:19","mediaplayer\/player.asp?br=128&tl=1203286|1203287|1203288",["I. Moderato","II. Andante","III. Finale: Allegro assai"]]]]],[["Haydn, Franz Joseph",[["12 Variations in E-Flat Major, Hob.XVII:3","mediaplayer\/player.asp?br=128&tl=1203289",["12 Variations in E-Flat Major, Hob. XVII:3"]],["Keyboard Sonata No. 3 in F Major, Hob.XVI:9","mediaplayer\/player.asp?br=128&tl=1203291|1203292|1203293",["I. Allegro","II. Menuet - Trio","III. Scherzo: Allegro"]],["Keyboard Sonata No. 1 in G Major, Hob.XVI:8","mediaplayer\/player.asp?br=128&tl=1203294|1203295|1203296|1203297",["I. Allegro","II. Menuet","III. Andante","IV. Allegro"]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=1203298|1203299|1203300",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 34 in D Major, Hob.XVI:33","mediaplayer\/player.asp?br=128&tl=1203301|1203302|1203303",["I. Allegro","II. Adagio","III. Tempo di menuet"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 36 in C Major, Hob.XVI:21","mediaplayer\/player.asp?br=128&tl=1203304|1203305|1203306",["I. Allegro moderato","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 37 in E Major, Hob.XVI:22","mediaplayer\/player.asp?br=128&tl=1203308|1203309|1203310",["I. Allegro moderato","II. Andante","III. Finale: Tempo di menuetto"]],["Keyboard Sonata No. 38 in F Major, Hob.XVI:23","mediaplayer\/player.asp?br=128&tl=1203311|1203312|1203313",["I. &#8212;","II. Adagio (version with repeat)","III. Finale: Presto"]],["Keyboard Sonata No. 22 in D Major, Hob.XVI:24","mediaplayer\/player.asp?br=128&tl=1203314|1203315|1203316",["I. Allegro","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 38 in F Major, Hob.XVI:23 II. Adagio (version without repeat)","mediaplayer\/player.asp?br=128&tl=1203317",[]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 23 in E-Flat Major, Hob.XVI:25","mediaplayer\/player.asp?br=128&tl=1203318|1203319",["I. Moderato","II. Tempo di menuet"]],["Keyboard Sonata No. 41 in A Major, Hob.XVI:26","mediaplayer\/player.asp?br=128&tl=1203325|1203326|1203327",["I. Allegro moderato","II. Menuet al rovescio - Trio al rovescio (version with repeat)","III. Finale: Presto"]],["Keyboard Sonata No. 41 in A Major, Hob.XVI:26","mediaplayer\/player.asp?br=128&tl=1203328|1203329",["II. Menuet al rovescio - Trio al rovescio (version with no repeat)","II. Menuet al rovescio - Trio al rovescio (version with electronic transformation)"]],["Keyboard Sonata No. 42 in G Major, Hob.XVI:27","mediaplayer\/player.asp?br=128&tl=1203330|1203331|1203332",["I. Allegro con brio","II. Menuet - Trio","III. Finale: Presto"]],["Keyboard Sonata No. 43 in E-Flat Major, Hob.XVI:28","mediaplayer\/player.asp?br=128&tl=1203333|1203334|1203335",["I. Allegro moderato","II. Minuet - Trio","III. Finale: Presto"]],["Keyboard Sonata No. 44 in F Major, Hob.XVI:29","mediaplayer\/player.asp?br=128&tl=1203336|1203337|1203338",["I. Moderato","II. Adagio","III. Tempo di menuet"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 45 in A Major, Hob.XVI:30","mediaplayer\/player.asp?br=128&tl=1203339|1203340|1203341",["I. Allegro","II. Adagio","III. Tempo di menuet: Cantabile - Variations"]],["Keyboard Sonata No. 46 in E Major, Hob.XVI:31","mediaplayer\/player.asp?br=128&tl=1203342|1203343|1203344",["I. Moderato","II. Allegretto","III. Finale: Presto"]],["Keyboard Sonata No. 47 in B Minor, Hob.XVI:32","mediaplayer\/player.asp?br=128&tl=1203345|1203346|1203347",["I. Allegro moderato","II. Menuet - Trio","III. Finale: Presto"]],["Keyboard Sonata No. 48 in C Major, Hob.XVI:35","mediaplayer\/player.asp?br=128&tl=1203348|1203349|1203350",["I. Allegro con brio","II. Adagio","III. Finale: Allegro"]],["Keyboard Sonata No. 49 in C-Sharp Minor, Hob.XVI:36","mediaplayer\/player.asp?br=128&tl=1203351|1203352|1203353",["I. Moderato","II. Scherzando: Allegro con brio","III. Menuet: Moderato"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 50 in D Major, Hob.XVI:37","mediaplayer\/player.asp?br=128&tl=1203354|1203355|1203356",["I. Allegro con brio","II. Largo e sostenuto","III. Finale: Presto ma non troppo"]],["Keyboard Sonata No. 51 in E-Flat Major, Hob.XVI:38","mediaplayer\/player.asp?br=128&tl=1203366|1203367|1203368",["I. Allegro moderato","II. Adagio","III. Finale: Allegro"]],["Keyboard Sonata No. 52 in G Major, Hob.XVI:39","mediaplayer\/player.asp?br=128&tl=1203369|1203370|1203371",["I. Allegro con brio","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=1203372|1203373|1203374",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]]]]],[["Haydn, Franz Joseph",[["6 Variations in C Major, Hob.XVII:5","mediaplayer\/player.asp?br=128&tl=1203375",[]],["Keyboard Sonata No. 53 in E Minor, Hob.XVI:34","mediaplayer\/player.asp?br=128&tl=1203377|1203378|1203379",["I. Presto","II. Adagio","III. Vivace molto (innocentemente)"]],["Keyboard Sonata No. 54 in G Major, Hob.XVI:40","mediaplayer\/player.asp?br=128&tl=1203380|1203381",["I. Allegretto innocente (version with performer's embellishment)","II. Presto"]],["Keyboard Sonata No. 55 in B-Flat Major, Hob.XVI:41","mediaplayer\/player.asp?br=128&tl=1203382|1203383",["I. Allegro","II. Allegro di molto"]],["Keyboard Sonata No. 56 in D Major, Hob.XVI:42","mediaplayer\/player.asp?br=128&tl=1203384|1203385",["I. Andante con espressione","II. Vivace assai"]],["Keyboard Sonata No. 54 in G Major, Hob.XVI:40: I. Allegretto innocente (version with no performer's embellishment)","mediaplayer\/player.asp?br=128&tl=1203386",[]],["Keyboard Sonata No. 58 in C Major, Hob.XVI:48","mediaplayer\/player.asp?br=128&tl=1203387|1203388",["I. Andante con espressione","II. Rondo: Presto"]]]]],[["Haydn, Franz Joseph",[["Fantasia (Capriccio) in C Major, Hob.XVII:4","mediaplayer\/player.asp?br=128&tl=1203389",["Fantasia (Capriccio) in C Major, Hob XVII:4"]],["Keyboard Sonata No. 59 in E-Flat Major, Hob.XVI:49","mediaplayer\/player.asp?br=128&tl=1203390|1203391|1203392",["I. Allegro","II. Adagio e cantabile","III. Finale: Tempo di minuet"]],["Keyboard Sonata in F Minor, Hob.XVII:6, \"Un piccolo divertimento: Variations\"","mediaplayer\/player.asp?br=128&tl=1203393",["Keyboard Sonata in F Minor, Hob. XVII:6, \"Un piccolo divertimento: Variations\""]],["Keyboard Sonata No. 62 in E-Flat Major, Hob.XVI:52","mediaplayer\/player.asp?br=128&tl=1203394|1203395|1203396",["I. Allegro","II. Adagio","III. Finale: Presto"]]]]],[["Haydn, Franz Joseph",[["Prelude in C Major","mediaplayer\/player.asp?br=128&tl=1203397",[]],["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=1203398|1203399|1203400",["I. Allegro","II. Adagio","III. Allegro molto"]],["Keyboard Sonata No. 61 in D Major, Hob.XVI:51","mediaplayer\/player.asp?br=128&tl=1203401|1203402",["I. Andante","II. Finale: Presto"]],["Keyboard Sonata No. 62 in E-Flat Major, Hob.XVI:52","mediaplayer\/player.asp?br=128&tl=1203403|1203404|1203405",["I. Allegro","II. Adagio","III. Finale: Presto"]],["Adagio in G Major, Hob.XV:22 (first version of Piano Trio No. 22, Hob.XV:22: II. Adagio)","mediaplayer\/player.asp?br=128&tl=1203406",[]],["Variations in G Major on Gott erhalte Franz den Kaiser (after Hob.III:77)","mediaplayer\/player.asp?br=128&tl=1203407",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=886443760851.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=886443760851.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D886443760851","desc":"HAYDN, J.: Piano Sonatas \/ Concertos (Ax)","label":"Sony Classical","category":"Concertos - Classical Music","composer":"Haydn, Franz Joseph","artist":"Ax, Emanuel -- Franz Liszt Chamber Orchestra","country":"Austria","catid":"886443760851","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata No. 31 in A-Flat Major, Hob.XVI:46","mediaplayer\/player.asp?br=128&tl=2122559|2122560|2122561",["I. Allegro moderato","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 34 in D Major, Hob.XVI:33","mediaplayer\/player.asp?br=128&tl=2122562|2122563|2122564",["I. Allegro","II. Adagio","III. Tempo di menuet"]],["Keyboard Sonata No. 29 in E-Flat Major, Hob.XVI:45","mediaplayer\/player.asp?br=128&tl=2122565|2122566|2122567",["I. Moderato","II. Andante","III. Finale: Allegro di molto"]],["Keyboard Sonata No. 49 in C-Sharp Minor, Hob.XVI:36","mediaplayer\/player.asp?br=128&tl=2122568|2122569|2122570",["I. Moderato","II. Scherzando: Allegro con brio","III. Menuet: Moderato"]],["Keyboard Sonata No. 35 in A-Flat Major, Hob.XVI:43","mediaplayer\/player.asp?br=128&tl=2122571|2122572|2122573",["I. Moderato","II. Menuetto - Trio","III. Rondo: Presto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 47 in B Minor, Hob.XVI:32","mediaplayer\/player.asp?br=128&tl=2139458|2139459|2139460",["I. Allegro moderato","II. Menuet","III. Finale: Presto"]],["Keyboard Sonata No. 53 in E Minor, Hob.XVI:34","mediaplayer\/player.asp?br=128&tl=2139461|2139462|2139463",["I. Presto","II. Adagio","III. Vivace molto"]],["Keyboard Sonata No. 32 in G Minor, Hob.XVI:44","mediaplayer\/player.asp?br=128&tl=2139464|2139465",["I. Moderato","II. Allegretto"]],["Keyboard Sonata No. 59 in E-Flat Major, Hob.XVI:49","mediaplayer\/player.asp?br=128&tl=2139466|2139467|2139468",["I. Allegro","II. Adagio e cantabile","III. Finale: Tempo di minuet"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 58 in C Major, Hob.XVI:48","mediaplayer\/player.asp?br=128&tl=2139469|2139470",["I. Andante con espressione","II. Rondo: Presto"]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=2139471|2139472|2139473",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=2139941|2139942|2139943",["I. Allegro","II. Adagio","III. Allegro molto"]],["Keyboard Sonata No. 38 in F Major, Hob.XVI:23","mediaplayer\/player.asp?br=128&tl=2139944|2139945|2139946",["I. Moderato","II. Adagio","III. Finale: Presto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Concerto in F Major, Hob.XVIII:3","mediaplayer\/player.asp?br=128&tl=2139955|2139974|2139975",["I. Allegro","II. Largo","III. Finale: Presto"]],["Keyboard Concerto in G Major, Hob.XVIII:4","mediaplayer\/player.asp?br=128&tl=2139976|2139977|2139978",["I. Allegro","II. Adagio","III. Finale: Rondo"]],["Keyboard Concerto in D Major, Hob.XVIII:11","mediaplayer\/player.asp?br=128&tl=2139979|2139980|2139981",["I. Vivace","II. Un poco adagio","III. Rondo all'ungarese: Allegro assai"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=9.76015.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=9.76015.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D9.76015","desc":"Easy-listening Piano Classics: Haydn","label":"Classicsonline Playlist","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Jand\u00f3, Jen\u0151","country":"Austria","catid":"9.76015","cdinfo":[[["Haydn, Franz Joseph",[["Piano Sonata No. 1 in G Major, Hob.XVI:8","mediaplayer\/player.asp?br=128&tl=453989|453990|453991|453992",["I. Allegro","II. Menuet","III. Andante","IV. Allegro"]],["Piano Sonata No. 20 in B-Flat Major, Hob.XVI:18","mediaplayer\/player.asp?br=128&tl=453993|453994",["I. Allegro moderato","II. Moderato"]],["12 Variations in E-Flat Major, Hob.XVII:3","mediaplayer\/player.asp?br=128&tl=453995",[]],["Keyboard Sonata No. 48 in C Major, Hob.XVI:35","mediaplayer\/player.asp?br=128&tl=453996|453997|453998",["I. Allegro con brio","II. Adagio","III. Finale: Allegro"]],["Allegretto in G Major, Hob.III\/41 (IV)","mediaplayer\/player.asp?br=128&tl=453999",[]],["Adagio in G Major, Hob.XV:22(II)","mediaplayer\/player.asp?br=128&tl=454000",[]],["Piano Sonata No. 31 in A-Flat Major, Hob.XVI:46","mediaplayer\/player.asp?br=128&tl=454001|454002|454003",["I. Allegro moderato","II. Adagio","III. Finale: Presto"]],["Piano Sonata No. 33 in C Minor, Hob.XVI:20: II. Andante con moto","mediaplayer\/player.asp?br=128&tl=454004",[]],["Piano Sonata No. 6 in C Major, Hob.XVI:10","mediaplayer\/player.asp?br=128&tl=454005|454006|454007",["I. Moderato","II. Menuet","III. Finale: Presto"]],["Variations on the theme Gott erhalte Franz, den Kaiser in G Major, Hob.III:77: II","mediaplayer\/player.asp?br=128&tl=454008",[]],["Piano Sonata No. 9 in D Major, Hob.XVI:4","mediaplayer\/player.asp?br=128&tl=454009|454010",["I. (Moderato)","II. Menuet"]],["Piano Sonata No. 12 in A Major, Hob.XVI:12","mediaplayer\/player.asp?br=128&tl=454011|454012|454013",["I. Andante","II. Menuet","III. Finale: Allegro molto"]],["Piano Sonata No. 14 in C Major, Hob.XVI:3","mediaplayer\/player.asp?br=128&tl=454014|454015|454016",["I. Allegretto","II. Andante","III. Menuet"]],["Piano Sonata No. 56 in D Major, Hob.XVI:42: I. Andante con espressione","mediaplayer\/player.asp?br=128&tl=454017",[]],["Keyboard Sonata (Divertimento) No. 7 in D Major, Hob.XVII:D1","mediaplayer\/player.asp?br=128&tl=454018|454019",["I. Tema (Moderato) with Variations","II. Menuet"]],["Allegretto in G Major, Hob.XVII:10","mediaplayer\/player.asp?br=128&tl=454020",[]],["Adagio in F Major, Hob.XVII:9","mediaplayer\/player.asp?br=128&tl=454021",[]],["Piano Sonata No. 36 in C Major, Hob.XVI:21: I. Allegro","mediaplayer\/player.asp?br=128&tl=454022",[]],["Piano Sonata No. 30 in D Major, Hob.XVI:19: II. Andante","mediaplayer\/player.asp?br=128&tl=454023",[]],["6 Variations in C Major, Hob.XVII:5","mediaplayer\/player.asp?br=128&tl=455899",[]],["Piano Sonata No. 45 in A Major, Hob.XVI:30: II. Tempo di Menuet","mediaplayer\/player.asp?br=128&tl=454024",[]],["Piano Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=454025|454026|454027",["I. Allegro","II. Adagio","III. Allegro molto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=C49404.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=C49404.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DC49404","desc":"HAYDN, F.J.: Keyboard Sonatas (The) (Staier)","label":"Capriccio","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph -- Not Applicable, na","artist":"Schornsheim, Christine -- Staier, Andreas","country":"Austria","catid":"C49404","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata (Partita) No. 1 in G Major, Hob.XVI:8","mediaplayer\/player.asp?br=128&tl=840414|840415|840416|840417",["I. Allegro","II. Menuet","III. Andante","IV. Allegro"]],["Keyboard Sonata (Divertimento) No. 3 in F Major, Hob.XVI:9","mediaplayer\/player.asp?br=128&tl=840418|840419|840420",["I. Allegro","II. Menuet - Trio","III. Scherzo: Allegro"]],["Keyboard Sonata (Divertimento) No. 7 in D Major, Hob.XVII:D1","mediaplayer\/player.asp?br=128&tl=840438|840439|840440|840441|840442|840443",["I. Theme: Moderato","I. Variation 1","I. Variation 2","I. Variation 3","II. Menuet","III. Finale: Allegro"]],["Keyboard Sonata (Partita) No. 2 in C Major, Hob.XVI:7","mediaplayer\/player.asp?br=128&tl=840444|840445|840446",["I. Allegro moderato","II. Menuet - Trio","III. Finale: Allegro"]],["Keyboard Sonata (Divertimento) No. 28 in D Major, Hob.XIV:5","mediaplayer\/player.asp?br=128&tl=848446|848447",["I. Moderato","II. Menuet"]],["Keyboard Sonata (Divertimento) No. 4 in G Major, Hob.XVI:G1","mediaplayer\/player.asp?br=128&tl=840449|840450|840451",["I. Allegro","II. Menuetto - Trio","III. Finale: Presto"]],["Keyboard Sonata (Divertimento) No. 6 in C Major, Hob.XVI:10","mediaplayer\/player.asp?br=128&tl=840452|840453|840454",["I. Moderato","II. Menuet - Trio","III. Finale: Presto"]],["5 Variations in D Major, Hob.XVII:7","mediaplayer\/player.asp?br=128&tl=840455|840456|840457|840458|840459|840460",["Theme: Andante","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata (Divertimento) in E-Flat Major, Hob.XVI:16","mediaplayer\/player.asp?br=128&tl=848000|848001|848002",["I. Andante","II. Menuet","III. Presto"]],["Keyboard Sonata (Partita) No. 10 in C Major, Hob.XVI:1","mediaplayer\/player.asp?br=128&tl=840487|840488|840489",["I. Allegro","II. Adagio","III. Menuet - Trio"]],["Keyboard Sonata (Divertimento) No. 5 in G Major, Hob.XVI:11","mediaplayer\/player.asp?br=128&tl=840490|840491|840492",["I. Presto","II. Andante","III. Menuet - Trio"]],["Keyboard Sonata No. 19 in E Minor, Hob.XVI:47bis","mediaplayer\/player.asp?br=128&tl=840493|840494|840495",["I. Adagio","II. Allegro","III. Finale: Tempo di menuet"]],["Keyboard Sonata (Divertimento) No. 8 in A Major, Hob.XVI:5","mediaplayer\/player.asp?br=128&tl=840496|840497|840498",["I. Allegro","II. Menuet - Trio","III. Presto"]]]]],[["Haydn, Franz Joseph",[["Capriccio in G Major, Hob.XVII:1, \"Acht Sauschneider mussen sein\"","mediaplayer\/player.asp?br=128&tl=842185",[]],["Keyboard Sonata No. 15 in E Major, Hob.XVI:13","mediaplayer\/player.asp?br=128&tl=842186|842187|842188",["I. Moderato","II. Menuet - Trio","III. Finale: Presto"]],["Keyboard Sonata (Partita) No. 16 in D Major, Hob.XVI:14","mediaplayer\/player.asp?br=128&tl=842189|842190|842191",["I. Allegro moderato","II. Menuet - Trio","III. Finale: Presto"]],["Keyboard Sonata (Partita) No. 13 in G Major, Hob.XVI:6","mediaplayer\/player.asp?br=128&tl=842192|842193|842194|842195",["I. Allegro","II. Menuet - Trio","III. Adagio","IV. Finale: Allegro molto"]],["Partita in F Major, Hob.XVIIa:2","mediaplayer\/player.asp?br=128&tl=848122|848123",["I. Allegro","II. Menuet"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata (Partita) No. 11 in B-Flat Major, Hob.XVI:2","mediaplayer\/player.asp?br=128&tl=842217|842218|842219",["I. Moderato","II. Largo","III. Menuet - Trio"]],["12 Variations in E-Flat Major, Hob.XVII:3","mediaplayer\/player.asp?br=128&tl=842220|842221|842222|842223|842224|842225|842226|842227|842228|842229|842230|842231|842232",["Theme (Arietta): Moderato","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12"]],["Keyboard Sonata (Divertimento) No. 9 in D Major, Hob.XVI:4","mediaplayer\/player.asp?br=128&tl=842233|842234",["I. (Moderato)","II. Menuet - Trio"]],["Keyboard Sonata No. 12 in A Major, Hob.XVI:12","mediaplayer\/player.asp?br=128&tl=842235|842236|842237",["I. Andante","II. Menuet - Trio","III. Finale: Allegro molto"]],["Keyboard Sonata (Partita) No. 14 in C Major, Hob.XVI:3","mediaplayer\/player.asp?br=128&tl=842238|842239|842240",["I. Allegretto","II. Andante","III. Menuet - Trio"]],["Keyboard Sonata No. 29 in E-Flat Major, Hob.XVI:45","mediaplayer\/player.asp?br=128&tl=842241|842242|842243",["I. Moderato","II. Andante","III. Finale: Allegro di molto"]],["Fragment in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=848149",[]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 38 in F Major, Hob.XVI:23","mediaplayer\/player.asp?br=128&tl=842244|842245|842246",["I. &#8212;","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 22 in D Major, Hob.XVI:24","mediaplayer\/player.asp?br=128&tl=842247|842248|842249",["I. Allegro","II. Adagio &#8212;","III. Finale: Presto"]],["Keyboard Sonata No. 23 in E-Flat Major, Hob.XVI:25","mediaplayer\/player.asp?br=128&tl=842250|842251",["I. Moderato","II. Tempo di menuet"]],["20 Variations in A Major, Hob.XVII:2","mediaplayer\/player.asp?br=128&tl=848162|848163|848164|848165|848166|848167|848168|848169|848170|848171|848172|848173|848174|848175|848176|848177|848178|848179|848180|848181|848182",["Thema","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12","Variation 13","Variation 14","Variation 15","Variation 16","Variation 17","Variation 18","Variation 19","Variation 20"]],["Allegro molto in D Major, Hob.XVII:D2","mediaplayer\/player.asp?br=128&tl=848183",[]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 31 in A-Flat Major, Hob.XVI:46","mediaplayer\/player.asp?br=128&tl=842888|842889|842890",["I. Allegro moderato","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 18 in E-Flat Major, Hob.XVI:Es.3","mediaplayer\/player.asp?br=128&tl=842891|842892|842893",["I. Allegro","II. Menuetto - Trio","III. Allegro assai"]],["Keyboard Sonata (Partita) No. 17 in E-Flat Major, Hob.XVI:Es.2","mediaplayer\/player.asp?br=128&tl=842894|842895|842896",["I. Moderato","II. Andante","III. Menuetto - Trio"]],["Keyboard Sonata No. 36 in C Major, Hob.XVI:21","mediaplayer\/player.asp?br=128&tl=842897|842898|842899",["I. Allegro moderato","II. Adagio","III. Presto"]],["Keyboard Sonata No. 37 in E Major, Hob.XVI:22","mediaplayer\/player.asp?br=128&tl=842900|842901|842902",["I. Allegro moderato","II. Andante","III. Tempo di menuetto"]],["Keyboard Sonata No. 41 in A Major, Hob.XVI:26","mediaplayer\/player.asp?br=128&tl=842903|842904|842905",["I. Allegro moderato","II. Menuet al rovescio - Trio (al rovescio)","III. Finale: Presto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 30 in D Major, Hob.XVI:19","mediaplayer\/player.asp?br=128&tl=842908|842909|842910",["I. Moderato","II. Andante","III. Finale: Allegro assai"]],["Keyboard Sonata No. 46 in E Major, Hob.XVI:31","mediaplayer\/player.asp?br=128&tl=842911|842912|842913",["I. Moderato","II. Allegretto","III. Finale. Presto"]],["Keyboard Sonata No. 45 in A Major, Hob.XVI:30","mediaplayer\/player.asp?br=128&tl=842914|842915|842916|842917|842918|842919|842920|842921",["I. Allegro - II. Adagio","III. Tempo di menuet (con variazioni)","III. Variation 1","III. Variation 2","III. Variation 3","III. Variation 4","III. Variation 5","III. Variation 6"]],["Keyboard Sonata No. 42 in G Major, Hob.XVI:27","mediaplayer\/player.asp?br=128&tl=842922|842923|842924",["I. Allegro con brio","II. Menuet","III. Finale: Presto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 43 in E-Flat Major, Hob.XVI:28","mediaplayer\/player.asp?br=128&tl=842936|842937|842938",["I. Allegro moderato","II. Minuet","III. Finale: Presto"]],["Keyboard Sonata No. 44 in F Major, Hob.XVI:29","mediaplayer\/player.asp?br=128&tl=842939|842940|842941",["I. Moderato","II. Adagio","III. Tempo di menuet"]],["Keyboard Sonata No. 47 in B Minor, Hob.XVI:32","mediaplayer\/player.asp?br=128&tl=842942|842943|842944",["I. Allegro moderato","II. Menuet","III. Finale: Presto"]],["Keyboard Sonata No. 57 in F Major, Hob.XVI:47","mediaplayer\/player.asp?br=128&tl=842945|842946|842947",["I. Moderato","II. Larghetto","III. Allegro"]],["Arietta No. 2 with 12 Variations in A Major, Hob.XVII:2","mediaplayer\/player.asp?br=128&tl=848204|848205|848206|848207|848208|848209|848210|848211|848212|848213|848214|848215|848216",["Theme","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12"]],["Adagio in F Major, Hob.XVII:9","mediaplayer\/player.asp?br=128&tl=848217",[]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 48 in C Major, Hob.XVI:35","mediaplayer\/player.asp?br=128&tl=844784|844785|844786",["I. Allegro con brio","II. Adagio","III. Finale: Allegro"]],["Keyboard Sonata No. 52 in G Major, Hob.XVI:39","mediaplayer\/player.asp?br=128&tl=844787|844788|844789",["I. Allegro con brio","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 51 in E-Flat Major, Hob.XVI:38","mediaplayer\/player.asp?br=128&tl=844790|844791|844792",["I. Allegro moderato","II. Adagio","III. Finale: Allegro"]],["Keyboard Sonata No. 50 in D Major, Hob.XVI:37","mediaplayer\/player.asp?br=128&tl=844793|844794|844795",["I. Allegro con brio","II. Largo e sostenuto","III. Finale: Presto ma non troppo"]],["Keyboard Sonata No. 49 in C-Sharp Minor, Hob.XVI:36","mediaplayer\/player.asp?br=128&tl=844796|844797|844798",["I. Moderato","II. Scherzando: Allegro con brio","III. Menuet: Moderato"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 55 in B-Flat Major, Hob.XVI:41","mediaplayer\/player.asp?br=128&tl=845602|845603",["I. Allegro","II. Allegro di molto"]],["Keyboard Sonata No. 56 in D Major, Hob.XVI:42","mediaplayer\/player.asp?br=128&tl=845604|845605",["I. Andante con espressione","II. Vivace assai"]],["Keyboard Sonata No. 54 in G Major, Hob.XVI:40","mediaplayer\/player.asp?br=128&tl=845606|845607",["I. Allegretto innocente","II. Presto"]],["Fantasia in C Major, Hob.XVII:4","mediaplayer\/player.asp?br=128&tl=845608",[]],["Allegretto in G Major (arr. Finale of String Quartet, Op. 33, No. 5)","mediaplayer\/player.asp?br=128&tl=848411|848412",["Allegretto","Presto"]],["Keyboard Sonata No. 34 in D Major, Hob.XVI:33","mediaplayer\/player.asp?br=128&tl=845609|845610|845611",["I. Allegro","II. Adagio","III. Tempo di menuet"]],["Keyboard Sonata No. 20 in B-Flat Major, Hob.XVI:18","mediaplayer\/player.asp?br=128&tl=845612|845613",["I. Allegro moderato","II. Moderato"]],["Divertimento in F Major, Hob.XVIIa:1, \"Il maestro e lo scolare\"","mediaplayer\/player.asp?br=128&tl=848413|848414|848415|848416|848417|848418|848419|848420|848421",["Thema: Andante","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7","Tempo di menuet"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=847942|847943|847944",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 35 in A-Flat Major, Hob.XVI:43","mediaplayer\/player.asp?br=128&tl=847945|847946|847947",["I. Moderato","II. Menuetto - Trio","III. Rondo: Presto"]],["Keyboard Sonata No. 58 in C Major, Hob.XVI:48","mediaplayer\/player.asp?br=128&tl=847948|847949",["I. Andante con espressione","II. Rondo: Presto"]],["Keyboard Sonata No. 32 in G Minor, Hob.XVI:44","mediaplayer\/player.asp?br=128&tl=847950|847951",["I. Moderato","II. Allegretto"]],["Keyboard Sonata No. 53 in E Minor, Hob.XVI:34","mediaplayer\/player.asp?br=128&tl=847952|847953|847954",["I. Presto","II. Adagio","III. Vivace molto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 59 in E-Flat Major, Hob.XVI:49","mediaplayer\/player.asp?br=128&tl=847959|847960|847961",["I. Allegro","II. Adagio cantabile","III. Finale: Tempo di minuet"]],["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=847962|847963|847964",["I. Allegro","II. Adagio","III. Allegro molto"]],["6 Variations in C Major, Hob.XVII:5","mediaplayer\/player.asp?br=128&tl=847965|847966|847967|847968|847969|847970|847971",["Thema: Andante","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6"]],["Variations on the theme Gott erhalte den Kaiser","mediaplayer\/player.asp?br=128&tl=847972|847973|847974|847975|847976",["Thema: Poco adagio","Variation 1","Variation 2","Variation 3","Variation 4"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 62 in E-Flat Major, Hob.XVI:52","mediaplayer\/player.asp?br=128&tl=847977|847978|847979",["I. Allegro","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 61 in D Major, Hob.XVI:51","mediaplayer\/player.asp?br=128&tl=847980|847981",["I. Andante","II. Finale: Presto"]],["Keyboard Sonata in F Minor, Hob. XVII:6, \"Un piccolo divertimento: Variations\"","mediaplayer\/player.asp?br=128&tl=847982",[]]]]],[["Unknown Composer",[["Reflektionen: Christine Schornsheim im Gesprach mit Clemens Goldberg","mediaplayer\/player.asp?br=128&tl=847983|847991|847992|847993|847994|847995|847996|847997",["Einfuhrung","Dowd-Cembalo","Dulcken-Hammerflugel","Clavichord","Kirckman-Cembalo","Dulcken-Hammerflugel","Broadwood-Flugel","Schlusswort"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028941664327.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028941664327.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028941664327","desc":"HAYDN, J.: Piano Sonatas Nos. 33, 47, 50, 53, 54, 56, 58-62 (Brendel)","label":"Decca","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Brendel, Alfred","country":"Austria","catid":"00028941664327","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=2942199|2942200|2942201",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 59 in E-Flat Major, Hob.XVI:49","mediaplayer\/player.asp?br=128&tl=2942202|2942203|2942204",["I. Allegro","II. Adagio e cantabile","III. Finale: Tempo di minuet"]],["Keyboard Sonata No. 53 in E Minor, Hob.XVI:34","mediaplayer\/player.asp?br=128&tl=2942205|2942206|2942207",["I. Presto","II. Adagio","III. Vivace molto"]],["Keyboard Sonata No. 47 in B Minor, Hob.XVI:32","mediaplayer\/player.asp?br=128&tl=2942208|2942209|2942210",["I. Allegro moderato","II. Menuet","III. Finale: Presto"]],["Keyboard Sonata No. 56 in D Major, Hob.XVI:42","mediaplayer\/player.asp?br=128&tl=2942211|2942212",["I. Andante con espressione","II. Vivace assai"]],["Fantasia (Capriccio) in C Major, Hob.XVII:4","mediaplayer\/player.asp?br=128&tl=2942213",["Fantasia (Capriccio) in C Major, Hob XVII:4"]],["Adagio in F Major, Hob.XVII:9","mediaplayer\/player.asp?br=128&tl=2942214",[]],["Keyboard Sonata No. 58 in C Major, Hob.XVI:48","mediaplayer\/player.asp?br=128&tl=2942215|2942216",["I. Andante con espressione","II. Rondo: Presto"]],["Keyboard Sonata No. 61 in D Major, Hob.XVI:51","mediaplayer\/player.asp?br=128&tl=2942217|2942218",["I. Andante","II. Finale: Presto"]],["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=2942219|2942220|2942221",["I. Allegro","II. Adagio","III. Allegro molto"]],["Keyboard Sonata No. 62 in E-Flat Major, Hob.XVI:52","mediaplayer\/player.asp?br=128&tl=2942222|2942223|2942224",["I. Allegro","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 54 in G Major, Hob.XVI:40","mediaplayer\/player.asp?br=128&tl=2942225|2942226",["I. Allegretto innocente","II. Presto"]],["Keyboard Sonata No. 50 in D Major, Hob.XVI:37","mediaplayer\/player.asp?br=128&tl=2942227|2942228|2942229",["I. Allegro con brio","II. Largo e sostenuto","III. Finale: Presto ma non troppo"]],["Keyboard Sonata in F Minor, Hob.XVII:6, \"Un piccolo divertimento: Variations\"","mediaplayer\/player.asp?br=128&tl=2942230",["Keyboard Sonata in F Minor, Hob. XVII:6, \"Un piccolo divertimento: Variations\""]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HCD11618-19.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HCD11618-19.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHCD11618-19","desc":"HAYDN, J.: Keyboard Sonatas Nos. 20, 29, 31, 33 (Kocsis)","label":"Hungaroton","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Kocsis, Zolt\u00e1n","country":"Austria","catid":"HCD11618-19","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata No. 20 in B-Flat Major, Hob.XVI:18","mediaplayer\/player.asp?br=128&tl=2159058|2159059",["I. Allegro moderato","II. Moderato"]],["Capriccio in G Major, Hob.XVII:1, \"Acht Sauschneider mussen sein\"","mediaplayer\/player.asp?br=128&tl=2159060",[]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=2159061|2159062|2159063",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 29 in E-Flat Major, Hob.XVI:45","mediaplayer\/player.asp?br=128&tl=2159064|2159065|2159066",["I. Moderato","II. Andante","III. Finale: Allegro di molto"]],["Keyboard Sonata No. 31 in A-Flat Major, Hob.XVI:46","mediaplayer\/player.asp?br=128&tl=2159067|2159068|2159069",["I. Allegro moderato","II. Adagio","III. Finale: Presto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ALCD-9138.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ALCD-9138.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DALCD-9138","desc":"HAYDN, J.: Capriccio, &quot;Acht Sauschneider m\u00fcssen sein&quot; \/ Keyboard Sonatas Nos. 33 and 62 (Toshiyuki Yamana)","label":"ALM Records","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Yamana, Toshiyuki","country":"Austria","catid":"ALCD-9138","cdinfo":[[["Haydn, Franz Joseph",[["Capriccio in G Major, Hob.XVII:1, \"Acht Sauschneider mussen sein\"","mediaplayer\/player.asp?br=128&tl=1964034",[]],["Keyboard Sonata No. 62 in E-Flat Major, Hob.XVI:52","mediaplayer\/player.asp?br=128&tl=1964035|1964036|1964037",["I. Allegro","II. Adagio","III. Finale: Presto"]],["Capriccio in G Major, Hob.XVII:1, \"Acht Sauschneider mussen sein\"","mediaplayer\/player.asp?br=128&tl=1964038",[]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=1964039|1964040|1964041",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Capriccio in G Major, Hob.XVII:1, \"Acht Sauschneider mussen sein\"","mediaplayer\/player.asp?br=128&tl=1964042",[]],["Fragment in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=1964043",[]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20: I. Allegro moderato (first version)","mediaplayer\/player.asp?br=128&tl=1964044",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=827969276624.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=827969276624.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D827969276624","desc":"HAYDN, J.: Piano Sonatas Nos. 33, 38, 58 and 60 (Ax)","label":"Sony Classical","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Ax, Emanuel","country":"Austria","catid":"827969276624","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata No. 58 in C Major, Hob.XVI:48","mediaplayer\/player.asp?br=128&tl=1772067|1772068",["I. Andante con espressione","II. Rondo: Presto"]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=1772069|1772070|1772071",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=1772072|1772073|1772074",["I. Allegro","II. Adagio","III. Allegro molto"]],["Keyboard Sonata No. 38 in F Major, Hob.XVI:23","mediaplayer\/player.asp?br=128&tl=1772075|1772076|1772077",["I. Moderato","II. Adagio","III. Finale: Presto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.553800.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.553800.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.553800","desc":"HAYDN: Piano Sonatas Nos. 29 and 33-35","label":"Naxos","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Jand\u00f3, Jen\u0151","country":"Austria","catid":"8.553800","cdinfo":[[["Haydn, Franz Joseph",[["Piano Sonata No. 29 in E-Flat Major, Hob.XVI:45","mediaplayer\/player.asp?br=128&tl=14803|14804|14805",[]],["Piano Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=14806|14807|14808",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Piano Sonata No. 34 in D Major, Hob.XVI:33","mediaplayer\/player.asp?br=128&tl=14809|14810|14811",[]],["Piano Sonata No. 35 in A-Flat Major, Hob.XVI:43","mediaplayer\/player.asp?br=128&tl=14812|14813|14814",["I. Moderato","II. Menuetto","III. Rondo: Presto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CRC2975-76.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CRC2975-76.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCRC2975-76","desc":"HAYDN, J.: Keyboard Sonatas Nos. 30, 33, 38, 47 and 60 (Mengelkoch, 2 performances on piano and fortepiano)","label":"Centaur","category":"Instrumental - Classical Music","composer":"Haydn, Franz Joseph","artist":"Mengelkoch, Eva","country":"Austria","catid":"CRC2975-76","cdinfo":[[["Haydn, Franz Joseph",[["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=599351|599352|599353",["I. Allegro","II. Adagio","III. Allegro molto"]],["Keyboard Sonata No. 38 in F Major, Hob.XVI:23","mediaplayer\/player.asp?br=128&tl=599354|599355|599356",["I. &#8212;","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=599357|599358|599359",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 30 in D Major, Hob.XVI:19","mediaplayer\/player.asp?br=128&tl=599360|599361|599362",["I. Moderato","II. Andante","III. Finale: Allegro assai"]],["Keyboard Sonata No. 47 in B Minor, Hob.XVI:32","mediaplayer\/player.asp?br=128&tl=599363|599364|599365",["I. Allegro moderato","II. Menuet","III. Finale: Presto"]]]]],[["Haydn, Franz Joseph",[["Keyboard Sonata No. 60 in C Major, Hob.XVI:50","mediaplayer\/player.asp?br=128&tl=599377|599378|599379",["I. Allegro","II. Adagio","III. Allegro molto"]],["Keyboard Sonata No. 38 in F Major, Hob.XVI:23","mediaplayer\/player.asp?br=128&tl=599380|599381|599382",["I. &#8212;","II. Adagio","III. Finale: Presto"]],["Keyboard Sonata No. 33 in C Minor, Hob.XVI:20","mediaplayer\/player.asp?br=128&tl=599383|599384|599385",["I. Moderato","II. Andante con moto","III. Finale: Allegro"]],["Keyboard Sonata No. 30 in D Major, Hob.XVI:19","mediaplayer\/player.asp?br=128&tl=599386|599387|599388",["I. Moderato","II. Andante","III. Finale: Allegro assai"]],["Keyboard Sonata No. 47 in B Minor, Hob.XVI:32","mediaplayer\/player.asp?br=128&tl=599389|599390|599391",["I. Allegro moderato","II. Menuet","III. Finale: Presto"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/haydn%20%22hob%20xvi%3A20%22"};IMSLPNaxosSearch="haydn \"hob xvi:20\"";JGaskdonation=0;JGFileTools={"367451":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/367451"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23367451"}},"475064":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=475064"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/475064\/475065\/475055\/109f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP475064"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=475064"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/475064"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/475064"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23475064"}},"475065":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=475065"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/475064\/475065\/475055\/109f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP475065"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=475065"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/475065"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/475065"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23475065"}},"475055":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=475055"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/475064\/475065\/475055\/109f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP475055"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=475055"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/475055"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/475055"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23475055"}},"109686":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=109686"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109686\/471868\/471869\/471870\/471867\/da0d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP109686"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=109686"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/109686"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/109686"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23109686"}},"471868":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471868"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109686\/471868\/471869\/471870\/471867\/da0d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471868"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471868"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471868"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471868"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23471868"}},"471869":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471869"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109686\/471868\/471869\/471870\/471867\/da0d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471869"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471869"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471869"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471869"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23471869"}},"471870":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471870"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109686\/471868\/471869\/471870\/471867\/da0d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471870"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471870"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471870"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471870"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23471870"}},"471867":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471867"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/109686\/471868\/471869\/471870\/471867\/da0d"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471867"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471867"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471867"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471867"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23471867"}},"471978":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=471978"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP471978"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=471978"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/471978"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/471978"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23471978"}},"70231":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=70231"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/70231\/70232\/134\/56ac"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP70231"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/70231"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/70231"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/70231"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%2370231"}},"70232":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=70232"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/70231\/70232\/134\/56ac"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP70232"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/70232"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/70232"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%2370232"}},"134":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=134"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/70231\/70232\/134\/56ac"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP00134"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/134"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/134"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%2300134"}},"371124":{"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/371124"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/371124"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Keyboard+Sonata+in+C+minor%2C+Hob.XVI%3A20+%28Haydn%2C+Joseph%29&frmTitle=IMSLP+%23371124"}}};JGFileOpts={"367451":[],"475064":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjwVCkzfiL2IevL1kgtvB+DeTjzNOPdJZ9VJ6dBVrOQTIyBJ5AWy5hYPfZqVr77zoMRJatFIJ9BatULUln7tNbPjQsifvBF74Zo9pT+r39GdGYTRq3tAn6PKIVbaPPRBmU="},"475065":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biyJI0N32dRO21ICrOTD5zXtL3udyMXFjz4BNtlCcKQsv\/sQ2CzOrDBz0Vt\/lIMzZdufAMAaVUJFyvYNPQr6o8Y7mU1PLkQwTdwjRElDDEVjAObx8K+GFGfiv3plfHorIg="},"475055":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjRP9WcZPItje8BgMbg3tngxk52VUyIL0gTOsnzv1KdrmteVueffCJoKGKhW1LUZBX2aStD21qBxqY1OdvBswPQHF4LkO8kvlAYeItmvu+tTk3TnhWYQ1OoKIAE8YIt5N8="},"109686":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhUf94cxZGJj7FBrbSunatoESM\/DMTIDDmBUvAW2uUkyrUUqG0kPaq\/dHY7a8Nr6xa\/eUV5CNULoxQyceSTgZww2wQ9kCYvIRTHqAVKw8NVow=="},"471868":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhziNResvOnxDyPZpeTWHqcb+B9Ywi8CnaUyrh04aYknMdLNpbuNokzoH88MnBHtB+myK2hsMXt6+rRhiiJ97vIwYsGSZYjzGzBHL4KBeiANPqfQuA\/CWhF1VNxsE8FDeg="},"471869":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bijD7oQeQAhcb\/OArftnVIssQ0zUFX1PH9vKgpUubIyvVd0DTOM9mhlcF8HV3\/ymhI4oWgJSQVcb75qT8dwOUw7DaOh4ScM2tJZ+3ioWA7OKA=="},"471870":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCSG7bhXpeJpP8jiUMU6cKDcMa97YLXZRbD+qReIXALD+h1Hv1wmjbZHZGwdUWSUsrvrgp+NTpmw56\/uOF7IlpghscYJK\/tHPkVchA4UPF4BWTRq02qUYz7Z1+0DIYH18="},"471867":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biIrxLaEuAfcE8dJ3DwXW0cqdr+itKKpoG4akg5mHtUVyNvGfRb5P6ItJrT+D2kLqXf\/1N9eLtoe6tEu470zGNnvPx4aQkaZ6nEY6gBsTXhTQ=="},"471978":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5XGWlyCEZV1aYSYMJAEJ\/GAvZc1878ICmZoXAl3871OXnR1FTEzEcahHWKAS\/nDg3WVU7n6KjgelG0PnEZ8guIZI3vcXp9DH16i3f8vQnvQ=="},"70231":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biwCtkErmtEf15L1lvGLQ9gKU63XD9TAeS1JYb+xBxHWFeLfHQ1DAF11qa21WgD\/zbtVfIFTWfl0NnRvP\/GYgG6smq42Gg08wrKj6hA81wHv2EefRye917uutVDRuTlybM="},"70232":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjCoaUreAVZlT9OhK0a1iEbFX4kCFamxo1OQ92AoN1iGLpeUZEwSrJIHQQ79mGikho31+1LJONtdSHf0lYjG9AZdzImGtnDMuZU7dkrozHRuxiA2q0B876oD1zzFvnvV1c="},"134":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjlX\/9npY3vsTMfVb7W+KRMZDyenIh7Ud39kYh07DcljdSzCJjc5xvYY5Y9d50IJcDfpKPoKFqVrH3pD2HPvzGY"},"371124":[]};JGPageUntagged=false;JGPageTags=["sonatas","pf","hpd"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"134":[6,"7"],"70231":[6.5384615384615,"13"],"70232":[6.8,"5"],"109686":[6,"16"],"367451":[10,"1"],"371124":[8,"6"],"471870":[5.3333333333333,"3"],"475055":[10,"2"],"475064":[8,"1"],"475065":[10,"2"],"471868":[0,0],"471869":[0,0],"471867":[0,0],"471978":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Free_Recordings"><span class="tocnumber">3</span> <span class="toctext">Free Recordings</span></a></li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">4</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">5</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">1</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<div class="we"><div id="IMSLP367451" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/367451"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d5/PMLP01676-haydn_sonata_no33_chan.mp3" class="internal" title="PMLP01676-haydn sonata no33 chan.mp3">*</a></span><a href="/wiki/File:PMLP01676-haydn_sonata_no33_chan.mp3" title="File:PMLP01676-haydn sonata no33 chan.mp3">#367451</a> - 19.25MB - 16:49<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-367451' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-367451'>
+	<a href='javascript:void(0)' id='367451' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='367451' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='367451' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='367451' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='367451' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-367451'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/367451/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/367451/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@367451" title="Special:GetFCtrStats/@367451">1591</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Cypressdome" title="User:Cypressdome">Cypressdome</a><span class="mh555"> (2015/2/28)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_367451'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"367451":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/petrucci.mus.auth.gr\/imglnks\/usimg\/d\/d5\/IMSLP367451-PMLP01676-haydn_sonata_no33_chan.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.gardnermuseum.org/music/listen/music_library?filter=artist">Sonia Chan (piano)</a></span>
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Boston: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.gardnermuseum.org/music/listen/music_library?filter=composer">Isabella Stewart Gardner Museum</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-NoDerivs_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-NoDerivs 4.0">Creative Commons Attribution-NonCommercial-NoDerivs 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=367451">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=367451">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="367451">Javascript is required for this feature.</div><script>JGINITsearchbars['367451']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">13</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP475064" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/475064"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (color)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e4/PMLP01676-48_IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf" class="internal" title="PMLP01676-48 IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf">*</a></span><a href="/wiki/File:PMLP01676-48_IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf" title="File:PMLP01676-48 IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf">#475064</a> - 0.72MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-475064' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-475064'>
+	<a href='javascript:void(0)' id='475064' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='475064' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='475064' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='475064' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='475064' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-475064'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/475064/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/475064/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 82"><a href="/wiki/Special:GetFCtrStats/@475064" title="Special:GetFCtrStats/@475064">82</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/xipicespourlepia00hayd#page/n47#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Western Ontario - University of Toronto Libraries">CDN-Lu</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP475065" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/475065"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (mono)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0d/PMLP01676-46_IMSLP472434-PMLP766729-xipicespourlepia00haydm.pdf" class="internal" title="PMLP01676-46 IMSLP472434-PMLP766729-xipicespourlepia00haydm.pdf">*</a></span><a href="/wiki/File:PMLP01676-46_IMSLP472434-PMLP766729-xipicespourlepia00haydm.pdf" title="File:PMLP01676-46 IMSLP472434-PMLP766729-xipicespourlepia00haydm.pdf">#475065</a> - 0.43MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-475065' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-475065'>
+	<a href='javascript:void(0)' id='475065' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='475065' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='475065' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='475065' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='475065' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-475065'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/475065/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/475065/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 48"><a href="/wiki/Special:GetFCtrStats/@475065" title="Special:GetFCtrStats/@475065">48</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/xipicespourlepia00hayd#page/n47#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Western Ontario - University of Toronto Libraries">CDN-Lu</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP475055" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/475055"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Color cover</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/82/PMLP01715-3_IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf" class="internal" title="PMLP01715-3 IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf">*</a></span><a href="/wiki/File:PMLP01715-3_IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf" title="File:PMLP01715-3 IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf">#475055</a> - 0.05MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-475055' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-475055'>
+	<a href='javascript:void(0)' id='475055' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='475055' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='475055' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='475055' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='475055' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-475055'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/475055/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/475055/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 161"><a href="/wiki/Special:GetFCtrStats/@475055" title="Special:GetFCtrStats/@475055">161</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/xipicespourlepia00hayd#page/n1#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Western Ontario - University of Toronto Libraries">CDN-Lu</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/6/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i><a href="/wiki/Oeuvres_complettes_(Haydn,_Joseph)" title="Oeuvres complettes (Haydn, Joseph)">Oeuvres complettes</a></i> (Vol.2, No.14, pp.47-59)<br />Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf und Härtel</a><!--ASL0-->, 1800.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=475064/475065/475055">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=475064/475065/475055">del</a>/<span id="fmrglnk" data-pdfstr="475064//475065//475055/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.lib.uwo.ca/music/thedrsjamesandmargaretwhitbycollections.html">From the Drs. Whitby Music Collection</a></span> at the <span class="plainlinks"><a rel="nofollow" class="external text" href="http://uwo.ca/">University of Western Ontario</a></span>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="475064">Javascript is required for this feature.</div><script>JGINITsearchbars['475064']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=475064|475065|475055&type=Complete%20Score%20%28color%29%7CComplete%20Score%20%28mono%29%7CColor%20cover&pgcount=12|12|1&signature=5199e3ddbad8d2e1d84bf2a731073e3558a6ab7d"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Xipicespourlepia00hayd.jpg" class="image"><img data-src="/images/thumb/c/c7/Xipicespourlepia00hayd.jpg/120px-Xipicespourlepia00hayd.jpg" width="120" height="90" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP109686" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/109686"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a4/PMLP01676-Haydn-Piano_Sonate_No33-XVI20-Roitzsch.pdf" class="internal" title="PMLP01676-Haydn-Piano Sonate No33-XVI20-Roitzsch.pdf">*</a></span><a href="/wiki/File:PMLP01676-Haydn-Piano_Sonate_No33-XVI20-Roitzsch.pdf" title="File:PMLP01676-Haydn-Piano Sonate No33-XVI20-Roitzsch.pdf">#109686</a> - 1.72MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-109686' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-109686'>
+	<a href='javascript:void(0)' id='109686' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='109686' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='109686' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='109686' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='109686' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-109686'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/109686/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/109686/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 17189"><a href="/wiki/Special:GetFCtrStats/@109686" title="Special:GetFCtrStats/@109686">17189</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Choul" title="User:Choul">Choul</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/sonaten34hayd#page/n17#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Choul" title="User:Choul">Choul</a> (2011/7/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>4 more</u>:</b> Complete Score • Complete Score • Complete Score • Color cover
+</p>
+</div><div id="IMSLP471868" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471868"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/PMLP01676-14_IMSLP457530-PMLP743656-sonaten34hayd_bw.pdf" class="internal" title="PMLP01676-14 IMSLP457530-PMLP743656-sonaten34hayd bw.pdf">*</a></span><a href="/wiki/File:PMLP01676-14_IMSLP457530-PMLP743656-sonaten34hayd_bw.pdf" title="File:PMLP01676-14 IMSLP457530-PMLP743656-sonaten34hayd bw.pdf">#471868</a> - 1.00MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471868' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471868'>
+	<a href='javascript:void(0)' id='471868' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471868' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471868' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471868' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471868' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471868'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471868/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/471868/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 29"><a href="/wiki/Special:GetFCtrStats/@471868" title="Special:GetFCtrStats/@471868">29</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/sonaten34hayd#page/n17#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/5/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP471869" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471869"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/30/PMLP01676-14_IMSLP457531-PMLP743656-msonaten34hayd.pdf" class="internal" title="PMLP01676-14 IMSLP457531-PMLP743656-msonaten34hayd.pdf">*</a></span><a href="/wiki/File:PMLP01676-14_IMSLP457531-PMLP743656-msonaten34hayd.pdf" title="File:PMLP01676-14 IMSLP457531-PMLP743656-msonaten34hayd.pdf">#471869</a> - 0.91MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471869' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471869'>
+	<a href='javascript:void(0)' id='471869' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471869' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471869' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471869' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471869' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471869'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471869/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/471869/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 28"><a href="/wiki/Special:GetFCtrStats/@471869" title="Special:GetFCtrStats/@471869">28</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/sonaten34hayd#page/n17#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/5/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP471870" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471870"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/PMLP01676-14_IMSLP457532-PMLP743656-msonaten189034hayd.pdf" class="internal" title="PMLP01676-14 IMSLP457532-PMLP743656-msonaten189034hayd.pdf">*</a></span><a href="/wiki/File:PMLP01676-14_IMSLP457532-PMLP743656-msonaten189034hayd.pdf" title="File:PMLP01676-14 IMSLP457532-PMLP743656-msonaten189034hayd.pdf">#471870</a> - 0.87MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471870' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471870'>
+	<a href='javascript:void(0)' id='471870' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471870' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471870' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471870' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471870' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471870'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471870/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/471870/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 43"><a href="/wiki/Special:GetFCtrStats/@471870" title="Special:GetFCtrStats/@471870">43</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/sonaten34hayd#page/n17#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/5/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP471867" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471867"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Color cover</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/71/PMLP01676-CC_IMSLP457522-PMLP743656-sonaten34hayd.pdf" class="internal" title="PMLP01676-CC IMSLP457522-PMLP743656-sonaten34hayd.pdf">*</a></span><a href="/wiki/File:PMLP01676-CC_IMSLP457522-PMLP743656-sonaten34hayd.pdf" title="File:PMLP01676-CC IMSLP457522-PMLP743656-sonaten34hayd.pdf">#471867</a> - 0.21MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471867' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471867'>
+	<a href='javascript:void(0)' id='471867' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471867' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471867' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471867' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471867' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471867'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471867/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/471867/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 173"><a href="/wiki/Special:GetFCtrStats/@471867" title="Special:GetFCtrStats/@471867">173</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/sonaten34hayd#page/n17#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/5/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Roitzsch,_Friedrich_August" title="Category:Roitzsch, Friedrich August">Friedrich August Roitzsch</a> (1805-1889)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/34_Piano_Sonatas_(Haydn,_Joseph)" title="34 Piano Sonatas (Haydn, Joseph)"><i>Sonaten von Joseph Haydn</i></a>, <i>Vol.III</i> (pp.14-27)<br />Leipzig: <a href="/wiki/Edition_Peters" title="Edition Peters">Edition Peters</a><!--ASL1-->, n.d.  Plate 7824.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=109686/471868/471869/471870/471867">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=109686/471868/471869/471870/471867">del</a>/<span id="fmrglnk" data-pdfstr="109686//471868//471869//471870//471867/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Cleaned 600 dpi B/W.<br />2.-4. grayscale and monochrome scans
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="109686">Javascript is required for this feature.</div><script>JGINITsearchbars['109686']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=109686|471868|471869|471870|471867&type=Complete%20Score%7CComplete%20Score%7CComplete%20Score%7CComplete%20Score%7CColor%20cover&pgcount=14|14|14|14|1&signature=871e2c567d56979c16d6650ec0f6f860ac6c3b72"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP01676-Haydn-Piano_Sonate_No33-XVI20-Roitzsch.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a4/45bd74aa829062b85521fd10426afc0863a4c5fa.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP471978" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/471978"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f6/PMLP01676-120_IMSLP463088-PMLP751942-sonatas.pdf" class="internal" title="PMLP01676-120 IMSLP463088-PMLP751942-sonatas.pdf">*</a></span><a href="/wiki/File:PMLP01676-120_IMSLP463088-PMLP751942-sonatas.pdf" title="File:PMLP01676-120 IMSLP463088-PMLP751942-sonatas.pdf">#471978</a> - 1.36MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-471978' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-471978'>
+	<a href='javascript:void(0)' id='471978' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='471978' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='471978' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='471978' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='471978' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-471978'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/471978/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/471978/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 62"><a href="/wiki/Special:GetFCtrStats/@471978" title="Special:GetFCtrStats/@471978">62</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Gus<br />
+<a href="/wiki/User:Igor_stravinsky" title="User:Igor stravinsky">IS</a> (2017/5/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:P%C3%A4sler,_Karl" title="Category:Päsler, Karl">Karl Päsler</a> (1863-1942)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/Joseph_Haydns_Werke_(Haydn,_Joseph)" title="Joseph Haydns Werke (Haydn, Joseph)"><i>Haydns Werke, Serie XIV</i></a>: <i><a href="/wiki/Piano_Sonatas_(Haydn,_Joseph)" title="Piano Sonatas (Haydn, Joseph)"><i>Klavierwerke: Sonaten</i></a>, Bd.1</i> <br />Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf und Härtel</a><!--ASL2-->, 1918.  Plate J.H. XIV:No.20.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=471978">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=471978">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="471978">Javascript is required for this feature.</div><script>JGINITsearchbars['471978']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=471978&type=Complete%20Score&pgcount=12&signature=0bd255a05e9c854ccbf4fac9d5143380911e88e6"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP01676-120_IMSLP463088-PMLP751942-sonatas.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f6/306b813cded3f3fb234be6962881d2e6e7c9a424.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP70231" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/70231"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (scan)</span></a></b> (<a href="/images/f/f3/PV-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261.jpg" class="internal" title="PV-Haydn Sonaten Klavier Band 3 25 Peters 11261.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8e/PMLP01684-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261_scan.pdf" class="internal" title="PMLP01684-Haydn Sonaten Klavier Band 3 25 Peters 11261 scan.pdf">*</a></span><a href="/wiki/File:PMLP01684-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261_scan.pdf" title="File:PMLP01684-Haydn Sonaten Klavier Band 3 25 Peters 11261 scan.pdf">#70231</a> - 2.13MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-70231' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-70231'>
+	<a href='javascript:void(0)' id='70231' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='70231' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='70231' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='70231' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='70231' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-70231'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/70231/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/70231/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 7193"><a href="/wiki/Special:GetFCtrStats/@70231" title="Special:GetFCtrStats/@70231">7193</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by uploader<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2010/7/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP70232" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/70232"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (filter)</span></a></b> (<a href="/images/f/f3/PV-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261.jpg" class="internal" title="PV-Haydn Sonaten Klavier Band 3 25 Peters 11261.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7a/PMLP01684-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261_filter.pdf" class="internal" title="PMLP01684-Haydn Sonaten Klavier Band 3 25 Peters 11261 filter.pdf">*</a></span><a href="/wiki/File:PMLP01684-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261_filter.pdf" title="File:PMLP01684-Haydn Sonaten Klavier Band 3 25 Peters 11261 filter.pdf">#70232</a> - 1.68MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-70232' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-70232'>
+	<a href='javascript:void(0)' id='70232' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='70232' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='70232' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='70232' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='70232' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-70232'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/70232/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/70232/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 1919"><a href="/wiki/Special:GetFCtrStats/@70232" title="Special:GetFCtrStats/@70232">1919</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by uploader<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2010/7/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP00134" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/00134"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b> (<a href="/images/f/f3/PV-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261.jpg" class="internal" title="PV-Haydn Sonaten Klavier Band 3 25 Peters 11261.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5d/Haydn_-_Piano_Sonata_No_20_in_c.pdf" class="internal" title="Haydn - Piano Sonata No 20 in c.pdf">*</a></span><a href="/wiki/File:Haydn_-_Piano_Sonata_No_20_in_c.pdf" title="File:Haydn - Piano Sonata No 20 in c.pdf">#00134</a> - 0.76MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-134' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-134'>
+	<a href='javascript:void(0)' id='134' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='134' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='134' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='134' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='134' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-134'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/00134/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/00134/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 7054"><a href="/wiki/Special:GetFCtrStats/@134" title="Special:GetFCtrStats/@134">7054</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Feldmahler" title="User:Feldmahler">Feldmahler</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Feldmahler" title="User:Feldmahler">Feldmahler</a> (2006/2/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Martienssen,_Carl_Adolf" title="Category:Martienssen, Carl Adolf">Carl Adolf Martienssen</a> (1881-1955)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/Haydn_-_Piano_Sonatas_(Martienssen)" title="Haydn - Piano Sonatas (Martienssen)" class="mw-redirect"><i>Sonaten für Klavier zu zwei Händen</i></a> (pp.16-29)<br />Leipzig: <a href="/wiki/Edition_Peters" title="Edition Peters">C.F. Peters</a><!--ASL3-->, 1937.  Plate 11261.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=70231/70232/134">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=70231/70232/134">del</a>/<span id="fmrglnk" data-pdfstr="70231//70232//134/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Reprinted by Kalmus/Belwin (now Alfred). Also present in CDSM collection.<br />Scan: score scanned at 600dpi. You may ask me for a manually cleaned version.<br />filter: score filtered with 2-point algorithm explained in <a href="/wiki/High_Quality_Scanning" title="High Quality Scanning" class="mw-redirect">High Quality Scanning</a><br />I provide the original scanned version and the filtered, because the filter does some changes (smoothening, sharpening borders) and some portions of the scan get lost sometimes (when they are to small e.g.) - so you can choose your favorite.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="70231">Javascript is required for this feature.</div><script>JGINITsearchbars['70231']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261.jpg" class="image"><img data-src="/images/thumb/e/e4/TN-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261.jpg/120px-TN-Haydn_Sonaten_Klavier_Band_3_25_Peters_11261.jpg" width="120" height="170" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP371124" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/371124"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2c/PMLP01676-Haydn_-_Sonata_No._33%2C_Hob._XVI_20_%28Wiener_Urtext%29.pdf" class="internal" title="PMLP01676-Haydn - Sonata No. 33, Hob. XVI 20 (Wiener Urtext).pdf">*</a></span><a href="/wiki/File:PMLP01676-Haydn_-_Sonata_No._33,_Hob._XVI_20_(Wiener_Urtext).pdf" title="File:PMLP01676-Haydn - Sonata No. 33, Hob. XVI 20 (Wiener Urtext).pdf">#371124</a> - 9.98MB, 14 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-371124' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-371124'>
+	<a href='javascript:void(0)' id='371124' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='371124' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='371124' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='371124' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='371124' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-371124'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/371124/Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)" title="Special:IMSLPEditCTag/371124/Keyboard Sonata in C minor, Hob.XVI:20 (Haydn, Joseph)"><span style="color:gray">C</span><small>*</small>/<span style="color:red"><b>60</b></span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <a href="/wiki/Special:GetFCtrStats/@371124" title="Special:GetFCtrStats/@371124">2903</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:Tua.chong" title="User:Tua.chong">Chairat</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Tua.chong" title="User:Tua.chong">Chairat</a> (2015/3/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Landon,_Christa" title="Category:Landon, Christa">Christa Landon</a> (1921-1977)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Vienna: Wiener Urtext Edition, 1964. UT 50027.<div style="border:1px gray solid; padding-top:4px; background: #FFFFFF; padding-bottom:4px; padding-left:8px; padding-right:8px; font-size:85%;"><center><b>URTEXT EDITION</b>&#160;<span class="expandline"><br />This "urtext" or "scholarly" (scientific) edition was published at least 25 years ago in the EU (or 20 years ago in Italy, before 1992 in the former USSR). Hence, the edition is <a href="/wiki/Public_domain" title="Public domain">public domain</a> in its country of origin or a government publication. Such editions are also <a href="/wiki/Public_domain" title="Public domain">public domain</a> in Canada because they fail to meet the minimum 'threshold of originality' to qualify for copyright as an 'adaptation'. They may not be <a href="/wiki/Public_domain" title="Public domain">public domain</a> elsewhere. More information about this can be found <a href="/wiki/Public_domain#Editions_of_Public_Domain_Works" title="Public domain">here</a>. <br /><span style="color:crimson"><b>Please obey the copyright laws of your country. IMSLP does not assume any sort of legal responsibility or liability for the consequences of downloading files that are not in the public domain in your country.</b></span></span></center></div>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a>&#160;- <b><span style="color:red">Non-PD US</span></b><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=371124">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=371124">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Fingerings removed.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="371124">Javascript is required for this feature.</div><script>JGINITsearchbars['371124']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span>
+<h2> <span class="mw-headline" id="Free_Recordings">Free Recordings</span></h2>
+<ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=8trxI5IL1Kw">Martina Filjak (piano)</a></span>
+</li></ul>
+<p><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+</p>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Keyboard Sonata
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Klaviersonate Nr.33
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Haydn,_Joseph" title="Category:Haydn, Joseph">Haydn, Joseph</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/JosephHaydnThematisch-bibliographischesWerkverzeichnis/Hoboken1-3#page/n771/mode/2up">Hob.XVI:20</a></span>&#160;; Op.30 No.6
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IJH 265
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>C minor
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 movements:
+<ol><li> Moderato (C minor)
+</li><li> Andante con moto (A-flat major)
+</li><li> Finale. Allegro (C minor)
+</li></ol>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1771 ca
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1780
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>piano or harpsichord
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<table class="collapsible" width="80%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="4" align="center" style="background-color:rgb(250,190,135)">Keyboard Sonatas by <a href="/wiki/Category:Haydn,_Joseph" title="Category:Haydn, Joseph">Joseph Haydn</a> (Hob.XVI)
+</th></tr>
+<tr>
+<td valign="top" width="25%" style="background-color:rgb(250,220,180)">
+<p>&#160;<a href="/wiki/Divertimento_in_C_major,_Hob.XVI:1_(Haydn,_Joseph)" title="Divertimento in C major, Hob.XVI:1 (Haydn, Joseph)">Divertimento in C&#160;major, Hob.XVI:1</a>
+</p><p>&#160;<a href="/wiki/Partita_in_B-flat_major,_Hob.XVI:2_(Haydn,_Joseph)" title="Partita in B-flat major, Hob.XVI:2 (Haydn, Joseph)">Partita in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, Hob.XVI:2</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_C_major,_Hob.XVI:3_(Haydn,_Joseph)" title="Divertimento in C major, Hob.XVI:3 (Haydn, Joseph)">Divertimento in C&#160;major, Hob.XVI:3</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_D_major,_Hob.XVI:4_(Haydn,_Joseph)" title="Divertimento in D major, Hob.XVI:4 (Haydn, Joseph)">Divertimento in D&#160;major, Hob.XVI:4</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_A_major,_Hob.XVI:5_(Haydn,_Joseph)" title="Divertimento in A major, Hob.XVI:5 (Haydn, Joseph)">Divertimento in A&#160;major, Hob.XVI:5</a>
+</p><p>&#160;<a href="/wiki/Partita_in_G_major,_Hob.XVI:6_(Haydn,_Joseph)" title="Partita in G major, Hob.XVI:6 (Haydn, Joseph)">Partita in G&#160;major, Hob.XVI:6</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_C_major,_Hob.XVI:7_(Haydn,_Joseph)" title="Divertimento in C major, Hob.XVI:7 (Haydn, Joseph)">Divertimento in C&#160;major, Hob.XVI:7</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_G_major,_Hob.XVI:8_(Haydn,_Joseph)" title="Divertimento in G major, Hob.XVI:8 (Haydn, Joseph)">Divertimento in G&#160;major, Hob.XVI:8</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_F_major,_Hob.XVI:9_(Haydn,_Joseph)" title="Divertimento in F major, Hob.XVI:9 (Haydn, Joseph)">Divertimento in F&#160;major, Hob.XVI:9</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_C_major,_Hob.XVI:10_(Haydn,_Joseph)" title="Divertimento in C major, Hob.XVI:10 (Haydn, Joseph)">Divertimento in C&#160;major, Hob.XVI:10</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_G_major,_Hob.XVI:11_(Haydn,_Joseph)" title="Divertimento in G major, Hob.XVI:11 (Haydn, Joseph)">Divertimento in G&#160;major, Hob.XVI:11</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_A_major,_Hob.XVI:12_(Haydn,_Joseph)" title="Divertimento in A major, Hob.XVI:12 (Haydn, Joseph)">Divertimento in A&#160;major, Hob.XVI:12</a>
+</p><p>&#160;<a href="/wiki/Partita_in_E_major,_Hob.XVI:13_(Haydn,_Joseph)" title="Partita in E major, Hob.XVI:13 (Haydn, Joseph)">Partita in E&#160;major, Hob.XVI:13</a>
+</p><p>&#160;<a href="/wiki/Partita_in_D_major,_Hob.XVI:14_(Haydn,_Joseph)" title="Partita in D major, Hob.XVI:14 (Haydn, Joseph)">Partita in D&#160;major, XVI:14</a>
+</p>
+</td>
+<td valign="top" width="25%" style="background-color:rgb(250,220,180)">
+<p>&#160;<a href="/wiki/Keyboard_Sonata_in_C_major,_Hob.XVI:15_(Haydn,_Joseph)" title="Keyboard Sonata in C major, Hob.XVI:15 (Haydn, Joseph)">Keyboard Sonata in C&#160;major, XVI:15</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_E-flat_major,_Hob.XVI:16_(Haydn,_Joseph)" title="Divertimento in E-flat major, Hob.XVI:16 (Haydn, Joseph)">Divertimento in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:16</a>
+</p><p>&#160;<i><a href="/wiki/Keyboard_Sonata_in_B-flat_major_(Schwanenberger,_Johann_Gottfried)" title="Keyboard Sonata in B-flat major (Schwanenberger, Johann Gottfried)">Keyboard Sonata in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:17</a></i>
+</p>
+<dl><dd><small>actually by <a href="/wiki/Category:Schwanenberger,_Johann_Gottfried" title="Category:Schwanenberger, Johann Gottfried">J.G. Schwanenberger</a></small>
+</dd></dl>
+<p>&#160;<a href="/wiki/Keyboard_Sonata_in_B-flat_major,_Hob.XVI:18_(Haydn,_Joseph)" title="Keyboard Sonata in B-flat major, Hob.XVI:18 (Haydn, Joseph)">Keyboard Sonata in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:18</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_D_major,_Hob.XVI:19_(Haydn,_Joseph)" title="Divertimento in D major, Hob.XVI:19 (Haydn, Joseph)">Divertimento in D&#160;major, XVI:19</a>
+</p><p>&#160;<strong class="selflink">Keyboard Sonata in C&#160;minor. XVI:20 </strong>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_C_major,_Hob.XVI:21_(Haydn,_Joseph)" title="Keyboard Sonata in C major, Hob.XVI:21 (Haydn, Joseph)">Keyboard Sonata in C&#160;major, XVI:21</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E_major,_Hob.XVI:22_(Haydn,_Joseph)" title="Keyboard Sonata in E major, Hob.XVI:22 (Haydn, Joseph)">Keyboard Sonata in E&#160;major, XVI:22</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_F_major,_Hob.XVI:23_(Haydn,_Joseph)" title="Keyboard Sonata in F major, Hob.XVI:23 (Haydn, Joseph)">Keyboard Sonata in F&#160;major, XVI:23</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:24_(Haydn,_Joseph)" title="Keyboard Sonata in D major, Hob.XVI:24 (Haydn, Joseph)">Keyboard Sonata in D&#160;major, XVI:24</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E-flat_major,_Hob.XVI:25_(Haydn,_Joseph)" title="Keyboard Sonata in E-flat major, Hob.XVI:25 (Haydn, Joseph)">Keyboard Sonata in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:25</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_A_major,_Hob.XVI:26_(Haydn,_Joseph)" title="Keyboard Sonata in A major, Hob.XVI:26 (Haydn, Joseph)">Keyboard Sonata in A&#160;major, XVI:26</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_G_major,_Hob.XVI:27_(Haydn,_Joseph)" title="Keyboard Sonata in G major, Hob.XVI:27 (Haydn, Joseph)">Keyboard Sonata in G&#160;major, XVI:27</a>
+</p>
+</td>
+<td valign="top" width="25%" style="background-color:rgb(250,220,180)">
+<p>&#160;<a href="/wiki/Keyboard_Sonata_in_E-flat_major,_Hob.XVI:28_(Haydn,_Joseph)" title="Keyboard Sonata in E-flat major, Hob.XVI:28 (Haydn, Joseph)">Keyboard Sonata in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:28</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_F_major,_Hob.XVI:29_(Haydn,_Joseph)" title="Keyboard Sonata in F major, Hob.XVI:29 (Haydn, Joseph)">Keyboard Sonata in F&#160;major, XVI:29</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_A_major,_Hob.XVI:30_(Haydn,_Joseph)" title="Keyboard Sonata in A major, Hob.XVI:30 (Haydn, Joseph)">Keyboard Sonata in A&#160;major, XVI:30</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E_major,_Hob.XVI:31_(Haydn,_Joseph)" title="Keyboard Sonata in E major, Hob.XVI:31 (Haydn, Joseph)">Keyboard Sonata in E&#160;major, XVI:31</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_B_minor,_Hob.XVI:32_(Haydn,_Joseph)" title="Keyboard Sonata in B minor, Hob.XVI:32 (Haydn, Joseph)">Keyboard Sonata in B&#160;minor, XVI:32</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:33_(Haydn,_Joseph)" title="Keyboard Sonata in D major, Hob.XVI:33 (Haydn, Joseph)">Keyboard Sonata in D&#160;major, XVI:33</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E_minor,_Hob.XVI:34_(Haydn,_Joseph)" title="Keyboard Sonata in E minor, Hob.XVI:34 (Haydn, Joseph)">Keyboard Sonata in E&#160;minor, XVI:34</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_C_major,_Hob.XVI:35_(Haydn,_Joseph)" title="Keyboard Sonata in C major, Hob.XVI:35 (Haydn, Joseph)">Keyboard Sonata in C&#160;major, XVI:35</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_C-sharp_minor,_Hob.XVI:36_(Haydn,_Joseph)" title="Keyboard Sonata in C-sharp minor, Hob.XVI:36 (Haydn, Joseph)">Keyboard Sonata in C<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266f;</span>&#160;minor, XVI:36</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:37_(Haydn,_Joseph)" title="Keyboard Sonata in D major, Hob.XVI:37 (Haydn, Joseph)">Keyboard Sonata in D&#160;major, XVI:37</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E-flat_major,_Hob.XVI:38_(Haydn,_Joseph)" title="Keyboard Sonata in E-flat major, Hob.XVI:38 (Haydn, Joseph)">Keyboard Sonata in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:38</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_G_major,_Hob.XVI:39_(Haydn,_Joseph)" title="Keyboard Sonata in G major, Hob.XVI:39 (Haydn, Joseph)">Keyboard Sonata in G&#160;major, XVI:39</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_G_major,_Hob.XVI:40_(Haydn,_Joseph)" title="Keyboard Sonata in G major, Hob.XVI:40 (Haydn, Joseph)">Keyboard Sonata in G&#160;major, XVI:40</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_B-flat_major,_Hob.XVI:41_(Haydn,_Joseph)" title="Keyboard Sonata in B-flat major, Hob.XVI:41 (Haydn, Joseph)">Keyboard Sonata in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:41</a>
+</p>
+</td>
+<td valign="top" width="25%" style="background-color:rgb(250,220,180)">
+<p>&#160;<a href="/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:42_(Haydn,_Joseph)" title="Keyboard Sonata in D major, Hob.XVI:42 (Haydn, Joseph)">Keyboard Sonata in D&#160;major, XVI:42</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_A-flat_major,_Hob.XVI:43_(Haydn,_Joseph)" title="Keyboard Sonata in A-flat major, Hob.XVI:43 (Haydn, Joseph)">Keyboard Sonata in A<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:43</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_G_minor,_Hob.XVI:44_(Haydn,_Joseph)" title="Keyboard Sonata in G minor, Hob.XVI:44 (Haydn, Joseph)">Keyboard Sonata in G&#160;minor, XVI:44</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_E-flat_major,_Hob.XVI:45_(Haydn,_Joseph)" title="Divertimento in E-flat major, Hob.XVI:45 (Haydn, Joseph)">Divertimento in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:45</a>
+</p><p>&#160;<a href="/wiki/Divertimento_in_A-flat_major,_Hob.XVI:46_(Haydn,_Joseph)" title="Divertimento in A-flat major, Hob.XVI:46 (Haydn, Joseph)">Divertimento in A<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:46</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_F_major,_Hob.XVI:47_(Haydn,_Joseph)" title="Keyboard Sonata in F major, Hob.XVI:47 (Haydn, Joseph)">Keyboard Sonata in F&#160;major, XVI:47</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_C_major,_Hob.XVI:48_(Haydn,_Joseph)" title="Keyboard Sonata in C major, Hob.XVI:48 (Haydn, Joseph)">Keyboard Sonata in C&#160;major, XVI:48</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E-flat_major,_Hob.XVI:49_(Haydn,_Joseph)" title="Keyboard Sonata in E-flat major, Hob.XVI:49 (Haydn, Joseph)">Keyboard Sonata in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:49</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_C_major,_Hob.XVI:50_(Haydn,_Joseph)" title="Keyboard Sonata in C major, Hob.XVI:50 (Haydn, Joseph)">Keyboard Sonata in C&#160;major, XVI:50</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:51_(Haydn,_Joseph)" title="Keyboard Sonata in D major, Hob.XVI:51 (Haydn, Joseph)">Keyboard Sonata in D&#160;major, XVI:51</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_E-flat_major,_Hob.XVI:52_(Haydn,_Joseph)" title="Keyboard Sonata in E-flat major, Hob.XVI:52 (Haydn, Joseph)">Keyboard Sonata in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>&#160;major, XVI:52</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_G_major,_Hob.XVI:G1_(Haydn,_Joseph)" title="Keyboard Sonata in G major, Hob.XVI:G1 (Haydn, Joseph)">Keyboard Sonata in G&#160;major, XVI:G1</a>
+</p><p>&#160;<a href="/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:deest_(Haydn,_Joseph)" title="Keyboard Sonata in D major, Hob.XVI:deest (Haydn, Joseph)">Keyboard Sonata in D&#160;major, XVI:deest</a>
+</p>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1894/1000000
+Post-expand include size: 98580/2097152 bytes
+Template argument size: 1310/2097152 bytes
+Expensive parser function count: 4/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:1676-0!*!0!!en!2!* and timestamp 20180416113828 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)&amp;oldid=2348153">http://imslp.org/index.php?title=Keyboard_Sonata_in_C_minor,_Hob.XVI:20_(Haydn,_Joseph)&amp;oldid=2348153</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Gardner_Museum_Recordings" title="Category:Gardner Museum Recordings">Gardner Museum Recordings</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Scores_published_by_Breitkopf_und_H%C3%A4rtel" title="Category:Scores published by Breitkopf und Härtel">Scores published by Breitkopf und Härtel</a></li><li><a href="/wiki/Category:Scores_from_the_Drs._Whitby_Music_Collection" title="Category:Scores from the Drs. Whitby Music Collection">Scores from the Drs. Whitby Music Collection</a></li><li><a href="/wiki/Category:Roitzsch,_Friedrich_August/Editor" title="Category:Roitzsch, Friedrich August/Editor">Roitzsch, Friedrich August/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Edition_Peters" title="Category:Scores published by Edition Peters">Scores published by Edition Peters</a></li><li><a href="/wiki/Category:P%C3%A4sler,_Karl/Editor" title="Category:Päsler, Karl/Editor">Päsler, Karl/Editor</a></li><li><a href="/wiki/Category:Martienssen,_Carl_Adolf/Editor" title="Category:Martienssen, Carl Adolf/Editor">Martienssen, Carl Adolf/Editor</a></li><li><a href="/wiki/Category:Landon,_Christa/Editor" title="Category:Landon, Christa/Editor">Landon, Christa/Editor</a></li><li><a href="/wiki/Category:Urtext" title="Category:Urtext">Urtext</a></li><li><a href="/wiki/Category:Work_pages_with_links_to_recordings" title="Category:Work pages with links to recordings">Work pages with links to recordings</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Haydn,_Joseph" title="Category:Haydn, Joseph">Haydn, Joseph</a></li><li><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical style</a></li><li><a href="/wiki/Category:Classical" title="Category:Classical">Classical</a></li><li><a href="/wiki/Category:Sonatas" title="Category:Sonatas">Sonatas</a></li><li><a href="/wiki/Category:For_piano" title="Category:For piano">For piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_harpsichord" title="Category:For harpsichord">For harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:Works_first_published_in_1780" title="Category:Works first published in 1780">Works first published in 1780</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:C_minor" title="Category:C minor">C minor</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Keyboard_Sonata_in_C_minor%2C_Hob.XVI%3A20_%28Haydn%2C_Joseph%29">16,755 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Keyboard%20Sonata%20in%20C%20minor%2C%20Hob.XVI%3A20%20%28Haydn%2C%20Joseph%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.605 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416113828 -->
+</html>
+		

@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Prelude and Fugue, WoO 9 (Brahms, Johannes) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)", "wgTitle": "Prelude and Fugue, WoO 9 (Brahms, Johannes)", "wgCurRevisionId": 2476753, "wgArticleId": 57146, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Library of Congress", "Manuscripts", "Pages with First Editions", "Mandyczewski, Eusebius/Editor", "Scores published by Breitkopf und Härtel", "Scores", "Brahms, Johannes", "Romantic style", "Romantic", "Preludes", "Fugues", "For organ", "Scores featuring the organ", "For 1 player", "Works first published in 1927", "Works first published in the 20th century", "A minor", "Schumann, Clara/Dedicatee"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Prelude_and_Fugue_WoO_9_Brahms_Johannes action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)&amp;oldid=2476753" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Prelude%20and%20Fugue%2C%20WoO%209%20%28Brahms%2C%20Johannes%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Prelude and Fugue, WoO 9 (Brahms, Johannes)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2 sections
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1856
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Preludes&amp;transclude=Template:Catintro">Preludes</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Fugues&amp;transclude=Template:Catintro">Fugues</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="expandline" title="2 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Prelude and Fugue, WoO 9","composer":"Brahms, Johannes","comphref":"\/wiki\/Category:Brahms,_Johannes"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"prelude and fugue","itunes":"prelude and fugue","composer":"brahms","scorekeywords":"prelude and fugue","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":100,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CCLCDG1188.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CCLCDG1188.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCCLCDG1188","desc":"BACH, J.S.: Prelude and Fugue, BWV 566 \/ Air on a G String \/ BRAHMS, J.: Intermezzo in A Major (Coming to the Mill - A Musical Evening for L.S. Lowry)","label":"The Gift of Music","category":"Choral - Sacred - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bach, Johann Sebastian -- Haydn, Franz Joseph -- Beethoven, Ludwig van -- Bellini, Vincenzo -- Donizetti, Gaetano -- Brahms, Johannes","artist":"Callas, Maria -- Bernius, Frieder -- Serafin, Tullio -- W\u00fcrttemberg Chamber Orchestra -- Swarowsky, Hans -- London Philharmonic Orchestra -- Milan La Scala Orchestra -- North German Radio Philharmonic Orchestra -- Roos, Christof -- Bamberg Philharmonic Orchestra -- Bulgarian National Radio Symphony Orchestra -- Souter, Martin -- Jackson, Don -- Marques, Patrick -- Landor, John","country":"Austria Germany Italy","catid":"CCLCDG1188","cdinfo":[[["Mozart, Wolfgang Amadeus",[["Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro","mediaplayer\/player.asp?br=128&tl=684782",[]]]],["Bach, Johann Sebastian",[["Overture (Suite) No. 3 in D Major, BWV 1068: II. Air, \"Air on a G String\"","mediaplayer\/player.asp?br=128&tl=684783",[]]]],["Brahms, Johannes",[["Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto","mediaplayer\/player.asp?br=128&tl=684784",[]]]],["Bach, Johann Sebastian",[["Prelude and Fugue in E Major, BWV 566","mediaplayer\/player.asp?br=128&tl=684785",[]]]],["Haydn, Franz Joseph",[["Mass No. 7 in B-Flat Major, Hob.XXII:7, \"Missa brevis Sancti Joannis de Deo\", \"Kleine Orgelmesse\" (Little Organ Mass): Benedictus","mediaplayer\/player.asp?br=128&tl=684786",[]]]],["Bellini, Vincenzo",[["Norma, Act I: Casta diva","mediaplayer\/player.asp?br=128&tl=684787",[]]]],["Brahms, Johannes",[["6 Piano Pieces, Op. 118: No. 2. Intermezzo in A Major","mediaplayer\/player.asp?br=128&tl=684788",[]]]],["Donizetti, Gaetano",[["L'elisir d'amore (The Elixir of Love), Act II: Una furtiva lagrima","mediaplayer\/player.asp?br=128&tl=684789",[]]]],["Haydn, Franz Joseph",[["Keyboard Sonata (Partita) No. 10 in C Major, Hob.XVI:1: II. Adagio","mediaplayer\/player.asp?br=128&tl=684790",[]]]],["Beethoven, Ludwig van",[["Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio","mediaplayer\/player.asp?br=128&tl=684791",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=825646033737.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=825646033737.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D825646033737","desc":"BRAHMS, J.: Piano Quartet No. 1 \/ BACH, J.S.: Prelude and Fugue, BWV 552 (arr. A. Schoenberg) (Warsaw Philharmonic, Kaspszyk)","label":"Warner Classics","category":"Orchestral - Classical Music","composer":"Bach, Johann Sebastian -- Brahms, Johannes","artist":"Warsaw Philharmonic Orchestra -- Kaspszyk, Jacek","country":"Austria Germany","catid":"825646033737","cdinfo":[[["Brahms, Johannes",[["Piano Quartet No. 1 in G Minor, Op. 25 (arr. A. Schoenberg for orchestra)","mediaplayer\/player.asp?br=128&tl=2461502|2461503|2461504|2461505",["I. Allegro","II. Intermezzo","III. Andante con moto","IV. Rondo alla zingarese"]]]],["Bach, Johann Sebastian",[["Prelude and Fugue in E-Flat Major, BWV 552 (arr. A. Schoenberg)","mediaplayer\/player.asp?br=128&tl=2461506",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TLS195.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TLS195.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTLS195","desc":"Piano Recital: Krist, Michael - BUSONI, F. \/ REGER, M. \/ TCHAIKOVSKY, P.I. \/ BRAHMS, J.","label":"Telos Music","category":"Instrumental - Classical Music","composer":"Reger, Max -- Busoni, Ferruccio -- Tchaikovsky, Pyotr Il'yich -- Brahms, Johannes","artist":"Krist, Michael","country":"Germany Italy Russia","catid":"TLS195","cdinfo":[[["Busoni, Ferruccio",[["Variations and Fugue in Free Form on Chopin's C Minor Prelude, Op. 22","mediaplayer\/player.asp?br=128&tl=2172589|2172590|2172591|2172592|2172593|2172594|2172595|2172596|2172597|2172598|2172599|2172600|2172601|2172602|2172603|2172604|2172605|2172606|2172607|2172608",["Theme","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12","Variation 13","Variation 14","Variation 15","Variation 16","Variation 17","Variation 18","Fugue"]]]],["Reger, Max",[["Variations and Fugue on a Theme of J.S. Bach, Op. 81","mediaplayer\/player.asp?br=128&tl=2172609|2172610|2172611|2172612|2172613|2172614|2172615|2172616|2172617|2172618|2172619|2172620|2172621|2172622|2172623|2172624",["Thema","Variation 1","Variation 2","Variation 3","Variation 4","Variation 5","Variation 6","Variation 7","Variation 8","Variation 9","Variation 10","Variation 11","Variation 12","Variation 13","Variation 14","Fugue"]]]]],[["Tchaikovsky, Pyotr Il'yich",[["Grand Sonata in G Major, Op. 37","mediaplayer\/player.asp?br=128&tl=2172625|2172626|2172627|2172628",["I. Moderato e risoluto","II. Andante non troppo quasi moderato","III. Scherzo: Allegro giocoso","IV. Finale: Allegro vivace"]]]],["Brahms, Johannes",[["28 Variations on a Theme by Paganini, Op. 35","mediaplayer\/player.asp?br=128&tl=2172629|2172630|2172631|2172632|2172633|2172634|2172635|2172636|2172637|2172638|2172639|2172640|2172641|2172642|2172643|2172644|2172645|2172646|2172647|2172648|2172649|2172650|2172651|2172652|2172653|2172654|2172655|2172656|2172657",["Book 1: Theme","Book 1: Variation 1","Book 1: Variation 2","Book 1: Variation 3","Book 1: Variation 4","Book 1: Variation 5","Book 1: Variation 6","Book 1: Variation 7","Book 1: Variation 8","Book 1: Variation 9","Book 1: Variation 10","Book 1: Variation 11","Book 1: Variation 12","Book 1: Variation 13","Book 1: Variation 14","Book 2: Variation 1","Book 2: Variation 2","Book 2: Variation 3","Book 2: Variation 4","Book 2: Variation 5","Book 2: Variation 6","Book 2: Variation 7","Book 2: Variation 8","Book 2: Variation 9","Book 2: Variation 10","Book 2: Variation 11","Book 2: Variation 12","Book 2: Variation 13","Book 2: Variation 14"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=JAV170.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=JAV170.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DJAV170","desc":"BRAHMS, J.: Organ Music (Hanoian)","label":"JAV Recordings","category":"Instrumental - Classical Music","composer":"Brahms, Johannes","artist":"Hanoian, Scott","country":"Germany","catid":"JAV170","cdinfo":[[["Brahms, Johannes",[["11 Chorale Preludes, Op. 122","mediaplayer\/player.asp?br=128&tl=1475693|1475694|1475695|1475696|1475697|1475698|1475699|1475700|1475701|1475702|1475703",["No. 1. Mein Jesu, der du mich","No. 2. Herzliebster Jesu","No. 3. O Welt, ich muss dich lassen","No. 4. Herzlich tut mich erfreuen","No. 5. Schmucke dich, o liebe Seele","No. 6. O wie selig seid ihr doch","No. 7. O Gott, du frommer Gott","No. 8. Es ist ein Ros' entsprungen","No. 9. Herzlich tut mich verlangen","No. 10. Herzlich tut mich verlangen","No. 11. O Welt, ich muss dich lassen"]],["Prelude and Fugue in A Minor, WoO 9: Prelude","mediaplayer\/player.asp?br=128&tl=1475704|1475705",["Prelude","Fugue"]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=1475706|1475707",["Chorale Prelude","Fugue"]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=1475708",[]],["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=1475709|1475710",["Prelude","Fugue"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=OVCL-00436.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=OVCL-00436.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DOVCL-00436","desc":"DVORAK, A.: Symphony No. 7 (arr. A. Barta) \/ BRAHMS, J.: Preludes and Fugues, WoO 7, 8, 9, 10 (Barta)","label":"Exton","category":"Instrumental - Classical Music","composer":"Dvo\u0159\u00e1k, Anton\u00edn -- Brahms, Johannes","artist":"Barta, Ales","country":"Czech Republic Germany","catid":"OVCL-00436","cdinfo":[[["Dvo&#345;&#225;k, Anton&#237;n",[["Symphony No. 7 in D Minor, Op. 70, B. 141 (arr. A. Barta)","mediaplayer\/player.asp?br=128&tl=1519680|1519681|1519682|1519683",["I. Allegro maestoso","II. Poco adagio","III. Scherzo: Vivace","IV. Finale: Allegro"]]]],["Brahms, Johannes",[["Prelude and Fugue in A Minor, WoO 9","mediaplayer\/player.asp?br=128&tl=1519811|1519812",["Prelude","Fugue"]],["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=1519813|1519814",["Prelude","Fugue"]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=1519834",[]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=1519835|1519836",["Chorale Prelude","Fugue"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ADW7315.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ADW7315.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DADW7315","desc":"BRAHMS, J.: Organ Music (Complete) (Golebiowski)","label":"Pavane Records","category":"Instrumental - Classical Music","composer":"Brahms, Johannes","artist":"Golebiowski, Karol","country":"Germany","catid":"ADW7315","cdinfo":[[["Brahms, Johannes",[["Prelude and Fugue in A Minor, WoO 9","mediaplayer\/player.asp?br=128&tl=1609863|1609864",["Prelude","Fugue"]],["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=1609865|1609866",["Prelude","Fugue"]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=1609867",[]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=1609868|1609869",["Prelude","Fugue"]],["11 Chorale Preludes, Op. 122","mediaplayer\/player.asp?br=128&tl=1609870|1609871|1609872|1609873|1609874|1609875|1609876|1609877|1609878|1609879|1609880",["No. 1. Mein Jesu, der du mich","No. 2. Herzliebster Jesu","No. 3. O Welt, ich muss dich lassen","No. 4. Herzlich tut mich erfreuen","No. 5. Schmucke dich, o liebe Seele","No. 6. O wie selig seid ihr doch","No. 7. O Gott, du frommer Gott","No. 8. Es ist ein Ros' entsprungen","No. 9. Herzlich tut mich verlangen","No. 10. Herzlich tut mich verlangen","No. 11. O Welt, ich muss dich lassen"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ARS38023.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ARS38023.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DARS38023","desc":"BRAHMS, J.: 11 Chorale Preludes \/ Preludes and Fugues - WoO 7-10 (Schmeding)","label":"Ars Produktion","category":"Instrumental - Classical Music","composer":"Brahms, Johannes","artist":"Schmeding, Martin","country":"Germany","catid":"ARS38023","cdinfo":[[["Brahms, Johannes",[["Prelude and Fugue in A Minor, WoO 9","mediaplayer\/player.asp?br=128&tl=536850|536851",["Prelude","Fugue"]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=536852|536853",["Chorale Prelude","Fugue"]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=536854",[]],["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=536855|536856",["Prelude","Fugue"]],["11 Chorale Preludes, Op. 122","mediaplayer\/player.asp?br=128&tl=537097|537098|537099|537100|537101|537102|537103|537104|537105|537106|537107",["No. 1. Mein Jesu, der du mich","No. 2. Herzliebster Jesu","No. 3. O Welt, ich muss dich lassen","No. 4. Herzlich tut mich erfreuen","No. 5. Schmucke dich, o liebe Seele","No. 6. O wie selig seid ihr doch","No. 7. O Gott, du frommer Gott","No. 8. Es ist ein Ros' entsprungen","No. 9. Herzlich tut mich verlangen","No. 10. Herzlich tut mich verlangen","No. 11. O Welt, ich muss dich lassen"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ABCD121.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ABCD121.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DABCD121","desc":"BRAHMS: Complete Organ Works","label":"Alba","category":"Instrumental - Classical Music","composer":"Brahms, Johannes","artist":"Vuola, Kari","country":"Germany","catid":"ABCD121","cdinfo":[[["Brahms, Johannes",[["Prelude and Fugue in A Minor, WoO 9","mediaplayer\/player.asp?br=128&tl=201253|201254",[]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=201255",[]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=201256|201257",[]],["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=201258|201259",[]],["11 Chorale Preludes, Op. posth. 122","mediaplayer\/player.asp?br=128&tl=201260|201261|201262|201263|201264|201265|201266|201267|201268|201269|201270",["No. 1. Mein Jesu, der du mich","No. 2. Herzliebster Jesu","No. 3. O Welt, ich muss dich lassen, 2\/2","No. 4. Herzlich tut mich erfreuen","No. 5. Schmucke dich, o liebe Seele","No. 6. O wie selig seid ihr doch, ihr Frommen","No. 7. O Gott, du frommer Gott","No. 8. Es ist ein Ros' entsprungen","No. 9. Herzlich tut mich verlangen, C","No. 10. Herzlich tut mich verlangen, 6\/8","No. 11. O Welt, ich muss dich lassen, C"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PSC1137.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PSC1137.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPSC1137","desc":"BRAHMS, J.: Organ Music (Nordstoga)","label":"Simax Classics","category":"Instrumental - Classical Music","composer":"Brahms, Johannes","artist":"Nordstoga, Kare","country":"Germany","catid":"PSC1137","cdinfo":[[["Brahms, Johannes",[["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=474356|474357",[]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=474358",[]],["Prelude and Fugue in A Minor, WoO 9","mediaplayer\/player.asp?br=128&tl=474359|474360",[]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=474361|474362",[]],["11 Chorale Preludes, Op. 122","mediaplayer\/player.asp?br=128&tl=474363|474364|474365|474366|474367|474368|474369|474370|474371|474372|474373",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CLASSCD421.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CLASSCD421.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCLASSCD421","desc":"BRAHMS, J.: Preludes and Fugues - WoO 7, 8, 9, 10 \/ 11 Chorale Preludes (Hansen)","label":"Classico","category":"Instrumental - Classical Music","composer":"Brahms, Johannes","artist":"Hansen, Soren Gleerup","country":"Germany","catid":"CLASSCD421","cdinfo":[[["Brahms, Johannes",[["Prelude and Fugue in A Minor, WoO 9","mediaplayer\/player.asp?br=128&tl=871325|871326",["Prelude","Fugue"]],["Chorale Prelude and Fugue in A Minor on O Traurigkeit, o Herzeleid, WoO 7","mediaplayer\/player.asp?br=128&tl=871327|871328",["Chorale Prelude","Fugue"]],["11 Chorale Preludes, Op. 122 (excerpts)","mediaplayer\/player.asp?br=128&tl=871329|871330|871331|871332|871333|871334",["No. 10. Herzlich tut mich verlangen","No. 2. Herzliebster Jesu","No. 5. Schmucke dich, o liebe Seele","No. 4. Herzlich tut mich erfreuen","No. 8. Es ist ein Ros' entsprungen","No. 11. O Welt, ich muss dich lassen"]],["Fugue in A-Flat Minor, WoO 8","mediaplayer\/player.asp?br=128&tl=871349",[]],["11 Chorale Preludes, Op. 122 (excerpts)","mediaplayer\/player.asp?br=128&tl=871350|871351|871352|871353|871354",["No. 9. Herzlich tut mich verlangen","No. 7. O Gott, du frommer Gott","No. 1. Mein Jesu, der du mich","No. 6. O wie selig seid ihr doch","No. 3. O Welt, ich muss dich lassen"]],["Prelude and Fugue in G Minor, WoO 10","mediaplayer\/player.asp?br=128&tl=871355|871356",["Prelude","Fugue"]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/brahms%20prelude%20and%20fugue"};IMSLPNaxosSearch="brahms prelude and fugue";JGaskdonation=0;JGFileTools={"80411":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=80411"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP80411"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/80411"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/80411"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/80411"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%2380411"}},"120862":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=120862"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/120862\/120863\/25474\/120860\/120861\/e71a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP120862"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=120862"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/120862"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/120862"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23120862"}},"120863":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=120863"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/120862\/120863\/25474\/120860\/120861\/e71a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP120863"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=120863"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/120863"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/120863"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23120863"}},"25474":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=25474"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/120862\/120863\/25474\/120860\/120861\/e71a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP25474"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=25474"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/25474"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/25474"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%2325474"}},"120860":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=120860"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/120862\/120863\/25474\/120860\/120861\/e71a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP120860"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=120860"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/120860"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/120860"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23120860"}},"120861":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=120861"},"015-ZIPFILE":{"icon":52,"label":"Download 5 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/120862\/120863\/25474\/120860\/120861\/e71a"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP120861"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=120861"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/120861"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/120861"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Prelude+and+Fugue%2C+WoO+9+%28Brahms%2C+Johannes%29&frmTitle=IMSLP+%23120861"}}};JGFileOpts={"80411":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhUXrsEoqEQtLWNgO9BjAxOCYOlOuBb1UFCshYXZWC+3RHRGyqf2oGntgV5M80CfDuIVbAqJXMI58VeENC6YJH0"},"120862":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjo2+VDLfalq3Dt2WhWko95LfEpF65JjbsfQ7cyzDW8FkUOjVO8Vn910PVvvqZtfs3S\/pOGO2Eyv7BEKNz2bsGUgvDAGAN+kWEXeck17atPvM2mpEPtWsSEPbgG9NzjIwI="},"120863":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh8DM1iRQvPzyVYDtmOnm3NkzIVTYUP4bR2m1NsKFud6xBpr\/RU23yv7Q9GxEulynrxw5si2kBP7EWT7iwslFKx3z40nfYDkpXiZKjOnHbgzmUKama8CcD94RqNwtZGId0="},"25474":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biK4WUSXkU5U4lUhl2Vp5d4ExqfTRUFO7k6QnM0332Mbr1+Ja0z9EyAbfBWHzUYGm2jdXpaGZkhkQc3srb\/9+jI"},"120860":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjWBgEXI9Ozf8UoND3DrrNu\/soQ1K8DE\/Y88zv\/IgNBZRNcxbc8x1FZ\/ETkw6ypCAq19aczkpmbSchk9NIscZRyOXyVI3nCNtd6pXVC8xYx6CQG0uU5LQu9fpMXQVxNp+E="},"120861":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgztAdierpKSGFGer+jP61EyN+zkWi1K+iVzHKd1gewRyrx5d5KknH3TWh+s02VFyMfjIOE+F4utyGQW9IvrkKyNEUiM7RDrCGmSJMV0XVq6hSRLzx7CAqZYK\/gQXn31PI="}};JGPageUntagged=false;JGPageTags=["preludes","fugues","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"25474":[5.1666666666667,"6"],"80411":[7,"4"],"120861":[2,"1"],"120862":[6.5,"4"],"120863":[8,"2"],"120860":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">6</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP80411" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/80411"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cc/PMLP57146-brahmsprelfuguesmanus.pdf" class="internal" title="PMLP57146-brahmsprelfuguesmanus.pdf">*</a></span><a href="/wiki/File:PMLP57146-brahmsprelfuguesmanus.pdf" title="File:PMLP57146-brahmsprelfuguesmanus.pdf">#80411</a> - 5.61MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-80411' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-80411'>
+	<a href='javascript:void(0)' id='80411' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='80411' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='80411' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='80411' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='80411' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-80411'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/80411/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/80411/Prelude and Fugue, WoO 9 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4345"><a href="/wiki/Special:GetFCtrStats/@80411" title="Special:GetFCtrStats/@80411">4345</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Schissel" title="User:Schissel">Schissel</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.loc.gov/index.html"><span style="border-bottom:1px dotted black" title="Library of Congress">US-Wc</span></a></span><br />
+<a href="/wiki/User:Schissel" title="User:Schissel">Schissel</a> (<span title="Updated: 2011/7/14" class="hovertext">2010/10/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Composer's Manuscript (holograph), 7 May 1856.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=80411">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=80411">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>(Initially published: Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf und Härtel</a>, 1927). Original scans: 400dpi, color tif files approximately 3650 by 4350 pixels.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="80411">Javascript is required for this feature.</div><script>JGINITsearchbars['80411']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-JBrahms_Prelude_and_Fugue,_WoO9.jpg" class="image"><img data-src="/images/thumb/6/64/TN-JBrahms_Prelude_and_Fugue%2C_WoO9.jpg/120px-TN-JBrahms_Prelude_and_Fugue%2C_WoO9.jpg" width="120" height="142" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP120862" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/120862"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (scan)</span></a></b> (<a href="/images/6/6c/PV-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" class="internal" title="PV-Brahms Werke Band 16 Breitkopf JB 85 WoO 9.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f8/PMLP57146-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9_scan.pdf" class="internal" title="PMLP57146-Brahms Werke Band 16 Breitkopf JB 85 WoO 9 scan.pdf">*</a></span><a href="/wiki/File:PMLP57146-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9_scan.pdf" title="File:PMLP57146-Brahms Werke Band 16 Breitkopf JB 85 WoO 9 scan.pdf">#120862</a> - 0.71MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-120862' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-120862'>
+	<a href='javascript:void(0)' id='120862' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='120862' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='120862' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='120862' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='120862' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-120862'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/120862/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/120862/Prelude and Fugue, WoO 9 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2280"><a href="/wiki/Special:GetFCtrStats/@120862" title="Special:GetFCtrStats/@120862">2280</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by piupianissimo<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2011/9/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_2" data-block="2">
+<p><b>⇒ <u>4 more</u>:</b> Complete Score (filter) • Complete Score (includes WoO 10 - lower resolution) • Title pages (scan) • Title pages (filter)
+</p>
+</div><div id="IMSLP120863" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/120863"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (filter)</span></a></b> (<a href="/images/6/6c/PV-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" class="internal" title="PV-Brahms Werke Band 16 Breitkopf JB 85 WoO 9.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/53/PMLP57146-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9_filter.pdf" class="internal" title="PMLP57146-Brahms Werke Band 16 Breitkopf JB 85 WoO 9 filter.pdf">*</a></span><a href="/wiki/File:PMLP57146-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9_filter.pdf" title="File:PMLP57146-Brahms Werke Band 16 Breitkopf JB 85 WoO 9 filter.pdf">#120863</a> - 0.54MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-120863' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-120863'>
+	<a href='javascript:void(0)' id='120863' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='120863' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='120863' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='120863' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='120863' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-120863'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/120863/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/120863/Prelude and Fugue, WoO 9 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1239"><a href="/wiki/Special:GetFCtrStats/@120863" title="Special:GetFCtrStats/@120863">1239</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by piupianissimo<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2011/9/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP25474" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/25474"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score (includes WoO 10 - lower resolution)</span></a></b> (<a href="/images/6/6c/PV-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" class="internal" title="PV-Brahms Werke Band 16 Breitkopf JB 85 WoO 9.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/05/PMLP57146-brahms-prelfugues.pdf" class="internal" title="PMLP57146-brahms-prelfugues.pdf">*</a></span><a href="/wiki/File:PMLP57146-brahms-prelfugues.pdf" title="File:PMLP57146-brahms-prelfugues.pdf">#25474</a> - 0.85MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-25474' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-25474'>
+	<a href='javascript:void(0)' id='25474' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='25474' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='25474' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='25474' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='25474' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-25474'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/25474/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/25474/Prelude and Fugue, WoO 9 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3246"><a href="/wiki/Special:GetFCtrStats/@25474" title="Special:GetFCtrStats/@25474">3246</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by piupianissimo<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (<span title="Updated: 2008/12/17" class="hovertext">2011/9/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP120860" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/120860"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Title pages (scan)</span></a></b> (<a href="/images/6/6c/PV-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" class="internal" title="PV-Brahms Werke Band 16 Breitkopf JB 85 WoO 9.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d6/PMLP57146-Brahms_Werke_Band_16_Breitkopf_Titel_scan.pdf" class="internal" title="PMLP57146-Brahms Werke Band 16 Breitkopf Titel scan.pdf">*</a></span><a href="/wiki/File:PMLP57146-Brahms_Werke_Band_16_Breitkopf_Titel_scan.pdf" title="File:PMLP57146-Brahms Werke Band 16 Breitkopf Titel scan.pdf">#120860</a> - 0.46MB, 8 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-120860' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-120860'>
+	<a href='javascript:void(0)' id='120860' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='120860' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='120860' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='120860' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='120860' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-120860'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/120860/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/120860/Prelude and Fugue, WoO 9 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 793"><a href="/wiki/Special:GetFCtrStats/@120860" title="Special:GetFCtrStats/@120860">793</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by piupianissimo<br />
+<a href="/wiki/User:Piupianissimo" title="User:Piupianissimo">piupianissimo</a> (2011/9/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP120861" class="we_file we_fileblock_2 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/120861"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Title pages (filter)</span></a></b> (<a href="/images/6/6c/PV-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" class="internal" title="PV-Brahms Werke Band 16 Breitkopf JB 85 WoO 9.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/17/PMLP57146-Brahms_Werke_Band_16_Breitkopf_Titel_filter.pdf" class="internal" title="PMLP57146-Brahms Werke Band 16 Breitkopf Titel filter.pdf">*</a></span><a href="/wiki/File:PMLP57146-Brahms_Werke_Band_16_Breitkopf_Titel_filter.pdf" title="File:PMLP57146-Brahms Werke Band 16 Breitkopf Titel filter.pdf">#120861</a> - 0.39MB, 8 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-120861' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-120861'>
+	<a href='javascript:void(0)' id='120861' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='120861' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='120861' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='120861' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='120861' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-120861'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/120861/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)" title="Special:IMSLPEditCTag/120861/Prelude and Fugue, WoO 9 (Brahms, Johannes)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 412"><a href="/wiki/Special:GetFCtrStats/@120861" title="Special:GetFCtrStats/@120861">412</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Abra" title="User:Abra">Abra</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span title="Ukrainian Music Library" class="hovertext">Ukrainian Music...</span><br />
+<a href="/wiki/User:Abra" title="User:Abra">Abra</a> (<span title="Updated: 2011/9/8" class="hovertext">2008/12/16</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition<br /><a href="/wiki/Category:Mandyczewski,_Eusebius" title="Category:Mandyczewski, Eusebius">Eusebius Mandyczewski</a> (1857-1929)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><a href="/wiki/S%C3%A4mtliche_Werke_(Brahms,_Johannes)" title="Sämtliche Werke (Brahms, Johannes)"><i>Johannes Brahms: Sämtliche Werke</i></a>, <i>Band 16: Orgelwerke</i> <br />Leipzig: <a href="/wiki/Breitkopf_und_H%C3%A4rtel" title="Breitkopf und Härtel">Breitkopf &amp; Härtel</a><!--ASL0-->, 1926-27.  Plate J.B. 85.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=120862/120863/25474/120860/120861">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=120862/120863/25474/120860/120861">del</a>/<span id="fmrglnk" data-pdfstr="120862//120863//25474//120860//120861/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>scan: score scanned at 600dpi<br />filter: score filtered with 2-point algorithm explained in <a href="/wiki/IMSLP:High_Quality_Scanning" title="IMSLP:High Quality Scanning">High Quality Scanning</a><br />I provide the original scanned version and the filtered, because the filter does some changes (smoothening, sharpening borders) and some portions of the scan get lost sometimes (when they are too small e.g.) - so you can choose your favorite. You may ask me for a manually cleaned version.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="120862">Javascript is required for this feature.</div><script>JGINITsearchbars['120862']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=120862|120863|25474|120860|120861&type=Complete%20Score%20%28scan%29%7CComplete%20Score%20%28filter%29%7CComplete%20Score%20%28includes%20WoO%2010%20-%20lower%20resolution%29%7CTitle%20pages%20%28scan%29%7CTitle%20pages%20%28filter%29&pgcount=6|6|16|8|8&signature=1e3875bbf5a49cea05c5c0bf5c1cf7718859238c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:TN-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" class="image"><img data-src="/images/thumb/a/ac/TN-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg/120px-TN-Brahms_Werke_Band_16_Breitkopf_JB_85_WoO_9.jpg" width="120" height="170" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Prelude and Fugue
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Brahms,_Johannes" title="Category:Brahms, Johannes">Brahms, Johannes</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>WoO 9
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IJB 95
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>A minor
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2 sections:
+<ol><li> Allegro (A minor)
+</li><li> Fugue (A minor)
+</li></ol>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1856
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1929-11-15 in Berlin. <a href="/wiki/Category:Sittard,_Alfred" title="Category:Sittard, Alfred">Alfred Sittard</a> (organ).
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1927
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td><a href="/wiki/Category:Schumann,_Clara" title="Category:Schumann, Clara">Clara Schumann</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>6 minutes
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>organ
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<table class="collapsible" width="95%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="3" align="center" style="background-color:#bbccdd">Keyboard Works by <a href="/wiki/Category:Brahms,_Johannes" title="Category:Brahms, Johannes">Johannes Brahms</a>
+</th></tr>
+<tr>
+<td valign="top" style="background-color:#e6f0f5"><b>Music for 2 Pianos</b>
+<ul><li><a href="/wiki/Sonata_for_2_Pianos,_Op.34b_(Brahms,_Johannes)" title="Sonata for 2 Pianos, Op.34b (Brahms, Johannes)">Sonata for 2 Pianos, Op.34b</a>
+</li><li><a href="/wiki/Variations_on_a_Theme_by_Haydn,_Op.56_(Brahms,_Johannes)" title="Variations on a Theme by Haydn, Op.56 (Brahms, Johannes)">Variations on a Theme by Haydn, Op.56</a>
+</li></ul>
+</td>
+<td rowspan="4" valign="top" width="33%" style="background-color:#e6f0f5">
+<ul><li><a href="/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.9_(Brahms,_Johannes)" title="Variations on a Theme by Robert Schumann, Op.9 (Brahms, Johannes)">Variations on a Theme by Robert Schumann, Op.9</a>
+</li><li><a href="/wiki/4_Ballades,_Op.10_(Brahms,_Johannes)" title="4 Ballades, Op.10 (Brahms, Johannes)">4 Ballades, Op.10</a>
+</li><li><a href="/wiki/Theme_and_Variations,_Op.18b_(Brahms,_Johannes)" title="Theme and Variations, Op.18b (Brahms, Johannes)">Theme and Variations, Op.18b</a>
+</li><li><a href="/wiki/Variations_on_an_Original_Theme,_Op.21_No.1_(Brahms,_Johannes)" title="Variations on an Original Theme, Op.21 No.1 (Brahms, Johannes)">Variations on an Original Theme, Op.21 No.1</a>
+</li><li><a href="/wiki/Variations_on_a_Hungarian_Song,_Op.21_No.2_(Brahms,_Johannes)" title="Variations on a Hungarian Song, Op.21 No.2 (Brahms, Johannes)">Variations on a Hungarian Song, Op.21 No.2</a>
+</li><li><a href="/wiki/Variations_and_Fugue_on_a_Theme_by_Handel,_Op.24_(Brahms,_Johannes)" title="Variations and Fugue on a Theme by Handel, Op.24 (Brahms, Johannes)">Variations and Fugue on a Theme by Handel, Op.24 </a>
+</li><li><a href="/wiki/Variations_on_a_Theme_by_Paganini,_Op.35_(Brahms,_Johannes)" title="Variations on a Theme by Paganini, Op.35 (Brahms, Johannes)">Variations on a Theme by Paganini, Op.35</a>
+</li><li><a href="/wiki/16_Waltzes,_Op.39_(Brahms,_Johannes)" title="16 Waltzes, Op.39 (Brahms, Johannes)">16 Waltzes, Op.39</a>
+</li><li><a href="/wiki/8_Klavierst%C3%BCcke,_Op.76_(Brahms,_Johannes)" title="8 Klavierstücke, Op.76 (Brahms, Johannes)">8 Klavierstücke, Op.76</a>
+</li><li><a href="/wiki/2_Rhapsodies,_Op.79_(Brahms,_Johannes)" title="2 Rhapsodies, Op.79 (Brahms, Johannes)">2 Rhapsodies, Op.79</a>
+</li><li><a href="/wiki/7_Fantasien,_Op.116_(Brahms,_Johannes)" title="7 Fantasien, Op.116 (Brahms, Johannes)">7 Fantasien, Op.116</a>
+</li><li><a href="/wiki/3_Intermezzi,_Op.117_(Brahms,_Johannes)" title="3 Intermezzi, Op.117 (Brahms, Johannes)">3 Intermezzi, Op.117</a>
+</li><li><a href="/wiki/6_Klavierst%C3%BCcke,_Op.118_(Brahms,_Johannes)" title="6 Klavierstücke, Op.118 (Brahms, Johannes)">6 Klavierstücke, Op.118</a>
+</li></ul>
+</td>
+<td rowspan="3" valign="top" width="33%" style="background-color:#e6f0f5">
+<ul><li><a href="/wiki/4_Klavierst%C3%BCcke,_Op.119_(Brahms,_Johannes)" title="4 Klavierstücke, Op.119 (Brahms, Johannes)">4 Klavierstücke, Op.119</a>
+</li><li><a href="/wiki/5_Studies,_Anh.1a/1_(Brahms,_Johannes)" title="5 Studies, Anh.1a/1 (Brahms, Johannes)">5 Studies, Anh.1a/1</a>
+</li><li><a href="/wiki/Study_for_the_Left_Hand,_Anh.4/2_(Brahms,_Johannes)" title="Study for the Left Hand, Anh.4/2 (Brahms, Johannes)">Study for the Left Hand, Anh.4/2</a>
+</li><li><a href="/wiki/2_Gigues,_WoO_4_(Brahms,_Johannes)" title="2 Gigues, WoO 4 (Brahms, Johannes)">2 Gigues, WoO 4</a>
+</li><li><a href="/wiki/2_Sarabandes,_WoO_5_(Brahms,_Johannes)" title="2 Sarabandes, WoO 5 (Brahms, Johannes)">2 Sarabandes, WoO 5</a>
+</li><li><a href="/wiki/51_Exercises,_WoO_6_(Brahms,_Johannes)" title="51 Exercises, WoO 6 (Brahms, Johannes)">51 Exercises, WoO 6</a>
+</li><li><a href="/wiki/Albumblatt_in_A_minor_(Brahms,_Johannes)" title="Albumblatt in A minor (Brahms, Johannes)">Albumblatt in A minor</a>
+</li></ul>
+</td></tr>
+<tr>
+<td rowspan="1" valign="top" width="33%" style="background-color:#e6f0f5"><b>Music for Piano 4 hands</b>
+<ul><li><a href="/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.23_(Brahms,_Johannes)" title="Variations on a Theme by Robert Schumann, Op.23 (Brahms, Johannes)">Variations on a Theme by Robert Schumann, Op.23</a>
+</li><li><a href="/wiki/16_Waltzes,_Op.39_(Brahms,_Johannes)" title="16 Waltzes, Op.39 (Brahms, Johannes)">16 Waltzes, Op.39</a>
+</li><li><a href="/wiki/21_Hungarian_Dances_(Piano),_WoO_1_(Brahms,_Johannes)" title="21 Hungarian Dances (Piano), WoO 1 (Brahms, Johannes)">21 Hungarian Dances, WoO 1</a>
+</li></ul>
+</td></tr>
+<tr>
+<td rowspan="2" valign="top" width="33%" style="background-color:#e6f0f5"><b>Music for Piano</b>
+<ul><li><a href="/wiki/Piano_Sonata_No.1,_Op.1_(Brahms,_Johannes)" title="Piano Sonata No.1, Op.1 (Brahms, Johannes)">Piano Sonata No.1, Op.1</a>
+</li><li><a href="/wiki/Piano_Sonata_No.2,_Op.2_(Brahms,_Johannes)" title="Piano Sonata No.2, Op.2 (Brahms, Johannes)">Piano Sonata No.2, Op.2</a> 
+</li><li><a href="/wiki/Scherzo,_Op.4_(Brahms,_Johannes)" title="Scherzo, Op.4 (Brahms, Johannes)">Scherzo, Op.4</a>
+</li><li><a href="/wiki/Piano_Sonata_No.3,_Op.5_(Brahms,_Johannes)" title="Piano Sonata No.3, Op.5 (Brahms, Johannes)">Piano Sonata No.3, Op.5</a>
+</li></ul>
+</td></tr>
+<tr>
+<td rowspan="1" valign="top" width="33%" style="background-color:#e6f0f5"><b>Music for Organ</b>
+<ul><li><a href="/wiki/11_Chorale_Preludes,_Op.122_(Brahms,_Johannes)" title="11 Chorale Preludes, Op.122 (Brahms, Johannes)">11 Chorale Preludes, Op.122</a>
+</li><li><a href="/wiki/Chorale_Prelude_and_Fugue_on_%27O_Traurigkeit,_o_Herzeleid%27,_WoO_7_(Brahms,_Johannes)" title="Chorale Prelude and Fugue on 'O Traurigkeit, o Herzeleid', WoO 7 (Brahms, Johannes)">Chorale Prelude and Fugue on 'O Traurigkeit, o Herzeleid', WoO 7</a>
+</li><li><a href="/wiki/Fugue,_WoO_8_(Brahms,_Johannes)" title="Fugue, WoO 8 (Brahms, Johannes)">Fugue, WoO 8</a>
+</li><li><strong class="selflink">Prelude and Fugue, WoO 9</strong>
+</li><li><a href="/wiki/Prelude_and_Fugue,_WoO_10_(Brahms,_Johannes)" title="Prelude and Fugue, WoO 10 (Brahms, Johannes)">Prelude and Fugue, WoO 10</a>
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 500/1000000
+Post-expand include size: 39974/2097152 bytes
+Template argument size: 400/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:57146-0!*!0!!en!2!* and timestamp 20180417071525 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)&amp;oldid=2476753">http://imslp.org/index.php?title=Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)&amp;oldid=2476753</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Library_of_Congress" title="Category:Scores from the Library of Congress">Scores from the Library of Congress</a></li><li><a href="/wiki/Category:Manuscripts" title="Category:Manuscripts">Manuscripts</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Mandyczewski,_Eusebius/Editor" title="Category:Mandyczewski, Eusebius/Editor">Mandyczewski, Eusebius/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Breitkopf_und_H%C3%A4rtel" title="Category:Scores published by Breitkopf und Härtel">Scores published by Breitkopf und Härtel</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Brahms,_Johannes" title="Category:Brahms, Johannes">Brahms, Johannes</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Preludes" title="Category:Preludes">Preludes</a></li><li><a href="/wiki/Category:Fugues" title="Category:Fugues">Fugues</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Works_first_published_in_1927" title="Category:Works first published in 1927">Works first published in 1927</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:A_minor" title="Category:A minor">A minor</a></li><li><a href="/wiki/Category:Schumann,_Clara/Dedicatee" title="Category:Schumann, Clara/Dedicatee">Schumann, Clara/Dedicatee</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Prelude_and_Fugue%2C_WoO_9_%28Brahms%2C_Johannes%29">4,429 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Prelude%20and%20Fugue%2C%20WoO%209%20%28Brahms%2C%20Johannes%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.703 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180417071525 -->
+</html>
+		

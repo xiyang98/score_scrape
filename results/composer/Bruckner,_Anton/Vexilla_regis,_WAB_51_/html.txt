@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Vexilla regis, WAB 51 (Bruckner, Anton) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Vexilla_regis,_WAB_51_(Bruckner,_Anton)", "wgTitle": "Vexilla regis, WAB 51 (Bruckner, Anton)", "wgCurRevisionId": 2142609, "wgArticleId": 590355, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from Österreichische Nationalbibliothek", "Manuscripts from the 1800s", "Composers\' holographs from the 1800s", "Manuscripts", "Deubler, Bernhard/Editor", "Göllerich, August/Editor", "Bayer, Franz Xaver/Editor", "Aigner, Karl/Editor", "Pages with First Editions", "Scores published by Josef Weinberger", "Berberich, Ludwig/Editor", "Scores published by Edition Peters", "Reuter, Alexander/Editor", "Work pages with links to recordings", "Scores", "Bruckner, Anton", "Romantic style", "Romantic", "Sacred hymns", "Hymns", "Religious works", "For mixed chorus", "Scores featuring mixed chorus", "For unaccompanied chorus", "Latin language", "Works first published in 1892", "Works first published in the 19th century", "Phrygian mode", "Fortunatus, Venantius Honorius Clementianus/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Vexilla_regis_WAB_51_Bruckner_Anton action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Vexilla_regis,_WAB_51_(Bruckner,_Anton)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Vexilla_regis,_WAB_51_(Bruckner,_Anton)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Vexilla_regis,_WAB_51_(Bruckner,_Anton)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Vexilla_regis,_WAB_51_(Bruckner,_Anton)&amp;oldid=2142609" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Vexilla%20regis%2C%20WAB%2051%20%28Bruckner%2C%20Anton%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Vexilla regis, WAB 51 (Bruckner, Anton)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>Composition Year
+</th>
+<td>1892-02-09
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Sacred_hymns&amp;transclude=Template:Catintro">Sacred hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Hymns&amp;transclude=Template:Catintro">Hymns</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Religious_works&amp;transclude=Template:Catintro">Religious works</a></span>; <span class="expandline" title="4 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_mixed_chorus&amp;transclude=Template:Catintro">For mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_chorus&amp;transclude=Template:Catintro">For unaccompanied chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Latin_language&amp;transclude=Template:Catintro">Latin language</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Vexilla regis, WAB 51","composer":"Bruckner, Anton","comphref":"\/wiki\/Category:Bruckner,_Anton"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"vexilla regis","itunes":"vexilla regis","composer":"bruckner","scorekeywords":"vexilla regis","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":14,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=8.550956.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=8.550956.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D8.550956","desc":"BRUCKNER: Motets","label":"Naxos","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Morley, Matthew -- Jones, Robert","country":"Austria Italy","catid":"8.550956","cdinfo":[[["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=5992",[]]]],["Bruckner, Anton",[["Locus iste, WAB 23","mediaplayer\/player.asp?br=128&tl=5991",[]]]],["Bruckner, Anton",[["Libera me, WAB 21","mediaplayer\/player.asp?br=128&tl=5990",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=5985",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=5987",["Ecce sacerdos magnus, , WAB 13"]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=5997",[]]]],["Bruckner, Anton",[["Salvum fac populum tuum, WAB 40","mediaplayer\/player.asp?br=128&tl=5994",[]]]],["Bruckner, Anton",[["Afferentur regi, WAB 1","mediaplayer\/player.asp?br=128&tl=5984",[]]]],["Bruckner, Anton",[["Pange lingua, WAB 33","mediaplayer\/player.asp?br=128&tl=5993",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=5996",[]],["Virga Jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=5998",[]]]],["Bruckner, Anton",[["Inveni David, WAB 20","mediaplayer\/player.asp?br=128&tl=5989",[]]]],["Bruckner, Anton",[["Iam lucis orto sidere, WAB 18","mediaplayer\/player.asp?br=128&tl=5988",[]]]],["Bruckner, Anton",[["Tantum ergo, WAB 42","mediaplayer\/player.asp?br=128&tl=5995",[]]]],["Bruckner, Anton",[["Christus factus est, WAB 10","mediaplayer\/player.asp?br=128&tl=5986",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PPC9037.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PPC9037.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPPC9037","desc":"BRUCKNER, A.: Motets (Bergen Cathedral Choir, Mangersnes)","label":"Pro musica","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Mangersnes, Magnar -- Gronn, Tor -- Bergen Philharmonic Trombones -- Bjerkholdt, Trond","country":"Austria Italy","catid":"PPC9037","cdinfo":[[["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=449138",[]]]],["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=449139",[]]]],["Bruckner, Anton",[["Virga jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=449140",[]]]],["Bruckner, Anton",[["Christus factus est, WAB 11","mediaplayer\/player.asp?br=128&tl=449141",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=449142",[]],["Inveni David, WAB 19","mediaplayer\/player.asp?br=128&tl=449143",[]],["Afferentur regi, WAB 1","mediaplayer\/player.asp?br=128&tl=449144",[]]]],["Bruckner, Anton",[["Aequale No. 1 in C Minor, WAB 114","mediaplayer\/player.asp?br=128&tl=449145",[]],["Aequale No. 2 in C Minor, WAB 149","mediaplayer\/player.asp?br=128&tl=449146",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=449147",[]]]],["Bruckner, Anton",[["4 Tantum ergo, WAB 41","mediaplayer\/player.asp?br=128&tl=449148|449149|449150|449151",[]],["Tantum ergo, WAB 32","mediaplayer\/player.asp?br=128&tl=449152",[]],["Pange lingua, WAB 33","mediaplayer\/player.asp?br=128&tl=449153",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DCD34071.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DCD34071.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDCD34071","desc":"BRUCKNER, A.: Motets (St. Mary's Cathedral Choir, RSAMD Brass Orchestra, Ferguson)","label":"Delphian","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Ferguson, Duncan -- Royal Scottish Academy of Music and Drama Brass Orchestra","country":"Austria Italy","catid":"DCD34071","cdinfo":[[["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=1041547",[]]]],["Bruckner, Anton",[["Aequale No. 1 in C Minor, WAB 114","mediaplayer\/player.asp?br=128&tl=1041548",[]]]],["Bruckner, Anton",[["Totenlieder in E-Flat Major, WAB 47","mediaplayer\/player.asp?br=128&tl=1041549",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=1041550",[]]]],["Bruckner, Anton",[["Afferentur regi, WAB 1","mediaplayer\/player.asp?br=128&tl=1041551",[]]]],["Bruckner, Anton",[["Christus factus est, WAB 11","mediaplayer\/player.asp?br=128&tl=1041552",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=1041553",[]]]],["Bruckner, Anton",[["Virga jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=1041554",[]],["Locus iste, WAB 23","mediaplayer\/player.asp?br=128&tl=1041555",[]]]],["Bruckner, Anton",[["Pange lingua, WAB 33","mediaplayer\/player.asp?br=128&tl=1041556",[]]]],["Bruckner, Anton",[["Iam lucis orto sidere, WAB 18","mediaplayer\/player.asp?br=128&tl=1041557",[]]]],["Bruckner, Anton",[["Aequale No. 2 in C Minor, WAB 149","mediaplayer\/player.asp?br=128&tl=1041558",[]]]],["Bruckner, Anton",[["Libera me Domine, WAB 21","mediaplayer\/player.asp?br=128&tl=1041559",[]]]],["Bruckner, Anton",[["Totenlieder No. 2 in F Major, WAB 48","mediaplayer\/player.asp?br=128&tl=1041560",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=1041561",[]]]],["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=1041562",[]],["Inveni David, WAB 19","mediaplayer\/player.asp?br=128&tl=1041563",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MM2087.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MM2087.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMM2087","desc":"Trombone Music - RICHARDS, G. \/ TOMASI, H. \/ BRUCKNER, A. \/ LOEILLET, J.-P. \/ GOW, D. \/ LUIS, I. (Lullaby) (Tokyo Metropolitan Trombone Quartet)","label":"Meister Music","category":"Instrumental - Classical Music","composer":"Loeillet (Loeillet of London), Jean-Baptiste -- Tomasi, Henri -- Gow, David -- Bruckner, Anton -- Luis, Ingo -- Richards, Goff","artist":"Tokyo Metropolitan Trombone Quartet","country":"Austria Belgium France Germany United Kingdom United States","catid":"MM2087","cdinfo":[[["Richards, Goff",[["Suite for Trombones","mediaplayer\/player.asp?br=128&tl=1159608|1159609|1159610|1159611",["I. Fanfare: Grandly","II. Galop: Vivace","III. Lullaby: Flowingly","IV. Finale: Lively"]]]],["Tomasi, Henri",[["Etre ou ne pas etre","mediaplayer\/player.asp?br=128&tl=1159612",[]]]],["Bruckner, Anton",[["Pange lingua, WAB 33 (arr. R. Sauer)","mediaplayer\/player.asp?br=128&tl=1159613",[]],["Vexilla regis, WAB 51 (arr. R. Sauer)","mediaplayer\/player.asp?br=128&tl=1159614",[]],["Locus iste, WAB 23 (arr. R. Sauer)","mediaplayer\/player.asp?br=128&tl=1159615",[]]]],["Loeillet (Loeillet of London), Jean-Baptiste",[["Trumpet Sonata in G Major, Op. 1, No. 2 (arr. J. F. Michel)","mediaplayer\/player.asp?br=128&tl=1159616|1159617|1159618|1159619",["I. Andante","II. Allegro","III. Lento","IV. Allegro"]]]],["Gow, David",[["Suite for 4 Trombones, Op. 57","mediaplayer\/player.asp?br=128&tl=1159620|1159621|1159622|1159623|1159624",["I. Prelude: Moderato deciso","II. Slow Dance: Adagio sostenuto","III. Scherzo: Allegro vivo","IV. Valse triste: Adagio","V. Fuge: Andante risoluto"]]]],["Luis, Ingo",[["3 Jazzy Pieces, Vol. 1","mediaplayer\/player.asp?br=128&tl=1159625|1159626|1159627",["No. 1. Sunflower - Waltz","No. 2. Little Baby's Lullaby","No. 3. Faux - Bourbon"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PH07002.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PH07002.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPH07002","desc":"BRUCKNER: Latin Motets","label":"Profil","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Pfaff, Oly -- Bauerle, Klaus -- Czelusta, Wolfgang -- Redwig, Peter -- Resch, Fritz -- Hug, Manfred -- Zanotelli, Hans","country":"Austria Italy","catid":"PH07002","cdinfo":[[["Bruckner, Anton",[["Pange lingua, WAB 33","mediaplayer\/player.asp?br=128&tl=296531",[]]]],["Bruckner, Anton",[["Afferentur regi virgines, WAB 1","mediaplayer\/player.asp?br=128&tl=296532",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=296533",[]]]],["Bruckner, Anton",[["Christus factus est, WAB 10","mediaplayer\/player.asp?br=128&tl=296542",[]]]],["Bruckner, Anton",[["Locus iste, WAB 23","mediaplayer\/player.asp?br=128&tl=296644",[]]]],["Bruckner, Anton",[["Os justi meditabitur, WAB 30","mediaplayer\/player.asp?br=128&tl=296731",[]],["Inveni David, WAB 19","mediaplayer\/player.asp?br=128&tl=296735",[]]]],["Bruckner, Anton",[["Libera me Domine, WAB 21","mediaplayer\/player.asp?br=128&tl=296754",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=296777",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=296778",[]],["Virga jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=296779",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=296780",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=GEN89143.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=GEN89143.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DGEN89143","desc":"Recorder Quartet Arrangements - HAHNE, D. \/ SCHEIDT, S. \/ BEEFERMAN, G. \/ MORAVEC, P. \/ BRUCKNER, A. \/ KOSVINER, D. (Quartet New Generation)","label":"Genuin","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian -- Moravec, Paul -- Scheidt, Samuel -- Bruckner, Anton -- Hahne, Dorothee -- Beeferman, Gordon -- Kosviner, David","artist":"Quartet New Generation","country":"Austria Germany United States","catid":"GEN89143","cdinfo":[[["Hahne, Dorothee",[["Dance macabre (arr. for recorder quartet)","mediaplayer\/player.asp?br=128&tl=607263",[]]]],["Scheidt, Samuel",[["Fantasia, Io son ferito lasso, SSWV 103 (arr. for recorder quartet)","mediaplayer\/player.asp?br=128&tl=609262",[]]]],["Beeferman, Gordon",[["Passages","mediaplayer\/player.asp?br=128&tl=607265",[]]]],["Moravec, Paul",[["Mortal Flesh","mediaplayer\/player.asp?br=128&tl=607266",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51 (arr. for recorder quartet)","mediaplayer\/player.asp?br=128&tl=607267",[]]]],["Kosviner, David",[["in a world of agitated air","mediaplayer\/player.asp?br=128&tl=607268",[]]]],["Bach, Johann Sebastian",[["Die Kunst der Fuge (The Art of Fugue), BWV 1080: Fuga a 3 Soggetti (arr. for recorder quartet)","mediaplayer\/player.asp?br=128&tl=607269",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=C10081.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=C10081.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DC10081","desc":"BRUCKNER, A.: Motets (Dresdner Kreuzchor)","label":"Capriccio","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Flamig, Martin -- Walther, Ute -- Kastner, Hannes -- Winkler, Michael-Christfried -- Ude, Armin -- Essbach, Gerhard -- Zeumer, Manfred -- Hombsch, Hans -- Hoene, Barbara","country":"Austria Italy","catid":"C10081","cdinfo":[[["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=567079",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=567080",[]]]],["Bruckner, Anton",[["Christus factus est, WAB 11","mediaplayer\/player.asp?br=128&tl=567081",[]]]],["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=567082",[]],["Afferentur regi, WAB 1","mediaplayer\/player.asp?br=128&tl=567083",[]]]],["Bruckner, Anton",[["Pange lingua, WAB 33","mediaplayer\/player.asp?br=128&tl=567084",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=571884",[]]]],["Bruckner, Anton",[["Locus iste, WAB 23","mediaplayer\/player.asp?br=128&tl=567099",[]]]],["Bruckner, Anton",[["Tantum ergo, WAB 42","mediaplayer\/player.asp?br=128&tl=567100",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=567101",[]]]],["Bruckner, Anton",[["Inveni David, WAB 19","mediaplayer\/player.asp?br=128&tl=567102",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 5","mediaplayer\/player.asp?br=128&tl=567103",[]]]],["Bruckner, Anton",[["Libera me Domine, WAB 21","mediaplayer\/player.asp?br=128&tl=567104",[]]]],["Bruckner, Anton",[["Virga jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=567105",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TROY063.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TROY063.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTROY063","desc":"BRUCKNER: Choral Music (Roberts Wesleyan College Chorale)","label":"Albany","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Shewan, Paul -- Shewan, Robert -- Stedman, Erin -- Richardson, Jill -- Stuart, Thaddeus James -- Richardson, Jack -- Clickner, Brian -- Stell, Jeffrey -- Mosher, Allan -- Jones, Christopher -- Roberts Wesleyan College Brass Ensemble","country":"Austria Italy","catid":"TROY063","cdinfo":[[["Bruckner, Anton",[["Ave Maria, WAB 5","mediaplayer\/player.asp?br=128&tl=407684",[]],["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=407685",[]]]],["Bruckner, Anton",[["Aequale No. 1 in C Minor, WAB 114","mediaplayer\/player.asp?br=128&tl=410317",[]]]],["Bruckner, Anton",[["Afferentur regi, WAB 1","mediaplayer\/player.asp?br=128&tl=407687",[]]]],["Bruckner, Anton",[["Aequale No. 2 in C Minor, WAB 149","mediaplayer\/player.asp?br=128&tl=410318",[]]]],["Bruckner, Anton",[["Germanenzug, WAB 70","mediaplayer\/player.asp?br=128&tl=407689",[]]]],["Bruckner, Anton",[["Inveni David, WAB 19","mediaplayer\/player.asp?br=128&tl=407690",[]]]],["Bruckner, Anton",[["Trosterin Musik , WAB 88","mediaplayer\/player.asp?br=128&tl=407691",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=407692",[]]]],["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=407693",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 7","mediaplayer\/player.asp?br=128&tl=407864",[]],["Christus factus est, WAB 11","mediaplayer\/player.asp?br=128&tl=407865",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=407866",[]]]],["Bruckner, Anton",[["Ave regina coelorum, WAB 8","mediaplayer\/player.asp?br=128&tl=407867",[]],["Virga jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=407868",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=407869",[]]]],["Bruckner, Anton",[["Das deutsche Lied, WAB 63","mediaplayer\/player.asp?br=128&tl=407870",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HMC901322.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HMC901322.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHMC901322","desc":"BRUCKNER, A.: Mass No. 2 in E Minor \/ Motets (La Chapelle Royale Choir, Collegium Vocale, Ensemble Musique Oblique, Herreweghe)","label":"Harmonia Mundi","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Herreweghe, Philippe -- Collegium Vocale -- Ensemble Musique Oblique","country":"Austria Italy","catid":"HMC901322","cdinfo":[[["Bruckner, Anton",[["Aequale No. 1 in C Minor, WAB 114","mediaplayer\/player.asp?br=128&tl=659192",[]]]],["Bruckner, Anton",[["Ave Maria","mediaplayer\/player.asp?br=128&tl=659193",[]],["Christus factus est, WAB 11","mediaplayer\/player.asp?br=128&tl=659194",[]]]],["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=659195",[]]]],["Bruckner, Anton",[["Aequale No. 2 in C Minor, WAB 149","mediaplayer\/player.asp?br=128&tl=659196",[]]]],["Bruckner, Anton",[["Locus iste, WAB 23","mediaplayer\/player.asp?br=128&tl=659197",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=659198",[]]]],["Bruckner, Anton",[["Mass No. 2 in E Minor, WAB 27","mediaplayer\/player.asp?br=128&tl=659199|659200|659201|659202|659203|659204",["Kyrie","Gloria","Credo","Sanctus","Benedictus","Agnus Dei"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028945774329.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028945774329.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028945774329","desc":"BRUCKNER, A.: Choral Music (Stader, S. Wagner, Haefliger, Berlin Deutsche Opera Chorus, Bavarian Radio Chorus, Berlin Philharmonic, Jochum)","label":"Deutsche Grammophon","category":"Choral - Sacred - Classical Music","composer":"Bruckner, Anton","artist":"Haefliger, Ernst -- Stader, Maria -- Jochum, Eugen -- Berlin Philharmonic Orchestra -- Holm, Richard -- Wagner, Sieglinde -- Bilgram, Hedwig -- Lagger, Peter -- Meyer, Wolfgang -- Bavarian Radio Symphony Orchestra, members","country":"Austria Italy","catid":"00028945774329","cdinfo":[[["Bruckner, Anton",[["Te Deum, WAB 45","mediaplayer\/player.asp?br=128&tl=2993361|2993362|2993363|2993364|2993365",["Te Deum laudamus","Te ergo quaesumus","Aeterna fac","Salvum fac populum tuum","In te Domine speravi"]],["Locus iste, WAB 23","mediaplayer\/player.asp?br=128&tl=2993366",[]]]],["Bruckner, Anton",[["Ave Maria, WAB 6","mediaplayer\/player.asp?br=128&tl=2993367",[]]]],["Bruckner, Anton",[["Tota pulchra es, WAB 46","mediaplayer\/player.asp?br=128&tl=2993368",[]],["Virga jesse floruit, WAB 52","mediaplayer\/player.asp?br=128&tl=2993386",[]]]],["Bruckner, Anton",[["Ecce sacerdos magnus, WAB 13","mediaplayer\/player.asp?br=128&tl=2993387",[]],["Afferentur regi, WAB 1","mediaplayer\/player.asp?br=128&tl=2993388",[]]]],["Bruckner, Anton",[["Pange lingua, WAB 33","mediaplayer\/player.asp?br=128&tl=2993389",[]]]],["Bruckner, Anton",[["Os justi, WAB 30","mediaplayer\/player.asp?br=128&tl=2993390",[]]]],["Bruckner, Anton",[["Vexilla regis, WAB 51","mediaplayer\/player.asp?br=128&tl=2993391",[]]]],["Bruckner, Anton",[["Christus factus est, WAB 11","mediaplayer\/player.asp?br=128&tl=2993392",[]]]],["Bruckner, Anton",[["Psalm 150, WAB 38","mediaplayer\/player.asp?br=128&tl=2993393",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/bruckner%20vexilla%20regis"};IMSLPNaxosSearch="bruckner vexilla regis";JGaskdonation=0;JGFileTools={"430415":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=430415"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP430415"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/430415"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/430415"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23430415"}},"430414":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=430414"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP430414"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/430414"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/430414"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23430414"}},"433694":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=433694"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP433694"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/433694"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/433694"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23433694"}},"430413":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=430413"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP430413"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/430413"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/430413"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23430413"}},"433695":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=433695"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP433695"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/433695"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/433695"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23433695"}},"433724":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=433724"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP433724"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=433724"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/433724"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/433724"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23433724"}},"365600":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=365600"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP365600"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/365600"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/365600"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23365600"}},"429421":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=429421"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP429421"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/429421"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/429421"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Vexilla+regis%2C+WAB+51+%28Bruckner%2C+Anton%29&frmTitle=IMSLP+%23429421"}}};JGFileOpts={"430415":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biZfv3bZJ8HM9ysOGRKLVbAIDk1V\/htoZgO538DLIq1CyhQ3b2JAjp6ZGKKlSRha5GQBDeuj5XgMUfQdBs7WSWM7FgtsWd+RgYd9Nj8MfTPKRYIQG1VhLRapDyfBabM7co="},"430414":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgDCGz5\/sWROx0Y0gfkTejFmgoi8Xd0LYY1ONiMdIcyAPT+8Uw7FplGflKU+je+ThqSTMinxOaM\/H6tv+31zgtbQCHX60GBYkddaVaoMKq7mE8TJb+UOB3NTJoND3Ufpzw="},"433694":[],"430413":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhz\/8yZJmbRE+NrYM0U4UN5o33XRfuY3feDoAYXcJ1Wb2QcklxloeuNYpWNu2nidNpDoNYdGeqYLwhvpJ2h9MFbxu85jHumW\/mhNpyBdIse0YUwW2aI0OM\/7m2Nj\/CXf5s="},"433695":[],"433724":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpP42d1VHzgi9UgbDqYzOnbLAjBER3RmDx1AK6QSgBO7hmRuUuD4xS9jCAKZWcSqYBK\/JOjNKjM\/lCKEUUntlRFUs2Ud3k2HQSNU14Gc9oMB+UnL+3g3T93ES+7kbANi9lK+hsPpKDjZAItghzEY+b"},"365600":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjFFVWrlya3g3uuP36ddoT\/8oe93Tw4ugzHJd984qc1TjakkL17GaEGDnvIVJgHf9HNawrtaC2UQm\/iVLC4GOMtrV8LX6fFnofEiZ2xts59TQ=="},"429421":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh70GrlLb1mPR2ov55ML9kklkDrz09zaqav0fyi0dXyxVepZUeQS90Rw32Wd0MSO6v5knOcLoCHzZEwQryLhQJzdgoWvKfI2L95Q1KQrJWnsg=="}};JGPageUntagged=false;JGPageTags=["hymns","ch","la"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore1":false,"tabArrTrans":true,"tabScore3":true,"tabScore4":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores and Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"365600":[8,"1"],"430415":[0,0],"430414":[0,0],"433694":[0,0],"430413":[0,0],"433695":[0,0],"433724":[0,0],"429421":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores_and_Parts"><span class="tocnumber">2.1</span> <span class="toctext">Scores and Parts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Free_Recordings"><span class="tocnumber">3</span> <span class="toctext">Free Recordings</span></a></li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">4</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">5</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores and Parts (<span id="tabScore1_ct">8</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Other (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Source Files (<span id="tabScore4_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores_and_Parts">Scores and Parts</span></h3>
+<div class="we"><div id="IMSLP430415" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/430415"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Manuscript Sketch</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c7/PMLP590355-brucknervexillaregisWAB51manuscript_Mus.Hs.28228.pdf" class="internal" title="PMLP590355-brucknervexillaregisWAB51manuscript Mus.Hs.28228.pdf">*</a></span><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_Mus.Hs.28228.pdf" title="File:PMLP590355-brucknervexillaregisWAB51manuscript Mus.Hs.28228.pdf">#430415</a> - 0.87MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-430415' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-430415'>
+	<a href='javascript:void(0)' id='430415' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='430415' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='430415' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='430415' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='430415' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-430415'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/430415/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/430415/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 9"><a href="/wiki/Special:GetFCtrStats/@430415" title="Special:GetFCtrStats/@430415">9</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.onb.ac.at/rec/AL00227819"><span style="border-bottom:1px dotted black" title="Österreichische Nationalbibliothek">A-Wn</span></a></span><br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (<span title="Updated: 2016/7/15" class="hovertext">2016/7/14</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Holograph manuscript, 1892 (February 4)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=430415">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=430415">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>ca.160dpi color images. This file is based on high-resolution images obtained from the source using a method explained on <a href="/wiki/IMSLP:Obtaining_High-Resolution_Images" title="IMSLP:Obtaining High-Resolution Images">this page</a>. Manuscript sketch possibly by composer? <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID174">Mus.Hs.28228</a></span>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="430415">Javascript is required for this feature.</div><script>JGINITsearchbars['430415']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.28228.jpg" class="image"><img data-src="/images/thumb/d/d2/BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.28228.jpg/120px-BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.28228.jpg" width="120" height="92" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP430414" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/430414"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b> (<a href="/images/5/58/BrucknervexillaregisWAB51manuscriptTP_Mus.Hs.24262.jpg" class="internal" title="BrucknervexillaregisWAB51manuscriptTP Mus.Hs.24262.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/72/PMLP590355-brucknervexillaregisWAB51manuscript_Mus.Hs.24262.pdf" class="internal" title="PMLP590355-brucknervexillaregisWAB51manuscript Mus.Hs.24262.pdf">*</a></span><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_Mus.Hs.24262.pdf" title="File:PMLP590355-brucknervexillaregisWAB51manuscript Mus.Hs.24262.pdf">#430414</a> - 1.09MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-430414' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-430414'>
+	<a href='javascript:void(0)' id='430414' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='430414' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='430414' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='430414' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='430414' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-430414'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/430414/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/430414/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 11"><a href="/wiki/Special:GetFCtrStats/@430414" title="Special:GetFCtrStats/@430414">11</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.onb.ac.at/rec/AL00227812"><span style="border-bottom:1px dotted black" title="Österreichische Nationalbibliothek">A-Wn</span></a></span><br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (<span title="Updated: 2016/7/15" class="hovertext">2016/7/14</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Holograph manuscript, 1892 (February 9)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=430414">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=430414">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>ca.160dpi color images. Composer's autograph manuscript. <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID175">Mus.Hs.24262</a></span>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="430414">Javascript is required for this feature.</div><script>JGINITsearchbars['430414']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.24262.jpg" class="image"><img data-src="/images/thumb/8/84/BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.24262.jpg/120px-BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.24262.jpg" width="120" height="92" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP433694" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/433694"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b> (<a href="/images/5/5e/BrucknervexillaregisWAB51manuscriptTP_A-SF20-57a.jpg" class="internal" title="BrucknervexillaregisWAB51manuscriptTP A-SF20-57a.jpg">Preview</a>)<br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/24/PMLP590355-brucknervexillaregisWAB51manuscript_A-SF20-57a.pdf" class="internal" title="PMLP590355-brucknervexillaregisWAB51manuscript A-SF20-57a.pdf">*</a></span><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_A-SF20-57a.pdf" title="File:PMLP590355-brucknervexillaregisWAB51manuscript A-SF20-57a.pdf">#433694</a> - 10.36MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-433694' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-433694'>
+	<a href='javascript:void(0)' id='433694' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='433694' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='433694' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='433694' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='433694' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-433694'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/433694/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/433694/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 5"><a href="/wiki/Special:GetFCtrStats/@433694" title="Special:GetFCtrStats/@433694">5</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID345">Bruckner Online</a></span><br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2016/8/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Copyist
+</th>
+<td><a href="/index.php?title=Category:Deubler,_Bernhard&amp;action=edit&amp;redlink=1" class="new" title="Category:Deubler, Bernhard (page does not exist)">Bernhard Deubler</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Manuscript, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=433694">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=433694">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>ca.400dpi color images. This file is based on high-resolution images obtained from the source using a method explained on <a href="/wiki/IMSLP:Obtaining_High-Resolution_Images" title="IMSLP:Obtaining High-Resolution Images">this page</a>. Copyist manuscript with autograph. Taken from Bruckner Online: A-SF20-57a.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="433694">Javascript is required for this feature.</div><script>JGINITsearchbars['433694']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:BrucknervexillaregisWAB51manuscriptCP_A-SF20-57a.jpg" class="image"><img data-src="/images/thumb/a/a7/BrucknervexillaregisWAB51manuscriptCP_A-SF20-57a.jpg/120px-BrucknervexillaregisWAB51manuscriptCP_A-SF20-57a.jpg" width="120" height="84" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP430413" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/430413"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a0/PMLP590355-brucknervexillaregisWAB51manuscript_Mus.Hs.19722.pdf" class="internal" title="PMLP590355-brucknervexillaregisWAB51manuscript Mus.Hs.19722.pdf">*</a></span><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_Mus.Hs.19722.pdf" title="File:PMLP590355-brucknervexillaregisWAB51manuscript Mus.Hs.19722.pdf">#430413</a> - 2.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-430413' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-430413'>
+	<a href='javascript:void(0)' id='430413' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='430413' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='430413' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='430413' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='430413' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-430413'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/430413/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/430413/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 7"><a href="/wiki/Special:GetFCtrStats/@430413" title="Special:GetFCtrStats/@430413">7</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.onb.ac.at/rec/AL00484386"><span style="border-bottom:1px dotted black" title="Österreichische Nationalbibliothek">A-Wn</span></a></span><br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (<span title="Updated: 2016/7/15" class="hovertext">2016/7/14</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Copyist
+</th>
+<td><a href="/wiki/Category:G%C3%B6llerich,_August" title="Category:Göllerich, August">August Göllerich</a> (1859-1923)<br /><a href="/wiki/Category:Bayer,_Franz_Xaver" title="Category:Bayer, Franz Xaver">Franz Xaver Bayer</a> (1862-1921)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Manuscript, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=430413">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=430413">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>ca.440dpi color images. This file is based on high-resolution images obtained from the source using a method explained on <a href="/wiki/IMSLP:Obtaining_High-Resolution_Images" title="IMSLP:Obtaining High-Resolution Images">this page</a>. Copyist manuscript with additional markings. <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID887">Mus.Hs.19722</a></span>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="430413">Javascript is required for this feature.</div><script>JGINITsearchbars['430413']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.19722.jpg" class="image"><img data-src="/images/thumb/f/f3/BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.19722.jpg/120px-BrucknervexillaregisWAB51manuscriptCP_Mus.Hs.19722.jpg" width="120" height="156" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP433695" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/433695"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Vocal Parts</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e1/PMLP590355-brucknervexillaregisWAB51manuscript_A-SF20-57b.pdf" class="internal" title="PMLP590355-brucknervexillaregisWAB51manuscript A-SF20-57b.pdf">*</a></span><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_A-SF20-57b.pdf" title="File:PMLP590355-brucknervexillaregisWAB51manuscript A-SF20-57b.pdf">#433695</a> - <span style="color:red"><b>28.22</b></span>MB, 28 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-433695' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-433695'>
+	<a href='javascript:void(0)' id='433695' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='433695' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='433695' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='433695' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='433695' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-433695'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/433695/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/433695/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 6"><a href="/wiki/Special:GetFCtrStats/@433695" title="Special:GetFCtrStats/@433695">6</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID346">Bruckner Online</a></span><br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (2016/8/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Copyist
+</th>
+<td><a href="/wiki/Category:Aigner,_Karl" title="Category:Aigner, Karl">Karl Aigner</a> (1863-1935)<br /><a href="/index.php?title=Category:Deubler,_Bernhard&amp;action=edit&amp;redlink=1" class="new" title="Category:Deubler, Bernhard (page does not exist)">Bernhard Deubler</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Manuscript, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=433695">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=433695">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>ca.400dpi color images. This file is based on high-resolution images obtained from the source using a method explained on <a href="/wiki/IMSLP:Obtaining_High-Resolution_Images" title="IMSLP:Obtaining High-Resolution Images">this page</a>. Copyist manuscript with autograph. Taken from Bruckner Online: A-SF20-57b.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="433695">Javascript is required for this feature.</div><script>JGINITsearchbars['433695']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:BrucknervexillaregisWAB51manuscriptCP_A-SF20-57b.jpg" class="image"><img data-src="/images/thumb/a/ac/BrucknervexillaregisWAB51manuscriptCP_A-SF20-57b.jpg/120px-BrucknervexillaregisWAB51manuscriptCP_A-SF20-57b.jpg" width="120" height="156" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP433724" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/433724"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d2/PMLP590355-brucknervexillaregisWAB51manuscript_Josef_Weinberger_Edition.pdf" class="internal" title="PMLP590355-brucknervexillaregisWAB51manuscript Josef Weinberger Edition.pdf">*</a></span><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_Josef_Weinberger_Edition.pdf" title="File:PMLP590355-brucknervexillaregisWAB51manuscript Josef Weinberger Edition.pdf">#433724</a> - 0.06MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-433724' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-433724'>
+	<a href='javascript:void(0)' id='433724' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='433724' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='433724' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='433724' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='433724' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-433724'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/433724/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/433724/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 23"><a href="/wiki/Special:GetFCtrStats/@433724" title="Special:GetFCtrStats/@433724">23</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/">Bruckner Online</a></span><br />
+<a href="/wiki/User:Sallen112" title="User:Sallen112">Sallen112</a> (<span title="Updated: 2016/8/6" class="hovertext">2016/8/5</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Vienna: <a href="/wiki/Josef_Weinberger" title="Josef Weinberger">Josef Weinberger</a><!--ASL0-->, 1892.  Plate J. W. / W. M. A..
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=433724">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=433724">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Original images:&#160;ca.400dpi, color jpg&#160;files&#160;approx.&#160;3222 by 4048&#160;pixels. Editing: re-sampled to 600dpi, converted to black and white tif files, de-skewed, and set uniform margins.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="433724">Javascript is required for this feature.</div><script>JGINITsearchbars['433724']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=433724&type=Complete%20Score&pgcount=1&signature=668a2d1eaebf9429b019b52694aa0241f39d5267"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP590355-brucknervexillaregisWAB51manuscript_Josef_Weinberger_Edition.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d2/49a1fa982ea0b13bcc0596b10e5feda90a33b089.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP365600" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/365600"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/02/PMLP590355-Bruckner_Vexilla_regis_ed._Berberich.pdf" class="internal" title="PMLP590355-Bruckner Vexilla regis ed. Berberich.pdf">*</a></span><a href="/wiki/File:PMLP590355-Bruckner_Vexilla_regis_ed._Berberich.pdf" title="File:PMLP590355-Bruckner Vexilla regis ed. Berberich.pdf">#365600</a> - 2.24MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-365600' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-365600'>
+	<a href='javascript:void(0)' id='365600' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='365600' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='365600' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='365600' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='365600' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-365600'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/365600/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/365600/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:gray">C</span><small>*</small>/<span style="color:gray">C</span><small>*</small>/<span style="color:green">V</span><small>*</small></a> </span>- <span title="Total number of downloads: 637"><a href="/wiki/Special:GetFCtrStats/@365600" title="Special:GetFCtrStats/@365600">637</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Albrights" title="User:Albrights">Albrights</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Albrights" title="User:Albrights">Albrights</a> (2015/2/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Berberich,_Ludwig" title="Category:Berberich, Ludwig">Ludwig Berberich</a> (1882–1965)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/3088485"><i>Ausgewählte geistliche Chöre, No.10</i> (pp.31-33)</a></span><br />Leipzig: <a href="/wiki/Edition_Peters" title="Edition Peters">Edition Peters</a><!--ASL1-->, No.4185, <span class="plainlinks">n.d.<a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001939&amp;teil=0203&amp;seite=00000216&amp;zoom=1">[1939]</a></span>.  Plate 11400.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=365600">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=365600">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="365600">Javascript is required for this feature.</div><script>JGINITsearchbars['365600']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP590355-Bruckner_Vexilla_regis_ed._Berberich.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/02/0570cc8465c62e8627a9c207cca6c4891fb276e0.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP429421" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/429421"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f0/PMLP590355-WAB_51_Vexilla_regis-Bruckner.pdf" class="internal" title="PMLP590355-WAB 51 Vexilla regis-Bruckner.pdf">*</a></span><a href="/wiki/File:PMLP590355-WAB_51_Vexilla_regis-Bruckner.pdf" title="File:PMLP590355-WAB 51 Vexilla regis-Bruckner.pdf">#429421</a> - 0.09MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-429421' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-429421'>
+	<a href='javascript:void(0)' id='429421' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='429421' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='429421' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='429421' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='429421' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-429421'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/429421/Vexilla_regis,_WAB_51_(Bruckner,_Anton)" title="Special:IMSLPEditCTag/429421/Vexilla regis, WAB 51 (Bruckner, Anton)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 327"><a href="/wiki/Special:GetFCtrStats/@429421" title="Special:GetFCtrStats/@429421">327</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Alexander_Reuter" title="User:Alexander Reuter">Alexander Reuter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Alexander_Reuter" title="User:Alexander Reuter">Alexander Reuter</a> (2016/7/7)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Reuter,_Alexander" title="Category:Reuter, Alexander">Alexander Reuter</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Alexander Reuter
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_4.0" title="IMSLP:Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=429421">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=429421">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Edited from manuscripts stored at St. Florians Abbey under signatory <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID345">SF20-57a</a></span> and <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bruckner-online.at/ID346">SF20-57b</a></span>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="429421">Javascript is required for this feature.</div><script>JGINITsearchbars['429421']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP590355-WAB_51_Vexilla_regis-Bruckner.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f0/8ae6c43464467b0658f4c4f5b06eab2d751f0fbf.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores and Parts" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Other" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="source" data-name="Source Files" data-tabid="tabScore4"></span>
+</p>
+</div></div></span>
+<h2> <span class="mw-headline" id="Free_Recordings">Free Recordings</span></h2>
+<ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=TmctQ0-lwVs">Cantores Carmeli, Michael Stenov (conductor)</a></span>
+</li><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=m__Da6NK4nI">Bragi a-capellakoor, Rein de Vries (conductor)</a></span>
+</li></ul>
+<p><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+</p>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Vexilla regis
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Name Translations
+</th>
+<td><span title="ja">王の御旗は翻る</span>
+</td></tr>
+<tr>
+<th>Authorities
+</th>
+<td><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/183342623">WorldCat</a>; <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Vexilla_regis_(Bruckner)">Wikipedia</a>; <a href="http://en.wikipedia.org/wiki/Virtual_International_Authority_File" class="extiw" title="wikipedia:Virtual International Authority File">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/183342623">183342623</a>; <a href="http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number" class="extiw" title="wikipedia:Library of Congress Control Number">LCCN</a>: <a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2007059586">no2007059586</a>; <a href="http://en.wikipedia.org/wiki/Integrated_Authority_File" class="extiw" title="wikipedia:Integrated Authority File">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/300030134">300030134</a>; <a href="http://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France" class="extiw" title="wikipedia:Bibliothèque nationale de France">BNF</a>: <a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb139207532">139207532</a>
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Bruckner,_Anton" title="Category:Bruckner, Anton">Bruckner, Anton</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>WAB 51
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IAB 135
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>E Phrygian mode
+</td></tr>
+<tr>
+<th>Text Incipit
+</th>
+<td>Vexilla regis prodeunt, fulget crucis mysterium
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1892-02-09
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1892-04-15 in Vienna
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1892 – Vienna: <a href="/wiki/Josef_Weinberger" title="Josef Weinberger">Josef Weinberger</a>
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Fortunatus,_Venantius_Honorius_Clementianus" title="Category:Fortunatus, Venantius Honorius Clementianus">Venantius Honorius Clementianus Fortunatus</a> (ca.530/540 — ca.600/609)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Latin
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>mixed chorus (SATB)
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Vexilla_regis_(Bruckner)" class="extiw" title="wikipedia:Vexilla regis (Bruckner)">Wikipedia article</a><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://musicbrainz.org/work/35af2442-6627-40ec-ac35-4d705421814c">MusicBrainz</a></span>
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<ul><li> Berberich's score is using the older text of the hymn. Reuter's score is using the modernised text of the hymn, as it is issued in the <i>Gesamtausgebe</i> Band XXI/29, but is missing the 4-bar <i>Amen</i>, which was added at the end of the motet. --<a href="/wiki/User:Meneerke_bloem" title="User:Meneerke bloem">Réginald alias Meneerke bloem</a> <small>(<a href="/index.php?title=User_talk:Meneerke_bloem&amp;action=edit&amp;redlink=1" class="new" title="User talk:Meneerke bloem (page does not exist)">To reply</a>)</small> 16:37, 7 July 2016 (EDT)
+</li></ul>
+<p><br />
+</p>
+<table width="75%" align="center" style="font-size: 90%">
+
+<tr>
+<th colspan="2" align="center" style="background-color:rgb(190,250,135)"><b>Motets by <a href="/wiki/Category:Bruckner,_Anton" title="Category:Bruckner, Anton">Anton Bruckner</a></b>
+</th></tr>
+<tr>
+<td valign="top" width="50%" style="background-color:rgb(220,250,180)">
+<ul><li><a href="/wiki/Pange_lingua,_WAB_31_(Bruckner,_Anton)" title="Pange lingua, WAB 31 (Bruckner, Anton)">Pange lingua, WAB 31</a> (1835 ca./1891)
+</li><li><a href="/wiki/Libera_me,_WAB_21_(Bruckner,_Anton)" title="Libera me, WAB 21 (Bruckner, Anton)">Libera me, WAB 21</a> (1843 ca.)
+</li><li><a href="/wiki/Asperges_me,_WAB_4_(Bruckner,_Anton)" title="Asperges me, WAB 4 (Bruckner, Anton)">Asperges me, WAB 4</a> (1843-44 ca.)
+</li><li><a href="/wiki/2_Asperges_me,_WAB_3_(Bruckner,_Anton)" title="2 Asperges me, WAB 3 (Bruckner, Anton)">2 Asperges me, WAB 3</a> (1845 ca.)
+</li><li><a href="/wiki/Tantum_ergo,_WAB_32_(Bruckner,_Anton)" title="Tantum ergo, WAB 32 (Bruckner, Anton)">Tantum ergo, WAB 32</a>, (1845 ca.)
+</li><li><a href="/wiki/Tantum_ergo,_WAB_43_(Bruckner,_Anton)" title="Tantum ergo, WAB 43 (Bruckner, Anton)">Tantum ergo, WAB 43</a> (1845 ca.)
+</li><li><a href="/wiki/Dir,_Herr,_dir_will_ich_mich_ergeben,_WAB_12_(Bruckner,_Anton)" title="Dir, Herr, dir will ich mich ergeben, WAB 12 (Bruckner, Anton)">Dir, Herr, dir will ich mich ergeben, WAB 12</a> (1845)
+</li><li><a href="/wiki/O_du_liebes_Jesu_Kind,_WAB_145_(Bruckner,_Anton)" title="O du liebes Jesu Kind, WAB 145 (Bruckner, Anton)">O du liebes Jesu Kind, WAB 145</a> (1845-46 ca.)
+</li><li><a href="/wiki/Herz-Jesu-Lied,_WAB_144_(Bruckner,_Anton)" title="Herz-Jesu-Lied, WAB 144 (Bruckner, Anton)">Herz-Jesu-Lied, WAB 144</a> (1845-46 ca.)
+</li><li><a href="/wiki/4_Tantum_ergo,_WAB_41_(Bruckner,_Anton)" title="4 Tantum ergo, WAB 41 (Bruckner, Anton)">4 Tantum ergo, WAB 41</a> (1846/1888)
+</li><li><a href="/wiki/Tantum_ergo,_WAB_42_(Bruckner,_Anton)" title="Tantum ergo, WAB 42 (Bruckner, Anton)">Tantum ergo, WAB 42</a> (1846/1888)
+</li><li><a href="/wiki/Aequale,_WAB_114_(Bruckner,_Anton)" title="Aequale, WAB 114 (Bruckner, Anton)">Aequale, WAB 114</a> (1847) for 3 trombones
+</li><li><a href="/wiki/Aequale,_WAB_149_(Bruckner,_Anton)" title="Aequale, WAB 149 (Bruckner, Anton)">Aequale, WAB 149</a> (1847) for 3 trombones
+</li><li><a href="/wiki/In_jener_letzten_der_N%C3%A4chte,_WAB_17_(Bruckner,_Anton)" title="In jener letzten der Nächte, WAB 17 (Bruckner, Anton)">In jener letzten der Nächte, WAB 17</a> (1848 ca.)
+</li><li><a href="/wiki/Totenlied_No.1,_WAB_47_(Bruckner,_Anton)" title="Totenlied No.1, WAB 47 (Bruckner, Anton)">Totenlied No.1, WAB 47</a> (1852)
+</li><li><a href="/wiki/Totenlied_No.2,_WAB_48_(Bruckner,_Anton)" title="Totenlied No.2, WAB 48 (Bruckner, Anton)">Totenlied No.2, WAB 48</a> (1852)
+</li><li><a href="/wiki/Libera_me,_WAB_22_(Bruckner,_Anton)" title="Libera me, WAB 22 (Bruckner, Anton)">Libera me, WAB 22</a> (1854)
+</li><li><a href="/wiki/Tantum_ergo,_WAB_44_(Bruckner,_Anton)" title="Tantum ergo, WAB 44 (Bruckner, Anton)">Tantum ergo, WAB 44</a> (1854 ca.)
+</li></ul>
+</td>
+<td valign="top" width="50%" style="background-color:rgb(220,250,180)">
+<ul><li><a href="/wiki/Ave_Maria,_WAB_5_(Bruckner,_Anton)" title="Ave Maria, WAB 5 (Bruckner, Anton)">Ave Maria, WAB 5</a> (1856)
+</li><li><a href="/wiki/Ave_Maria,_WAB_6_(Bruckner,_Anton)" title="Ave Maria, WAB 6 (Bruckner, Anton)">Ave Maria, WAB 6</a> (1861)
+</li><li><a href="/wiki/Afferentur_regi,_WAB_1_(Bruckner,_Anton)" title="Afferentur regi, WAB 1 (Bruckner, Anton)">Afferentur regi, WAB 1</a> (1861)
+</li><li><a href="/wiki/Pange_lingua,_WAB_33_(Bruckner,_Anton)" title="Pange lingua, WAB 33 (Bruckner, Anton)">Pange lingua, WAB 33</a> (1868)
+</li><li><a href="/wiki/Inveni_David,_WAB_19_(Bruckner,_Anton)" title="Inveni David, WAB 19 (Bruckner, Anton)">Inveni David, WAB 19</a> (1868)
+</li><li><a href="/wiki/Iam_lucis_orto_sidere,_WAB_18_(Bruckner,_Anton)" title="Iam lucis orto sidere, WAB 18 (Bruckner, Anton)">Iam lucis orto sidere, WAB 18</a> (1868/1886)
+</li><li><a href="/wiki/Locus_iste,_WAB_23_(Bruckner,_Anton)" title="Locus iste, WAB 23 (Bruckner, Anton)">Locus iste, WAB 23</a> (1869)
+</li><li><a href="/wiki/Christus_factus_est,_WAB_10_(Bruckner,_Anton)" title="Christus factus est, WAB 10 (Bruckner, Anton)">Christus factus est, WAB 10</a> (1873)
+</li><li><a href="/wiki/Tota_pulchra_es,_WAB_46_(Bruckner,_Anton)" title="Tota pulchra es, WAB 46 (Bruckner, Anton)">Tota pulchra es, WAB 46</a> (1878)
+</li><li><a href="/wiki/Os_justi,_WAB_30_(Bruckner,_Anton)" title="Os justi, WAB 30 (Bruckner, Anton)">Os justi, WAB 30</a> (1879)
+</li><li><a href="/wiki/Ave_Maria,_WAB_7_(Bruckner,_Anton)" title="Ave Maria, WAB 7 (Bruckner, Anton)">Ave Maria, WAB 7</a> (1882)
+</li><li><a href="/wiki/Christus_factus_est,_WAB_11_(Bruckner,_Anton)" title="Christus factus est, WAB 11 (Bruckner, Anton)">Christus factus est, WAB 11 </a> (1884)
+</li><li><a href="/wiki/Salvum_fac_populum,_WAB_40_(Bruckner,_Anton)" title="Salvum fac populum, WAB 40 (Bruckner, Anton)">Salvum fac populum, WAB 40</a> (1884)
+</li><li><a href="/wiki/Veni_creator_spiritus,_WAB_50_(Bruckner,_Anton)" title="Veni creator spiritus, WAB 50 (Bruckner, Anton)">Veni creator spiritus, WAB 50</a> (1884 ca.)
+</li><li><a href="/wiki/Ecce_sacerdos_magnus,_WAB_13_(Bruckner,_Anton)" title="Ecce sacerdos magnus, WAB 13 (Bruckner, Anton)">Ecce sacerdos magnus, WAB 13</a> (1885)
+</li><li><a href="/wiki/Virga_Jesse,_WAB_52_(Bruckner,_Anton)" title="Virga Jesse, WAB 52 (Bruckner, Anton)">Virga Jesse, WAB 52</a> (1885)
+</li><li><a href="/wiki/Ave_regina_caelorum,_WAB_8_(Bruckner,_Anton)" title="Ave regina caelorum, WAB 8 (Bruckner, Anton)">Ave regina caelorum, WAB 8</a> (1885 ca.)
+</li><li><strong class="selflink">Vexilla regis, WAB 51</strong> (1892)
+</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1263/1000000
+Post-expand include size: 71230/2097152 bytes
+Template argument size: 4631/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:590355-0!*!0!!en!2!* and timestamp 20180415083147 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Vexilla_regis,_WAB_51_(Bruckner,_Anton)&amp;oldid=2142609">http://imslp.org/index.php?title=Vexilla_regis,_WAB_51_(Bruckner,_Anton)&amp;oldid=2142609</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_%C3%96sterreichische_Nationalbibliothek" title="Category:Scores from Österreichische Nationalbibliothek">Scores from Österreichische Nationalbibliothek</a></li><li><a href="/wiki/Category:Manuscripts_from_the_1800s" title="Category:Manuscripts from the 1800s">Manuscripts from the 1800s</a></li><li><a href="/wiki/Category:Composers%27_holographs_from_the_1800s" title="Category:Composers' holographs from the 1800s">Composers' holographs from the 1800s</a></li><li><a href="/wiki/Category:Manuscripts" title="Category:Manuscripts">Manuscripts</a></li><li><a href="/wiki/Category:Deubler,_Bernhard/Editor" title="Category:Deubler, Bernhard/Editor">Deubler, Bernhard/Editor</a></li><li><a href="/wiki/Category:G%C3%B6llerich,_August/Editor" title="Category:Göllerich, August/Editor">Göllerich, August/Editor</a></li><li><a href="/wiki/Category:Bayer,_Franz_Xaver/Editor" title="Category:Bayer, Franz Xaver/Editor">Bayer, Franz Xaver/Editor</a></li><li><a href="/wiki/Category:Aigner,_Karl/Editor" title="Category:Aigner, Karl/Editor">Aigner, Karl/Editor</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Scores_published_by_Josef_Weinberger" title="Category:Scores published by Josef Weinberger">Scores published by Josef Weinberger</a></li><li><a href="/wiki/Category:Berberich,_Ludwig/Editor" title="Category:Berberich, Ludwig/Editor">Berberich, Ludwig/Editor</a></li><li><a href="/wiki/Category:Scores_published_by_Edition_Peters" title="Category:Scores published by Edition Peters">Scores published by Edition Peters</a></li><li><a href="/wiki/Category:Reuter,_Alexander/Editor" title="Category:Reuter, Alexander/Editor">Reuter, Alexander/Editor</a></li><li><a href="/wiki/Category:Work_pages_with_links_to_recordings" title="Category:Work pages with links to recordings">Work pages with links to recordings</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Bruckner,_Anton" title="Category:Bruckner, Anton">Bruckner, Anton</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Sacred_hymns" title="Category:Sacred hymns">Sacred hymns</a></li><li><a href="/wiki/Category:Hymns" title="Category:Hymns">Hymns</a></li><li><a href="/wiki/Category:Religious_works" title="Category:Religious works">Religious works</a></li><li><a href="/wiki/Category:For_mixed_chorus" title="Category:For mixed chorus">For mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:For_unaccompanied_chorus" title="Category:For unaccompanied chorus">For unaccompanied chorus</a></li><li><a href="/wiki/Category:Latin_language" title="Category:Latin language">Latin language</a></li><li><a href="/wiki/Category:Works_first_published_in_1892" title="Category:Works first published in 1892">Works first published in 1892</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Phrygian_mode" title="Category:Phrygian mode">Phrygian mode</a></li><li><a href="/wiki/Category:Fortunatus,_Venantius_Honorius_Clementianus/Librettist" title="Category:Fortunatus, Venantius Honorius Clementianus/Librettist">Fortunatus, Venantius Honorius Clementianus/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Vexilla_regis%2C_WAB_51_%28Bruckner%2C_Anton%29">2,819 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Vexilla%20regis%2C%20WAB%2051%20%28Bruckner%2C%20Anton%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.566 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415083147 -->
+</html>
+		

@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Psyché (Franck, César) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Psyché_(Franck,_César)", "wgTitle": "Psyché (Franck, César)", "wgCurRevisionId": 2371092, "wgArticleId": 58981, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Recordings published in 1954", "Recordings published in the 20th century", "Gagnaux Collection Recordings", "Recordings with unknown publication dates", "Recordings", "Works reprinted by Edwin F. Kalmus", "OM Parts", "England, Paul/Translator", "Sibley Mirroring Project", "Scores", "Franck, César", "Romantic style", "Romantic", "Symphonic poems", "For mixed chorus, orchestra", "Scores featuring mixed chorus", "Scores featuring the orchestra", "For chorus with orchestra", "Works first published in 1893", "Works first published in the 19th century", "Pages with parts for purchase", "Sicard, S./Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Psyché_Franck_César action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Psych%C3%A9_(Franck,_C%C3%A9sar)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (2)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Psych%C3%A9_(Franck,_C%C3%A9sar)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Psych%C3%A9_(Franck,_C%C3%A9sar)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Psych%C3%A9_(Franck,_C%C3%A9sar)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Psych%C3%A9_(Franck,_C%C3%A9sar)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Psych%C3%A9_(Franck,_C%C3%A9sar)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Psych%C3%A9_(Franck,_C%C3%A9sar)&amp;oldid=2371092" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Psych%C3%A9%20%28Franck%2C%20C%C3%A9sar%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Psyché (Franck, César)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1886&#8211;87
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Symphonic_poems&amp;transclude=Template:Catintro">Symphonic poems</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For mixed chorus, orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="expandline" title="2 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_chorus_with_orchestra&amp;transclude=Template:Catintro">For chorus with orchestra</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Psych\u00e9","composer":"Franck, C\u00e9sar","comphref":"\/wiki\/Category:Franck,_C%C3%A9sar"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"psyche","itunes":"psyche","composer":"franck","scorekeywords":"psyche","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=126;JGBSAccompnum=0;JGNaxosSearch={"numres":30,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PH06011.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PH06011.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPH06011","desc":"BUSONI: 2 Studies on Doctor Faust \/ FRANCK: Psyche et Eros \/ DVORAK: Symphony No. 8 (1958, 1971)","label":"Profil","category":"Orchestral - Classical Music","composer":"Busoni, Ferruccio -- Dvo\u0159\u00e1k, Anton\u00edn -- Franck, C\u00e9sar","artist":"Giulini, Carlo Maria -- Cologne Radio Symphony Orchestra","country":"Czech Republic France Italy","catid":"PH06011","cdinfo":[[["Busoni, Ferruccio",[["Sarabande und Cortege, Op. 51, \"2 Studies on Doktor Faust\" \"Elegies Nos. 5&#8211;6\"","mediaplayer\/player.asp?br=128&tl=322163|322162",["Sarabande","Cortege"]]]],["Franck, C&#233;sar",[["Symphonic Poem, \"Psyche et Eros\"","mediaplayer\/player.asp?br=128&tl=322164",[]]]],["Dvo&#345;&#225;k, Anton&#237;n",[["Symphony No. 8 in G Major, Op. 88","mediaplayer\/player.asp?br=128&tl=322165|322168|322167|322166",["I. Allegro con brio","II. Adagio","III. Allegretto grazioso","IV. Allegro ma non troppo"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=WHRA-6012.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=WHRA-6012.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DWHRA-6012","desc":"STRAVINSKY, I.: Firebird Suite \/ Pulcinella Suite \/ BRAHMS, J.: Piano Concerto No. 1 \/ FRANCK, C.: Psyche (Monteux in Boston) (1953-1957)","label":"West Hill Radio Archives","category":"Concertos - Classical Music","composer":"Strauss, Richard -- Stravinsky, Igor -- Brahms, Johannes -- Franck, C\u00e9sar","artist":"Fleisher, Leon -- Monteux, Pierre -- Boston Symphony Orchestra","country":"France Germany Russia","catid":"WHRA-6012","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=AV0003.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=AV0003.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DAV0003","desc":"FRANCK, C.: Symphony in D Minor \/ Psyche (Latham-Koenig)","label":"Avie Records","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"Latham-Koenig, Jan -- Strasbourg Philharmonic Orchestra","country":"France","catid":"AV0003","cdinfo":[[["Franck, C&#233;sar",[["Psyche, M. 47 (excerpts)","mediaplayer\/player.asp?br=128&tl=408072|408073|408074|408075",[]],["Symphony in D Minor, M. 48","mediaplayer\/player.asp?br=128&tl=408076|408077|408078",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CD-87.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CD-87.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCD-87","desc":"FRANCK, C.: Symphony, M. 48 \/ Le chasseur maudit \/ Symphonic Variations \/ Psyche et Eros (Boult, Freccia, Pretre)","label":"Chesky","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"Boult, Adrian -- Pretre, Georges -- Wild, Earl -- RCA Victor Symphony Orchestra -- Royal Philharmonic Orchestra -- Freccia, Massimo -- London Orchestra Society","country":"France","catid":"CD-87","cdinfo":[[["Franck, C&#233;sar",[["Le chasseur maudit (The Accursed Hunter), M. 44","mediaplayer\/player.asp?br=128&tl=812119",[]],["Symphonic Variations, M. 46","mediaplayer\/player.asp?br=128&tl=812120",[]],["Psyche, M. 47, Part III: Psyche et Eros","mediaplayer\/player.asp?br=128&tl=812121",[]],["Symphony in D Minor, M. 48","mediaplayer\/player.asp?br=128&tl=812122|812123|812124",["I. Lento - Allegro non troppo","II. Allegretto","III. Allegro non troppo"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=PH08040.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=PH08040.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DPH08040","desc":"FRANCK, C.: Psyche \/ SIBELIUS, J.: Symphony No. 2 (Cologne Gurzenich Orchestra, Ahronovitch)","label":"Profil","category":"Orchestral - Classical Music","composer":"Sibelius, Jean -- Franck, C\u00e9sar","artist":"Ahronovitch, Yuri -- Cologne G\u00fcrzenich Orchestra","country":"Finland France","catid":"PH08040","cdinfo":[[["Franck, C&#233;sar",[["Psyche, M. 47","mediaplayer\/player.asp?br=128&tl=527478|527479|527480|527481",["Part I: Le Sommeil de Psyche","Part I: Psyche enlevee par les zephirs","Part II: Le jardin d'Eros","Part III: Psyche et Eros"]]]],["Sibelius, Jean",[["Symphony No. 2 in D Major, Op. 43","mediaplayer\/player.asp?br=128&tl=527482|527483|527484|527485",["I. Allegretto","II. Tempo andante, ma rubato","III. Vivacissimo -","IV. Finale: Allegro moderato"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=C10555.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=C10555.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DC10555","desc":"FRANCK, C.: Symphony, M. 48 \/ Psyche (Sofia Symphony, Kazandjiev)","label":"Capriccio","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"Kazandjiev, Vassil -- Sofia Symphony Orchestra","country":"France","catid":"C10555","cdinfo":[[["Franck, C&#233;sar",[["Symphony in D Minor, M. 48","mediaplayer\/player.asp?br=128&tl=702411|702412|702413",["I. Lento - Allegro non troppo","II. Allegretto","III. Allegro non troppo"]],["Psyche, M. 47","mediaplayer\/player.asp?br=128&tl=702414|702415|702416|702417",["Part I: Le Sommeil de Psyche","Part I: Psyche enlevee par les zephirs","Part II: Le jardin d'Eros","Part III: Psyche et Eros"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=9.80451.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=9.80451.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D9.80451","desc":"FRANCK, C.: Psyche (excerpts) \/ FAURE, G.: Pavane \/ RAVEL, M.: La valse (Paray) (1953)","label":"Naxos Classical Archives","category":"Orchestral - Classical Music","composer":"Ravel, Maurice -- Faur\u00e9, Gabriel -- Franck, C\u00e9sar","artist":"Detroit Symphony Orchestra -- Paray, Paul","country":"France","catid":"9.80451","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CHAN9342.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CHAN9342.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCHAN9342","desc":"FRANCK: Le Chasseur maudit \/ Psyche","label":"Chandos","category":"Orchestral - Classical Music","composer":"Franck, C\u00e9sar","artist":"Otaka, Tadaaki -- BBC National Orchestra of Wales","country":"France","catid":"CHAN9342","cdinfo":[[["Franck, C&#233;sar",[["Le chasseur maudit","mediaplayer\/player.asp?br=128&tl=254433",[]],["Pysche","mediaplayer\/player.asp?br=128&tl=254434|254435|254436|254437|254438|254439|254440",["Part I: Le Sommeil de Psyche","Part I: Psyche enlevee par les zephirs","Part II: Les jardins d'Eros","Part II: Lento","Part II: Psyche et Eros","Part III: Quasi lento","Part III: Souffrances et plaintes de Psyche"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=9.80399.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=9.80399.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D9.80399","desc":"MUSSORGSKY, M.P.: Pictures at an Exhibition \/ FRANCK, C.: Psyche (excerpt) (Toscanini) (1952-1953)","label":"Naxos Classical Archives","category":"Orchestral - Classical Music","composer":"Mussorgsky, Modest Petrovich -- Franck, C\u00e9sar","artist":"NBC Symphony Orchestra","country":"France Russia","catid":"9.80399","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NSO024-MU130004.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NSO024-MU130004.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNSO024-MU130004","desc":"DEBUSSY, C.: La Mer \/ RAVEL, M.: La Valse \/ Daphnis et Chlo\u00e9 Suite No. 2 \/ FRANCK, C.: Psych\u00e9 (excerpts) (Taiwan Philharmonic, Shao-Chia L\u00fc)","label":"Taiwan Philharmonic, NSO","category":"Orchestral - Classical Music","composer":"Ravel, Maurice -- Debussy, Claude -- Franck, C\u00e9sar","artist":"Taiwan Philharmonic, NSO -- Lu, Shao-Chia","country":"France","catid":"NSO024-MU130004","cdinfo":[[["Debussy, Claude",[["La mer","mediaplayer\/player.asp?br=128&tl=1992649|1992650|1992651",["I. De l'aube a midi sur la mer","II. Jeux de vagues","III. Dialogue du vent et de la mer"]]]],["Ravel, Maurice",[["La valse (version for orchestra)","mediaplayer\/player.asp?br=128&tl=1992652",[]]]]],[["Franck, C&#233;sar",[["Psyche, M. 47 (excerpts)","mediaplayer\/player.asp?br=128&tl=1992653|1992654|1992655|1992656",["Part I: Le Sommeil de Psyche","Part I: Psyche enlevee par les zephirs","Part II: Le jardin d'Eros","Part III: Psyche et Eros"]]]],["Ravel, Maurice",[["Daphnis et Chloe Suite No. 2","mediaplayer\/player.asp?br=128&tl=1992657",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/franck%20psyche"};IMSLPNaxosSearch="franck psyche";JGaskdonation=0;JGFileTools={"424651":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/424651"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (1)","onclick":"\/index.php?title=Special:WikiForum&thread=14192"}},"424406":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/424406"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (1)","onclick":"\/index.php?title=Special:WikiForum&thread=14146"}},"93781":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=93781"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP93781"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=93781","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/93781"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/93781"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/93781"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2393781"}},"49866":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49866"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49866"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49866"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349866"}},"49867":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49867"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49867"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49867"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349867"}},"49868":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49868"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49868"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49868"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349868"}},"49869":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49869"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49869"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49869"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349869"}},"49870":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49870"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49870"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49870"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349870"}},"49871":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49871"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49871"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49871"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349871"}},"49872":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49872"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49872"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49872"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349872"}},"49873":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49873"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49873"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49873"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349873"}},"49874":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49874"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49874"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49874"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349874"}},"49875":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49875"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49875"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49875"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349875"}},"49876":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP49876"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/49876"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/49876"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2349876"}},"26554":{"015-ZIPFILE":{"icon":52,"label":"Download 12 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/49866\/49867\/49868\/49869\/49870\/49871\/49872\/49873\/49874\/49875\/49876\/26554\/3195"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP26554"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/26554"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/26554"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%2326554"}},"157373":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=157373"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP157373"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/157373"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/157373"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Psych%C3%A9+%28Franck%2C+C%C3%A9sar%29&frmTitle=IMSLP+%23157373"}}};JGFileOpts={"424651":[],"424406":[],"93781":[],"49866":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bik732\/JygjZb17363RYzYVUdApIabpKE8mEBRZBQl7ymU389q6FFzTPL20nvRV\/dreqbDVgA3XIJKKk9kapUHQ"},"49867":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpP42d1VHzgi9UgbDqYzOnK07C7TbT9mTwwj27bNJ1OzMRet9vVihL+lhl49lILVs7enR1r+5vUIiyjFUC90gX"},"49868":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj\/2k6uZK9ttBBaEhalSbdetRN6EYo44CLoriOQdmqAFwQ+sI3yJR8Q3LMDUccYvSHQ3\/nvunFyoXXgRJFf6Q5i"},"49869":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjqr+Sh57mQTWAxtjBMGr98z3rmW4vPdiUxgFpVCvZHM5yBCx53ZC33eN7eJWQuZb\/g36CWEL+ckQhSHGM6hKQl"},"49870":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg6VD5r01idexLeq+jMHLio9KFTn6O533U9bQqL+WX9fiZ14tJMDC0lgMO8xQo8IeZVL2Iw45CFc6pYVrNrkPqa"},"49871":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgriTsiKYPZ4jMlk7P59Vs04vas8Y6IuLAiXeydQzZgDyxpFp7q7SiDosG9vLZPArlRDaMxbpYOUehgpFNOJUqr"},"49872":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpP42d1VHzgi9UgbDqYzOn9BogrMIjLv7HFAuPRaG\/Y33lyqdc0Y31RVCCCHJRyQsYuRm5BcG7GAwRA7lA8BLV"},"49873":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjrxdAa+0skxLJSBWGewALY\/\/8ZMknCkUZkpLkxflqB5pdbR1r3xLrS7e4eTssQjBlc6CxQrm9Nhf4ETUnhQ0Yf"},"49874":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biwCtkErmtEf15L1lvGLQ9ge1i5F2UySSYuM+4DSKg3703YF9KbnQcsnMuDWOIIXd1Sx\/h8DEMrCJFzOiPWRaZ2"},"49875":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqHGCaWeqtrc+550cfpEv+HpOOr+9NFParrjkyS6aQ0LW76Mt9BXH+vk5qeiN3UlKM1ylmUAHM1qT\/6Msx17XN"},"49876":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhqHGCaWeqtrc+550cfpEv+gduzP5X1Yjl3Knrbwhqt97xxaYy3JbHxQQFeIYjcZ+fxyj5jUoQ8dim+Gx+H6uOF"},"26554":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6Ir0KO3r8dRFjIT93wgzX1oksyBb5L0RX4thr3\/NVLRJEA6MCS7YRELyXJqhorHlGMSnMhNz1OE6BAF6eb0C6EXN4CRVgzzxmpMCl9PrhDw=="},"157373":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhCSG7bhXpeJpP8jiUMU6cKlWVVMaarCXYm7zap5dLcCDL+2h9hbfIH5vFwisvHt1hy4GOgExCH5mNDewfA5Si8NTcGZeNYaOhe5qFizewnOg=="}};JGPageUntagged=false;JGPageTags=["symphonic poems","ch orch"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":0},"scores":{"tabScore1":false,"tabScore2":false,"tabScore3":false,"tabArrTrans":true,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"49872":[6,"1"],"49874":[10,"1"],"93781":[2,"2"],"424406":[6,"1"],"424651":[10,"1"],"49866":[0,0],"49867":[0,0],"49868":[0,0],"49869":[0,0],"49870":[0,0],"49871":[0,0],"49873":[0,0],"49875":[0,0],"49876":[0,0],"26554":[0,0],"157373":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a></li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Fragments_.28Nos.1.2C_2.2C_3_.2C5.29"><span class="tocnumber">2.1.1</span> <span class="toctext">Fragments (Nos.1, 2, 3 ,5)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Fragments_.28Nos.1.2C_2.2C_3_.2C5.29_2"><span class="tocnumber">2.2.1</span> <span class="toctext">Fragments (Nos.1, 2, 3 ,5)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.3</span> <span class="toctext">Vocal Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">2</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<div class="we"><div id="IMSLP424651" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/424651"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Recording</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ca/PMLP58981-Franck_Psyche_Nederlands_Kamerkoor_ResidentieOrk_van_Otterloo_21_22_10_1954.mp3" class="internal" title="PMLP58981-Franck Psyche Nederlands Kamerkoor ResidentieOrk van Otterloo 21 22 10 1954.mp3">*</a></span><a href="/wiki/File:PMLP58981-Franck_Psyche_Nederlands_Kamerkoor_ResidentieOrk_van_Otterloo_21_22_10_1954.mp3" title="File:PMLP58981-Franck Psyche Nederlands Kamerkoor ResidentieOrk van Otterloo 21 22 10 1954.mp3">#424651</a> - <span style="color:red"><b>96.48</b></span>MB - 42:03<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-424651' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-424651'>
+	<a href='javascript:void(0)' id='424651' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='424651' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='424651' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='424651' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='424651' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-424651'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/424651/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/424651/Psyché (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@424651" title="Special:GetFCtrStats/@424651">116</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Rgagnaux" title="User:Rgagnaux">Rgagnaux</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Rgagnaux" title="User:Rgagnaux">Rgagnaux</a><span class="mh555"> (2016/5/30)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Nederlands_Kamerkoor" class="extiw" title="wikipedia:Nederlands Kamerkoor">Netherlands Chamber Choir</a><br /><a href="http://en.wikipedia.org/wiki/Residentie_Orchestra" class="extiw" title="wikipedia:Residentie Orchestra">Residentie Orchestra</a><br /><a href="http://en.wikipedia.org/wiki/Willem_van_Otterloo" class="extiw" title="wikipedia:Willem van Otterloo">Willem van Otterloo</a>
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>London: <a href="http://en.wikipedia.org/wiki/Philips_Records" class="extiw" title="wikipedia:Philips Records">Philips Records</a>, 1954.  A00262L.
+</td></tr>
+<tr>
+<th>Reissue
+</th>
+<td>Schattdorf: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.rene-gagnaux.ch/van_otterloo_willem/franck_psyche_1954.html">Gagnaux Collection</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-NoDerivs_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-NoDerivs 4.0">Creative Commons Attribution-NonCommercial-NoDerivs 4.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=424651">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=424651">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Recorded 1954 october 21-22, <a href="http://en.wikipedia.org/wiki/Concertgebouw" class="extiw" title="wikipedia:Concertgebouw">Concertgebouw</a>, <a href="http://en.wikipedia.org/wiki/Amsterdam" class="extiw" title="wikipedia:Amsterdam">Amsterdam, Netherlands</a> (picture on the right: Willem van OTTERLOO (in the middle) with the two concertmasters Theo Olof (on the left) and Herman Krebbers (on the right), Nederland, 1958, <span class="plainlinks"><a rel="nofollow" class="external text" href="http://proxy.handle.net/10648/6ba8ff00-1ad9-102f-a76c-003048944028">Nationaal Archief, Collectie Spaarnestad</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="424651">Javascript is required for this feature.</div><script>JGINITsearchbars['424651']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Otterloo_Olof_Krebbers_1958_SFA002010587.jpg" class="image"><img alt="Otterloo Olof Krebbers 1958 SFA002010587.jpg" src="/images/thumb/0/0f/Otterloo_Olof_Krebbers_1958_SFA002010587.jpg/120px-Otterloo_Olof_Krebbers_1958_SFA002010587.jpg" width="120" height="152" /></a></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP424406" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/424406"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Part I: Nos.1, 2, Part II: Nos.3, 5</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/60/PMLP58981-Franck_Psyche_NPO_Goehr_CHS_1243.mp3" class="internal" title="PMLP58981-Franck Psyche NPO Goehr CHS 1243.mp3">*</a></span><a href="/wiki/File:PMLP58981-Franck_Psyche_NPO_Goehr_CHS_1243.mp3" title="File:PMLP58981-Franck Psyche NPO Goehr CHS 1243.mp3">#424406</a> - <span style="color:red"><b>57.89</b></span>MB - 25:13<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-424406' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-424406'>
+	<a href='javascript:void(0)' id='424406' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='424406' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='424406' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='424406' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='424406' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-424406'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/424406/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/424406/Psyché (Franck, César)"><span style="color:green">!<b>N</b></span>/<span style="color:red"><b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@424406" title="Special:GetFCtrStats/@424406">47</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Rgagnaux" title="User:Rgagnaux">Rgagnaux</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Rgagnaux" title="User:Rgagnaux">Rgagnaux</a><span class="mh555"> (2016/5/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.rene-gagnaux.ch/goehr_walter/franck_psyche_4_fragments_chs_1243.html#NPO_Goehr">Nederlands Philharmonisch Orkest</a></span><br /><a href="http://en.wikipedia.org/wiki/Walter_Goehr" class="extiw" title="wikipedia:Walter Goehr">Walter Goehr</a>
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>New York: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.soundfountain.com/concert-hall/concerthall.html">Musical Masterpiece Society/Concert Hall</a></span>, n.d.(ca.1950).  CHS-1243.
+</td></tr>
+<tr>
+<th>Reissue
+</th>
+<td>Schattdorf: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.rene-gagnaux.ch/goehr_walter/franck_psyche_4_fragments_chs_1243.html">Gagnaux Collection</a></span>
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial-NoDerivs_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial-NoDerivs 4.0">Creative Commons Attribution-NonCommercial-NoDerivs 4.0</a>&#160;- <b><span style="color:red">Non-PD US</span></b>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=424406">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=424406">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Recorded ca. 1950
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="424406">Javascript is required for this feature.</div><script>JGINITsearchbars['424406']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:CH_1243_Recto.jpg" class="image"><img alt="CH 1243 Recto.jpg" src="/images/thumb/1/1c/CH_1243_Recto.jpg/120px-CH_1243_Recto.jpg" width="120" height="120" /></a></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">12</span>)</a></b></li><li id="tabScore3_tab"><b><a href="#tabScore3">Vocal Scores (<span id="tabScore3_ct">1</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<h4> <span class="mw-headline" id="Fragments_.28Nos.1.2C_2.2C_3_.2C5.29">Fragments (Nos.1, 2, 3 ,5)</span></h4>
+<div class="we"><div id="IMSLP93781" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/93781"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a9/PMLP58981-Franck_Psyche_Quatre_Fragments_fs.pdf" class="internal" title="PMLP58981-Franck Psyche Quatre Fragments fs.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck_Psyche_Quatre_Fragments_fs.pdf" title="File:PMLP58981-Franck Psyche Quatre Fragments fs.pdf">#93781</a> - <span style="color:red"><b>22.47</b></span>MB, 53 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-93781' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-93781'>
+	<a href='javascript:void(0)' id='93781' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='93781' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='93781' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='93781' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='93781' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-93781'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/93781/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/93781/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3637"><a href="/wiki/Special:GetFCtrStats/@93781" title="Special:GetFCtrStats/@93781">3637</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Hobbypianist" title="User:Hobbypianist">Hobbypianist</a> (2011/2/23)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: O. Bornemann, 1900. Plate O.B. 4289 A.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>Munich: Musikproduktion Höflich
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=93781">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=93781">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="93781">Javascript is required for this feature.</div><script>JGINITsearchbars['93781']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=93781&type=Complete%20score&pgcount=53&signature=acaf3e74dfb21e622d1c06830917ae31fa50eb11"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP58981-Franck_Psyche_Quatre_Fragments_fs.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/a9/21b52db533207704be6bb11843ee198e07c850df.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<h4> <span class="mw-headline" id="Fragments_.28Nos.1.2C_2.2C_3_.2C5.29_2">Fragments (Nos.1, 2, 3 ,5)</span></h4>
+<div class="we"><div id="IMSLP49866" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49866"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute 1/2, Piccolo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b8/PMLP58981-Franck-Psyche.Flute.pdf" class="internal" title="PMLP58981-Franck-Psyche.Flute.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Flute.pdf" title="File:PMLP58981-Franck-Psyche.Flute.pdf">#49866</a> - 0.54MB, 9 (8, 1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49866' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49866'>
+	<a href='javascript:void(0)' id='49866' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49866' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49866' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49866' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49866' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49866'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49866/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49866/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 421"><a href="/wiki/Special:GetFCtrStats/@49866" title="Special:GetFCtrStats/@49866">421</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>11 more</u>:</b> Oboe 1/2, English Horn • Clarinet 1/2 (in A), Bass Clarinet (in B&#x266d;) • Bassoon 1/2, 3/4 • Horn 1/2, 3/4 (in E) • Trumpet 1/2 (in F, E) / Cornet 1/2 (in A) • Trombone 1/2, 3, Tuba • Timpani • Harp 1, 2 • Violins I, II • Violas • Cello / Double Basses
+</p>
+</div><div id="IMSLP49867" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49867"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1/2, English Horn</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d2/PMLP58981-Franck-Psyche.Oboe.pdf" class="internal" title="PMLP58981-Franck-Psyche.Oboe.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Oboe.pdf" title="File:PMLP58981-Franck-Psyche.Oboe.pdf">#49867</a> - 0.73MB, 12 (7, 5) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49867' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49867'>
+	<a href='javascript:void(0)' id='49867' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49867' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49867' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49867' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49867' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49867'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49867/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49867/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 292"><a href="/wiki/Special:GetFCtrStats/@49867" title="Special:GetFCtrStats/@49867">292</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49868" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49868"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Clarinet 1/2 (in A), Bass Clarinet (in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode; font-size:110%">&#x266d;</span>)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP58981-Franck-Psyche.Clarinet.pdf" class="internal" title="PMLP58981-Franck-Psyche.Clarinet.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Clarinet.pdf" title="File:PMLP58981-Franck-Psyche.Clarinet.pdf">#49868</a> - 0.98MB, 17 (11, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49868' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49868'>
+	<a href='javascript:void(0)' id='49868' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49868' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49868' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49868' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49868' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49868'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49868/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49868/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 329"><a href="/wiki/Special:GetFCtrStats/@49868" title="Special:GetFCtrStats/@49868">329</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49869" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49869"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon 1/2, 3/4</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7d/PMLP58981-Franck-Psyche.Bassoon.pdf" class="internal" title="PMLP58981-Franck-Psyche.Bassoon.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Bassoon.pdf" title="File:PMLP58981-Franck-Psyche.Bassoon.pdf">#49869</a> - 0.81MB, 15 (8, 7) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49869' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49869'>
+	<a href='javascript:void(0)' id='49869' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49869' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49869' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49869' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49869' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49869'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49869/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49869/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 268"><a href="/wiki/Special:GetFCtrStats/@49869" title="Special:GetFCtrStats/@49869">268</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49870" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49870"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Horn 1/2, 3/4 (in E)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/de/PMLP58981-Franck-Psyche.Horn.pdf" class="internal" title="PMLP58981-Franck-Psyche.Horn.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Horn.pdf" title="File:PMLP58981-Franck-Psyche.Horn.pdf">#49870</a> - 1.05MB, 19 (11, 8) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49870' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49870'>
+	<a href='javascript:void(0)' id='49870' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49870' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49870' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49870' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49870' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49870'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49870/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49870/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 290"><a href="/wiki/Special:GetFCtrStats/@49870" title="Special:GetFCtrStats/@49870">290</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49871" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49871"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1/2 (in F, E)<br />Cornet 1/2 (in A)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b1/PMLP58981-Franck-Psyche.Trumpet.pdf" class="internal" title="PMLP58981-Franck-Psyche.Trumpet.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Trumpet.pdf" title="File:PMLP58981-Franck-Psyche.Trumpet.pdf">#49871</a> - 0.53MB, 12 (6, 6) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49871' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49871'>
+	<a href='javascript:void(0)' id='49871' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49871' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49871' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49871' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49871' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49871'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49871/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49871/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 281"><a href="/wiki/Special:GetFCtrStats/@49871" title="Special:GetFCtrStats/@49871">281</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49872" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49872"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trombone 1/2, 3, Tuba</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d2/PMLP58981-Franck-Psyche.LowBrass.pdf" class="internal" title="PMLP58981-Franck-Psyche.LowBrass.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.LowBrass.pdf" title="File:PMLP58981-Franck-Psyche.LowBrass.pdf">#49872</a> - 0.32MB, 9 (4, 2, 3) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49872' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49872'>
+	<a href='javascript:void(0)' id='49872' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49872' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49872' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49872' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49872' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49872'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49872/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49872/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 313"><a href="/wiki/Special:GetFCtrStats/@49872" title="Special:GetFCtrStats/@49872">313</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49873" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49873"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timpani</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/eb/PMLP58981-Franck-Psyche.Timpani.pdf" class="internal" title="PMLP58981-Franck-Psyche.Timpani.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Timpani.pdf" title="File:PMLP58981-Franck-Psyche.Timpani.pdf">#49873</a> - 0.08MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49873' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49873'>
+	<a href='javascript:void(0)' id='49873' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49873' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49873' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49873' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49873' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49873'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49873/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49873/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 217"><a href="/wiki/Special:GetFCtrStats/@49873" title="Special:GetFCtrStats/@49873">217</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49874" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49874"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Harp 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8e/PMLP58981-Franck-Psyche.Harp.pdf" class="internal" title="PMLP58981-Franck-Psyche.Harp.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Harp.pdf" title="File:PMLP58981-Franck-Psyche.Harp.pdf">#49874</a> - 0.15MB, 3 (2, 1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49874' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49874'>
+	<a href='javascript:void(0)' id='49874' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49874' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49874' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49874' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49874' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49874'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49874/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49874/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 283"><a href="/wiki/Special:GetFCtrStats/@49874" title="Special:GetFCtrStats/@49874">283</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49875" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49875"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I, II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3e/PMLP58981-Franck-Psyche.Violin.pdf" class="internal" title="PMLP58981-Franck-Psyche.Violin.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Violin.pdf" title="File:PMLP58981-Franck-Psyche.Violin.pdf">#49875</a> - 1.09MB, 19 (9, 10) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49875' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49875'>
+	<a href='javascript:void(0)' id='49875' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49875' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49875' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49875' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49875' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49875'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49875/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49875/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 492"><a href="/wiki/Special:GetFCtrStats/@49875" title="Special:GetFCtrStats/@49875">492</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP49876" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/49876"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3e/PMLP58981-Franck-Psyche.Viola.pdf" class="internal" title="PMLP58981-Franck-Psyche.Viola.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck-Psyche.Viola.pdf" title="File:PMLP58981-Franck-Psyche.Viola.pdf">#49876</a> - 0.52MB, 9 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-49876' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-49876'>
+	<a href='javascript:void(0)' id='49876' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='49876' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='49876' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='49876' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='49876' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-49876'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/49876/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/49876/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 239"><a href="/wiki/Special:GetFCtrStats/@49876" title="Special:GetFCtrStats/@49876">239</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2009/12/23" class="hovertext">2009/12/22</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP26554" class="we_file we_fileblock_4 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/26554"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cello / Double Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8a/PMLP58981-Franck_-_Psyche_Nos1-4_%28cello-part%29a.pdf" class="internal" title="PMLP58981-Franck - Psyche Nos1-4 (cello-part)a.pdf">*</a></span><a href="/wiki/File:PMLP58981-Franck_-_Psyche_Nos1-4_(cello-part)a.pdf" title="File:PMLP58981-Franck - Psyche Nos1-4 (cello-part)a.pdf">#26554</a> - 0.88MB, 15 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-26554' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-26554'>
+	<a href='javascript:void(0)' id='26554' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='26554' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='26554' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='26554' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='26554' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-26554'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/26554/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/26554/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 316"><a href="/wiki/Special:GetFCtrStats/@26554" title="Special:GetFCtrStats/@26554">316</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Generoso" title="User:Generoso">Generoso</a> (<span title="Updated: 2009/1/11" class="hovertext">2009/1/10</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: O. Bornemann, n.d.(ca.1900). Plates O.B. 4289, 4293, 4302, 4301
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>New York: <a href="/wiki/Edwin_F._Kalmus" title="Edwin F. Kalmus">Edwin F. Kalmus</a>,  n.d.(1933-70).
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=49866/49867/49868/49869/49870/49871/49872/49873/49874/49875/49876/26554">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=49866/49867/49868/49869/49870/49871/49872/49873/49874/49875/49876/26554">del</a>/<span id="fmrglnk" data-pdfstr="49866//49867//49868//49869//49870//49871//49872//49873//49874//49875//49876//26554/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These files are part of the <a href="/wiki/IMSLP:Community_Projects/Orchestra_Parts_Project" title="IMSLP:Community Projects/Orchestra Parts Project">Orchestra Parts Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="49866">Javascript is required for this feature.</div><script>JGINITsearchbars['49866']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=49866|49867|49868|49869|49870|49871|49872|49873|49874|49875|49876|26554&type=Flute%201%2F2%2C%20Piccolo%7COboe%201%2F2%2C%20English%20Horn%7CClarinet%201%2F2%20%28in%20A%29%2C%20Bass%20Clarinet%20%28in%20B%26%23x266d%3B%29%7CBassoon%201%2F2%2C%203%2F4%7CHorn%201%2F2%2C%203%2F4%20%28in%20E%29%7CTrumpet%201%2F2%20%28in%20F%2C%20E%29%20%2F%20Cornet%201%2F2%20%28in%20A%29%7CTrombone%201%2F2%2C%203%2C%20Tuba%7CTimpani%7CHarp%201%2C%202%7CViolins%20I%2C%20II%7CViolas%7CCello%20%2F%20Double%20Basses&pgcount=9|12|17|15|19|12|9|3|3|19|9|15&signature=04c4e25b5dc3318745bf78d22f296a8afcec9782"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP58981-Franck-Psyche.Flute.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/b8/633c5c244a01c8247d0943ea0a693671fc34ab51.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<div class="we"><div id="IMSLP157373" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/157373"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6d/SIBLEY1802.17110.c476-39087011325422score.pdf" class="internal" title="SIBLEY1802.17110.c476-39087011325422score.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.17110.c476-39087011325422score.pdf" title="File:SIBLEY1802.17110.c476-39087011325422score.pdf">#157373</a> - 4.87MB, 103 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-157373' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-157373'>
+	<a href='javascript:void(0)' id='157373' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='157373' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='157373' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='157373' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='157373' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-157373'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/157373/Psych%C3%A9_(Franck,_C%C3%A9sar)" title="Special:IMSLPEditCTag/157373/Psyché (Franck, César)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 949"><a href="/wiki/Special:GetFCtrStats/@157373" title="Special:GetFCtrStats/@157373">949</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/17110"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (2011/11/28)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Language
+</th>
+<td>English
+</td></tr>
+<tr>
+<th>Translator
+</th>
+<td><a href="/wiki/Category:England,_Paul" title="Category:England, Paul">Paul England</a> (fl.1863-1932), English text
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: A. Bornemann, 1901.  Plate O.B. 3989.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=157373">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=157373">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Piano 4-hands accompaniment for instrumental opening instead of the usual piano.<br />This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="157373">Javascript is required for this feature.</div><script>JGINITsearchbars['157373']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.17110.c476-39087011325422score.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6d/0dc7217c01a49157c5e05b9248f334d5550aceaa.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Vocal Scores" data-tabid="tabScore3"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Psyché
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Poème symphonique pour orchestre et choeurs
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Franck,_C%C3%A9sar" title="Category:Franck, César">Franck, César</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>FWV 47
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ICF 59
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 sections
+<dl><dt><ul><li>Part I
+</li></ul>
+</dt><dd>1. Le Sommeil de Psyché
+</dd><dd>2. Psyché enlevée par les zéphyrs
+</dd></dl>
+<dl><dt><ul><li>Part II
+</li></ul>
+</dt><dd>3. Les jardins d'Eros
+</dd><dd>4. Lento
+</dd><dd>5. Psyché et Eros
+</dd></dl>
+<dl><dt><ul><li>Part III
+</li></ul>
+</dt><dd>6. Quasi Lento
+</dd><dd>7. Souffrances et Plaintes de Psyché
+</dd></dl>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1886&#8211;87
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1888-03-10, Paris
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1893 (Piano 4 hands)&#160;; 1903 (Orch.)
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/index.php?title=Category:Sicard,_S.&amp;action=edit&amp;redlink=1" class="new" title="Category:Sicard, S. (page does not exist)">S. Sicard</a>? (<span style="border-bottom:1px dotted" title="floruit (flourished)">fl.</span>1888–1905)<br />Louis de Fourcaud (possibly)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>Vincent d'Indy
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td><i>Chorus</i> - SATB<br /><i>Orchestra</i> - 2 Flutes, Piccolo, 2 Oboes, English Horn, 2 Clarinets, Bass Clarinet, 4 Bassoons<br />4 Horns, 2 Trumpets, 2 Cornets, 3 Trombones, Tuba, Timpani, 2 Harps, Strings
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>Begun by 1886; Stove (2011,2) (<i>César Franck: His Life and Times</i>) notes that the manuscript to <i>Les jardins d&#8217;Eros</i> was completed 1886-8-4. Fourcaud's involvement in the libretto, according to Stove, is conjecture by d'Indy, who could not find out who wrote the words; he also conjectured that Georges Franck might have been involved. (According to Stove it was finished during the summer of 1887.)  (An arrangement for chorus and piano four hands, in French, was published ca.1903 with the arrangement attributed to <a href="/wiki/Category:Sandr%C3%A9,_Gustave" title="Category:Sandré, Gustave">Gustave Sandré</a>.)
+</p><p>S. Sicard was the name or pseudonym of someone, it seems, who provided texts for works published between ca.1888 and ca.1905 or thereabouts. (Not necessarily Sylvia or Sylva?... though there does seem to have <i>been</i> a Sylva Sicard, and no other records offhand of a Sylvia Sicard are showing up, though perhaps if one looks more closely...)
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 846/1000000
+Post-expand include size: 68451/2097152 bytes
+Template argument size: 1206/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:58981-0!*!0!!en!2!* and timestamp 20180417090502 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Psych%C3%A9_(Franck,_C%C3%A9sar)&amp;oldid=2371092">http://imslp.org/index.php?title=Psych%C3%A9_(Franck,_C%C3%A9sar)&amp;oldid=2371092</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Recordings_published_in_1954" title="Category:Recordings published in 1954">Recordings published in 1954</a></li><li><a href="/wiki/Category:Recordings_published_in_the_20th_century" title="Category:Recordings published in the 20th century">Recordings published in the 20th century</a></li><li><a href="/wiki/Category:Gagnaux_Collection_Recordings" title="Category:Gagnaux Collection Recordings">Gagnaux Collection Recordings</a></li><li><a href="/wiki/Category:Recordings_with_unknown_publication_dates" title="Category:Recordings with unknown publication dates">Recordings with unknown publication dates</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Works_reprinted_by_Edwin_F._Kalmus" title="Category:Works reprinted by Edwin F. Kalmus">Works reprinted by Edwin F. Kalmus</a></li><li><a href="/wiki/Category:OM_Parts" title="Category:OM Parts">OM Parts</a></li><li><a href="/wiki/Category:England,_Paul/Translator" title="Category:England, Paul/Translator">England, Paul/Translator</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Franck,_C%C3%A9sar" title="Category:Franck, César">Franck, César</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Symphonic_poems" title="Category:Symphonic poems">Symphonic poems</a></li><li><a href="/wiki/Category:For_mixed_chorus,_orchestra" title="Category:For mixed chorus, orchestra">For mixed chorus, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_chorus_with_orchestra" title="Category:For chorus with orchestra">For chorus with orchestra</a></li><li><a href="/wiki/Category:Works_first_published_in_1893" title="Category:Works first published in 1893">Works first published in 1893</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:Sicard,_S./Librettist" title="Category:Sicard, S./Librettist">Sicard, S./Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Psych%C3%A9_%28Franck%2C_C%C3%A9sar%29">4,873 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Psych%C3%A9%20%28Franck%2C%20C%C3%A9sar%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.459 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180417090502 -->
+</html>
+		

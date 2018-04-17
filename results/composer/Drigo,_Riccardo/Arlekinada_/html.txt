@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Arlekinada (Drigo, Riccardo) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Arlekinada_(Drigo,_Riccardo)", "wgTitle": "Arlekinada (Drigo, Riccardo)", "wgCurRevisionId": 2238022, "wgArticleId": 24219, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores published by Muzgiz", "Sibley Mirroring Project", "MIT project", "Auer, Leopold/Arranger", "Wolff-Israel, Eugène/Arranger", "Scores from Debrecen University", "Hofmann, Richard/Arranger", "Intermediate Works for Violin", "Scores", "Drigo, Riccardo", "Romantic style", "Romantic", "Ballets", "Theatrical Works", "For orchestra", "Scores featuring the orchestra", "For piano (arr)", "For 1 player", "Scores featuring the piano", "For wind band (arr)", "For orchestra without strings", "Scores featuring wind band", "For flute, piano (arr)", "Scores featuring the flute", "For 2 players", "For violin, piano (arr)", "Scores featuring the violin", "For cello, piano (arr)", "Scores featuring the cello", "Pages with arrangements", "Works first published in 1901", "Works first published in the 20th century", "Pages with parts for purchase"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Arlekinada_Drigo_Riccardo action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Arlekinada_(Drigo,_Riccardo)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Arlekinada_(Drigo,_Riccardo)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Arlekinada_(Drigo,_Riccardo)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Arlekinada_(Drigo,_Riccardo)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Arlekinada_(Drigo,_Riccardo)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Arlekinada_(Drigo,_Riccardo)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Arlekinada_(Drigo,_Riccardo)&amp;oldid=2238022" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Arlekinada%20%28Drigo%2C%20Riccardo%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Arlekinada (Drigo, Riccardo)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2 Acts
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1901
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Ballets&amp;transclude=Template:Catintro">Ballets</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra&amp;transclude=Template:Catintro">For orchestra</a></span>; <span class="expandline" title="14 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano_%28arr%29&amp;transclude=Template:Catintro">For piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_wind_band_%28arr%29&amp;transclude=Template:Catintro">For wind band (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_orchestra_without_strings&amp;transclude=Template:Catintro">For orchestra without strings</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_wind_band&amp;transclude=Template:Catintro">Scores featuring wind band</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_flute%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For flute, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_flute&amp;transclude=Template:Catintro">Scores featuring the flute</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_violin%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For violin, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_violin&amp;transclude=Template:Catintro">Scores featuring the violin</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_cello%2C_piano_%28arr%29&amp;transclude=Template:Catintro">For cello, piano (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_cello&amp;transclude=Template:Catintro">Scores featuring the cello</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Arlekinada","composer":"Drigo, Riccardo","comphref":"\/wiki\/Category:Drigo,_Riccardo"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"arlekinada","itunes":"arlekinada","composer":"drigo","scorekeywords":"arlekinada","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=80;JGBSAccompnum=0;JGNaxosSearch={"numres":20,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=AM25C0301.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=AM25C0301.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DAM25C0301","desc":"Flute Recital: Inoue, Akifumi - BEETHOVEN, L. van \/ CASSAD\u00d3, G. \/ DRIGO, R. \/ ELGAR, E. \/ GRIEG, E (Requiebros for St. Valentine's Day)","label":"A&amp;amp;M Classique","category":"Chamber Music - Classical Music","composer":"Casals, Pablo -- Puccini, Giacomo -- Rachmaninov, Sergey -- Saint-Sa\u00ebns, Camille -- Schubert, Franz -- Massenet, Jules -- Cassado, Gaspar -- Beethoven, Ludwig van -- Drigo, Riccardo -- Elgar, Edward -- Faur\u00e9, Gabriel -- Grieg, Edvard -- Woodall, Albert","artist":"Inoue, Akifumi -- Inoue, Mami","country":"Austria France Germany Italy Japan Norway Russia Spain United Kingdom","catid":"AM25C0301","cdinfo":[[["Beethoven, Ludwig van",[["Romance No. 2 in F Major, Op. 50 (arr. A. Inoue for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291179",[]]]],["Drigo, Riccardo",[["Arlekinada (Harlequin's Millions): Serenade (arr. for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291180",[]]]],["Schubert, Franz",[["Schwanengesang, D. 957: No. 4. Standchen (Serenade) (arr. A. Inoue for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291181",[]]]],["Woodall, Albert",[["Serenade","mediaplayer\/player.asp?br=128&tl=2291182",[]]]],["Faur&#233;, Gabriel",[["3 Songs, Op. 7: No. 1. Apres un reve (arr. for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291183",[]]]],["Saint-Sa&#235;ns, Camille",[["Samson et Dalila, Op. 47, Act II: Mon coeur s'ouvre a ta voix (arr. A. Inoue and M. Inoue for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291184",[]]]],["Massenet, Jules",[["Thais, Act II: Meditation (arr. A. Inoue for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291185",[]]]],["Elgar, Edward",[["Salut d'amour, Op. 12, \"Liebesgruss\" (arr. for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291186",[]]]],["Rachmaninov, Sergey",[["14 Songs, Op. 34: No. 14. Vocalise in E Minor (arr. for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291187",[]]]],["Grieg, Edvard",[["Hjertets melodier (Melodies of the Heart), Op. 5: No. 3. Ich liebe dich (arr. M. Inoue for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291188",[]]]],["Puccini, Giacomo",[["Turandot, Act III: Nessun dorma! (arr. for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291189",[]]]],["Cassado, Gaspar",[["Requiebros (arr. for flute and piano)","mediaplayer\/player.asp?br=128&tl=2291190",[]]]],["Casals, Pablo",[["El cant dels ocells (arr. for flute)","mediaplayer\/player.asp?br=128&tl=2291191",[]]]],["Faur&#233;, Gabriel",[["Morceau de concours","mediaplayer\/player.asp?br=128&tl=2291192",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CC72165.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CC72165.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCC72165","desc":"SCHUBERT \/ DRIGO \/ VIEUXTEMPS \/ CAGE \/ STRAVINSKY \/ APITULEY \/ FAURE \/ PIAZZOLLA: Viola Works","label":"Challenge Classics","category":"Chamber Music - Classical Music","composer":"Schubert, Franz -- Piazzolla, Astor -- Vieuxtemps, Henry -- Cage, John -- Drigo, Riccardo -- Faur\u00e9, Gabriel -- Stravinsky, Igor -- Apituley, Esther","artist":"Apituley, Esther -- Tanaka, Rie -- Calmes, Eric -- Dagelet, Hans -- Amsterdam Viola Quartet","country":"Argentina Austria Belgium France Italy Netherlands Russia United States","catid":"CC72165","cdinfo":[[["Schubert, Franz",[["Arpeggione Sonata in A Minor, D. 821 (arr. for viola and piano)","mediaplayer\/player.asp?br=128&tl=389026|389027|389028",[]]]],["Drigo, Riccardo",[["Arlekinada (Harlequin's Millions): Valse Bluette","mediaplayer\/player.asp?br=128&tl=389029",[]]]],["Vieuxtemps, Henry",[["6 Morceaux, suivis d'un capriccio, Op. 61: Capriccio","mediaplayer\/player.asp?br=128&tl=389030",[]]]],["Cage, John",[["Dream (arr. for viola quartet and piano)","mediaplayer\/player.asp?br=128&tl=389031",[]]]],["Stravinsky, Igor",[["Elegie","mediaplayer\/player.asp?br=128&tl=389032",[]]]],["Apituley, Esther",[["Hydropath","mediaplayer\/player.asp?br=128&tl=389033",[]]]],["Faur&#233;, Gabriel",[["Berceuse, Op. 16 (arr. for viola and piano)","mediaplayer\/player.asp?br=128&tl=390927",[]]]],["Piazzolla, &#193;stor",[["Le Grand Tango","mediaplayer\/player.asp?br=128&tl=390928",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=090266380725.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=090266380725.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D090266380725","desc":"Flute Recital: Galway, James - DINICU, G. \/ DRIGO, R. \/ PAGANINI, N. \/ BACH, J.S. \/ CHOPIN, F. (Man With The Golden Flute)","label":"RCA Records","category":"Orchestral - Classical Music","composer":"Miyagi, Michio -- Bach, Johann Sebastian -- Dinicu, Grigoras -- Saint-Sa\u00ebns, Camille -- Doppler, Franz -- Paganini, Nicol\u00f2 -- Chopin, Fryderyk -- Drigo, Riccardo -- Gluck, Christoph Willibald -- Godard, Benjamin -- Rimsky-Korsakov, Nikolay Andreyevich","artist":"Galway, James -- Gerhardt, Charles -- National Philharmonic Orchestra","country":"Australia France Germany Irish Republic Italy Japan Poland Romania Russia Ukraine United States","catid":"090266380725","cdinfo":[[["Dinicu, Grigoras",[["Hora Staccato (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109868",[]]]],["Drigo, Riccardo",[["Arlekinada, \"Harlequin's Millions\": Serenade (arr. D. Gamley for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109869",[]]]],["Paganini, Nicol&#242;",[["Moto perpetuo in C Major, Op. 11, MS 72 (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109870",[]]]],["Bach, Johann Sebastian",[["Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet - VII. Badinerie (arr. J. Galway for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109871",[]]]],["Miyagi, Michio",[["Haru no Umi (The Sea in Spring) (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109872",[]]]],["Godard, Benjamin",[["Suite in B-Flat Major, Op. 116: III. Valse","mediaplayer\/player.asp?br=128&tl=2109873",[]]]],["Rimsky-Korsakov, Nikolay Andreyevich",[["Tale of Tsar Saltan, Op. 57: Flight of the Bumblebee (arr. C. Gerhardt for flute and orchesta)","mediaplayer\/player.asp?br=128&tl=2109874",[]]]],["Saint-Sa&#235;ns, Camille",[["Ascanio: Adagio - Variation","mediaplayer\/player.asp?br=128&tl=2109875",[]]]],["Chopin, Fryderyk",[["Waltz No. 6 in D-Flat Major, Op. 64, No. 1, \"Minute\" (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109876",[]]]],["Gluck, Christoph Willibald",[["Orfeo ed Euridice, Act II: Dance of the Blessed Spirits","mediaplayer\/player.asp?br=128&tl=2109877",[]]]],["Doppler, Franz",[["Fantaisie Pastorale Hongroise, Op. 26 (version for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2109878",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=035626092429.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=035626092429.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D035626092429","desc":"Flute Recital: Galway, James - DINICU, G. \/ DRIGO, R. \/ PAGANINI, N. \/ BACH, J.S. \/ CHOPIN, F. (Man With The Golden Flute)","label":"RCA Records","category":"Orchestral - Classical Music","composer":"Miyagi, Michio -- Bach, Johann Sebastian -- Dinicu, Grigoras -- Saint-Sa\u00ebns, Camille -- Doppler, Franz -- Paganini, Nicol\u00f2 -- Chopin, Fryderyk -- Drigo, Riccardo -- Gluck, Christoph Willibald -- Godard, Benjamin -- Rimsky-Korsakov, Nikolay Andreyevich","artist":"Galway, James -- Gerhardt, Charles -- National Philharmonic Orchestra","country":"Australia France Germany Irish Republic Italy Japan Poland Romania Russia Ukraine United States","catid":"035626092429","cdinfo":[[["Dinicu, Grigoras",[["Hora Staccato (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108092",[]]]],["Drigo, Riccardo",[["Arlekinada, \"Harlequin's Millions\": Serenade (arr. D. Gamley for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108093",[]]]],["Paganini, Nicol&#242;",[["Moto perpetuo in C Major, Op. 11, MS 72 (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108103",[]]]],["Bach, Johann Sebastian",[["Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet - VII. Badinerie (arr. J. Galway for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108104",[]]]],["Miyagi, Michio",[["Haru no Umi (The Sea in Spring) (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108105",[]]]],["Godard, Benjamin",[["Suite in B-Flat Major, Op. 116: III. Valse","mediaplayer\/player.asp?br=128&tl=2108107",[]]]],["Rimsky-Korsakov, Nikolay Andreyevich",[["Tale of Tsar Saltan, Op. 57: Flight of the Bumblebee (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108108",[]]]],["Saint-Sa&#235;ns, Camille",[["Ascanio: Adagio - Variation","mediaplayer\/player.asp?br=128&tl=2108114",[]]]],["Chopin, Fryderyk",[["Waltz No. 6 in D-Flat Major, Op. 64, No. 1, \"Minute\" (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108115",[]]]],["Gluck, Christoph Willibald",[["Orfeo ed Euridice, Act II: Dance of the Blessed Spirits","mediaplayer\/player.asp?br=128&tl=2108116",[]]]],["Doppler, Franz",[["Fantaisie Pastorale Hongroise, Op. 26 (version for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2108117",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=886444909624.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=886444909624.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D886444909624","desc":"Flute Recital: Galway, James - DINICU, G. \/ DRIGO, R. \/ PAGANINI, N. \/ BACH, J.S. \/ CHOPIN, F. (Man With The Golden Flute)","label":"RCA Records","category":"Orchestral - Classical Music","composer":"Miyagi, Michio -- Bach, Johann Sebastian -- Dinicu, Grigoras -- Saint-Sa\u00ebns, Camille -- Doppler, Franz -- Paganini, Nicol\u00f2 -- Chopin, Fryderyk -- Drigo, Riccardo -- Gluck, Christoph Willibald -- Godard, Benjamin -- Rimsky-Korsakov, Nikolay Andreyevich","artist":"Galway, James -- Gerhardt, Charles -- National Philharmonic Orchestra","country":"Australia France Germany Irish Republic Italy Japan Poland Romania Russia Ukraine United States","catid":"886444909624","cdinfo":[[["Dinicu, Grigoras",[["Hora Staccato (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139534",[]]]],["Drigo, Riccardo",[["Arlekinada, \"Harlequin's Millions\": Serenade (arr. D. Gamley for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139535",[]]]],["Paganini, Nicol&#242;",[["Moto perpetuo in C Major, Op. 11, MS 72 (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139536",[]]]],["Bach, Johann Sebastian",[["Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet - VII. Badinerie (arr. J. Galway for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139537",[]]]],["Miyagi, Michio",[["Haru no Umi (The Sea in Spring) (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139538",[]]]],["Godard, Benjamin",[["Suite in B-Flat Major, Op. 116: III. Valse","mediaplayer\/player.asp?br=128&tl=2139539",[]]]],["Rimsky-Korsakov, Nikolay Andreyevich",[["Tale of Tsar Saltan, Op. 57: Flight of the Bumblebee (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139540",[]]]],["Saint-Sa&#235;ns, Camille",[["Ascanio: Adagio - Variation","mediaplayer\/player.asp?br=128&tl=2139541",[]]]],["Chopin, Fryderyk",[["Waltz No. 6 in D-Flat Major, Op. 64, No. 1, \"Minute\" (arr. C. Gerhardt for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139542",[]]]],["Gluck, Christoph Willibald",[["Orfeo ed Euridice, Act II: Dance of the Blessed Spirits","mediaplayer\/player.asp?br=128&tl=2139543",[]]]],["Doppler, Franz",[["Fantaisie Pastorale Hongroise, Op. 26 (version for flute and orchestra)","mediaplayer\/player.asp?br=128&tl=2139544",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SM216.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SM216.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSM216","desc":"Violin Recital: Lavrova, Dunja - ALBENIZ, I. \/ DEBUSSY, C. \/ DRIGO, R. \/ FALLA, M. de \/ GERSHWIN, G. \/ HALFFTER, E. (Lapshin) (My Dusty Gramophone)","label":"Solo Musica","category":"Chamber Music - Classical Music","composer":"Alb\u00e9niz, Isaac -- Ponce, Manuel Maria -- Rachmaninov, Sergey -- Sarasate, Pablo de -- Halffter, Ernesto -- Wieniawski, Henryk -- Tchaikovsky, Pyotr Il'yich -- Traditional -- Schumann, Robert -- Shostakovich, Dmitry -- Paganini, Nicol\u00f2 -- Drigo, Riccardo -- Falla, Manuel de -- Debussy, Claude -- Gershwin, George","artist":"Lavrova, Dunja -- Lapshin, Konstantin","country":"France Germany Italy Mexico Poland Russia Spain United States","catid":"SM216","cdinfo":[[["Wieniawski, Henryk",[["Polonaise No. 1 in D Major, Op. 4 (version for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112129",[]]]],["Tchaikovsky, Pyotr Il'yich",[["Souvenir d'un lieu cher, Op. 42: No. 3. Melodie","mediaplayer\/player.asp?br=128&tl=2112130",[]]]],["Rachmaninov, Sergey",[["2 Pieces, Op. 6: No. 1. Romance","mediaplayer\/player.asp?br=128&tl=2112131",[]]]],["Halffter, Ernesto",[["Sonatina: No. 2. Danza de la gitana (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112132",[]]]],["Debussy, Claude",[["Suite bergamasque: III. Clair de lune (arr. A. Roelens for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112133",[]]]],["Schumann, Robert",[["Violin Sonata No. 3 in A Minor, WoO 2: II. Intermezzo: Bewegt, doch nicht zu schnell","mediaplayer\/player.asp?br=128&tl=2117798",[]]]],["Drigo, Riccardo",[["Arlekinada (Harlequin's Millions): Valse Bluette (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112135",[]]]],["Rachmaninov, Sergey",[["6 Songs, Op. 38: No. 3. Margaritki (Daisies) (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112136",[]]]],["Paganini, Nicol&#242;",[["Cantabile in D Major, Op. 17, MS 109","mediaplayer\/player.asp?br=128&tl=2112137",[]]]],["Shostakovich, Dmitry",[["24 Preludes, Op. 34: No. 10 in C-Sharp Minor (arr. D.M. Tsiganov for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112138",[]]]],["Debussy, Claude",[["Beau soir (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112139",[]]]],["Gershwin, George",[["Porgy and Bess: Act II: Bess, you is my woman (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112140",[]]]],["Traditional",[["Deep River (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112141",[]]]],["Alb&#233;niz, Isaac",[["Espana, Op. 165: No. 2. Tango (arr. F. Kreisler for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112142",[]]]],["Ponce, Manuel Maria",[["Estrellita (arr. J. Heifetz for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112143",[]]]],["Sarasate, Pablo de",[["Zigeunerweisen, Op. 20","mediaplayer\/player.asp?br=128&tl=2112144|2112145|2112146",["I. Moderato - II. Lento","III. Un poco pi&#249; lento","IV. Allegro molto vivace"]]]],["Falla, Manuel de",[["7 Canciones populares espa&#241;olas: No. 5. Nana (arr. for violin and piano)","mediaplayer\/player.asp?br=128&tl=2112147",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HCD32156.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HCD32156.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHCD32156","desc":"AUER: Transcriptions for Violin and Piano","label":"Hungaroton","category":"Chamber Music - Classical Music","composer":"Wieniawski, Henryk -- Tchaikovsky, Pyotr Il'yich -- Achron, Joseph -- Szigeti, Jozsef -- Auer, Leopold","artist":"Balog, Jozsef -- Szalai, Antal","country":"Hungary Lithuania Poland Russia","catid":"HCD32156","cdinfo":[[["Tchaikovsky, Pyotr Il'yich",[["Souvenir d'un lieu cher, Op. 42: III. Melodie","mediaplayer\/player.asp?br=128&tl=250018",[]]]],["Auer, Leopold",[["Tchaikovsky - String Quartet No. 1 in D Major, Op 11: II. Andante cantabile","mediaplayer\/player.asp?br=128&tl=250019",[]],["Tchaikovsky - Eugene Onegin, Op. 24, Act II Scene 2: Kuda, kuda, kuda vi udalilis, \"Lensky's Aria\"","mediaplayer\/player.asp?br=128&tl=250020",[]],["Drigo - 2 Airs de ballet: No. 2. Valse bluette","mediaplayer\/player.asp?br=128&tl=250021",[]],["Drigo - Arlekinada, \"Harlequin's Millions\": Serenade, \"Notturno d'amore\"","mediaplayer\/player.asp?br=128&tl=250022",[]],["Schumann - Waldscenen (Forest Scenes), Op. 82: No. 7. Vogel als Prophet","mediaplayer\/player.asp?br=128&tl=250023",[]],["Schumann - Myrthen, Op. 25: No. 3. Der Nussbaum","mediaplayer\/player.asp?br=128&tl=250024",[]]]],["Szigeti, Jozsef",[["Haydn - String Quartet No. 53 in D Major, Op. 64, No. 5, Hob.III:63, \"The Lark\": IV. Finale: Vivace","mediaplayer\/player.asp?br=128&tl=250025",[]]]],["Auer, Leopold",[["Chopin - Nocturne No. 19 in E Minor, Op. 72, No. 1","mediaplayer\/player.asp?br=128&tl=250026",[]]]],["Wieniawski, Henryk",[["Capriccio-Valse, Op. 7","mediaplayer\/player.asp?br=128&tl=250027",[]]]],["Auer, Leopold",[["Rubinstein - Melodie in F Major, Op. 3, No. 1","mediaplayer\/player.asp?br=128&tl=250029",[]]]],["Achron, Joseph",[["2 Hebrew Pieces, Op. 35: No. 2 Lullaby (arr. for violin and piano)","mediaplayer\/player.asp?br=128&tl=250030",[]]]],["Achron, Joseph",[["Hebrew Melody, Op. 33","mediaplayer\/player.asp?br=128&tl=250031",[]]]],["Auer, Leopold",[["Paganini - Caprice No. 24 in A Minor, Op. 1","mediaplayer\/player.asp?br=128&tl=250032",[]],["Rhapsodie hongroise, Op. 2","mediaplayer\/player.asp?br=128&tl=250033",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=BMMACG1601.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=BMMACG1601.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DBMMACG1601","desc":"Wind Music - OFFENBACH, J. \/ BROWN, N.H. \/ DELIBES, L. \/ MENDELSSOHN, Felix (Band of the Coldstream Guards) (1908-1940) (Steps of Glory)","label":"British Military Music Archive","category":"Wind Ensemble\/Band Music - Classical Music","composer":"Fenstad, E. A. -- Friml, Rudolph -- Stothart, Herbert -- Bratton, John -- Sullivan, Arthur -- Vallee, Rudy -- Brown, Nacio Herb -- Traditional -- Mendelssohn, Felix -- Offenbach, Jacques -- Drigo, Riccardo -- Planquette, Robert -- Curzon, Frederic -- Delibes, L\u00e9o -- Reeves, Ernest","artist":"Band of the Coldstream Guards -- Evans, Robert George -- Rogan, John Mackenzie","country":"Czech Republic France Germany Italy United Kingdom United States","catid":"BMMACG1601","cdinfo":[[["Fenstad, E. A.",[["Stein Song","mediaplayer\/player.asp?br=128&tl=2865987",[]]]],["Offenbach, Jacques",[["Les contes d'Hoffmann (The Tales of Hoffmann) (excerpt) (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=2865988",[]]]],["Drigo, Riccardo",[["Arlekinada Suite, \"Harlequin's Millions\": I. Valse des alouettes (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=2865989",[]]]],["Sullivan, Arthur",[["The Yeomen of the Guard (Selection) (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=2865990",[]]]],["Reeves, Ernest",[["Hobomoko: Intermezzo","mediaplayer\/player.asp?br=128&tl=2865991",[]]]],["Planquette, Robert",[["Les Cloche de Corneville","mediaplayer\/player.asp?br=128&tl=2865992",[]]]],["Traditional",[["Steps of Glory","mediaplayer\/player.asp?br=128&tl=2865993",[]]]],["Brown, Nacio Herb",[["The Doll Dance","mediaplayer\/player.asp?br=128&tl=2865994",[]]]],["Bratton, John",[["The Teddy Bears' Picnic","mediaplayer\/player.asp?br=128&tl=2865995",[]]]],["Curzon, Frederic",[["Bravada, paso doble","mediaplayer\/player.asp?br=128&tl=2865996",[]]]],["Friml, Rudolph",[["Rose-Marie (excerpt)","mediaplayer\/player.asp?br=128&tl=2865997",[]]]],["Traditional",[["Our Homeland (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=2865998",[]]]],["Delibes, L&#233;o",[["La source, ou Naila (excerpt) (arr. F. Winterbottom for wind ensemble)","mediaplayer\/player.asp?br=128&tl=2865999",[]]]],["Mendelssohn, Felix",[["Athalie, Op. 74: Kriegsmarsch der Priester (War March of the Priests) (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=2866000",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=Marianne092144.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=Marianne092144.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMarianne092144","desc":"Vocal Recital: Vanzo, Alain - MASSENET, J. \/ GODARD, B, \/ CODINI, P. \/ TAGLIAFICO, J.D. \/ TOSTI, F.P. (Chansons de France) (1956-1965)","label":"Marianne Melodie","category":"Vocal - Classical Music","composer":"Toselli, Enrico -- Christine, Henri -- Koechlin, Charles -- Tosti, Francesco Paolo -- Massenet, Jules -- Monti, Vittorio -- Drigo, Riccardo -- Godard, Benjamin -- Coates, Eric -- Martini, Jean-Paul-\u00c9gide -- Fragson -- Bazin, Francois -- Favart, Edgar -- Doria, Frederic -- Tagliafico, Joseph Dieudonne","artist":"Vanzo, Alain -- Studio orchestra","country":"France Germany Italy United Kingdom","catid":"Marianne092144","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SCD1151.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SCD1151.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSCD1151","desc":"CHRISTMAS MUSIC - Kring julgran (Oktetten Ehnstedts Eftr.)","label":"Swedish Society","category":"Chamber Music - Classical Music","composer":"Noack, Kurt -- Schrammel, Johann -- Schubert, Franz -- Waldteufel, \u00c9mile -- Donizetti, Gaetano -- Drigo, Riccardo -- Strauss II, Johann -- Ringvall, Carl Fredrik -- Oscar I (King of Sweden), -- Serrander, Samuel -- Lossner, H. -- Nylen, Carl Johan -- Berner, Louis","artist":"Oktetten Ehnstedts Eftr.","country":"Austria France Germany Italy Sweden","catid":"SCD1151","cdinfo":[[["Waldteufel, &#201;mile",[["Les patineurs, Op. 183, \"Skridskoakarne\" (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=1261030",[]]]],["Oscar I (King of Sweden),",[["Festmarsch","mediaplayer\/player.asp?br=128&tl=1261031",[]]]],["Ringvall, Carl Fredrik",[["Kring Julgran","mediaplayer\/player.asp?br=128&tl=1261032",[]]]],["Strauss II, Johann",[["Annen Polka, Op. 117 (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=1261033",[]]]],["Donizetti, Gaetano",[["Lucia di Lammermoor, Act II: Sextet: Chi mi frena in tal momento (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=1261034",[]]]],["Noack, Kurt",[["Tomtarnas Vaktparad","mediaplayer\/player.asp?br=128&tl=1261035",[]]]],["Serrander, Samuel",[["Pa isen","mediaplayer\/player.asp?br=128&tl=1261036",[]]]],["Schubert, Franz",[["3 Marches militaires, Op. 51, D. 733: No. 1 in D Major (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=1268069",[]]]],["Lossner, H.",[["Kinder-trompeten-polka","mediaplayer\/player.asp?br=128&tl=1261053",[]]]],["Nylen, Carl Johan",[["Gamla och nya aret","mediaplayer\/player.asp?br=128&tl=1261038",[]]]],["Strauss II, Johann",[["Die Fledermaus: Overture (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=1268095",[]]]],["Berner, Louis",[["Polonas","mediaplayer\/player.asp?br=128&tl=1261041",[]]]],["Drigo, Riccardo",[["Arlekinada (Harlequin's Millions): Waltz (arr. for wind ensemble)","mediaplayer\/player.asp?br=128&tl=1261042",[]]]],["Schrammel, Johann",[["Wien bleibt Wien","mediaplayer\/player.asp?br=128&tl=1261043",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/drigo%20arlekinada"};IMSLPNaxosSearch="drigo arlekinada";JGaskdonation=0;JGFileTools={"28966":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=28966"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP28966"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=28966","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/28966"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/28966"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2328966"}},"323329":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=323329"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP323329"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/323329"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/323329"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/323329"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%23323329"}},"9869":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=9869"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP09869"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=9869","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/9869"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/9869"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2309869"}},"85175":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=85175"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP85175"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=85175","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/85175"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/85175"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/85175"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2385175"}},"40353":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40353"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40353\/40354\/fc10"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40353"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/40353"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/40353"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40353"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2340353"}},"40354":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=40354"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/40353\/40354\/fc10"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP40354"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/40354"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/40354"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/40354"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2340354"}},"34539":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=34539"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP34539"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/34539"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/34539"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/34539"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2334539"}},"33376":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=33376"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP33376"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/33376"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/33376"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%2333376"}},"375642":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=375642"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP375642"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/375642"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/375642"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%23375642"}},"145569":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=145569"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/145569\/145570\/c44f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP145569"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=145569","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/145569"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/145569"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%23145569"}},"145570":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=145570"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/145569\/145570\/c44f"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP145570"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=145570","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/145570"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/145570"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%23145570"}},"359466":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=359466"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP359466"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=359466","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/359466"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/359466"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Arlekinada+%28Drigo%2C+Riccardo%29&frmTitle=IMSLP+%23359466"}}};JGFileOpts={"28966":[],"323329":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjYa\/OrzE8XtdhqKxDB6GhsuzYHxBX5gL5GllXK+Tw8ka26bhjFEAz44tKqhtviYAq609iHzemKWK9Pe\/C9\/6ileEbD2HuFGW5bsk7LZ0\/12Q=="},"9869":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2birkW9RMqJ1VBYSnuFtelZbL1actph6Vl0WwynHsRILElT9Y\/8qKUDLCTEZQFy1r0qUa3g40HcUDx+obCtG82Cb3Zrir48uUA6u9CXOhiyHZg=="},"85175":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhkGk8P49yN8bZfwynJUFuz2AeiEAUQ9HTcj5AAOlzp98gW93o0PAxiSZbDJc67tbB5D4Ae59g01y9JCRBRDLVf"},"40353":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhgZXFZSCIUbax\/U3Y8wZhc7kEy3tMSxJ\/8a+aUxzx7SITrMN6u4Z7xmtm8YMAkucbtSszslRYxjagh9Z\/zJCCxlDPYl+c5N7EQEy58EAb84A=="},"40354":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biwCtkErmtEf15L1lvGLQ9gYN8DNwqqRuVKjC54einYw5iJRplOpii6PEN8DCUOq0pDmIibs4CnA0asuDpHGVygIOlX63dA7fZI2uujRCSH4g=="},"34539":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biYcI8pSFAIEBqT0qwaqo2MVmpiPYPlhfVxImgIRLC3Saw9uxgl\/32p4Ih3X7JehYiFDM99cQy8ABZhajQdk4nu"},"33376":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh0ZX0M2CiWptcc56y9EXSkxgiuOEkzpQ0kuJ3AvPOI0nxM6lAlp7mGuxdTZtk9ILmrFnL1o0J7JQQ6LCCBn7FSZnIMOhL1G+8NaAuKbaHNB1gCav5N41Azxeu2z8rDNs8="},"375642":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgjte5ytK9hAnU3J\/7H\/O0gvl\/US\/QFjUVboKkVbAriyhsPVlMDf3cFWwRZCuwGfE8C1ENlvtKeQ5mSO0Rla52Ruv+AYl5MVLkW6SKw2Q8umA=="},"145569":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjo2+VDLfalq3Dt2WhWko95uuSd4dl7uPKr1EtksAkgt3H9mJ5jBCXBmshHbHQ1MU2I6V6ytcuk+oP5IY34twaMJ4wD5jBBT1fKC3alnehz4v41zyKxs\/ki05P3PGgERvY8XMAnKY7IzZwn33XwNkAP"},"145570":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bibDoDNcnpYy3iLCYNEuQA3UwQdd\/Z18nhpOARSVWg3BwF2jJJBFmne3vMmnw1d9OLKM1oPLMar+GQ484WgBU8gQ9uYReeHViK+Gfl3cecnICTrIB004J0DvdUQji0shEycV\/z95iZZDpq6S5ViconG"},"359466":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhu11L5XFTl9+eZ3lzQWti+2O2PwiShclFyk3\/sRn5yu6mGjZotJfZc0hcHC9sjx\/DEv\/ztj4RWlNhrHyztxUwp"}};JGPageUntagged=false;JGPageTags=["ballets","orch"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabNaxos":false,"tabAudio2":true,"tabAudio3":true,"*":false,"\/":1},"scores":{"tabScore2":true,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":2}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"9869":[6.6666666666667,"6"],"28966":[7,"4"],"33376":[8,"2"],"34539":[10,"2"],"40353":[8.6666666666667,"3"],"40354":[5.3333333333333,"3"],"85175":[7.3333333333333,"3"],"145569":[7.5,"4"],"145570":[8,"2"],"323329":[2,"1"],"375642":[0,0],"359466":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.1</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Complete"><span class="tocnumber">2.1.1</span> <span class="toctext">Complete</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Piano_solo_.28Composer.29"><span class="tocnumber">2.1.1.1</span> <span class="toctext">For Piano solo (Composer)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Polka-Pizzicato"><span class="tocnumber">2.1.2</span> <span class="toctext">Polka-Pizzicato</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Wind_Band_.28Rubinchik.29"><span class="tocnumber">2.1.2.1</span> <span class="toctext">For Wind Band (Rubinchik)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Serenade"><span class="tocnumber">2.1.3</span> <span class="toctext">Serenade</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Flute_and_Piano"><span class="tocnumber">2.1.3.1</span> <span class="toctext">For Flute and Piano</span></a></li>
+<li class="toclevel-4"><a href="#For_Violin_and_Piano_.28Auer.29"><span class="tocnumber">2.1.3.2</span> <span class="toctext">For Violin and Piano (Auer)</span></a></li>
+<li class="toclevel-4"><a href="#For_Violin_and_Piano"><span class="tocnumber">2.1.3.3</span> <span class="toctext">For Violin and Piano</span></a></li>
+<li class="toclevel-4"><a href="#For_Cello_and_Piano_.28Wolff-Israel.29"><span class="tocnumber">2.1.3.4</span> <span class="toctext">For Cello and Piano (Wolff-Israel)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Valse-bluette"><span class="tocnumber">2.1.4</span> <span class="toctext">Valse-bluette</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Wind_Band_.28Vilkovir.29"><span class="tocnumber">2.1.4.1</span> <span class="toctext">For Wind Band (Vilkovir)</span></a></li>
+<li class="toclevel-4"><a href="#For_Violin_and_Piano_.28Auer.29_2"><span class="tocnumber">2.1.4.2</span> <span class="toctext">For Violin and Piano (Auer)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Scores (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">12</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Scores" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Complete">Complete</span></h4>
+<h5> <span class="mw-headline" id="For_Piano_solo_.28Composer.29">For Piano solo (Composer)</span></h5>
+<div class="we"><div id="IMSLP28966" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/28966"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/51/PMLP24219-MillionsdArlequinPR.pdf" class="internal" title="PMLP24219-MillionsdArlequinPR.pdf">*</a></span><a href="/wiki/File:PMLP24219-MillionsdArlequinPR.pdf" title="File:PMLP24219-MillionsdArlequinPR.pdf">#28966</a> - 10.05MB, 140 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-28966' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-28966'>
+	<a href='javascript:void(0)' id='28966' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='28966' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='28966' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='28966' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='28966' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-28966'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/28966/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/28966/Arlekinada (Drigo, Riccardo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 3318"><a href="/wiki/Special:GetFCtrStats/@28966" title="Special:GetFCtrStats/@28966">3318</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Google (Harvard)<br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (2009/2/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Zimmermann" title="Zimmermann">J.H. Zimmermann</a>, 1901. Plate Z. 3247
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=28966">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=28966">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Second system from the top of the page appears to be missing on pp. 34 and 36.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="28966">Javascript is required for this feature.</div><script>JGINITsearchbars['28966']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=28966&type=Complete%20Score&pgcount=140&signature=b85fc6d900889e1c65351e196690fca9814359e0"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Harlequinade_-Score_Frontispiece,_1900_-1.JPG" class="image"><img data-src="/images/thumb/8/8c/Harlequinade_-Score_Frontispiece%2C_1900_-1.JPG/120px-Harlequinade_-Score_Frontispiece%2C_1900_-1.JPG" width="120" height="166" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Polka-Pizzicato">Polka-Pizzicato</span></h4>
+<h5> <span class="mw-headline" id="For_Wind_Band_.28Rubinchik.29">For Wind Band (Rubinchik)</span></h5>
+<div class="we"><div id="IMSLP323329" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/323329"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e8/SIBLEY1802.6572.3e07-Film1256DrigoMillionsPizz.pdf" class="internal" title="SIBLEY1802.6572.3e07-Film1256DrigoMillionsPizz.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.6572.3e07-Film1256DrigoMillionsPizz.pdf" title="File:SIBLEY1802.6572.3e07-Film1256DrigoMillionsPizz.pdf">#323329</a> - 3.81MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-323329' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-323329'>
+	<a href='javascript:void(0)' id='323329' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='323329' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='323329' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='323329' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='323329' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-323329'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/323329/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/323329/Arlekinada (Drigo, Riccardo)"><span style="color:gray">C</span>/<span style="color:green">V</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 448"><a href="/wiki/Special:GetFCtrStats/@323329" title="Special:GetFCtrStats/@323329">448</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/6572"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2014/4/27" class="hovertext">2014/4/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td>R. Rubinchik
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Moscow: <a href="/wiki/Muzgiz" title="Muzgiz">Muzgiz</a><!--ASL0-->, 1936.  Plate M. 14232 Г.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=323329">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=323329">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="323329">Javascript is required for this feature.</div><script>JGINITsearchbars['323329']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.6572.3e07-Film1256DrigoMillionsPizz.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/e8/955e7b54481e41841cf7460ac21149a13e1f3cc0.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Serenade">Serenade</span></h4>
+<h5> <span class="mw-headline" id="For_Flute_and_Piano">For Flute and Piano</span></h5>
+<div class="we"><div id="IMSLP09869" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/09869"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5c/Drigo_-_Serenade_for_Flute_and_Piano.pdf" class="internal" title="Drigo - Serenade for Flute and Piano.pdf">*</a></span><a href="/wiki/File:Drigo_-_Serenade_for_Flute_and_Piano.pdf" title="File:Drigo - Serenade for Flute and Piano.pdf">#09869</a> - 0.45MB, 7 (51-57) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-9869' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-9869'>
+	<a href='javascript:void(0)' id='9869' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='9869' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='9869' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='9869' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='9869' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-9869'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/09869/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/09869/Arlekinada (Drigo, Riccardo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2043"><a href="/wiki/Special:GetFCtrStats/@9869" title="Special:GetFCtrStats/@9869">2043</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Mcroskell" title="User:Mcroskell">Mcroskell</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Typh<br />
+<a href="/wiki/User:Mcroskell" title="User:Mcroskell">Mcroskell</a> (2007/7/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Zimmermann" title="Zimmermann">J.H. Zimmermann</a>, 1909.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=9869">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=9869">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is from the <a href="/wiki/IMSLP:Community_Projects/MIT_archive" title="IMSLP:Community Projects/MIT archive">MIT archive project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="9869">Javascript is required for this feature.</div><script>JGINITsearchbars['9869']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=9869&type=Piano%20Score&pgcount=7&signature=3a9a4f34dde57f6a3a25eef7f22ef578aa65fb22"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Drigo_-_Serenade_for_Flute_and_Piano.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/5c/a5aa9b9e3b4fbcfa666f4d76a810a91fde2b2f1a.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Violin_and_Piano_.28Auer.29">For Violin and Piano (Auer)</span></h5>
+<div class="we"><div id="IMSLP85175" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/85175"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score and Violin Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4f/PMLP24219-Drigo_Auer_Serenade.pdf" class="internal" title="PMLP24219-Drigo Auer Serenade.pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_Auer_Serenade.pdf" title="File:PMLP24219-Drigo Auer Serenade.pdf">#85175</a> - 2.47MB, 15 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-85175' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-85175'>
+	<a href='javascript:void(0)' id='85175' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='85175' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='85175' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='85175' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='85175' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-85175'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/85175/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/85175/Arlekinada (Drigo, Riccardo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1758"><a href="/wiki/Special:GetFCtrStats/@85175" title="Special:GetFCtrStats/@85175">1758</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by afp0815<br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2010/11/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Auer,_Leopold" title="Category:Auer, Leopold">Leopold Auer</a> (1845–1930)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Zimmermann" title="Zimmermann">Jul. Heinr. Zimmermann</a>, 1901. Plate Z. 3865.<br /><i>Reissue</i> - London: <a href="/wiki/Chester" title="Chester" class="mw-redirect">Chester</a>, n.d. Plate J.W.C. 354
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=85175">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=85175">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Scanned at 600dpi.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="85175">Javascript is required for this feature.</div><script>JGINITsearchbars['85175']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=85175&type=Piano%20Score%20and%20Violin%20Part&pgcount=15&signature=b121209c1e23d9667c318fbf8d4b2e6c2a54882c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP24219-Drigo_Auer_Serenade.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4f/a46754af0b1b481006a2ba270cce6a027521685c.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Violin_and_Piano">For Violin and Piano</span></h5>
+<div class="we"><div id="IMSLP40353" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40353"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/42/PMLP24219-Drigo_-_Serenade_%28PnoPart%29.pdf" class="internal" title="PMLP24219-Drigo - Serenade (PnoPart).pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_-_Serenade_(PnoPart).pdf" title="File:PMLP24219-Drigo - Serenade (PnoPart).pdf">#40353</a> - 3.26MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40353' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40353'>
+	<a href='javascript:void(0)' id='40353' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40353' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40353' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40353' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40353' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40353'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40353/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/40353/Arlekinada (Drigo, Riccardo)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 799"><a href="/wiki/Special:GetFCtrStats/@40353" title="Special:GetFCtrStats/@40353">799</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Notnd" title="User:Notnd">Notnd</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Notnd" title="User:Notnd">Notnd</a> (2009/10/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP40354" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/40354"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8e/PMLP24219-Drigo_-_Serenade_%28VlnPart%29.pdf" class="internal" title="PMLP24219-Drigo - Serenade (VlnPart).pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_-_Serenade_(VlnPart).pdf" title="File:PMLP24219-Drigo - Serenade (VlnPart).pdf">#40354</a> - 1.04MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-40354' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-40354'>
+	<a href='javascript:void(0)' id='40354' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='40354' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='40354' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='40354' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='40354' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-40354'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/40354/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/40354/Arlekinada (Drigo, Riccardo)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 1015"><a href="/wiki/Special:GetFCtrStats/@40354" title="Special:GetFCtrStats/@40354">1015</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Notnd" title="User:Notnd">Notnd</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Notnd" title="User:Notnd">Notnd</a> (2009/10/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Beijing: Peoples' Music Publishing House, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=40353/40354">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=40353/40354">del</a>/<span id="fmrglnk" data-pdfstr="40353//40354/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="40353">Javascript is required for this feature.</div><script>JGINITsearchbars['40353']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP24219-Drigo_-_Serenade_(PnoPart).pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/42/8f831490b1828b3e3321fd0ee00c5d7f158cf857.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP34539" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/34539"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/45/PMLP24219-Drigo_Serenade.pdf" class="internal" title="PMLP24219-Drigo Serenade.pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_Serenade.pdf" title="File:PMLP24219-Drigo Serenade.pdf">#34539</a> - 0.15MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-34539' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-34539'>
+	<a href='javascript:void(0)' id='34539' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='34539' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='34539' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='34539' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='34539' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-34539'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/34539/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/34539/Arlekinada (Drigo, Riccardo)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 635"><a href="/wiki/Special:GetFCtrStats/@34539" title="Special:GetFCtrStats/@34539">635</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Notnd" title="User:Notnd">Notnd</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Notnd<br />
+<a href="/wiki/User:Notnd" title="User:Notnd">Notnd</a> (2009/7/10)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Xifang Music Publishing
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=34539">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=34539">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="34539">Javascript is required for this feature.</div><script>JGINITsearchbars['34539']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP24219-Drigo_Serenade.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/45/84cf68b2e67004c76b0419f24a7abf62e254cfe2.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Cello_and_Piano_.28Wolff-Israel.29">For Cello and Piano (Wolff-Israel)</span></h5>
+<div class="we"><div id="IMSLP33376" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/33376"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score and Cello Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/69/PMLP24219-Drigo_Serenade_Les_Millions_dArlequin_cello_piano.pdf" class="internal" title="PMLP24219-Drigo Serenade Les Millions dArlequin cello piano.pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_Serenade_Les_Millions_dArlequin_cello_piano.pdf" title="File:PMLP24219-Drigo Serenade Les Millions dArlequin cello piano.pdf">#33376</a> - 0.93MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-33376' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-33376'>
+	<a href='javascript:void(0)' id='33376' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='33376' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='33376' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='33376' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='33376' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-33376'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/33376/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/33376/Arlekinada (Drigo, Riccardo)"><span style="color:gray">C</span>/<span style="color:green">V</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 808"><a href="/wiki/Special:GetFCtrStats/@33376" title="Special:GetFCtrStats/@33376">808</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Stephez12&amp;action=edit&amp;redlink=1" class="new" title="User:Stephez12 (page does not exist)">Stephez12</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/index.php?title=User:Stephez12&amp;action=edit&amp;redlink=1" class="new" title="User:Stephez12 (page does not exist)">Stephez12</a> (2009/6/25)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/index.php?title=Category:Wolff-Israel,_Eug%C3%A8ne&amp;action=edit&amp;redlink=1" class="new" title="Category:Wolff-Israel, Eugène (page does not exist)">Eugène Wolff-Israel</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: <a href="/wiki/Zimmermann" title="Zimmermann">Zimmermann</a>, 1901. Plate Z.4028
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=33376">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=33376">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Dates of transcriber are unknown (despite extensive search)
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="33376">Javascript is required for this feature.</div><script>JGINITsearchbars['33376']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP24219-Drigo_Serenade_Les_Millions_dArlequin_cello_piano.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/69/0fdb472d09b90d377938bac9499d6f6b28dde393.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Valse-bluette">Valse-bluette</span></h4>
+<h5> <span class="mw-headline" id="For_Wind_Band_.28Vilkovir.29">For Wind Band (Vilkovir)</span></h5>
+<div class="we"><div id="IMSLP375642" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/375642"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4d/SIBLEY1802.6574.b73d-Film1256DrigoMillionsValse.pdf" class="internal" title="SIBLEY1802.6574.b73d-Film1256DrigoMillionsValse.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.6574.b73d-Film1256DrigoMillionsValse.pdf" title="File:SIBLEY1802.6574.b73d-Film1256DrigoMillionsValse.pdf">#375642</a> - 5.72MB, 16 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-375642' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-375642'>
+	<a href='javascript:void(0)' id='375642' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='375642' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='375642' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='375642' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='375642' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-375642'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/375642/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/375642/Arlekinada (Drigo, Riccardo)"><span style="color:gray">C</span>/<span style="color:gray">C</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 104"><a href="/wiki/Special:GetFCtrStats/@375642" title="Special:GetFCtrStats/@375642">104</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/6574"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (2015/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td>E. Vilkovir (fl.1936)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Moscow: <a href="/wiki/Muzgiz" title="Muzgiz">Muzgiz</a><!--ASL1-->, 1936.  Plate M. 14234 Г.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=375642">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=375642">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="375642">Javascript is required for this feature.</div><script>JGINITsearchbars['375642']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.6574.b73d-Film1256DrigoMillionsValse.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/4d/6e6c908e14b3de5dd7974f6c969778b4d87f9a08.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_Violin_and_Piano_.28Auer.29_2">For Violin and Piano (Auer)</span></h5>
+<div class="we"><div id="IMSLP145569" class="we_file_first we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/145569"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Piano Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f8/PMLP24219-Drigo_-_Millions_d%27Arlequin_-_Valse-bluette_PS_Sibley.1802.16664.pdf" class="internal" title="PMLP24219-Drigo - Millions d&#39;Arlequin - Valse-bluette PS Sibley.1802.16664.pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_-_Millions_d%27Arlequin_-_Valse-bluette_PS_Sibley.1802.16664.pdf" title="File:PMLP24219-Drigo - Millions d'Arlequin - Valse-bluette PS Sibley.1802.16664.pdf">#145569</a> - 0.32MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-145569' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-145569'>
+	<a href='javascript:void(0)' id='145569' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='145569' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='145569' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='145569' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='145569' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-145569'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/145569/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/145569/Arlekinada (Drigo, Riccardo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 478"><a href="/wiki/Special:GetFCtrStats/@145569" title="Special:GetFCtrStats/@145569">478</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/16664"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (<span title="Updated: 2011/11/4" class="hovertext">2011/11/3</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP145570" class="we_file we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/145570"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violin Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/24/PMLP24219-Drigo_-_Millions_d%27Arlequin_-_Valse-bluette_VnPt_Sibley.1802.16664.pdf" class="internal" title="PMLP24219-Drigo - Millions d&#39;Arlequin - Valse-bluette VnPt Sibley.1802.16664.pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_-_Millions_d%27Arlequin_-_Valse-bluette_VnPt_Sibley.1802.16664.pdf" title="File:PMLP24219-Drigo - Millions d'Arlequin - Valse-bluette VnPt Sibley.1802.16664.pdf">#145570</a> - 0.11MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-145570' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-145570'>
+	<a href='javascript:void(0)' id='145570' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='145570' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='145570' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='145570' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='145570' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-145570'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/145570/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/145570/Arlekinada (Drigo, Riccardo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 514"><a href="/wiki/Special:GetFCtrStats/@145570" title="Special:GetFCtrStats/@145570">514</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/16664"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Massenetique" title="User:Massenetique">Massenetique</a> (<span title="Updated: 2011/11/4" class="hovertext">2011/11/3</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Auer,_Leopold" title="Category:Auer, Leopold">Leopold Auer</a> (1845-1930)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>New York: <a href="/wiki/G._Schirmer" title="G. Schirmer" class="mw-redirect">G. Schirmer</a>, 1906.  Plate 22596.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=145569/145570">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=145569/145570">del</a>/<span id="fmrglnk" data-pdfstr="145569//145570/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="145569">Javascript is required for this feature.</div><script>JGINITsearchbars['145569']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=145569|145570&type=Piano%20Score%7CViolin%20Part&pgcount=5|2&signature=3a12e7343640c4e6707841b067e828700e4b4a15"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP24219-Drigo_-_Millions_d%27Arlequin_-_Valse-bluette_PS_Sibley.1802.16664.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f8/51cd3018e5ace87c2f0778b41f88cbaa7f38eda6.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP359466" class="we_file_first we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/359466"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score and part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4a/PMLP24219-Drigo_Valse_Auer_Hoff.pdf" class="internal" title="PMLP24219-Drigo Valse Auer Hoff.pdf">*</a></span><a href="/wiki/File:PMLP24219-Drigo_Valse_Auer_Hoff.pdf" title="File:PMLP24219-Drigo Valse Auer Hoff.pdf">#359466</a> - 0.67MB, 7 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-359466' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-359466'>
+	<a href='javascript:void(0)' id='359466' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='359466' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='359466' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='359466' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='359466' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-359466'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/359466/Arlekinada_(Drigo,_Riccardo)" title="Special:IMSLPEditCTag/359466/Arlekinada (Drigo, Riccardo)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 160"><a href="/wiki/Special:GetFCtrStats/@359466" title="Special:GetFCtrStats/@359466">160</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Schalltrichter" title="User:Schalltrichter">Schalltrichter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://media.lib.unideb.hu/hun/diglibkotta.php"><span style="border-bottom:1px dotted black" title="Debrecen University">H-DRe</span></a></span><br />
+<a href="/wiki/User:Schalltrichter" title="User:Schalltrichter">Schalltrichter</a> (2015/1/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Auer,_Leopold" title="Category:Auer, Leopold">Leopold Auer</a> (1845-1930)
+</td></tr>
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Hofmann,_Richard" title="Category:Hofmann, Richard">Richard Hofmann</a> (1831-1909)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Leipzig: Zimmermann, 1906. Plate Z 4451.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=359466">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=359466">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Simplified arrangement Included in the category <a href="/wiki/Category:Intermediate_Works_for_Violin" title="Category:Intermediate Works for Violin"><i>Intermediate Works for Violin</i></a>.<br />The violin part(s) is in 1st to 3rd position.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="359466">Javascript is required for this feature.</div><script>JGINITsearchbars['359466']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=359466&type=Complete%20score%20and%20part&pgcount=7&signature=8473bd488fe6e05746aad453cadc9bf1375ded62"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Drigo_Auer_valse_cov.jpg" class="image"><img data-src="/images/thumb/7/71/Drigo_Auer_valse_cov.jpg/120px-Drigo_Auer_valse_cov.jpg" width="120" height="169" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Arlekinada
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Les millions d'Arlequin&#160;; Harlequin's Millions
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Drigo,_Riccardo" title="Category:Drigo, Riccardo">Drigo, Riccardo</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IRD 3
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>2 Acts
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1900-02-23 in St. Petersburg, Imperial Theatre of the Hermitage
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1901
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>Czarina Alexandra Feodorovna
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Orchestra
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Les_Millions_d%E2%80%99Arlequin" class="extiw" title="wikipedia:Les Millions d’Arlequin">Wikipedia article</a>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 932/1000000
+Post-expand include size: 67437/2097152 bytes
+Template argument size: 473/2097152 bytes
+Expensive parser function count: 2/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:24219-0!*!0!!en!2!* and timestamp 20180415195715 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Arlekinada_(Drigo,_Riccardo)&amp;oldid=2238022">http://imslp.org/index.php?title=Arlekinada_(Drigo,_Riccardo)&amp;oldid=2238022</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_published_by_Muzgiz" title="Category:Scores published by Muzgiz">Scores published by Muzgiz</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:MIT_project" title="Category:MIT project">MIT project</a></li><li><a href="/wiki/Category:Auer,_Leopold/Arranger" title="Category:Auer, Leopold/Arranger">Auer, Leopold/Arranger</a></li><li><a href="/wiki/Category:Wolff-Israel,_Eug%C3%A8ne/Arranger" title="Category:Wolff-Israel, Eugène/Arranger">Wolff-Israel, Eugène/Arranger</a></li><li><a href="/wiki/Category:Scores_from_Debrecen_University" title="Category:Scores from Debrecen University">Scores from Debrecen University</a></li><li><a href="/wiki/Category:Hofmann,_Richard/Arranger" title="Category:Hofmann, Richard/Arranger">Hofmann, Richard/Arranger</a></li><li><a href="/wiki/Category:Intermediate_Works_for_Violin" title="Category:Intermediate Works for Violin">Intermediate Works for Violin</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Drigo,_Riccardo" title="Category:Drigo, Riccardo">Drigo, Riccardo</a></li><li><a href="/wiki/Category:Romantic_style" title="Category:Romantic style">Romantic style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Ballets" title="Category:Ballets">Ballets</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:For_orchestra" title="Category:For orchestra">For orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_piano_(arr)" title="Category:For piano (arr)">For piano (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_wind_band_(arr)" title="Category:For wind band (arr)">For wind band (arr)</a></li><li><a href="/wiki/Category:For_orchestra_without_strings" title="Category:For orchestra without strings">For orchestra without strings</a></li><li><a href="/wiki/Category:Scores_featuring_wind_band" title="Category:Scores featuring wind band">Scores featuring wind band</a></li><li><a href="/wiki/Category:For_flute,_piano_(arr)" title="Category:For flute, piano (arr)">For flute, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_flute" title="Category:Scores featuring the flute">Scores featuring the flute</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:For_violin,_piano_(arr)" title="Category:For violin, piano (arr)">For violin, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_violin" title="Category:Scores featuring the violin">Scores featuring the violin</a></li><li><a href="/wiki/Category:For_cello,_piano_(arr)" title="Category:For cello, piano (arr)">For cello, piano (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_cello" title="Category:Scores featuring the cello">Scores featuring the cello</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1901" title="Category:Works first published in 1901">Works first published in 1901</a></li><li><a href="/wiki/Category:Works_first_published_in_the_20th_century" title="Category:Works first published in the 20th century">Works first published in the 20th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Arlekinada_%28Drigo%2C_Riccardo%29">6,843 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Arlekinada%20%28Drigo%2C%20Riccardo%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.505 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180415195715 -->
+</html>
+		

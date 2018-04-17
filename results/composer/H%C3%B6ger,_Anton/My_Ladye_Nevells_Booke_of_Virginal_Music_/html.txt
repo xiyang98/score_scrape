@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>My Ladye Nevells Booke of Virginal Music (Byrd, William) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)", "wgTitle": "My Ladye Nevells Booke of Virginal Music (Byrd, William)", "wgCurRevisionId": 2142615, "wgArticleId": 12482, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Terry, Richard Runciman/Editor", "Andrews, Hilda/Editor", "Winogron, Blanche/Editor", "MIT project", "Scores with links to Amazon", "Piagentini, Riccardo/Editor", "Höger, Anton/Arranger", "Garvin, Allen/Arranger", "Scores", "Byrd, William/Collections", "Renaissance style", "Renaissance", "Grounds", "Marches", "Galliards", "Dances", "Pavans", "Voluntaries", "Allemandes", "Pieces", "For keyboard", "Scores featuring keyboard soloists", "For 1 player", "For 2 lutes (arr)", "Scores featuring the lute", "For 2 players", "For 2 guitars (arr)", "Scores featuring the guitar", "For 4 viols (arr)", "Scores featuring the viol", "For 4 players", "Pages with arrangements"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-My_Ladye_Nevells_Booke_of_Virginal_Music_Byrd_William action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (2)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)&amp;oldid=2142615" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=My%20Ladye%20Nevells%20Booke%20of%20Virginal%20Music%20%28Byrd%2C%20William%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					My Ladye Nevells Booke of Virginal Music (Byrd, William)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>42 pieces
+</td></tr>
+<tr>
+<th>Composition Year
+</th>
+<td>1591
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Grounds&amp;transclude=Template:Catintro">Grounds</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Marches&amp;transclude=Template:Catintro">Marches</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Galliards&amp;transclude=Template:Catintro">Galliards</a></span>; <span class="expandline" title="16 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Dances&amp;transclude=Template:Catintro">Dances</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pavans&amp;transclude=Template:Catintro">Pavans</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Voluntaries&amp;transclude=Template:Catintro">Voluntaries</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Allemandes&amp;transclude=Template:Catintro">Allemandes</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_keyboard&amp;transclude=Template:Catintro">For keyboard</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_keyboard_soloists&amp;transclude=Template:Catintro">Scores featuring keyboard soloists</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_lutes_%28arr%29&amp;transclude=Template:Catintro">For 2 lutes (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_lute&amp;transclude=Template:Catintro">Scores featuring the lute</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_guitars_%28arr%29&amp;transclude=Template:Catintro">For 2 guitars (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_guitar&amp;transclude=Template:Catintro">Scores featuring the guitar</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_viols_%28arr%29&amp;transclude=Template:Catintro">For 4 viols (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_viol&amp;transclude=Template:Catintro">Scores featuring the viol</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_4_players&amp;transclude=Template:Catintro">For 4 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"My Ladye Nevells Booke of Virginal Music","composer":"Byrd, William","comphref":"\/wiki\/Category:Byrd,_William"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"my ladye nevells booke of virginal music","itunes":"my ladye nevells booke of virginal music","composer":"byrd","scorekeywords":"my ladye nevells booke of virginal music","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":3,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=WHLive0066.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=WHLive0066.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DWHLive0066","desc":"Harpsichord Recital: Esfahani, Mahan - BYRD, W. \/ BACH, J.S. \/ LIGETI, G.","label":"Wigmore Hall Live","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian -- Ligeti, Gy\u00f6rgy -- Byrd, William","artist":"Esfahani, Mahan","country":"Austria Germany United Kingdom","catid":"WHLive0066","cdinfo":[[["Byrd, William",[["Clarifica me, Pater I, MB 47","mediaplayer\/player.asp?br=128&tl=1968390",[]],["Clarifica me, Pater (Plainchant)","mediaplayer\/player.asp?br=128&tl=1968391",[]],["Clarifica me, Pater II, MB 48","mediaplayer\/player.asp?br=128&tl=1968392",[]],["Clarifica me, Pater III, MB 49","mediaplayer\/player.asp?br=128&tl=1968393",[]],["John come kiss me now, MB 81","mediaplayer\/player.asp?br=128&tl=1968394",[]],["My Ladye Nevells Booke (excerpts)","mediaplayer\/player.asp?br=128&tl=1968395|1968396",["No. 18. The Fifte Pavian","No. 19. The Galliard to the Fifte Pavian"]],["The March before the Battle, MB 93","mediaplayer\/player.asp?br=128&tl=1968397",[]],["My Ladye Nevells Booke (excerpts)","mediaplayer\/player.asp?br=128&tl=1968398|1968399|1968400",["No. 41. A Fancie","No. 10. The Firste Pavian","No. 11. The Galliard to the Firste Pavian"]],["Callino casturame, MB 35","mediaplayer\/player.asp?br=128&tl=1968401",[]],["Fantasia (from The Fitzwilliam Virginal Book, Vol. 1, No. 52)","mediaplayer\/player.asp?br=128&tl=1968402",[]],["Walsingham (from The Fitzwilliam Virginal Book, Vol. 1, No. 68)","mediaplayer\/player.asp?br=128&tl=1968403",[]]]],["Bach, Johann Sebastian",[["Musical Offering, BWV 1079 (arr. for harpsichord) (excerpts)","mediaplayer\/player.asp?br=128&tl=1968404|1968405|1968406",["Ricercar a 3","Ricercar a 6","Canon 5. a 2 per Tonos"]]]],["Ligeti, Gy&#246;rgy",[["Passacaglia ungherese","mediaplayer\/player.asp?br=128&tl=1968407",[]],["Continuum","mediaplayer\/player.asp?br=128&tl=1968408",[]],["Hungarian Rock (Chaconne)","mediaplayer\/player.asp?br=128&tl=1968409",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947615309.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947615309.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947615309","desc":"BYRD, W.: My Ladye Nevells Booke (Hogwood)","label":"Decca","category":"Instrumental - Classical Music","composer":"Byrd, William","artist":"Hogwood, Christopher","country":"United Kingdom","catid":"00028947615309","cdinfo":[[["Byrd, William",[["My Ladye Nevells Booke","mediaplayer\/player.asp?br=128&tl=3019846|3019847|3019848|3019849|3019850|3019851|3019852|3019853|3019854|3019855|3019856|3019857|3019858|3019859|3019860|3019861|3019862|3019863|3019864|3019865|3019866|3019867|3019868|3019869|3019870|3019871|3019872|3019873|3019874|3019875|3019876|3019877|3019878|3019879|3019880|3019881|3019882|3019883|3019884|3019885|3019886|3019887",["No. 1. My Lady Nevells Grownde","No. 2. Qui Passe: for my ladye Nevell","No. 3. The Marche Before the Battell","No. 4. The Battell","No. 5. The Galliarde for the Victorie","No. 6. The Barelye Breake","No. 7. A Galliards Gygge","No. 8. The Hunted Upp","No. 9. Ut Re Mi Fa Sol La","No. 10. The Firste Pavian","No. 11. The Galliard to the Firste Pavian","No. 12. The Seconde Pavian (My Lady Nevells Booke)","No. 13. The Galliarde to the Seconde Pavian","No. 14. The Third Pavian","No. 15. The Galliarde to the Third Pavian","No. 16. The Fourth Pavian (My Lady Nevells Booke)","No. 17. The Galliarde to the Fourth Pavian","No. 18. The Fifte Pavian","No. 19. The Galliard to the Fifte Pavian","No. 20. Pavana the Sixte: Kinburgh Goodd","No. 21. The Galliard to the Sixte Pavian","No. 22. The Seventh Pavian","No. 23. The Eighte Pavian","No. 24. The Passinge Mesures: The Nynthe Pavian","No. 25. The Galliarde to the Nynthe Pavian","No. 26. A Voluntarie: for my ladye nevell","No. 27. Will Yow Walke the Woods Soe Wylde","No. 28. The Maidens Songe","No. 29. A Lesson of Voluntarie","No. 30. The Second Grownde","No. 31. Have With Yow to Walsinghame","No. 32. All in a Garden Grine","No. 33. Lord Willobies Welcome Home","No. 34. The Carmans Whistle","No. 35. Hugh Ashtons Grownde","No. 36. A Fancie (My Ladye Nevells Booke)","No. 37. Sellingers Rownde","No. 38. Munsers Almaine","No. 39. The Tennthe Pavian: Mr W Peter","No. 40. The Galliarde to the Tenth Pavian","No. 41. A Fancie","No. 42. A Voluntarie"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CD-1288.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CD-1288.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCD-1288","desc":"Harpischord Recital: Tilney, Colin - BYRD, W. \/ DOWLAND, J. (Contrapuntal Byrd)","label":"Music and Arts Programs of America","category":"Instrumental - Classical Music","composer":"Dowland, John -- Byrd, William","artist":"Tilney, Colin","country":"United Kingdom","catid":"CD-1288","cdinfo":[[["Byrd, William",[["My Ladye Nevells Booke: No. 22. The Seventh Pavian","mediaplayer\/player.asp?br=128&tl=2803390",[]],["Fantasia in D Minor (Musica Britannica, Vol. 28, No. 46)","mediaplayer\/player.asp?br=128&tl=2803391",[]],["My Ladye Nevells Booke: No. 28. The Maidens Songe","mediaplayer\/player.asp?br=128&tl=2803462",[]],["Quadran Pavan and Galliard No. 1 in G Major","mediaplayer\/player.asp?br=128&tl=2803496|2803497",["Pavan","Galliard"]],["My Ladye Nevells Booke: (excepts)","mediaplayer\/player.asp?br=128&tl=2803498|2803499",["No. 23. The Eighte Pavian","No. 30. The Second Grownde"]],["Prelude in A Minor (Musica Britannica, Vol. 27, No. 12)","mediaplayer\/player.asp?br=128&tl=2803503",["Prelude in A Minor"]],["Fantasia in A Minor (Musica Britannica, Vol. 27, No. 13)","mediaplayer\/player.asp?br=128&tl=2803504",[]]]],["Dowland, John",[["Lachrymae Pavan (from The Fitzwilliam Virginal Book) (arr. W. Byrd for harpsichord)","mediaplayer\/player.asp?br=128&tl=2803505",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="byrd my ladye nevells booke of virginal music";JGaskdonation=0;JGFileTools={"333090":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/333090"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23333090"}},"5179":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=5179"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/5179\/85843\/85844\/4a52"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP05179"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=5179"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/5179"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/5179"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%2305179"}},"85843":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=85843"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/5179\/85843\/85844\/4a52"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP85843"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=85843"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/85843"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/85843"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%2385843"}},"85844":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=85844"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/5179\/85843\/85844\/4a52"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP85844"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=85844"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/85844"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/85844"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%2385844"}},"104690":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=104690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP104690"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/104690"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/104690"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23104690"}},"363878":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=363878"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP363878"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/363878"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/363878"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23363878"}},"363875":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=363875"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/363875\/329644\/bf83"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP363875"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/363875"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/363875"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23363875"}},"329644":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=329644"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/363875\/329644\/bf83"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP329644"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/329644"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/329644"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23329644"}},"355067":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=355067"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/355067\/355068\/355069\/2dde"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP355067"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/355067"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/355067"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23355067"}},"355068":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=355068"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/355067\/355068\/355069\/2dde"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP355068"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/355068"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/355068"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23355068"}},"355069":{"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/355067\/355068\/355069\/2dde"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP355069"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/355069"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=My+Ladye+Nevells+Booke+of+Virginal+Music+%28Byrd%2C+William%29&frmTitle=IMSLP+%23355069"}}};JGFileOpts={"333090":[],"5179":[],"85843":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjXV4Q+xBO4rjQ6oP9iZueR+o8xQ4\/QFuqYxaaF+TUXQsZayC7987yERZ8dEnHjuOj3vDrO31DX6MQFMpskMsOILSPd3tZy+WT4EzjOLXcCJA=="},"85844":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biU9A6uJQa7330dmf1D6FHlBG5WoXJWHiCxvl7j+UO0tfZn4MQz17+GdqOH4DKR\/b810hlpTYy7LdfJEo+Jqez04xLNmMygc6FgWtzlPaVc5w=="},"104690":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi2LAsxC4\/oMY\/b5E3kbX1Cnn4CIlKWT9AZufsE21zZOh2Xh1sFKzyMGAIKKsoFdoabZTZrTOxkKa1UPwCyp9w5ewTkffGCAVtv4U2k6rUexA=="},"363878":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhziNResvOnxDyPZpeTWHqcUgjvG6J9dadRRMXbH+N3E5O9P+a6kjs4An4Sgo1lkUr9VfKIHowR9NxDgv4qrkiGv+KkaBygwlVSaXK6Bjvdhw=="},"363875":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnz7TJy8fmPyKQ36mJi7ohvoK2BM7awvhijIS4AOrNvrcQUW8Eit4FgB1xzOvVMJKxfulfaRsxmcFk+pU2lFz+b9HUNFd7vSC4YUe+OvV1kQ=="},"329644":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi3pHJyJ9zerEKDzCtHb7m+NQVMc\/i1bA2alc9kxhD87a9QIYbmTga569oCFN4pZic11jtbQLFCSMt1qp2zwJBNPX+412dEGqaWRoEFAdFDyIxS+y4CCrV27XecFDdYiN4="},"355067":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhWc7Ur9jLWnmV6k\/XwUK56RUcR4kWASEc3g\/LQwjE0y8APb8EjqkNbsGyHWWzeMRTm19y3yJmH+JFB7VqVQByy"},"355068":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjo2+VDLfalq3Dt2WhWko950nEjUQtLUejDaR2iQaQeavaJUiR9To629L1I5gSZvrqxZJJrIVmRhpiU+aB2g8h7"},"355069":[]};JGPageUntagged=false;JGPageTags=["grounds","marches","galliards","pavans","voluntaries","allemandes","pieces","kbd"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore3":true,"tabArrTrans":false,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"5179":[4.9333333333333,"15"],"85843":[4.6666666666667,"9"],"85844":[6,"3"],"104690":[9.3333333333333,"3"],"333090":[0,0],"363878":[0,0],"363875":[0,0],"329644":[0,0],"355067":[0,0],"355068":[0,0],"355069":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#For_2_Lutes_.28H.C3.B6ger.29"><span class="tocnumber">1.2.1</span> <span class="toctext">For 2 Lutes (Höger)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.2</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Selections"><span class="tocnumber">2.2.1</span> <span class="toctext">Selections</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_2_Lutes_.28H.C3.B6ger.29_2"><span class="tocnumber">2.2.1.1</span> <span class="toctext">For 2 Lutes (Höger)</span></a></li>
+<li class="toclevel-4"><a href="#For_2_Guitars_.28H.C3.B6ger.29"><span class="tocnumber">2.2.1.2</span> <span class="toctext">For 2 Guitars (Höger)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#The_Firste_Pavian.2C_BK_29a_.28No.10.29"><span class="tocnumber">2.2.2</span> <span class="toctext">The Firste Pavian, BK 29a (No.10)</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_4_Viols_.28Garvin.29"><span class="tocnumber">2.2.2.1</span> <span class="toctext">For 4 Viols (Garvin)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">1</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h5> <span class="mw-headline" id="For_2_Lutes_.28H.C3.B6ger.29">For 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP333090" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/333090"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. The Marche before the Battell</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cb/PMLP12482-Byrd%2C_William_-_The_Marche_before_the_battell.mp3" class="internal" title="PMLP12482-Byrd, William - The Marche before the battell.mp3">*</a></span><a href="/wiki/File:PMLP12482-Byrd,_William_-_The_Marche_before_the_battell.mp3" title="File:PMLP12482-Byrd, William - The Marche before the battell.mp3">#333090</a> - 1.76MB - 3:51<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-333090' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-333090'>
+	<a href='javascript:void(0)' id='333090' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='333090' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='333090' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='333090' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='333090' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-333090'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/333090/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/333090/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@333090" title="Special:GetFCtrStats/@333090">345</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a><span class="mh555"> (2014/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_333090'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"333090":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/conquest.imslp.info\/files\/imglnks\/usimg\/c\/cb\/IMSLP333090-PMLP12482-Byrd,_William_-_The_Marche_before_the_battell.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Computer
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=333090">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=333090">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Because most of my transcriptions are never heard before, I decided to make a simple computer synthesized audio file for hearing control.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="333090">Javascript is required for this feature.</div><script>JGINITsearchbars['333090']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">4</span>)</a></b></li><li id="tabScore3_tab" style="display:none"><b><a href="#tabScore3">Parts (<span id="tabScore3_ct">0</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">6</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP05179" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/05179"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8a/ByrdMyLadyeNevellsBookeofVirginalMusic.pdf" class="internal" title="ByrdMyLadyeNevellsBookeofVirginalMusic.pdf">*</a></span><a href="/wiki/File:ByrdMyLadyeNevellsBookeofVirginalMusic.pdf" title="File:ByrdMyLadyeNevellsBookeofVirginalMusic.pdf">#05179</a> - 11.78MB, 277 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-5179' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-5179'>
+	<a href='javascript:void(0)' id='5179' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='5179' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='5179' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='5179' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='5179' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-5179'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/05179/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/05179/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 9790"><a href="/wiki/Special:GetFCtrStats/@5179" title="Special:GetFCtrStats/@5179">9790</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Arturo" title="User:Arturo">Arturo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Arturo" title="User:Arturo">Arturo</a> (<span title="Updated: 2012/9/25" class="hovertext">2007/4/10</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP85843" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/85843"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. My Lady Nevells Grownde</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/26/PMLP12482-Byrd_My_Ladye_Nevells_Grownde.pdf" class="internal" title="PMLP12482-Byrd My Ladye Nevells Grownde.pdf">*</a></span><a href="/wiki/File:PMLP12482-Byrd_My_Ladye_Nevells_Grownde.pdf" title="File:PMLP12482-Byrd My Ladye Nevells Grownde.pdf">#85843</a> - 0.36MB, 8 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-85843' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-85843'>
+	<a href='javascript:void(0)' id='85843' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='85843' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='85843' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='85843' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='85843' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-85843'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/85843/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/85843/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4830"><a href="/wiki/Special:GetFCtrStats/@85843" title="Special:GetFCtrStats/@85843">4830</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2010/11/26" class="hovertext">2010/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP85844" class="we_file we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/85844"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>33. Lord Willobie's Welcome Home</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/32/PMLP12482-Byrd_Lord_Willobie%27s_Welcome_Home.pdf" class="internal" title="PMLP12482-Byrd Lord Willobie&#39;s Welcome Home.pdf">*</a></span><a href="/wiki/File:PMLP12482-Byrd_Lord_Willobie%27s_Welcome_Home.pdf" title="File:PMLP12482-Byrd Lord Willobie's Welcome Home.pdf">#85844</a> - 0.13MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-85844' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-85844'>
+	<a href='javascript:void(0)' id='85844' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='85844' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='85844' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='85844' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='85844' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-85844'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/85844/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/85844/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2212"><a href="/wiki/Special:GetFCtrStats/@85844" title="Special:GetFCtrStats/@85844">2212</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a> (<span title="Updated: 2010/11/26" class="hovertext">2010/11/25</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Terry,_Richard_Runciman" title="Category:Terry, Richard Runciman">Richard Runciman Terry</a> (1865–1938)<br /><a href="/index.php?title=Category:Andrews,_Hilda&amp;action=edit&amp;redlink=1" class="new" title="Category:Andrews, Hilda (page does not exist)">Hilda Andrews</a> (1900–1983), Historical and Analytical notes<br /><a href="/index.php?title=Category:Winogron,_Blanche&amp;action=edit&amp;redlink=1" class="new" title="Category:Winogron, Blanche (page does not exist)">Blanche Winogron</a> (1911-2002), Introduction (Dover)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: J. Curwen &amp; Sons, 1926.
+</td></tr>
+<tr>
+<th>Reprinted
+</th>
+<td>New York: <a href="/wiki/Dover_Publications" title="Dover Publications">Dover Publications</a>, 1969.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=5179/85843/85844">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=5179/85843/85844">del</a>/<span id="fmrglnk" data-pdfstr="5179//85843//85844/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>#05179: introduction, preface, and notes removed.<br />#85843-44: This file is from the <a href="/wiki/IMSLP:Community_Projects/MIT_archive" title="IMSLP:Community Projects/MIT archive">MIT archive project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="5179">Javascript is required for this feature.</div><script>JGINITsearchbars['5179']={"isbn":{"isbnarr":[{"text":"Dover (reprint)","isbn":"ASIN:0486222462"}]},"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=5179|85843|85844&type=Complete%20Score%7C1.%20My%20Lady%20Nevells%20Grownde%7C33.%20Lord%20Willobie%27s%20Welcome%20Home&pgcount=246|8|3&signature=98292f92126b44bf92cb4255943829eba92953c5"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:ByrdMyLadyeNevellsBookeofVirginalMusic.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/8a/3dab57194dfe47239617b07f52e75ff3df9155e7.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP104690" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/104690"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>33. Lord Willobie's Welcome Home</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/34/PMLP12482-Byrd_-_Lord_Willobie%27s_Welcome_Home.pdf" class="internal" title="PMLP12482-Byrd - Lord Willobie&#39;s Welcome Home.pdf">*</a></span><a href="/wiki/File:PMLP12482-Byrd_-_Lord_Willobie%27s_Welcome_Home.pdf" title="File:PMLP12482-Byrd - Lord Willobie's Welcome Home.pdf">#104690</a> - 0.05MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-104690' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-104690'>
+	<a href='javascript:void(0)' id='104690' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='104690' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='104690' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='104690' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='104690' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-104690'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/104690/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/104690/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1689"><a href="/wiki/Special:GetFCtrStats/@104690" title="Special:GetFCtrStats/@104690">1689</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:RiccardoP1983" title="User:RiccardoP1983">Riccardo Piagentini</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:RiccardoP1983" title="User:RiccardoP1983">Riccardo Piagentini</a> (2011/6/7)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Piagentini,_Riccardo" title="Category:Piagentini, Riccardo">Riccardo Piagentini</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Riccardo Piagentini
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=104690">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=104690">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="104690">Javascript is required for this feature.</div><script>JGINITsearchbars['104690']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP12482-Byrd_-_Lord_Willobie%27s_Welcome_Home.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/34/141401903218cdff3561c3e3598dbc4243fcc27a.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3">
+<p><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Parts" data-tabid="tabScore3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Selections">Selections</span></h4>
+<h5> <span class="mw-headline" id="For_2_Lutes_.28H.C3.B6ger.29_2">For 2 Lutes (Höger)</span></h5>
+<div class="we"><div id="IMSLP363878" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/363878"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. A Galliards Gygge (tablature)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/00/PMLP12482-Byrd%2C_William_-_A_Galliards_Gygge.pdf" class="internal" title="PMLP12482-Byrd, William - A Galliards Gygge.pdf">*</a></span><a href="/wiki/File:PMLP12482-Byrd,_William_-_A_Galliards_Gygge.pdf" title="File:PMLP12482-Byrd, William - A Galliards Gygge.pdf">#363878</a> - 0.48MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-363878' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-363878'>
+	<a href='javascript:void(0)' id='363878' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='363878' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='363878' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='363878' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='363878' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-363878'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/363878/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/363878/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 68"><a href="/wiki/Special:GetFCtrStats/@363878" title="Special:GetFCtrStats/@363878">68</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (<span title="Updated: 2015/2/3" class="hovertext">2015/2/2</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=363878">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=363878">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Intabulation in French lute-tablature (Unisono). If performed I would look forward about a small reference to my efforts.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="363878">Javascript is required for this feature.</div><script>JGINITsearchbars['363878']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP12482-Byrd,_William_-_A_Galliards_Gygge.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/00/06b15df202f2f183457524bd6f1c7d9d3cfc8b88.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h5> <span class="mw-headline" id="For_2_Guitars_.28H.C3.B6ger.29">For 2 Guitars (Höger)</span></h5>
+<div class="we"><div id="IMSLP363875" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/363875"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. A Galliards Gygge</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ec/PMLP12482-Byrd%2C_William_-_A_Galliards_Gygge_-2Git.pdf" class="internal" title="PMLP12482-Byrd, William - A Galliards Gygge -2Git.pdf">*</a></span><a href="/wiki/File:PMLP12482-Byrd,_William_-_A_Galliards_Gygge_-2Git.pdf" title="File:PMLP12482-Byrd, William - A Galliards Gygge -2Git.pdf">#363875</a> - 0.11MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-363875' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-363875'>
+	<a href='javascript:void(0)' id='363875' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='363875' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='363875' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='363875' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='363875' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-363875'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/363875/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/363875/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 103"><a href="/wiki/Special:GetFCtrStats/@363875" title="Special:GetFCtrStats/@363875">103</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2015/2/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP329644" class="we_file we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/329644"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>33. Lord Willobie's Welcome Home</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ea/PMLP12482-Byrd%2C_William_-_Lord_Willobie%27s_Welcome_Home.pdf" class="internal" title="PMLP12482-Byrd, William - Lord Willobie&#39;s Welcome Home.pdf">*</a></span><a href="/wiki/File:PMLP12482-Byrd,_William_-_Lord_Willobie%27s_Welcome_Home.pdf" title="File:PMLP12482-Byrd, William - Lord Willobie's Welcome Home.pdf">#329644</a> - 0.10MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-329644' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-329644'>
+	<a href='javascript:void(0)' id='329644' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='329644' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='329644' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='329644' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='329644' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-329644'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/329644/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/329644/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 207"><a href="/wiki/Special:GetFCtrStats/@329644" title="Special:GetFCtrStats/@329644">207</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Hoeger" title="User:Hoeger">Hoeger</a> (2014/6/16)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:H%C3%B6ger,_Anton" title="Category:Höger, Anton">Anton Höger</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Anton Höger
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=363875/329644">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=363875/329644">del</a>/<span id="fmrglnk" data-pdfstr="363875//329644/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>If performed I would look forward about a small reference to my efforts. Compare the Lute Duett Version and the Lute solo Version composed by John Dowland!
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="363875">Javascript is required for this feature.</div><script>JGINITsearchbars['363875']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP12482-Byrd,_William_-_A_Galliards_Gygge_-2Git.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ec/6d43a44ebf2d23ef19bd1918a1484e8c53447dea.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="The_Firste_Pavian.2C_BK_29a_.28No.10.29">The Firste Pavian, BK 29a (No.10)</span></h4>
+<h5> <span class="mw-headline" id="For_4_Viols_.28Garvin.29">For 4 Viols (Garvin)</span></h5>
+<div class="we"><div id="IMSLP355067" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/355067"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d8/PMLP12482-01-pavan_1---0-score.pdf" class="internal" title="PMLP12482-01-pavan 1---0-score.pdf">*</a></span><a href="/wiki/File:PMLP12482-01-pavan_1---0-score.pdf" title="File:PMLP12482-01-pavan 1---0-score.pdf">#355067</a> - 0.07MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-355067' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-355067'>
+	<a href='javascript:void(0)' id='355067' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='355067' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='355067' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='355067' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='355067' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-355067'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/355067/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/355067/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 205"><a href="/wiki/Special:GetFCtrStats/@355067" title="Special:GetFCtrStats/@355067">205</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Agarvin" title="User:Agarvin">Agarvin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Agarvin" title="User:Agarvin">Agarvin</a> (<span title="Updated: 2014/12/7" class="hovertext">2014/12/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP355068" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/355068"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Parts</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f8/PMLP12482-01-byrd-nevell-a4-parts.pdf" class="internal" title="PMLP12482-01-byrd-nevell-a4-parts.pdf">*</a></span><a href="/wiki/File:PMLP12482-01-byrd-nevell-a4-parts.pdf" title="File:PMLP12482-01-byrd-nevell-a4-parts.pdf">#355068</a> - 0.11MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-355068' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-355068'>
+	<a href='javascript:void(0)' id='355068' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='355068' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='355068' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='355068' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='355068' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-355068'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/355068/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/355068/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 70"><a href="/wiki/Special:GetFCtrStats/@355068" title="Special:GetFCtrStats/@355068">70</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Agarvin" title="User:Agarvin">Agarvin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Agarvin" title="User:Agarvin">Agarvin</a> (<span title="Updated: 2015/6/8" class="hovertext">2014/12/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP355069" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/355069"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Lilypond)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9b/PMLP12482-01-byrd-nevell-a4-source.zip" class="internal" title="PMLP12482-01-byrd-nevell-a4-source.zip">*</a></span><a href="/wiki/File:PMLP12482-01-byrd-nevell-a4-source.zip" title="File:PMLP12482-01-byrd-nevell-a4-source.zip">#355069</a> - 0.01MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-355069' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-355069'>
+	<a href='javascript:void(0)' id='355069' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='355069' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='355069' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='355069' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='355069' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-355069'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/355069/My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)" title="Special:IMSLPEditCTag/355069/My Ladye Nevells Booke of Virginal Music (Byrd, William)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 30"><a href="/wiki/Special:GetFCtrStats/@355069" title="Special:GetFCtrStats/@355069">30</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Agarvin" title="User:Agarvin">Agarvin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Agarvin" title="User:Agarvin">Agarvin</a> (<span title="Updated: 2014/12/7" class="hovertext">2014/12/6</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Garvin,_Allen" title="Category:Garvin, Allen">Allen Garvin</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Dallas: Hawthorne Early Music, 2014.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=355067/355068/355069">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=355067/355068/355069">del</a>/<span id="fmrglnk" data-pdfstr="355067//355068/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="355067">Javascript is required for this feature.</div><script>JGINITsearchbars['355067']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP12482-01-pavan_1---0-score.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d8/31d8e11cf8fd6d4be6916b2c59a589ce15eb5542.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Booke of Virginal Music
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Byrd,_William" title="Category:Byrd, William">Byrd, William</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>42 pieces
+<dl><dd>1. My Ladye Nevels Grownde
+</dd><dd>2. <a href="/wiki/Qui_Passe_(Byrd,_William)" title="Qui Passe (Byrd, William)">Qui Passe: for my ladye Nevell</a>
+</dd><dd>3. The Marche before the Battell
+</dd><dd>4. The Battell
+<dl><dd>a. The Souldiers Sommons
+</dd><dd>b. The Marche of Footemen
+</dd><dd>c. The Marche of Horsmen
+</dd><dd>d. The Trumpetts
+</dd><dd>e. The Irishe Marche
+</dd><dd>f. The Bagpipe and the Drone
+</dd><dd>g. The Flute and the Droome
+</dd><dd>h. The Marche to the Fighte
+</dd><dd>i. The Retreat
+</dd></dl>
+</dd><dd>5. The Galliarde for the Victorie
+</dd><dd>6. The Barelye Breake
+</dd><dd>7. A Galliards Gygge
+</dd><dd>8. The Huntes Upp
+</dd><dd>9. Ut Re Mi Fa Sol La
+</dd><dd>10. The Firste Pavian, BK 29a
+</dd><dd>11. The Galliarde to the Firste Pavian, BK 29b
+</dd><dd>12. The Seconde Pavian
+</dd><dd>13. The Galliarde to the Seconde Pavian
+</dd><dd>14. The Third Pavian
+</dd><dd>15. The Galliarde to the Third Pavian
+</dd><dd>16. The Fourth Pavian
+</dd><dd>17. The Galliarde to the Fourth Pavian
+</dd><dd>18. The Fifte Pavian
+</dd><dd>19. The Galliarde to the Fifte Pavian
+</dd><dd>20. Pavana the Sixte: Kinbrugh Goodd
+</dd><dd>21. The Galliarde to the Sixte Pavian
+</dd><dd>22. The Seventh Pavian
+</dd><dd>23. The Eighte Pavian
+</dd><dd>24. The Passinge Mesures: the Nynthe Pavian
+</dd><dd>25. The Galliarde to the Nynthe Pavian
+</dd><dd>26. A Voluntarie: for My Ladye Nevell
+</dd><dd>27. Will Yow Walke the Woods soe Wylde
+</dd><dd>28. The Maidens Songe
+</dd><dd>29. A Lesson of Voluntarie
+</dd><dd>30. The Second Grownde
+</dd><dd>31. Have With Yow to Walsingame
+</dd><dd>32. All in a Garden Grine
+</dd><dd>33. <a href="/wiki/My_Lord_Willoughby%27s_Welcome_Home_(Dowland,_John)" title="My Lord Willoughby's Welcome Home (Dowland, John)">Lord Willobies Welcome Home</a>
+</dd><dd>34. The Carmans Whistle
+</dd><dd>35. Hughe Ashtons Grownde
+</dd><dd>36. A Fancie
+</dd><dd>37. Sellingers Rownde
+</dd><dd>38. Munsers Almaine
+</dd><dd>39. The Tennthe Pavian: Mr. W. Peter
+</dd><dd>40. The Galliarde to the Tennthe Pavian
+</dd><dd>41. A Fancie
+</dd><dd>42. A Voluntarie
+</dd></dl>
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1591
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>virginal (harpsichord) or organ (manuals)
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/My_Ladye_Nevells_Booke" class="extiw" title="wikipedia:My Ladye Nevells Booke">Wikipedia article</a><br /><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.bl.uk/onlinegallery/virtualbooks/nevells/">British Library (digitized mss)</a></span>
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:WikiForum&amp;thread=9715"><i>Detailed description and history</i></a></span>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 705/1000000
+Post-expand include size: 58594/2097152 bytes
+Template argument size: 409/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:12482-0!*!0!!en!2!* and timestamp 20180416231103 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)&amp;oldid=2142615">http://imslp.org/index.php?title=My_Ladye_Nevells_Booke_of_Virginal_Music_(Byrd,_William)&amp;oldid=2142615</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Terry,_Richard_Runciman/Editor" title="Category:Terry, Richard Runciman/Editor">Terry, Richard Runciman/Editor</a></li><li><a href="/wiki/Category:Andrews,_Hilda/Editor" title="Category:Andrews, Hilda/Editor">Andrews, Hilda/Editor</a></li><li><a href="/wiki/Category:Winogron,_Blanche/Editor" title="Category:Winogron, Blanche/Editor">Winogron, Blanche/Editor</a></li><li><a href="/wiki/Category:MIT_project" title="Category:MIT project">MIT project</a></li><li><a href="/wiki/Category:Scores_with_links_to_Amazon" title="Category:Scores with links to Amazon">Scores with links to Amazon</a></li><li><a href="/wiki/Category:Piagentini,_Riccardo/Editor" title="Category:Piagentini, Riccardo/Editor">Piagentini, Riccardo/Editor</a></li><li><a href="/wiki/Category:H%C3%B6ger,_Anton/Arranger" title="Category:Höger, Anton/Arranger">Höger, Anton/Arranger</a></li><li><a href="/wiki/Category:Garvin,_Allen/Arranger" title="Category:Garvin, Allen/Arranger">Garvin, Allen/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Byrd,_William/Collections" title="Category:Byrd, William/Collections">Byrd, William/Collections</a></li><li><a href="/wiki/Category:Renaissance_style" title="Category:Renaissance style">Renaissance style</a></li><li><a href="/wiki/Category:Renaissance" title="Category:Renaissance">Renaissance</a></li><li><a href="/wiki/Category:Grounds" title="Category:Grounds">Grounds</a></li><li><a href="/wiki/Category:Marches" title="Category:Marches">Marches</a></li><li><a href="/wiki/Category:Galliards" title="Category:Galliards">Galliards</a></li><li><a href="/wiki/Category:Dances" title="Category:Dances">Dances</a></li><li><a href="/wiki/Category:Pavans" title="Category:Pavans">Pavans</a></li><li><a href="/wiki/Category:Voluntaries" title="Category:Voluntaries">Voluntaries</a></li><li><a href="/wiki/Category:Allemandes" title="Category:Allemandes">Allemandes</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_keyboard" title="Category:For keyboard">For keyboard</a></li><li><a href="/wiki/Category:Scores_featuring_keyboard_soloists" title="Category:Scores featuring keyboard soloists">Scores featuring keyboard soloists</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_2_lutes_(arr)" title="Category:For 2 lutes (arr)">For 2 lutes (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_lute" title="Category:Scores featuring the lute">Scores featuring the lute</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:For_2_guitars_(arr)" title="Category:For 2 guitars (arr)">For 2 guitars (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_guitar" title="Category:Scores featuring the guitar">Scores featuring the guitar</a></li><li><a href="/wiki/Category:For_4_viols_(arr)" title="Category:For 4 viols (arr)">For 4 viols (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_viol" title="Category:Scores featuring the viol">Scores featuring the viol</a></li><li><a href="/wiki/Category:For_4_players" title="Category:For 4 players">For 4 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=My_Ladye_Nevells_Booke_of_Virginal_Music_%28Byrd%2C_William%29">9,239 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/My%20Ladye%20Nevells%20Booke%20of%20Virginal%20Music%20%28Byrd%2C%20William%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.666 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416231103 -->
+</html>
+		

@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Livre d'orgue (Clérambault, Louis-Nicolas) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Livre_d\'orgue_(Clérambault,_Louis-Nicolas)", "wgTitle": "Livre d\'orgue (Clérambault, Louis-Nicolas)", "wgCurRevisionId": 1873640, "wgArticleId": 9467, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Wiberg, Steve/Performer", "Recordings", "Scores from Bibliothèque nationale de France", "Pages with First Editions", "Guilmant, Alexandre/Editor", "Pirro, André/Editor", "Sibley Mirroring Project", "Gouin, Pierre/Editor", "WIMA files", "Scores", "Clérambault, Louis-Nicolas", "Baroque style", "Baroque", "Suites", "For organ", "Scores featuring the organ", "For 1 player", "Works first published in 1710", "Works first published in the 18th century"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Livre_d_orgue_Clérambault_Louis-Nicolas action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)&amp;oldid=1873640" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Livre%20d%27orgue%20%28Cl%C3%A9rambault%2C%20Louis-Nicolas%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Livre d'orgue (Clérambault, Louis-Nicolas)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th>First Publication
+</th>
+<td>1710
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Suites&amp;transclude=Template:Catintro">Suites</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ&amp;transclude=Template:Catintro">For organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Livre d'orgue","composer":"Cl\u00e9rambault, Louis-Nicolas","comphref":"\/wiki\/Category:Cl%C3%A9rambault,_Louis-Nicolas"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"livre d'orgue","itunes":"livre d'orgue","composer":"clerambault","scorekeywords":"livre d'orgue","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch={"numres":10,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=NI6268.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=NI6268.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DNI6268","desc":"Organ Recital: Ponsford, David - RAISON, A. \/ CLERAMBAULT, L.-N. (French Organ Music from the Golden Age, Vol. 3)","label":"Nimbus Alliance","category":"Instrumental - Classical Music","composer":"Raison, Andr\u00e9 -- Clerambault, Louis-Nicolas -- Not Applicable, na","artist":"Ponsford, David","country":"France","catid":"NI6268","cdinfo":[[["Unknown Composer",[["The Abbey Bells","mediaplayer\/player.asp?br=128&tl=1930957",[]]]],["Raison, Andr&#233;",[["Livre d'orgue: Messe du premier ton","mediaplayer\/player.asp?br=128&tl=1930958|1930959|1930960|1930961|1930962|1930963|1930964|1930965|1930966|1930967|1930968|1930969|1930970|1930971|1930972|1930973|1930974|1930975|1930976|1930977|1930978|1930979",["Kyrie: Premier Kyrie","Kyrie: Autre Premier Kyrie: Grand plein jeu: Gravement","Kyrie: Second Kyrie","Kyrie: Christe","Kyrie: Quatriesme Kyrie: Duo","Kyrie: Dernier Kyrie: Dialogue sur les grands jeux","Gloria: Et in terra pax: Plein jeu","Gloria: Benedicimus te: Fugue sur toute sorte de jeux","Gloria: Glorificamus te: Recir de cornet","Gloria: Domine: Recit de cromorne","Gloria: Domine Deus agnus: Trio","Gloria: Qui tollis","Gloria: Quoniman tu solus: Basse de trompette","Gloria: Tu solus atissimus","Gloria: Amen: Dialogue dur les grands jeux","Sanctus: Sanctus: Plein jeu","Sanctus: Second Sanctus: Recit de 2 dessus de tierce","Sanctus: Benedictus: Basse et Dessus de voix humaine","Sanctus: Elevation: Trio a 3 claviers","Agnus Dei: Agnus Dei: Petit et grand plein jeu","Agnus Dei: Second Agnus: Duo","Agnus Dei: Deo gratias: Plein jeu"]],["Offerte du 53me ton, \"Le vive le roy des Parisiens\"","mediaplayer\/player.asp?br=128&tl=1930980",[]]]],["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=1930981|1930982|1930983|1930984|1930985|1930986|1930987",["I. Grand plein jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et dessus de trompette","VI. Recit de cromorne et de cornet separe","VII. Dialogue are les grands jeux"]]]],["Raison, Andr&#233;",[["Suite du deuxieme ton","mediaplayer\/player.asp?br=128&tl=1930988|1930989|1930990|1930991|1930992|1930993|1930994",["I. Plein jeu","II. Duo","III. Trio","IV. Basse de cromorne","V. Flutes","VI. Recit de nazard","VII. Caprice dur les grands jeux"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=LAN0380.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=LAN0380.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DLAN0380","desc":"CLERAMBAULT, L.-N.: Premier livre d'orgue (1710) (K. Gilbert)","label":"Orion","category":"Instrumental - Classical Music","composer":"Clerambault, Louis-Nicolas","artist":"Gilbert, Kenneth","country":"France","catid":"LAN0380","cdinfo":[[["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=833000|833001|833002|833003|833004|833005|833006",["I. Grand Plein Jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et Dessus de Trompette ou de cornet separe","VI. Recit de cromorne et de cornet separe","VII. Dialogue sur les Grands Jeux"]],["Suite du deuxieme ton","mediaplayer\/player.asp?br=128&tl=833007|833008|833009|833010|833011|833012|833013",["I. Plein jeu","II. Duo","III. Trio","IV. Basse de Cromorne","V. Flutes","VI. Recit de Nazard","VII. Caprice sur les grands jeux"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=JAV192.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=JAV192.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DJAV192","desc":"Organ Recital: Smoot, Ann Elise - CLERAMBAULT, L.-N. \/ MUFFAT, G. \/ BACH, J.S.","label":"JAV Recordings","category":"Instrumental - Classical Music","composer":"Bach, Johann Sebastian -- Muffat, Georg -- Raison, Andr\u00e9 -- B\u00f6hm, Georg -- Clerambault, Louis-Nicolas","artist":"Smoot, Ann Elise","country":"France Germany","catid":"JAV192","cdinfo":[[["Clerambault, Louis-Nicolas",[["Premier livre d'orgue: Suite No. 1","mediaplayer\/player.asp?br=128&tl=1521554|1521555|1521556|1521557|1521558|1521559|1521560",["I. Grand plein jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et dessus de trompette ou de cornet separe, en dialogue","VI. Recits de cromorne et de cornet separe, en dialogue","VII. Dialogue sur les grands jeux"]]]],["Muffat, Georg",[["Apparatus musico-organisticus (excerpts)","mediaplayer\/player.asp?br=128&tl=1521561|1521562",["Toccata No. 10","Ciacona"]]]],["B&#246;hm, Georg",[["Prelude, Fugue and Postlude in G Minor","mediaplayer\/player.asp?br=128&tl=1521563",[]]]],["Clerambault, Louis-Nicolas",[["Premier livre d'orgue: Suite No. 2","mediaplayer\/player.asp?br=128&tl=1521564|1521565|1521566|1521567|1521568|1521569|1521570",["I. Plein jeu","II. Duo","III. Trio","IV. Basse de cromorne","V. Flutes","VI. Recit de Nazard","VII. Caprice sur les grands jeux"]]]],["B&#246;hm, Georg",[["Vater unser im Himmelreich","mediaplayer\/player.asp?br=128&tl=1521571",[]]]],["Bach, Johann Sebastian",[["Aria in F Major, BWV 587 (after Couperin's Les nations)","mediaplayer\/player.asp?br=128&tl=1521572",[]]]],["Raison, Andr&#233;",[["Livre d'orgue: Messe du deuxieme ton: Christe (Trio en passacaille)","mediaplayer\/player.asp?br=128&tl=1521573",[]]]],["Bach, Johann Sebastian",[["Passacaglia in C Minor, BWV 582","mediaplayer\/player.asp?br=128&tl=1521574",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=FYCD125.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=FYCD125.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DFYCD125","desc":"Organ Recital: Lefebvre, Philippe - DUMAGE, P. \/ GRIGNY, N. de \/ CLERAMBAULT, L.-N. (Musique francaise pour orgue a Notre-Dame de Paris)","label":"Solstice","category":"Instrumental - Classical Music","composer":"Daquin, Louis-Claude -- Lebegue, Nicolas -- Marchand, Louis -- Roberday, Francois -- Grigny, Nicolas de -- Clerambault, Louis-Nicolas -- Couperin, Francois -- Couperin, Louis -- Dandrieu, Jean-Francois -- Dumage, Pierre -- Calviere, Guillaume-Antoine","artist":"Lefebvre, Philippe","country":"France","catid":"FYCD125","cdinfo":[[["Couperin, Louis",[["Chaconne in G Minor","mediaplayer\/player.asp?br=128&tl=1593146",[]]]],["Roberday, Francois",[["Fugue troisieme et Caprice sur le mesme sujet","mediaplayer\/player.asp?br=128&tl=1593147",[]]]],["Couperin, Fran&#231;ois",[["Messe a l'usage ordinaire des paroisses (Mass for the Parishes) (excerpts)","mediaplayer\/player.asp?br=128&tl=1593148|1593149",["Gloria: Tierce en taille","Offertoire sur les grands jeux"]]]],["Dandrieu, Jean-Francois",[["Or, nous dites, Marie","mediaplayer\/player.asp?br=128&tl=1593150",[]],["Noel de Saintonge","mediaplayer\/player.asp?br=128&tl=1593151",[]]]],["Dumage, Pierre",[["Livre d'orgue contenant une suite du premier ton (excerpts)","mediaplayer\/player.asp?br=128&tl=1593152|1593153|1593154|1593155|1593156",["I. Plein jeu","IV. Tierce en taille","V. Basse de trompette","VI. Recit","VIII. Grand jeu"]]]],["Lebegue, Nicolas",[["Troisieme livre d'orgue: No. 8. Ou s'en vont ces gays Bergers?","mediaplayer\/player.asp?br=128&tl=1593157",["Troisieme livre d'orgue: No. 8. Ou s'en vont ces gays Bergers? (Wither Go These Joyful Shepherds)"]]]],["Grigny, Nicolas de",[["Pange lingua","mediaplayer\/player.asp?br=128&tl=1593158|1593159|1593160",["I. En taille a 4","II. Fugue a 5","III. &#8212;"]]]],["Marchand, Louis",[["Fond d'orgue","mediaplayer\/player.asp?br=128&tl=1593161",[]]]],["Clerambault, Louis-Nicolas",[["Suite du deuxieme ton (excerpts)","mediaplayer\/player.asp?br=128&tl=1593162|1593163|1593164",["I. Plein jeu","IV. Basse de Cromorne","VII. Caprice sur les grands jeux"]]]],["Calviere, Guillaume-Antoine",[["Piece","mediaplayer\/player.asp?br=128&tl=1593165",[]]]],["Daquin, Louis-Claude",[["Noel No. 10, \"Noel grand-jeu et duo\"","mediaplayer\/player.asp?br=128&tl=1593166",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=AM13422.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=AM13422.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DAM13422","desc":"Organ Music - CLERAMBAULT, L.-N. \/ CABANILLES, J. \/ DE GRIGNY, N. \/ GUILAIN, J. (Die Rekonstruierte Johann-Andreas-Silbermann-Orgel)","label":"Ars Musici","category":"Instrumental - Classical Music","composer":"Guilain, Jean Adam -- Bach, Johann Sebastian -- Grigny, Nicolas de -- Cabanilles, Juan -- Clerambault, Louis-Nicolas -- Steigleder, Johann Ulrich -- Schaefer, Marc","artist":"Rommelspacher, Stephan -- Schmitt, Christian -- Bossert, Christoph -- Schaefer, Marc -- Musch, Hans","country":"France Germany Spain","catid":"AM13422","cdinfo":[[["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=1010063|1010064|1010065|1010066|1010067|1010068|1010069",["I. Grand Plein Jeu","II. Fugue: Lentement","III. Duo: Gayement et gratieusement","IV. Trio: Gratieusement","V. Basse et Dessus de Trompette ou de cornet separe","VI. Recit de cromorne et de cornet separe","VII. Dialogue sur les Grands Jeux"]]]],["Steigleder, Johann Ulrich",[["Dass Vatter a 4","mediaplayer\/player.asp?br=128&tl=1010071",[]]]],["Cabanilles, Juan",[["Pascalles de primo tono","mediaplayer\/player.asp?br=128&tl=1010072",[]]]],["Grigny, Nicolas de",[["Premier livre d'orgue contenant une messe et les hymnes des principalles festes de l'annee: Veni Creator Spiritus","mediaplayer\/player.asp?br=128&tl=1010082|1010083|1010084|1010085|1010086",["No. 1. Veni Creator Spiritus en taille 5","No. 2. Fugue a 5","No. 3. Duo","No. 4. Recit de Cromorne","No. 5. Dialogues sur les Grands Jeux"]]]],["Schaefer, Marc",[["Improvisation","mediaplayer\/player.asp?br=128&tl=1010102",[]]]],["Guilain, Jean Adam",[["Pieces d'orgue pour le Magnificat: Suite du trioseme ton","mediaplayer\/player.asp?br=128&tl=1010206|1010207|1010208|1010209|1010210|1010211|1010212",["I. Plein Jeu","II. Quatuor","III. Dialogue de Voix humaine","IV.  Basse de Trompette","V. Duo","VI. Cromorne en taille","VII. Grand Jeu"]]]],["Bach, Johann Sebastian",[["Piece d'Orgue in G Major, BWV 572, \"Fantasia in G Major\"","mediaplayer\/player.asp?br=128&tl=1010216",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=FYCD043.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=FYCD043.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DFYCD043","desc":"CLERAMBAULT, L.-N. \/ MAGE, P. du: Organ Music (Baker)","label":"Solstice","category":"Instrumental - Classical Music","composer":"Mage, Pierre du -- Clerambault, Louis-Nicolas","artist":"Baker, George C.","country":"France","catid":"FYCD043","cdinfo":[[["Mage, Pierre du",[["Livre d'orgue contenant une suite du permier ton","mediaplayer\/player.asp?br=128&tl=1286371|1286372|1286373|1286374|1286375|1286376|1286377|1286378",["I. Plein Jeu","II. Fugue","III. Trio","IV. Tierce en Taille","V. Basse de Trompette","VI. Recit","VII. Duo","VIII. Grand jeu"]]]],["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=1286387|1286388|1286389|1286390|1286391|1286392|1286393",["I. Grand plein jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et dessus de trompette ou de cornet separe, en dialogue","VI. Recit de cromorne et de cornet separe, en dialogue","VII. Dialogue sur les grands jeux"]],["Suite du deuxieme ton","mediaplayer\/player.asp?br=128&tl=1286423|1286424|1286425|1286426|1286427|1286428|1286429",["I. Plein jeu","II. Duo","III. Trio","IV. Basse de Cromorne","V. Flutes","VI. Recit de Nazard","VII. Caprice sur les grands jeux"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TRI331162.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TRI331162.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTRI331162","desc":"Organ Recital: Rouet, Pascale - CL\u00c9REMBAULT, L.-N. \/ DANDRIEU, J.-F. \/ CORRETTE, M. \/ MAGE, P. du \/ MARCHAND, C. \/ BOEDEC, M. (Hier et Aujourd'hui)","label":"Triton (France)","category":"Instrumental - Classical Music","composer":"Mage, Pierre du -- Clerambault, Louis-Nicolas -- Corrette, Michel -- Dandrieu, Jean-Francois -- Mather, Bruce -- Leguay, Jean-Pierre -- Marchand, Christophe -- Etienne, Jean-Luc -- Boedec, Michel -- Mabit, Alain","artist":"Rouet, Pascale","country":"Canada France","catid":"TRI331162","cdinfo":[[["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=1951380|1951381|1951382|1951383|1951384|1951385|1951386",["I. Grand plein jeu","II. Fugue","III. Duo","IV. Trio","V. Basse et dessus de trompette ou de cornet separe, en dialogue","VI. Recit de cromorne et de cornet separe, en dialogue","VII. Dialogue are les grands jeux"]]]],["Corrette, Michel",[["Une jeune pucelle","mediaplayer\/player.asp?br=128&tl=1951387",[]]]],["Dandrieu, Jean-Francois",[["Magnificat","mediaplayer\/player.asp?br=128&tl=1951388|1951389|1951390|1951391|1951392|1951393",["I. Plein Jeu","II. Duo","III. Trio","IV. Basse de cromorne","V. Recit de Nazard","VI. Dialogue"]]]],["Corrette, Michel",[["Bon Joseph ecoute-moy","mediaplayer\/player.asp?br=128&tl=1951394",[]],["Noel provencal","mediaplayer\/player.asp?br=128&tl=1951395",[]]]],["Mage, Pierre du",[["Livre d'orgue contenant une suite du permier ton","mediaplayer\/player.asp?br=128&tl=1951396|1951397|1951398|1951399|1951400|1951401|1951402|1951403",["I. Plein Jeu","II. Fugue","III. Trio","IV. Tierce en Taille","V. Basse de Trompette","VI. Recit","VII. Duo","VIII. Grand jeu"]]]]],[["Etienne, Jean-Luc",[["Jeu","mediaplayer\/player.asp?br=128&tl=1951404",[]]]],["Leguay, Jean-Pierre",[["Et puis, et puis encore?","mediaplayer\/player.asp?br=128&tl=1951405|1951406|1951407|1951408|1951409",["I. Choeur a choeur","II. Double I","III. Tiento","IV. Double II","V. Molto Lento"]]]],["Marchand, Christophe",[["3 Orchesographie","mediaplayer\/player.asp?br=128&tl=1951410|1951411|1951412",["No. 1. Estampie","No. 2. Basse danse","No. 3. Saltarello"]]]],["Boedec, Michel",[["Sans titre","mediaplayer\/player.asp?br=128&tl=1951413",[]]]],["Mather, Bruce",[["Pour l'orgue de Mouzon","mediaplayer\/player.asp?br=128&tl=1951414",[]]]],["Mabit, Alain",[["Rien, presque &#8230;","mediaplayer\/player.asp?br=128&tl=1951415",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=ACD22120.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=ACD22120.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DACD22120","desc":"MAGNIFICAT","label":"ATMA Classique","category":"Instrumental - Classical Music","composer":"Anonymous -- Titelouze, Jehan -- Clerambault, Louis-Nicolas -- Dandrieu, Jean-Francois","artist":"Prefontaine, Yves-G. -- Jean-Pierre, Couturier","country":"France","catid":"ACD22120","cdinfo":[[["Anonymous",[["Suite in F Major from the Livre d'orgue de Montreal","mediaplayer\/player.asp?br=128&tl=210262|210263|210264|210265|210266|210267|210268",[]],["Magnificat on the 1st Tone","mediaplayer\/player.asp?br=128&tl=210249|210250|210251|210252|210253|210254|210255",[]],["Magnificat on the 8th Tone","mediaplayer\/player.asp?br=128&tl=210239|210240|210241|210242",[]]]],["Dandrieu, Jean-Francois",[["Magnificat","mediaplayer\/player.asp?br=128&tl=210243|210244|210245|210246|210247|210248",[]]]],["Titelouze, Jehan",[["Magnificat on the 6th Tone","mediaplayer\/player.asp?br=128&tl=210256|210257|210258|210259|210260|210261",[]]]],["Clerambault, Louis-Nicolas",[["Suite on the 1st Tone","mediaplayer\/player.asp?br=128&tl=210269|210270|210271|210272|210273|210274|210275",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HMC902143.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HMC902143.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHMC902143","desc":"Harpsichord Recital: Staier, Andreas - FROBERGER, J.J. \/ ANGLEBERT, J.H. d' \/ FISCHER, J.C.F. \/ COUPERIN, L. (\u2026 pour passer la m\u00e9lancolie)","label":"Harmonia Mundi","category":"Instrumental - Classical Music","composer":"Anglebert, Jean Henri d' -- Froberger, Johann Jacob -- Muffat, Georg -- Clerambault, Louis-Nicolas -- Couperin, Louis -- Fischer, Johann Caspar Ferdinand","artist":"Staier, Andreas","country":"France Germany","catid":"HMC902143","cdinfo":[[["Froberger, Johann Jacob",[["Suite No. 30 in A Minor","mediaplayer\/player.asp?br=128&tl=1633267|1633268|1633269|1633270",["I. Allemande","II. Courante","III. Sarabande","IV. Gigue"]]]],["Anglebert, Jean Henri d'",[["Pieces d'orgue: Fugue grave","mediaplayer\/player.asp?br=128&tl=1633271",[]]]],["Fischer, Johann Caspar Ferdinand",[["Musicalischer Parnassus: Uranie, Suite No. 9 (excerpts)","mediaplayer\/player.asp?br=128&tl=1633272|1633273",["I. Toccata","IX. Passacaglia"]]]],["Couperin, Louis",[["Suite in F Major","mediaplayer\/player.asp?br=128&tl=1633338|1633339|1633340|1633341|1633342|1633343",["I. Prelude","II. Allemande grave","III. Courante","IV. Sarabande","V. Chaconne","VI. Tombeau de Monsieur Blancrocher"]]]],["Anglebert, Jean Henri d'",[["Pieces de clavecin (excerpts)","mediaplayer\/player.asp?br=128&tl=1633344|1633345|1633346",["Prelude","Tombeau de M. de Chambonnieres","Chaconne rondeau"]]]],["Fischer, Johann Caspar Ferdinand",[["Ariadne musica neo-organoedum, Op. 4: Ricercare pro Tempore Quadragesimae, \"Da Jesus an dem Kreuze stund\"","mediaplayer\/player.asp?br=128&tl=1633347",[]]]],["Clerambault, Louis-Nicolas",[["Premier livre de pieces de clavecin: Suite in C Minor","mediaplayer\/player.asp?br=128&tl=1633348|1633349|1633350|1633351|1633352",["I. Prelude non mesure","II. Allemande","III. Courante","IV. Sarabande","V. Gigue"]]]],["Muffat, Georg",[["Apparatus musico-organisticus: Passacaglia","mediaplayer\/player.asp?br=128&tl=1633353",[]]]],["Froberger, Johann Jacob",[["Suite No. 12 in C Major: I. Lamento sopra la dolorosa oerdita della Real Msta di Ferdinando IV, Re de Romani","mediaplayer\/player.asp?br=128&tl=1633354",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=SCD1059.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=SCD1059.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DSCD1059","desc":"GRIGNY: Veni Creator \/ MAGE: Suite du premier ton \/ CLERAMBAULT: Suite du premier ton and deuxieme ton","label":"Swedish Society","category":"Choral - Sacred - Classical Music","composer":"Mage, Pierre du -- Grigny, Nicolas de -- Clerambault, Louis-Nicolas","artist":"Gustafsson, Ralph -- Alf, Fredrik -- Freden, Lars -- Froberg, Bengt-Erik -- Nyberg, Erik -- Lundblad, David","country":"France","catid":"SCD1059","cdinfo":[[["Grigny, Nicolas de",[["Veni creator","mediaplayer\/player.asp?br=128&tl=165257|165258|165259|165260|165261",[]]]],["Mage, Pierre du",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=165275|165276|165277|165278|165279|165280|165281|165282",[]]]],["Clerambault, Louis-Nicolas",[["Suite du premier ton","mediaplayer\/player.asp?br=128&tl=165287|165288|165289|165290|165291|165292|165293",[]],["Suite du deuxieme ton","mediaplayer\/player.asp?br=128&tl=165294|165295|165296|165297|165298|165299|165300",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="clerambault livre d'orgue";JGaskdonation=0;JGFileTools={"68076":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/68076"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2368076"}},"85197":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/85197"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2385197"}},"384449":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384449"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384449"}},"384450":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384450"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384450"}},"384451":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384451"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384451"}},"384452":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384452"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384452"}},"384453":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384453"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384453"}},"384454":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384454"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384454"}},"384455":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384449\/384450\/384451\/384452\/384453\/384454\/384455\/5b55"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384455"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384455"}},"384568":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384568"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384568"}},"384569":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384569"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384569"}},"384570":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384570"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384570"}},"384571":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384571"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384571"}},"384572":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384572"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384572"}},"384573":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384573"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384573"}},"384574":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/384568\/384569\/384570\/384571\/384572\/384573\/384574\/0008"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384574"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384574"}},"318055":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=318055"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP318055"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=318055"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/318055"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/318055"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23318055"}},"3819":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=3819"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/3819\/334013\/334014\/5374"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP03819"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=3819"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/3819"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/3819"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2303819"}},"334013":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=334013"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/3819\/334013\/334014\/5374"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP334013"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=334013"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/334013"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/334013"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23334013"}},"334014":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=334014"},"015-ZIPFILE":{"icon":52,"label":"Download 3 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/3819\/334013\/334014\/5374"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP334014"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=334014"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/334014"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23334014"}},"384567":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=384567"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP384567"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/384567"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384567"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23384567"}},"18394":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18394"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18394"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18394"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18394"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318394"}},"18395":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18395"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18395"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18395"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18395"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318395"}},"18396":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18396"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18396"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18396"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18396"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318396"}},"18397":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18397"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18397"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18397"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18397"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318397"}},"18398":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18398"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18398"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18398"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18398"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318398"}},"18399":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18399"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18399"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18399"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18399"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318399"}},"18400":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18400"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18394\/18395\/18396\/18397\/18398\/18399\/18400\/1a49"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18400"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18400"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18400"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318400"}},"130078":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=130078"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP130078"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=130078"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/130078"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/130078"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%23130078"}},"18401":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18401"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18401"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18401"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18401"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318401"}},"18402":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18402"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18402"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18402"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18402"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318402"}},"18403":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18403"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18403"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18403"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18403"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318403"}},"18404":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18404"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18404"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18404"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18404"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318404"}},"18405":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18405"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18405"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18405"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18405"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318405"}},"18406":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18406"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18406"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18406"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18406"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318406"}},"18407":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=18407"},"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/18401\/18402\/18403\/18404\/18405\/18406\/18407\/4728"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP18407"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/18407"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/18407"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Livre+d%27orgue+%28Cl%C3%A9rambault%2C+Louis-Nicolas%29&frmTitle=IMSLP+%2318407"}}};JGFileOpts={"68076":[],"85197":[],"384449":[],"384450":[],"384451":[],"384452":[],"384453":[],"384454":[],"384455":[],"384568":[],"384569":[],"384570":[],"384571":[],"384572":[],"384573":[],"384574":[],"318055":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj0CvwFzlCDHfUR6m4YQehONhm4IAdZR9oeZKdDBqF8MTTKre\/VJJPgtxjVqH9FhIVd1jFk4BsS+vA4HOWUwpYVOhUE6qnU3qsP2\/3dI+9HKtyXNMOdicDIk5\/WMH4UfXU="},"3819":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgnz7TJy8fmPyKQ36mJi7ohLxTJthxOFrcM3sq40kCNfoCOrK3z7X1UyMxnRh9rkWM="},"334013":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjOxGdtqiCyhWFaDzsbMiOtaXZN7h0bld8KY5qWgIW2A0ykG8I0wjI0aayt9wnFA4wNPNAjeZD\/PWl3iTsjxL4IM6IOjVPovNp3V48DnZAHcA=="},"334014":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bji96VKkXx4Cuxb26Okq6E3wir+\/A96OD5z3XGnilx8RALacPJVZcRB6ClzAkvJkEUr4QOECuPGtcA1731vyw\/kNO8byTv0bqKmvza3OOWr8A=="},"384567":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgSb\/c01RefXwRilQTLqzGku1SpubA7Dt1D5kfu+D3IjDq4X+YgE0fYDITzzkbPKuHWytYxWJUNfDyBNbiThdQo"},"18394":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgit\/\/0l+SnnyAXKD6r2WjctTErUwLbugCsrZkJGa7hzDV\/BIGQRFtcv9PZY9clt+Bwd77KigFEHKeanKSl9iQj"},"18395":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg9u2QdGtTOGrpdi36oUEl6AwLIbgOKNo0YzqLp+7OPL5bZrGhMmm0JFskTyVbN7HUn9S3Eme2RSR7rBxeh7063"},"18396":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhhyle5ZTE8PGJf+jDwRO\/vidAyXHALO89Ou\/kCAtT+nWhhLdWTUhyRZpmCjfqoIf6XjKZHG+5YIGCMMaCZG+kG"},"18397":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh\/yjRjR7xH+WBb58j5doVamJDtSlUkST2TBJInNZVvRScijkE8V\/wayU5zG88x9Z2S65+qZZam4qZby7h2ilyg"},"18398":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg0dNTNNm1PWnpFucNEJllU8OWbC4nTyEC0o681hoA\/IaWHDeDXFnvXOHU8ij6ljzBzdgnDC+vT22UPthT+27pX"},"18399":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjPKaUbgtD+3puag7ZVw5hLGnj\/KSAMzomCQaEwlHKu9Hq9BIqd+vE4p8F6K1AIo55gFvd\/+QWgR6PHfDx7W5Iv"},"18400":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biL20fh498qSDsIyMa3LGknVoFUe0HQESgqsCeVjvD7XX8a33UEsBWuLN5fmQzPm4s6JiJzvnXuJOb69WwVKCTM"},"130078":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgkq6\/aDhLuIc\/mhfd9XOVDbRxHfntovk\/1WOP6EgIzenI4sLW\/7oxMpRy1RwJzLp3BS0tw9gybTlbEzTgi9uGUHuYAg1s9MkisfpwbC6fQNw=="},"18401":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biRK9WrmoKiw0jYjVo6vdUrw+wdzxlaO+e33Bf3CrKu\/DIWhh1l2xZIFkS4mDElq0BgHGoNUr7ZK22Gx\/q7AHlS"},"18402":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjFFVWrlya3g3uuP36ddoT\/fy8NN+s\/jzmwi9egzOsAm8u6\/KvfnSWxsrkF1JOTC8A1SWIYdyHs6dV+1aI3C6lv"},"18403":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDXwBMMkaeJ6grRRPTlWmCY4x7EoLRUTFV9FklvR3LmheQZkaE195KUwD3flqQ2e87Y\/hWEzHqfFNOCiMLi7DY"},"18404":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bh6QjESDsEqy90IBPEP0J140ASCMg5Yu1Zo4dtiDmwZXUAy2kl18gvhCz5tlWsxhzWXBc0h+13\/MfZn0jY4ejoj"},"18405":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjeTnCH0lj2cBVzuXlyFzx\/OjmQIhZ+hH3b2uUTq2KqhBosgrrqlnOg6rFgHIu945SigGEM3mxdiRDqFVbrEIQ0"},"18406":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi5iAP0g0iYtVAry0tiJasnjbextqIlT+L7E6T6vAHPx4awRHS+N7Ls8WZGmwG7E+iTbH7lflXpZ8jx4U2oGWRU"},"18407":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bi8DVUk\/M\/rapDyYvDhpBxa2aOPRnH3Ny7FHyl\/fCefLXVHqfnkM0VW050XKoluAmvZcOg4UoDc7v9m323hXC7D"}};JGPageUntagged=false;JGPageTags=["suites","org"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":false,"tabNaxos":false,"tabAudio3":true,"tabAudio2":false,"*":false,"\/":0},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"3819":[5.25,"8"],"18394":[6.5,"4"],"18395":[10,"1"],"18396":[5,"2"],"18397":[10,"1"],"18398":[4,"4"],"18399":[10,"1"],"18400":[6,"2"],"18401":[4,"1"],"18402":[2,"1"],"18403":[6,"1"],"18405":[4,"1"],"18406":[6,"1"],"18407":[2,"1"],"68076":[7.3333333333333,"12"],"85197":[5,"10"],"130078":[9,"2"],"318055":[5.3333333333333,"3"],"334013":[8,"1"],"334014":[2.6666666666667,"3"],"384567":[8,"3"],"384449":[0,0],"384450":[0,0],"384451":[0,0],"384452":[0,0],"384453":[0,0],"384454":[0,0],"384455":[0,0],"384568":[0,0],"384569":[0,0],"384570":[0,0],"384571":[0,0],"384572":[0,0],"384573":[0,0],"384574":[0,0],"18404":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Recordings"><span class="tocnumber">1.1</span> <span class="toctext">Recordings</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Suite_du_premier_ton:_V._Basse_et_Dessus_de_Trompette"><span class="tocnumber">1.1.1</span> <span class="toctext">Suite du premier ton: V. Basse et Dessus de Trompette</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.2</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.3</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Suite_du_Ier_ton"><span class="tocnumber">1.3.1</span> <span class="toctext">Suite du Ier ton</span></a></li>
+<li class="toclevel-3"><a href="#Suite_du_IIe_ton"><span class="tocnumber">1.3.2</span> <span class="toctext">Suite du IIe ton</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Suite_du_Premier_Ton"><span class="tocnumber">2.1.1</span> <span class="toctext">Suite du Premier Ton</span></a></li>
+<li class="toclevel-3"><a href="#Suite_du_Deuxi.C3.A8me_Ton"><span class="tocnumber">2.1.2</span> <span class="toctext">Suite du Deuxième Ton</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+<li class="toclevel-1"><a href="#Misc._Comments"><span class="tocnumber">4</span> <span class="toctext">Misc. Comments</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">2</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio2_tab"><b><a href="#tabAudio2">Synthesized/MIDI (<span id="tabAudio2_ct">14</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Recordings">Recordings</span></h3>
+<h4> <span class="mw-headline" id="Suite_du_premier_ton:_V._Basse_et_Dessus_de_Trompette">Suite du premier ton: V. Basse et Dessus de Trompette</span></h4>
+<div class="we"><div id="IMSLP68076" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/68076"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/49/PMLP09467-Clerambault_Basse_de_Trompette.mp3" class="internal" title="PMLP09467-Clerambault Basse de Trompette.mp3">*</a></span><a href="/wiki/File:PMLP09467-Clerambault_Basse_de_Trompette.mp3" title="File:PMLP09467-Clerambault Basse de Trompette.mp3">#68076</a> - 4.20MB - 1:50<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-68076' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-68076'>
+	<a href='javascript:void(0)' id='68076' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='68076' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='68076' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='68076' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='68076' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-68076'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/68076/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/68076/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@68076" title="Special:GetFCtrStats/@68076">3691</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:SteveBNA" title="User:SteveBNA">SteveBNA</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:SteveBNA" title="User:SteveBNA">SteveBNA</a><span class="mh555"> (2010/6/15)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_68076'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"68076":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/hz.imslp.info\/files\/imglnks\/usimg\/4\/49\/IMSLP68076-PMLP09467-Clerambault_Basse_de_Trompette.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performer Pages
+</th>
+<td><a href="/wiki/Category:Wiberg,_Steve" title="Category:Wiberg, Steve">Steve Wiberg</a> (Organ)
+</td></tr>
+<tr>
+<th>Performers
+</th>
+<td>Steve Wiberg
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Steve Wiberg
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=68076">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=68076">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="68076">Javascript is required for this feature.</div><script>JGINITsearchbars['68076']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<div class="we"><div id="IMSLP85197" class="we_file_first we_fileblock_2 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/85197"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f4/PMLP09467-1-06_Cl%C3%A9rambault_Livre_d_Orgue%2C_Suite_du_Premier_Ton%3B_V_Basse_et_Dessus_de_Trompette.mp3" class="internal" title="PMLP09467-1-06 Clérambault Livre d Orgue, Suite du Premier Ton; V Basse et Dessus de Trompette.mp3">*</a></span><a href="/wiki/File:PMLP09467-1-06_Cl%C3%A9rambault_Livre_d_Orgue,_Suite_du_Premier_Ton;_V_Basse_et_Dessus_de_Trompette.mp3" title="File:PMLP09467-1-06 Clérambault Livre d Orgue, Suite du Premier Ton; V Basse et Dessus de Trompette.mp3">#85197</a> - 0.77MB - 1:40<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-85197' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-85197'>
+	<a href='javascript:void(0)' id='85197' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='85197' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='85197' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='85197' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='85197' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-85197'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/85197/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/85197/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@85197" title="Special:GetFCtrStats/@85197">1400</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Perlnerd666" title="User:Perlnerd666">Perlnerd666</a><span class="mh555"> (2010/11/19)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_85197'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"85197":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/ks.petruccimusiclibrary.org\/files\/imglnks\/usimg\/f\/f4\/IMSLP85197-PMLP09467-1-06_Cl\u00e9rambault_Livre_d_Orgue,_Suite_du_Premier_Ton;_V_Basse_et_Dessus_de_Trompette.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Jacob Reed
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Jacob Reed, 2010
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_3.0" title="IMSLP:Creative Commons Attribution 3.0">Creative Commons Attribution 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=85197">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=85197">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Recorded May 3, 2010<br />Kleuker organ at Chapel of the Cross, Chapel Hill, NC
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="85197">Javascript is required for this feature.</div><script>JGINITsearchbars['85197']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h4> <span class="mw-headline" id="Suite_du_Ier_ton">Suite du Ier ton</span></h4>
+<div class="we"><div id="IMSLP384449" class="we_file_first we_fileblock_3 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384449"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Grand plein jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ab/PMLP09467-Cl%C3%A9rambault_Suite1.1_Plein-Jeu.mid" class="internal" title="PMLP09467-Clérambault Suite1.1 Plein-Jeu.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.1_Plein-Jeu.mid" title="File:PMLP09467-Clérambault Suite1.1 Plein-Jeu.mid">#384449</a> - 0.01MB - 2:47<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384449' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384449'>
+	<a href='javascript:void(0)' id='384449' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384449' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384449' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384449' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384449' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384449'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384449/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384449/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384449" title="Special:GetFCtrStats/@384449">94</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more we_audio_top" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>6 more</u>:</b> 2. Fugue • 3. Duo • 4. Trio • 5. Basse et dessus de Trompette, en dialogue • 6. Récits de cromorne et de cornet en dialogue • 7. Dialogue sur les grands jeux
+</p>
+</div><div id="IMSLP384450" class="we_file we_fileblock_3 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384450"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Fugue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/52/PMLP09467-Cl%C3%A9rambault_Suite1.2_Fugue.mid" class="internal" title="PMLP09467-Clérambault Suite1.2 Fugue.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.2_Fugue.mid" title="File:PMLP09467-Clérambault Suite1.2 Fugue.mid">#384450</a> - 0.01MB - 3:08<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384450' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384450'>
+	<a href='javascript:void(0)' id='384450' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384450' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384450' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384450' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384450' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384450'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384450/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384450/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384450" title="Special:GetFCtrStats/@384450">50</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384451" class="we_file we_fileblock_3 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384451"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Duo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9f/PMLP09467-Cl%C3%A9rambault_Suite1.3_Duo.mid" class="internal" title="PMLP09467-Clérambault Suite1.3 Duo.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.3_Duo.mid" title="File:PMLP09467-Clérambault Suite1.3 Duo.mid">#384451</a> - 0.01MB - 1:21<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384451' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384451'>
+	<a href='javascript:void(0)' id='384451' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384451' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384451' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384451' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384451' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384451'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384451/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384451/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384451" title="Special:GetFCtrStats/@384451">48</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384452" class="we_file we_fileblock_3 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384452"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fa/PMLP09467-Cl%C3%A9rambault_Suite1.4_Trio.mid" class="internal" title="PMLP09467-Clérambault Suite1.4 Trio.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.4_Trio.mid" title="File:PMLP09467-Clérambault Suite1.4 Trio.mid">#384452</a> - 0.01MB - 1:45<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384452' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384452'>
+	<a href='javascript:void(0)' id='384452' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384452' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384452' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384452' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384452' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384452'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384452/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384452/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384452" title="Special:GetFCtrStats/@384452">44</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384453" class="we_file we_fileblock_3 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384453"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Basse et dessus de Trompette, en dialogue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e0/PMLP09467-Cl%C3%A9rambault_Suite1.5_Basse_Dessus.mid" class="internal" title="PMLP09467-Clérambault Suite1.5 Basse Dessus.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.5_Basse_Dessus.mid" title="File:PMLP09467-Clérambault Suite1.5 Basse Dessus.mid">#384453</a> - 0.01MB - 1:52<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384453' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384453'>
+	<a href='javascript:void(0)' id='384453' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384453' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384453' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384453' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384453' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384453'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384453/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384453/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384453" title="Special:GetFCtrStats/@384453">57</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384454" class="we_file we_fileblock_3 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384454"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Récits de cromorne et de cornet en dialogue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/53/PMLP09467-Cl%C3%A9rambault_Suite1.6_Recits.mid" class="internal" title="PMLP09467-Clérambault Suite1.6 Recits.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.6_Recits.mid" title="File:PMLP09467-Clérambault Suite1.6 Recits.mid">#384454</a> - 0.01MB - 3:24<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384454' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384454'>
+	<a href='javascript:void(0)' id='384454' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384454' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384454' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384454' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384454' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384454'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384454/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384454/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384454" title="Special:GetFCtrStats/@384454">41</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384455" class="we_file we_fileblock_3 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384455"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Dialogue sur les grands jeux</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/28/PMLP09467-Cl%C3%A9rambault_Suite1.7_Dialogue.mid" class="internal" title="PMLP09467-Clérambault Suite1.7 Dialogue.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite1.7_Dialogue.mid" title="File:PMLP09467-Clérambault Suite1.7 Dialogue.mid">#384455</a> - 0.01MB - 2:03<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384455' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384455'>
+	<a href='javascript:void(0)' id='384455' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384455' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384455' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384455' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384455' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384455'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384455/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384455/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384455" title="Special:GetFCtrStats/@384455">48</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/2)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI file by Pierre Gouin
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2015
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=384449/384450/384451/384452/384453/384454/384455">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=384449/384450/384451/384452/384453/384454/384455">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="384449">Javascript is required for this feature.</div><script>JGINITsearchbars['384449']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div>
+<h4> <span class="mw-headline" id="Suite_du_IIe_ton">Suite du IIe ton</span></h4>
+<div class="we"><div id="IMSLP384568" class="we_file_first we_fileblock_4 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384568"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Plein jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP09467-Cl%C3%A9rambault_Suite2.1_Plein_Jeu.mid" class="internal" title="PMLP09467-Clérambault Suite2.1 Plein Jeu.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.1_Plein_Jeu.mid" title="File:PMLP09467-Clérambault Suite2.1 Plein Jeu.mid">#384568</a> - 0.01MB - 2:24<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384568' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384568'>
+	<a href='javascript:void(0)' id='384568' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384568' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384568' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384568' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384568' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384568'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384568/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384568/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384568" title="Special:GetFCtrStats/@384568">71</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more we_audio_top" id="we_file_more_4" data-block="4">
+<p><b>⇒ <u>6 more</u>:</b> 2. Duo • 3. Trio • 4. Basse de cromorne • 5. Flûtes • 6. Récit de nazard • 7. Caprice sur les grands jeux
+</p>
+</div><div id="IMSLP384569" class="we_file we_fileblock_4 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384569"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Duo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/88/PMLP09467-Cl%C3%A9rambault_Suite2.2_Duo.mid" class="internal" title="PMLP09467-Clérambault Suite2.2 Duo.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.2_Duo.mid" title="File:PMLP09467-Clérambault Suite2.2 Duo.mid">#384569</a> - 0.01MB - 1:27<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384569' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384569'>
+	<a href='javascript:void(0)' id='384569' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384569' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384569' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384569' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384569' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384569'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384569/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384569/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384569" title="Special:GetFCtrStats/@384569">49</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384570" class="we_file we_fileblock_4 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384570"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/eb/PMLP09467-Cl%C3%A9rambault_Suite2.3_Trio.mid" class="internal" title="PMLP09467-Clérambault Suite2.3 Trio.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.3_Trio.mid" title="File:PMLP09467-Clérambault Suite2.3 Trio.mid">#384570</a> - 0.01MB - 1:36<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384570' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384570'>
+	<a href='javascript:void(0)' id='384570' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384570' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384570' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384570' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384570' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384570'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384570/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384570/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384570" title="Special:GetFCtrStats/@384570">44</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384571" class="we_file we_fileblock_4 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384571"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Basse de cromorne</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/57/PMLP09467-Cl%C3%A9rambault_Suite2.4_Basse_Cromorne.mid" class="internal" title="PMLP09467-Clérambault Suite2.4 Basse Cromorne.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.4_Basse_Cromorne.mid" title="File:PMLP09467-Clérambault Suite2.4 Basse Cromorne.mid">#384571</a> - 0.01MB - 1:31<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384571' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384571'>
+	<a href='javascript:void(0)' id='384571' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384571' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384571' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384571' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384571' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384571'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384571/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384571/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384571" title="Special:GetFCtrStats/@384571">53</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384572" class="we_file we_fileblock_4 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384572"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Flûtes</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/55/PMLP09467-Cl%C3%A9rambault_Suite2.5_Flutes.mid" class="internal" title="PMLP09467-Clérambault Suite2.5 Flutes.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.5_Flutes.mid" title="File:PMLP09467-Clérambault Suite2.5 Flutes.mid">#384572</a> - 0.01MB - 2:43<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384572' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384572'>
+	<a href='javascript:void(0)' id='384572' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384572' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384572' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384572' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384572' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384572'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384572/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384572/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384572" title="Special:GetFCtrStats/@384572">45</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384573" class="we_file we_fileblock_4 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384573"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Récit de nazard</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/73/PMLP09467-Cl%C3%A9rambault_Suite2.6_Nazard.mid" class="internal" title="PMLP09467-Clérambault Suite2.6 Nazard.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.6_Nazard.mid" title="File:PMLP09467-Clérambault Suite2.6 Nazard.mid">#384573</a> - 0.01MB - 2:33<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384573' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384573'>
+	<a href='javascript:void(0)' id='384573' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384573' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384573' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384573' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384573' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384573'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384573/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384573/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384573" title="Special:GetFCtrStats/@384573">47</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP384574" class="we_file we_fileblock_4 we_file_hideentry we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384574"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Caprice sur les grands jeux</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3f/PMLP09467-Cl%C3%A9rambault_Suite2.7_Caprice.mid" class="internal" title="PMLP09467-Clérambault Suite2.7 Caprice.mid">*</a></span><a href="/wiki/File:PMLP09467-Cl%C3%A9rambault_Suite2.7_Caprice.mid" title="File:PMLP09467-Clérambault Suite2.7 Caprice.mid">#384574</a> - 0.01MB - 1:49<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384574' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384574'>
+	<a href='javascript:void(0)' id='384574' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384574' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384574' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384574' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384574' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384574'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/384574/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384574/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@384574" title="Special:GetFCtrStats/@384574">73</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Keanur" title="User:Keanur">Keanur</a><span class="mh555"> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI file by Pierre Gouin
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2015
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=384568/384569/384570/384571/384572/384573/384574">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=384568/384569/384570/384571/384572/384573/384574">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="384568">Javascript is required for this feature.</div><script>JGINITsearchbars['384568']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio2"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">20</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP318055" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/318055"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5b/PMLP09467-Clerambault_-_Premier_Livre_d%27Orgue_-1710-.pdf" class="internal" title="PMLP09467-Clerambault - Premier Livre d&#39;Orgue -1710-.pdf">*</a></span><a href="/wiki/File:PMLP09467-Clerambault_-_Premier_Livre_d%27Orgue_-1710-.pdf" title="File:PMLP09467-Clerambault - Premier Livre d'Orgue -1710-.pdf">#318055</a> - 1.26MB, 32 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-318055' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-318055'>
+	<a href='javascript:void(0)' id='318055' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='318055' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='318055' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='318055' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='318055' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-318055'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/318055/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/318055/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 2654"><a href="/wiki/Special:GetFCtrStats/@318055" title="Special:GetFCtrStats/@318055">2654</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/btv1b9009988j"><span style="border-bottom:1px dotted black" title="Bibliothèque Nationale de France">F-Pn</span></a></span><br />
+<a href="/wiki/User:Irishmaestro" title="User:Irishmaestro">Irishmaestro</a> (2014/3/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>First edition
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Chez l'auteur, le Sieur Foucault, n.d. [1710]
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=318055">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=318055">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="318055">Javascript is required for this feature.</div><script>JGINITsearchbars['318055']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=318055&type=Complete%20Score&pgcount=32&signature=9fbe78696a824b94dabecce6fae8269c6c07e6df"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP09467-Clerambault_-_Premier_Livre_d%27Orgue_-1710-.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/5b/e588df9e689e7505ed8cabcc5fc86dc59865e692.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP03819" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/03819"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ec/Clerambaultorgue.pdf" class="internal" title="Clerambaultorgue.pdf">*</a></span><a href="/wiki/File:Clerambaultorgue.pdf" title="File:Clerambaultorgue.pdf">#03819</a> - 1.47MB, 35 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-3819' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-3819'>
+	<a href='javascript:void(0)' id='3819' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='3819' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='3819' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='3819' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='3819' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-3819'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/03819/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/03819/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 8028"><a href="/wiki/Special:GetFCtrStats/@3819" title="Special:GetFCtrStats/@3819">8028</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:NachoBA" title="User:NachoBA">NachoBA</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:NachoBA" title="User:NachoBA">NachoBA</a> (2007/2/17)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP334013" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/334013"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/55/SIBLEY1802.25668.2ddf-39087013469558contenant.pdf" class="internal" title="SIBLEY1802.25668.2ddf-39087013469558contenant.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.25668.2ddf-39087013469558contenant.pdf" title="File:SIBLEY1802.25668.2ddf-39087013469558contenant.pdf">#334013</a> - 2.62MB, 43 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-334013' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-334013'>
+	<a href='javascript:void(0)' id='334013' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='334013' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='334013' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='334013' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='334013' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-334013'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/334013/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/334013/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 1022"><a href="/wiki/Special:GetFCtrStats/@334013" title="Special:GetFCtrStats/@334013">1022</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/25668"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/7/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP334014" class="we_file we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/334014"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Portrait</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/59/SIBLEY1802.25668.b3f6-39087013469558portrait.pdf" class="internal" title="SIBLEY1802.25668.b3f6-39087013469558portrait.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.25668.b3f6-39087013469558portrait.pdf" title="File:SIBLEY1802.25668.b3f6-39087013469558portrait.pdf">#334014</a> - 3.58MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-334014' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-334014'>
+	<a href='javascript:void(0)' id='334014' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='334014' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='334014' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='334014' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='334014' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-334014'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/334014/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/334014/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 449"><a href="/wiki/Special:GetFCtrStats/@334014" title="Special:GetFCtrStats/@334014">449</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/25668"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Afp0815" title="User:Afp0815">Afp0815</a> (2014/7/12)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Guilmant,_Alexandre" title="Category:Guilmant, Alexandre">Alexandre Guilmant</a> (1837-1911)<br /><a href="/wiki/Category:Pirro,_Andr%C3%A9" title="Category:Pirro, André">André Pirro</a> (1869-1943)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i><a href="/wiki/Archives_des_Ma%C3%AEtres_de_l%27orgue" title="Archives des Maîtres de l'orgue">Archives des Maîtres de l'orgue</a>, Vol.3</i> <br />Paris: <a href="/wiki/Durand" title="Durand">A. Durand &amp; Fils</a>,  1901. Plate A.G. 104
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=3819/334013/334014">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=3819/334013/334014">del</a>/<span id="fmrglnk" data-pdfstr="3819//334013//334014/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>#334013/14 This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="3819">Javascript is required for this feature.</div><script>JGINITsearchbars['3819']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=3819|334013|334014&type=Complete%20Score%7CComplete%20Score%7CPortrait&pgcount=35|43|2&signature=73c90753ea03e7e2c86e4e999998d39d012ffedd"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Clerambaultorgue.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ec/969224cf216842dcf3940a95925771e262dd9cad.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP384567" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384567"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f9/PMLP09467-Clerambault_Complete.pdf" class="internal" title="PMLP09467-Clerambault Complete.pdf">*</a></span><a href="/wiki/File:PMLP09467-Clerambault_Complete.pdf" title="File:PMLP09467-Clerambault Complete.pdf">#384567</a> - 1.12MB, 34 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384567' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384567'>
+	<a href='javascript:void(0)' id='384567' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384567' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384567' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384567' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384567' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384567'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/384567/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/384567/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 3110"><a href="/wiki/Special:GetFCtrStats/@384567" title="Special:GetFCtrStats/@384567">3110</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (2015/7/3)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2007
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=384567">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=384567">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="384567">Javascript is required for this feature.</div><script>JGINITsearchbars['384567']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP09467-Clerambault_Complete.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f9/b76c241c2a83231708d41aab7e1071a18e9d75ed.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Suite_du_Premier_Ton">Suite du Premier Ton</span></h4>
+<div class="we"><div id="IMSLP18394" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18394"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Grand Plein Jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6a/Clerambault_Suite1.1_Plein-Jeu.pdf" class="internal" title="Clerambault Suite1.1 Plein-Jeu.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.1_Plein-Jeu.pdf" title="File:Clerambault Suite1.1 Plein-Jeu.pdf">#18394</a> - 0.09MB, 3 (#1-3) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18394' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18394'>
+	<a href='javascript:void(0)' id='18394' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18394' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18394' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18394' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18394' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18394'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18394/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18394/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 5313"><a href="/wiki/Special:GetFCtrStats/@18394" title="Special:GetFCtrStats/@18394">5313</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_8" data-block="8">
+<p><b>⇒ <u>6 more</u>:</b> 2. Fugue • 3. Duo • 4. Trio • 5. Basse et Dessus de Trompette • 6. Récits de Cromorne et de Cornet séparé, en Dialogue • 7. Dialogue sur les Grands Jeux
+</p>
+</div><div id="IMSLP18395" class="we_file we_fileblock_8 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18395"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Fugue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0a/Clerambault_Suite1.2_Fugue.pdf" class="internal" title="Clerambault Suite1.2 Fugue.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.2_Fugue.pdf" title="File:Clerambault Suite1.2 Fugue.pdf">#18395</a> - 0.08MB, 2 (#4-5) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18395' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18395'>
+	<a href='javascript:void(0)' id='18395' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18395' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18395' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18395' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18395' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18395'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18395/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18395/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2342"><a href="/wiki/Special:GetFCtrStats/@18395" title="Special:GetFCtrStats/@18395">2342</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18396" class="we_file we_fileblock_8 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18396"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Duo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/13/Clerambault_Suite1.3_Duo.pdf" class="internal" title="Clerambault Suite1.3 Duo.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.3_Duo.pdf" title="File:Clerambault Suite1.3 Duo.pdf">#18396</a> - 0.06MB, 2 (#6-7) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18396' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18396'>
+	<a href='javascript:void(0)' id='18396' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18396' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18396' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18396' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18396' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18396'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18396/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18396/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2309"><a href="/wiki/Special:GetFCtrStats/@18396" title="Special:GetFCtrStats/@18396">2309</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18397" class="we_file we_fileblock_8 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18397"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b6/Clerambault_Suite1.4_Trio.pdf" class="internal" title="Clerambault Suite1.4 Trio.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.4_Trio.pdf" title="File:Clerambault Suite1.4 Trio.pdf">#18397</a> - 0.07MB, 2 (#8-9) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18397' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18397'>
+	<a href='javascript:void(0)' id='18397' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18397' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18397' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18397' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18397' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18397'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18397/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18397/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1782"><a href="/wiki/Special:GetFCtrStats/@18397" title="Special:GetFCtrStats/@18397">1782</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18398" class="we_file we_fileblock_8 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18398"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Basse et Dessus de Trompette</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/43/Clerambault_Suite1.5_Basse_Dessus.pdf" class="internal" title="Clerambault Suite1.5 Basse Dessus.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.5_Basse_Dessus.pdf" title="File:Clerambault Suite1.5 Basse Dessus.pdf">#18398</a> - 0.08MB, 2 (#10-11) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18398' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18398'>
+	<a href='javascript:void(0)' id='18398' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18398' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18398' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18398' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18398' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18398'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18398/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18398/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 3429"><a href="/wiki/Special:GetFCtrStats/@18398" title="Special:GetFCtrStats/@18398">3429</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18399" class="we_file we_fileblock_8 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18399"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Récits de Cromorne et de Cornet séparé, en Dialogue</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/66/Clerambault_Suite1.6_Recits.pdf" class="internal" title="Clerambault Suite1.6 Recits.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.6_Recits.pdf" title="File:Clerambault Suite1.6 Recits.pdf">#18399</a> - 0.10MB, 4 (#12-15) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18399' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18399'>
+	<a href='javascript:void(0)' id='18399' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18399' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18399' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18399' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18399' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18399'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18399/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18399/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2208"><a href="/wiki/Special:GetFCtrStats/@18399" title="Special:GetFCtrStats/@18399">2208</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18400" class="we_file we_fileblock_8 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18400"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Dialogue sur les Grands Jeux</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bf/Clerambault_Suite1.7_Dialogue.pdf" class="internal" title="Clerambault Suite1.7 Dialogue.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite1.7_Dialogue.pdf" title="File:Clerambault Suite1.7 Dialogue.pdf">#18400</a> - 0.08MB, 2 (#16-17) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18400' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18400'>
+	<a href='javascript:void(0)' id='18400' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18400' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18400' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18400' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18400' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18400'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18400/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18400/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 3334"><a href="/wiki/Special:GetFCtrStats/@18400" title="Special:GetFCtrStats/@18400">3334</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/2" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2007. Revised July 2015.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=18394/18395/18396/18397/18398/18399/18400">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=18394/18395/18396/18397/18398/18399/18400">del</a>/<span id="fmrglnk" data-pdfstr="18394//18395//18396//18397//18398//18399//18400/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.<br />Urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="18394">Javascript is required for this feature.</div><script>JGINITsearchbars['18394']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Clerambault_Suite1.1_Plein-Jeu.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6a/7b696b2fff95c301b32b2265cb853733575f6bc9.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP130078" class="we_file_first we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/130078"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Basse et Dessus de Trompette</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6b/SIBLEY1802.3241.07c6-39087012433183cleramboult.pdf" class="internal" title="SIBLEY1802.3241.07c6-39087012433183cleramboult.pdf">*</a></span><a href="/wiki/File:SIBLEY1802.3241.07c6-39087012433183cleramboult.pdf" title="File:SIBLEY1802.3241.07c6-39087012433183cleramboult.pdf">#130078</a> - 0.44MB, 6 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-130078' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-130078'>
+	<a href='javascript:void(0)' id='130078' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='130078' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='130078' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='130078' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='130078' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-130078'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/130078/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/130078/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 776"><a href="/wiki/Special:GetFCtrStats/@130078" title="Special:GetFCtrStats/@130078">776</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Icactus" title="User:Icactus">Icactus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://hdl.handle.net/1802/3241"><span style="border-bottom:1px dotted black" title="Sibley Music Library">US-R</span></a></span><br />
+<a href="/wiki/User:Icactus" title="User:Icactus">Icactus</a> (<span title="Updated: 2011/9/27" class="hovertext">2011/9/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Heugel" title="Heugel">Heugel</a>, n.d.  Plate H. 2548
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=130078">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=130078">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>This file is part of the <a href="/wiki/IMSLP:Sibley_Mirroring_Project" title="IMSLP:Sibley Mirroring Project">Sibley Mirroring Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="130078">Javascript is required for this feature.</div><script>JGINITsearchbars['130078']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=130078&type=5.%20Basse%20et%20Dessus%20de%20Trompette&pgcount=6&signature=faf950fc8dac88600febec0b5ffd10f360f4a324"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:SIBLEY1802.3241.07c6-39087012433183cleramboult.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/6b/b21cfaf3efa9411fa4535731015ce0c33a2ad260.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Suite_du_Deuxi.C3.A8me_Ton">Suite du Deuxième Ton</span></h4>
+<div class="we"><div id="IMSLP18401" class="we_file_first we_fileblock_10">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18401"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>1. Plein Jeu</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/29/Clerambault_Suite2.1_Plein_Jeu.pdf" class="internal" title="Clerambault Suite2.1 Plein Jeu.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.1_Plein_Jeu.pdf" title="File:Clerambault Suite2.1 Plein Jeu.pdf">#18401</a> - 0.10MB, 2 (#18-19) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18401' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18401'>
+	<a href='javascript:void(0)' id='18401' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18401' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18401' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18401' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18401' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18401'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18401/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18401/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 4456"><a href="/wiki/Special:GetFCtrStats/@18401" title="Special:GetFCtrStats/@18401">4456</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_10" data-block="10">
+<p><b>⇒ <u>6 more</u>:</b> 2. Duo • 3. Trio • 4. Basse de Cromorne • 5. Flûtes • 6. Récit de Nazard • 7. Caprice sur les Grands Jeux
+</p>
+</div><div id="IMSLP18402" class="we_file we_fileblock_10 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18402"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>2. Duo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/02/Clerambault_Suite2.2_Duo.pdf" class="internal" title="Clerambault Suite2.2 Duo.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.2_Duo.pdf" title="File:Clerambault Suite2.2 Duo.pdf">#18402</a> - 0.07MB, 2 (#20-21) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18402' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18402'>
+	<a href='javascript:void(0)' id='18402' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18402' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18402' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18402' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18402' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18402'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18402/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18402/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2454"><a href="/wiki/Special:GetFCtrStats/@18402" title="Special:GetFCtrStats/@18402">2454</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18403" class="we_file we_fileblock_10 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18403"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>3. Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/4c/Clerambault_Suite2.3_Trio.pdf" class="internal" title="Clerambault Suite2.3 Trio.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.3_Trio.pdf" title="File:Clerambault Suite2.3 Trio.pdf">#18403</a> - 0.07MB, 2 (#22-23) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18403' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18403'>
+	<a href='javascript:void(0)' id='18403' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18403' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18403' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18403' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18403' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18403'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18403/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18403/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1942"><a href="/wiki/Special:GetFCtrStats/@18403" title="Special:GetFCtrStats/@18403">1942</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18404" class="we_file we_fileblock_10 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18404"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>4. Basse de Cromorne</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/6e/Clerambault_Suite2.4_Basse_Cromorne.pdf" class="internal" title="Clerambault Suite2.4 Basse Cromorne.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.4_Basse_Cromorne.pdf" title="File:Clerambault Suite2.4 Basse Cromorne.pdf">#18404</a> - 0.06MB, 2 (#24-25) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18404' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18404'>
+	<a href='javascript:void(0)' id='18404' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18404' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18404' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18404' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18404' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18404'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18404/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18404/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2821"><a href="/wiki/Special:GetFCtrStats/@18404" title="Special:GetFCtrStats/@18404">2821</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18405" class="we_file we_fileblock_10 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18405"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>5. Flûtes</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1c/Clerambault_Suite2.5_Flutes.pdf" class="internal" title="Clerambault Suite2.5 Flutes.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.5_Flutes.pdf" title="File:Clerambault Suite2.5 Flutes.pdf">#18405</a> - 0.07MB, 2 (#26-27) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18405' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18405'>
+	<a href='javascript:void(0)' id='18405' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18405' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18405' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18405' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18405' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18405'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18405/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18405/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2481"><a href="/wiki/Special:GetFCtrStats/@18405" title="Special:GetFCtrStats/@18405">2481</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18406" class="we_file we_fileblock_10 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18406"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>6. Récit de Nazard</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/19/Clerambault_Suite2.6_Nazard.pdf" class="internal" title="Clerambault Suite2.6 Nazard.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.6_Nazard.pdf" title="File:Clerambault Suite2.6 Nazard.pdf">#18406</a> - 0.09MB, 3 (#28-30) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18406' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18406'>
+	<a href='javascript:void(0)' id='18406' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18406' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18406' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18406' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18406' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18406'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18406/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18406/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 3102"><a href="/wiki/Special:GetFCtrStats/@18406" title="Special:GetFCtrStats/@18406">3102</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP18407" class="we_file we_fileblock_10 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/18407"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>7. Caprice sur les Grands Jeux</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/70/Clerambault_Suite2.7_Caprice.pdf" class="internal" title="Clerambault Suite2.7 Caprice.pdf">*</a></span><a href="/wiki/File:Clerambault_Suite2.7_Caprice.pdf" title="File:Clerambault Suite2.7 Caprice.pdf">#18407</a> - 0.11MB, 4 (#31-34) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-18407' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-18407'>
+	<a href='javascript:void(0)' id='18407' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='18407' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='18407' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='18407' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='18407' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-18407'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/18407/Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)" title="Special:IMSLPEditCTag/18407/Livre d'orgue (Clérambault, Louis-Nicolas)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 4261"><a href="/wiki/Special:GetFCtrStats/@18407" title="Special:GetFCtrStats/@18407">4261</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Keanur" title="User:Keanur">editor</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Keanur" title="User:Keanur">editor</a> (<span title="Updated: 2015/7/3" class="hovertext">2008/7/8</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Gouin,_Pierre" title="Category:Gouin, Pierre">Pierre Gouin</a> <a rel="nofollow" class="external text" href="mailto:pierre.gouin@videotron.ca">- Contact</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Montréal: Les Éditions Outremontaises, 2007. Revised July 2015.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=18401/18402/18403/18404/18405/18406/18407">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=18401/18402/18403/18404/18405/18406/18407">del</a>/<span id="fmrglnk" data-pdfstr="18401//18402//18403//18404//18405//18406//18407/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.<br />Urtext edition after a facsimile of the original publication.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="18401">Javascript is required for this feature.</div><script>JGINITsearchbars['18401']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Clerambault_Suite2.1_Plein_Jeu.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/29/4eb4ee17776d977ae395fdb86cce0409770d622f.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Livre d'Orgue
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Premier Livre d’Orgue Contenant deux Suites du Ier et du IIe Ton
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Cl%C3%A9rambault,_Louis-Nicolas" title="Category:Clérambault, Louis-Nicolas">Clérambault, Louis-Nicolas</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ILC 13
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1710
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Dedication
+</th>
+<td>à Monsieur Raison Organiste de l’Abbaye Royale de Sainte Geneviève du Mont
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>Organ
+</td></tr></table>
+</div>
+<h2> <span class="mw-headline" id="Misc._Comments">Misc. Comments</span></h2>
+<p>Aucune date n'apparaît sur la couverture de l'édition parisienne, mais le Privilège du Roy comporte la date du 18 septembre 1710.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 1327/1000000
+Post-expand include size: 125649/2097152 bytes
+Template argument size: 334/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:9467-0!*!0!!en!2!* and timestamp 20180415230200 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)&amp;oldid=1873640">http://imslp.org/index.php?title=Livre_d%27orgue_(Cl%C3%A9rambault,_Louis-Nicolas)&amp;oldid=1873640</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Wiberg,_Steve/Performer" title="Category:Wiberg, Steve/Performer">Wiberg, Steve/Performer</a></li><li><a href="/wiki/Category:Recordings" title="Category:Recordings">Recordings</a></li><li><a href="/wiki/Category:Scores_from_Biblioth%C3%A8que_nationale_de_France" title="Category:Scores from Bibliothèque nationale de France">Scores from Bibliothèque nationale de France</a></li><li><a href="/wiki/Category:Pages_with_First_Editions" title="Category:Pages with First Editions">Pages with First Editions</a></li><li><a href="/wiki/Category:Guilmant,_Alexandre/Editor" title="Category:Guilmant, Alexandre/Editor">Guilmant, Alexandre/Editor</a></li><li><a href="/wiki/Category:Pirro,_Andr%C3%A9/Editor" title="Category:Pirro, André/Editor">Pirro, André/Editor</a></li><li><a href="/wiki/Category:Sibley_Mirroring_Project" title="Category:Sibley Mirroring Project">Sibley Mirroring Project</a></li><li><a href="/wiki/Category:Gouin,_Pierre/Editor" title="Category:Gouin, Pierre/Editor">Gouin, Pierre/Editor</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Cl%C3%A9rambault,_Louis-Nicolas" title="Category:Clérambault, Louis-Nicolas">Clérambault, Louis-Nicolas</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Suites" title="Category:Suites">Suites</a></li><li><a href="/wiki/Category:For_organ" title="Category:For organ">For organ</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Works_first_published_in_1710" title="Category:Works first published in 1710">Works first published in 1710</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Livre_d%27orgue_%28Cl%C3%A9rambault%2C_Louis-Nicolas%29">12,544 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Livre%20d%27orgue%20%28Cl%C3%A9rambault%2C%20Louis-Nicolas%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.013 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416193210 -->
+</html>
+		

@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Comus (Arne, Thomas Augustine) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Comus_(Arne,_Thomas_Augustine)", "wgTitle": "Comus (Arne, Thomas Augustine)", "wgCurRevisionId": 2466070, "wgArticleId": 117045, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages with RISM citations", "WIMA files", "Scores from the Department of Musicology of the University of Pavia (Cremona)", "Pages with RISM references", "OM Parts", "Pages with Items Reprinted by PMBS", "Scores from the Internet Archive", "Wall, Harry Edward/Arranger", "Rondeau, Michel/Arranger", "Scores", "Arne, Thomas Augustine", "Baroque style", "Baroque", "Masques", "Theatrical Works", "For 2 voices, mixed chorus, orchestra", "For voices and chorus with orchestra", "Scores featuring the voice", "Scores featuring the soprano voice", "Scores featuring mixed chorus", "Scores featuring the orchestra", "English language", "For organ (arr)", "For 1 player", "Scores featuring the organ", "For trumpet, organ (arr)", "Scores featuring the trumpet", "For 2 players", "Pages with arrangements", "Works first published in 1740", "Works first published in the 18th century", "Pages with parts for purchase", "Dalton, John/Librettist", "Milton, John/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Comus_Arne_Thomas_Augustine action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Comus_(Arne,_Thomas_Augustine)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (2)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Comus_(Arne,_Thomas_Augustine)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Comus_(Arne,_Thomas_Augustine)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Comus_(Arne,_Thomas_Augustine)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Comus_(Arne,_Thomas_Augustine)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Comus_(Arne,_Thomas_Augustine)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Comus_(Arne,_Thomas_Augustine)&amp;oldid=2466070" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Comus%20%28Arne%2C%20Thomas%20Augustine%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Comus (Arne, Thomas Augustine)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 acts
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1740 ca. - <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990001746&amp;db=251&amp;View=rism&amp;Language=en">London: William Smith</a></span>
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Masques&amp;transclude=Template:Catintro">Masques</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_voices%2C_mixed_chorus%2C_orchestra&amp;transclude=Template:Catintro">For 2 voices, mixed chorus, orchestra</a></span>; <span class="expandline" title="12 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_and_chorus_with_orchestra&amp;transclude=Template:Catintro">For voices and chorus with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_soprano_voice&amp;transclude=Template:Catintro">Scores featuring the soprano voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_mixed_chorus&amp;transclude=Template:Catintro">Scores featuring mixed chorus</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:English_language&amp;transclude=Template:Catintro">English language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_organ_%28arr%29&amp;transclude=Template:Catintro">For organ (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_organ&amp;transclude=Template:Catintro">Scores featuring the organ</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_trumpet%2C_organ_%28arr%29&amp;transclude=Template:Catintro">For trumpet, organ (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_trumpet&amp;transclude=Template:Catintro">Scores featuring the trumpet</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_2_players&amp;transclude=Template:Catintro">For 2 players</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Comus","composer":"Arne, Thomas Augustine","comphref":"\/wiki\/Category:Arne,_Thomas_Augustine"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"comus","itunes":"comus","composer":"arne","scorekeywords":"comus","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=2;JGBSAccompnum=0;JGNaxosSearch={"numres":8,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=CHAN0722.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=CHAN0722.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DCHAN0722","desc":"ARNE: Overtures","label":"Chandos","category":"Orchestral - Classical Music","composer":"Arne, Thomas Augustine","artist":"Standage, Simon -- Collegium Musicum 90","country":"United Kingdom","catid":"CHAN0722","cdinfo":[[["Arne, Thomas Augustine",[["Thomas and Sally: Overture","mediaplayer\/player.asp?br=128&tl=264967|264968",["I. Presto","II. Scotch Gavotte: Affettuoso"]],["Overture No. 1 in E Minor","mediaplayer\/player.asp?br=128&tl=264971|264972|264973|264974",["I. Largo ma non troppo","II. Allegro con spirito","III. Andante e piano","IV. Allegro con spirito"]],["Overture No. 2 in A Major","mediaplayer\/player.asp?br=128&tl=264975|264976|264977",["I. Con spirito","II. Allegro","III. Minuetto"]],["Overture No. 3 in G Major (from Henry and Emma)","mediaplayer\/player.asp?br=128&tl=264978|264979|264980",["I. Presto","II. Andante piano","III. Tempo di minuetto: Con spirito"]],["Overture No. 4 in F Major","mediaplayer\/player.asp?br=128&tl=264992|264993|264994",["I. Con spirito","II. Con spirito","III. Andante piano"]],["Overture No. 5 in D Major","mediaplayer\/player.asp?br=128&tl=265000|265001|265002",["I. Presto","II. Andante e piano","III. Allegro con spirito"]],["Overture No. 6 in B-Flat Major","mediaplayer\/player.asp?br=128&tl=265003|265004|265005|265006",["I. Largo ma audace","II. Allegro","III. Grave et piano","IV. Gavotta vivace"]],["Overture No. 7 in D Major (from Comus)","mediaplayer\/player.asp?br=128&tl=265007|265008|265009",["I. Largo","II. Allegro","III. Allegro"]],["Overture No. 8 in G Minor (from Judgement of Paris)","mediaplayer\/player.asp?br=128&tl=265010|265011|265012|265013",["I. Largo","II. Con spirito","III. Minuet: Andante","IV. Giga: Con spirito"]],["Alfred: Overture","mediaplayer\/player.asp?br=128&tl=265023|265024|265025|265026",["I. Allegro moderato","II. Andante","III. Largo","IV. Tempo di minuetto"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947871057.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947871057.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947871057","desc":"Vocal Recital: Kirkby, Emma - HANDEL, G.F. \/ ARNE, T.A. \/ LAMPE, J.F. (Handel and Arne Arias)","label":"Decca","category":"Chamber Music - Classical Music","composer":"Arne, Thomas Augustine -- Handel, George Frideric -- Lampe, John Friedrich","artist":"Kirkby, Emma -- Hogwood, Christopher -- Academy of Ancient Music","country":"Germany Italy United Kingdom","catid":"00028947871057","cdinfo":[[["Handel, George Frideric",[["Alessandro Severo, HWV A13: Overture","mediaplayer\/player.asp?br=128&tl=2968180",[]]]],["Lampe, John Friedrich",[["Britannia: Welcome Mars","mediaplayer\/player.asp?br=128&tl=2968181",[]]]],["Lampe, John Friedrich",[["Dione: Pretty Warblers","mediaplayer\/player.asp?br=128&tl=2968182",[]]]],["Handel, George Frideric",[["Hornpipe in D Major, HWV 356","mediaplayer\/player.asp?br=128&tl=2968183",[]]]],["Arne, Thomas Augustine",[["Rosamond: Rise, glory rise","mediaplayer\/player.asp?br=128&tl=2968184",[]]]],["Handel, George Frideric",[["Ariodante, HWV 33, Act III: Aria: Neghittosi, or voi che fate?","mediaplayer\/player.asp?br=128&tl=2968185",[]]]],["Handel, George Frideric",[["Alcina, HWV 34 (excerpts)","mediaplayer\/player.asp?br=128&tl=2968186|2968187",["Aria: Credete al mio dolore","Aria: Tornami a vagheggia"]]]],["Handel, George Frideric",[["March in D Major","mediaplayer\/player.asp?br=128&tl=2968188",[]]]],["Handel, George Frideric",[["Alexander's Feast, HWV 75: Aria: War, he sung, is toil and trouble","mediaplayer\/player.asp?br=128&tl=2968189",[]]]],["Handel, George Frideric",[["L'Allegro, il Penseroso ed il Moderato, HWV 55, Part I: Aria: Sweet bird","mediaplayer\/player.asp?br=128&tl=2968190",[]],["Saul, HWV 53, Act I: Air: Capricious Man, in Humour lost","mediaplayer\/player.asp?br=128&tl=2968191",[]]]],["Arne, Thomas Augustine",[["Comus (excerpts)","mediaplayer\/player.asp?br=128&tl=2968192|2968193",["By the rushy-fringed bank","Thrice upon thy fingers tip"]]]],["Arne, Thomas Augustine",[["The Tempest: Where the bee sucks","mediaplayer\/player.asp?br=128&tl=2968194",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DOR-90105.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DOR-90105.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDOR-90105","desc":"Vocal Recital: Baird, Julianne - PURCELL, H. \/ ARNE, T.A. \/ BLOW, J. (English Mad Songs and Ayres) (Baird)","label":"Dorian Sono Luminus","category":"Instrumental - Classical Music","composer":"Arne, Thomas Augustine -- Purcell, Henry -- Blow, John","artist":"Tilney, Colin -- Mackay, Alison -- Baird, Julianne","country":"United Kingdom","catid":"DOR-90105","cdinfo":[[["Purcell, Henry",[["O solitude, my sweetest choice, Z. 406","mediaplayer\/player.asp?br=128&tl=762012",["O solitude, my sweetest choice , Z. 406"]]]],["Purcell, Henry",[["The fatal hour comes on apace, Z. 421","mediaplayer\/player.asp?br=128&tl=762013",[]]]],["Purcell, Henry",[["Harmonia Sacra, Z. 193: An Evening Hymn","mediaplayer\/player.asp?br=128&tl=762014",[]]]],["Purcell, Henry",[["With sick and famish'd eyes, Z. 200","mediaplayer\/player.asp?br=128&tl=762015",[]]]],["Purcell, Henry",[["Fly, bold rebellion, Z. 324: Be Welcome, Then, Great Sir","mediaplayer\/player.asp?br=128&tl=762016",[]],["Hark the echoing air","mediaplayer\/player.asp?br=128&tl=762017",[]]]],["Arne, Thomas Augustine",[["Comus (excerpts)","mediaplayer\/player.asp?br=128&tl=762018|762019",["Fame's an Echo","Not on Beds of Fading Flow'rs"]]]],["Arne, Thomas Augustine",[["The Fall of Phaeton: O Come, O Come my Dearest","mediaplayer\/player.asp?br=128&tl=762020",[]]]],["Purcell, Henry",[["Judith: Sleep, gentle Cherub, Sleep descend","mediaplayer\/player.asp?br=128&tl=762021",[]]]],["Purcell, Henry",[["From silent shades, and the Elysian groves, Z. 370, \"Bess of Bedlam\"","mediaplayer\/player.asp?br=128&tl=762022",[]]]],["Purcell, Henry",[["A New Ground in E Minor, Z. T682","mediaplayer\/player.asp?br=128&tl=762023",[]]]],["Purcell, Henry",[["Oedipus, Z. 583: Music for a while","mediaplayer\/player.asp?br=128&tl=762024",[]]]],["Blow, John",[["Lysander, I pursue in vain","mediaplayer\/player.asp?br=128&tl=762025",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028945808420.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028945808420.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028945808420","desc":"Vocal Recital: Kirkby, Emma - HANDEL, G.F. \/ ARNE, T.A. \/ HAYDN, J. \/ MOZART, W.A.","label":"Decca","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Arne, Thomas Augustine -- Handel, George Frideric -- Haydn, Franz Joseph -- Lampe, John Friedrich","artist":"Kirkby, Emma -- Hogwood, Christopher -- Academy of Ancient Music -- Lubin, Steven -- Hirons, Christopher","country":"Austria Germany Italy United Kingdom","catid":"00028945808420","cdinfo":[[["Handel, George Frideric",[["Alessandro Severo, HWV A13: Overture","mediaplayer\/player.asp?br=128&tl=3038274",[]]]],["Lampe, John Friedrich",[["Britannia: Welcome Mars","mediaplayer\/player.asp?br=128&tl=3038275",[]]]],["Lampe, John Friedrich",[["Dione: Pretty Warblers","mediaplayer\/player.asp?br=128&tl=3038276",[]]]],["Handel, George Frideric",[["Hornpipe in D Major, HWV 356","mediaplayer\/player.asp?br=128&tl=3038277",[]]]],["Arne, Thomas Augustine",[["Rosamond: Rise, glory rise","mediaplayer\/player.asp?br=128&tl=3038278",[]]]],["Handel, George Frideric",[["Ariodante, HWV 33, Act III: Aria: Neghittosi, or voi che fate?","mediaplayer\/player.asp?br=128&tl=3038279",[]]]],["Handel, George Frideric",[["Alcina, HWV 34 (excerpts)","mediaplayer\/player.asp?br=128&tl=3038280|3038281",["Aria: Credete al mio dolore","Aria: Tornami a vagheggia"]]]],["Handel, George Frideric",[["March in D Major","mediaplayer\/player.asp?br=128&tl=3038282",[]]]],["Handel, George Frideric",[["Alexander's Feast, HWV 75: Aria: War, he sung, is toil and trouble","mediaplayer\/player.asp?br=128&tl=3038283",[]]]],["Handel, George Frideric",[["L'Allegro, il Penseroso ed il Moderato, HWV 55, Part I: Aria: Sweet bird","mediaplayer\/player.asp?br=128&tl=3038284",[]],["Saul, HWV 53, Act I: Air: Capricious Man, in Humour lost","mediaplayer\/player.asp?br=128&tl=3038285",[]]]],["Arne, Thomas Augustine",[["Comus (excerpts)","mediaplayer\/player.asp?br=128&tl=3038286|3038287",["By the rushy-fringed bank","Thrice upon thy fingers tip"]]]],["Arne, Thomas Augustine",[["The Tempest: Where the bee sucks","mediaplayer\/player.asp?br=128&tl=3038288",[]]]],["Haydn, Franz Joseph",[["The Creation (Die Schopfung), Hob.XXI:2 (excerpts)","mediaplayer\/player.asp?br=128&tl=3038290|3038291",["Part I: With verdure clad the fields appear (Nun beut die Flur das frische Grun)","Part II: On mighty pens uplifted soars the eagle aloft (Auf starkem Fittiche schwinget sich der Adler stolz)"]]]],["Mozart, Wolfgang Amadeus",[["Il re pastore, K. 208 (excerpts)","mediaplayer\/player.asp?br=128&tl=3039450|3039451",["Act I: Recitative and Aria: Aer tranquilo e disereni","Act II: L'amero, saro costante"]]]],["Mozart, Wolfgang Amadeus",[["Voi avete un cor fedele, K. 217","mediaplayer\/player.asp?br=128&tl=3039557",[]]]],["Mozart, Wolfgang Amadeus",[["Ah, lo previdi, K. 272","mediaplayer\/player.asp?br=128&tl=3039558",[]]]],["Mozart, Wolfgang Amadeus",[["Zaide, K. 344 (excerpts)","mediaplayer\/player.asp?br=128&tl=3039631|3039632",["Act I: Aria: Ruhe sanft, mein holdes Leben","Act II: Aria: Trostlos schluchzet Philomele"]]]],["Mozart, Wolfgang Amadeus",[["Nehmt meinen Dank, K. 383","mediaplayer\/player.asp?br=128&tl=3040204",[]]]],["Mozart, Wolfgang Amadeus",[["Ch'io mi scordi di te &#8230; Non temer, amato bene, K. 505","mediaplayer\/player.asp?br=128&tl=3040206",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947591177.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947591177.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947591177","desc":"ARNE, T.A.: Overtures (Academy of Ancient Music, Hogwood)","label":"Decca","category":"Orchestral - Classical Music","composer":"Arne, Thomas Augustine","artist":"Hogwood, Christopher -- Academy of Ancient Music","country":"United Kingdom","catid":"00028947591177","cdinfo":[[["Arne, Thomas Augustine",[["Overture No. 3 in G Major (from Henry and Emma)","mediaplayer\/player.asp?br=128&tl=2821579",[]],["Overture No. 1 in E Minor","mediaplayer\/player.asp?br=128&tl=2821580",[]],["Overture No. 2 in A Major","mediaplayer\/player.asp?br=128&tl=2821581",[]],["Overture No. 4 in F Major","mediaplayer\/player.asp?br=128&tl=2821582",[]],["Overture No. 5 in D Major","mediaplayer\/player.asp?br=128&tl=2821583",[]],["Overture No. 6 in B-Flat Major","mediaplayer\/player.asp?br=128&tl=2821584",[]],["Overture No. 7 in D Major (from Comus)","mediaplayer\/player.asp?br=128&tl=2821585",[]],["Overture No. 8 in G Minor (from Judgement of Paris)","mediaplayer\/player.asp?br=128&tl=2821586",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=DE5501.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=DE5501.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DDE5501","desc":"CROOKS, Richards: Opera Arias \/ Songs (1925-1945)","label":"Delos","category":"Opera - Classical Music","composer":"Pessard, Emile -- Franz, Robert -- Arne, Thomas Augustine -- Bach, Johann Sebastian -- Molloy, James Lynam -- Burleigh, Henry Thacker -- Foster, Fay -- Purcell, Henry -- Quilter, Roger -- Cilea, Francesco -- Verdi, Giuseppe -- Schubert, Franz -- Leh\u00e1r, Franz -- Wagner, Richard -- Foster, Stephen C. -- Haydn, Franz Joseph -- Mendelssohn, Felix -- Romberg, Sigmund -- Beethoven, Ludwig van -- Bizet, Georges -- Donizetti, Gaetano -- Grieg, Edvard -- Strauss, Richard -- White, David Ashley -- Morgan, Robert Orlando -- MacDermid, James -- Warren, Elinor Remick","artist":"Crooks, Richard -- Dickinson, Clarence -- Schauwecker, Frederick -- Schmalstich, Clemens -- Nathaniel Shilkret Orchestra -- Berlin State Opera Orchestra -- Woodstock, Edward","country":"Austria Denmark France Germany Hungary Italy Norway United Kingdom United States","catid":"DE5501","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947880653.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947880653.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947880653","desc":"Vocal Recital (Soprano): Kirkby, Emma - PURCELL, H. \/ BACH, J.S. \/ HANDEL, G.F. \/ MOZART, W.A. (The Complete Recitals)","label":"Decca","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Arne, Thomas Augustine -- Bach, Johann Sebastian -- Pilkington, Francis -- Purcell, Henry -- Valentini, Giuseppe -- Lawes, William -- Lawes, Henry -- Ferrabosco II, Alfonso -- Handel, George Frideric -- Haydn, Franz Joseph -- Johnson, Robert -- Monteverdi, Claudio -- Peri, Jacopo -- Campion, Thomas -- Dowland, John -- Danyel, John -- Falconieri, Andrea -- Frescobaldi, Girolamo Alessandro -- Ford, Thomas -- Merula, Tarquinio -- Morley, Thomas -- Ferrari, Benedetto -- D'India, Sigismondo -- Corkine, William -- Grandi I, Alessandro -- Radesca, Enrico Antonio -- Jones II, Robert -- Edwards, Richard -- Lampe, John Friedrich -- Rovetta, Giovanni -- Notari, Angelo -- Jones, Robert -- Fontei, Nicolo -- Bartlett, John -- Gagliano, Marco -- Sabbatini, Galeazzo","artist":"Hill, Martyn -- Kirkby, Emma -- Rooley, Anthony -- Thomas, David -- Covey-Crump, Rogers -- George, Michael -- Hogwood, Christopher -- Consort of Musicke -- Academy of Ancient Music -- Nelson, Judith -- Mackintosh, Catherine -- Campbell, Richard -- Jones, Trevor -- Sheppard, Susan -- Lubin, Steven -- Hirons, Christopher","country":"Austria Germany Italy United Kingdom","catid":"00028947880653","cdinfo":false},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947880660.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947880660.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947880660","desc":"Vocal Recital (Soprano): Kirkby, Emma - PURCELL, H. \/ BACH, J.S. \/ HANDEL, G.F. \/ MOZART, W.A. (The Complete Recitals)","label":"Decca","category":"Chamber Music - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Arne, Thomas Augustine -- Bach, Johann Sebastian -- Pilkington, Francis -- Purcell, Henry -- Valentini, Giuseppe -- Lawes, William -- Lawes, Henry -- Ferrabosco II, Alfonso -- Handel, George Frideric -- Haydn, Franz Joseph -- Johnson, Robert -- Monteverdi, Claudio -- Peri, Jacopo -- Campion, Thomas -- Dowland, John -- Danyel, John -- Falconieri, Andrea -- Frescobaldi, Girolamo Alessandro -- Ford, Thomas -- Merula, Tarquinio -- Morley, Thomas -- Ferrari, Benedetto -- D'India, Sigismondo -- Corkine, William -- Grandi I, Alessandro -- Radesca, Enrico Antonio -- Jones II, Robert -- Edwards, Richard -- Lampe, John Friedrich -- Rovetta, Giovanni -- Notari, Angelo -- Jones, Robert -- Fontei, Nicolo -- Bartlett, John -- Gagliano, Marco -- Sabbatini, Galeazzo","artist":"Hill, Martyn -- Kirkby, Emma -- Rooley, Anthony -- Thomas, David -- Covey-Crump, Rogers -- George, Michael -- Hogwood, Christopher -- Consort of Musicke -- Academy of Ancient Music -- Nelson, Judith -- Mackintosh, Catherine -- Campbell, Richard -- Jones, Trevor -- Sheppard, Susan -- Lubin, Steven -- Hirons, Christopher","country":"Austria Germany Italy United Kingdom","catid":"00028947880660","cdinfo":[[["Edwards, Richard",[["When Griping Grief","mediaplayer\/player.asp?br=128&tl=3161341",[]]]],["Campion, Thomas",[["Come let us sound with melodie the praises","mediaplayer\/player.asp?br=128&tl=3161342",[]]]],["Dowland, John",[["Book of Songs, Book 4, \"A Pilgrimes Solace\": In this trembling shadow cast","mediaplayer\/player.asp?br=128&tl=3161343",[]]]],["Danyel, John",[["Like as the Lute","mediaplayer\/player.asp?br=128&tl=3161344",[]]]],["Dowland, John",[["Book of Songs, Book 2: I saw my lady weep","mediaplayer\/player.asp?br=128&tl=3161345",[]]]],["Pilkington, Francis",[["Rest Sweet Nimphs (Rest Sweet Nymphs)","mediaplayer\/player.asp?br=128&tl=3161346",[]]]],["Campion, Thomas",[["When to her lute Corinna sings","mediaplayer\/player.asp?br=128&tl=3161347",[]]]],["Pilkington, Francis",[["Music dear solace to my thoughts","mediaplayer\/player.asp?br=128&tl=3161348",[]]]],["Morley, Thomas",[["I saw my ladye weeping","mediaplayer\/player.asp?br=128&tl=3161349",[]]]],["Jones, Robert",[["A Musicall Dreame: If in this flesh","mediaplayer\/player.asp?br=128&tl=3161350",[]]]],["Pilkington, Francis",[["Come All Ye","mediaplayer\/player.asp?br=128&tl=3161351",[]]]],["Bartlett, John",[["Sweet Birds Deprive Us Never","mediaplayer\/player.asp?br=128&tl=3161352",[]]]],["Jones II, Robert",[["Whither runneth my sweet hart","mediaplayer\/player.asp?br=128&tl=3161368",[]]]],["Corkine, William",[["Book of Ayres, Book 2 (excerpts)","mediaplayer\/player.asp?br=128&tl=3161369|3161384",["Fly Swift My Thoughts","We Yet Agree"]]]],["Dowland, John",[["Book of Songs, Book 2: Sorrow, stay, lend true repentant tears - Die not before thy day - Mourn, mourn, day is with darkness fled","mediaplayer\/player.asp?br=128&tl=3161370",[]]]],["Johnson, Robert",[["As I walked forth","mediaplayer\/player.asp?br=128&tl=3161371",[]]]],["Johnson, Robert",[["Tis Late and Cold","mediaplayer\/player.asp?br=128&tl=3161372",[]]]],["Johnson, Robert",[["Charon, oh Charon","mediaplayer\/player.asp?br=128&tl=3161373",[]]]],["Lawes, William",[["Come, my Daphne, come away","mediaplayer\/player.asp?br=128&tl=3161374",[]],["Vulcan, O vulcan, my love","mediaplayer\/player.asp?br=128&tl=3161375",[]]]],["Radesca, Enrico Antonio",[["Canzonette, madrigali, and arie alla romana: Non miri il mio bel sole","mediaplayer\/player.asp?br=128&tl=3161376",[]]]],["Peri, Jacopo",[["Al fonte, al prato","mediaplayer\/player.asp?br=128&tl=3161377",[]]]],["Falconieri, Andrea",[["Perch&#232; piangi, pastore","mediaplayer\/player.asp?br=128&tl=3161378",[]]]],["D'India, Sigismondo",[["Le musiche, Book 1: Che farai, Meliseo? &#8230; Qual fiera si Crudel?","mediaplayer\/player.asp?br=128&tl=3161379",[]]]],["Grandi I, Alessandro",[["Surge, propera","mediaplayer\/player.asp?br=128&tl=3161380",[]]]],["D'India, Sigismondo",[["Le musiche, con alcune arie, Book 4: Di quel rosignuolo","mediaplayer\/player.asp?br=128&tl=3161381",[]]]],["Rovetta, Giovanni",[["Uccidetemi pur, bella tiranna","mediaplayer\/player.asp?br=128&tl=3161382",[]]]],["Merula, Tarquinio",[["No, ch'io non mi fido","mediaplayer\/player.asp?br=128&tl=3161383",[]]]],["Bartlett, John",[["Whither Runneth My Sweetheart","mediaplayer\/player.asp?br=128&tl=3161313",[]]]],["Ferrabosco II, Alfonso",[["Fayre Cruell Nimph","mediaplayer\/player.asp?br=128&tl=3161314",[]],["Tell Me, O Love","mediaplayer\/player.asp?br=128&tl=3161315",[]]]],["Morley, Thomas",[["Who is it that this darke night","mediaplayer\/player.asp?br=128&tl=3161316",[]]]],["Ford, Thomas",[["Shut Not, Sweet Breast","mediaplayer\/player.asp?br=128&tl=3161317",[]]]],["Lawes, Henry",[["A Dialogue on a Kiss","mediaplayer\/player.asp?br=128&tl=3161318",[]],["A Dialogue Betwixt Time and A Pilgrime: Aged Man That Moves These Fields","mediaplayer\/player.asp?br=128&tl=3161319",[]]]],["Gagliano, Marco",[["Bel pastor","mediaplayer\/player.asp?br=128&tl=3161320",[]]]],["D'India, Sigismondo",[["Da l'onde del mio pianto","mediaplayer\/player.asp?br=128&tl=3161322",[]]]],["Ferrari, Benedetto",[["Dialogo a due, Fileno e Lidia: Amar io to consiglio","mediaplayer\/player.asp?br=128&tl=3161321",[]],["Amanti io vo se dire","mediaplayer\/player.asp?br=128&tl=3161323",[]]]],["Fontei, Nicolo",[["Dio ti salvi pastor","mediaplayer\/player.asp?br=128&tl=3161324",[]]]],["Monteverdi, Claudio",[["Madrigali e canzonette, Book 9: Bel pastor dal cui bel sguardo, SV 168","mediaplayer\/player.asp?br=128&tl=3161312",[]]]],["Notari, Angelo",[["Intenerite voi, lagrime mie","mediaplayer\/player.asp?br=128&tl=3161400",[]]]],["D'India, Sigismondo",[["Alla guerra d'amore","mediaplayer\/player.asp?br=128&tl=3161401",[]]]],["Valentini, Giuseppe",[["Vanne, O carta amorosa","mediaplayer\/player.asp?br=128&tl=3161402",[]]]],["Frescobaldi, Girolamo Alessandro",[["A pi&#232; della gran croce (Maddalena alla croce)","mediaplayer\/player.asp?br=128&tl=3161403",[]]]],["Grandi I, Alessandro",[["Spine care e soavi","mediaplayer\/player.asp?br=128&tl=3161404",[]]]],["Fontei, Nicolo",[["Fortunato cantore","mediaplayer\/player.asp?br=128&tl=3161405",[]]]],["Rovetta, Giovanni",[["Chi vuol haver felice e lieto il core","mediaplayer\/player.asp?br=128&tl=3161406",[]]]],["Monteverdi, Claudio",[["O come sei gentile, SV 120","mediaplayer\/player.asp?br=128&tl=3161407",[]]]],["D'India, Sigismondo",[["Le musiche, Book 2: La mia Filli crudel","mediaplayer\/player.asp?br=128&tl=3161408",[]]]],["Rovetta, Giovanni",[["Io mi sento morir","mediaplayer\/player.asp?br=128&tl=3161409",[]]]],["D'India, Sigismondo",[["La virt&#249;","mediaplayer\/player.asp?br=128&tl=3161410",[]]]],["Sabbatini, Galeazzo",[["Udite, o selve","mediaplayer\/player.asp?br=128&tl=3161411",[]],["Fulmina da la bocca","mediaplayer\/player.asp?br=128&tl=3161412",[]]]],["Purcell, Henry",[["The Fairy Queen, Z. 629, Act V: Hark! How all things with one sound rejoice","mediaplayer\/player.asp?br=128&tl=3161325",[]]]],["Purcell, Henry",[["Celebrate this festival, Z. 321: No. 6. Crown the altar, deck the shrine","mediaplayer\/player.asp?br=128&tl=3161328",[]]]],["Purcell, Henry",[["If music be the food of love, Z. 379","mediaplayer\/player.asp?br=128&tl=3161329",[]]]],["Purcell, Henry",[["Not all my torments can your pity move, Z. 400","mediaplayer\/player.asp?br=128&tl=3161330",[]]]],["Purcell, Henry",[["The Fairy Queen, Z. 629, Act V: O let me ever, ever weep","mediaplayer\/player.asp?br=128&tl=3161326",[]]]],["Purcell, Henry",[["The Indian Queen, Z. 630, Act III: Solo: I Attempt from Love's Sickness","mediaplayer\/player.asp?br=128&tl=3161331",[]]]],["Purcell, Henry",[["Olinda in the shades unseen, Z. 404","mediaplayer\/player.asp?br=128&tl=3161332",[]],["Urge me no more, this airy mirth, Z. 426","mediaplayer\/player.asp?br=128&tl=3161333",[]],["From silent shades, and the Elysian groves, Z. 370, \"Bess of Bedlam\"","mediaplayer\/player.asp?br=128&tl=3161334",[]],["Lovely Albina's come ashore, Z. 394","mediaplayer\/player.asp?br=128&tl=3161335",[]]]],["Purcell, Henry",[["Pausanius, the Betrayer of his Country, Z. 585: Sweeter than roses","mediaplayer\/player.asp?br=128&tl=3161336",[]]]],["Purcell, Henry",[["The Tempest, Z. 631, \"The Enchanted Island\", Act IV: Dear pretty youth","mediaplayer\/player.asp?br=128&tl=3161337",[]]]],["Purcell, Henry",[["When First Amintas Sued for a Kiss, Z. 430","mediaplayer\/player.asp?br=128&tl=3161338",[]]]],["Purcell, Henry",[["The History of Timon of Athens, The Man-Hater, Z. 632: The cares of lovers","mediaplayer\/player.asp?br=128&tl=3161339",[]]]],["Purcell, Henry",[["The Fairy Queen, Z. 629, Act III: Ye gentle spirits of the air, appear!","mediaplayer\/player.asp?br=128&tl=3161327",[]]]],["Purcell, Henry",[["Now that the sun hath veiled his light, Z. 193, \"An Evening Hymn on a Ground\"","mediaplayer\/player.asp?br=128&tl=3161340",[]]]],["Bach, Johann Sebastian",[["Schweigt stille, plaudert nicht, BWV 211, \"Coffee Cantata\"","mediaplayer\/player.asp?br=128&tl=3161271|3161267|3161268|3161269|3161270",["Schweigt stille, plaudert nicht...Hat man nicht mit seinen Kindern","Aria: Ei, wie schmeckt der Coffee susse (Soprano)","Aria: Madchen, die von harten Sinnen (Bass)","Aria: Heute noch, lieber Vater, tut es doch! (Soprano)","Trio: Die Katze lasst das Mausen nicht (Soprano, Tenor, Bass)"]],["Mer hahn en neue Oberkeet, BWV 212, \"Peasant Cantata\"","mediaplayer\/player.asp?br=128&tl=3161284|3161283|3161272|3161273|3161274|3161275|3161276|3161277|3161278|3161279|3161280|3161281|3161282",["Ouverture","Mer hahn en neue Oberkeet...Nu, Mieke, gib dein Guschel immer her","Aria: Ach, es schmeckt doch gar zu gut (Soprano)","Aria: Ach, Herr Schosser, geht nicht gar zu schlimm (Bass)","Aria: Unser trefflicher lieber Kammerherr (Soprano)","Aria: Das ist galant (Soprano)","Aria: Funfzig Taler bares Geld (Bass)","Aria: Klein-Zschocher musse (Soprano)","Aria: Es nehme zehntausend Dukaten (Bass)","Aria: Gib, Schone, viel Sohne (Soprano)","Aria: Dein Wachstum sei fest und lache vor Lust (Bass)","Aria: Und dass ihrs alle wisst (Soprano)","Trio: Wir gehn nun, wo der Tudelsack (Soprano, Tenor, Bass)"]]]],["Bach, Johann Sebastian",[["Weichet nur, betrubte Schatten, BWV 202, \"Wedding Cantata\"","mediaplayer\/player.asp?br=128&tl=3161285|3161286|3161287|3161288|3161289|3161290|3161291|3161292|3161293",["Aria: Weichet nur, betrubte Schatten","Recitative: Die Welt wird wieder neu","Aria: Phoebus eilt mit schnellen Pferden","Recitative: Drum sucht auch Amor sein Vergnugen","Aria: Wenn die Fruhlingslufte streichen","Recitative: Und dieses ist das Glucke","Aria: Sich uben im Lieben","Recitative: So sei das Band der keuschen Liebe","Gavotte: Sehet in Zufriedenheit"]],["Anna Magdalena Notenbuch (Clavier-Buchlein III): Bist du bei mir, BWV 508 (attrib. to G.H. Stolzel)","mediaplayer\/player.asp?br=128&tl=3161294",["Anna Magdalena Notenbuch (Clavier-Buchlein III): Bist du bei mir, BWV 508 (attrib. G.H. Stolzel)"]],["Gedenke doch, mein Geist, zurucke, BWV 509","mediaplayer\/player.asp?br=128&tl=3161295",[]]]],["Bach, Johann Sebastian",[["Ich habe genug, BWV 82","mediaplayer\/player.asp?br=128&tl=3161296|3161297",["Recitative: Ich habe genug! Mein Trost ist nur allein","Aria: Schlummert ein, ihr matten Augen"]]]],["Bach, Johann Sebastian",[["O holder Tag, erwunschte Zeit, BWV 210","mediaplayer\/player.asp?br=128&tl=3161298|3161299|3161300|3161301|3161302|3161303|3161304|3161305|3161306|3161307",["Recitative: O holder Tag, erwunschte Zeit","Aria: Spielet, ihr beseelten Lieder","Recitative: Doch, haltet ein, ihr muntern Saiten","Aria: Ruhet hie, matte Tone","Recitative: So glaubt man denn, dass die Musik verfuhre","Aria: Schweigt, ihr Floten, schweigt, ihr Tone","Recitative: Was Luft? Was Grab?","Aria: Grosser Gonner, dein Vergnugen","Recitative: Hochteurer Mann, so fahre ferner fort","Aria: Seid begluckt, edle beide"]]]],["Handel, George Frideric",[["Alessandro Severo, HWV A13: Overture","mediaplayer\/player.asp?br=128&tl=3161353",[]]]],["Lampe, John Friedrich",[["Britannia: Welcome Mars","mediaplayer\/player.asp?br=128&tl=3161354",[]]]],["Lampe, John Friedrich",[["Dione: Pretty Warblers","mediaplayer\/player.asp?br=128&tl=3161355",[]]]],["Handel, George Frideric",[["Hornpipe in D Major, HWV 356","mediaplayer\/player.asp?br=128&tl=3161356",[]]]],["Arne, Thomas Augustine",[["Rosamond: Rise, glory rise","mediaplayer\/player.asp?br=128&tl=3161357",[]]]],["Handel, George Frideric",[["Ariodante, HWV 33, Act III: Aria: Neghittosi, or voi che fate?","mediaplayer\/player.asp?br=128&tl=3161358",[]]]],["Handel, George Frideric",[["Alcina, HWV 34 (excerpts)","mediaplayer\/player.asp?br=128&tl=3161359|3161360",["Aria: Credete al mio dolore","Aria: Tornami a vagheggia"]]]],["Handel, George Frideric",[["March in D Major","mediaplayer\/player.asp?br=128&tl=3161361",[]]]],["Handel, George Frideric",[["Alexander's Feast, HWV 75: Aria: War, he sung, is toil and trouble","mediaplayer\/player.asp?br=128&tl=3161362",[]]]],["Handel, George Frideric",[["L'Allegro, il Penseroso ed il Moderato, HWV 55, Part I: Aria: Sweet bird","mediaplayer\/player.asp?br=128&tl=3161363",[]],["Saul, HWV 53, Act I: Air: Capricious Man, in Humour lost","mediaplayer\/player.asp?br=128&tl=3161364",[]]]],["Arne, Thomas Augustine",[["Comus (excerpts)","mediaplayer\/player.asp?br=128&tl=3161365|3161366",["By the rushy-fringed bank","Thrice upon thy fingers tip"]]]],["Arne, Thomas Augustine",[["The Tempest: Where the bee sucks","mediaplayer\/player.asp?br=128&tl=3161367",[]]]],["Handel, George Frideric",[["Tu fedel? tu costante?, HWV 171","mediaplayer\/player.asp?br=128&tl=3161253|3161254|3161255|3161256|3161257|3161258|3161259",["Sonata","Recitative: Tu fedel? Tu costante?","Aria: Cento belle ami Fileno","Recitative: L'occhio nero vivace","Aria: Se Licori, Fili ed io","Recitative: Ma, se non hai pi&#249;","Aria: Si crudel, ti lasciero"]],["Mi palpita il cor, HWV 132c","mediaplayer\/player.asp?br=128&tl=3161308|3161309|3161310|3161311",["Recitative: Mi palpita il cor","Aria: Ho tanti affanni in petto","Recitative: Clori di te mi lagno","Aria: S'un di m'adora la mia crudele"]],["Alpestre monte, HWV 81","mediaplayer\/player.asp?br=128&tl=3161249|3161250|3161251|3161252",["Accompagnato: Alpestre monte","Aria: Io so ben","Recitativo: Quindi men vengo a voi","Aria: Almen dopo il fato mio"]]]],["Handel, George Frideric",[["Tra le fiamme, HWV 170","mediaplayer\/player.asp?br=128&tl=3161242|3161243|3161244|3161245|3161246|3161247|3161248",["Aria: Tra le fiamme  (Among the flames) &#8212;","Recitative: Dedalo gia le fortunate penne","Aria: Pien di nuovo e bel diletto","Recitative: Si, si, pur troppo e vero","Aria: Voli per l'aria","Recitative: L'uomo che nacque per salire","Aria: Tra le fiamme"]]]],["Handel, George Frideric",[["Quel fior che all'alba ride, HWV 192","mediaplayer\/player.asp?br=128&tl=3161414",[]],["Nell' africane selve, HWV 136a","mediaplayer\/player.asp?br=128&tl=3161415|3161416",["Aria: Langue, trema","Aria: Chiedo Amore, altro non brama"]],["No, di voi non vuo fidarmi, HWV 189","mediaplayer\/player.asp?br=128&tl=3161417",[]],["Nella stagion che di viole e rose, HWV 137","mediaplayer\/player.asp?br=128&tl=3161418|3161419",["Nella stagion che &#8230; Ride il fiore","Cos&#236; la ninfa &#8230; Tergei il ciglio lagrimoso"]],["Tacete, ohime, tacete, HWV 196","mediaplayer\/player.asp?br=128&tl=3161420",[]],["Se tu non lasci amore, HWV 201a","mediaplayer\/player.asp?br=128&tl=3161421",[]]]],["Handel, George Frideric",[["Oratorio per la Resurrezione di Nostro Signor Ges&#249; Cristo, HWV 47, Part I: Aria: Disserratevi, o porte d'Averno","mediaplayer\/player.asp?br=128&tl=3161385",[]]]],["Handel, George Frideric",[["Messiah, HWV 56 (excerpts)","mediaplayer\/player.asp?br=128&tl=3161413|3161394|3161395",["Part I: But who may abide the day of His coming (Alto)","Part II: Thou art gone up on high (Alto)","Part III: If God be for us (Soprano)"]]]],["Haydn, Franz Joseph",[["Die Schopfung (The Creation), Hob.XXI:2 (excerpts)","mediaplayer\/player.asp?br=128&tl=3161396|3161397|3161398|3161399",["Part I: With verdure clad the fields appear (Gabriel)","Part II: And God said: Let the waters bring forth abundantly (Gabriel)","Part II: On mighty pens uplifted soars the eagle aloft (Gabriel)","Part III: Graceful consort! (Adam, Eve)"]]]],["Mozart, Wolfgang Amadeus",[["Exsultate jubilate, K. 165","mediaplayer\/player.asp?br=128&tl=3161261|3161262|3161263|3161264",["Exsultate, jubilate","Tandem ad venit hora","Tu virginum corona","Allelujah"]],["Regina coeli, K. 108","mediaplayer\/player.asp?br=128&tl=3161260",[]],["Ergo interest &#8230; Quaere superna, K. 143","mediaplayer\/player.asp?br=128&tl=3161265",[]],["Regina coeli, K. 127","mediaplayer\/player.asp?br=128&tl=3161266",[]]]],["Mozart, Wolfgang Amadeus",[["Il re pastore, K. 208 (excerpts)","mediaplayer\/player.asp?br=128&tl=3161386|3161387",["Act I: Recitative and Aria: Aer tranquilo e disereni","Act II: L'amero, saro costante"]]]],["Mozart, Wolfgang Amadeus",[["Voi avete un cor fedele, K. 217","mediaplayer\/player.asp?br=128&tl=3161388",[]]]],["Mozart, Wolfgang Amadeus",[["Ah, lo previdi, K. 272","mediaplayer\/player.asp?br=128&tl=3161389",[]]]],["Mozart, Wolfgang Amadeus",[["Zaide, K. 344 (excerpts)","mediaplayer\/player.asp?br=128&tl=3161390|3161391",["Act I: Aria: Ruhe sanft, mein holdes Leben","Act II: Aria: Trostlos schluchzet Philomele"]]]],["Mozart, Wolfgang Amadeus",[["Nehmt meinen Dank, K. 383","mediaplayer\/player.asp?br=128&tl=3161392",[]]]],["Mozart, Wolfgang Amadeus",[["Ch'io mi scordi di te &#8230; Non temer, amato bene, K. 505","mediaplayer\/player.asp?br=128&tl=3161393",[]]]]]]}],"moreres":false};IMSLPNaxosSearch="arne comus";JGaskdonation=0;JGFileTools={"498003":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/498003"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%23498003"}},"443134":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=443134"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP443134"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=443134","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/443134"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/443134"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%23443134"}},"56752":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56752"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/56752"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/56752"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56752"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356752"}},"56753":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56753"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/56753"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56753"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356753"}},"56754":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56754"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/56754"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56754"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356754"}},"56755":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56755"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/56755"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56755"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356755"}},"56756":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56756"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/56756"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/56756"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56756"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356756"}},"56757":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56757"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/56757"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56757"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356757"}},"56758":{"015-ZIPFILE":{"icon":52,"label":"Download 7 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/56752\/56753\/56754\/56755\/56756\/56757\/56758\/4690"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP56758"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/56758"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/56758"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%2356758"}},"270545":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=270545"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP270545"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=270545","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/270545"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/270545"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (1)","onclick":"\/index.php?title=Special:WikiForum&thread=10113"}},"368173":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=368173"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP368173"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=368173","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/368173"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/368173"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (1)","onclick":"\/index.php?title=Special:WikiForum&thread=10114"}},"385103":{"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/385103"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/385103"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%23385103"}},"498001":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=498001"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/498001\/498002\/7669"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP498001"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/498001"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%23498001"}},"498002":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/498001\/498002\/7669"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP498002"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/498002"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Comus+%28Arne%2C+Thomas+Augustine%29&frmTitle=IMSLP+%23498002"}}};JGFileOpts={"498003":[],"443134":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpP42d1VHzgi9UgbDqYzOnFUyAOIc1PkvnPE2GFXOx81ofHrZmz9YWsEGsroDQyXlLIXdVhRPLP2D0KKe2bz4s"},"56752":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjtHSN1Ynf5TDS5xdJRdIku9mChHNv45vKXuDnF0Q\/sFMrGnFOMK2hKqz07v7LGynqFZBnkKH\/IwY7P2\/GCJQ7G"},"56753":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biEmrQSI+UjTUeAk4tlV6g2MOr3CZ6k5lAzrIbHoG0iUVUMYDM9TSxW5jdLn8n3NUROaY8yjNdkmS5wakA82QIP"},"56754":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biDO26OLuZ+x8qlwHPffKXeH8Xs\/IsEpOAhRV1fIhS6QVghrgVcFZvFrASF4PjJZ95+eqi+xzDbufu6XmxWpKDnNNHdJcRGb0ZFyxsEImclbQ=="},"56755":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhjZclayJv+kvx0DOeNi\/H7kLBnP\/w5iTfgkXExEwbqbXaKfUcv9cZyCA6dWp4zddXM\/FuVECGhVX7X9tBif49KbVQlQKsPUeVST00MkkdvrA=="},"56756":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgiX02z1vnNs2ZKPoJQbdYhRMlqQ4QblxzJKQ3SVhlUpaZhh9kBM0bl58o99Ys8K+ya2ricpLO+VtDNlL+5r4AQQI6l7KLls1+JzpQwHIdU3A=="},"56757":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg6VD5r01idexLeq+jMHLioCKg5bxqhJ1gswRjYdyQLEZ9n3MYRJy4WMZjiZTeibX3ZoQZeX551jfRuij8oAcW0"},"56758":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjOxGdtqiCyhWFaDzsbMiOtLqmCSHMIowOjg7hQGm9o2szWP4Xg58qpE0FeWpPdHu9wzQo4yrTOYQNa5ipwdRax"},"270545":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjr5WvqlpGCxZoYI8AozgzCpImu6rWqOxL\/wwRyqffPBFqHoTXEisJkZrigpC+d7FM2nPOjj86hLBkf7lTUgdE4"},"368173":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhnHbj4YtZlIzLIlasmLV4EI1\/ESddpQbbNFdLFGxWvNQRLhicr0wuNYw4gFgaG4Tw1BqzpqmO9tiUOGhc20Mh3vjVRLfgFkbJclrzkkeSayQ=="},"385103":[],"498001":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjeqeAbfSKE9uRPhSi3fstuXEq+a41XoTN0IBpvWV3\/gTIntmbTSb0AHhIU1giqEtQ="},"498002":[]};JGPageUntagged=false;JGPageTags=["masques","2sop ch orch","en"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore2":false,"tabScore3":false,"tabArrTrans":false,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"56752":[10,"1"],"498003":[0,0],"443134":[0,0],"56753":[0,0],"56754":[0,0],"56755":[0,0],"56756":[0,0],"56757":[0,0],"56758":[0,0],"270545":[0,0],"368173":[0,0],"385103":[0,0],"498001":[0,0],"498002":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Sonata"><span class="tocnumber">1.2.1</span> <span class="toctext">Sonata</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Trumpet_and_Organ_.28Rondeau.29"><span class="tocnumber">1.2.1.1</span> <span class="toctext">For Trumpet and Organ (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+<li class="toclevel-2"><a href="#Parts"><span class="tocnumber">2.2</span> <span class="toctext">Parts</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Overture"><span class="tocnumber">2.2.1</span> <span class="toctext">Overture</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.3</span> <span class="toctext">Vocal Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Selections"><span class="tocnumber">2.3.1</span> <span class="toctext">Selections</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.4</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Overture_2"><span class="tocnumber">2.4.1</span> <span class="toctext">Overture</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Organ"><span class="tocnumber">2.4.1.1</span> <span class="toctext">For Organ</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3"><a href="#Sonata_2"><span class="tocnumber">2.4.2</span> <span class="toctext">Sonata</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Trumpet_and_Organ_.28Rondeau.29_2"><span class="tocnumber">2.4.2.1</span> <span class="toctext">For Trumpet and Organ (Rondeau)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">1</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<h4> <span class="mw-headline" id="Sonata">Sonata</span></h4>
+<h5> <span class="mw-headline" id="For_Trumpet_and_Organ_.28Rondeau.29">For Trumpet and Organ (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP498003" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/498003"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Virtual Performance</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/b7/PMLP117045-ArnSSco.mp3" class="internal" title="PMLP117045-ArnSSco.mp3">*</a></span><a href="/wiki/File:PMLP117045-ArnSSco.mp3" title="File:PMLP117045-ArnSSco.mp3">#498003</a> - 3.56MB - 2:41<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-498003' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-498003'>
+	<a href='javascript:void(0)' id='498003' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='498003' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='498003' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='498003' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='498003' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-498003'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/498003/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/498003/Comus (Arne, Thomas Augustine)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@498003" title="Special:GetFCtrStats/@498003">8</a>×<big>⇩</big><span class="ms555"> - MP3 - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MP3 file</a> (audio)</span><br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a><span class="mh555"> (2017/10/25)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+<p><div id='JWPlayerstub_498003'></div><script>if(typeof JGVideoPlayers=='undefined')JGVideoPlayers={};$.extend(JGVideoPlayers,{"498003":{"jwplayersrc":"\/extensions\/common\/jscss\/jwplayer.js","jwplayeropts":{"flashplayer":"\/extensions\/common\/jscss\/player.swf","file":"http:\/\/conquest.imslp.info\/files\/imglnks\/usimg\/b\/b7\/IMSLP498003-PMLP117045-ArnSSco.mp3","controlbar":"bottom","width":640,"height":24,"stretching":"uniform"},"nextid":false}});</script>
+</p>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>MIDI
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Michel Rondeau, 2017.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=498003">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=498003">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="498003">Javascript is required for this feature.</div><script>JGINITsearchbars['498003']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">1</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">7</span>)</a></b></li><li id="tabScore3_tab"><b><a href="#tabScore3">Vocal Scores (<span id="tabScore3_ct">2</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">3</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP443134" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/443134"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d2/PMLP117045-dunning_001.pdf" class="internal" title="PMLP117045-dunning 001.pdf">*</a></span><a href="/wiki/File:PMLP117045-dunning_001.pdf" title="File:PMLP117045-dunning 001.pdf">#443134</a> - 5.01MB, 25 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-443134' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-443134'>
+	<a href='javascript:void(0)' id='443134' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='443134' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='443134' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='443134' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='443134' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-443134'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/443134/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/443134/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 34"><a href="/wiki/Special:GetFCtrStats/@443134" title="Special:GetFCtrStats/@443134">34</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Driante" title="User:Driante">Giovanni Tribuzio</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://musicologia.unipv.it/collezionidigitali/"><span style="border-bottom:1px dotted black" title="Biblioteca del Dipartimento di musicologia e beni culturali dell&#39;Università di Pavia">I-CRsp</span></a></span><br />
+<a href="/wiki/User:Driante" title="User:Driante">Giovanni Tribuzio</a> (2016/10/14)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: William Smith, n.d.(ca.1740).
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=443134">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=443134">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>University of Pavia-Cremona, Musicology Dept. (I-CRsp): <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/search?id=00000990001746&amp;Language=en">RISM A/I: A 1745</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="443134">Javascript is required for this feature.</div><script>JGINITsearchbars['443134']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=443134&type=Complete%20Score&pgcount=25&signature=6030fd9ac8fac0feeda3a67d5e0b0c23a3ff8bdd"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP117045-dunning_001.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d2/b10abb8c698537d580d43f0746cbb4cfcbe9af63.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Parts">Parts</span></h3>
+<h4> <span class="mw-headline" id="Overture">Overture</span></h4>
+<div class="we"><div id="IMSLP56752" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56752"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Flute</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/04/PMLP117045-Arne-MasqueComusOv.Flute.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Flute.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Flute.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Flute.pdf">#56752</a> - 0.15MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56752' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56752'>
+	<a href='javascript:void(0)' id='56752' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56752' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56752' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56752' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56752' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56752'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56752/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56752/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 256"><a href="/wiki/Special:GetFCtrStats/@56752" title="Special:GetFCtrStats/@56752">256</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_3" data-block="3">
+<p><b>⇒ <u>6 more</u>:</b> Oboe 1, 2 • Bassoon • Trumpet 1, 2 (C) • Violins I, II • Violas • Cellos and Basses
+</p>
+</div><div id="IMSLP56753" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56753"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Oboe 1, 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/8b/PMLP117045-Arne-MasqueComusOv.Oboe.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Oboe.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Oboe.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Oboe.pdf">#56753</a> - 0.34MB, 3 (2, 1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56753' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56753'>
+	<a href='javascript:void(0)' id='56753' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56753' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56753' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56753' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56753' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56753'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56753/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56753/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 152"><a href="/wiki/Special:GetFCtrStats/@56753" title="Special:GetFCtrStats/@56753">152</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP56754" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56754"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Bassoon</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/a7/PMLP117045-Arne-MasqueComusOv.Bassoon.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Bassoon.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Bassoon.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Bassoon.pdf">#56754</a> - 0.14MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56754' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56754'>
+	<a href='javascript:void(0)' id='56754' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56754' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56754' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56754' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56754' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56754'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56754/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56754/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 125"><a href="/wiki/Special:GetFCtrStats/@56754" title="Special:GetFCtrStats/@56754">125</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP56755" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56755"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Trumpet 1, 2 (C)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2f/PMLP117045-Arne-MasqueComusOv.Trumpet.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Trumpet.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Trumpet.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Trumpet.pdf">#56755</a> - 0.17MB, 2 (1, 1) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56755' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56755'>
+	<a href='javascript:void(0)' id='56755' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56755' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56755' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56755' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56755' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56755'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56755/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56755/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 172"><a href="/wiki/Special:GetFCtrStats/@56755" title="Special:GetFCtrStats/@56755">172</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP56756" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56756"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violins I, II</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/06/PMLP117045-Arne-MasqueComusOv.Violin.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Violin.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Violin.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Violin.pdf">#56756</a> - 0.73MB, 5 (2, 3) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56756' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56756'>
+	<a href='javascript:void(0)' id='56756' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56756' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56756' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56756' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56756' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56756'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56756/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56756/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 256"><a href="/wiki/Special:GetFCtrStats/@56756" title="Special:GetFCtrStats/@56756">256</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP56757" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56757"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Violas</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/de/PMLP117045-Arne-MasqueComusOv.Viola.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Viola.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Viola.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Viola.pdf">#56757</a> - 0.26MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56757' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56757'>
+	<a href='javascript:void(0)' id='56757' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56757' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56757' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56757' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56757' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56757'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56757/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56757/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 120"><a href="/wiki/Special:GetFCtrStats/@56757" title="Special:GetFCtrStats/@56757">120</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP56758" class="we_file we_fileblock_3 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/56758"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Cellos and Basses</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/55/PMLP117045-Arne-MasqueComusOv.Cello.pdf" class="internal" title="PMLP117045-Arne-MasqueComusOv.Cello.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Cello.pdf" title="File:PMLP117045-Arne-MasqueComusOv.Cello.pdf">#56758</a> - 0.27MB, 2 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-56758' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-56758'>
+	<a href='javascript:void(0)' id='56758' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='56758' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='56758' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='56758' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='56758' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-56758'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/56758/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/56758/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 154"><a href="/wiki/Special:GetFCtrStats/@56758" title="Special:GetFCtrStats/@56758">154</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:KGill" title="User:KGill">KGill</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <i>Unknown</i><br />
+<a href="/wiki/User:KGill" title="User:KGill">KGill</a> (2010/2/20)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><i>Unidentified copyist</i>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Manuscript, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=56752/56753/56754/56755/56756/56757/56758">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=56752/56753/56754/56755/56756/56757/56758">del</a>/<span id="fmrglnk" data-pdfstr="56752//56753//56754//56755//56756//56757//56758/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These files are part of the <a href="/wiki/IMSLP:Community_Projects/Orchestra_Parts_Project" title="IMSLP:Community Projects/Orchestra Parts Project">Orchestra Parts Project</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="56752">Javascript is required for this feature.</div><script>JGINITsearchbars['56752']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=56752|56753|56754|56755|56756|56757|56758&type=Flute%7COboe%201%2C%202%7CBassoon%7CTrumpet%201%2C%202%20%28C%29%7CViolins%20I%2C%20II%7CViolas%7CCellos%20and%20Basses&pgcount=1|3|1|2|5|2|2&signature=02e9ab924b25b369ad7f07157bd7a684b3470033"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP117045-Arne-MasqueComusOv.Flute.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/04/406353f5c1e7b89efe446d2a4d8a71a5005816ab.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore3"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<h4> <span class="mw-headline" id="Selections">Selections</span></h4>
+<div class="we"><div id="IMSLP270545" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/270545"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Overture and Songs</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f4/PMLP117045-comusmasqueasiti15arne.pdf" class="internal" title="PMLP117045-comusmasqueasiti15arne.pdf">*</a></span><a href="/wiki/File:PMLP117045-comusmasqueasiti15arne.pdf" title="File:PMLP117045-comusmasqueasiti15arne.pdf">#270545</a> - 1.94MB, 18 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-270545' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-270545'>
+	<a href='javascript:void(0)' id='270545' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='270545' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='270545' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='270545' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='270545' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-270545'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/270545/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/270545/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 719"><a href="/wiki/Special:GetFCtrStats/@270545" title="Special:GetFCtrStats/@270545">719</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/comusmasqueasiti15arne#page/n5#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Brigham Young University">US-PRV</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2013/2/21)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: Harrison &amp; Co., n.d. Plate (1).
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=270545">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=270545">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:WikiForum&amp;thread=10113"><i>Title-page transcription</i></a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="270545">Javascript is required for this feature.</div><script>JGINITsearchbars['270545']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=270545&type=Overture%20and%20Songs&pgcount=18&signature=5fecf8f2d8b1cff7185e085af22c6aa019d1b25c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<div class="we"><div id="IMSLP368173" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/368173"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Songs, Duetto and Trio</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/92/PMLP117045-songsduettotrioi00arne_comus.pdf" class="internal" title="PMLP117045-songsduettotrioi00arne comus.pdf">*</a></span><a href="/wiki/File:PMLP117045-songsduettotrioi00arne_comus.pdf" title="File:PMLP117045-songsduettotrioi00arne comus.pdf">#368173</a> - 2.79MB, 27 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-368173' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-368173'>
+	<a href='javascript:void(0)' id='368173' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='368173' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='368173' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='368173' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='368173' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-368173'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/368173/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/368173/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 121"><a href="/wiki/Special:GetFCtrStats/@368173" title="Special:GetFCtrStats/@368173">121</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/songsduettotrioi00arne#page/n4#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="Boston Public Library">US-Bpr</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2015/3/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: John Cox at Simpson's Musick Shop, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=368173">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=368173">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:WikiForum&amp;thread=10114"><i>Title-page transcription, etc.</i></a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="368173">Javascript is required for this feature.</div><script>JGINITsearchbars['368173']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=368173&type=Songs%2C%20Duetto%20and%20Trio&pgcount=27&signature=e3e28d7a3d2757db1500a622ea9cbc26b7db8cd3"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div><span class="na-marker" id="na-tabScore3" data-type="score" data-name="Vocal Scores" data-tabid="tabScore3"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Overture_2">Overture</span></h4>
+<h5> <span class="mw-headline" id="For_Organ">For Organ</span></h5>
+<div class="we"><div id="IMSLP385103" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/385103"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Overture</span></a></b><font size="1"><b> (EU)</b></font><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3c/PMLP117045-Arne-Wall_Overture_to_Comus.pdf" class="internal" title="PMLP117045-Arne-Wall Overture to Comus.pdf">*</a></span><a href="/wiki/File:PMLP117045-Arne-Wall_Overture_to_Comus.pdf" title="File:PMLP117045-Arne-Wall Overture to Comus.pdf">#385103</a> - 6.35MB, 12 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-385103' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-385103'>
+	<a href='javascript:void(0)' id='385103' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='385103' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='385103' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='385103' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='385103' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-385103'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/385103/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/385103/Comus (Arne, Thomas Augustine)"><span style="color:green">V</span>/<span style="color:red"><b>33</b></span>/<span style="color:green">V</span></a> </span>- <a href="/wiki/Special:GetFCtrStats/@385103" title="Special:GetFCtrStats/@385103">127</a>×<big>⇩</big><span class="ms555"> - <a href="/wiki/User:David_Campbell" title="User:David Campbell">David Campbell</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by David Campbell<br />
+<a href="/wiki/User:David_Campbell" title="User:David Campbell">David Campbell</a> (2015/7/8)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/index.php?title=Category:Wall,_Harry_Edward&amp;action=edit&amp;redlink=1" class="new" title="Category:Wall, Harry Edward (page does not exist)">Harry Edward Wall</a> (1871-1941)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td><i>Cramer's Library of Organ Music by British Composers, Set 5</i> (No.8)<br />London: J.B. Cramer &amp; Co., Ltd. 1937.  Plate J.B.C. &amp; Co. Ltd. 14402.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a>&#160;- <b><span style="color:red">Non-PD US</span></b><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=385103">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=385103">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Arrangement dedicated to Dr. Marshall Bidwell.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="385103">Javascript is required for this feature.</div><script>JGINITsearchbars['385103']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Sonata_2">Sonata</span></h4>
+<h5> <span class="mw-headline" id="For_Trumpet_and_Organ_.28Rondeau.29_2">For Trumpet and Organ (Rondeau)</span></h5>
+<div class="we"><div id="IMSLP498001" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/498001"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete Score and Trumpet Part</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5e/PMLP117045-ArnSALL.pdf" class="internal" title="PMLP117045-ArnSALL.pdf">*</a></span><a href="/wiki/File:PMLP117045-ArnSALL.pdf" title="File:PMLP117045-ArnSALL.pdf">#498001</a> - 0.19MB, 11 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-498001' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-498001'>
+	<a href='javascript:void(0)' id='498001' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='498001' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='498001' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='498001' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='498001' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-498001'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/498001/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/498001/Comus (Arne, Thomas Augustine)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@498001" title="Special:GetFCtrStats/@498001">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2017/10/25)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP498002" class="we_file we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/498002"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Finale &amp; XML)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/ce/PMLP117045-ArnS.zip" class="internal" title="PMLP117045-ArnS.zip">*</a></span><a href="/wiki/File:PMLP117045-ArnS.zip" title="File:PMLP117045-ArnS.zip">#498002</a> - 0.54MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-498002' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-498002'>
+	<a href='javascript:void(0)' id='498002' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='498002' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='498002' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='498002' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='498002' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-498002'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/498002/Comus_(Arne,_Thomas_Augustine)" title="Special:IMSLPEditCTag/498002/Comus (Arne, Thomas Augustine)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 4"><a href="/wiki/Special:GetFCtrStats/@498002" title="Special:GetFCtrStats/@498002">4</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by arranger<br />
+<a href="/wiki/User:Michrond" title="User:Michrond">Michrond</a> (2017/10/25)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td><a href="/wiki/Category:Rondeau,_Michel" title="Category:Rondeau, Michel">Michel Rondeau</a>&#160;(b. 1948)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Michel Rondeau, 2017.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=498001/498002">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=498001/498002">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="498001">Javascript is required for this feature.</div><script>JGINITsearchbars['498001']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP117045-ArnSALL.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/5e/cb4cc9fe7e24e08cbd6ef8376864cd9f350cf88e.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Comus
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">The Masque of Comus
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Arne,_Thomas_Augustine" title="Category:Arne, Thomas Augustine">Arne, Thomas Augustine</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Opus/Catalogue Number</span><span class="ms555">Op./Cat. No.</span>
+</th>
+<td>RISM A/I: A 1745
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>ITA 8
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 acts
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1738-03-04 in London. Theatre Royal, Drury Lane
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1740 ca. - <span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism00000990001746&amp;db=251&amp;View=rism&amp;Language=en">London: William Smith</a></span>
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Dalton,_John" title="Category:Dalton, John">John Dalton</a> (1709-1763), after <a href="/wiki/Category:Milton,_John" title="Category:Milton, John">John Milton</a> (1608–1674)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>English
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>voices, chorus, orchestra <div class="expandline" style="background-color:#E8E8E8;margin-left:0;margin-top:0;padding:0">
+<dl><dd><i>Cast</i>
+<dl><dd>A Lady (non-singing)<br />Comus, a Magician (non-singing)<br />Euphrosyne, a Grace (soprano)<br />Sabrina, a Nymph (soprano)<br />First brother of the lady (non-singing)<br />Second brother of the lady (non-singing)
+</dd></dl>
+</dd><dd><i>Mixed chorus</i> (SATB)
+<dl><dd>Assorted spirits, revelers in Comus's pleasure crew, etc.
+</dd></dl>
+</dd><dd><i>Orchestra</i> 
+<dl><dd>2 flutes, 2 oboes, bassoon<br />2 trumpets, timpani, strings, continuo </div>
+</dd></dl>
+</dd></dl>
+</td></tr>
+<tr>
+<th>Primary Sources
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="https://opac.rism.info/metaopac/search?q=rism806034792&amp;db=251&amp;View=rism&amp;Language=en">Mss score, 18th century (GB-Lbl, Add. 11518)</a></span>
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Comus_(Arne)" class="extiw" title="wikipedia:Comus (Arne)">Wikipedia article</a>
+</td></tr>
+<tr>
+<th>Extra Locations
+</th>
+<td>Selections also in <i><a href="/wiki/6_Songs_(Arne,_Thomas_Augustine)" title="6 Songs (Arne, Thomas Augustine)">6 Songs</a></i> (Nos.1-2)
+</td></tr>
+<tr>
+<th>Extra Information
+</th>
+<td>The only singing parts are the 2 soprano parts, but there are 4 other non-singing roles.
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 880/1000000
+Post-expand include size: 65995/2097152 bytes
+Template argument size: 703/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:117045-0!*!0!!en!2!* and timestamp 20180416204110 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Comus_(Arne,_Thomas_Augustine)&amp;oldid=2466070">http://imslp.org/index.php?title=Comus_(Arne,_Thomas_Augustine)&amp;oldid=2466070</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pages_with_RISM_citations" title="Category:Pages with RISM citations">Pages with RISM citations</a></li><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Scores_from_the_Department_of_Musicology_of_the_University_of_Pavia_(Cremona)" title="Category:Scores from the Department of Musicology of the University of Pavia (Cremona)">Scores from the Department of Musicology of the University of Pavia (Cremona)</a></li><li><a href="/wiki/Category:Pages_with_RISM_references" title="Category:Pages with RISM references">Pages with RISM references</a></li><li><a href="/wiki/Category:OM_Parts" title="Category:OM Parts">OM Parts</a></li><li><a href="/wiki/Category:Pages_with_Items_Reprinted_by_PMBS" title="Category:Pages with Items Reprinted by PMBS">Pages with Items Reprinted by PMBS</a></li><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Wall,_Harry_Edward/Arranger" title="Category:Wall, Harry Edward/Arranger">Wall, Harry Edward/Arranger</a></li><li><a href="/wiki/Category:Rondeau,_Michel/Arranger" title="Category:Rondeau, Michel/Arranger">Rondeau, Michel/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Arne,_Thomas_Augustine" title="Category:Arne, Thomas Augustine">Arne, Thomas Augustine</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Masques" title="Category:Masques">Masques</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:For_2_voices,_mixed_chorus,_orchestra" title="Category:For 2 voices, mixed chorus, orchestra">For 2 voices, mixed chorus, orchestra</a></li><li><a href="/wiki/Category:For_voices_and_chorus_with_orchestra" title="Category:For voices and chorus with orchestra">For voices and chorus with orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_soprano_voice" title="Category:Scores featuring the soprano voice">Scores featuring the soprano voice</a></li><li><a href="/wiki/Category:Scores_featuring_mixed_chorus" title="Category:Scores featuring mixed chorus">Scores featuring mixed chorus</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:English_language" title="Category:English language">English language</a></li><li><a href="/wiki/Category:For_organ_(arr)" title="Category:For organ (arr)">For organ (arr)</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:Scores_featuring_the_organ" title="Category:Scores featuring the organ">Scores featuring the organ</a></li><li><a href="/wiki/Category:For_trumpet,_organ_(arr)" title="Category:For trumpet, organ (arr)">For trumpet, organ (arr)</a></li><li><a href="/wiki/Category:Scores_featuring_the_trumpet" title="Category:Scores featuring the trumpet">Scores featuring the trumpet</a></li><li><a href="/wiki/Category:For_2_players" title="Category:For 2 players">For 2 players</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Works_first_published_in_1740" title="Category:Works first published in 1740">Works first published in 1740</a></li><li><a href="/wiki/Category:Works_first_published_in_the_18th_century" title="Category:Works first published in the 18th century">Works first published in the 18th century</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:Dalton,_John/Librettist" title="Category:Dalton, John/Librettist">Dalton, John/Librettist</a></li><li><a href="/wiki/Category:Milton,_John/Librettist" title="Category:Milton, John/Librettist">Milton, John/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Comus_%28Arne%2C_Thomas_Augustine%29">2,144 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Comus%20%28Arne%2C%20Thomas%20Augustine%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.526 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180416204110 -->
+</html>
+		

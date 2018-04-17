@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Griselda (Bononcini, Giovanni) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Griselda_(Bononcini,_Giovanni)", "wgTitle": "Griselda (Bononcini, Giovanni)", "wgCurRevisionId": 2234386, "wgArticleId": 118280, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["WIMA files", "Walsh, John/Editor", "Kingfisher/Editor", "Hettich, Amédée-Landély/Editor", "Scores from Musik- och teaterbiblioteket", "Manuscripts", "Scores from Pomeranian Digital Library", "Scores published by Echo Muzyczne", "Depolo, Srđan/Arranger", "Scores", "Bononcini, Giovanni", "Baroque style", "Baroque", "Operas", "Theatrical Works", "For voices, orchestra", "Scores featuring the voice", "Scores featuring the orchestra", "For voices with orchestra", "Italian language", "For 1 voice (arr)", "For unaccompanied voices", "Scores featuring the tenor voice", "Pages with arrangements", "Pages with parts for purchase", "Operas first performed at Theatre in the Haymarket", "Operas first performed in 1722", "Zeno, Apostolo/Librettist", "Rolli, Paolo Antonio/Librettist"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Griselda_Bononcini_Giovanni action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Griselda_(Bononcini,_Giovanni)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Griselda+%28Bononcini%2C+Giovanni%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Griselda_(Bononcini,_Giovanni)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Griselda_(Bononcini,_Giovanni)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Griselda_(Bononcini,_Giovanni)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Griselda_(Bononcini,_Giovanni)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Griselda_(Bononcini,_Giovanni)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Griselda_(Bononcini,_Giovanni)&amp;oldid=2234386" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Griselda%20%28Bononcini%2C%20Giovanni%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Griselda (Bononcini, Giovanni)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 Acts
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Operas&amp;transclude=Template:Catintro">Operas</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Theatrical_Works&amp;transclude=Template:Catintro">Theatrical Works</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices%2C_orchestra&amp;transclude=Template:Catintro">For voices, orchestra</a></span>; <span class="expandline" title="7 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_voice&amp;transclude=Template:Catintro">Scores featuring the voice</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_orchestra&amp;transclude=Template:Catintro">Scores featuring the orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_voices_with_orchestra&amp;transclude=Template:Catintro">For voices with orchestra</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Italian_language&amp;transclude=Template:Catintro">Italian language</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_voice_%28arr%29&amp;transclude=Template:Catintro">For 1 voice (arr)</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_unaccompanied_voices&amp;transclude=Template:Catintro">For unaccompanied voices</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_tenor_voice&amp;transclude=Template:Catintro">Scores featuring the tenor voice</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Griselda","composer":"Bononcini, Giovanni","comphref":"\/wiki\/Category:Bononcini,_Giovanni"};JGINITsearchbars={};JGWPPBdefault={"cd":true,"score":true,"amarec":"griselda","itunes":"griselda","composer":"bononcini","scorekeywords":"griselda","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=3;JGBSAccompnum=0;JGNaxosSearch={"numres":18,"items":[{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028948090464.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028948090464.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028948090464","desc":"BONONCINI, G.: Griselda [Opera] (Highlights) (Elms, Sutherland, Sinclair, Elkins, Malas, Ambrosian Singers, London Philharmonic, Bonynge)","label":"Decca","category":"Opera - Classical Music","composer":"Bononcini, Giovanni","artist":"Sutherland, Joan -- Bonynge, Richard -- Elms, Lauris -- London Philharmonic Orchestra -- Elkins, Margreta -- Sinclair, Monica -- Malas, Spiro","country":"Italy","catid":"00028948090464","cdinfo":[[["Bononcini, Giovanni",[["Griselda (excerpts)","mediaplayer\/player.asp?br=128&tl=2971961|2971962|2971963|2971964|2971965|2971966|2971967|2971968|2971969|2971970|2971971|2971972|2971973|2971974|2971975|2971976|2971977|2971978|2971979|2971980",["Overture","Al mio nativo prato","Parto, parto, amabile ben mio","Affetto, gioia e riso","Timor e speme","Volgendo a me lo sguardo","Non deggio, no, sperare","Dal mio petto","Per la gloria d'adorarvi","Le fere a risvegliar","Che giova fuggire","Dolce sogno","Se, vaga pastorella","Caro addio dal labbro amato","Dell'offesa vendicarti","Troppo &#232; il dolore","Quel timoroso cervo","Eterni dei","Per te, mio sole bene","Viva, viva! s'innalzi e splenda"]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=884977605198.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=884977605198.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D884977605198","desc":"Opera Arias (Soprano): Kermes, Simone - BONONCINI, G. \/ BROSCHI, R. \/ CALDARA, A. \/ SCARLATTI, A. (Colori d'Amore)","label":"Sony Classical","category":"Chamber Music - Classical Music","composer":"Bononcini, Giovanni -- Scarlatti, Alessandro -- Caldara, Antonio -- Broschi, Riccardo -- Bononcini, Antonio Maria -- Matteis, Nicola","artist":"Kermes, Simone -- Le Musiche Nove -- Osele, Claudio","country":"Italy United Kingdom","catid":"884977605198","cdinfo":[[["Scarlatti, Alessandro",[["Telemaco, Act I: Il mar de le mie pene","mediaplayer\/player.asp?br=128&tl=1896331",[]]]],["Bononcini, Giovanni",[["Xerse, Act I: Fondi Tenere &#8230; Ombra mai fu","mediaplayer\/player.asp?br=128&tl=1896332",[]]]],["Scarlatti, Alessandro",[["Il prigioniero fortunato, Act III: Ondeggiante agitato","mediaplayer\/player.asp?br=128&tl=1896333",[]]]],["Scarlatti, Alessandro",[["Il Mitridate Eupatore, Act IV: Cara tomba","mediaplayer\/player.asp?br=128&tl=1896334",[]]]],["Caldara, Antonio",[["Caio Marzio Coriolano, Act II: Ha vinto amor &#8230; Per combatter con lo sdegno","mediaplayer\/player.asp?br=128&tl=1896335",[]]]],["Bononcini, Giovanni",[["Endimione, Act I: Dice tirsi","mediaplayer\/player.asp?br=128&tl=1896336",[]]]],["Bononcini, Antonio Maria",[["La conquista del vello d'oro, Act III: Pi&#249; che freme il nembo irato","mediaplayer\/player.asp?br=128&tl=1896337",[]]]],["Scarlatti, Alessandro",[["La gloria di primavera: Canta dolce il rosignolo","mediaplayer\/player.asp?br=128&tl=1896338",[]]]],["Matteis, Nicola",[["Balletto","mediaplayer\/player.asp?br=128&tl=1896339",[]]]],["Scarlatti, Alessandro",[["Erminia: Qui dove &#8230; Torbido irato e nero","mediaplayer\/player.asp?br=128&tl=1896340",[]]]],["Caldara, Antonio",[["Il nome pi&#249; glorioso: Se vedrai avvampar le lucciolette","mediaplayer\/player.asp?br=128&tl=1896341",[]]]],["Caldara, Antonio",[["L'olimpiade, Act II: Fiamma ignota","mediaplayer\/player.asp?br=128&tl=1896342",[]]]],["Bononcini, Giovanni",[["Griselda, Act II: E deliquio &#8230; sonno, se pur se' sonno","mediaplayer\/player.asp?br=128&tl=1896343",[]]]],["Broschi, Riccardo",[["Merope, Act I: Chi non sente","mediaplayer\/player.asp?br=128&tl=1896344",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947583820.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947583820.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947583820","desc":"Vocal Recital: Pavarotti, Luciano - BELLINI, V. \/ TOSTI, P. \/ RESPIGHI, O. \/ BONONCINI, G. \/ HANDEL, G.F. \/ SCARLATTI, A. (Pavarotti in Concert)","label":"Decca","category":"Opera - Classical Music","composer":"Bononcini, Giovanni -- Respighi, Ottorino -- Scarlatti, Alessandro -- Handel, George Frideric -- Bellini, Vincenzo -- Rossini, Gioachino -- Tosti, Paolo","artist":"Pavarotti, Luciano -- Bonynge, Richard -- Bologna Teatro Comunale Orchestra","country":"Australia Germany Italy","catid":"00028947583820","cdinfo":[[["Bononcini, Giovanni",[["Griselda: Aria: Per la gloria d'adorarvi (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3032446",[]]]],["Handel, George Frideric",[["Atalanta, HWV 35, Act I: Arioso: Care selve, ombre beate (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3032447",[]]]],["Scarlatti, Alessandro",[["L'honesta negli amori: Gia il sole del Gange (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3032465",[]]]],["Bellini, Vincenzo",[["Ma rendi pur contento (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3032466",[]]]],["Bellini, Vincenzo",[["Dolente immagine di Fille mia (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3032942",[]]]],["Bellini, Vincenzo",[["Malinconia, ninfa gentile (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3032979",[]]]],["Bellini, Vincenzo",[["Bella Nice che d'amore (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033019",[]]]],["Bellini, Vincenzo",[["Vanne, o rosa fortunata (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033100",[]]]],["Tosti, Paolo",[["La serenata (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033112",[]]]],["Tosti, Paolo",[["Luna d'estate (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033131",[]]]],["Tosti, Paolo",[["Malia (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033134",[]]]],["Tosti, Paolo",[["Non t'amo pi&#249; (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033138",[]]]],["Respighi, Ottorino",[["Nevicata, P. 65 (arr. D. Gamley for voice and orchestra)","mediaplayer\/player.asp?br=128&tl=3033139",[]]]],["Respighi, Ottorino",[["6 Liriche, Series 1, P. 90: No. 6. Pioggia","mediaplayer\/player.asp?br=128&tl=3033142",[]]]],["Respighi, Ottorino",[["Nebbie, P. 64","mediaplayer\/player.asp?br=128&tl=3033143",[]]]],["Rossini, Gioachino",[["Les soirees musicales: No. 8. La danza","mediaplayer\/player.asp?br=128&tl=3033153",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=884977724431.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=884977724431.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D884977724431","desc":"Opera Arias (Soprano): Kermes, Simone - BONONCINI, G. \/ BROSCHI, R. \/ CALDARA, A. \/ SCARLATTI, A. (Colori d'Amore)","label":"Deutsche Harmonia Mundi","category":"Chamber Music - Classical Music","composer":"Bononcini, Giovanni -- Scarlatti, Alessandro -- Caldara, Antonio -- Broschi, Riccardo -- Bononcini, Antonio Maria -- Matteis, Nicola","artist":"Kermes, Simone -- Le Musiche Nove -- Osele, Claudio","country":"Italy United Kingdom","catid":"884977724431","cdinfo":[[["Scarlatti, Alessandro",[["Telemaco, Act I: Il mar de le mie pene","mediaplayer\/player.asp?br=128&tl=1824425",[]]]],["Bononcini, Giovanni",[["Xerse, Act I: Fondi Tenere &#8230; Ombra mai fu","mediaplayer\/player.asp?br=128&tl=1824426",[]]]],["Scarlatti, Alessandro",[["Il prigioniero fortunato, Act III: Ondeggiante agitato","mediaplayer\/player.asp?br=128&tl=1824427",[]]]],["Scarlatti, Alessandro",[["Il Mitridate Eupatore, Act IV: Cara tomba","mediaplayer\/player.asp?br=128&tl=1824428",[]]]],["Caldara, Antonio",[["Caio Marzio Coriolano, Act II: Ha vinto amor &#8230; Per combatter con lo sdegno","mediaplayer\/player.asp?br=128&tl=1824429",[]]]],["Bononcini, Giovanni",[["Endimione, Act I: Dice tirsi","mediaplayer\/player.asp?br=128&tl=1824430",[]]]],["Bononcini, Antonio Maria",[["La conquista del vello d'oro, Act III: Pi&#249; che freme il nembo irato","mediaplayer\/player.asp?br=128&tl=1824431",[]]]],["Scarlatti, Alessandro",[["La gloria di primavera: Canta dolce il rosignolo","mediaplayer\/player.asp?br=128&tl=1824432",[]]]],["Matteis, Nicola",[["Balletto","mediaplayer\/player.asp?br=128&tl=1824433",[]]]],["Scarlatti, Alessandro",[["Erminia: Qui dove &#8230; Torbido irato e nero","mediaplayer\/player.asp?br=128&tl=1824434",[]]]],["Caldara, Antonio",[["Il nome pi&#249; glorioso: Se vedrai avvampar le lucciolette","mediaplayer\/player.asp?br=128&tl=1824435",[]]]],["Caldara, Antonio",[["L'olimpiade, Act II: Fiamma ignota","mediaplayer\/player.asp?br=128&tl=1824436",[]]]],["Bononcini, Giovanni",[["Griselda, Act II: E deliquio &#8230; sonno, se pur se' sonno","mediaplayer\/player.asp?br=128&tl=1824437",[]]]],["Broschi, Riccardo",[["Merope, Act I: Chi non sente","mediaplayer\/player.asp?br=128&tl=1824438",[]]]],["Caldara, Antonio",[["L'inimico generoso: Deh lasciatemi pensieri","mediaplayer\/player.asp?br=128&tl=1824439",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=884977725124.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=884977725124.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D884977725124","desc":"Opera Arias (Soprano): Kermes, Simone - BONONCINI, G. \/ BROSCHI, R. \/ CALDARA, A. \/ SCARLATTI, A. (Colori d'Amore)","label":"Deutsche Harmonia Mundi","category":"Chamber Music - Classical Music","composer":"Bononcini, Giovanni -- Scarlatti, Alessandro -- Caldara, Antonio -- Broschi, Riccardo -- Bononcini, Antonio Maria -- Matteis, Nicola","artist":"Kermes, Simone -- Le Musiche Nove -- Osele, Claudio","country":"Italy United Kingdom","catid":"884977725124","cdinfo":[[["Scarlatti, Alessandro",[["Telemaco: Il mar de le mie pene","mediaplayer\/player.asp?br=128&tl=1824450",[]]]],["Bononcini, Giovanni",[["Xerse, Act I: Fondi Tenere &#8230; Ombra mai fu","mediaplayer\/player.asp?br=128&tl=1824451",[]]]],["Scarlatti, Alessandro",[["Il prigioniero fortunato, Act III: Ondeggiante agitato","mediaplayer\/player.asp?br=128&tl=1824452",[]]]],["Scarlatti, Alessandro",[["Il Mitridate Eupatore, Act IV: Cara tomba","mediaplayer\/player.asp?br=128&tl=1824453",[]]]],["Caldara, Antonio",[["Caio Marzio Coriolano, Act II: Ha vinto amor &#8230; Per combatter con lo sdegno","mediaplayer\/player.asp?br=128&tl=1824454",[]]]],["Bononcini, Giovanni",[["Endimione, Act I: Dice tirsi","mediaplayer\/player.asp?br=128&tl=1824455",[]]]],["Bononcini, Antonio Maria",[["La conquista del vello d'oro, Act III: Pi&#249; che freme il nembo irato","mediaplayer\/player.asp?br=128&tl=1824456",[]]]],["Scarlatti, Alessandro",[["La gloria di primavera: Canta dolce il rosignolo","mediaplayer\/player.asp?br=128&tl=1824457",[]]]],["Matteis, Nicola",[["Balletto","mediaplayer\/player.asp?br=128&tl=1824458",[]]]],["Scarlatti, Alessandro",[["Erminia: Qui dove &#8230; Torbido irato e nero","mediaplayer\/player.asp?br=128&tl=1824459",[]]]],["Caldara, Antonio",[["Il nome pi&#249; glorioso: Se vedrai avvampar le lucciolette","mediaplayer\/player.asp?br=128&tl=1824460",[]]]],["Caldara, Antonio",[["L'olimpiade, Act II: Fiamma ignota","mediaplayer\/player.asp?br=128&tl=1824461",[]]]],["Bononcini, Giovanni",[["Griselda, Act II: E deliquio &#8230; sonno, se pur se' sonno","mediaplayer\/player.asp?br=128&tl=1824462",[]]]],["Broschi, Riccardo",[["Merope, Act I: Chi non sente","mediaplayer\/player.asp?br=128&tl=1824463",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=0013272BC.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=0013272BC.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D0013272BC","desc":"Opera Arias (Counter-Tenor): Kowalski, Jochen - GRAUN, C.H. \/ BONONCINI, G. \/ TELEMANN, G.P. \/ HASSE, A. H. \/ PREUSSEN, F. II von \/ AGRICOLA, J.H.","label":"Berlin Classics","category":"Opera - Classical Music","composer":"Graun, Carl Heinrich -- Bononcini, Giovanni -- Telemann, Georg Philipp -- Hasse, Johann Adolf -- Agricola, Johann -- Preussen, Friedrich II von","artist":"Kowalski, Jochen -- Pommer, Max -- Schornsheim, Christine -- Alpermann, Raphael -- Berlin Chamber Orchestra -- Friedrich, Hartmut -- Strauch, Mark","country":"Germany Italy","catid":"0013272BC","cdinfo":[[["Graun, Carl Heinrich",[["Rodelinda, regina de' Langobardi: Pompe vane di morte - Se a questa vita","mediaplayer\/player.asp?br=128&tl=594600",[]]]],["Bononcini, Giovanni",[["Polifemo: Voi del ciel clementi","mediaplayer\/player.asp?br=128&tl=594601",[]]]],["Bononcini, Giovanni",[["Griselda: Per la gloria d'adorarvi","mediaplayer\/player.asp?br=128&tl=594602",[]]]],["Graun, Carl Heinrich",[["Artaserse: Sulle sponde del torbido lete","mediaplayer\/player.asp?br=128&tl=594603",[]]]],["Graun, Carl Heinrich",[["Cleopatra e Cesare: Cortese il cielo non puo donare","mediaplayer\/player.asp?br=128&tl=594604",[]]]],["Telemann, Georg Philipp",[["Flavius Bertaridus: Lieto suono di trombe guerrierre","mediaplayer\/player.asp?br=128&tl=594605",[]]]],["Hasse, Johann Adolf",[["Lucio Papirio: All'onor mio rifletti","mediaplayer\/player.asp?br=128&tl=594606",[]]]],["Hasse, Johann Adolf",[["Tito Vespasiano, \"La clemenza di Tito\": Tardi s'avvedde d'un tradimento","mediaplayer\/player.asp?br=128&tl=594607",[]]]],["Preussen, Friedrich II von",[["Il re pastore, Serenata: Sulle pi&#249; belle piante","mediaplayer\/player.asp?br=128&tl=594608",[]]]],["Agricola, Johann",[["Achille in Sciro: Del terreno, nel centro profondo","mediaplayer\/player.asp?br=128&tl=594609",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=HMU807590.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=HMU807590.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DHMU807590","desc":"Vocal Recital: Zazzo, Lawrence - HANDEL, G.F. \/ ARIOSTI, A. \/ BONONCINI, G. (A Royal Trio)","label":"Harmonia Mundi","category":"Opera - Classical Music","composer":"Bononcini, Giovanni -- Handel, George Frideric -- Ariosti, Attilio","artist":"Zazzo, Lawrence -- Bates, David -- Nuova Musica, La","country":"Germany Italy","catid":"HMU807590","cdinfo":[[["Ariosti, Attilio",[["Vespasiano: Overture","mediaplayer\/player.asp?br=128&tl=2100900",[]]]],["Handel, George Frideric",[["Flavio, re di Longobardi, HWV 16, Act II Scene 6: Aria: Rompo i lacci, e frango i dardi","mediaplayer\/player.asp?br=128&tl=2100901",[]]]],["Bononcini, Giovanni",[["Crispo (excerpts)","mediaplayer\/player.asp?br=128&tl=2100902",["Act III Scene 5: Cos&#236; stanco Pellegrino"]]]],["Handel, George Frideric",[["Admeto, HWV 22 (excerpts)","mediaplayer\/player.asp?br=128&tl=2116512",["Act I Scene 9: Sinfonia"]]]],["Handel, George Frideric",[["Giulio Cesare in Egitto, HWV 17, Act I Scene 9: Aria: Va tacito e nascosto","mediaplayer\/player.asp?br=128&tl=2100904",[]]]],["Handel, George Frideric",[["Ottone, re di Germania, HWV 15 (excerpts)","mediaplayer\/player.asp?br=128&tl=2100905|2100906",["Act III Scene 2: Recitative Accompagnato: Io son tradito","Act III Scene 2: Aria: Tanti affanni"]]]],["Bononcini, Giovanni",[["Griselda, Act II Scene 1: Per la gloria d'adorarvi","mediaplayer\/player.asp?br=128&tl=2100907",[]]]],["Ariosti, Attilio",[["6 Cantatas, \"The Flowering and Fading of Love\": No. 5. Freme l'onda e fischia il vento, \"Il naufragio\": I. Allegro","mediaplayer\/player.asp?br=128&tl=2100908",[]]]],["Ariosti, Attilio",[["Caio Marzio Coriolano (excerpts)","mediaplayer\/player.asp?br=128&tl=2100909|2100910",["Act III Scene 8: Spirate, o iniqui marmi","Act III Scene 8: Voi d'un figlio tanto misero"]]]],["Bononcini, Giovanni",[["Crispo (excerpts)","mediaplayer\/player.asp?br=128&tl=2100911",["Act II Scene 2: Torrente che scende"]]]],["Handel, George Frideric",[["Admeto, HWV 22 (excerpts)","mediaplayer\/player.asp?br=128&tl=2116513",["Introduzione: Ballo di Larve"]]]],["Handel, George Frideric",[["Admeto, HWV 22 (excerpts)","mediaplayer\/player.asp?br=128&tl=2100913|2100914",["Act I Scene 1: Orride Larve!","Act I Scene 1: Chiudetevi miei lumi"]]]],["Bononcini, Giovanni",[["Muzio Scevola, Act II Scene 7: Tigre piagata","mediaplayer\/player.asp?br=128&tl=2100915",[]]]],["Handel, George Frideric",[["Admeto, HWV 22 (excerpts)","mediaplayer\/player.asp?br=128&tl=2116514",["Act II Scene 1: Sinfonia"]]]],["Handel, George Frideric",[["Rodelinda, HWV 19, Act III Scenes 8: Aria: Vivi, tiranno!","mediaplayer\/player.asp?br=128&tl=2100917",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=00028947631491.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=00028947631491.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3D00028947631491","desc":"Opera Arias (Tenor): Pirgu, Saimir - DONIZETTI, G. \/ MASSENET, J. \/ MOZART, W.A. \/ VERDI, G. \/  BONONCINI, G. \/ PERGOLESI, G.B. (Angelo Casto e Bel)","label":"Universal Classics","category":"Opera - Classical Music","composer":"Mozart, Wolfgang Amadeus -- Bononcini, Giovanni -- Verdi, Giuseppe -- Pergolesi, Giovanni Battista -- Massenet, Jules -- Donizetti, Gaetano","artist":"Kuhn, Gustav -- Pirgu, Saimir -- Bolzano-Trento Haydn Orchestra","country":"Austria France Italy","catid":"00028947631491","cdinfo":[[["Donizetti, Gaetano",[["Il Duca d'Alba, Act IV: Angelo casto e bel (completed by M. Salvi) (Sung in Italian)","mediaplayer\/player.asp?br=128&tl=3031120",[]]]],["Donizetti, Gaetano",[["L'elisir d'amore (The Elixir of Love), Act II: Una furtiva lagrima","mediaplayer\/player.asp?br=128&tl=3031121",[]]]],["Massenet, Jules",[["Manon, Act II: Instant charmant &#8230; En fermant les yeux","mediaplayer\/player.asp?br=128&tl=3031122",[]]]],["Mozart, Wolfgang Amadeus",[["Don Giovanni, K. 527, Act I: Aria: Dalla sua pace","mediaplayer\/player.asp?br=128&tl=3031123",[]]]],["Verdi, Giuseppe",[["Rigoletto, Act I: Questa o quella","mediaplayer\/player.asp?br=128&tl=3031124",[]]]],["Bononcini, Giovanni",[["Griselda, Act I: Per la gloria d'adorarvi","mediaplayer\/player.asp?br=128&tl=3031125",[]]]],["Donizetti, Gaetano",[["Roberto Devereux, Act III: Ed ancor la tremenda porta","mediaplayer\/player.asp?br=128&tl=3031126",[]]]],["Mozart, Wolfgang Amadeus",[["Cosi fan tutte, K. 588, Act I: Aria: Un'aura amorosa","mediaplayer\/player.asp?br=128&tl=3031128",[]]]],["Verdi, Giuseppe",[["La traviata, Act II: Lunge da lei - De' miei bollenti spiriti","mediaplayer\/player.asp?br=128&tl=3031135",[]]]],["Pergolesi, Giovanni Battista",[["Tre giorni son che Nina","mediaplayer\/player.asp?br=128&tl=3031136",[]]]],["Mozart, Wolfgang Amadeus",[["Don Giovanni, K. 527, Act II: Aria: Il mio tesoro intanto","mediaplayer\/player.asp?br=128&tl=3031138",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=TC670003.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=TC670003.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DTC670003","desc":"Opera Arias (Mezzo-Soprano): Bienkowska, Agata - SARRO, D.N. \/ TORRI, P. \/ CALDARA, A. \/ HANDEL, G.F. \/ HASSE, J.A. (La Prima Diva)","label":"Tactus","category":"Opera - Classical Music","composer":"Bononcini, Giovanni -- Hasse, Johann Adolf -- Handel, George Frideric -- Caldara, Antonio -- Torri, Pietro -- Sarro, Domenico Natale","artist":"Bienkowska, Agata -- Barockwerk Hamburg -- Hochman, Ira","country":"Germany Italy","catid":"TC670003","cdinfo":[[["Sarro, Domenico Natale",[["Didone abbandonata: Sinfonia","mediaplayer\/player.asp?br=128&tl=1949787",[]]]],["Torri, Pietro",[["Griselda: Aria: Se amori ascoltero","mediaplayer\/player.asp?br=128&tl=1949788",[]]]],["Caldara, Antonio",[["Il Venceslao: Aria: Egra e languente","mediaplayer\/player.asp?br=128&tl=1949795",[]]]],["Sarro, Domenico Natale",[["Astianatte: Sinfonia","mediaplayer\/player.asp?br=128&tl=1949796",[]]]],["Sarro, Domenico Natale",[["La Partenope (excerpts)","mediaplayer\/player.asp?br=128&tl=1949803|1949804",["Aria: Per abbattere il mio core","Aria: Begl'occhi del mio ben, dormite in pace"]]]],["Bononcini, Giovanni",[["Griselda: Sinfonia","mediaplayer\/player.asp?br=128&tl=1949806",[]]]],["Handel, George Frideric",[["Alessandro, HWV 21, Act II: Aria: Alla sua gabbia d'oro","mediaplayer\/player.asp?br=128&tl=1949808",[]]]],["Hasse, Johann Adolf",[["Viriate: Aria: Si, quei ferri","mediaplayer\/player.asp?br=128&tl=1949809",[]],["Ciro riconosciuto: Aria: Non sdegnarti, a te mi fido","mediaplayer\/player.asp?br=128&tl=1949810",[]]]]]]},{"smimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=others&file=MM1214.gif","lgimg":"https:\/\/cdn.imslp.org\/naxoscache.php?pool=hires&file=MM1214.jpg","url":"\/wiki\/Special:MembFunc\/naxosredir\/%2Fcatalogue%2Fitem.asp%3Fcid%3DMM1214","desc":"Vocal Recital: Mochizuki, Tetsuya - CACCINI, G. \/ MONTEVERDI, C. \/ CARISSIMI, G. \/ CESTI, A. \/ NIEDERMEYER, A.L. \/ SCARLATTI, A. \/ SCARLATTI, D.","label":"Meister Music","category":"Choral - Secular - Classical Music","composer":"Durante, Francesco -- Niedermeyer, Abraham Louis -- Bononcini, Giovanni -- Scarlatti, Alessandro -- Marcello, Benedetto -- Monteverdi, Claudio -- Caccini, Giulio -- Caldara, Antonio -- Carissimi, Giacomo -- Cesti, Antonio -- Gluck, Christoph Willibald -- Martini, Jean-Paul-\u00c9gide -- Gasparini, Francesco","artist":"Kolly, Karl-Andreas -- Mochizuki, Tetsuya","country":"France Germany Italy","catid":"MM1214","cdinfo":[[["Caccini, Giulio",[["Amarilli mia bella (My beautiful Amaryllis)","mediaplayer\/player.asp?br=128&tl=508230",[]]]],["Monteverdi, Claudio",[["Lamento d'Arianna: Lasciatemi morire","mediaplayer\/player.asp?br=128&tl=508231",[]]]],["Carissimi, Giacomo",[["Vittoria, mio core","mediaplayer\/player.asp?br=128&tl=508232",[]]]],["Cesti, Antonio",[["Intorno all'idol mio","mediaplayer\/player.asp?br=128&tl=508233",[]]]],["Niedermeyer, Abraham Louis",[["Pieta, Signore","mediaplayer\/player.asp?br=128&tl=508234",[]]]],["Scarlatti, Alessandro",[["Le violette","mediaplayer\/player.asp?br=128&tl=508235",[]],["O cessate di piagarmi","mediaplayer\/player.asp?br=128&tl=508236",[]],["Se tu della mia morte","mediaplayer\/player.asp?br=128&tl=508237",[]]]],["Scarlatti, Alessandro",[["Il Pompeo: Toglietemi la vita ancor","mediaplayer\/player.asp?br=128&tl=508238",[]]]],["Gasparini, Francesco",[["Lasciar d'amarti","mediaplayer\/player.asp?br=128&tl=508239",[]]]],["Bononcini, Giovanni",[["Griselda: Per la gloria d'adorarvi","mediaplayer\/player.asp?br=128&tl=508240",[]]]],["Caldara, Antonio",[["La costanza in amor vince l'inganno (excerpts)","mediaplayer\/player.asp?br=128&tl=508241|508242",[]]]],["Durante, Francesco",[["Danza, danza fanciulla","mediaplayer\/player.asp?br=128&tl=508243",[]]]],["Marcello, Benedetto",[["Il mio bel foco&#8230; Quella fiamma che m'accende","mediaplayer\/player.asp?br=128&tl=508244",[]]]],["Gluck, Christoph Willibald",[["Paride ed Elena, Act I: O del mio dolce ardor","mediaplayer\/player.asp?br=128&tl=508245",[]]]],["Martini, Jean-Paul-&#201;gide",[["Piacer d'amor","mediaplayer\/player.asp?br=128&tl=508246",[]]]]]]}],"moreres":"\/wiki\/Special:MembFunc\/naxosfind\/bononcini%20griselda"};IMSLPNaxosSearch="bononcini griselda";JGaskdonation=0;JGFileTools={"184510":{"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/184510"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23184510"}},"57567":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=57567"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP57567"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=57567","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/57567"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/57567"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/57567"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%2357567"}},"253468":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=253468"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/253468\/316760\/016c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP253468"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/253468"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/253468"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23253468"}},"316760":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=316760"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/253468\/316760\/016c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP316760"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/316760"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/316760"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23316760"}},"260136":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=260136"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP260136"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=260136","t":true},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/260136"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/260136"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/260136"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23260136"}},"420751":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420751"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420751"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420751"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420751"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420751"}},"420752":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420752"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420752"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420752"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420752"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420752"}},"420753":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420753"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420753"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420753"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420753"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420753"}},"420754":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420754"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420754"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420754"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420754"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420754"}},"420755":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420755"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420755"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420755"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420755"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420755"}},"420756":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420756"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420756"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420756"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420756"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420756"}},"420757":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420757"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420757"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420757"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420757"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420757"}},"420758":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=420758"},"015-ZIPFILE":{"icon":52,"label":"Download 8 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/420751\/420752\/420753\/420754\/420755\/420756\/420757\/420758\/356c"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP420758"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/420758"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/420758"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23420758"}},"92545":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=92545"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP92545"},"022-PROCFILE":{"icon":177,"label":"Download processed PDF","onclick":"\/wiki\/Special:GM\/getprocdpdf\/92545"},"023-PROCFILELOG":{"icon":120,"label":"PDF processing log","onclick":"\/wiki\/Special:GM\/getpdfproclog\/92545"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/92545"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%2392545"}},"384717":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=384717"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP384717"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=384717","t":true},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/384717"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/384717"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23384717"}},"184508":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=184508"},"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/184508\/184509\/5092"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP184508"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/184508"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/184508"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23184508"}},"184509":{"015-ZIPFILE":{"icon":52,"label":"Download 2 files as ZIP file","onclick":"http:\/\/imslp.org\/wiki\/Special:ZIPFile\/184508\/184509\/5092"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP184509"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/184509"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23184509"}},"152950":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=152950"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP152950"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/152950"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/152950"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Griselda+%28Bononcini%2C+Giovanni%29&frmTitle=IMSLP+%23152950"}}};JGFileOpts={"184510":[],"57567":[],"253468":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgsWTvqPbHdneO3oijr7X\/Qgo\/3u9ErCjC2LYDnWzTECWncChVVrDHFmzUeAngCGO1Y+ABPp2vmc+ENp9uDVnvEkCVkP5ZDqfrXLMz2Rftadw=="},"316760":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgl4GBbFTPFefwW1CVd84pRsAD6QHC+\/RtMYLKfdK7S236QmpCEyDJufNG6ixcbq6ZzcxJN09OCvA1RBa76BXwm"},"260136":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bgcdDskcpqt5ZJqZI5Ryi2xh3Cbw1gIUCiRHjkGyZZP5LUunE9qoDuoGGKJKgt4hVttIEi4lgb6aaFg\/OHjOGHn"},"420751":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj5PFH8n67KGP2tvKJzpGv1rpPHRNEGbA96LRvT1eF6QPyQTDI\/UzbvinBMYvbSKBYDhbF9\/7XHrEqYd7xRX2G0Aa5nNon1gw6f+Skluodo\/uD1NmQ6Lzi2hC3SSuYf1zY="},"420752":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjpp5t+Y9MltU\/mRkUIvG1idXHBZTLq+37xVFOYWoYpH+8c62WjtcLetFuhmjtcigp\/Sl8jS+C3KUrqTx8Kv65HhoNwq\/Dnap+slFRrkyJw9ZnHby4kvW+MnidFnSEwDYg="},"420753":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg+QcrH4kpgTm4YJWAg3rMmT53ciPrOEt3bus\/B6pkYmmF4R7fDHq+gEWi+dGOmx\/CTQY6j6ao4NRFWl1qq5jKBy3UDdWKyd8JUM78yB2glqVgxT3gIspuq2FMtIamgI\/wx6ZAu6ikVYymav4E8wuqC"},"420754":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bidVU5m2wKV1dowmGrYCOq345hk5nAdUTLWohF0EOw3CjN0tamONOcaGJe+RDSql\/R3OHWS8EGeUaG0Z+UQeV\/d9bLXRFIAaPhUZS98Vknccw=="},"420755":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bj51YXlzkiYih+0nXNmklltDqCoykX6Jr7mh8Vnd\/hGCiJomWartY37KD5WXW9qNf7tyjuPaEdpdkzAcJoFbHBpfFfg2BoqzWFQFGeiNeus1\/bjH2OsblJ3BZajwlBRoBU="},"420756":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bieUVro5Anq7ShMvKXCl3JMiWS8FjbXnyYhEomQCSFseAjyI9MEoe5t3xV1XHhtGcwSlOG0kE5oorHlYligcJ4kVOfLlvzGA6a9XWA1xaLHqg=="},"420757":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bhZpE5S1k4mqY0h7O7HbCBuVY0LENfs7\/Ebx1eJmHvdtStiIX+9v1XSp6glRlLEdXIkfCdxl4DHnpSGYTJGWI7sB64QSVRqEgQ0CDLlDWtWFuU42HTZJgU69RpfCbmtNEU="},"420758":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjfsbVBFNsECvXP+UeR7KNOdw\/HaUshLBl8LCw640po9yb0+1+mmH1bOA6O5LhnNDPYSSETf+qxxHiJPnGKu08EvPiRj7OXfrdVXEKu449aP1LzBPEYLEV85zvXDUVcR78="},"92545":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bjvzef7zmw4cowk2LEQJ+WmHLcWsP+3uhXsKirvtnws8mrB2kzPWMLunCtfK2v3RTsSPt+XzJucTlRCF2MQOJ+K"},"384717":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bipyeYnjW655vEvZ9t5CgOTNKUrm6oYqCIZCSCjAB2BASFLnlfnPFS+UChqMuEW8hZ+HJwYs+k6HVmnos9u6VDX"},"184508":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2bg5n00RmaUgxwM7QtnNxm4dxG4ANF90eut5A0ve\/g4X4fJa5t313UtE3itoOK06kDYHkf6229Ckb9t1tMYqYdGd"},"184509":[],"152950":{"pl":"8LkwSJ0w1xBLzr3Ttv1JbXpoAWycMz7mD3i+oShY2biCZD\/3SrI\/2W25x2bo+3Wx5AWTic39DhKTDod0l76GW19sYECWqaL\/SlLFSNvpeYveMhfXsduIFaL9LeErB0dA"}};JGPageUntagged=false;JGPageTags=["operas","vv orch","it"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio2":true,"tabNaxos":false,"tabAudio3":true,"tabAudio1":false,"*":false,"\/":1},"scores":{"tabScore1":false,"tabScore4":true,"tabScore2":false,"tabArrTrans":false,"tabScore5":true,"tabScore6":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Naxos","Accompaniments","Synthesized\/MIDI"],"scores":["Full Scores","Parts","Vocal Scores","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"57567":[7.4285714285714,"7"],"92545":[3.75,"8"],"184508":[6,"7"],"184510":[6,"2"],"253468":[8,"3"],"384717":[2,"1"],"316760":[0,0],"260136":[0,0],"420751":[0,0],"420752":[0,0],"420753":[0,0],"420754":[0,0],"420755":[0,0],"420756":[0,0],"420757":[0,0],"420758":[0,0],"184509":[0,0],"152950":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Naxos"><span class="tocnumber">1.1</span> <span class="toctext">Naxos</span></a></li>
+<li class="toclevel-2"><a href="#Synthesized.2FMIDI"><span class="tocnumber">1.2</span> <span class="toctext">Synthesized/MIDI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Full_Scores"><span class="tocnumber">2.1</span> <span class="toctext">Full Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Selections"><span class="tocnumber">2.1.1</span> <span class="toctext">Selections</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Vocal_Scores"><span class="tocnumber">2.2</span> <span class="toctext">Vocal Scores</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Selections_2"><span class="tocnumber">2.2.1</span> <span class="toctext">Selections</span></a></li>
+<li class="toclevel-3"><a href="#Aria:_Per_la_gloria_d.27adorarvi_.28Act_II.29"><span class="tocnumber">2.2.2</span> <span class="toctext">Aria: Per la gloria d'adorarvi (Act II)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Arrangements_and_Transcriptions"><span class="tocnumber">2.3</span> <span class="toctext">Arrangements and Transcriptions</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Aria:_Per_la_gloria_d.27adorarvi_.28Act_II.29_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Aria: Per la gloria d'adorarvi (Act II)</span></a>
+<ul>
+<li class="toclevel-4"><a href="#For_Tenor_solo_.28Tribuzio.29"><span class="tocnumber">2.3.1.1</span> <span class="toctext">For Tenor solo (Tribuzio)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Recordings (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabNaxos_tab"><b><a href="#tabNaxos">Naxos (<span id="tabNaxos_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Accompaniments (<span id="tabAudio3_ct">0</span>)</a></b></li><li id="tabAudio1_tab"><b><a href="#tabAudio1">Synthesized/MIDI (<span id="tabAudio1_ct">1</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Recordings" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabNaxos"><h3 class="nojs"> <span class="mw-headline" id="Naxos">Naxos</span></h3>
+<b>Search key</b>: <i><span id="naxoskeyw"></span></i> <span id="naxoschgkeyw"></span> <span id="naxosmoreresults"></span><br /><br /><div id="naxosscroll">Javascript not enabled.</div>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio3"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio1"><h3 class="nojs"> <span class="mw-headline" id="Synthesized.2FMIDI">Synthesized/MIDI</span></h3>
+<div class="we"><div id="IMSLP184510" class="we_file_first we_fileblock_1 we_audio_top">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/184510"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Aria: Per la gloria d'adorarvi (Act II)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/eb/WIMA.027b-Per_la_gloria.mid" class="internal" title="WIMA.027b-Per la gloria.mid">*</a></span><a href="/wiki/File:WIMA.027b-Per_la_gloria.mid" title="File:WIMA.027b-Per la gloria.mid">#184510</a> - 0.01MB -&#160;?<span class="mobilehide625"> -&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-184510' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-184510'>
+	<a href='javascript:void(0)' id='184510' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='184510' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='184510' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='184510' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='184510' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-184510'>-</span>)</span><span class="noanon mh900"> - <a href="/wiki/Special:IMSLPEditCTag/184510/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/184510/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span> - <a href="/wiki/Special:GetFCtrStats/@184510" title="Special:GetFCtrStats/@184510">608</a>×<big>⇩</big><span class="ms555"> - MID - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">MID file</a> (audio/video)</span><br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a><span class="mh555"> (2012/3/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_audio_info gainlayout"><tr><td class="we_audio_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Performers
+</th>
+<td>Synthesized MIDI
+</td></tr>
+<tr>
+<th>Publisher Info.
+</th>
+<td>Srđan Depolo
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a>&#160;<span class="noanon"><small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=184510">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=184510">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="184510">Javascript is required for this feature.</div><script>JGINITsearchbars['184510']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"></div></td></tr></table>
+</div><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio1"></span>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Full Scores (<span id="tabScore1_ct">3</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Parts (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore2_tab"><b><a href="#tabScore2">Vocal Scores (<span id="tabScore2_ct">13</span>)</a></b></li><li id="tabArrTrans_tab"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">1</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Other (<span id="tabScore5_ct">0</span>)</a></b></li><li id="tabScore6_tab" style="display:none"><b><a href="#tabScore6">Source Files (<span id="tabScore6_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Full_Scores">Full Scores</span></h3>
+<h4> <span class="mw-headline" id="Selections">Selections</span></h4>
+<div class="we"><div id="IMSLP57567" class="we_file_first we_fileblock_2">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/57567"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Overture and Arias</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/d1/PMLP118280-Bononcini_Griselda.pdf" class="internal" title="PMLP118280-Bononcini Griselda.pdf">*</a></span><a href="/wiki/File:PMLP118280-Bononcini_Griselda.pdf" title="File:PMLP118280-Bononcini Griselda.pdf">#57567</a> - <span style="color:red"><b>21.27</b></span>MB, 49 (facing) pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-57567' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-57567'>
+	<a href='javascript:void(0)' id='57567' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='57567' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='57567' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='57567' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='57567' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-57567'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/57567/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/57567/Griselda (Bononcini, Giovanni)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 4364"><a href="/wiki/Special:GetFCtrStats/@57567" title="Special:GetFCtrStats/@57567">4364</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Boccaccio" title="User:Boccaccio">Boccaccio</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://nanki-ml.dmc.keio.ac.jp/1-b-notes/g-n/#b"><span style="border-bottom:1px dotted black" title="Nanki Music Library">J-Tn</span></a></span><br />
+<a href="/wiki/User:Boccaccio" title="User:Boccaccio">Boccaccio</a> (2010/2/27)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Walsh,_John" title="Category:Walsh, John">John Walsh</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>London: <a href="/wiki/John_Walsh" title="John Walsh">John Walsh</a>, n.d.(18th century)
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=57567">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=57567">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="57567">Javascript is required for this feature.</div><script>JGINITsearchbars['57567']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=57567&type=Overture%20and%20Arias&pgcount=49&signature=f97676adb4e593f2c1b87b455fb66a6043289d0c"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP118280-Bononcini_Griselda.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/d1/0b81fbf221da35bb9894b178d3007907e0b4e7c7.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP253468" class="we_file_first we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/253468"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Aria: Le fere a risvegliar</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/ba/PMLP118280-AAA_Bononcini_Aria_Griselda.pdf" class="internal" title="PMLP118280-AAA Bononcini Aria Griselda.pdf">*</a></span><a href="/wiki/File:PMLP118280-AAA_Bononcini_Aria_Griselda.pdf" title="File:PMLP118280-AAA Bononcini Aria Griselda.pdf">#253468</a> - 0.09MB, 17 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-253468' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-253468'>
+	<a href='javascript:void(0)' id='253468' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='253468' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='253468' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='253468' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='253468' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-253468'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/253468/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/253468/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1044"><a href="/wiki/Special:GetFCtrStats/@253468" title="Special:GetFCtrStats/@253468">1044</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Kingfisher" title="User:Kingfisher">Kingfisher</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Kingfisher" title="User:Kingfisher">Kingfisher</a> (2012/10/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP316760" class="we_file we_fileblock_3">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/316760"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Aria: Son qual face</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/78/PMLP118280-A_Son_qual_face.pdf" class="internal" title="PMLP118280-A Son qual face.pdf">*</a></span><a href="/wiki/File:PMLP118280-A_Son_qual_face.pdf" title="File:PMLP118280-A Son qual face.pdf">#316760</a> - 0.11MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-316760' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-316760'>
+	<a href='javascript:void(0)' id='316760' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='316760' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='316760' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='316760' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='316760' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-316760'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/316760/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/316760/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 445"><a href="/wiki/Special:GetFCtrStats/@316760" title="Special:GetFCtrStats/@316760">445</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Kingfisher" title="User:Kingfisher">Kingfisher</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Kingfisher" title="User:Kingfisher">Kingfisher</a> (2014/2/23)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/index.php?title=Category:Kingfisher&amp;action=edit&amp;redlink=1" class="new" title="Category:Kingfisher (page does not exist)">Kingfisher</a>
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Kingfisher
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution-NonCommercial_4.0" title="IMSLP:Creative Commons Attribution-NonCommercial 4.0">Creative Commons Attribution-NonCommercial 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=253468/316760">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=253468/316760">del</a>/<span id="fmrglnk" data-pdfstr="253468//316760/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="253468">Javascript is required for this feature.</div><script>JGINITsearchbars['253468']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP118280-AAA_Bononcini_Aria_Griselda.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ba/b6736110fa048d47deabd748999e5ad79620a178.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Full Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Parts" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2"><h3 class="nojs"> <span class="mw-headline" id="Vocal_Scores">Vocal Scores</span></h3>
+<h4> <span class="mw-headline" id="Selections_2">Selections</span></h4>
+<div class="we"><div id="IMSLP260136" class="we_file_first we_fileblock_4">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/260136"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Madrigal</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/ef/PMLP118280-Bononcini_Madrigal.pdf" class="internal" title="PMLP118280-Bononcini Madrigal.pdf">*</a></span><a href="/wiki/File:PMLP118280-Bononcini_Madrigal.pdf" title="File:PMLP118280-Bononcini Madrigal.pdf">#260136</a> - 4.64MB, 10 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-260136' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-260136'>
+	<a href='javascript:void(0)' id='260136' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='260136' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='260136' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='260136' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='260136' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-260136'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/260136/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/260136/Griselda (Bononcini, Giovanni)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 411"><a href="/wiki/Special:GetFCtrStats/@260136" title="Special:GetFCtrStats/@260136">411</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Jurabe" title="User:Jurabe">Jurabe</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by Jurabe<br />
+<a href="/wiki/User:Jurabe" title="User:Jurabe">Jurabe</a> (2012/11/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Hettich,_Am%C3%A9d%C3%A9e-Land%C3%A9ly" title="Category:Hettich, Amédée-Landély">Amédée-Landély Hettich</a> (1856-1937)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: <a href="/wiki/Rouart,_Lerolle_%26_Cie." title="Rouart, Lerolle &amp; Cie.">Rouart, Lerolle &amp; Cie.</a>, n.d. Plate A.R. 5979 L. &amp; Cie.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=260136">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=260136">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="260136">Javascript is required for this feature.</div><script>JGINITsearchbars['260136']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=260136&type=Madrigal&pgcount=10&signature=247aecb84f256f96d44a649a6df3c56d70339fe5"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP118280-Bononcini_Madrigal.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/ef/7846a4ef88b9c1aac11a0633d963c64f2ec9488f.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP420751" class="we_file_first we_fileblock_5">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420751"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Affetto, gioia e riso</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/f3/PMLP118280-Affetto_gioia_e_riso_dall_Opera_Griselda_1722_.pdf" class="internal" title="PMLP118280-Affetto gioia e riso dall Opera Griselda 1722 .pdf">*</a></span><a href="/wiki/File:PMLP118280-Affetto_gioia_e_riso_dall_Opera_Griselda_1722_.pdf" title="File:PMLP118280-Affetto gioia e riso dall Opera Griselda 1722 .pdf">#420751</a> - 0.09MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420751' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420751'>
+	<a href='javascript:void(0)' id='420751' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420751' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420751' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420751' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420751' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420751'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420751/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420751/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 128"><a href="/wiki/Special:GetFCtrStats/@420751" title="Special:GetFCtrStats/@420751">128</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_5" data-block="5">
+<p><b>⇒ <u>7 more</u>:</b> Al mio nativo prato (original key) • Al mio nativo prato (F&#160;major, transposed) • Dolce sogno (original key) • Dolce sogno (A&#160;major, transposed) • Eterni Dei • Non deggio no sperar • Timor e speme van combattendo
+</p>
+</div><div id="IMSLP420752" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420752"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Al mio nativo prato (original key)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/18/PMLP118280-Al_mio_nativo_prato_duetto_dall%27Opera_Griselda.pdf" class="internal" title="PMLP118280-Al mio nativo prato duetto dall&#39;Opera Griselda.pdf">*</a></span><a href="/wiki/File:PMLP118280-Al_mio_nativo_prato_duetto_dall%27Opera_Griselda.pdf" title="File:PMLP118280-Al mio nativo prato duetto dall'Opera Griselda.pdf">#420752</a> - 0.07MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420752' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420752'>
+	<a href='javascript:void(0)' id='420752' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420752' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420752' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420752' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420752' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420752'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420752/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420752/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 92"><a href="/wiki/Special:GetFCtrStats/@420752" title="Special:GetFCtrStats/@420752">92</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP420753" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420753"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Al mio nativo prato (F&#160;major, transposed)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/5f/PMLP118280-Al_mio_nativo_prato_duetto_dall%27Opera_Griselda_version_F_Major.pdf" class="internal" title="PMLP118280-Al mio nativo prato duetto dall&#39;Opera Griselda version F Major.pdf">*</a></span><a href="/wiki/File:PMLP118280-Al_mio_nativo_prato_duetto_dall%27Opera_Griselda_version_F_Major.pdf" title="File:PMLP118280-Al mio nativo prato duetto dall'Opera Griselda version F Major.pdf">#420753</a> - 0.07MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420753' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420753'>
+	<a href='javascript:void(0)' id='420753' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420753' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420753' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420753' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420753' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420753'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420753/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420753/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 52"><a href="/wiki/Special:GetFCtrStats/@420753" title="Special:GetFCtrStats/@420753">52</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP420754" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420754"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Dolce sogno (original key)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/4/48/PMLP118280-Dolce_sogno_dall%27Opera_Griselda.pdf" class="internal" title="PMLP118280-Dolce sogno dall&#39;Opera Griselda.pdf">*</a></span><a href="/wiki/File:PMLP118280-Dolce_sogno_dall%27Opera_Griselda.pdf" title="File:PMLP118280-Dolce sogno dall'Opera Griselda.pdf">#420754</a> - 0.08MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420754' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420754'>
+	<a href='javascript:void(0)' id='420754' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420754' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420754' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420754' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420754' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420754'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420754/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420754/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 93"><a href="/wiki/Special:GetFCtrStats/@420754" title="Special:GetFCtrStats/@420754">93</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP420755" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420755"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Dolce sogno (A&#160;major, transposed)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9e/PMLP118280-Dolce_sogno_dall%27Opera_Griselda_version_a_Major.pdf" class="internal" title="PMLP118280-Dolce sogno dall&#39;Opera Griselda version a Major.pdf">*</a></span><a href="/wiki/File:PMLP118280-Dolce_sogno_dall%27Opera_Griselda_version_a_Major.pdf" title="File:PMLP118280-Dolce sogno dall'Opera Griselda version a Major.pdf">#420755</a> - 0.08MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420755' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420755'>
+	<a href='javascript:void(0)' id='420755' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420755' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420755' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420755' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420755' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420755'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420755/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420755/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 51"><a href="/wiki/Special:GetFCtrStats/@420755" title="Special:GetFCtrStats/@420755">51</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP420756" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420756"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Eterni Dei</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/89/PMLP118280-Eterni_Dei_dall_Opera_Griselda_1722_.pdf" class="internal" title="PMLP118280-Eterni Dei dall Opera Griselda 1722 .pdf">*</a></span><a href="/wiki/File:PMLP118280-Eterni_Dei_dall_Opera_Griselda_1722_.pdf" title="File:PMLP118280-Eterni Dei dall Opera Griselda 1722 .pdf">#420756</a> - 0.06MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420756' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420756'>
+	<a href='javascript:void(0)' id='420756' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420756' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420756' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420756' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420756' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420756'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420756/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420756/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 57"><a href="/wiki/Special:GetFCtrStats/@420756" title="Special:GetFCtrStats/@420756">57</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP420757" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420757"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Non deggio no sperar</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/86/PMLP118280-Non_deggio_no_sperare_dall%27Opera_Griselda_%281722%29.pdf" class="internal" title="PMLP118280-Non deggio no sperare dall&#39;Opera Griselda (1722).pdf">*</a></span><a href="/wiki/File:PMLP118280-Non_deggio_no_sperare_dall%27Opera_Griselda_(1722).pdf" title="File:PMLP118280-Non deggio no sperare dall'Opera Griselda (1722).pdf">#420757</a> - 0.08MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420757' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420757'>
+	<a href='javascript:void(0)' id='420757' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420757' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420757' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420757' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420757' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420757'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420757/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420757/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 73"><a href="/wiki/Special:GetFCtrStats/@420757" title="Special:GetFCtrStats/@420757">73</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP420758" class="we_file we_fileblock_5 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/420758"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Timor e speme van combattendo</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/07/PMLP118280-Timor_e_speme_van_combattendo_dall_Opera_Griselda_1722_.pdf" class="internal" title="PMLP118280-Timor e speme van combattendo dall Opera Griselda 1722 .pdf">*</a></span><a href="/wiki/File:PMLP118280-Timor_e_speme_van_combattendo_dall_Opera_Griselda_1722_.pdf" title="File:PMLP118280-Timor e speme van combattendo dall Opera Griselda 1722 .pdf">#420758</a> - 0.06MB, 3 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-420758' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-420758'>
+	<a href='javascript:void(0)' id='420758' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='420758' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='420758' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='420758' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='420758' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-420758'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/420758/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/420758/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 69"><a href="/wiki/Special:GetFCtrStats/@420758" title="Special:GetFCtrStats/@420758">69</a>×<big>⇩</big></span><span class="ms555"> - <a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by Editor<br />
+<a href="/index.php?title=User:Francescomarcoalgeri&amp;action=edit&amp;redlink=1" class="new" title="User:Francescomarcoalgeri (page does not exist)">Francesco</a> (2016/4/26)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>Francesco Marco Algeri
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Francesco Marco Algeri
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_4.0" title="IMSLP:Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=420751/420752/420753/420754/420755/420756/420757/420758">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=420751/420752/420753/420754/420755/420756/420757/420758">del</a>/<span id="fmrglnk" data-pdfstr="420751//420752//420753//420754//420755//420756//420757//420758/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="420751">Javascript is required for this feature.</div><script>JGINITsearchbars['420751']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP118280-Affetto_gioia_e_riso_dall_Opera_Griselda_1722_.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/f3/02e18dee0a27d17ea963aac62fea18d178e60ada.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<h4> <span class="mw-headline" id="Aria:_Per_la_gloria_d.27adorarvi_.28Act_II.29">Aria: Per la gloria d'adorarvi (Act II)</span></h4>
+<div class="we"><div id="IMSLP92545" class="we_file_first we_fileblock_6">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/92545"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/95/PMLP118280-bononcini_griselda_song.pdf" class="internal" title="PMLP118280-bononcini griselda song.pdf">*</a></span><a href="/wiki/File:PMLP118280-bononcini_griselda_song.pdf" title="File:PMLP118280-bononcini griselda song.pdf">#92545</a> - 0.27MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-92545' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-92545'>
+	<a href='javascript:void(0)' id='92545' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='92545' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='92545' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='92545' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='92545' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-92545'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/92545/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/92545/Griselda (Bononcini, Giovanni)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:gray">C</span></a> </span>- <span title="Total number of downloads: 4154"><a href="/wiki/Special:GetFCtrStats/@92545" title="Special:GetFCtrStats/@92545">4154</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://musikverket.se/musikochteaterbiblioteket/ladda-ner-noter/?lang=en"><span style="border-bottom:1px dotted black" title="Musik- och teaterbiblioteket">S-Skma</span></a></span><br />
+<a href="/wiki/User:Fynnjamin" title="User:Fynnjamin">Fynnjamin</a> (2011/2/11)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Language
+</th>
+<td>Italian / English
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Manuscript, n.d.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=92545">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=92545">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="92545">Javascript is required for this feature.</div><script>JGINITsearchbars['92545']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP118280-bononcini_griselda_song.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/95/823b0c639a0b1ab1cdd182efb95083e16ca2427c.png" width="120" height="auto" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP384717" class="we_file_first we_fileblock_7">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/384717"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/39/PMLP118280-Bono_aria.pdf" class="internal" title="PMLP118280-Bono aria.pdf">*</a></span><a href="/wiki/File:PMLP118280-Bono_aria.pdf" title="File:PMLP118280-Bono aria.pdf">#384717</a> - 3.87MB, 5 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-384717' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-384717'>
+	<a href='javascript:void(0)' id='384717' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='384717' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='384717' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='384717' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='384717' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-384717'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/384717/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/384717/Griselda (Bononcini, Giovanni)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 524"><a href="/wiki/Special:GetFCtrStats/@384717" title="Special:GetFCtrStats/@384717">524</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Schalltrichter" title="User:Schalltrichter">Schalltrichter</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://pbc.gda.pl/dlibra/collectiondescription"><span style="border-bottom:1px dotted black" title="Pomorska Biblioteka Cyfrowa">PBC</span></a></span><br />
+<a href="/wiki/User:Schalltrichter" title="User:Schalltrichter">Schalltrichter</a> (2015/7/5)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td>Mieczyslaw Horbowski
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Polish / Italian
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Warsaw: <a href="/wiki/Echo_Muzyczne" title="Echo Muzyczne">Echo Muzyczne (Rajchman &amp; Frender)</a><!--ASL0-->, 1886.  Plate R 3 F.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=384717">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=384717">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>all other items in the series <span class="plainlinks"><a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=1000001&amp;bd=0001886&amp;teil=0203&amp;seite=00000211&amp;zoom=1">Hofmeister's <i>Monatsbericht</i> (1886), p.211</a></span>
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="384717">Javascript is required for this feature.</div><script>JGINITsearchbars['384717']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=384717&type=Complete%20score&pgcount=5&signature=c882fb5ad14f037df8ea02a5e94173c956bb859b"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:Bono_frir_ww_cov.jpg" class="image"><img data-src="/images/thumb/3/33/Bono_frir_ww_cov.jpg/120px-Bono_frir_ww_cov.jpg" width="120" height="151" /></a></div></td></tr></table></div>
+<div class="we"><div id="IMSLP184508" class="we_file_first we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/184508"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Complete score</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1f/WIMA.8bc4-Per_la_gloria.pdf" class="internal" title="WIMA.8bc4-Per la gloria.pdf">*</a></span><a href="/wiki/File:WIMA.8bc4-Per_la_gloria.pdf" title="File:WIMA.8bc4-Per la gloria.pdf">#184508</a> - 0.04MB, 4 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-184508' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-184508'>
+	<a href='javascript:void(0)' id='184508' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='184508' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='184508' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='184508' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='184508' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-184508'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/184508/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/184508/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 5589"><a href="/wiki/Special:GetFCtrStats/@184508" title="Special:GetFCtrStats/@184508">5589</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (2012/3/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP184509" class="we_file we_fileblock_8">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/184509"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Engraving files (Encore)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/88/WIMA.c3af-Per_la_gloria.zip" class="internal" title="WIMA.c3af-Per la gloria.zip">*</a></span><a href="/wiki/File:WIMA.c3af-Per_la_gloria.zip" title="File:WIMA.c3af-Per la gloria.zip">#184509</a> - 0.01MB,&#160;? pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-184509' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-184509'>
+	<a href='javascript:void(0)' id='184509' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='184509' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='184509' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='184509' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='184509' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-184509'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/184509/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/184509/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1196"><a href="/wiki/Special:GetFCtrStats/@184509" title="Special:GetFCtrStats/@184509">1196</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">ZIP</a> typeset by editor<br />
+<a href="/wiki/User:Reccmo" title="User:Reccmo">Reccmo</a> (2012/3/6)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Depolo,_Sr%C4%91an" title="Category:Depolo, Srđan">Srđan Depolo</a>, keyboard reduction
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Srđan Depolo
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_Share_Alike_3.0" title="IMSLP:Creative Commons Attribution Non-commercial Share Alike 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial Share Alike 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=184508/184509">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=184508/184509">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>These file(s) are part of the <a href="/wiki/Category:WIMA_files" title="Category:WIMA files">Werner Icking Music Collection</a>.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="184508">Javascript is required for this feature.</div><script>JGINITsearchbars['184508']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:WIMA.8bc4-Per_la_gloria.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/1f/978884f4efb40d516b2f6d8c4fa8313d387099b2.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Vocal Scores" data-tabid="tabScore2"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans"><h3 class="nojs"> <span class="mw-headline" id="Arrangements_and_Transcriptions">Arrangements and Transcriptions</span></h3>
+<h4> <span class="mw-headline" id="Aria:_Per_la_gloria_d.27adorarvi_.28Act_II.29_2">Aria: Per la gloria d'adorarvi (Act II)</span></h4>
+<h5> <span class="mw-headline" id="For_Tenor_solo_.28Tribuzio.29">For Tenor solo (Tribuzio)</span></h5>
+<div class="we"><div id="IMSLP152950" class="we_file_first we_fileblock_9">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/152950"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Solo voice part (for tenor)</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/1/1d/PMLP118280-variazioni_da_capo.mus.pdf" class="internal" title="PMLP118280-variazioni da capo.mus.pdf">*</a></span><a href="/wiki/File:PMLP118280-variazioni_da_capo.mus.pdf" title="File:PMLP118280-variazioni da capo.mus.pdf">#152950</a> - 0.03MB, 1 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-152950' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-152950'>
+	<a href='javascript:void(0)' id='152950' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='152950' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='152950' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='152950' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='152950' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-152950'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/152950/Griselda_(Bononcini,_Giovanni)" title="Special:IMSLPEditCTag/152950/Griselda (Bononcini, Giovanni)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 2259"><a href="/wiki/Special:GetFCtrStats/@152950" title="Special:GetFCtrStats/@152950">2259</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Driante" title="User:Driante">arranger</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by arranger<br />
+<a href="/wiki/User:Driante" title="User:Driante">arranger</a> (2011/11/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Arranger
+</th>
+<td>Giovanni Tribuzio
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Giovanni Tribuzio
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Creative_Commons_Attribution_Non-commercial_3.0" title="IMSLP:Creative Commons Attribution Non-commercial 3.0" class="mw-redirect">Creative Commons Attribution Non-commercial 3.0</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=152950">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=152950">del</a>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>Variations composed by Tribuzio
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="152950">Javascript is required for this feature.</div><script>JGINITsearchbars['152950']={};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:PMLP118280-variazioni_da_capo.mus.pdf" class="image"><img data-src="//cdn.imslp.org/images/thumb/pdfs/1d/75fba11e376acfd9233abb200076a25cd7514f89.png" width="120" height="auto" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="score" data-name="Other" data-tabid="tabScore5"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore6">
+<p><span class="na-marker" id="na-tabScore6" data-type="source" data-name="Source Files" data-tabid="tabScore6"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Griselda
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">An Opera as it is perform'd at the King's Theatre for the Royal Academy.
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Bononcini,_Giovanni" title="Category:Bononcini, Giovanni">Bononcini, Giovanni</a>
+</td></tr>
+<tr>
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>IGB 40
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>3 Acts
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>1722-02-22 in London: King's Theatre in the Haymarket
+</td></tr>
+<tr>
+<th>Librettist
+</th>
+<td><a href="/wiki/Category:Zeno,_Apostolo" title="Category:Zeno, Apostolo">Apostolo Zeno</a> (1669–1750)<br /><a href="/wiki/Category:Rolli,_Paolo_Antonio" title="Category:Rolli, Paolo Antonio">Paolo Antonio Rolli</a> (1687–1765)
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>Italian
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>voices, orchestra
+</td></tr>
+<tr>
+<th>External Links
+</th>
+<td><a href="http://en.wikipedia.org/wiki/Griselda_(Giovanni_Bononcini)" class="extiw" title="wikipedia:Griselda (Giovanni Bononcini)">Wikipedia article</a>
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1059/1000000
+Post-expand include size: 79003/2097152 bytes
+Template argument size: 544/2097152 bytes
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:118280-0!*!0!!en!2!* and timestamp 20180414095054 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Griselda_(Bononcini,_Giovanni)&amp;oldid=2234386">http://imslp.org/index.php?title=Griselda_(Bononcini,_Giovanni)&amp;oldid=2234386</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:WIMA_files" title="Category:WIMA files">WIMA files</a></li><li><a href="/wiki/Category:Walsh,_John/Editor" title="Category:Walsh, John/Editor">Walsh, John/Editor</a></li><li><a href="/wiki/Category:Kingfisher/Editor" title="Category:Kingfisher/Editor">Kingfisher/Editor</a></li><li><a href="/wiki/Category:Hettich,_Am%C3%A9d%C3%A9e-Land%C3%A9ly/Editor" title="Category:Hettich, Amédée-Landély/Editor">Hettich, Amédée-Landély/Editor</a></li><li><a href="/wiki/Category:Scores_from_Musik-_och_teaterbiblioteket" title="Category:Scores from Musik- och teaterbiblioteket">Scores from Musik- och teaterbiblioteket</a></li><li><a href="/wiki/Category:Manuscripts" title="Category:Manuscripts">Manuscripts</a></li><li><a href="/wiki/Category:Scores_from_Pomeranian_Digital_Library" title="Category:Scores from Pomeranian Digital Library">Scores from Pomeranian Digital Library</a></li><li><a href="/wiki/Category:Scores_published_by_Echo_Muzyczne" title="Category:Scores published by Echo Muzyczne">Scores published by Echo Muzyczne</a></li><li><a href="/wiki/Category:Depolo,_Sr%C4%91an/Arranger" title="Category:Depolo, Srđan/Arranger">Depolo, Srđan/Arranger</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Bononcini,_Giovanni" title="Category:Bononcini, Giovanni">Bononcini, Giovanni</a></li><li><a href="/wiki/Category:Baroque_style" title="Category:Baroque style">Baroque style</a></li><li><a href="/wiki/Category:Baroque" title="Category:Baroque">Baroque</a></li><li><a href="/wiki/Category:Operas" title="Category:Operas">Operas</a></li><li><a href="/wiki/Category:Theatrical_Works" title="Category:Theatrical Works">Theatrical Works</a></li><li><a href="/wiki/Category:For_voices,_orchestra" title="Category:For voices, orchestra">For voices, orchestra</a></li><li><a href="/wiki/Category:Scores_featuring_the_voice" title="Category:Scores featuring the voice">Scores featuring the voice</a></li><li><a href="/wiki/Category:Scores_featuring_the_orchestra" title="Category:Scores featuring the orchestra">Scores featuring the orchestra</a></li><li><a href="/wiki/Category:For_voices_with_orchestra" title="Category:For voices with orchestra">For voices with orchestra</a></li><li><a href="/wiki/Category:Italian_language" title="Category:Italian language">Italian language</a></li><li><a href="/wiki/Category:For_1_voice_(arr)" title="Category:For 1 voice (arr)">For 1 voice (arr)</a></li><li><a href="/wiki/Category:For_unaccompanied_voices" title="Category:For unaccompanied voices">For unaccompanied voices</a></li><li><a href="/wiki/Category:Scores_featuring_the_tenor_voice" title="Category:Scores featuring the tenor voice">Scores featuring the tenor voice</a></li><li><a href="/wiki/Category:Pages_with_arrangements" title="Category:Pages with arrangements">Pages with arrangements</a></li><li><a href="/wiki/Category:Pages_with_parts_for_purchase" title="Category:Pages with parts for purchase">Pages with parts for purchase</a></li><li><a href="/wiki/Category:Operas_first_performed_at_Theatre_in_the_Haymarket" title="Category:Operas first performed at Theatre in the Haymarket">Operas first performed at Theatre in the Haymarket</a></li><li><a href="/wiki/Category:Operas_first_performed_in_1722" title="Category:Operas first performed in 1722">Operas first performed in 1722</a></li><li><a href="/wiki/Category:Zeno,_Apostolo/Librettist" title="Category:Zeno, Apostolo/Librettist">Zeno, Apostolo/Librettist</a></li><li><a href="/wiki/Category:Rolli,_Paolo_Antonio/Librettist" title="Category:Rolli, Paolo Antonio/Librettist">Rolli, Paolo Antonio/Librettist</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Griselda_%28Bononcini%2C_Giovanni%29">8,088 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Griselda%20%28Bononcini%2C%20Giovanni%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.516 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414095054 -->
+</html>
+		

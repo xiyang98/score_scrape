@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Le trésor des pianistes (Farrenc, Aristide) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/android-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="IMSLP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//imslp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<link rel="alternate" type="application/atom+xml" title="IMSLP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiForum%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.bootstrapmediawiki&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick.css" />
+<link rel="stylesheet" href="/extensions/Slick/slick-theme.css" />
+<link rel="stylesheet" href="/extensions/common/jscss/flexigrid.css?18.6.10" />
+<link rel="stylesheet" href="/extensions/common/jscss/IMSLPMisc.css?18.6.10" />
+<link rel="stylesheet" href="/skins/bootstrap-mediawiki/submenu/css/bootstrap-submenu.min.css?303" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=bootstrap-mediawiki&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: imslp_wiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Le_trésor_des_pianistes_(Farrenc,_Aristide)", "wgTitle": "Le trésor des pianistes (Farrenc, Aristide)", "wgCurRevisionId": 2558149, "wgArticleId": 446355, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Scores from the Internet Archive", "Scores from Bayerische Staatsbibliothek", "Farrenc, Aristide/Editor", "Farrenc, Louise/Editor", "Scores", "Farrenc, Aristide/Collections", "Classical style", "Romantic", "Pieces", "For piano", "Scores featuring the piano", "For 1 player", "For harpsichord", "Scores featuring the harpsichord", "Works first published in 1861", "Works first published in the 19th century", "Albrechtsberger, Johann Georg/Collections", "Collections", "D\'Anglebert, Jean-Henri/Collections", "Bach, Carl Philipp Emanuel/Collections", "Bach, Johann Christian/Collections", "Bach, Johann Christoph Friedrich/Collections", "Bach, Johann Sebastian/Collections", "Bach, Wilhelm Friedemann/Collections", "Beethoven, Ludwig van/Collections", "Benda, Georg/Collections", "Bull, John/Collections", "Buttstedt, Franz Vollrath/Collections", "Byrd, William/Collections", "Chambonnières, Jacques Champion de/Collections", "Chopin, Frédéric/Collections", "Clementi, Muzio/Collections", "Couperin, François/Collections", "Couperin, Louis/Collections", "Cramer, Johann Baptist/Collections", "Crofurd/Collections", "Dandrieu, Jean-François/Collections", "Daquin, Louis-Claude/Collections", "Du Phly, Jacques/Collections", "Durante, Francesco/Collections", "Dussek, Jan Ladislav/Collections", "Eberlin, Johann Ernst/Collections", "Fasch, Karl Friedrich Christian/Collections", "Frescobaldi, Girolamo/Collections", "Froberger, Johann Jacob/Collections", "Gibbons, Orlando/Collections", "Goldberg, Johann Gottlieb/Collections", "Handel, George Frideric/Collections", "Hässler, Johann Wilhelm/Collections", "Haydn, Joseph/Collections", "Hummel, Johann Nepomuk/Collections", "Kerll, Johann Caspar/Collections", "Kirnberger, Johann Philipp/Collections", "Krebs, Johann Ludwig/Collections", "Kuhnau, Johann/Collections", "Lebègue, Nicolas/Collections", "Lindeman, Ole Andreas/Collections", "Marcello, Benedetto/Collections", "Martini, Giovanni Battista/Collections", "Mattheson, Johann/Collections", "Mendelssohn, Felix/Collections", "Merulo, Claudio/Collections", "Mozart, Wolfgang Amadeus/Collections", "Muffat, Georg/Collections", "Muffat, Gottlieb/Collections", "Nichelmann, Christoph/Collections", "Paradies, Pietro Domenico/Collections", "Pasquini, Bernardo/Collections", "Pescetti, Giovanni Battista/Collections", "Porpora, Nicola Antonio/Collections", "Purcell, Henry/Collections", "Rameau, Jean-Philippe/Collections", "Ries, Ferdinand/Collections", "Scarlatti, Alessandro/Collections", "Scarlatti, Domenico/Collections", "Schaffrath, Christoph/Collections", "Schwanenberger, Johann Gottfried/Collections", "Smith, John Christopher/Collections", "Steibelt, Daniel/Collections", "Telemann, Georg Philipp/Collections", "Weber, Carl Maria von/Collections", "Wernicke, Israel Gottlieb/Collections", "Zipoli, Domenico/Collections"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "userIsMember": false});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Le_trésor_des_pianistes_Farrenc_Aristide action-view skin-bootstrap-mediawiki">
+<script>if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{"js-a1":"e-mail address","js-a2":"or","js-a3":"existing IMSLP account name","js-a4":"15","js-b":"e-mail address (required)","js-b1":"E-mail Address","js-c":"IMSLP account name (optional)","js-c1":"IMSLP Account Name","js-d":"Purchase","js-e":"`1 Year`7 `2 Months: $`3.`4 per month, $`5.`6 total.","js-f":"composer category name","js-g":"Please select a composer.","js-h":"Composer category does not exist.","js-i":"Unable to get composer birth year.","js-j":"Composer must have been born more than 10 years ago.","js-k":"Composer: `1, Born: `2, Subscription Period: `3 Years, $`4.`5 total.","js-l":"Invalid e-mail address.","js-m":"No e-mail address provided.","js-n":"No e-mail address or user name provided.","js-o":"This is a `1gift subscription`2.","js-p":"Number of gift subscriptions:","js-q":"Invalid number of gift certificates.","js-r":"Your download will continue in `1 seconds...","js-s":"Click here to continue your download.","js-t":"This user is already a member.  Do you want to continue and add to the membership period?","js-u":"Internal server error.","js-v":"No composer selected.","js-w":"become a member","usegift":"1","pplc":"","unlocknav":"Unlock toolbars","locknav":"Lock toolbars","creditcard":"Credit card","paypal":"PayPal","membdesc":"Membership ($22 per year)","subscribe":"Subscribe","top10below":"Top 10 results below","naxosmoreres":"more results","chgkeyw":"change","naxossearchkey":"Search key:","newfile":"This is a newly submitted file that is available to members only.","memblogin":"Are you a member?  Please <a href=\"\/index.php?title=Special:Userlogin&returnto=`1\">sign in<\/a>.","removead":"remove ad","addsheetmusic":"Add Sheet Music","yourownarrangement":"Your Own Arrangement","yourowncomposition":"Your Own Composition","yourownedition":"Your Own Edition","recording":"Recording","addfile":"Add File","addwork":"Add Work","membershipstatus":"Membership status","purchasemembership":"Purchase membership","searchimslpsite":"Search IMSLP site","searchbyimslpindex":"Search by IMSLP index","searchnaxosmusiclibrary":"Search Naxos Music Library","js-cont":"cont.","js-noprevious":"no previous","js-previous":"previous `1","js-nonext":"no next","js-next":"next `1","js-fcs":"Search category...","addscan":"Add Scan","addmanuscript":"Add Manuscript","newcomposition":"New Composition","newarrangement":"New Arrangement","newedition":"New Edition","updatecard":"Update Credit Card","confirmremovecc":"Please confirm credit card removal, all renewing subscriptions will be automatically cancelled.","alipay":"Alipay","dontexpandfileentries":"Don't expand file entries","expandfileentries":"Expand file entries"});</script><script>IMSLPTOCMsg="Contents";</script>		<script src="/skins/bootstrap-mediawiki/submenu/js/bootstrap-submenu.min.js"></script>
+		<div class="navbar navbar-default navbar-fixed-top " id="bs-top-navbar" role="navigation">
+				<div class="container">
+					<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+					<div class="navbar-header">
+						<button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+														<select id="subnav-select">
+								<option selected disabled hidden>Navigation</option><optgroup label=" Navigation"><option value='/wiki/Main_Page'><i class="fa fa-home"></i> Main Page</option><option value='/wiki/Special:RecentChanges'><i class="fa fa-edit"></i> Recent changes</option><option value='/wiki/Special:Random'><i class="fa fa-random"></i> Random page</option><option value='/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup'><i class="fa fa-headphones"></i> Naxos Music Library</option></optgroup><optgroup label=" Scores"><option value='/wiki/Category:Composers'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:People'><i class="fa fa-users"></i> All people</option><option value='/wiki/Category:People_by_nationality'><i class="fa fa-globe"></i> Nationality</option><option value='/wiki/Browse_people_by_time_period'><i class="fa fa-calendar"></i> Time period</option><option value='/wiki/IMSLP:View_Genres'><i class="fa fa-list-ul"></i> Instrumentation/Genre</option><option value='/wiki/Category:WIMA_files'><i class="fa fa-files-o"></i> WIMA collection</option></optgroup><optgroup label=" Recordings"><option value='http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings'><i class="fa fa-pencil"></i> Composers</option><option value='/wiki/Category:Performers'><i class="fa fa-users"></i> Performer name</option></optgroup><optgroup label=" Participate"><option value='/wiki/IMSLP:Contributor_Portal'>Contributor portal</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4'>Recent discussions</option><option value='http://imslpforums.org'>Forums</option><option value='/wiki/IMSLP:IRC_Access'>Live Chat (IRC)</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:FAQ'>FAQ</option><option value='/wiki/Help:Contents'>Help</option></optgroup><optgroup label=" Other"><option value='http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts'>Purchase from IMSLP</option><option value='/wiki/IMSLP:Subscriptions'>Purchase membership</option><option value='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php'>Donate</option><option value='/wiki/IMSLP:Site_support'>Supporting IMSLP</option><option value='/wiki/IMSLP:Sponsored_Composers'>Sponsored people</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Jobs'>Jobs</option><option value='/wiki/IMSLP:About'>About</option><option value='' disabled='disabled' class='unclickable'>----</option>
+<option value='/wiki/IMSLP:Select_Language'>Select language</option><option value='/wiki/Special:Upload'>Upload picture</option><option value='/wiki/IMSLP:Sitemap'>Sitemap</option><option value='/wiki/IMSLP:Privacy_policy'>Privacy policy</option><option value='/wiki/IMSLP:General_disclaimer'>Disclaimers</option></optgroup>								</select>
+														<a class="navbar-brand" href="/wiki/Main_Page" title="IMSLP"><img src='/imslp.png' alt='Logo'/></a>
+					</div>
+
+					<div class="collapse navbar-collapse" id="bs-mobile-nav">					<ul class="nav navbar-nav" id="page-dropdown"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><span class="icon icon11"></span> Page <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" class='nddm selected'><i class="fa fa-file"></i> Page</a><li ><a href="/index.php?title=Special:WikiForum&amp;forum=1&amp;page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29" class='nddm '><i class="fa fa-comment"></i> Discuss this piece (0)</a><li ><a href="http://imslpforums.org/viewforum.php?f=37" class='nddm '><i class="fa fa-bug"></i> Report issue</a><li ><a href="/index.php?title=Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)&amp;action=edit" class='nddm '><i class="fa fa-file-code-o"></i> View source</a><li ><a href="/index.php?title=Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)&amp;action=history" class='nddm '><i class="fa fa-clock-o"></i> History</a><li class='divider'></li>
+<li ><a href="/wiki/Special:WhatLinksHere/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" class='nddm '><i class="fa fa-link"></i> What links here</a><li ><a href="/wiki/Special:RecentChangesLinked/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" class='nddm '><i class="fa fa-arrows-h"></i> Related changes</a><li ><a href="/index.php?title=Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)&amp;printable=yes" class='nddm '><i class="fa fa-print"></i> Printable version</a><li ><a href="/index.php?title=Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)&amp;oldid=2558149" class='nddm '><i class="fa fa-anchor"></i> Permanent link</a></ul></li></ul><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown" data-submenu><span class="icon icon3"></span> Add File <b class="caret"></b></a><ul class="dropdown-menu "><li class="dropdown-submenu"><a class="nddm"><span class="icon icon135"></span> Add Scan</b></a><ul class="dropdown-menu "><span id='wpdd_addscan'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon145"></span> Add Manuscript</b></a><ul class="dropdown-menu "><span id='wpdd_addmanu'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon144"></span> New Composition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewcomp'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon155"></span> New Arrangement</b></a><ul class="dropdown-menu "><span id='wpdd_addnewarr'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon164"></span> New Edition</b></a><ul class="dropdown-menu "><span id='wpdd_addnewed'></span></ul></li><li class="dropdown-submenu"><a class="nddm"><span class="icon icon129"></span> Recording</b></a><ul class="dropdown-menu "><span id='wpdd_addrec'></span></ul></li></ul></li>						</ul>					<ul class="nav navbar-nav navbar-right" id="logindd">
+						<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown">Log in <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/index.php?title=Special:UserLogin&amp;returnto=Le%20tr%C3%A9sor%20des%20pianistes%20%28Farrenc%2C%20Aristide%29" class='nddm '><i class="fa fa-sign-in"></i> Log in</a><li ><a onclick='return false;' class='nddm navbarlockitem'>navbarlockitem</a><li ><a onclick='return false;' class='nddm navbarexpfileent'>navbarexpfileent</a></ul></li>					</ul><ul class="nav navbar-nav navbar-right"><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-search" id="imslp-search-icon"></i> <b class="caret"></b></a><ul class="dropdown-menu nopullup"><li ><a onclick='return changeSearch(1);' class='nddm '><i class="fa fa-search"></i> Search IMSLP site</a><li ><a onclick='return changeSearch(2);' class='nddm '><i class="fa fa-hashtag"></i> Search by IMSLP index</a><li ><a onclick='return changeSearch(3);' class='nddm '><i class="fa fa-headphones"></i> Search Naxos Music Library</a></ul></li>					</ul><form class="navbar-search navbar-form navbar-right" onsubmit="return doSearch();">
+						<div>
+							<input class="form-control" placeholder="Search" title="Search [ctrl-option-f]" accesskey="f" id="searchInput" autocomplete="off">
+						</div>
+					</form>
+					</div>
+				</div>
+		</div><!-- topbar -->
+					<div class="subnav subnav-fixed" id="bs-top-subnav">
+				<div class="container">
+					<ul class="nav nav-pills">
+					<li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-bars"></i> Navigation <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Main_Page" class='nddm '><i class="fa fa-home"></i> Main Page</a><li ><a href="/wiki/Special:RecentChanges" class='nddm '><i class="fa fa-edit"></i> Recent changes</a><li ><a href="/wiki/Special:Random" class='nddm '><i class="fa fa-random"></i> Random page</a><li ><a href="/wiki/Special:MembRedir/IMSLP:Naxos/IMSLP:NaxosSignup" class='nddm '><i class="fa fa-headphones"></i> Naxos Music Library</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-book"></i> Scores <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/Category:Composers" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:People" class='nddm '><i class="fa fa-users"></i> All people</a><li ><a href="/wiki/Category:People_by_nationality" class='nddm '><i class="fa fa-globe"></i> Nationality</a><li ><a href="/wiki/Browse_people_by_time_period" class='nddm '><i class="fa fa-calendar"></i> Time period</a><li ><a href="/wiki/IMSLP:View_Genres" class='nddm '><i class="fa fa-list-ul"></i> Instrumentation/Genre</a><li ><a href="/wiki/Category:WIMA_files" class='nddm '><i class="fa fa-files-o"></i> WIMA collection</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-microphone"></i> Recordings <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:People_with_recordings&amp;memberitst=Recordings" class='nddm '><i class="fa fa-pencil"></i> Composers</a><li ><a href="/wiki/Category:Performers" class='nddm '><i class="fa fa-users"></i> Performer name</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-child"></i> Participate <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="/wiki/IMSLP:Contributor_Portal" class='nddm '>Contributor portal</a><li class='divider'></li>
+<li ><a href="http://imslp.org/index.php?title=Special:WikiForumNext/recent-discussions//1/4" class='nddm '>Recent discussions</a><li ><a href="http://imslpforums.org" class='nddm '>Forums</a><li ><a href="/wiki/IMSLP:IRC_Access" class='nddm '>Live Chat (IRC)</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:FAQ" class='nddm '>FAQ</a><li ><a href="/wiki/Help:Contents" class='nddm '>Help</a></ul></li><li class="dropdown"><a class="dropdown-toggle nddm" data-toggle="dropdown"><i class="fa fa-asterisk"></i> Other <b class="caret"></b></a><ul class="dropdown-menu "><li ><a href="http://imslp.org/index.php?title=Category:Pages_with_parts_for_purchase&amp;simplesubcat=1&amp;launchtab=parts" class='nddm '>Purchase from IMSLP</a><li ><a href="/wiki/IMSLP:Subscriptions" class='nddm '>Purchase membership</a><li ><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Petrucci205%40yahoo.com&amp;item_name=IMSLP+%2F+Petrucci+Music+Library&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP-DonationsBF&amp;charset=UTF-8&amp;notify_url=http%3A%2F%2Fimslp.org%2Fimslpscripts%2Fshop%2FPPDonationsIPN.ISCR.php" class='nddm '>Donate</a><li ><a href="/wiki/IMSLP:Site_support" class='nddm '>Supporting IMSLP</a><li ><a href="/wiki/IMSLP:Sponsored_Composers" class='nddm '>Sponsored people</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Jobs" class='nddm '>Jobs</a><li ><a href="/wiki/IMSLP:About" class='nddm '>About</a><li class='divider'></li>
+<li ><a href="/wiki/IMSLP:Select_Language" class='nddm '>Select language</a><li ><a href="/wiki/Special:Upload" class='nddm '>Upload picture</a><li ><a href="/wiki/IMSLP:Sitemap" class='nddm '>Sitemap</a><li ><a href="/wiki/IMSLP:Privacy_policy" class='nddm '>Privacy policy</a><li ><a href="/wiki/IMSLP:General_disclaimer" class='nddm '>Disclaimers</a></ul></li>					</ul>
+				</div>
+			</div>
+					<div id="wiki-outer-body">
+			<div id="wiki-body" class="container">
+								<span id='mw-js-message-wrapper'></span>
+												
+				<h1 id="firstHeading" class="firstHeading pagetitle page-header">
+					Le trésor des pianistes (Farrenc, Aristide)				</h1>	
+
+				<div class="body"><div lang="en" dir="ltr" class="mw-content-ltr"><div class="wp_header">
+<table>
+<table>
+
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>23 volumes
+</td></tr>
+<tr>
+<th>First Publication
+</th>
+<td>1861-72
+</td></tr>
+<tr>
+<th>Genre Categories<span class="addpagetag mh555"></span>
+</th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Pieces&amp;transclude=Template:Catintro">Pieces</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_piano&amp;transclude=Template:Catintro">For piano</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_piano&amp;transclude=Template:Catintro">Scores featuring the piano</a></span>; <span class="expandline" title="3 more..."><span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_1_player&amp;transclude=Template:Catintro">For 1 player</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:For_harpsichord&amp;transclude=Template:Catintro">For harpsichord</a></span>; <span class="plainlinks"><a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Category:Scores_featuring_the_harpsichord&amp;transclude=Template:Catintro">Scores featuring the harpsichord</a></span></span>
+</td></tr></table>
+<tr><td></td></tr></table><div style="display:none"><script>JGINITadjhead={"type":1,"worktitle":"Le tr\u00e9sor des pianistes","composer":"Farrenc, Aristide","comphref":"\/wiki\/Category:Farrenc,_Aristide"};JGINITsearchbars={};JGWPPBdefault={"cd":false,"score":true,"amarec":"le tresor des pianistes","itunes":"le tresor des pianistes","composer":"farrenc","scorekeywords":"le tresor des pianistes","pelink":false,"scoreopts":[],"isbn":false};JGBSPartsnum=0;JGBSAccompnum=0;JGNaxosSearch=false;IMSLPNaxosSearch="farrenc le tresor des pianistes";JGaskdonation=0;JGFileTools={"274838":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274838"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274838"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274838"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274838"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274838"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274838"}},"274839":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274839"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274839"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274839"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274839"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274839"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274839"}},"274840":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274840"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274840"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274840"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274840"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274840"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274840"}},"274841":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274841"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274841"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274841"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274841"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274841"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274841"}},"274842":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274842"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274842"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274842"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274842"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274842"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274842"}},"274843":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274843"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274843"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274843"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274843"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274843"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274843"}},"274844":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274844"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274844"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274844"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274844"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274844"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274844"}},"274847":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274847"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274847"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274847"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274847"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274847"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274847"}},"274848":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274848"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274848"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274848"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274848"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274848"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274848"}},"274849":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274849"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274849"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274849"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274849"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274849"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274849"}},"274851":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274851"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274851"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274851"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274851"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274851"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274851"}},"274852":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274852"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274852"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274852"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274852"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274852"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274852"}},"274853":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274853"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274853"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274853"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274853"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274853"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274853"}},"274854":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274854"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274854"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274854"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274854"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274854"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274854"}},"274855":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274855"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274855"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274855"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274855"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274855"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274855"}},"274856":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274856"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274856"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274856"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274856"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274856"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274856"}},"274857":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274857"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274857"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274857"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274857"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274857"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274857"}},"274858":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274858"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274858"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274858"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274858"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274858"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274858"}},"274859":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274859"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274859"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274859"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274859"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274859"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274859"}},"274860":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=274860"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP274860"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=274860"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/274860"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/274860"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23274860"}},"423362":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=423362"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP423362"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=423362"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/423362"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/423362"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23423362"}},"408465":{"010-EXPTS":{"icon":55,"label":"Extract parts","onclick":"http:\/\/partifi.org\/?imslp=408465"},"019-SIMILAR":{"icon":6,"label":"Find similar scores","onclick":"http:\/\/www.peachnote.com\/similarity.html?scoreId=IMSLP408465"},"020-PE":{"icon":153,"label":"Order a printed copy","onclick":"http:\/\/performersedition.com\/imslp_in.php?document=408465"},"022-PROCFILE":{"icon":196,"label":"Request PDF processing","onclick":"\/wiki\/Special:GM\/reqpdfproc\/408465"},"025-PERMLINK":{"icon":119,"label":"File permlink","onclick":{"type":"prompt","text":"Permlink to file (copy text below)","value":"https:\/\/imslp.org\/wiki\/Special:ReverseLookup\/408465"}},"030-DISCFILE":{"icon":42,"label":"Discuss this file (0)","onclick":"\/index.php?title=Special:WikiForum&writethread=1&page_assoc=Le+tr%C3%A9sor+des+pianistes+%28Farrenc%2C+Aristide%29&frmTitle=IMSLP+%23408465"}}};JGFileOpts={"274838":[],"274839":[],"274840":[],"274841":[],"274842":[],"274843":[],"274844":[],"274847":[],"274848":[],"274849":[],"274851":[],"274852":[],"274853":[],"274854":[],"274855":[],"274856":[],"274857":[],"274858":[],"274859":[],"274860":[],"423362":[],"408465":[]};JGPageUntagged=false;JGPageTags=["pieces","pf","hpd"];JGExtlib={"unl":{"title":"University of Nebraska-Lincoln","handletext":"URL fragment","dataprompt":"opera\/id\/"}};wpTabsShouldShow={"recordings":{"tabAudio1":true,"tabAudio2":true,"tabAudio3":true,"*":true,"\/":false},"scores":{"tabScore1":false,"tabScore2":true,"tabArrTrans":true,"tabScore4":true,"tabScore5":true,"*":false,"\/":0}};wpTitleLegalChars=" %!\"$&'()*,\\-.\\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+";IMSLPWorkpageTabs={"arrangements":["Arrangements and Transcriptions"],"recordings":["Recordings","Accompaniments","Synthesized\/MIDI"],"scores":["Scores","Parts","Arrangements and Transcriptions","Other","Source Files"]};if(typeof IMSLPMsg=='undefined')IMSLPMsg={};$.extend(IMSLPMsg,{});IMSLPRatings={"274838":[9,"4"],"274844":[7,"2"],"274839":[0,0],"274840":[0,0],"274841":[0,0],"274842":[0,0],"274843":[0,0],"274847":[0,0],"274848":[0,0],"274849":[0,0],"274851":[0,0],"274852":[0,0],"274853":[0,0],"274854":[0,0],"274855":[0,0],"274856":[0,0],"274857":[0,0],"274858":[0,0],"274859":[0,0],"274860":[0,0],"423362":[0,0],"408465":[0,0]};</script><script>localStorage.setItem("IMSLPcommerceshutdown",JSON.stringify({value:null,exptime:false}))</script></div>
+</div><span id="wpaudiosection" style="display:none">
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Performances"><span class="tocnumber">1</span> <span class="toctext">Performances</span></a></li>
+<li class="toclevel-1"><a href="#Sheet_Music"><span class="tocnumber">2</span> <span class="toctext">Sheet Music</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Scores"><span class="tocnumber">2.1</span> <span class="toctext">Scores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Information"><span class="tocnumber">3</span> <span class="toctext">General Information</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Performances">Performances</span></h2>
+<div id="wpaudio_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabAudio1_tab" style="display:none"><b><a href="#tabAudio1">Recordings (<span id="tabAudio1_ct">0</span>)</a></b></li><li id="tabAudio2_tab" style="display:none"><b><a href="#tabAudio2">Accompaniments (<span id="tabAudio2_ct">0</span>)</a></b></li><li id="tabAudio3_tab" style="display:none"><b><a href="#tabAudio3">Synthesized/MIDI (<span id="tabAudio3_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabAudio1">
+<p><span class="na-marker" id="na-tabAudio1" data-type="audio" data-name="Recordings" data-tabid="tabAudio1"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio2">
+<p><span class="na-marker" id="na-tabAudio2" data-type="audio" data-name="Accompaniments" data-tabid="tabAudio2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabAudio3">
+<p><span class="na-marker" id="na-tabAudio3" data-type="audio" data-name="Synthesized/MIDI" data-tabid="tabAudio3"></span>
+</p>
+</div></div></span><span id="wpscoresection">
+<h2> <span class="mw-headline" id="Sheet_Music">Sheet Music</span></h2>
+<div id="wpscore_tabs" class="tabs"><ul class="jsonly" style="display:none"><li id="tabScore1_tab"><b><a href="#tabScore1">Scores (<span id="tabScore1_ct">22</span>)</a></b></li><li id="tabScore2_tab" style="display:none"><b><a href="#tabScore2">Parts (<span id="tabScore2_ct">0</span>)</a></b></li><li id="tabArrTrans_tab" style="display:none"><b><a href="#tabArrTrans">Arrangements and Transcriptions (<span id="tabArrTrans_ct">0</span>)</a></b></li><li id="tabScore4_tab" style="display:none"><b><a href="#tabScore4">Other (<span id="tabScore4_ct">0</span>)</a></b></li><li id="tabScore5_tab" style="display:none"><b><a href="#tabScore5">Source Files (<span id="tabScore5_ct">0</span>)</a></b></li></ul><div class="jq-ui-tabs" id="tabScore1"><h3 class="nojs"> <span class="mw-headline" id="Scores">Scores</span></h3>
+<div class="we"><div id="IMSLP274838" class="we_file_first we_fileblock_1">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274838"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 1</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/b/bf/PMLP446355-letrsordespian18611farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18611farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18611farr_bw.pdf" title="File:PMLP446355-letrsordespian18611farr bw.pdf">#274838</a> - 14.13MB, 356 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274838' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274838'>
+	<a href='javascript:void(0)' id='274838' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274838' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274838' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274838' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274838' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274838'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274838/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274838/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 979"><a href="/wiki/Special:GetFCtrStats/@274838" title="Special:GetFCtrStats/@274838">979</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18611farr#page/n17#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div class="we_file_more" id="we_file_more_1" data-block="1">
+<p><b>⇒ <u>21 more</u>:</b> Volume 2 • Volume 3 • Volume 4 • Volume 5 • Volume 6 • Volume 7 • Volume 8 • Volume 9 • Volume 10 • Volume 11 • Volume 12 • Volume 13 • Volume 14 • Volume 15 • Volume 16 • Volume 17 • Volume 18 • Volume 19 • Volume 20 • Volume 22 • Volume 23
+</p>
+</div><div id="IMSLP274839" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274839"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 2</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/0f/PMLP446355-letrsordespian18612farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18612farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18612farr_bw.pdf" title="File:PMLP446355-letrsordespian18612farr bw.pdf">#274839</a> - 13.44MB, 336 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274839' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274839'>
+	<a href='javascript:void(0)' id='274839' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274839' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274839' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274839' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274839' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274839'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274839/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274839/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 357"><a href="/wiki/Special:GetFCtrStats/@274839" title="Special:GetFCtrStats/@274839">357</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18612farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274840" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274840"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 3</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/3e/PMLP446355-letrsordespian1862farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian1862farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian1862farr_bw.pdf" title="File:PMLP446355-letrsordespian1862farr bw.pdf">#274840</a> - 14.47MB, 320 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274840' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274840'>
+	<a href='javascript:void(0)' id='274840' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274840' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274840' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274840' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274840' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274840'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274840/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274840/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 292"><a href="/wiki/Special:GetFCtrStats/@274840" title="Special:GetFCtrStats/@274840">292</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian1862farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274841" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274841"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 4</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/2/2f/PMLP446355-letrsordespian18634farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18634farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18634farr_bw.pdf" title="File:PMLP446355-letrsordespian18634farr bw.pdf">#274841</a> - 16.63MB, 336 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274841' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274841'>
+	<a href='javascript:void(0)' id='274841' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274841' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274841' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274841' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274841' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274841'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274841/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274841/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 261"><a href="/wiki/Special:GetFCtrStats/@274841" title="Special:GetFCtrStats/@274841">261</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18634farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274842" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274842"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 5</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/72/PMLP446355-letrsordespian18635farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18635farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18635farr_bw.pdf" title="File:PMLP446355-letrsordespian18635farr bw.pdf">#274842</a> - 13.51MB, 296 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274842' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274842'>
+	<a href='javascript:void(0)' id='274842' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274842' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274842' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274842' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274842' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274842'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274842/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274842/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 254"><a href="/wiki/Special:GetFCtrStats/@274842" title="Special:GetFCtrStats/@274842">254</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18635farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274843" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274843"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 6</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/80/PMLP446355-letrsordespian18636farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18636farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18636farr_bw.pdf" title="File:PMLP446355-letrsordespian18636farr bw.pdf">#274843</a> - 14.47MB, 358 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274843' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274843'>
+	<a href='javascript:void(0)' id='274843' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274843' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274843' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274843' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274843' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274843'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274843/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274843/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 260"><a href="/wiki/Special:GetFCtrStats/@274843" title="Special:GetFCtrStats/@274843">260</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18636farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274844" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274844"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 7</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/cb/PMLP446355-letrsordespian18647farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18647farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18647farr_bw.pdf" title="File:PMLP446355-letrsordespian18647farr bw.pdf">#274844</a> - 14.99MB, 342 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274844' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274844'>
+	<a href='javascript:void(0)' id='274844' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274844' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274844' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274844' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274844' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274844'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274844/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274844/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 252"><a href="/wiki/Special:GetFCtrStats/@274844" title="Special:GetFCtrStats/@274844">252</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18647farr#page/n9#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274847" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274847"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 8</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/6/63/PMLP446355-letrsordespian18648farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18648farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18648farr_bw.pdf" title="File:PMLP446355-letrsordespian18648farr bw.pdf">#274847</a> - 16.19MB, 324 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274847' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274847'>
+	<a href='javascript:void(0)' id='274847' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274847' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274847' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274847' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274847' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274847'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274847/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274847/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 239"><a href="/wiki/Special:GetFCtrStats/@274847" title="Special:GetFCtrStats/@274847">239</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18648farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274848" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274848"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 9</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/96/PMLP446355-letrsordespian18659farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian18659farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian18659farr_bw.pdf" title="File:PMLP446355-letrsordespian18659farr bw.pdf">#274848</a> - 16.15MB, 364 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274848' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274848'>
+	<a href='javascript:void(0)' id='274848' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274848' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274848' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274848' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274848' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274848'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274848/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274848/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 253"><a href="/wiki/Special:GetFCtrStats/@274848" title="Special:GetFCtrStats/@274848">253</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian18659farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274849" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274849"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 10</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/5/57/PMLP446355-letrsordespian6610farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6610farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6610farr_bw.pdf" title="File:PMLP446355-letrsordespian6610farr bw.pdf">#274849</a> - 14.21MB, 332 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274849' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274849'>
+	<a href='javascript:void(0)' id='274849' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274849' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274849' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274849' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274849' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274849'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274849/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274849/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 244"><a href="/wiki/Special:GetFCtrStats/@274849" title="Special:GetFCtrStats/@274849">244</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6610farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274851" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274851"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 11</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/d/dc/PMLP446355-letrsordespian6611farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6611farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6611farr_bw.pdf" title="File:PMLP446355-letrsordespian6611farr bw.pdf">#274851</a> - 16.50MB, 340 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274851' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274851'>
+	<a href='javascript:void(0)' id='274851' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274851' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274851' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274851' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274851' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274851'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274851/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274851/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 248"><a href="/wiki/Special:GetFCtrStats/@274851" title="Special:GetFCtrStats/@274851">248</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6611farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274852" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274852"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 12</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9d/PMLP446355-letrsordespian6712farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6712farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6712farr_bw.pdf" title="File:PMLP446355-letrsordespian6712farr bw.pdf">#274852</a> - 15.46MB, 336 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274852' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274852'>
+	<a href='javascript:void(0)' id='274852' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274852' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274852' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274852' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274852' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274852'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274852/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274852/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 245"><a href="/wiki/Special:GetFCtrStats/@274852" title="Special:GetFCtrStats/@274852">245</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6712farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274853" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274853"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 13</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/3/34/PMLP446355-letrsordespian6813farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6813farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6813farr_bw.pdf" title="File:PMLP446355-letrsordespian6813farr bw.pdf">#274853</a> - 16.57MB, 324 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274853' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274853'>
+	<a href='javascript:void(0)' id='274853' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274853' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274853' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274853' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274853' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274853'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274853/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274853/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 250"><a href="/wiki/Special:GetFCtrStats/@274853" title="Special:GetFCtrStats/@274853">250</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6813farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274854" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274854"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 14</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/9c/PMLP446355-letrsordespian6814farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6814farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6814farr_bw.pdf" title="File:PMLP446355-letrsordespian6814farr bw.pdf">#274854</a> - 14.88MB, 342 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274854' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274854'>
+	<a href='javascript:void(0)' id='274854' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274854' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274854' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274854' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274854' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274854'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274854/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274854/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 232"><a href="/wiki/Special:GetFCtrStats/@274854" title="Special:GetFCtrStats/@274854">232</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6814farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274855" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274855"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 15</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/8/89/PMLP446355-letrsordespian6915farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6915farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6915farr_bw.pdf" title="File:PMLP446355-letrsordespian6915farr bw.pdf">#274855</a> - 14.98MB, 322 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274855' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274855'>
+	<a href='javascript:void(0)' id='274855' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274855' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274855' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274855' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274855' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274855'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274855/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274855/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 234"><a href="/wiki/Special:GetFCtrStats/@274855" title="Special:GetFCtrStats/@274855">234</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6915farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274856" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274856"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 16</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/70/PMLP446355-letrsordespian6916farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian6916farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian6916farr_bw.pdf" title="File:PMLP446355-letrsordespian6916farr bw.pdf">#274856</a> - 14.42MB, 308 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274856' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274856'>
+	<a href='javascript:void(0)' id='274856' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274856' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274856' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274856' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274856' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274856'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274856/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274856/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 235"><a href="/wiki/Special:GetFCtrStats/@274856" title="Special:GetFCtrStats/@274856">235</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian6916farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274857" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274857"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 17</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/e/e7/PMLP446355-letrsordespian7017farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian7017farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian7017farr_bw.pdf" title="File:PMLP446355-letrsordespian7017farr bw.pdf">#274857</a> - 14.55MB, 332 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274857' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274857'>
+	<a href='javascript:void(0)' id='274857' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274857' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274857' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274857' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274857' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274857'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274857/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274857/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 237"><a href="/wiki/Special:GetFCtrStats/@274857" title="Special:GetFCtrStats/@274857">237</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian7017farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274858" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274858"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 18</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/7/7d/PMLP446355-letrsordespian7018farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian7018farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian7018farr_bw.pdf" title="File:PMLP446355-letrsordespian7018farr bw.pdf">#274858</a> - 14.26MB, 320 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274858' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274858'>
+	<a href='javascript:void(0)' id='274858' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274858' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274858' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274858' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274858' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274858'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274858/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274858/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 229"><a href="/wiki/Special:GetFCtrStats/@274858" title="Special:GetFCtrStats/@274858">229</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian7018farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274859" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274859"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 19</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/a/ad/PMLP446355-letrsordespian7119farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian7119farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian7119farr_bw.pdf" title="File:PMLP446355-letrsordespian7119farr bw.pdf">#274859</a> - 15.68MB, 328 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274859' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274859'>
+	<a href='javascript:void(0)' id='274859' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274859' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274859' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274859' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274859' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274859'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274859/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274859/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 238"><a href="/wiki/Special:GetFCtrStats/@274859" title="Special:GetFCtrStats/@274859">238</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian7119farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP274860" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/274860"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 20</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/0/07/PMLP446355-letrsordespian7220farr_bw.pdf" class="internal" title="PMLP446355-letrsordespian7220farr bw.pdf">*</a></span><a href="/wiki/File:PMLP446355-letrsordespian7220farr_bw.pdf" title="File:PMLP446355-letrsordespian7220farr bw.pdf">#274860</a> - 14.71MB, 324 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-274860' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-274860'>
+	<a href='javascript:void(0)' id='274860' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='274860' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='274860' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='274860' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='274860' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-274860'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/274860/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/274860/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 374"><a href="/wiki/Special:GetFCtrStats/@274860" title="Special:GetFCtrStats/@274860">374</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="https://archive.org/stream/letrsordespian7220farr#page/n7#page/n0/mode/2up"><span style="border-bottom:1px dotted black" title="University of Ottawa">CDN-Ou</span></a></span><br />
+<a href="/wiki/User:Carolus" title="User:Carolus">Carolus</a> (<span title="Updated: 2013/3/27" class="hovertext">2013/3/26</span>)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP423362" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/423362"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 22</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/f/fa/PMLP446355-Le_tr%C3%A9sor_des_pianistes_22.pdf" class="internal" title="PMLP446355-Le trésor des pianistes 22.pdf">*</a></span><a href="/wiki/File:PMLP446355-Le_tr%C3%A9sor_des_pianistes_22.pdf" title="File:PMLP446355-Le trésor des pianistes 22.pdf">#423362</a> - <span style="color:red"><b>55.15</b></span>MB, 296 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-423362' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-423362'>
+	<a href='javascript:void(0)' id='423362' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='423362' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='423362' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='423362' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='423362' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-423362'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/423362/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/423362/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 41"><a href="/wiki/Special:GetFCtrStats/@423362" title="Special:GetFCtrStats/@423362">41</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Konrad_Stein" title="User:Konrad Stein">Konrad Stein</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Konrad_Stein" title="User:Konrad Stein">Konrad Stein</a> (2016/5/18)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><div id="IMSLP408465" class="we_file we_fileblock_1 we_file_hideentry">
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/408465"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&#160;</span></span>Volume 23</span></a></b><br />
+<span class="we_file_info2"><span class="hidden"><a href="/images/c/c1/PMLP446355-tresor_pianistes_23_bsb.pdf" class="internal" title="PMLP446355-tresor pianistes 23 bsb.pdf">*</a></span><a href="/wiki/File:PMLP446355-tresor_pianistes_23_bsb.pdf" title="File:PMLP446355-tresor pianistes 23 bsb.pdf">#408465</a> - <span style="color:red"><b>52.49</b></span>MB, 241 pp. <span class="mobilehide625">-&#160;<span class='inline-rating star-rating small-star'>
+	<span class='current-rating' id='current-rating-408465' style='width:0%;'>0.0/10</span>
+	<span id='ratelinks-408465'>
+	<a href='javascript:void(0)' id='408465' class='one-star'>2</a>
+	<a href='javascript:void(0)' id='408465' class='two-stars'>4</a>
+	<a href='javascript:void(0)' id='408465' class='three-stars'>6</a>
+	<a href='javascript:void(0)' id='408465' class='four-stars'>8</a>
+	<a href='javascript:void(0)' id='408465' class='five-stars'>10</a>
+	</span>
+</span> (<span id='num-of-ratings-408465'>-</span>)&#160;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/408465/Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)" title="Special:IMSLPEditCTag/408465/Le trésor des pianistes (Farrenc, Aristide)"><span style="color:green">V</span>/<span style="color:green">V</span>/<span style="color:green">V</span></a> </span>- <span title="Total number of downloads: 48"><a href="/wiki/Special:GetFCtrStats/@408465" title="Special:GetFCtrStats/@408465">48</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> scanned by <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.digital-collections.de/index.html?c=sammlungen&amp;kategorie_sammlung=8&amp;l=en"><span style="border-bottom:1px dotted black" title="Bayerische Staatsbibliothek">D-Mbs</span></a></span><br />
+<a href="/wiki/User:Coulonnus" title="User:Coulonnus">Coulonnus</a> (2016/1/25)</span>
+</p>
+</div>
+<div class="we_clear"></div>
+</div><table class="we_edition_info gainlayout"><tr><td class="we_edition_info_i gainlayout">
+<table border="0" style="border-collapse:collapse">
+
+<tr>
+<th>Editor
+</th>
+<td><a href="/wiki/Category:Farrenc,_Aristide" title="Category:Farrenc, Aristide">Aristide Farrenc</a>&#160;(1794-1865)<br /><a href="/wiki/Category:Farrenc,_Louise" title="Category:Farrenc, Louise">Louise Farrenc</a>&#160;(1804-1875)
+</td></tr>
+<tr>
+<th>Pub<span class="mh555">lisher</span><span class="ms555">.</span> Info.
+</th>
+<td>Paris: Farrenc, 1861-72.
+</td></tr>
+<tr>
+<th>Copyright
+</th>
+<td><div class="plainlinks"><a href="/wiki/IMSLP:Public_Domain" title="IMSLP:Public Domain" class="mw-redirect">Public Domain</a><span class="noanon">&#160;<small>[<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassTagger&amp;indexes=274838/274839/274840/274841/274842/274843/274844/274847/274848/274849/274851/274852/274853/274854/274855/274856/274857/274858/274859/274860/423362/408465">tag</a>/<a rel="nofollow" class="external text" href="http://imslp.org/index.php?title=Special:IMSLPMassImageDelete&amp;indexes=274838/274839/274840/274841/274842/274843/274844/274847/274848/274849/274851/274852/274853/274854/274855/274856/274857/274858/274859/274860/423362/408465">del</a>/<span id="fmrglnk" data-pdfstr="274838//274839//274840//274841//274842//274843//274844//274847//274848//274849//274851//274852//274853//274854//274855//274856//274857//274858//274859//274860//423362//408465/"><a rel="nofollow" class="external text" href="http://imslp.org">mrg</a></span>]</small></span></div>
+</td></tr>
+<tr>
+<th>Misc. Notes
+</th>
+<td>N.B. Vol. 21 is missing.
+</td></tr>
+<tr>
+<th><span class="mh555">Purchase</span>
+</th>
+<td><div class="imslpd_purchase mh555" title="274838">Javascript is required for this feature.</div><script>JGINITsearchbars['274838']={"pelink":"http:\/\/performersedition.com\/imslp_in.php?document=274838|274839|274840|274841|274842|274843|274844|274847|274848|274849|274851|274852|274853|274854|274855|274856|274857|274858|274859|274860|423362|408465&type=Volume%201%7CVolume%202%7CVolume%203%7CVolume%204%7CVolume%205%7CVolume%206%7CVolume%207%7CVolume%208%7CVolume%209%7CVolume%2010%7CVolume%2011%7CVolume%2012%7CVolume%2013%7CVolume%2014%7CVolume%2015%7CVolume%2016%7CVolume%2017%7CVolume%2018%7CVolume%2019%7CVolume%2020%7CVolume%2022%7CVolume%2023&pgcount=356|336|320|336|296|358|342|324|364|332|340|336|324|342|322|308|332|320|328|324|296|241&signature=0bebf0e1fd8658f91229b0899458aff0bfb31e3e"};</script>
+</td></tr></table>
+</td><td style="padding:0"><div class="we_thumb"><a href="/wiki/File:FarrencTresorTP.jpg" class="image"><img data-src="/images/thumb/1/1e/FarrencTresorTP.jpg/120px-FarrencTresorTP.jpg" width="120" height="174" /></a></div></td></tr></table></div><span class="na-marker" id="na-tabScore1" data-type="score" data-name="Scores" data-tabid="tabScore1"></span>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore2">
+<p><span class="na-marker" id="na-tabScore2" data-type="score" data-name="Parts" data-tabid="tabScore2"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabArrTrans">
+<p><span class="na-marker" id="na-tabArrTrans" data-type="score" data-name="Arrangements and Transcriptions" data-tabid="tabArrTrans"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore4">
+<p><span class="na-marker" id="na-tabScore4" data-type="score" data-name="Other" data-tabid="tabScore4"></span>
+</p>
+</div><div class="jq-ui-tabs hide-until-loaded" id="tabScore5">
+<p><span class="na-marker" id="na-tabScore5" data-type="source" data-name="Source Files" data-tabid="tabScore5"></span>
+</p>
+</div></div></span><span class="nojs2"><b>Javascript is required to submit files.</b></span>
+<h2> <span class="mw-headline" id="General_Information">General Information</span></h2>
+<div class="wi_body" style="width:100%">
+<table border="0">
+
+<tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Le trésor des pianistes
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Farrenc,_Aristide" title="Category:Farrenc, Aristide">Farrenc, Aristide</a>
+</td></tr>
+<tr class="udelonly" data-display="table-row">
+<th><span class="mh555">I-Catalogue Number</span><span class="ms555">I-Cat. No.</span>
+</th>
+<td>None <small>[<span class="icatassign">force assignment</span>]</small>
+</td></tr>
+<tr>
+<th><span class="mh555">Movements/Sections</span><span class="ms555">Mov'ts/Sec's</span>
+</th>
+<td>20 volumes, 3 supplements with already published scores.<br /><i>(N.B. This is a temporary list of content based on infos as they actually appear in the books.)</i>
+<ul><li>Volume 1 (1861)
+</li></ul>
+<ol><li>Emmanuel Bach&#160;: Six Sonates dédiées à Frédéric II, Roi de Prusse; 1er Livre (1740) (PDF p.98)
+</li><li>Emmanuel Bach&#160;: Six Sonates dédiées au Duc de Wirtemberg, 2e Livre (1742) (PDF p.146)
+</li><li>J. P. Rameau&#160;: 1er Livre de pièces de clavecin (20 pièces des suites en mi et en ré) (PDF p.206)
+</li><li>J. P. Rameau&#160;: 2e Livre de pièces de clavecin (16 pièces des suites en la et en sol) (PDF p.246)
+</li><li>F. Durante&#160;: Six Sonates pour le clavecin (PDF p.246)
+</li><li><a href="/wiki/Category:Porpora,_Nicola_Antonio" title="Category:Porpora, Nicola Antonio">N. Porpora</a>: <a href="/wiki/6_Fugues_(Porpora,_Nicola_Antonio)" title="6 Fugues (Porpora, Nicola Antonio)"><i>6 Fugues</i></a> (PDF p.328)
+</li></ol>
+<ul><li>Volume 2 (1861)
+</li></ul>
+<ol><li>Emmanuel Bach&#160;: Six Sonates, 3e Recueil (Nuremberg, 1744-1758) (PDF p.23)
+</li><li>Jean Kuhnau&#160;: Sept Sonates pour le clavecin (1696) (PDF p.75)
+</li><li>Henri Purcell&#160;: Recueil de pièces (Suites) (PDF p.133)
+</li><li>Dominique Scarlatti&#160;: Pièces pour le clavecin (26 sonates) (PDF p.167)
+</li><li>J. N. Hummel&#160;: Op. 8, Chanson Autrichienne variée (PDF p.247)
+</li><li>J. N. Hummel&#160;: Op. 9, Marche des <i>Deux Journées</i> (Cherubini), variée (PDF p.263)
+</li><li>J. N. Hummel&#160;: Op. 10, God Save the King, varié (PDF p.278)
+</li><li>J. N. Hummel&#160;: Op. 15, Air des <i>Deux Petits Savoyards</i> (Dalayrac), varié (PDF p.290)
+</li><li>Ole-Andres. Lindeman&#160;: 9 Pièces diverses pour le clavecin (PDF p.310)
+</li><li>Schwanenberg&#160;: Deux Menuets pour le clavecin ou le piano-forte (PDF p.326)
+</li></ol>
+<ul><li>Vol. 3 (1862)
+</li></ul>
+<ol><li>J.-B. Martini&#160;: Douze Sonates pour le clavecin ou l’orgue (1742) (PDF p.31)
+</li><li>François Couperin&#160;: 1er Livre de pièces (choix de 56 pièces) (PDF p.156)
+</li><li>J. N. Hummel&#160;: Op. 21, Chanson Hollandaise, variée (PDF p.238)
+</li><li>J. N. Hummel&#160;: Op. 40, Marche de <i>Cendrillon</i>, variée (PDF p.253)
+</li><li>J. N. Hummel&#160;: Op. 47, Gavotte d’<i>Armide</i> (Gluck), variée (PDF p.273)
+</li><li>J. N. Hummel&#160;: Op. 75, Adagio, Variations et Rondeau sur l’air anglais «&#160;The Pretty Polly&#160;» (La belle Marie) (PDF p.289)
+</li></ol>
+<ul><li>Vol. 4 (1863)
+</li></ul>
+<ol><li>Emmanuel Bach&#160;: Six Sonates, 4e recueil (PDF p.22)
+</li><li>Emmanuel Bach&#160;: Six Sonates, 5e recueil (PDF p.65)
+</li><li>G. F. Haendel&#160;: Suites de pièces (8 grandes suites), 1er Livre (PDF p.146)
+</li><li>G. F. Haendel&#160;: Suites de pièces (petites suites, chaconne), 2e Livre (PDF p.214)
+</li><li>G. F. Haendel&#160;: Suites de pièces (pièces diverses), 3e Livre (PDF p.285)
+</li><li>G. F. Haendel&#160;: 6 Fugues (1735) (PDF p.310)
+</li></ol>
+<ul><li>Vol. 5 (1863)
+</li></ul>
+<ol><li>J. de Chambonnières&#160;: Recueil de 31 pièces, 1er Livre (PDF p.26)
+</li><li>J. de Chambonnières&#160;: Recueil de 30 pièces, 2e Livre (PDF p.54)
+</li><li>Dominique Scarlatti&#160;: Pièces pour le clavecin (22 sonates 27-49) (PDF p.81)
+</li><li>Louis van Beethoven&#160;: 3 Sonates Op. 2 (PDF p.158)
+</li><li>Louis van Beethoven&#160;: Sonate en mi bémol Op. 7 (PDF p.213)
+</li><li>Louis van Beethoven&#160;: 3 Sonates Op. 10 (PDF p.241)
+</li></ol>
+<ul><li>Vol. 6 (1863)
+</li></ul>
+<ol><li>W. Byrd, J. Bull, O. Gibbons&#160;: Parthenia (PDF p.35)
+</li><li>Divers auteurs anglais des XVIe et XVIIe siècles (Byrd, Crofurd, Gibbons)&#160;: 1er Recueil  (PDF p.88)
+</li><li>W. Friedemann Bach&#160;: Douze Polonaises pour le clavecin (PDF p.112)
+</li><li>W. Friedemann Bach&#160;: Sonate pour le clavecin en Mi bémol, (1739) (PDF p.136)
+</li><li>Emmanuel Bach&#160;: Six Sonates pour le clavecin, 6e recueil (PDF p.147)
+</li><li>Louis van Beethoven&#160;: Sonate Pathétique Op. 13 (PDF p.197)
+</li><li>Louis van Beethoven&#160;: Deux Sonates Op. 14 (PDF p.220)
+</li><li>Louis van Beethoven&#160;: Grande Sonate Op. 22 (PDF p.247)
+</li><li>Louis van Beethoven&#160;: Grande Sonate Op. 26 (PDF p.272)
+</li><li>Louis van Beethoven&#160;: Deux Sonates Op. 27: <i>Sonata quasi una fantasia</i> (mi bémol) No 1 (PDF p.291); <i>Sonata quasi una fantasia</i> (do dièse mineur) No 2 (PDF p.312)
+</li><li>Louis van Beethoven&#160;: Sonate Op. 28 (PDF p.331)
+</li></ol>
+<ul><li>Vol. 7 (1864)
+</li></ul>
+<ol><li>Théophile Muffat&#160;: Sept Suites des <i>Componimenti Musicali per il Cembalo</i> (PDF p.33)
+</li><li>Georges Benda&#160;: <i>Sei Sonate per il Cembalo</i> (1757) (PDF p.147)
+</li><li>Emmanuel Bach&#160;: Six Sonates, 7e recueil (PDF p.196)
+</li><li>Louis van Beethoven&#160;: Trois Sonates pour le piano-forte Op. 31 (PDF p.239)
+</li><li>Louis van Beethoven&#160;: Deux Sonates pour le piano-forte Op. 49 (PDF p.315)
+</li></ol>
+<ul><li>Vol. 8 (1864)
+</li></ul>
+<ol><li>François Couperin&#160;: 2e Livre de pièces (choix de 53 pièces) (PDF p.28)
+</li><li>Dominique Scarlatti&#160;: Pièces pour le clavecin (27 sonates, 50-77) (PDF p.127)
+</li><li>Emmanuel Bach&#160;: Six Sonates pour le clavecin, 8e recueil (PDF p.218)
+</li><li>Emmanuel Bach&#160;: Six Sonates pour le clavecin, 9e recueil (PDF p.266)
+</li></ol>
+<ul><li>Vol. 9 (1865)
+</li></ul>
+<ol><li>W. Friedemann Bach&#160;: Huit Fugues pour le clavecin (PDF p.22)
+</li><li>J. Wilhelm Hæssler&#160;: Deux Fantaisies pour le clavecin ou le piano-forte (PDF p.46)
+</li><li>J. Wilhelm Hæssler&#160;: Six Sonates pour le clavecin ou le piano-forte (PDF p.61)
+</li><li>J. Wilhelm Hæssler&#160;: Quatre Solos (1786) pour le clavecin ou le piano-forte (PDF p.98)
+</li><li>Georges Muffat&#160;: Douze Toccates pour orgue «&#160;Apparatus-musico-organisticus&#160;» (1690) (PDF p.130)
+</li><li>Louis van Beethoven&#160;: Grande Sonate «Waldstein» Op. 53 (PDF p.202)
+</li><li>Louis van Beethoven&#160;: Sonate Op. 54 (PDF p.234)
+</li><li>Louis van Beethoven&#160;: Sonate «&#160;Appassionata&#160;» Op. 57 (PDF p.254)
+</li><li>Louis van Beethoven&#160;: Sonate Op. 78 (PDF p.286)
+</li><li>Louis van Beethoven&#160;: Sonatine «&#160;alla Tedesca&#160;» Op. 79 (PDF p.301)
+</li><li>Louis van Beethoven&#160;: Sonate Caractéristique «&#160;Les adieux&#160;» Op. 81 (PDF p.318)
+</li><li>Louis van Beethoven&#160;: Sonate Op. 90 (PDF p.342)
+</li></ol>
+<ul><li>Vol. 10 (1866)
+</li></ul>
+<ol><li>J. Georges Albrechtsberger&#160;: 12 Fugues pour le clavecin ou l’orgue tirées des Op. 1, 4 et 6 (PDF p.22)
+</li><li>Jean Kuhnau&#160;: Nouvel Exercice (Clavier-Übung), 7 suites pour clavecin (1695), 1re partie (PDF p.54)
+</li><li>Jean Kuhnau&#160;: Nouvel Exercice (Clavier-Übung), 7 suites pour clavecin (1703), 2e partie (PDF p.90)
+</li><li>W. Amédée Mozart&#160;: Six Sonates pour le piano-forte, 1er recueil (PDF p.134)
+</li><li>Muzio Clementi&#160;: Trois Sonates pour le piano-forte Op. 2 (PDF p.222)
+</li><li>Muzio Clementi&#160;: Deux Sonates Op. 7 no. 1 et no. 3 (PDF p.257)
+</li><li>J. Philippe Kirnberger&#160;: Six Fugues pour le clavecin ou l’orgue (1777) (PDF p.281)
+</li><li>J. Philippe Kirnberger&#160;: Diverses Pièces (1780) (PDF p.298)
+</li></ol>
+<ul><li>Vol. 11 (1866)
+</li></ul>
+<ol><li>Emmanuel Bach&#160;: Cinq Sonates et quatre Rondos, 10e recueil (PDF p.22)
+</li><li>Christophe Nichelmann&#160;: Cinq Sonates pour le clavecin (PDF p.73)
+</li><li>Christophe Nichelmann&#160;: Six Sonates brèves pour clavecin Op. 2 (PDF p.106)
+</li><li>Dominique Scarlatti&#160;: Pièces pour le clavecin (16 sonates, 78-94) (PDF p.137)
+</li><li>Jean Jacques Froberger&#160;: Cinq Caprices pour le clavecin ou l’orgue (1696) (PDF p.190)
+</li><li> Jean Jacques Froberger&#160;: Six Suites pour le clavecin (PDF p.218)
+</li><li>Jean Sébastien Bach&#160;: Exercices pour le clavecin (Clavier-Übung) divisés en six suites (partitas), Op. 1 (1726) (PDF p.246)
+</li></ol>
+<ul><li>Vol. 12 (1867)
+</li></ul>
+<ol><li>François Couperin&#160;: 3e Livre de pièces (choix de 37 pièces) (PDF p.19)
+</li><li>Jean Kuhnau&#160;: Toccata pour le clavecin (PDF p.86)
+</li><li>J. N. Hummel&#160;: Introduction et Rondeau pour le piano-forte Op. 19 (PDF p.98)
+</li><li>J. Philippe Kirnberger&#160;: Diverses pièces, 2e recueil (PDF p.114)
+</li><li>J. Philippe Kirnberger&#160;: Diverses pièces, 3e recueil (PDF p.157) (2 Caprices)
+</li><li>F. Vollrath Buttstedt&#160;: Deux Sonates pour le clavecin ou le piano-forte (PDF p.190)
+</li><li>J. Ernst Eberlin&#160;: Six Préludes et Fugues pour l’orgue ou le clavecin (1747) (PDF p.222)
+</li><li>L. van Beethoven&#160;: Sonate pour le piano-forte Op. 101 (PDF p.258)
+</li><li>L. van Beethoven&#160;: Grande Sonate pour le piano-forte Op. 106 (PDF p.282)
+</li></ol>
+<ul><li>Vol. 13 (1868)
+</li></ul>
+<ol><li>Girolamo Frescobaldi&#160;: Trois Fugues et six Canzone pour le clavecin ou l’orgue (PDF p.22)
+</li><li>W. Friedemann Bach&#160;: Une Suite et quatre Fantaisies pour le clavecin (PDF p.54)
+</li><li>W. Amédée Mozart&#160;: Trois Sonates pour le piano-forte, 2e recueil (PDF p.106)
+</li><li>Domenico Scarlatti&#160;: Pièces pour le clavecin (15 sonates, 95-110) (PDF p.153)
+</li><li>Joseph Haydn&#160;: Cinq Sonates pour le piano-forte, 1er recueil (PDF p.218)
+</li><li>C. P . Emmanuel Bach&#160;: Six Sonates pour le clavecin, 11e recueil (PDF p.277)
+</li></ol>
+<ul><li>Vol. 14 (1868)
+</li></ul>
+<ol><li>Jean Mattheson&#160;: Onze Suites pour le clavecin (1714) (PDF p.226)
+</li><li>Louis van Beethoven&#160;: Sonate pour le piano-forte Op. 109 (PDF p.85)
+</li><li>Louis van Beethoven&#160;: Sonate pour le piano-forte Op. 110 (PDF p.109)
+</li><li>Louis van Beethoven&#160;: Sonate pour le piano-forte Op. 111 (PDF p.134)
+</li><li>Jean Jacques Froberger&#160;: Huit Toccates pour le clavecin ou l’orgue (1696) (PDF p.161)
+</li><li>Jean Jacques Froberger&#160;: Six Suites pour le clavecin ou l’orgue (PDF p.282)
+</li><li>J. Georges Albrechtsberger&#160;: Dix-huit Fugues pour l’orgue ou le piano, 2e recueil (PDF p.210)
+</li><li>J. N. Hummel&#160;: Rondeau brillant pour le piano, Op. 109 (PDF p.257)
+</li><li>J. N. Hummel&#160;: Sonate pour le piano-forte, Op. 13 (PDF p.277)
+</li><li>F. Chrétien Fasch&#160;: Deux Sonates et une Pièce «La Cecchina&#160;» pour le clavecin (PDF p.306)
+</li><li>Jean Théophile Goldberg&#160;: Prélude et Fugue pour le clavecin (PDF p.327)
+</li></ol>
+<ul><li>Vol. 15 (1869)
+</li></ul>
+<ol><li>François Couperin&#160;: 4e Livre de pièces (choix de 43 pièces) (PDF p.19)
+</li><li>W. Amédée Mozart&#160;: Trois Sonates pour le piano-forte, 3e recueil (PDF p.90)
+</li><li>Jean Sébastien Bach&#160;: Six Grandes Suites appelées Suites Anglaises (PDF p.150)
+</li><li>J. N. Hummel&#160;: Sonate pour le piano-forte, Op. 20 (PDF p.187)
+</li><li>Dominique Zipoli&#160;: Pièces pour l’orgue Op. 1 (1716) (PDF p.268)
+</li><li>Dominique Zipoli&#160;: Pièces pour le clavecin Op. 1 (1716) (PDF p.295)
+</li></ol>
+<ul><li>Vol. 16 (1869)
+</li></ul>
+<ol><li>Charles-Marie de Weber&#160;: Quatre Grandes Sonates pour le piano-forte, Op. 24, 39, 49 et 70 (PDF p.25)
+</li><li>Dominique Scarlatti&#160;: Pièces pour le clavecin (20 sonates, 111-130) (PDF p.133)
+</li><li>L. Claude Daquin&#160;: (Choix de 16) Pièces de clavecin (1735) (PDF p.198)
+</li><li>J. Wilhelm Hæssler&#160;: Trois Sonates pour le clavecin (1776) (PDF p.234)
+</li><li>Frédéric Chopin&#160;: Neuf Nocturnes pour le piano (Op. 9, 15, 27, 32, 48, 55) (PDF p.266)
+</li></ol>
+<ul><li>Vol. 17 (1870)
+</li></ul>
+<ol><li>P. Dominique Paradies&#160;: Dix Sonates pour le clavecin (PDF p.22)
+</li><li>J. N. Hummel&#160;: Adagio de la Sonate Op. 38 pour le piano-forte (PDF p.82)
+</li><li>J. N. Hummel&#160;: Grande Sonate pour le piano-forte Op. 81 (PDF p.94)
+</li><li>J. J. Christophe Frédéric Bach&#160;: Sonates et diverses pièces (PDF p.137)
+</li><li>J. Louis Dussek&#160;: Trois Grandes Sonates pour le piano-forte Op. 35 (PDF p.190)
+</li><li>J. Louis Dussek&#160;: «&#160;Le retour à Paris&#160;» Sonate pour le piano-forte Op. 64 (PDF p.251)
+</li><li>Girolamo Frescobaldi&#160;: Diverses pièces pour le clavecin (du 2e Livre de Toccates, 1627) (PDF p.290)
+</li><li>Jean Louis Krebs&#160;: Trois Fugues pour le clavecin (PDF p.314)
+</li></ol>
+<ul><li>Vol. 18 (1870)
+</li></ul>
+<ol><li>Jean Chrétien Bach&#160;: Sept Sonates pour le clavecin ou piano-forte (PDF p.21)
+</li><li>L. van Beethoven&#160;: Six Airs variés pour le piano-forte (PDF p.80)
+</li><li>Jean Christophe Smith&#160;: Neuf Suites pour le clavecin (PDF p.163)
+</li><li>Muzio Clementi&#160;: Trois Sonates pour le piano-forte Op. 8 (PDF p.244)
+</li><li>Muzio Clementi&#160;: Quatre Sonates pour le piano-forte (Op. 9 no 3, Op. 10 nos 1 &amp; 3, Op. 14 no 3) (PDF p.270), et une Toccata (PDF p.310)
+</li></ol>
+<ul><li>Vol. 19 (1871)
+</li></ul>
+<ol><li>Henry d’Anglebert&#160;: Pièces de clavecin du 1er Livre (1689) (PDF p.23)
+</li><li>W. Amédée Mozart&#160;: Trois sonates pour le piano-forte, 4e recueil (PDF p.66)
+</li><li>Dominique Scarlatti&#160;: Pièces pour le clavecin (22 sonates, 131-152) (PDF p.117)
+</li><li>J. N. Hummel&#160;: Fantaisie pour le piano-forte Op. 18 (PDF p.178)
+</li><li>(Jacques) Duphly&#160;: Pièces de clavecin (1er Livre) (PDF p.214)
+</li><li>Ferdinand Ries&#160;: «&#160;L’infortunée&#160;» Grande Sonate Fantaisie pour le piano Op. 26 (PDF p.249)
+</li><li>Joseph Haydn&#160;: Cinq Sonates pour le piano-forte, 2e recueil (PDF p.278)
+</li></ol>
+<ul><li>Vol. 20 (1872), 20e et dernière livraison.
+</li></ul>
+<ol><li>Divers auteurs du XVIIe siècle&#160;: Pièces de clavecin ou pour l’orgue; Louis Couperin (PDF p.17), Antoine Le Bègue (PDF p.34), Bernardo Pasquini (PDF p.54), Gaspard de Kerl (PDF p.59) et Alexandre Scarlatti (PDF p.68)
+</li><li>Divers auteurs du XVIIIe siècle&#160;: Pièces de clavecin; François Dandrieu (PDF p.85), Benedetto Marcello (PDF p.100), G. Philippe Telemann (PDF p.110), Jean-Baptiste Pescetti (PDF p.126)
+</li><li>Claudio Merulo&#160;: Toccata pour l’orgue (1604) (PDF p.142)
+</li><li>Jean-Baptiste Cramer&#160;: Trois sonates pour clavecin ou piano, Op. 6 &amp; 8 (PDF p.154)
+</li><li>W. Amédée Mozart&#160;: Romance (en la bémol majeur) (PDF p.198)
+</li><li>Daniel Steibelt&#160;: Grande Sonate pour le piano-forte Op. 64 (PDF p.210)
+</li><li>Christophe Schaffrath&#160;: Deux Sonates pour le clavecin Op. 2 (PDF p.249)
+</li><li>J. G. Wernicke&#160;: Cinq pièces pour le clavecin ou le piano-forte (PDF p.274)
+</li><li>Félix Mendelssohn-Bartholdy&#160;: Rondo Capriccioso pour le piano Op. 14 (PDF p.294)
+</li><li>Félix Mendelssohn-Bartholdy&#160;: Trois Fantaisies ou Caprices pour le piano Op. 16 (PDF p.306)
+</li></ol>
+<p><b>Suppléments</b>
+</p>
+<ul><li>Vol. 21&#160;: (manque).
+</li></ul>
+<ul><li>Le Vol. 22 reprend toutes les œuvres de J. N. Hummel déjà publiées&#160;:
+</li></ul>
+<ol><li>Op. 8, Chanson Autrichienne variée 
+</li><li>Op. 9, Marche des Deux Journées (Cherubini), variée
+</li><li>Op. 10, God Save the King, varié
+</li><li>Op. 15, Air des Deux Petits Savoyards (Dalayrac), varié
+</li><li>Op. 21, Chanson Hollandaise, variée
+</li><li>Op. 40, Marche de Cendrillon, variée
+</li><li>Op. 47, Gavotte d’Armide (Gluck), variée
+</li><li>Op. 75, Adagio, Variations et Rondeau sur l’air anglais «&#160;La belle Marie) 
+</li><li>Op. 19, Introduction et Rondeau pour le piano-forte 
+</li><li>Op. 109, Rondeau brillant pour le piano
+</li><li>Op. 13, Sonate pour le piano-forte
+</li><li>Op. 20, Sonate pour le piano-forte
+</li><li>Op. 38, Adagio de la Sonate pour le piano-forte
+</li><li>Op. 81, Grande Sonate pour le piano-forte 
+</li><li>Op. 18, Fantaisie pour le piano-forte 
+</li></ol>
+<ul><li> Le Vol. 23 reprend des œuvres de la 1ère période du XIXe siècle déjà publiées&#160;:
+</li></ul>
+<ol><li>Ferdinand Ries&#160;: «&#160;L’infortunée&#160;» Grande Sonate Fantaisie pour le piano Op. 26
+</li><li>Charles-Marie de Weber&#160;: Quatre Grandes Sonates pour le piano-forte, Op. 24, 39, 49 et 70
+</li><li>Félix Mendelssohn-Bartholdy&#160;: Rondo Capriccioso pour le piano Op. 14
+</li><li>Félix Mendelssohn-Bartholdy&#160;: Trois Fantaisies ou Caprices pour le piano Op. 16
+</li><li>Frédéric Chopin&#160;: Neuf Nocturnes pour le piano (Op. 9, 15, 27, 32, 48, 55)
+</li></ol>
+</td></tr>
+<tr>
+<th>First Pub<span class="mh555">lication</span><span class="ms555">.</span>
+</th>
+<td>1861-72
+</td></tr>
+<tr>
+<th>Language
+</th>
+<td>French
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>piano, harpsichord
+</td></tr>
+<tr>
+<th>Templates
+</th>
+<td>{{<a href="/wiki/Template:FarrencTP" title="Template:FarrencTP">FarrencTP</a>|Vol.|Year|Plate|Page-range (opt.)}}
+</td></tr></table>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 2085/1000000
+Post-expand include size: 115285/2097152 bytes
+Template argument size: 3130/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key imslp_wiki:pcache:idhash:446355-0!*!0!!en!2!* and timestamp 20180414173714 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://imslp.org/index.php?title=Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)&amp;oldid=2558149">http://imslp.org/index.php?title=Le_tr%C3%A9sor_des_pianistes_(Farrenc,_Aristide)&amp;oldid=2558149</a>"</div>
+				</div>
+
+								<div class="category-links">
+				<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Scores_from_the_Internet_Archive" title="Category:Scores from the Internet Archive">Scores from the Internet Archive</a></li><li><a href="/wiki/Category:Scores_from_Bayerische_Staatsbibliothek" title="Category:Scores from Bayerische Staatsbibliothek">Scores from Bayerische Staatsbibliothek</a></li><li><a href="/wiki/Category:Farrenc,_Aristide/Editor" title="Category:Farrenc, Aristide/Editor">Farrenc, Aristide/Editor</a></li><li><a href="/wiki/Category:Farrenc,_Louise/Editor" title="Category:Farrenc, Louise/Editor">Farrenc, Louise/Editor</a></li><li><a href="/wiki/Category:Scores" title="Category:Scores">Scores</a></li><li><a href="/wiki/Category:Farrenc,_Aristide/Collections" title="Category:Farrenc, Aristide/Collections">Farrenc, Aristide/Collections</a></li><li><a href="/wiki/Category:Classical_style" title="Category:Classical style">Classical style</a></li><li><a href="/wiki/Category:Romantic" title="Category:Romantic">Romantic</a></li><li><a href="/wiki/Category:Pieces" title="Category:Pieces">Pieces</a></li><li><a href="/wiki/Category:For_piano" title="Category:For piano">For piano</a></li><li><a href="/wiki/Category:Scores_featuring_the_piano" title="Category:Scores featuring the piano">Scores featuring the piano</a></li><li><a href="/wiki/Category:For_1_player" title="Category:For 1 player">For 1 player</a></li><li><a href="/wiki/Category:For_harpsichord" title="Category:For harpsichord">For harpsichord</a></li><li><a href="/wiki/Category:Scores_featuring_the_harpsichord" title="Category:Scores featuring the harpsichord">Scores featuring the harpsichord</a></li><li><a href="/wiki/Category:Works_first_published_in_1861" title="Category:Works first published in 1861">Works first published in 1861</a></li><li><a href="/wiki/Category:Works_first_published_in_the_19th_century" title="Category:Works first published in the 19th century">Works first published in the 19th century</a></li><li><a href="/wiki/Category:Albrechtsberger,_Johann_Georg/Collections" title="Category:Albrechtsberger, Johann Georg/Collections">Albrechtsberger, Johann Georg/Collections</a></li><li><a href="/wiki/Category:Collections" title="Category:Collections">Collections</a></li><li><a href="/wiki/Category:D%27Anglebert,_Jean-Henri/Collections" title="Category:D'Anglebert, Jean-Henri/Collections">D'Anglebert, Jean-Henri/Collections</a></li><li><a href="/wiki/Category:Bach,_Carl_Philipp_Emanuel/Collections" title="Category:Bach, Carl Philipp Emanuel/Collections">Bach, Carl Philipp Emanuel/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Christian/Collections" title="Category:Bach, Johann Christian/Collections">Bach, Johann Christian/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Christoph_Friedrich/Collections" title="Category:Bach, Johann Christoph Friedrich/Collections">Bach, Johann Christoph Friedrich/Collections</a></li><li><a href="/wiki/Category:Bach,_Johann_Sebastian/Collections" title="Category:Bach, Johann Sebastian/Collections">Bach, Johann Sebastian/Collections</a></li><li><a href="/wiki/Category:Bach,_Wilhelm_Friedemann/Collections" title="Category:Bach, Wilhelm Friedemann/Collections">Bach, Wilhelm Friedemann/Collections</a></li><li><a href="/wiki/Category:Beethoven,_Ludwig_van/Collections" title="Category:Beethoven, Ludwig van/Collections">Beethoven, Ludwig van/Collections</a></li><li><a href="/wiki/Category:Benda,_Georg/Collections" title="Category:Benda, Georg/Collections">Benda, Georg/Collections</a></li><li><a href="/wiki/Category:Bull,_John/Collections" title="Category:Bull, John/Collections">Bull, John/Collections</a></li><li><a href="/wiki/Category:Buttstedt,_Franz_Vollrath/Collections" title="Category:Buttstedt, Franz Vollrath/Collections">Buttstedt, Franz Vollrath/Collections</a></li><li><a href="/wiki/Category:Byrd,_William/Collections" title="Category:Byrd, William/Collections">Byrd, William/Collections</a></li><li><a href="/wiki/Category:Chambonni%C3%A8res,_Jacques_Champion_de/Collections" title="Category:Chambonnières, Jacques Champion de/Collections">Chambonnières, Jacques Champion de/Collections</a></li><li><a href="/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric/Collections" title="Category:Chopin, Frédéric/Collections">Chopin, Frédéric/Collections</a></li><li><a href="/wiki/Category:Clementi,_Muzio/Collections" title="Category:Clementi, Muzio/Collections">Clementi, Muzio/Collections</a></li><li><a href="/wiki/Category:Couperin,_Fran%C3%A7ois/Collections" title="Category:Couperin, François/Collections">Couperin, François/Collections</a></li><li><a href="/wiki/Category:Couperin,_Louis/Collections" title="Category:Couperin, Louis/Collections">Couperin, Louis/Collections</a></li><li><a href="/wiki/Category:Cramer,_Johann_Baptist/Collections" title="Category:Cramer, Johann Baptist/Collections">Cramer, Johann Baptist/Collections</a></li><li><a href="/wiki/Category:Crofurd/Collections" title="Category:Crofurd/Collections">Crofurd/Collections</a></li><li><a href="/wiki/Category:Dandrieu,_Jean-Fran%C3%A7ois/Collections" title="Category:Dandrieu, Jean-François/Collections">Dandrieu, Jean-François/Collections</a></li><li><a href="/wiki/Category:Daquin,_Louis-Claude/Collections" title="Category:Daquin, Louis-Claude/Collections">Daquin, Louis-Claude/Collections</a></li><li><a href="/wiki/Category:Du_Phly,_Jacques/Collections" title="Category:Du Phly, Jacques/Collections">Du Phly, Jacques/Collections</a></li><li><a href="/wiki/Category:Durante,_Francesco/Collections" title="Category:Durante, Francesco/Collections">Durante, Francesco/Collections</a></li><li><a href="/wiki/Category:Dussek,_Jan_Ladislav/Collections" title="Category:Dussek, Jan Ladislav/Collections">Dussek, Jan Ladislav/Collections</a></li><li><a href="/wiki/Category:Eberlin,_Johann_Ernst/Collections" title="Category:Eberlin, Johann Ernst/Collections">Eberlin, Johann Ernst/Collections</a></li><li><a href="/wiki/Category:Fasch,_Karl_Friedrich_Christian/Collections" title="Category:Fasch, Karl Friedrich Christian/Collections">Fasch, Karl Friedrich Christian/Collections</a></li><li><a href="/wiki/Category:Frescobaldi,_Girolamo/Collections" title="Category:Frescobaldi, Girolamo/Collections">Frescobaldi, Girolamo/Collections</a></li><li><a href="/wiki/Category:Froberger,_Johann_Jacob/Collections" title="Category:Froberger, Johann Jacob/Collections">Froberger, Johann Jacob/Collections</a></li><li><a href="/wiki/Category:Gibbons,_Orlando/Collections" title="Category:Gibbons, Orlando/Collections">Gibbons, Orlando/Collections</a></li><li><a href="/wiki/Category:Goldberg,_Johann_Gottlieb/Collections" title="Category:Goldberg, Johann Gottlieb/Collections">Goldberg, Johann Gottlieb/Collections</a></li><li><a href="/wiki/Category:Handel,_George_Frideric/Collections" title="Category:Handel, George Frideric/Collections">Handel, George Frideric/Collections</a></li><li><a href="/wiki/Category:H%C3%A4ssler,_Johann_Wilhelm/Collections" title="Category:Hässler, Johann Wilhelm/Collections">Hässler, Johann Wilhelm/Collections</a></li><li><a href="/wiki/Category:Haydn,_Joseph/Collections" title="Category:Haydn, Joseph/Collections">Haydn, Joseph/Collections</a></li><li><a href="/wiki/Category:Hummel,_Johann_Nepomuk/Collections" title="Category:Hummel, Johann Nepomuk/Collections">Hummel, Johann Nepomuk/Collections</a></li><li><a href="/wiki/Category:Kerll,_Johann_Caspar/Collections" title="Category:Kerll, Johann Caspar/Collections">Kerll, Johann Caspar/Collections</a></li><li><a href="/wiki/Category:Kirnberger,_Johann_Philipp/Collections" title="Category:Kirnberger, Johann Philipp/Collections">Kirnberger, Johann Philipp/Collections</a></li><li><a href="/wiki/Category:Krebs,_Johann_Ludwig/Collections" title="Category:Krebs, Johann Ludwig/Collections">Krebs, Johann Ludwig/Collections</a></li><li><a href="/wiki/Category:Kuhnau,_Johann/Collections" title="Category:Kuhnau, Johann/Collections">Kuhnau, Johann/Collections</a></li><li><a href="/wiki/Category:Leb%C3%A8gue,_Nicolas/Collections" title="Category:Lebègue, Nicolas/Collections">Lebègue, Nicolas/Collections</a></li><li><a href="/wiki/Category:Lindeman,_Ole_Andreas/Collections" title="Category:Lindeman, Ole Andreas/Collections">Lindeman, Ole Andreas/Collections</a></li><li><a href="/wiki/Category:Marcello,_Benedetto/Collections" title="Category:Marcello, Benedetto/Collections">Marcello, Benedetto/Collections</a></li><li><a href="/wiki/Category:Martini,_Giovanni_Battista/Collections" title="Category:Martini, Giovanni Battista/Collections">Martini, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Mattheson,_Johann/Collections" title="Category:Mattheson, Johann/Collections">Mattheson, Johann/Collections</a></li><li><a href="/wiki/Category:Mendelssohn,_Felix/Collections" title="Category:Mendelssohn, Felix/Collections">Mendelssohn, Felix/Collections</a></li><li><a href="/wiki/Category:Merulo,_Claudio/Collections" title="Category:Merulo, Claudio/Collections">Merulo, Claudio/Collections</a></li><li><a href="/wiki/Category:Mozart,_Wolfgang_Amadeus/Collections" title="Category:Mozart, Wolfgang Amadeus/Collections">Mozart, Wolfgang Amadeus/Collections</a></li><li><a href="/wiki/Category:Muffat,_Georg/Collections" title="Category:Muffat, Georg/Collections">Muffat, Georg/Collections</a></li><li><a href="/wiki/Category:Muffat,_Gottlieb/Collections" title="Category:Muffat, Gottlieb/Collections">Muffat, Gottlieb/Collections</a></li><li><a href="/wiki/Category:Nichelmann,_Christoph/Collections" title="Category:Nichelmann, Christoph/Collections">Nichelmann, Christoph/Collections</a></li><li><a href="/wiki/Category:Paradies,_Pietro_Domenico/Collections" title="Category:Paradies, Pietro Domenico/Collections">Paradies, Pietro Domenico/Collections</a></li><li><a href="/wiki/Category:Pasquini,_Bernardo/Collections" title="Category:Pasquini, Bernardo/Collections">Pasquini, Bernardo/Collections</a></li><li><a href="/wiki/Category:Pescetti,_Giovanni_Battista/Collections" title="Category:Pescetti, Giovanni Battista/Collections">Pescetti, Giovanni Battista/Collections</a></li><li><a href="/wiki/Category:Porpora,_Nicola_Antonio/Collections" title="Category:Porpora, Nicola Antonio/Collections">Porpora, Nicola Antonio/Collections</a></li><li><a href="/wiki/Category:Purcell,_Henry/Collections" title="Category:Purcell, Henry/Collections">Purcell, Henry/Collections</a></li><li><a href="/wiki/Category:Rameau,_Jean-Philippe/Collections" title="Category:Rameau, Jean-Philippe/Collections">Rameau, Jean-Philippe/Collections</a></li><li><a href="/wiki/Category:Ries,_Ferdinand/Collections" title="Category:Ries, Ferdinand/Collections">Ries, Ferdinand/Collections</a></li><li><a href="/wiki/Category:Scarlatti,_Alessandro/Collections" title="Category:Scarlatti, Alessandro/Collections">Scarlatti, Alessandro/Collections</a></li><li><a href="/wiki/Category:Scarlatti,_Domenico/Collections" title="Category:Scarlatti, Domenico/Collections">Scarlatti, Domenico/Collections</a></li><li><a href="/wiki/Category:Schaffrath,_Christoph/Collections" title="Category:Schaffrath, Christoph/Collections">Schaffrath, Christoph/Collections</a></li><li><a href="/wiki/Category:Schwanenberger,_Johann_Gottfried/Collections" title="Category:Schwanenberger, Johann Gottfried/Collections">Schwanenberger, Johann Gottfried/Collections</a></li><li><a href="/wiki/Category:Smith,_John_Christopher/Collections" title="Category:Smith, John Christopher/Collections">Smith, John Christopher/Collections</a></li><li><a href="/wiki/Category:Steibelt,_Daniel/Collections" title="Category:Steibelt, Daniel/Collections">Steibelt, Daniel/Collections</a></li><li><a href="/wiki/Category:Telemann,_Georg_Philipp/Collections" title="Category:Telemann, Georg Philipp/Collections">Telemann, Georg Philipp/Collections</a></li><li><a href="/wiki/Category:Weber,_Carl_Maria_von/Collections" title="Category:Weber, Carl Maria von/Collections">Weber, Carl Maria von/Collections</a></li><li><a href="/wiki/Category:Wernicke,_Israel_Gottlieb/Collections" title="Category:Wernicke, Israel Gottlieb/Collections">Wernicke, Israel Gottlieb/Collections</a></li><li><a href="/wiki/Category:Zipoli,_Domenico/Collections" title="Category:Zipoli, Domenico/Collections">Zipoli, Domenico/Collections</a></li></ul></div></div>				<!-- /catlinks -->
+				</div>
+															</div><!-- container -->
+		</div>
+		<div class="bottom">
+			<div class="container">
+				<footer>
+					<p>Content is available under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 License</a>
+						&bull; Page visited <a href="/wiki/Special:GetFCtrStats/=Le_tr%C3%A9sor_des_pianistes_%28Farrenc%2C_Aristide%29">3,095 times</a> &bull; Powered by <a href="http://mediawiki.org">MediaWiki</a>
+						&bull; <a href="/wiki/Special:SwitchSkin/vector/Le%20tr%C3%A9sor%20des%20pianistes%20%28Farrenc%2C%20Aristide%29">Switch back to classic skin</a> 
+					</p>
+				</footer>
+			</div><!-- container -->
+		</div><!-- bottom -->
+<!-- Quantcast --><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-y4EbkRgwvQNQ8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><!-- EndQ -->
+		<script src="/load.php?debug=false&amp;lang=en&amp;modules=skins.bootstrapmediawiki&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script>wgUserPermissions={"delete":false,"copyrightreview":false};</script>
+<script src="/extensions/Slick/slick.min.js?303"></script>
+<script src="/extensions/common/jscss/IMSLPJS.D.js?18.6.10&amp;303"></script>
+<script src="/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=bootstrap-mediawiki&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"bootstrapmediawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+	"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: imslp_wiki:resourceloader:filter:minify-js:4:45d954c684379ca2eadbb9deef51c133 */
+}
+</script><!-- Served in 0.855 secs. --><!--[if lt IE 9]>  
+    <script src="/skins/bootstrap-mediawiki/ie8/html5shiv.js"></script>
+    <script src="/skins/bootstrap-mediawiki/ie8/respond.min.js"></script>
+<![endif]-->
+		</body>
+		<!-- Cached 20180414173714 -->
+</html>
+		
