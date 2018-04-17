@@ -137,7 +137,9 @@ def create_dir():
                 path = os.path.join(parent, piecename)
                 print('final dir:',path)
                 os.makedirs(path, exist_ok=True)
-                completeName = os.path.join(path, "html.txt")         
+                completeName = os.path.join(path, "html.txt")
+                if os.path.exists(completeName):
+                    break
                 file1 = open(completeName, "wb")
                 r = requests.get('http://imslp.org'+url)
                 file1.write(r.text.encode('utf-8'))
@@ -145,7 +147,10 @@ def create_dir():
 
             # # write a script to save pieces
             piece = 'pieces.txt'
-            text = open(os.path.join(parent, piece),"w+")
+            fullpath = os.path.join(parent, piece)
+            if os.path.exists(fullpath):
+                    break
+            text = open(fullpath,"w+")
             for item in score_links:
                 item = 'http://imslp.org'+item
                 text.write("%s\n" % item)
