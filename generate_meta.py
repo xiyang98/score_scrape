@@ -130,7 +130,7 @@ def create_dir():
     and for each composer, seperate score folder
     """
     badlinks = []
-    for url in open('results/people_url.txt'):
+    for url in open('results/people_url_starth.txt'):
         parent = 'results/composer/'+url[31:-1]
         print('write into: ', parent)
         score_links = find_score_url(url)
@@ -160,6 +160,8 @@ def create_dir():
                 item = 'http://imslp.org'+item
                 text.write("%s\n" % item)
             text.close()
+    print("badlinks:",badlinks)
+    return badlinks
         # except:
         #     pass
 
