@@ -136,7 +136,7 @@ def create_dir():
         score_links = find_score_url(url)
         if score_links == "badlink":
             badlinks += url
-        if score_links != []:
+        elif score_links != []:
             for url in score_links:
                 piecename = url[6:url.find('(')]
                 path = os.path.join(parent, piecename)
