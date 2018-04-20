@@ -48,3 +48,4 @@ def getSizes():
                 fileNumSize = int(filesize)
                 runningFileSize += fileNumSize
     return runningFileSize
+getSizes()
