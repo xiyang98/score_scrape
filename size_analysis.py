@@ -40,7 +40,7 @@ def getSizes():
                 elif a[2] == ' ':
                     filesize = a[3][3:a[2].find(",")]
                     filesize = filesize[0:filesize.find('M')]
-                elif a[2] == ' ' and a[3] == ' - ':
+                elif a[3] == ' - ':
                     filesize = a[4]
                 else:
                     filesize = a[2][3:a[2].find(",")] #will prob include the MB
