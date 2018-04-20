@@ -34,19 +34,29 @@ def getSizes():
                 runningFileSize = 0
                 fileNumSize = 0
                 filesize = 0
+
+                if 'MB' in a[4][0:2]:
+                    filesize = a[3]
+                elif a[2] == ' ':
+                    filesize = a[3][3:a[2].find(",")]
+                    filesize = filesize[0:filesize.find('M')]
+                else:
+                    filesize = a[2][3:a[2].find(",")] #will prob include the MB
+                    filesize = filesize[0:filesize.find('M')]
+
+
                 # get filesize, take care of possible ways it is stored in array a
                 # MB might be in the same index w/ the number, or in the next index
-                for i in range(0,len(a)):
-                    print('loop')
-                    if 'MB' in a[i][0:2]:
-                        #this is if MB is at the beginning of the thing in a, in case it's not in sm index
-                        filesize = a[i-1]
-                        break
-                    #below works only if nice, first iterate thru a
-                    else:
-                        filesize = a[2][3:a[2].find(",")] #will prob include the MB
-                        filesize = filesize[0:filesize.find('M')] #chop off the 'MB' from the string
-                        break
+                # for i in range(0,len(a)):
+                #     print('loop')
+                #     if 'MB' in a[i][0:2]:
+                #         #this is if MB is at the beginning of the thing in a, in case it's not in sm index
+                #         filesize = a[i-1]
+                #     #below works only if nice, first iterate thru a
+                #     else:
+                #         filesize = a[2][3:a[2].find(",")] #will prob include the MB
+                #         filesize = filesize[0:filesize.find('M')] #chop off the 'MB' from the string
+
 
                 fileNumSize = float(filesize)
                 print("filesize is: ",fileNumSize)
