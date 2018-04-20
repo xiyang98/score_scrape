@@ -169,6 +169,8 @@ def create_dir():
 def parse_data():
     for url in open('results/composer_url.txt'):
         parent = 'composer/'+url[31:-1]
+        piecetxt = os.path.joint(parent,'pieces.txt')
+        score_links = open(piecetxt)
         for url in score_links:
             piecename = url[6:url.find('(')]
             path = os.path.join(parent, piecename)
