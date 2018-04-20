@@ -11,7 +11,7 @@ import re
 import os
 
 def getSizes():
-    for url in open('results/composer_url.txt'):
+    for url in open('results/people_url.txt'):
         parent = 'results/composer/'+url[31:-1]
         for url in score_links:
             piecename = url[6:url.find('(')]
