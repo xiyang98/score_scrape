@@ -11,6 +11,9 @@ import re
 import os
 
 def getSizes():
+    runningFileSize = 0
+    fileNumSize = 0
+    filesize = 0
     for url in open('results/people_url.txt'):
         parent = 'results/composer/'+url[31:-1]
         piecetxt = os.path.join(parent,'pieces.txt')
@@ -29,11 +32,6 @@ def getSizes():
                 print(a)
                 fileID = a[1]
                 print("fileID is : ",fileID)
-
-
-                runningFileSize = 0
-                fileNumSize = 0
-                filesize = 0
 
                 if 'MB' in a[4][0:2]:
                     filesize = a[3]
