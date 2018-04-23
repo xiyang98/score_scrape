@@ -17,34 +17,36 @@ def getSizes():
     for url in open('results/people_url.txt'):
         parent = 'results/composer/'+url[31:-1]
         piecetxt = os.path.join(parent,'pieces.txt')
-        score_links = open(piecetxt)
+        score_links = open(piecetxt, errors = 'ignore')
+
         for url in score_links:
             piecename = url[22:url.find('(')]
             path = os.path.join(parent, piecename)
             completeName = os.path.join(path, "html.txt")     
             print(completeName)
-            text = open(completeName, "r")  
-            soup = bsoup(text.read(), "html.parser")
-            # get ID and size
-            result = soup.find_all('span', class_='we_file_info2')
-            for piece in result:
-                a = piece.find_all(string=True)
-                print(a)
-                fileID = a[1]
-                print("fileID is : ",fileID)
-
-                if 'MB' in a[4][0:2]:
-                    filesize = a[3]
-                elif a[2] == ' ' :
-                    if a[3] == ' - ':
-                        filesize = a[4]
-                    else:
-                        filesize = a[3][3:a[2].find(",")]
-                        filesize = filesize[0:filesize.find('M')]
-                else:
-                    filesize = a[2][3:a[2].find(",")] #will prob include the MB
-                    filesize = filesize[0:filesize.find('M')]
-
+            try:
+                with open(completeName, "r") as text:
+                    soup = bsoup(text.read(), "html.parser")
+                    # get ID and size
+                    result = soup.find_all('span', class_='we_file_info2')
+                    for piece in result:
+                        a = piece.find_all(string=True)
+                        print(a)
+                        fileID = a[1]
+                        print("fileID is : ",fileID)
+                        if 'MB' in a[4][0:2]:
+                            filesize = a[3]
+                        elif a[2] == ' ' :
+                            if a[3] == ' - ':
+                                filesize = a[4]
+                            else:
+                                filesize = a[3][3:a[2].find(",")]
+                                filesize = filesize[0:filesize.find('M')]
+                        else:
+                            filesize = a[2][3:a[2].find(",")] #will prob include the MB
+                            filesize = filesize[0:filesize.find('M')]
+            except Exception:
+                print('not found')
 
                 # get filesize, take care of possible ways it is stored in array a
                 # MB might be in the same index w/ the number, or in the next index
