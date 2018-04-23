@@ -60,9 +60,9 @@ def getSizes():
                 #         filesize = a[2][3:a[2].find(",")] #will prob include the MB
                 #         filesize = filesize[0:filesize.find('M')] #chop off the 'MB' from the string
 
-                print(filesize)
                 fileNumSize = float(filesize)
                 print("filesize is: ",fileNumSize)
                 runningFileSize += fileNumSize
+                print("full size is: ", runningFileSize)
     return runningFileSize
 getSizes()
