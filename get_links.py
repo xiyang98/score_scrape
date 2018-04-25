@@ -60,16 +60,14 @@ def download_file(url):
         current_link = link.get('href')
         if current_link != None and current_link.endswith('pdf'):
             print(current_link)
-    current_link = 'http://imslp.org/wiki/Special:IMSLPDisclaimerAccept/88875'
+    current_link = 'http://imslp.org/wiki/Special:IMSLPDisclaimerAccept/162652'
     req = s.get(current_link)
     text = open("test.html","w")
     text.write(req.text)
     text.close()
-    #print(req.text)
-    # for r in r.history:
-    #     print (r.status_code, r.url)
 
-    with open(local_filename, 'wb') as f:
+
+    with open(local_filename+'.pdf', 'wb') as f:
         for chunk in req.iter_content(chunk_size=1024):
             if chunk:
                 f.write(chunk)
@@ -77,10 +75,8 @@ def download_file(url):
 
 
 if __name__=='__main__':
-    base_url = "http://imslp.org/wiki/Floating_Islands_(Aadler,_C._A.)"
-    paths = sort_pdf(base_url)
-    for path in paths:
-        download_file(path)
+    url = 'http://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott%2C_BWV_80b_(Bach%2C_Johann_Sebastian)'
+    download_file(url)
 
 
 # http://ks.imslp.info/files/imglnks/usimg/c/cc/IMSLP299555-PMLP485142-AadlerCA_FloatingIslandsWaltz.pdf
