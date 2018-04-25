@@ -29,22 +29,23 @@ def getSizes():
                             soup = bsoup(text.read(), "html.parser")
                             # get ID and size
                             result = soup.find_all('span', class_='we_file_info2')
-                            for piece in result:
-                                a = piece.find_all(string=True)
-                                print(a)
-                                fileID = a[1]
-                                print("fileID is : ",fileID)
-                                if 'MB' in a[4][0:2]:
-                                    filesize = a[3]
-                                elif a[2] == ' ' :
-                                    if a[3] == ' - ':
-                                        filesize = a[4]
-                                    else:
-                                        filesize = a[3][3:a[2].find(",")]
-                                        filesize = filesize[0:filesize.find('M')]
-                                else:
-                                    filesize = a[2][3:a[2].find(",")] #will prob include the MB
-                                    filesize = filesize[0:filesize.find('M')]
+                            for i in range (0,len(result)):
+                                    if 'pdf' in str(result[i]):
+                                        a = result[i].find_all(string=True)
+                                        print(a)
+                                        fileID = a[1]
+                                        print("fileID is : ",fileID)
+                                        if 'MB' in a[4][0:2]:
+                                            filesize = a[3]
+                                        elif a[2] == ' ' :
+                                            if a[3] == ' - ':
+                                                filesize = a[4]
+                                            else:
+                                                filesize = a[3][3:a[2].find(",")]
+                                                filesize = filesize[0:filesize.find('M')]
+                                        else:
+                                            filesize = a[2][3:a[2].find(",")] #will prob include the MB
+                                            filesize = filesize[0:filesize.find('M')]
                     except Exception:
                         print('not found')
                     fileNumSize = float(filesize)
