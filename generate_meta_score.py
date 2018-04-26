@@ -219,6 +219,7 @@ def download_score_test(download = 0):
             p = s.post(login_url, data = payload, cookies=cookies)
             cookies = requests.utils.dict_from_cookiejar(s.cookies)
             try:
+            
                 score_links = open(piecetxt)
                 for url in score_links:
                         piecename = url[22:url.find('(')]
@@ -247,8 +248,8 @@ def download_score_test(download = 0):
                                                     f.write(chunk)
                         except IOError:
                             print('html.txt not found')
-                except IOError:
-                    print('pieces.txt not found')
+            except IOError:
+                print('pieces.txt not found')
 
 
 # def create_piece_dir():
