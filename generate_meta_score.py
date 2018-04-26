@@ -9,6 +9,8 @@ import http.cookiejar
 from bs4 import BeautifulSoup as bsoup
 import re
 import os
+import time
+
 
 def next_url(href):
     return href and re.compile("subcatfrom").search(href)
@@ -199,13 +201,13 @@ def download_file(local_filename, download_link):
     helper function
     """
     # Login process
+    time.sleep(5)
     login_url = 'https://imslp.org/index.php?title=Special:UserLogin&returnto=Main%20Page'
     with requests.Session() as s:
         r = s.get(login_url)
         cookies = dict(r.cookies)
         response = r.content
         soup = bsoup(response,"html.parser")
-        print(soup)
         token = soup.find_all("input",{"name":"wpLoginToken"})[0]['value']
         payload = {
             'wpName': 'ttsai@g.hmc.edu',
@@ -216,7 +218,7 @@ def download_file(local_filename, download_link):
         login_url = 'https://imslp.org/index.php?title=Special:UserLogin&action=submitlogin&type=login&returnto=Main%20Page'
         headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
         p = s.post(login_url, data = payload, cookies=cookies)
-    # print(p.text)
+        # print(p.text)
         req = s.get(download_link)
         with open(local_filename, 'wb') as f:
             for chunk in req.iter_content(chunk_size=1024):
