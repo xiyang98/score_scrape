@@ -194,62 +194,66 @@ def download_score():
         except Exception:
             print('not found')
 
-def download_score_test(download = 0):
-    current_link = 'http://imslp.org/wiki/Special:IMSLPDisclaimerAccept/'
+def download_file(local_filename, download_link):
+    """
+    helper function
+    """
     # Login process
     login_url = 'https://imslp.org/index.php?title=Special:UserLogin&returnto=Main%20Page'
+    with requests.Session() as s:
+        r = s.get(login_url)
+        cookies = dict(r.cookies)
+        response = r.content
+        soup = bsoup(response,"html.parser")
+        token = soup.find("input",{"name":"wpLoginToken"})['value']
+        payload = {
+            'wpName': 'ttsai@g.hmc.edu',
+            'wpPassword': 'ScoreData2018!',
+            'wpLoginAttempt':'Log in',
+            'wpLoginToken': token
+        }
+        login_url = 'https://imslp.org/index.php?title=Special:UserLogin&action=submitlogin&type=login&returnto=Main%20Page'
+        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+        p = s.post(login_url, data = payload, cookies=cookies)
+    # print(p.text)
+        req = s.get(download_link)
+        with open(local_filename, 'wb') as f:
+            for chunk in req.iter_content(chunk_size=1024):
+                if chunk:
+                    f.write(chunk)
+            return local_filename
+
+def download_score_test(download = 0):
+    current_link = 'http://imslp.org/wiki/Special:IMSLPDisclaimerAccept/'
     for url in open('results/people_url.txt'):
         parent = 'results/composer/'+url[31:-1]
         piecetxt = os.path.join(parent,'pieces.txt')
-        with requests.Session() as s:
-            #s = requests.Session()
-            r = s.get(login_url)
-            cookies = dict(r.cookies)
-            response = r.content
-            soup = bsoup(response,"html.parser")
-            token = soup.find("input",{"name":"wpLoginToken"})['value']
-            payload = {
-                'wpName': 'ttsai@g.hmc.edu',
-                'wpPassword': 'ScoreData2018!',
-                'wpLoginAttempt':'Log in',
-                'wpLoginToken': token
-            }
-            login_url = 'https://imslp.org/index.php?title=Special:UserLogin&action=submitlogin&type=login&returnto=Main%20Page'
-            headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
-            p = s.post(login_url, data = payload, cookies=cookies)
-            cookies = requests.utils.dict_from_cookiejar(s.cookies)
-            try:
-            
-                score_links = open(piecetxt)
-                for url in score_links:
-                        piecename = url[22:url.find('(')]
-                        path = os.path.join(parent, piecename)
-                        completeName = os.path.join(path, "html.txt")     
-                        print(completeName)
-                        try:
-                            text = open(completeName, "r")
-                            soup = bsoup(text.read(), "html.parser")
-                            # get ID
-                            result = soup.find_all('span', class_='we_file_info2')
-                            for i in range(0, len(result)):
-                                if 'pdf' in str(result[i]):
-                                    a = result[i].find_all(string=True)
-                                    fileID = a[1]
-                                    cleanID = fileID[fileID.find('#')+1:]
-                                    print("fileID is : ",cleanID)
-                                    if download == 1: # download the pdf file
-                                        local_filename = os.path.join(path, cleanID+'.pdf')
-                                        print(local_filename)
-                                        with open(local_filename, 'wb') as f:
-                                            req = s.get(current_link+cleanID)
-                                            print(current_link+cleanID)
-                                            for chunk in req.iter_content(chunk_size=1024):
-                                                if chunk:
-                                                    f.write(chunk)
-                        except IOError:
-                            print('html.txt not found')
-            except IOError:
-                print('pieces.txt not found')
+        try:
+            score_links = open(piecetxt)
+            for url in score_links:
+                    piecename = url[22:url.find('(')]
+                    path = os.path.join(parent, piecename)
+                    completeName = os.path.join(path, "html.txt")     
+                    print(completeName)
+                    try:
+                        text = open(completeName, "r")
+                        soup = bsoup(text.read(), "html.parser")
+                        # get ID
+                        result = soup.find_all('span', class_='we_file_info2')
+                        for i in range(0, len(result)):
+                            if 'pdf' in str(result[i]):
+                                a = result[i].find_all(string=True)
+                                fileID = a[1]
+                                cleanID = fileID[fileID.find('#')+1:]
+                                print("fileID is : ",cleanID)
+                                if download == 1: # download the pdf file
+                                    local_filename = os.path.join(path, cleanID+'.pdf')
+                                    download_link = current_link+cleanID
+                                    download_file(local_filename,download_link)
+                    except IOError:
+                        print('html.txt not found')
+        except IOError:
+            print('pieces.txt not found')
 
 
 # def create_piece_dir():
