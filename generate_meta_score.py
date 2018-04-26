@@ -205,6 +205,7 @@ def download_file(local_filename, download_link):
         cookies = dict(r.cookies)
         response = r.content
         soup = bsoup(response,"html.parser")
+        print(soup)
         token = soup.find_all("input",{"name":"wpLoginToken"})[0]['value']
         payload = {
             'wpName': 'ttsai@g.hmc.edu',
