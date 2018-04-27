@@ -31,9 +31,11 @@ def count_score_num():
                                 count += 1
                         print('till',piecename,':',count)
                     except IOError:
-                        print('html.txt not found')
+                        continue
+                        #print('html.txt not found')
         except IOError:
-            print('pieces.txt not found')
+            continue
+            #print('pieces.txt not found')
 
 
 
